@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches: [lab-aligerado]
-    paths: ['.github/workflows/inspeccionar-ui-2024.yml']
+    paths: ['.github/workflows/inspeccionar-ui-2024.yml', 'LAB_TRIGGER']
 permissions:
   contents: write
 jobs:
