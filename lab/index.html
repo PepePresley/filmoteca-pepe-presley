@@ -237,6 +237,16 @@ body.festivalMode .festivalHub{margin-top:10px}
 /* Festival card badges: typography only. Festival identity belongs to the page chrome, not every poster. */
 .festAward svg,.festAward .miniFestIcon,.festMovie .miniFestIcon,.micro .miniFestIcon,.festivalBadge .miniFestIcon{display:none!important}
 .festAward{letter-spacing:.01em}
+
+.awardGlyph{display:inline-flex;align-items:center;justify-content:center;vertical-align:-1px;margin-right:6px;color:#e8c760;flex:0 0 auto}
+.medalGlyph{width:11px;height:11px;border:2px solid #e8c760;border-radius:50%;box-sizing:border-box;position:relative}
+.medalGlyph:before,.medalGlyph:after{content:"";position:absolute;top:-7px;width:4px;height:7px;background:#e8c760}
+.medalGlyph:before{left:0;transform:skew(-18deg)}.medalGlyph:after{right:0;transform:skew(18deg)}
+.palmGlyph{font-family:Georgia,serif;font-size:18px;line-height:10px;transform:rotate(-18deg)}
+.competitionGlyph{width:13px;height:9px;border:1px solid #b9b4aa;color:transparent;position:relative}
+.competitionGlyph:before{content:"";position:absolute;left:-1px;top:-5px;width:13px;height:4px;border:1px solid #b9b4aa;transform:skew(-18deg)}
+.festAward{display:flex;align-items:center}
+
 </style>
 </head>
 <body>
@@ -447,7 +457,12 @@ function cleanAwardLabel(s){
   .replace(/\\s{2,}/g,' ')
   .trim();
 }
-function awardMark(s){return String(s||'').includes('En competición')?'<span class="awardMark">◆</span>':'<span class="awardMark laureate">●</span>'}
+function awardMark(s){
+ const a=cleanAwardLabel(s);
+ if(/Palma de Oro/i.test(a)) return '<span class="awardGlyph palmGlyph">❧</span>';
+ if(/En competición/i.test(a)) return '<span class="awardGlyph competitionGlyph">▰</span>';
+ return '<span class="awardGlyph medalGlyph">●</span>';
+}
 
 const FESTIVAL_MISSING = [{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"MATJ (ZAPRECHTCHIONNYE LIOUDI)","director":"Gleb Panfilov","year":1990,"award":"🎨 Mejor contribución artística"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"SHI NO TOGE","director":"Kohei Oguri","year":1990,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"TILAI","director":"Idrissa Ouedraogo","year":1990,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"UCHO","director":"Karel Kachyna","year":1990,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"ANNA KARAMAZOVA","director":"Roustam Khamdamov","year":1991,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"BIAN ZOU BIAN CHANG (LIFE ON A STRING)","director":"Kaige Chen","year":1991,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"EUROPA","director":"Lars von Trier","year":1991,"award":"⚖ Premio del Jurado · ex aequo"},{"festival":"Cannes","festival_year":1992,"section":"Competición oficial","title":"AU PAYS DES JULIETS","director":"Mehdi Charef","year":1992,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"BROKEN HIGHWAY","director":"Laurie McInnes","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"FRAUDS","director":"Stephan Elliott","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"LA SCORTA","director":"Ricky Tognazzi","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"LOUIS, ENFANT ROI","director":"Roger Planchon","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"MAGNIFICAT","director":"Pupi Avati","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"MAZEPPA","director":"Bartabas","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"DULI SHIDAI","director":"Edward Yang","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"KOUROTCHKA RIABA","director":"Andrei Konchalovsky","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"LE BUTTANE","director":"Aurelio Grimaldi","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"SWAHAM","director":"Shaji N. Karun","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Dead Man","director":"Jim Jarmusch","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Senatorul Melcilor","director":"Mircea Daneliuc","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Sharaku","director":"Masahiro Shinoda","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Waati","director":"Souleymane Cissé","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1996,"section":"Competición oficial","title":"Po Di Sangui","director":"Flora Gomes","year":1996,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1996,"section":"Competición oficial","title":"Temptress Moon","director":"Chen Kaige","year":1996,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1997,"section":"Competición oficial","title":"The Well","director":"Samantha Lang","year":1997,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1999,"section":"Competición oficial","title":"Ghesse Haye Kish","director":"Nasser Taghvai, Mohsen Makhmalbaf, Abolfazl Jalili","year":1999,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1999,"section":"Competición oficial","title":"Love Will Tear Us Apart","director":"Yu Lik-wai","year":1999,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"A HERO","director":"Asghar Farhadi","year":2021,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"COMPARTMENT NO. 6","director":"Juho Kuosmanen","year":2021,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"THE WORST PERSON IN THE WORLD","director":"Joachim Trier","year":2021,"award":"🎭 Mejor actriz · Renate Reinsve"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"THE EIGHT MOUNTAINS","director":"Felix van Groeningen, Charlotte Vandermeersch","year":2022,"award":"⚖ Premio del Jurado · ex aequo"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"HOLY SPIDER","director":"Ali Abbasi","year":2022,"award":"🎭 Mejor actriz · Zar Amir Ebrahimi"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"BOY FROM HEAVEN","director":"Tarik Saleh","year":2022,"award":"✍️ Mejor guion · Tarik Saleh"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"TORI AND LOKITA","director":"Jean-Pierre Dardenne, Luc Dardenne","year":2022,"award":"🏅 Premio 75º aniversario"}];
 /* Premio limpio en origen: ninguna vista debe volver a recibir emojis */
@@ -541,7 +556,7 @@ function render(){
    </div>
    <div class="cardInfo"><div class="title">${esc(r.t)}</div>${r.o?`<div class="original">${esc(r.o)}</div>`:''}
     <div class="meta">${r.y||'—'}${r.d?' · '+esc(r.d):''}</div>
-    <div class="micro">${r.dur?`<span class="tag">${r.dur} min</span>`:''}${r.h?`<span class="tag">${r.h}p</span>`:''}${genresOf(r)[0]?`<span class="tag">${esc(genresOf(r)[0])}</span>`:''}${FESTIVAL_BY_IDX.has(DATA.indexOf(r))?(()=>{const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));return `<span class="tag" style="border-color:#7c6535;color:#e7c97e">${ft.festival} ${ft.festival_year}</span><span class="tag" style="${ft.award.includes('En competición')?'border-color:#4f4b43;color:#bdb6aa':'border-color:#8c6e25;color:#ffd978'}">${esc(cleanAwardLabel(ft.award))}</span>`})():''}</div>
+    <div class="micro">${r.dur?`<span class="tag">${r.dur} min</span>`:''}${r.h?`<span class="tag">${r.h}p</span>`:''}${genresOf(r)[0]?`<span class="tag">${esc(genresOf(r)[0])}</span>`:''}${FESTIVAL_BY_IDX.has(DATA.indexOf(r))?(()=>{const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));return `<span class="tag" style="border-color:#7c6535;color:#e7c97e">${ft.festival} ${ft.festival_year}</span><span class="tag" style="${ft.award.includes('En competición')?'border-color:#4f4b43;color:#bdb6aa':'border-color:#8c6e25;color:#ffd978'}">${awardMark(ft.award)}${esc(cleanAwardLabel(ft.award))}</span>`})():''}</div>
    </div>`;
   c.onclick=()=>openModal(r); frag.appendChild(c);
  });
@@ -569,7 +584,7 @@ function render(){
 function badgeHtml(r){const s=sourceOf(r);return `<span class="sourceBadge ${s}" style="position:static;display:inline-block">${sourceLabel(s)}</span>${isDup(r)?' <span class="dupBadge" style="position:static;display:inline-block">DUPLICADA</span>':''}`}
 function openModal(r){
  const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));
- $('modalSource').innerHTML=badgeHtml(r)+(ft?` <span class="festivalBadge">${ft.festival} ${ft.festival_year} · ${ft.section}</span>${ft.award?` <span class="${ft.award.includes('sin premio')?'selectionBadge':'awardBadge'}">${esc(cleanAwardLabel(ft.award))}</span>`:''}`:'');$('modalTitle').textContent=r.t||'Sin título';$('modalOrig').textContent=r.o||'';
+ $('modalSource').innerHTML=badgeHtml(r)+(ft?` <span class="festivalBadge">${ft.festival} ${ft.festival_year} · ${ft.section}</span>${ft.award?` <span class="${ft.award.includes('sin premio')?'selectionBadge':'awardBadge'}">${awardMark(ft.award)}${esc(cleanAwardLabel(ft.award))}</span>`:''}`:'');$('modalTitle').textContent=r.t||'Sin título';$('modalOrig').textContent=r.o||'';
  $('modalPoster').style.backgroundImage=r.p?`url("${r.p.replace(/"/g,'')}")`:'none';
  const details=[['Año',r.y],['Director',r.d],['País',r.pais],['Género',r.g],['Duración',r.dur?`${r.dur} min`:null],['Resolución',r.res],['Tamaño',r.sz],['Archivo',r.arch],['Nota',r.n]];
  $('detailGrid').innerHTML=details.filter(x=>x[1]).map(x=>`<div class="k">${esc(x[0])}</div><div class="v">${esc(x[1])}</div>`).join('');
@@ -637,13 +652,13 @@ function renderFestivalEdition(fy){
    const el=document.createElement('article'); el.className='festMovie';
    const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
    const selection=ft.award.includes('En competición');
-   el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+'<div class="festAward '+(selection?'selection':'')+'">'+esc(cleanAwardLabel(ft.award))+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
+   el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+'<div class="festAward '+(selection?'selection':'')+'">'+awardMark(ft.award)+esc(cleanAwardLabel(ft.award))+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
    el.onclick=()=>openModal(r); grid.appendChild(el);
  });
  missing.forEach(x=>{
    const el=document.createElement('article'); el.className='festMovie festMissing';
    const selection=x.award.includes('En competición');
-   el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span>🎞<br>'+esc(x.title)+'<div class="festAward '+(selection?'selection':'')+'">'+esc(cleanAwardLabel(x.award))+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';
+   el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+'<div class="festAward '+(selection?'selection':'')+'">'+awardMark(x.award)+esc(cleanAwardLabel(x.award))+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';
    grid.appendChild(el);
  });
 }
