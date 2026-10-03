@@ -274,6 +274,33 @@ body.festivalMode .festivalHub{margin-top:10px}
 .palmeMini{width:21px;height:21px;display:block;overflow:visible}
 .palmeMini path{fill:none;stroke:#e7c44e;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
 
+
+/* Mobile festival browser: fixed-width viewport + compact poster grid */
+@media(max-width:600px){
+ html,body{max-width:100%;overflow-x:hidden}
+ body.festivalMode .festivalHub,
+ body.festivalMode .festivalShell,
+ body.festivalMode .festSide,
+ body.festivalMode .festMain,
+ body.festivalMode .festEdition{width:100%;max-width:100%;min-width:0;box-sizing:border-box;overflow-x:hidden}
+ body.festivalMode .festNav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px;overflow:visible}
+ body.festivalMode .festNav button{width:100%;min-width:0;padding:7px 8px;font-size:11px;white-space:normal}
+ body.festivalMode .festYears{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px;overflow:visible}
+ body.festivalMode .festYears button{min-width:0;width:100%;padding:6px 3px;font-size:11px}
+ body.festivalMode .festSections{display:flex;flex-wrap:wrap;gap:5px;overflow:visible}
+ body.festivalMode .festSections div{min-width:0;font-size:11px;padding:6px 7px}
+ body.festivalMode .festHero{min-width:0;padding:18px 14px}
+ body.festivalMode .festHero h2{font-size:28px}
+ body.festivalMode .festEdition{padding:14px 8px 22px}
+ body.festivalMode .festMovieGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;width:100%;min-width:0}
+ body.festivalMode .festMovie{min-width:0;border-radius:7px}
+ body.festivalMode .festMovieInfo{padding:6px}
+ body.festivalMode .festMovieTitle{font-size:10px;line-height:1.2}
+ body.festivalMode .festMovieMeta{font-size:8px;margin-top:3px}
+ body.festivalMode .festAward{left:4px;right:4px;bottom:4px;padding:4px;font-size:7px;border-radius:5px;line-height:1.15}
+ body.festivalMode .festMissingFlag{font-size:6px;padding:3px 4px;left:4px;top:4px}
+}
+
 </style>
 </head>
 <body>
