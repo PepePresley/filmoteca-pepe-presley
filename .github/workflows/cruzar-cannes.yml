@@ -1,7 +1,7 @@
 name: Cruzar Cannes 1990-1994
 on:
   push:
-    paths: ['.github/workflows/cruzar-cannes.yml']
+    paths: ['.github/workflows/cruzar-cannes.yml', 'data/festivals/cannes_1990_1994.json']
 permissions:
   contents: read
 jobs:
