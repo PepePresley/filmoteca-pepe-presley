@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "editions": [
     {
       "festival": "Cannes",
@@ -9,7 +9,10 @@
         {
           "title": "The Apprentice",
           "director": "Ali Abbasi",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "The Apprentice. La historia de Trump"
+          ]
         },
         {
           "title": "Motel Destino",
@@ -34,7 +37,10 @@
         {
           "title": "Megalopolis",
           "director": "Francis Ford Coppola",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Megalópolis"
+          ]
         },
         {
           "title": "The Shrouds",
@@ -44,7 +50,10 @@
         {
           "title": "The Substance",
           "director": "Coralie Fargeat",
-          "award": "Mejor guion · Coralie Fargeat"
+          "award": "Mejor guion · Coralie Fargeat",
+          "aliases": [
+            "La sustancia"
+          ]
         },
         {
           "title": "Grand Tour",
@@ -54,7 +63,10 @@
         {
           "title": "La plus précieuse des marchandises",
           "director": "Michel Hazanavicius",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "La mercancía más preciosa"
+          ]
         },
         {
           "title": "Marcello Mio",
@@ -64,12 +76,18 @@
         {
           "title": "Caught by the Tides",
           "director": "Jia Zhang-ke",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "A la deriva"
+          ]
         },
         {
           "title": "All We Imagine as Light",
           "director": "Payal Kapadia",
-          "award": "Gran Premio"
+          "award": "Gran Premio",
+          "aliases": [
+            "La luz que imaginamos"
+          ]
         },
         {
           "title": "Kinds of Kindness",
@@ -79,22 +97,34 @@
         {
           "title": "L'Amour ouf",
           "director": "Gilles Lellouche",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Corazones rotos"
+          ]
         },
         {
           "title": "Three Kilometres to the End of the World",
           "director": "Emanuel Pârvu",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Tres kilómetros al fin del mundo"
+          ]
         },
         {
           "title": "The Seed of the Sacred Fig",
           "director": "Mohammad Rasoulof",
-          "award": "Premio especial"
+          "award": "Premio especial",
+          "aliases": [
+            "La semilla de la higuera sagrada"
+          ]
         },
         {
           "title": "Wild Diamond",
           "director": "Agathe Riedinger",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Diamante en bruto"
+          ]
         },
         {
           "title": "Oh, Canada",
@@ -104,7 +134,10 @@
         {
           "title": "Limonov: The Ballad",
           "director": "Kirill Serebrennikov",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Limónov"
+          ]
         },
         {
           "title": "Parthenope",
@@ -114,7 +147,10 @@
         {
           "title": "The Girl with the Needle",
           "director": "Magnus von Horn",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "La chica de la aguja"
+          ]
         }
       ]
     },
@@ -126,7 +162,10 @@
         {
           "title": "The Room Next Door",
           "director": "Pedro Almodóvar",
-          "award": "León de Oro"
+          "award": "León de Oro",
+          "aliases": [
+            "La habitación de al lado"
+          ]
         },
         {
           "title": "Campo di battaglia",
@@ -136,7 +175,10 @@
         {
           "title": "Leurs enfants après eux",
           "director": "Zoran Boukherma, Ludovic Boukherma",
-          "award": "Premio Marcello Mastroianni · Paul Kircher"
+          "award": "Premio Marcello Mastroianni · Paul Kircher",
+          "aliases": [
+            "Sus hijos después de ellos"
+          ]
         },
         {
           "title": "The Brutalist",
@@ -146,7 +188,10 @@
         {
           "title": "Jouer avec le feu",
           "director": "Delphine Coulin, Muriel Coulin",
-          "award": "Copa Volpi · Mejor actor · Vincent Lindon"
+          "award": "Copa Volpi · Mejor actor · Vincent Lindon",
+          "aliases": [
+            "Jugar con fuego"
+          ]
         },
         {
           "title": "Vermiglio",
@@ -156,7 +201,10 @@
         {
           "title": "Iddu",
           "director": "Fabio Grassadonia, Antonio Piazza",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "El último padrino"
+          ]
         },
         {
           "title": "Queer",
@@ -166,7 +214,11 @@
         {
           "title": "Kjærlighet",
           "director": "Dag Johan Haugerud",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Amor en Oslo",
+            "Kjærlighet (Love)"
+          ]
         },
         {
           "title": "April",
@@ -176,17 +228,26 @@
         {
           "title": "The Order",
           "director": "Justin Kurzel",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "The Order (La hermandad silenciosa)"
+          ]
         },
         {
           "title": "Maria",
           "director": "Pablo Larraín",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "María Callas"
+          ]
         },
         {
           "title": "Trois amies",
           "director": "Emmanuel Mouret",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Tres amigas"
+          ]
         },
         {
           "title": "El Jockey",
@@ -206,7 +267,10 @@
         {
           "title": "Ainda estou aqui",
           "director": "Walter Salles",
-          "award": "Mejor guion · Murilo Hauser y Heitor Lorega"
+          "award": "Mejor guion · Murilo Hauser y Heitor Lorega",
+          "aliases": [
+            "Aún estoy aquí"
+          ]
         },
         {
           "title": "Diva Futura",
@@ -243,7 +307,10 @@
         {
           "title": "A Traveler's Needs",
           "director": "Hong Sangsoo",
-          "award": "Oso de Plata · Gran Premio del Jurado"
+          "award": "Oso de Plata · Gran Premio del Jurado",
+          "aliases": [
+            "Necesidades de una viajera"
+          ]
         },
         {
           "title": "L'Empire",
@@ -263,7 +330,10 @@
         {
           "title": "Sterben",
           "director": "Matthias Glasner",
-          "award": "Oso de Plata · Mejor guion · Matthias Glasner"
+          "award": "Oso de Plata · Mejor guion · Matthias Glasner",
+          "aliases": [
+            "Dying"
+          ]
         },
         {
           "title": "La Cocina",
@@ -273,7 +343,10 @@
         {
           "title": "Black Tea",
           "director": "Abderrahmane Sissako",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Té negro"
+          ]
         },
         {
           "title": "Another End",
@@ -288,22 +361,34 @@
         {
           "title": "Suspended Time",
           "director": "Olivier Assayas",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Tiempo compartido"
+          ]
         },
         {
           "title": "Gloria!",
           "director": "Margherita Vicario",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "¡Gloria!"
+          ]
         },
         {
           "title": "My Favourite Cake",
           "director": "Maryam Moghaddam, Behtash Sanaeeha",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Mi postre favorito"
+          ]
         },
         {
           "title": "Langue étrangère",
           "director": "Claire Burger",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Lengua extranjera"
+          ]
         },
         {
           "title": "A Different Man",
@@ -323,17 +408,26 @@
         {
           "title": "The Devil's Bath",
           "director": "Veronika Franz, Severin Fiala",
-          "award": "Oso de Plata · Contribución artística sobresaliente · Martin Gschlacht"
+          "award": "Oso de Plata · Contribución artística sobresaliente · Martin Gschlacht",
+          "aliases": [
+            "El baño del diablo"
+          ]
         },
         {
           "title": "In Liebe, Eure Hilde",
           "director": "Andreas Dresen",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "From Hilde with Love"
+          ]
         },
         {
           "title": "Sons",
           "director": "Gustav Möller",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Condenados"
+          ]
         }
       ]
     },
@@ -375,17 +469,26 @@
         {
           "title": "Hard Truths",
           "director": "Mike Leigh",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Mi única familia"
+          ]
         },
         {
           "title": "Hebi no michi",
           "director": "Kiyoshi Kurosawa",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "Serpent's Path"
+          ]
         },
         {
           "title": "Le dernier souffle",
           "director": "Costa-Gavras",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "El último suspiro"
+          ]
         },
         {
           "title": "Los destellos",
@@ -400,7 +503,10 @@
         {
           "title": "Quand vient l'automne",
           "director": "François Ozon",
-          "award": "Mejor guion · François Ozon y Philippe Piazzo · Mejor interpretación de reparto · Pierre Lottin"
+          "award": "Mejor guion · François Ozon y Philippe Piazzo · Mejor interpretación de reparto · Pierre Lottin",
+          "aliases": [
+            "Cuando cae el otoño"
+          ]
         },
         {
           "title": "Soy Nevenka",
