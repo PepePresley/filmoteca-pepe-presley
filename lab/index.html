@@ -265,6 +265,8 @@ body.festivalMode .festivalHub{margin-top:10px}
 .ribbonLaurel{font-family:Georgia,serif;font-size:21px;color:#e7c44e;line-height:14px;transform:rotate(-18deg);flex:0 0 16px}
 .ribbonSlate{width:15px;height:10px;border:1px solid #aaa;position:relative;flex:0 0 15px}.ribbonSlate:before{content:"";position:absolute;left:-1px;top:-5px;width:15px;height:4px;border:1px solid #aaa;transform:skew(-18deg)}
 
+
+.ribbonEmoji{display:inline-block;font-size:17px;line-height:1;flex:0 0 auto}
 </style>
 </head>
 <body>
@@ -651,7 +653,7 @@ function festivalRibbon(award){
  const selection=/En competición/i.test(label);
  const palme=/Palma de Oro/i.test(label);
  const cls=selection?'selection':palme?'palme':'winner';
- const icon=selection?'<span class="ribbonSlate"></span>':palme?'<span class="ribbonLaurel">❧</span>':'<span class="ribbonMedal"></span>';
+ const icon=selection?'<span class="ribbonEmoji">🎬</span>':palme?'<span class="ribbonLaurel">❧</span>':'<span class="ribbonEmoji">🥇</span>';
  return '<div class="festivalRibbon '+cls+'">'+icon+'<span>'+esc(label)+'</span></div>';
 }
 function renderFestivalEdition(fy){
