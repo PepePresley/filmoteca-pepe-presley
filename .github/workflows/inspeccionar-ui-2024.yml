@@ -1,130 +1,54 @@
-name: Construir festivales externos
+name: Aligerar Filmoteca
 on:
   push:
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
   contents: write
 jobs:
-  construir:
+  aligerar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Integrar JSON externos en la interfaz
+      - name: Extraer catálogo del HTML
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import json,re,unicodedata
-
+          import re,json
           p=Path("index.html")
           s=p.read_text(encoding="utf-8")
-
-          def norm(x):
-              x=unicodedata.normalize("NFD",str(x or ""))
-              x="".join(c for c in x if unicodedata.category(c)!="Mn")
-              return re.sub(r"[^a-z0-9]+"," ",x.lower()).strip()
-
-          # Catálogo incrustado actual
-          m=re.search(r"const DATA = (\[.*?\]);\s*const FESTIVAL_TAGS",s,re.S)
-          if not m: raise SystemExit("No se localiza DATA")
+          before=len(s.encode("utf-8"))
+          m=re.search(r'const DATA = (\[.*?\]);\s*const FESTIVAL_TAGS',s,re.S)
+          if not m: raise SystemExit("No se localiza DATA en index.html")
           data=json.loads(m.group(1))
-
-          # Festivales que ya funcionaban (1990-1999)
-          mt=re.search(r"const FESTIVAL_TAGS = (\[.*?\]);\s*const FESTIVAL_BY_IDX",s,re.S)
-          mm=re.search(r"const FESTIVAL_MISSING = (\[.*?\]);",s,re.S)
-          if not mt or not mm: raise SystemExit("No se localizan bloques de festivales")
-          tags=json.loads(mt.group(1))
-          missing=json.loads(mm.group(1))
-
-          # Quitar una posible integración anterior de 2021/2022 para que sea idempotente
-          tags=[x for x in tags if not (x.get("festival")=="Cannes" and x.get("festival_year") in (2021,2022))]
-          missing=[x for x in missing if not (x.get("festival")=="Cannes" and x.get("festival_year") in (2021,2022))]
-
-          manifest=json.loads(Path("data/festivals/manifest.json").read_text(encoding="utf-8"))
-          external=[]
-          for fn in manifest["files"]:
-              if fn=="cannes_2021_2022.json":
-                  external += json.loads(Path("data/festivals",fn).read_text(encoding="utf-8"))
-
-          # Índice de títulos del catálogo, incluyendo título original.
-          lookup={}
-          for i,r in enumerate(data):
-              for title in (r.get("t"),r.get("o")):
-                  k=norm(title)
-                  if k: lookup.setdefault(k,[]).append(i)
-
-          matched=0
-          for x in external:
-              title=x.get("title","")
-              candidates=lookup.get(norm(title),[])
-              # Preferir película cuyo año esté cerca del año del festival.
-              fy=int(x.get("festival_year") or 0)
-              if candidates:
-                  candidates=sorted(candidates,key=lambda i:abs(int(data[i].get("y") or fy)-fy))
-                  idx=candidates[0]
-                  tags.append({
-                    "idx":idx,"festival":x.get("festival","Cannes"),
-                    "festival_year":fy,"section":x.get("section","Competición oficial"),
-                    "festival_title":title,"award":x.get("award","🎞 En competición")
-                  })
-                  matched+=1
-              else:
-                  missing.append({
-                    "festival":x.get("festival","Cannes"),"festival_year":fy,
-                    "section":x.get("section","Competición oficial"),"title":title,
-                    "director":x.get("director",""),"year":fy,"award":x.get("award","🎞 En competición")
-                  })
-
-          # Sustituir los dos bloques de datos.
-          s=re.sub(r"const FESTIVAL_TAGS = \[.*?\];\s*const FESTIVAL_BY_IDX",
-                   "const FESTIVAL_TAGS = "+json.dumps(tags,ensure_ascii=False,separators=(",",":"))+";\nconst FESTIVAL_BY_IDX",s,count=1,flags=re.S)
-          s=re.sub(r"const FESTIVAL_MISSING = \[.*?\];",
-                   "const FESTIVAL_MISSING = "+json.dumps(missing,ensure_ascii=False,separators=(",",":"))+";",s,count=1,flags=re.S)
-
-          # Generar las tarjetas a partir de los datos reales, no a mano.
-          years=sorted({x["festival_year"] for x in tags+missing if x.get("festival")=="Cannes"})
-          cards=[]
-          for y in years:
-              have=sum(1 for x in tags if x.get("festival")=="Cannes" and x.get("festival_year")==y)
-              miss=sum(1 for x in missing if x.get("festival")=="Cannes" and x.get("festival_year")==y)
-              total=have+miss
-              cards.append(f'''<div class="festCard yearFest">
-            <div>
-              <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-              <div class="festTitle">Cannes {y}</div>
-              <div class="festMeta"><b>{have}</b> en tu filmoteca · <b>{miss}</b> pendientes de localizar</div>
-              <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="{y}">Ver las {total} películas</button></div>
-            </div>
-            <div class="festScore"><b>{have}/{total}</b><span>en tu filmoteca</span></div>
-          </div>''')
-          ranges=[]
-          for y in years:
-              if not ranges or y>ranges[-1][-1]+1:ranges.append([y])
-              else:ranges[-1].append(y)
-          label=" · ".join(str(r[0]) if len(r)==1 else f"{r[0]}–{r[-1]}" for r in ranges)
-          hub=f'''<section class="festivalHub" id="festivalHub">
-          <h2 class="sectionTitle">Festival de Cannes · {label}</h2>
-          <div class="sectionNote">Competición oficial cruzada con Filmoteca Pepe Presley. Las ausentes también aparecen para que puedas localizarlas.</div>
-          <div class="festGridYears">{''.join(cards)}</div>
-          </section>'''
-          s,n=re.subn(r'<section class="festivalHub" id="festivalHub">.*?</section>',hub,s,count=1,flags=re.S)
-          if n!=1: raise SystemExit("No se pudo sustituir festivalHub")
-
+          out=Path("data/catalog")
+          out.mkdir(parents=True,exist_ok=True)
+          (out/"catalog.json").write_text(json.dumps(data,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+          # Sustituimos el catálogo incrustado por carga externa síncrona antes del resto del JS.
+          # XMLHttpRequest síncrono aquí mantiene intacta toda la lógica existente y minimiza el riesgo.
+          loader='''let DATA=[];\n(function(){\n const x=new XMLHttpRequest();\n x.open("GET","data/catalog/catalog.json?v=1",false);\n x.send(null);\n if(x.status>=200&&x.status<300||x.status===0) DATA=JSON.parse(x.responseText);\n else throw new Error("No se pudo cargar el catálogo");\n})();\nconst FESTIVAL_TAGS'''
+          s=s[:m.start()] + loader + s[m.end()-len("const FESTIVAL_TAGS"):]
           p.write_text(s,encoding="utf-8")
-          print(f"Cannes externos: {len(external)}; encontrados: {matched}; pendientes: {len(external)-matched}")
-          print("Años visibles:",years)
-          # Comprobaciones mínimas
-          assert "Cannes 2021" in s and "Cannes 2022" in s
-          assert "festivalYearBtn" in s and "const FESTIVAL_BY_IDX" in s
+          after=len(s.encode("utf-8"))
+          cat=(out/"catalog.json").stat().st_size
+          print("Películas:",len(data))
+          print("index antes:",before)
+          print("index después:",after)
+          print("catalog.json:",cat)
+          print("reducción index:",before-after)
+          assert len(data)>1000
+          assert after < 2_000_000, after
+          assert "const DATA = [" not in s
+          assert "const FESTIVAL_TAGS" in s
           PY
-      - name: Comprobar y guardar
+      - name: Validar y guardar
         run: |
+          python3 -m json.tool data/catalog/catalog.json >/dev/null
           git diff --check
-          grep -q "Cannes 2021" index.html
-          grep -q "Cannes 2022" index.html
+          test -s data/catalog/catalog.json
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html
-          git commit -m "Integra Cannes 2021-2022 desde JSON externos"
+          git add index.html data/catalog/catalog.json
+          git commit -m "Extrae el catálogo del HTML y aligera la web"
           git push origin HEAD:main
