@@ -343,7 +343,7 @@ function render(){
    </div>
    <div class="cardInfo"><div class="title">${esc(r.t)}</div>${r.o?`<div class="original">${esc(r.o)}</div>`:''}
     <div class="meta">${r.y||'—'}${r.d?' · '+esc(r.d):''}</div>
-    <div class="micro">${r.dur?`<span class="tag">${r.dur} min</span>`:''}${r.h?`<span class="tag">${r.h}p</span>`:''}${genresOf(r)[0]?`<span class="tag">${esc(genresOf(r)[0])}</span>`:''}${FESTIVAL_BY_IDX.has(DATA.indexOf(r))?`<span class="tag" style="border-color:#7c6535;color:#e7c97e">🏆 ${x.festival} ${x.festival_year}</span><span class="tag" style="${FESTIVAL_BY_IDX.get(DATA.indexOf(r)).award.includes('sin premio')?'border-color:#4f4b43;color:#bdb6aa':'border-color:#8c6e25;color:#ffd978'}">${FESTIVAL_BY_IDX.get(DATA.indexOf(r)).award}</span>`:''}</div>
+    <div class="micro">${r.dur?`<span class="tag">${r.dur} min</span>`:''}${r.h?`<span class="tag">${r.h}p</span>`:''}${genresOf(r)[0]?`<span class="tag">${esc(genresOf(r)[0])}</span>`:''}${FESTIVAL_BY_IDX.has(DATA.indexOf(r))?(()=>{const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));return `<span class="tag" style="border-color:#7c6535;color:#e7c97e">🏆 ${ft.festival} ${ft.festival_year}</span><span class="tag" style="${ft.award.includes('En competición')?'border-color:#4f4b43;color:#bdb6aa':'border-color:#8c6e25;color:#ffd978'}">${ft.award}</span>`})():''}</div>
    </div>`;
   c.onclick=()=>openModal(r); frag.appendChild(c);
  });
