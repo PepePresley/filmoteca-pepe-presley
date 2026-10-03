@@ -362,8 +362,8 @@ body.festivalMode .festivalHub{margin-top:10px}
    <div class="festNav">
     <button class="active"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg>Cannes</button>
     <button class="festivalSelectBtn" data-festival="Venecia"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
-    <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
-    <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
+    <button class="festivalSelectBtn" data-festival="Berlín"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
+    <button class="festivalSelectBtn" data-festival="San Sebastián"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
     <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
    </div>
    <div class="festDivider"></div>
@@ -752,7 +752,7 @@ function renderFestivalEdition(fy){
 }
 
 let selectedFestival='Cannes';
-function festivalLabel(f){return f==='Venecia'?'Festival de Venecia':'Festival de Cannes'}
+function festivalLabel(f){return 'Festival de '+f}
 function availableYears(f){
  return [...new Set((FESTIVAL_DB.editions||[]).filter(e=>e.festival===f).map(e=>Number(e.year)))].sort((a,b)=>b-a);
 }
@@ -796,6 +796,8 @@ if(directParams.get('view')==='festivals'){
  $('tabFestivals').click();
  const directFestival=directParams.get('festival');
  if(directFestival==='venecia') selectedFestival='Venecia';
+ if(directFestival==='berlin') selectedFestival='Berlín';
+ if(directFestival==='san-sebastian'||directFestival==='sansebastian') selectedFestival='San Sebastián';
  const directYear=Number(directParams.get('year'));
  if(directYear) openFestivalYear(directYear);
 }
