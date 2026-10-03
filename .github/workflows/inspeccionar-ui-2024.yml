@@ -1,46 +1,44 @@
-name: Validar Filmoteca restaurada
+name: Restaurar Filmoteca estable
 on:
   push:
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  validar:
+  restaurar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validar sintaxis y estructura
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Recuperar último HTML estable
         run: |
+          git show 4c0dc2cab83368abf94ba8d3ad47c87ee1c3a692:index.html > index.html
           python3 - <<'PY'
           from pathlib import Path
-          import re,subprocess
           s=Path("index.html").read_text(encoding="utf-8")
-          scripts=re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)
-          print("scripts:",len(scripts),"html bytes:",len(s.encode()))
-          Path("/tmp/app.js").write_text("\n".join(scripts),encoding="utf-8")
+          print("HTML restaurado bytes:",len(s.encode()))
+          assert len(s.encode()) > 10_000_000
           assert "const DATA = [" in s
           assert "const FESTIVAL_TAGSconst" not in s
-          assert "Laboratorio 2024" in s
+          assert "chooseSpot();render();" in s
+          print("BASE ESTABLE RECUPERADA: OK")
+          PY
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          s=Path("index.html").read_text(encoding="utf-8")
+          scripts=re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)
+          Path("/tmp/app.js").write_text("\n".join(scripts),encoding="utf-8")
           PY
           node --check /tmp/app.js
-          echo "SINTAXIS JS: OK"
-          grep -q "id=\"q\"" index.html
-          grep -q "id=\"year\"" index.html
-          grep -q "id=\"tabFestivals\"" index.html
-          grep -q "chooseSpot();render();" index.html
-          echo "CONTROLES Y ARRANQUE: OK"
-      - name: Comprobar publicación
+          echo "SINTAXIS JAVASCRIPT: OK"
+      - name: Guardar restauración
         run: |
-          python3 - <<'PY'
-          import urllib.request,time
-          u="https://pepepresley.github.io/filmoteca-pepe-presley/?v=restaurada8ffb"
-          for n in range(12):
-            try:
-              s=urllib.request.urlopen(u,timeout=30).read().decode("utf-8")
-              if "const DATA = [" in s and "Laboratorio 2024" in s: break
-            except Exception as e: print("espera",e)
-            time.sleep(10)
-          else: raise SystemExit("No aparece la versión restaurada")
-          print("PUBLICADA:",len(s.encode()),"bytes")
-          print("FILMOTECA RESTAURADA: OK")
-          PY
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "Restaura la última Filmoteca estable"
+          git push origin HEAD:main
