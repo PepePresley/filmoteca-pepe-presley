@@ -16,8 +16,10 @@ jobs:
           from difflib import SequenceMatcher
           from pathlib import Path
           s=Path("index.html").read_text(encoding="utf-8")
-          p=s.find("const DATA")\n          a=s.find("[",p)
-          b=s.find("const FESTIVAL_TAGS",a)\n          b=s.rfind("]",a,b)+1
+          p=s.find("const DATA")
+          a=s.find("[",p)
+          b=s.find("const FESTIVAL_TAGS",a)
+          b=s.rfind("]",a,b)+1
           data=json.loads(s[a:b])
           fest=json.loads(Path("data/festivals/cannes_1990_1994.json").read_text())
           def norm(x):
