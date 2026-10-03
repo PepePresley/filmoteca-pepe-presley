@@ -704,6 +704,12 @@ function festivalRibbon(award){
  return '<div class="festivalRibbon '+(selection?'selection':palme?'palme':'winner')+'"><span class="classicAwardIcon">'+icon+'</span><span>'+esc(label)+'</span></div>';
 }
 function normFest(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}
+function festTokenSimilarity(a,b){
+ const A=new Set(normFest(a).split(' ').filter(x=>x.length>1)),B=new Set(normFest(b).split(' ').filter(x=>x.length>1));
+ if(!A.size||!B.size)return 0;
+ let common=0;A.forEach(x=>{if(B.has(x))common++});
+ return common/(A.size+B.size-common);
+}
 const FESTIVAL_INDEX=DATA.map((r,idx)=>({
  idx,
  y:Number(r&&r.y)||0,
@@ -712,26 +718,38 @@ const FESTIVAL_INDEX=DATA.map((r,idx)=>({
 }));
 const FESTIVAL_EDITION_CACHE=new Map();
 function resolveFestivalMatch(ft){
- const nd=normFest(ft.director), nt=normFest(ft.festival_title), fy=Number(ft.festival_year)||0, targetYear=ft.festival==='Oscar'?fy-1:fy;
- let best=-1,bestScore=0;
+ const nd=normFest(ft.director),nt=normFest(ft.festival_title),fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
+ let best=-1,bestScore=-1;
  for(const x of FESTIVAL_INDEX){
-   if(targetYear&&x.y&&Math.abs(x.y-targetYear)>1) continue;
-   let score=0;
+   const yearDiff=(targetYear&&x.y)?Math.abs(x.y-targetYear):99;
+   let dirSim=0;
    if(nd&&x.d){
-     if(x.d===nd) score+=5;
-     else if(x.d.includes(nd)||nd.includes(x.d)) score+=3;
+     if(x.d===nd)dirSim=1;
+     else if(x.d.includes(nd)||nd.includes(x.d))dirSim=.9;
+     else dirSim=festTokenSimilarity(x.d,nd);
    }
-   let titleScore=0;
+   let titleSim=0;
    for(const t of x.titles){
-     if(!t||!nt) continue;
-     if(t===nt) titleScore=Math.max(titleScore,8);
-     else if(t.includes(nt)||nt.includes(t)) titleScore=Math.max(titleScore,5);
+     if(!t||!nt)continue;
+     let s=0;
+     if(t===nt)s=1;
+     else if(t.includes(nt)||nt.includes(t))s=.88;
+     else s=festTokenSimilarity(t,nt);
+     if(s>titleSim)titleSim=s;
    }
-   score+=titleScore;
-   if(targetYear&&x.y===targetYear) score+=2; else if(targetYear&&x.y&&Math.abs(x.y-targetYear)===1) score+=1;
+   /* El año ayuda a decidir, pero nunca invalida una coincidencia inequívoca de título+director. */
+   const strongIdentity=titleSim===1&&dirSim>=.8;
+   const normalExact=titleSim===1&&yearDiff<=1;
+   const oscarExact=!nd&&titleSim===1&&yearDiff<=2&&nt.length>=6;
+   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
+   const directorAnchor=titleSim>=.55&&dirSim>=.95&&yearDiff<=3;
+   const nearYearTitle=titleSim>=.88&&yearDiff<=1;
+   if(!(strongIdentity||normalExact||oscarExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
+   const yearBonus=yearDiff===0?2:yearDiff===1?1:yearDiff===2?.25:0;
+   const score=titleSim*10+dirSim*5+yearBonus;
    if(score>bestScore){bestScore=score;best=x.idx}
  }
- return bestScore>=7?best:-1;
+ return best;
 }
 function festivalEditionData(fy,festival='Cannes',section=null){
  const extAny=(FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy));
