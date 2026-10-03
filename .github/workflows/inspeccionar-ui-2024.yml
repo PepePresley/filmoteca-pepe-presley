@@ -1,5 +1,6 @@
 name: Construir versión aligerada aislada
 on:
+  workflow_dispatch:
   push:
     branches: [lab-aligerado]
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
