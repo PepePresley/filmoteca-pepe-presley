@@ -364,7 +364,7 @@ body.festivalMode .festivalHub{margin-top:10px}
     <button class="festivalSelectBtn" data-festival="Venecia"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
     <button class="festivalSelectBtn" data-festival="Berlín"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
     <button class="festivalSelectBtn" data-festival="San Sebastián"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
-    <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
+    <button class="festivalSelectBtn" data-festival="Oscar"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
    </div>
    <div class="festDivider"></div>
    <div class="festSideLabel">Año (Cannes)</div>
@@ -685,10 +685,10 @@ const FESTIVAL_INDEX=DATA.map((r,idx)=>({
 }));
 const FESTIVAL_EDITION_CACHE=new Map();
 function resolveFestivalMatch(ft){
- const nd=normFest(ft.director), nt=normFest(ft.festival_title), fy=Number(ft.festival_year)||0;
+ const nd=normFest(ft.director), nt=normFest(ft.festival_title), fy=Number(ft.festival_year)||0, targetYear=ft.festival==='Oscar'?fy-1:fy;
  let best=-1,bestScore=0;
  for(const x of FESTIVAL_INDEX){
-   if(fy&&x.y&&Math.abs(x.y-fy)>1) continue;
+   if(targetYear&&x.y&&Math.abs(x.y-targetYear)>1) continue;
    let score=0;
    if(nd&&x.d){
      if(x.d===nd) score+=5;
@@ -701,12 +701,14 @@ function resolveFestivalMatch(ft){
      else if(t.includes(nt)||nt.includes(t)) titleScore=Math.max(titleScore,5);
    }
    score+=titleScore;
-   if(fy&&x.y===fy) score+=2; else if(fy&&x.y&&Math.abs(x.y-fy)===1) score+=1;
+   if(targetYear&&x.y===targetYear) score+=2; else if(targetYear&&x.y&&Math.abs(x.y-targetYear)===1) score+=1;
    if(score>bestScore){bestScore=score;best=x.idx}
  }
  return bestScore>=7?best:-1;
 }
-function festivalEditionData(fy,festival='Cannes',section='Competición oficial'){
+function festivalEditionData(fy,festival='Cannes',section=null){
+ const extAny=(FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy));
+ section=section||(extAny&&extAny.section)||'Competición oficial';
  const key=[festival,fy,section].join('|');
  if(FESTIVAL_EDITION_CACHE.has(key)) return FESTIVAL_EDITION_CACHE.get(key);
  const external=(FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy)&&e.section===section);
@@ -798,6 +800,7 @@ if(directParams.get('view')==='festivals'){
  if(directFestival==='venecia') selectedFestival='Venecia';
  if(directFestival==='berlin') selectedFestival='Berlín';
  if(directFestival==='san-sebastian'||directFestival==='sansebastian') selectedFestival='San Sebastián';
+ if(directFestival==='oscar'||directFestival==='oscars') selectedFestival='Oscar';
  const directYear=Number(directParams.get('year'));
  if(directYear) openFestivalYear(directYear);
 }
