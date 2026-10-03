@@ -1,0 +1,48 @@
+name: Cruzar Cannes 1990-1994
+on:
+  push:
+    paths: ['.github/workflows/cruzar-cannes.yml']
+permissions:
+  contents: read
+jobs:
+  cruzar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cruzar con la Filmoteca
+        run: |
+          python3 - <<'PY'
+          import json,re,unicodedata
+          from difflib import SequenceMatcher
+          from pathlib import Path
+          s=Path("index.html").read_text(encoding="utf-8")
+          a=s.index("const DATA = ")+len("const DATA = ")
+          b=s.index("; const FESTIVAL_TAGS",a)
+          data=json.loads(s[a:b])
+          fest=json.loads(Path("data/festivals/cannes_1990_1994.json").read_text())
+          def norm(x):
+              x=unicodedata.normalize("NFKD",x or "").encode("ascii","ignore").decode().lower()
+              return re.sub(r"[^a-z0-9]+"," ",x).strip()
+          def dmatch(fd,dd):
+              ft=[x for x in norm(fd).split() if len(x)>3]
+              dt=set(norm(dd).split())
+              return bool(ft) and any(x in dt for x in ft[-2:])
+          out=[]
+          for f in fest:
+              cand=[]
+              for i,r in enumerate(data):
+                  if int(r.get("y") or 0)!=f["festival_year"]: continue
+                  sc=max(SequenceMatcher(None,norm(f["title"]),norm(r.get(k,""))).ratio() for k in ("t","o"))
+                  dm=dmatch(f["director"],r.get("d",""))
+                  if dm or sc>=.72: cand.append((sc,dm,i,r.get("t"),r.get("o"),r.get("d")))
+              cand.sort(reverse=True)
+              best=cand[0] if cand else None
+              ok=bool(best and ((best[1] and best[0]>=.38) or best[0]>=.86))
+              out.append({"year":f["festival_year"],"festival_title":f["title"],"director":f["director"],"matched":ok,"best":best,"candidates":cand[:3]})
+          for yy in range(1990,1995):
+              z=[x for x in out if x["year"]==yy]; m=[x for x in z if x["matched"]]
+              print(f"YEAR {yy}: {len(m)}/{len(z)}")
+              for x in z:
+                  if not x["matched"]: print("MISSING",json.dumps(x,ensure_ascii=False))
+          Path("/tmp/report.json").write_text(json.dumps(out,ensure_ascii=False,indent=2))
+          PY
