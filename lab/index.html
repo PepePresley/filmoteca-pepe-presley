@@ -400,6 +400,7 @@ body.festivalMode .festivalHub{margin-top:10px}
     <h3>Elige un año de Cannes</h3>
     <p>Verás la competición oficial como una colección visual: películas presentes en tu filmoteca, premios y títulos pendientes de localizar. Este es ya el nuevo diseño sobre el que construiremos el piloto completo de 2024.</p>
     <div class="festYearCards">
+     <button class="festMini festivalYearBtn" data-year="2024"><b>2024</b><span class="festMiniCount">calculando cruce…</span></button>
      <button class="festMini festivalYearBtn" data-year="1997"><b>1997</b><span>19 de 20 en tu filmoteca</span></button>
      <button class="festMini festivalYearBtn" data-year="1998"><b>1998</b><span>22 de 22 en tu filmoteca</span></button>
      <button class="festMini festivalYearBtn" data-year="2021"><b>2021</b><span>6 de 9 en tu filmoteca</span></button>
@@ -713,28 +714,32 @@ function renderFestivalEdition(fy){
  });
 }
 
-document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>{
- activeFestival='cannes'+b.dataset.year;
+function openFestivalYear(yr){
+ activeFestival='cannes'+yr;
  setFestivalChrome(true);
  $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
- document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',x.dataset.year===b.dataset.year));
- const yr=Number(b.dataset.year);
- const ed=festivalEditionData(yr), present=ed.present.length, miss=ed.missing.length;
- const total=present+miss;
+ document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',Number(x.dataset.year)===yr));
+ const ed=festivalEditionData(yr), present=ed.present.length, miss=ed.missing.length, total=present+miss;
  $('festDisplayTitle').textContent='Cannes '+yr;
  $('festDisplaySub').textContent='Sección Oficial · '+total+' películas';
  $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
  renderFestivalEdition(yr);
  history.replaceState(null,'','?view=festivals&festival=cannes&year='+yr);
  window.scrollTo({top:0,behavior:'smooth'});
+}
+document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
+
+// Welcome-card counts are always computed from the same live festival data.
+document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
+ const yr=Number(b.dataset.year), ed=festivalEditionData(yr), s=b.querySelector('span');
+ if(s) s.textContent=ed.present.length+' de '+(ed.present.length+ed.missing.length)+' en tu filmoteca';
 });
 
 const directParams=new URLSearchParams(location.search);
 if(directParams.get('view')==='festivals'){
  $('tabFestivals').click();
  const directYear=Number(directParams.get('year'));
- const directBtn=document.querySelector('.festivalYearBtn[data-year="'+directYear+'"]');
- if(directYear&&directBtn) directBtn.click();
+ if(directYear) openFestivalYear(directYear);
 }
 
 chooseSpot();render();
