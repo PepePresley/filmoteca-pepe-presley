@@ -188,6 +188,29 @@ body.festivalMode .festivalHub{margin-top:10px}
 .festMissingFlag{position:absolute;left:7px;top:7px;background:#702f35;color:#ffe3e5;border:1px solid #9e4c54;padding:5px 6px;border-radius:6px;font-size:8px;font-weight:900}
 @media(max-width:850px){.festEdition{padding:18px 12px 24px}.festEditionHead{align-items:start;flex-direction:column;margin-bottom:12px}.festEditionHead h3{font-size:23px}.festMovieGrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.festMovieTitle{font-size:12px}.festMovieMeta{font-size:9px}.festAward{font-size:9px}}
 
+
+@media(min-width:1100px){
+ body.festivalMode .festivalHub{max-width:1800px;padding:0 18px;margin-top:10px}
+ body.festivalMode .festivalShell{grid-template-columns:210px minmax(0,1fr);min-height:720px;border-radius:12px}
+ body.festivalMode .festSide{padding:20px 10px}
+ body.festivalMode .festHero{min-height:190px;padding:28px 34px}
+ body.festivalMode .festHero h2{font-size:42px}
+ body.festivalMode .festPalm{font-size:40px}
+ body.festivalMode .festEdition{padding:18px 20px 28px}
+ body.festivalMode .festEditionHead{margin-bottom:12px}
+ body.festivalMode .festEditionHead h3{display:none}
+ body.festivalMode .festEditionCount{font-size:13px}
+ body.festivalMode .festMovieGrid{grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+ body.festivalMode .festMovie{border-radius:9px}
+ body.festivalMode .festMovieInfo{padding:9px}
+ body.festivalMode .festMovieTitle{font-size:12px}
+ body.festivalMode .festMovieMeta{font-size:9px}
+ body.festivalMode .festAward{font-size:9px;padding:5px 6px}
+}
+@media(min-width:1450px){
+ body.festivalMode .festMovieGrid{grid-template-columns:repeat(8,minmax(0,1fr))}
+}
+
 </style>
 </head>
 <body>
@@ -531,10 +554,14 @@ function renderFestivalEdition(fy){
  const missing=FESTIVAL_MISSING.filter(x=>x.festival==='Cannes'&&x.festival_year===fy);
  const total=tags.length+missing.length;
  $('festWelcome').style.display='none'; $('festEdition').style.display='block';
- $('festEditionTitle').textContent='Sección Oficial · '+total+' películas';
+ $('festEditionTitle').textContent='';
  $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
  const grid=$('festMovieGrid'); grid.innerHTML='';
- tags.forEach(ft=>{
+ const orderedTags=tags.slice().sort((a,b)=>{
+   const ap=a.award.includes('En competición')?1:0, bp=b.award.includes('En competición')?1:0;
+   return ap-bp;
+ });
+ orderedTags.forEach(ft=>{
    const r=DATA[ft.idx]; if(!r)return;
    const el=document.createElement('article'); el.className='festMovie';
    const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
