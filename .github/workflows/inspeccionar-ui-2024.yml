@@ -1,44 +1,37 @@
-name: Restaurar Filmoteca estable
+name: Comprobar Filmoteca estable publicada
 on:
   push:
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
-  contents: write
+  contents: read
 jobs:
-  restaurar:
+  comprobar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
-      - name: Recuperar último HTML estable
+      - name: Verificar web publicada
         run: |
-          git show 4c0dc2cab83368abf94ba8d3ad47c87ee1c3a692:index.html > index.html
           python3 - <<'PY'
-          from pathlib import Path
-          s=Path("index.html").read_text(encoding="utf-8")
-          print("HTML restaurado bytes:",len(s.encode()))
-          assert len(s.encode()) > 10_000_000
-          assert "const DATA = [" in s
-          assert "const FESTIVAL_TAGSconst" not in s
-          assert "chooseSpot();render();" in s
-          print("BASE ESTABLE RECUPERADA: OK")
+          import urllib.request
+          u="https://pepepresley.github.io/filmoteca-pepe-presley/?v=d8a9fb2"
+          s=urllib.request.urlopen(u,timeout=60).read().decode("utf-8")
+          print("HTML publicado bytes:",len(s.encode()))
+          checks={
+            "catalogo_incrustado":"const DATA = [" in s,
+            "sin_error_tags":"const FESTIVAL_TAGSconst" not in s,
+            "arranque_render":"chooseSpot();render();" in s,
+            "buscador":'id="q"' in s,
+            "filtro_ano":'id="year"' in s,
+            "pestana_festivales":'id="tabFestivals"' in s,
+          }
+          for k,v in checks.items(): print(k,":","OK" if v else "FALLO")
+          assert len(s.encode())>10_000_000
+          assert all(checks.values())
+          open("/tmp/index.html","w").write(s)
           PY
           python3 - <<'PY'
-          from pathlib import Path
           import re
-          s=Path("index.html").read_text(encoding="utf-8")
-          scripts=re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)
-          Path("/tmp/app.js").write_text("\n".join(scripts),encoding="utf-8")
+          s=open("/tmp/index.html").read()
+          open("/tmp/app.js","w").write("\n".join(re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)))
           PY
           node --check /tmp/app.js
-          echo "SINTAXIS JAVASCRIPT: OK"
-      - name: Guardar restauración
-        run: |
-          git diff --check
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html
-          git commit -m "Restaura la última Filmoteca estable"
-          git push origin HEAD:main
+          echo "JAVASCRIPT PUBLICADO: OK"
