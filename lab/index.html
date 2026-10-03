@@ -267,6 +267,9 @@ body.festivalMode .festivalHub{margin-top:10px}
 
 
 .ribbonEmoji{display:inline-block;font-size:17px;line-height:1;flex:0 0 auto}
+
+.classicAwardIcon{display:inline-flex;align-items:center;justify-content:center;min-width:20px;font-size:16px;line-height:1;flex:0 0 auto}
+.classicAwardIcon .ribbonLaurel{font-family:Georgia,serif;font-size:21px;color:#e7c44e;line-height:1;transform:rotate(-18deg)}
 </style>
 </head>
 <body>
@@ -650,11 +653,18 @@ function setFestivalChrome(on){
 }
 function festivalRibbon(award){
  const label=String(award||'').trim();
- const selection=/En competición/i.test(label);
  const palme=/Palma de Oro/i.test(label);
- const cls=selection?'selection':palme?'palme':'winner';
- const icon=selection?'<span class="ribbonEmoji">🎬</span>':palme?'<span class="ribbonLaurel">❧</span>':'<span class="ribbonEmoji">🥇</span>';
- return '<div class="festivalRibbon '+cls+'">'+icon+'<span>'+esc(label)+'</span></div>';
+ let icon='🎞';
+ if(palme) icon='<span class="ribbonLaurel">❧</span>';
+ else if(/Gran Premio/i.test(label)) icon='🥈';
+ else if(/Premio del Jurado/i.test(label)) icon='⚖';
+ else if(/Mejor dirección/i.test(label)) icon='🎬';
+ else if(/Mejor (actor|actriz)/i.test(label)) icon='🎭';
+ else if(/Mejor guion/i.test(label)) icon='✍';
+ else if(/contribución artística/i.test(label)) icon='🎨';
+ else if(/aniversario/i.test(label)) icon='🏅';
+ const selection=/En competición/i.test(label);
+ return '<div class="festivalRibbon '+(selection?'selection':palme?'palme':'winner')+'"><span class="classicAwardIcon">'+icon+'</span><span>'+esc(label)+'</span></div>';
 }
 function renderFestivalEdition(fy){
  const tags=FESTIVAL_TAGS.filter(x=>x.festival==='Cannes'&&x.festival_year===fy);
