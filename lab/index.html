@@ -270,6 +270,10 @@ body.festivalMode .festivalHub{margin-top:10px}
 
 .classicAwardIcon{display:inline-flex;align-items:center;justify-content:center;min-width:20px;font-size:16px;line-height:1;flex:0 0 auto}
 .classicAwardIcon .ribbonLaurel{font-family:Georgia,serif;font-size:21px;color:#e7c44e;line-height:1;transform:rotate(-18deg)}
+
+.palmeMini{width:21px;height:21px;display:block;overflow:visible}
+.palmeMini path{fill:none;stroke:#e7c44e;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+
 </style>
 </head>
 <body>
@@ -655,7 +659,7 @@ function festivalRibbon(award){
  const label=String(award||'').trim();
  const palme=/Palma de Oro/i.test(label);
  let icon='🎞';
- if(palme) icon='<span class="ribbonLaurel">❧</span>';
+ if(palme) icon='<svg class="palmeMini" viewBox="0 0 30 30" aria-hidden="true"><path d="M6 25C12 21 18 14 23 5"/><path d="M10 22C6 21 4 19 3 16c4 0 7 1 9 4M14 18c-3-3-4-7-3-10 4 1 6 3 7 7M18 13c-1-4 0-7 3-10 3 3 3 6 2 9M21 9c2-3 4-5 8-6 0 4-2 7-5 9"/></svg>';
  else if(/Gran Premio/i.test(label)) icon='🥈';
  else if(/Premio del Jurado/i.test(label)) icon='⚖';
  else if(/Mejor dirección/i.test(label)) icon='🎬';
