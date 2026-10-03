@@ -14,7 +14,7 @@ jobs:
           python3 - <<'PY'
           from pathlib import Path
           s=Path("index.html").read_text(encoding="utf-8")
-          for needle in ["FESTIVAL", "Cannes 1995", "festival_year", "FESTIVAL_BY_IDX"]:
+          for needle in ["activeFestival", "festival_year", "quick", "Cannes"]:
               print("\n###",needle)
               p=0
               for _ in range(8):
