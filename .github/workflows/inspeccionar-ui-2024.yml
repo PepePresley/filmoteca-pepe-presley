@@ -1,37 +1,32 @@
-name: Comprobar Filmoteca estable publicada
+name: Smoke test LAB publicado
 on:
   push:
-    paths: ['.github/workflows/inspeccionar-ui-2024.yml']
+    paths: ['LAB_PUBLIC_TEST']
 permissions:
   contents: read
 jobs:
-  comprobar:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Verificar web publicada
+      - name: Comprobar LAB publicado
         run: |
           python3 - <<'PY'
-          import urllib.request
-          u="https://pepepresley.github.io/filmoteca-pepe-presley/?v=d8a9fb2"
-          s=urllib.request.urlopen(u,timeout=60).read().decode("utf-8")
-          print("HTML publicado bytes:",len(s.encode()))
-          checks={
-            "catalogo_incrustado":"const DATA = [" in s,
-            "sin_error_tags":"const FESTIVAL_TAGSconst" not in s,
-            "arranque_render":"chooseSpot();render();" in s,
-            "buscador":'id="q"' in s,
-            "filtro_ano":'id="year"' in s,
-            "pestana_festivales":'id="tabFestivals"' in s,
-          }
-          for k,v in checks.items(): print(k,":","OK" if v else "FALLO")
-          assert len(s.encode())>10_000_000
-          assert all(checks.values())
-          open("/tmp/index.html","w").write(s)
+          import urllib.request,json
+          base='https://pepepresley.github.io/filmoteca-pepe-presley'
+          h=urllib.request.urlopen(base+'/lab/?v=35c05571',timeout=60).read().decode('utf-8')
+          d=json.loads(urllib.request.urlopen(base+'/data/catalog/catalog.json?v=lab3',timeout=60).read())
+          print('html_bytes',len(h.encode()))
+          print('peliculas',len(d))
+          checks=[
+            ('async','async function arrancarFilmoteca' in h),
+            ('fetch_correcto','../data/catalog/catalog.json?v=lab3' in h),
+            ('render','chooseSpot();render();' in h),
+            ('buscador','id="q"' in h),
+            ('festivales','id="tabFestivals"' in h),
+          ]
+          for k,v in checks: print(k,'OK' if v else 'FALLO')
+          assert len(h.encode())<100000
+          assert len(d)==52929
+          assert all(v for _,v in checks)
+          print('LAB_PUBLICADO_OK')
           PY
-          python3 - <<'PY'
-          import re
-          s=open("/tmp/index.html").read()
-          open("/tmp/app.js","w").write("\n".join(re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)))
-          PY
-          node --check /tmp/app.js
-          echo "JAVASCRIPT PUBLICADO: OK"
