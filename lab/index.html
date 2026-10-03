@@ -500,7 +500,7 @@ try{
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=2024-pilot-1");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=aliases-2");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
 const FESTIVAL_DB = window.__FESTIVALES__;
@@ -718,7 +718,7 @@ const FESTIVAL_INDEX=DATA.map((r,idx)=>({
 }));
 const FESTIVAL_EDITION_CACHE=new Map();
 function resolveFestivalMatch(ft){
- const nd=normFest(ft.director),nt=normFest(ft.festival_title),fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
+ const nd=normFest(ft.director),nt=normFest(ft.festival_title),aliasTitles=(ft.aliases||[]).map(normFest).filter(Boolean),queryTitles=[nt,...aliasTitles],fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
  let best=-1,bestScore=-1;
  for(const x of FESTIVAL_INDEX){
    const yearDiff=(targetYear&&x.y)?Math.abs(x.y-targetYear):99;
@@ -730,12 +730,15 @@ function resolveFestivalMatch(ft){
    }
    let titleSim=0;
    for(const t of x.titles){
-     if(!t||!nt)continue;
-     let s=0;
-     if(t===nt)s=1;
-     else if(t.includes(nt)||nt.includes(t))s=.88;
-     else s=festTokenSimilarity(t,nt);
-     if(s>titleSim)titleSim=s;
+     if(!t)continue;
+     for(const q of queryTitles){
+       if(!q)continue;
+       let s=0;
+       if(t===q)s=1;
+       else if(t.includes(q)||q.includes(t))s=.88;
+       else s=festTokenSimilarity(t,q);
+       if(s>titleSim)titleSim=s;
+     }
    }
    /* El año ayuda a decidir, pero nunca invalida una coincidencia inequívoca de título+director. */
    const strongIdentity=titleSim===1&&dirSim>=.8;
