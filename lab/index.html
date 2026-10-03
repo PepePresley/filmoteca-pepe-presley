@@ -310,7 +310,7 @@ linear-gradient(180deg,#171013,#0e0e10);color:#c69a9e;font-family:Georgia,serif;
 <script>
 async function arrancarFilmoteca(){
 try{
- const r=await fetch("../data/catalog/catalog.json?v=lab3");
+ const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
 const DATA = window.__CATALOGO__;
