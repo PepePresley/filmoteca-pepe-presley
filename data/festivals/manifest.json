@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "festival": "Cannes",
+  "files": [
+    "cannes_1990_1994.json",
+    "cannes_2021_2022.json"
+  ],
+  "note": "Manifiesto de datos externos. La interfaz debe leer este archivo en lugar de depender de FESTIVAL_TAGS incrustado."
+}
