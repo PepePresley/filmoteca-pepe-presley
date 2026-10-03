@@ -1,54 +1,39 @@
-name: Aligerar Filmoteca
+name: Probar Filmoteca publicada
 on:
   push:
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
-  contents: write
+  contents: read
 jobs:
-  aligerar:
+  probar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - name: Extraer catálogo del HTML
+      - name: Esperar y comprobar web pública
         run: |
           python3 - <<'PY'
-          from pathlib import Path
-          import re,json
-          p=Path("index.html")
-          s=p.read_text(encoding="utf-8")
-          before=len(s.encode("utf-8"))
-          m=re.search(r'const DATA = (\[.*?\]);\s*const FESTIVAL_TAGS',s,re.S)
-          if not m: raise SystemExit("No se localiza DATA en index.html")
-          data=json.loads(m.group(1))
-          out=Path("data/catalog")
-          out.mkdir(parents=True,exist_ok=True)
-          (out/"catalog.json").write_text(json.dumps(data,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
-          # Sustituimos el catálogo incrustado por carga externa síncrona antes del resto del JS.
-          # XMLHttpRequest síncrono aquí mantiene intacta toda la lógica existente y minimiza el riesgo.
-          loader='''let DATA=[];\n(function(){\n const x=new XMLHttpRequest();\n x.open("GET","data/catalog/catalog.json?v=1",false);\n x.send(null);\n if(x.status>=200&&x.status<300||x.status===0) DATA=JSON.parse(x.responseText);\n else throw new Error("No se pudo cargar el catálogo");\n})();\nconst FESTIVAL_TAGS'''
-          s=s[:m.start()] + loader + s[m.end()-len("const FESTIVAL_TAGS"):]
-          p.write_text(s,encoding="utf-8")
-          after=len(s.encode("utf-8"))
-          cat=(out/"catalog.json").stat().st_size
-          print("Películas:",len(data))
-          print("index antes:",before)
-          print("index después:",after)
-          print("catalog.json:",cat)
-          print("reducción index:",before-after)
-          assert len(data)>1000
-          assert after < 2_000_000, after
-          assert "const DATA = [" not in s
-          assert "const FESTIVAL_TAGS" in s
+          import urllib.request,json,time,re
+          base="https://pepepresley.github.io/filmoteca-pepe-presley/"
+          for n in range(12):
+              try:
+                  html=urllib.request.urlopen(base+"?v=smoke205a484",timeout=20).read().decode("utf-8")
+                  if "data/catalog/catalog.json" in html:
+                      break
+              except Exception as e:
+                  print("espera",n,e)
+              time.sleep(10)
+          else: raise SystemExit("La versión ligera aún no está publicada")
+          print("HTML publicado bytes:",len(html.encode()))
+          assert len(html.encode()) < 200000
+          assert "Filmoteca" in html
+          assert "data/catalog/catalog.json" in html
+          raw=urllib.request.urlopen(base+"data/catalog/catalog.json?v=smoke205a484",timeout=60).read()
+          data=json.loads(raw)
+          print("Catálogo publicado bytes:",len(raw))
+          print("Películas publicadas:",len(data))
+          assert len(data)==52929
+          assert all(k in data[0] for k in ("t","y"))
+          for y in (2021,2022):
+              assert f"Cannes {y}" in html
+          print("Cannes 2021/2022: OK")
+          print("SMOKE TEST PUBLICO: OK")
           PY
-      - name: Validar y guardar
-        run: |
-          python3 -m json.tool data/catalog/catalog.json >/dev/null
-          git diff --check
-          test -s data/catalog/catalog.json
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html data/catalog/catalog.json
-          git commit -m "Extrae el catálogo del HTML y aligera la web"
-          git push origin HEAD:main
