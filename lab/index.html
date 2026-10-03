@@ -132,6 +132,36 @@ linear-gradient(135deg,#20190e,#101216 60%,#251c0e)}
 .festMini:hover{border-color:#8a7138;background:#1d1a13}.festMini b{display:block;color:#f1cf76;font-size:18px;margin-bottom:4px}.festMini span{font-size:11px;color:#918b82}
 @media(max-width:850px){.festivalShell{grid-template-columns:1fr}.festSide{border-right:0;border-bottom:1px solid #292722}.festNav{grid-template-columns:repeat(2,1fr)}.festYears{grid-template-columns:repeat(4,1fr);max-height:none}.festHero{padding:26px}.festHero h2{font-size:34px}.festYearCards{grid-template-columns:repeat(2,1fr)}}
 
+
+/* Festival mode: keep collection controls out of the festival browser */
+body.festivalMode .hero,body.festivalMode .metrics,body.festivalMode .sticky,body.festivalMode .spot,body.festivalMode .quick,body.festivalMode #catalogo{display:none!important}
+body.festivalMode .tabsBar{margin-top:10px}
+body.festivalMode .festivalHub{margin-top:10px}
+@media(max-width:850px){
+ body.festivalMode .tabsBar{padding:0 14px;margin-top:8px}
+ body.festivalMode .festivalHub{padding:0 10px;margin-top:8px}
+ .festivalShell{border-radius:12px;min-height:0}
+ .festSide{padding:12px 10px}
+ .festSideTitle{font-size:18px;margin:2px 6px 10px}
+ .festNav{display:flex;gap:6px;overflow-x:auto;padding-bottom:3px}
+ .festNav button{width:auto;min-width:max-content;padding:8px 10px}
+ .festDivider{margin:10px 5px}
+ .festSideLabel{font-size:14px;margin:0 6px 7px}
+ .festYears{display:flex;gap:5px;overflow-x:auto;max-height:none;padding:0 0 4px}
+ .festYears button{min-width:62px;text-align:center;padding:7px 9px;border:1px solid #292720}
+ .festSections{display:flex;gap:5px;overflow-x:auto}
+ .festSections div{min-width:max-content;border:1px solid #292720;padding:7px 9px}
+ .festHero{min-height:170px;padding:22px 20px}
+ .festPalm{font-size:34px;margin-bottom:7px}
+ .festHero h2{font-size:32px}
+ .festHeroSub{font-size:16px}
+ .festHeroMeta{font-size:12px}
+ .festWelcome{padding:20px}
+ .festWelcome h3{font-size:21px}
+ .festWelcome p{font-size:13px;margin-bottom:14px}
+ .festYearCards{display:none}
+}
+
 </style>
 </head>
 <body>
@@ -450,14 +480,15 @@ document.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{
 let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(render,130)});
 ['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
 
-$('tabFestivals').onclick=()=>{$('festivalHub').classList.add('show');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');$('festivalHub').scrollIntoView({behavior:'smooth',block:'start'})};
-$('tabCollection').onclick=()=>{$('festivalHub').classList.remove('show');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;render();document.getElementById('catalogo').scrollIntoView({behavior:'smooth'})};
+$('tabFestivals').onclick=()=>{document.body.classList.add('festivalMode');$('festivalHub').classList.add('show');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');window.scrollTo({top:0,behavior:'smooth'})};
+$('tabCollection').onclick=()=>{document.body.classList.remove('festivalMode');$('festivalHub').classList.remove('show');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;render();window.scrollTo({top:0,behavior:'smooth'})};
 
 
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>{
  ['q','year','genre','country','source','status','quality','duration'].forEach(id=>$(id).value='');
  $('sort').value='year_desc';
  activeFestival='cannes'+b.dataset.year;
+ document.body.classList.remove('festivalMode');
  document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',x.dataset.year===b.dataset.year));
  const yr=b.dataset.year;
  const count=FESTIVAL_TAGS.filter(x=>x.festival_year==yr).length;
