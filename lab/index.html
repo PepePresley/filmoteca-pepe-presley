@@ -508,13 +508,24 @@ document.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{
 let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(render,130)});
 ['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
 
-$('tabFestivals').onclick=()=>{document.body.classList.add('festivalMode');$('festivalHub').classList.add('show');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
-$('tabCollection').onclick=()=>{document.body.classList.remove('festivalMode');$('festivalHub').classList.remove('show');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
+$('tabFestivals').onclick=()=>{setFestivalChrome(true);$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
+$('tabCollection').onclick=()=>{setFestivalChrome(false);$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
 
 
 if(new URLSearchParams(location.search).get('view')==='festivals') $('tabFestivals').click();
 
 
+function setFestivalChrome(on){
+ document.body.classList.toggle('festivalMode',on);
+ const sticky=document.querySelector('.sticky');
+ const hero=document.querySelector('.hero');
+ const metrics=document.querySelector('.metrics');
+ const quick=document.querySelector('.quick');
+ const spotlight=document.querySelector('.spotlight');
+ const catalog=document.getElementById('catalogo');
+ [sticky,hero,metrics,quick,spotlight,catalog].forEach(el=>{if(el) el.style.display=on?'none':''});
+ $('festivalHub').classList.toggle('show',on);
+}
 function renderFestivalEdition(fy){
  const tags=FESTIVAL_TAGS.filter(x=>x.festival==='Cannes'&&x.festival_year===fy);
  const missing=FESTIVAL_MISSING.filter(x=>x.festival==='Cannes'&&x.festival_year===fy);
@@ -541,7 +552,7 @@ function renderFestivalEdition(fy){
 
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>{
  activeFestival='cannes'+b.dataset.year;
- document.body.classList.add('festivalMode'); $('festivalHub').classList.add('show');
+ setFestivalChrome(true);
  $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
  document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',x.dataset.year===b.dataset.year));
  const yr=Number(b.dataset.year);
