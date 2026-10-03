@@ -450,12 +450,10 @@ const FESTIVAL_BY_IDX = new Map(FESTIVAL_TAGS.map(x=>[x.idx,x]));
 let activeFestival = null;
 const MINI_CANNES='<svg class="miniFestIcon" viewBox="0 0 100 72"><use href="#ico-cannes"></use></svg>';
 function cleanAwardLabel(s){
- return String(s||'')
-  .replace(/[\\p{Extended_Pictographic}\\p{Emoji_Presentation}]/gu,'')
-  .replace(/[\\uFE0F\\u200D]/g,'')
-  .replace(/\\s*·\\s*·\\s*/g,' · ')
-  .replace(/\\s{2,}/g,' ')
-  .trim();
+ let t=String(s||'').trim();
+ const legacyMarks=['🎞','🎭','⚖','🎬','🌴','🥈','🏅','🎨','✍','🏆','🥇','🎥','🎖','🎯','🎪','🎦'];
+ for(const m of legacyMarks) t=t.split(m).join('');
+ return t.replace(/\uFE0F/g,'').replace(/\s{2,}/g,' ').trim();
 }
 function awardMark(s){
  const a=cleanAwardLabel(s);
@@ -468,9 +466,7 @@ const FESTIVAL_MISSING = [{"festival":"Cannes","festival_year":1990,"section":"C
 /* Premio limpio en origen: ninguna vista debe volver a recibir emojis */
 FESTIVAL_TAGS.forEach(x=>{x.award=cleanAwardLabel(x.award)});
 FESTIVAL_MISSING.forEach(x=>{x.award=cleanAwardLabel(x.award)});
-FESTIVAL_TAGS.forEach(x=>{x.award=cleanAwardLabel(x.award)});
-FESTIVAL_MISSING.forEach(x=>{x.award=cleanAwardLabel(x.award)});
-
+if(!FESTIVAL_TAGS.some(x=>x.festival_year===1997 && /Mejor dirección · Wong Kar Wai/.test(x.award))) console.warn('Festival award normalization check failed');
 
 const $=id=>document.getElementById(id);
 const norm=s=>(s||'').toString().normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
