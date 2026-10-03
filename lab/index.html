@@ -162,9 +162,21 @@ body.festivalMode .festivalHub{margin-top:10px}
  .festYearCards{display:none}
 }
 
+
+.tabsBar{position:sticky;top:0;z-index:60;background:rgba(9,9,10,.96);backdrop-filter:blur(14px);padding-top:10px;padding-bottom:10px;border-bottom:1px solid #26231e}
+@media(max-width:850px){
+ .tabsBar{margin:0!important;padding:10px 12px!important;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+ .tabBtn{font-size:14px;padding:11px 8px}
+ body.festivalMode .tabsBar{margin:0!important}
+}
+
 </style>
 </head>
 <body>
+<div class="tabsBar">
+ <button class="tabBtn active" id="tabCollection">🎬 Colección</button>
+ <button class="tabBtn" id="tabFestivals">🏆 Festivales</button>
+</div>
 <section class="hero">
  <div class="heroInner">
   <div class="kicker">Archivo personal de cine</div>
@@ -209,10 +221,7 @@ body.festivalMode .festivalHub{margin-top:10px}
 </div>
 
 
-<div class="tabsBar">
- <button class="tabBtn active" id="tabCollection">🎬 Colección</button>
- <button class="tabBtn" id="tabFestivals">🏆 Festivales</button>
-</div>
+
 
 <section class="festivalHub" id="festivalHub">
  <div class="festivalShell">
@@ -480,9 +489,11 @@ document.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{
 let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(render,130)});
 ['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
 
-$('tabFestivals').onclick=()=>{document.body.classList.add('festivalMode');$('festivalHub').classList.add('show');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');window.scrollTo({top:0,behavior:'smooth'})};
-$('tabCollection').onclick=()=>{document.body.classList.remove('festivalMode');$('festivalHub').classList.remove('show');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;render();window.scrollTo({top:0,behavior:'smooth'})};
+$('tabFestivals').onclick=()=>{document.body.classList.add('festivalMode');$('festivalHub').classList.add('show');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
+$('tabCollection').onclick=()=>{document.body.classList.remove('festivalMode');$('festivalHub').classList.remove('show');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
 
+
+if(new URLSearchParams(location.search).get('view')==='festivals') $('tabFestivals').click();
 
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>{
  ['q','year','genre','country','source','status','quality','duration'].forEach(id=>$(id).value='');
