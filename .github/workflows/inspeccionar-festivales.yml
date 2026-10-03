@@ -1,0 +1,25 @@
+name: Inspeccionar festivales
+on:
+  push:
+    paths: ['.github/workflows/inspeccionar-festivales.yml']
+permissions:
+  contents: read
+jobs:
+  inspeccionar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Localizar estructura de festivales
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          s=Path("index.html").read_text(encoding="utf-8")
+          for needle in ["FESTIVAL", "Cannes 1995", "festival_year", "FESTIVAL_BY_IDX"]:
+              print("\n###",needle)
+              p=0
+              for _ in range(8):
+                  i=s.find(needle,p)
+                  if i<0: break
+                  print(s[max(0,i-500):i+1500].replace("\n"," ")[:2000])
+                  p=i+len(needle)
+          PY
