@@ -1,99 +1,46 @@
-name: Construir laboratorio 2024
+name: Validar Filmoteca restaurada
 on:
   push:
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
-  contents: write
+  contents: read
 jobs:
-  construir:
+  validar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: {ref: main}
-      - name: Crear datos y pantalla 2024
+      - name: Validar sintaxis y estructura
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import json,re,unicodedata
-          p=Path("index.html"); s=p.read_text(encoding="utf-8")
-          data=json.loads(Path("data/catalog/catalog.json").read_text(encoding="utf-8"))
-          def norm(x):
-            x=unicodedata.normalize("NFD",str(x or ""))
-            x="".join(c for c in x if unicodedata.category(c)!="Mn").lower()
-            return re.sub(r"[^a-z0-9]+"," ",x).strip()
-          lookup={}
-          for i,r in enumerate(data):
-            for title in (r.get("t"),r.get("o")):
-              if norm(title): lookup.setdefault(norm(title),[]).append(i)
-          raw={
-          "Cannes":[
-            ("Anora","🌴 Palma de Oro"),("All We Imagine as Light","🥈 Gran Premio"),("Emilia Pérez","⚖ Premio del Jurado · Mejor actriz"),("Grand Tour","🎬 Mejor dirección · Miguel Gomes"),("Kinds of Kindness","🎭 Mejor actor · Jesse Plemons"),("The Substance","✍️ Mejor guion · Coralie Fargeat"),("The Seed of the Sacred Fig","🏅 Premio Especial del Jurado")],
-          "Venecia":[
-            ("The Room Next Door","🦁 León de Oro"),("Vermiglio","🥈 Gran Premio del Jurado"),("The Brutalist","🎬 Mejor dirección · Brady Corbet"),("April","⚖ Premio Especial del Jurado"),("Babygirl","🎭 Mejor actriz · Nicole Kidman"),("Jouer avec le feu","🎭 Mejor actor · Vincent Lindon")],
-          "Berlín":[
-            ("Dahomey","🐻 Oso de Oro"),("A Traveler's Needs","🥈 Gran Premio del Jurado"),("The Empire","⚖ Premio del Jurado"),("Pepe","🎬 Mejor dirección · Nelson Carlo de los Santos Arias"),("No Other Land","🎞 Mejor documental")],
-          "San Sebastián":[
-            ("Tardes de soledad","🐚 Concha de Oro"),("The Last Showgirl","⚖ Premio Especial del Jurado"),("El llanto","🎬 Mejor dirección · Pedro Martín-Calero"),("On Falling","🎬 Mejor dirección · Laura Carreira"),("Los destellos","🎭 Mejor interpretación protagonista · Patricia López Arnaiz"),("Cuando cae el otoño","✍️ Mejor guion · François Ozon, Philippe Piazzo"),("Bound in Heaven","📷 Mejor fotografía · Piao Songri")],
-          "Oscar":[
-            ("Oppenheimer","🏆 Mejor película · Mejor dirección · Mejor actor"),("Poor Things","🎭 Mejor actriz · Emma Stone"),("The Holdovers","🎭 Mejor actriz de reparto · Da'Vine Joy Randolph"),("The Zone of Interest","🌍 Mejor película internacional"),("American Fiction","✍️ Mejor guion adaptado"),("Anatomy of a Fall","✍️ Mejor guion original"),("The Boy and the Heron","🎨 Mejor largometraje de animación"),("20 Days in Mariupol","🎞 Mejor largometraje documental"),("Barbie","🎵 Mejor canción")]
-          }
-          aliases={
-            "All We Imagine as Light":["La luz que imaginamos"],
-            "The Seed of the Sacred Fig":["La semilla de la higuera sagrada"],
-            "The Room Next Door":["La habitación de al lado"],
-            "A Traveler's Needs":["A Traveler’s Needs"],
-            "The Empire":["L'Empire","El imperio"],
-            "Jouer avec le feu":["Jugar con fuego"],
-            "Anatomy of a Fall":["Anatomía de una caída"],
-            "The Boy and the Heron":["El chico y la garza"]
-          }
-          rows=[]
-          for fest,items in raw.items():
-            target=2023 if fest=="Oscar" else 2024
-            for title,award in items:
-              ids=[]
-              for q in [title]+aliases.get(title,[]):
-                ids += lookup.get(norm(q),[])
-              ids=list(dict.fromkeys(ids))
-              ids=[i for i in ids if abs(int(data[i].get("y") or target)-target)<=1]
-              i=ids[0] if ids else None
-              rows.append({"festival":fest,"edition":2024,"title":title,"award":award,"found":i is not None,
-                           "idx":i,"catalog_title":data[i].get("t") if i is not None else None,
-                           "year":data[i].get("y") if i is not None else None,
-                           "director":data[i].get("d") if i is not None else None})
-          out=Path("data/awards"); out.mkdir(exist_ok=True)
-          (out/"2024.json").write_text(json.dumps({"edition":2024,"items":rows},ensure_ascii=False,indent=2),encoding="utf-8")
-          cards=[]
-          for fest in raw:
-            rr=[x for x in rows if x["festival"]==fest]; have=sum(x["found"] for x in rr)
-            lines="".join(f'<div class="awardLabRow"><b>{x["catalog_title"] or x["title"]}</b><span>{x["award"]}</span><em>{"✓ En tu filmoteca" if x["found"] else "○ Pendiente"}</em></div>' for x in rr)
-            cards.append(f'<div class="festCard awardLabCard"><div class="festEyebrow">2024</div><div class="festTitle">{fest}</div><div class="festMeta"><b>{have}</b> de {len(rr)} premiadas localizadas</div><div class="awardLabRows">{lines}</div></div>')
-          lab='<section class="awardLab" id="awardLab2024"><h2 class="sectionTitle">Laboratorio 2024 · Festivales y premios</h2><div class="sectionNote">Año experimental: Cannes, Venecia, Berlín, San Sebastián y Oscar cruzados con tu Filmoteca.</div><div class="festGridYears">'+''.join(cards)+'</div></section>'
-          # Insertar una sola vez al comienzo del área de festivales.
-          s=re.sub(r'<section class="awardLab" id="awardLab2024">.*?</section>','',s,count=1,flags=re.S)
-          marker='<section class="festivalHub" id="festivalHub">'
-          if marker not in s: raise SystemExit("No se localiza festivalHub")
-          s=s.replace(marker,lab+marker,1)
-          # CSS discreto para el laboratorio
-          css='''<style id="awardLabStyle">
-          .awardLab{margin:22px 0 30px}.awardLab .festGridYears{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
-          .awardLabCard{align-items:flex-start}.awardLabRows{margin-top:14px;width:100%}.awardLabRow{padding:9px 0;border-top:1px solid rgba(255,255,255,.08);display:grid;gap:3px}.awardLabRow span{font-size:12px;opacity:.82}.awardLabRow em{font-size:11px;opacity:.65;font-style:normal}
-          </style>'''
-          s=s.replace('</head>',css+'</head>',1) if 'id="awardLabStyle"' not in s else s
-          p.write_text(s,encoding="utf-8")
-          print("2024 registros:",len(rows),"localizados:",sum(x["found"] for x in rows),"pendientes:",sum(not x["found"] for x in rows))
-          for fest in raw:
-            rr=[x for x in rows if x["festival"]==fest]
-            print(fest,sum(x["found"] for x in rr),"/",len(rr))
-          assert len(s.encode())<100000
+          import re,subprocess
+          s=Path("index.html").read_text(encoding="utf-8")
+          scripts=re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)
+          print("scripts:",len(scripts),"html bytes:",len(s.encode()))
+          Path("/tmp/app.js").write_text("\n".join(scripts),encoding="utf-8")
+          assert "const DATA = [" in s
+          assert "const FESTIVAL_TAGSconst" not in s
+          assert "Laboratorio 2024" in s
           PY
-      - name: Validar y publicar
+          node --check /tmp/app.js
+          echo "SINTAXIS JS: OK"
+          grep -q "id=\"q\"" index.html
+          grep -q "id=\"year\"" index.html
+          grep -q "id=\"tabFestivals\"" index.html
+          grep -q "chooseSpot();render();" index.html
+          echo "CONTROLES Y ARRANQUE: OK"
+      - name: Comprobar publicación
         run: |
-          python3 -m json.tool data/awards/2024.json >/dev/null
-          grep -q "Laboratorio 2024" index.html
-          git diff --check
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index.html data/awards/2024.json
-          git commit -m "Añade laboratorio visual de premios 2024"
-          git push origin HEAD:main
+          python3 - <<'PY'
+          import urllib.request,time
+          u="https://pepepresley.github.io/filmoteca-pepe-presley/?v=restaurada8ffb"
+          for n in range(12):
+            try:
+              s=urllib.request.urlopen(u,timeout=30).read().decode("utf-8")
+              if "const DATA = [" in s and "Laboratorio 2024" in s: break
+            except Exception as e: print("espera",e)
+            time.sleep(10)
+          else: raise SystemExit("No aparece la versión restaurada")
+          print("PUBLICADA:",len(s.encode()),"bytes")
+          print("FILMOTECA RESTAURADA: OK")
+          PY
