@@ -361,7 +361,7 @@ body.festivalMode .festivalHub{margin-top:10px}
    <div class="festSideTitle"><svg class="festTitleIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg> Festivales</div>
    <div class="festNav">
     <button class="active"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg>Cannes</button>
-    <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
+    <button class="festivalSelectBtn" data-festival="Venecia"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
     <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
     <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
     <button class="locked" title="Se incorporará en el piloto 2024"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
@@ -751,21 +751,40 @@ function renderFestivalEdition(fy){
  });
 }
 
+let selectedFestival='Cannes';
+function festivalLabel(f){return f==='Venecia'?'Festival de Venecia':'Festival de Cannes'}
+function availableYears(f){
+ return [...new Set((FESTIVAL_DB.editions||[]).filter(e=>e.festival===f).map(e=>Number(e.year)))].sort((a,b)=>b-a);
+}
 function openFestivalYear(yr){
- activeFestival='cannes'+yr;
+ activeFestival=selectedFestival.toLowerCase()+yr;
  setFestivalChrome(true);
  $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
  document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',Number(x.dataset.year)===yr));
- const ed=festivalEditionData(yr), present=ed.present.length, miss=ed.missing.length, total=present+miss;
- $('festDisplayTitle').textContent='Cannes '+yr;
+ const ed=festivalEditionData(yr,selectedFestival), present=ed.present.length, miss=ed.missing.length, total=present+miss;
+ $('festDisplayTitle').textContent=selectedFestival+' '+yr;
  $('festDisplaySub').textContent='Sección Oficial · '+total+' películas';
  $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
- renderFestivalEdition(yr);
- history.replaceState(null,'','?view=festivals&festival=cannes&year='+yr);
+ renderFestivalEditionFor(selectedFestival,yr);
+ history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+yr);
  window.scrollTo({top:0,behavior:'smooth'});
 }
+function renderFestivalEditionFor(festival,fy){
+ const ed=festivalEditionData(fy,festival), tags=ed.present, missing=ed.missing;
+ $('festWelcome').style.display='none'; $('festEdition').style.display='block';
+ $('festEditionTitle').textContent='';
+ $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
+ const grid=$('festMovieGrid'); grid.innerHTML='';
+ const orderedTags=tags.slice().sort((x,y)=>(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
+ orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
+ missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';grid.appendChild(el)});
+}
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
-
+document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>{
+ selectedFestival=b.dataset.festival;
+ const years=availableYears(selectedFestival);
+ if(years.length) openFestivalYear(years[0]);
+});
 // Welcome-card counts are always computed from the same live festival data.
 document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
  const yr=Number(b.dataset.year), ed=festivalEditionData(yr), s=b.querySelector('span');
@@ -775,6 +794,8 @@ document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
 const directParams=new URLSearchParams(location.search);
 if(directParams.get('view')==='festivals'){
  $('tabFestivals').click();
+ const directFestival=directParams.get('festival');
+ if(directFestival==='venecia') selectedFestival='Venecia';
  const directYear=Number(directParams.get('year'));
  if(directYear) openFestivalYear(directYear);
 }
