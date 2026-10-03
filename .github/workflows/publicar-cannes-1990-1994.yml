@@ -1,0 +1,142 @@
+name: Publicar Cannes 1990-1994
+on:
+  push:
+    paths: ['.github/workflows/publicar-cannes-1990-1994.yml']
+permissions:
+  contents: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Integrar Cannes 1990-1994
+        run: |
+          python3 - <<'PY'
+          import json,re,unicodedata
+          from difflib import SequenceMatcher
+          from pathlib import Path
+
+          p=Path("index.html")
+          s=p.read_text(encoding="utf-8")
+          q=s.find("const DATA")
+          a=s.find("[",q)
+          b=s.find("const FESTIVAL_TAGS",a)
+          b=s.rfind("]",a,b)+1
+          data=json.loads(s[a:b])
+          fest=json.loads(Path("data/festivals/cannes_1990_1994.json").read_text(encoding="utf-8"))
+
+          def norm(x):
+              x=unicodedata.normalize("NFKD",x or "").encode("ascii","ignore").decode().lower()
+              return re.sub(r"[^a-z0-9]+"," ",x).strip()
+
+          aliases={
+            "JU DOU":["Ju Dou: Semilla de crisantemo"],
+            "TAXI BLUES":["Taxi Blues"],
+            "BAWANG BIEJI":["Adiós a mi concubina"],
+            "HSIMENG RENSHENG":["El maestro de marionetas"],
+            "HUOZHE":["¡Vivir!"],
+            "NEAK SRE":["La gente del arrozal"],
+            "OUTOMLIONNYE SOLNTSEM":["Quemado por el sol"],
+            "ZIRE DARAKHTAN ZEYTON":["A través de los olivos"]
+          }
+
+          def dmatch(fd,dd):
+              ft=[x for x in norm(fd).split() if len(x)>3]
+              dt=set(norm(dd).split())
+              return bool(ft) and any(x in dt for x in ft[-2:])
+
+          def alias_match(f):
+              aa=[norm(x) for x in aliases.get(f["title"],[])]
+              if not aa:return None
+              for i,r in enumerate(data):
+                  vals=[norm(r.get("t","")),norm(r.get("o","")),norm(r.get("arch",""))]
+                  if any(x and any(x in v for v in vals) for x in aa):
+                      return i
+              return None
+
+          def auto_match(f):
+              cand=[]
+              for i,r in enumerate(data):
+                  if abs(int(r.get("y") or 0)-f["festival_year"])>2: continue
+                  sc=max(SequenceMatcher(None,norm(f["title"]),norm(r.get(k,""))).ratio() for k in ("t","o"))
+                  dm=dmatch(f["director"],r.get("d",""))
+                  if dm or sc>=.72: cand.append((sc,dm,i))
+              cand.sort(reverse=True)
+              if not cand:return None
+              sc,dm,i=cand[0]
+              return i if ((dm and sc>=.38) or sc>=.86) else None
+
+          newtags=[]; newmissing=[]
+          for f in fest:
+              idx=alias_match(f)
+              if idx is None: idx=auto_match(f)
+              if idx is None:
+                  newmissing.append({"festival":"Cannes","festival_year":f["festival_year"],"section":f["section"],"title":f["title"],"director":f["director"],"year":f["festival_year"],"award":f["award"]})
+              else:
+                  newtags.append({"idx":idx,"festival":"Cannes","festival_year":f["festival_year"],"section":f["section"],"festival_title":f["title"],"award":f["award"]})
+
+          def array_span(varname):
+              st=s.find("const "+varname)
+              aa=s.find("[",st)
+              obj,end=json.JSONDecoder().raw_decode(s[aa:])
+              return aa,aa+end,obj
+
+          ta,tb,oldtags=array_span("FESTIVAL_TAGS")
+          ma,mb,oldmissing=array_span("FESTIVAL_MISSING")
+          oldtags=[x for x in oldtags if not (x.get("festival")=="Cannes" and 1990<=x.get("festival_year",0)<=1994)]
+          oldmissing=[x for x in oldmissing if not (x.get("festival")=="Cannes" and 1990<=x.get("festival_year",0)<=1994)]
+          tags=sorted(oldtags+newtags,key=lambda x:(x.get("festival_year",0),x.get("festival_title","")))
+          missing=sorted(oldmissing+newmissing,key=lambda x:(x.get("festival_year",0),x.get("title","")))
+
+          # Replace from right to left so offsets remain valid
+          repl=[(ta,tb,json.dumps(tags,ensure_ascii=False,separators=(",",":"))),(ma,mb,json.dumps(missing,ensure_ascii=False,separators=(",",":")))]
+          for aa,bb,val in sorted(repl,reverse=True):
+              s=s[:aa]+val+s[bb:]
+
+          # Rebuild the Cannes decade hub
+          counts={}
+          for yy in range(1990,2000):
+              have=sum(1 for x in tags if x.get("festival")=="Cannes" and x.get("festival_year")==yy)
+              miss=sum(1 for x in missing if x.get("festival")=="Cannes" and x.get("festival_year")==yy)
+              counts[yy]=(have,miss)
+          cards=[]
+          for yy in range(1990,2000):
+              have,miss=counts[yy]; total=have+miss
+              pend="pendiente de localizar" if miss==1 else "pendientes de localizar"
+              cards.append(f'''<div class="festCard yearFest">
+            <div>
+              <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
+              <div class="festTitle">Cannes {yy}</div>
+              <div class="festMeta"><b>{have}</b> en tu filmoteca · <b>{miss}</b> {pend}</div>
+              <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="{yy}">Ver las {total} películas</button></div>
+            </div>
+            <div class="festScore"><b>{have}/{total}</b><span>en tu filmoteca</span></div>
+          </div>''')
+          hub='''<section class="festivalHub" id="festivalHub">
+          <h2 class="sectionTitle">Festival de Cannes · 1990–1999</h2>
+          <div class="sectionNote">Competición oficial cruzada con Filmoteca Pepe Presley. Las ausentes también aparecen para que puedas localizarlas.</div>
+          <div class="festGridYears">'''+''.join(cards)+'''</div>
+          </section>'''
+          hs=s.find('<section class="festivalHub" id="festivalHub">')
+          he=s.find('</section>',hs)+len('</section>')
+          if hs<0 or he<0: raise SystemExit("No se encontró festivalHub")
+          s=s[:hs]+hub+s[he:]
+
+          p.write_text(s,encoding="utf-8")
+          print("RESULTADOS")
+          for yy in range(1990,2000):
+              h,m=counts[yy]; print(yy,h,m,h+m)
+          PY
+      - name: Comprobar estructura
+        run: |
+          grep -q 'Festival de Cannes · 1990–1999' index.html
+          test "$(grep -o 'class="btn primary festivalYearBtn"' index.html | wc -l)" -eq 10
+          grep -q 'data-year="1990"' index.html
+          grep -q 'data-year="1999"' index.html
+      - name: Publicar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git diff --cached --quiet || git commit -m "Ampliar Cannes a 1990-1999"
+          git push
