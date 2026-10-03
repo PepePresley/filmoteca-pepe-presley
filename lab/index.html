@@ -232,6 +232,11 @@ body.festivalMode .festivalHub{margin-top:10px}
 .awardMark.laureate{color:#e8c760}
 .festAward .awardMark{font-size:7px}
 
+
+.festivalBadge::before{content:"";display:inline-block;width:19px;height:14px;margin-right:5px;vertical-align:-2px;background:currentColor;
+-webkit-mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 72'%3E%3Cpath d='M10 60C31 53 52 37 69 12M19 55C10 52 6 47 4 40c9-1 16 1 22 7M29 49c-9-7-12-15-11-24 10 2 17 8 21 16M41 40c-6-10-6-20-2-29 9 5 14 13 14 23M54 31c-2-10 2-19 9-26 7 8 8 17 4 26M66 23c2-9 9-16 18-20 4 10 1 19-8 26M18 59c15 6 31 7 47 2' fill='none' stroke='black' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat;
+mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 72'%3E%3Cpath d='M10 60C31 53 52 37 69 12M19 55C10 52 6 47 4 40c9-1 16 1 22 7M29 49c-9-7-12-15-11-24 10 2 17 8 21 16M41 40c-6-10-6-20-2-29 9 5 14 13 14 23M54 31c-2-10 2-19 9-26 7 8 8 17 4 26M66 23c2-9 9-16 18-20 4 10 1 19-8 26M18 59c15 6 31 7 47 2' fill='none' stroke='black' stroke-width='4' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat}
+
 </style>
 </head>
 <body>
@@ -264,8 +269,8 @@ body.festivalMode .festivalHub{margin-top:10px}
 </symbol>
 </defs></svg>
 <div class="tabsBar">
- <button class="tabBtn active" id="tabCollection">🎬 Colección</button>
- <button class="tabBtn" id="tabFestivals">🏆 Festivales</button>
+ <button class="tabBtn active" id="tabCollection">Colección</button>
+ <button class="tabBtn" id="tabFestivals">Festivales</button>
 </div>
 <section class="hero">
  <div class="heroInner">
@@ -434,10 +439,21 @@ const FESTIVAL_TAGS = [{"idx":27015,"festival":"Cannes","festival_year":1990,"se
 const FESTIVAL_BY_IDX = new Map(FESTIVAL_TAGS.map(x=>[x.idx,x]));
 let activeFestival = null;
 const MINI_CANNES='<svg class="miniFestIcon" viewBox="0 0 100 72"><use href="#ico-cannes"></use></svg>';
-function cleanAwardLabel(s){return String(s||'').replace(/^[^A-Za-zÁÉÍÓÚÜÑÀÈÌÒÙÇ0-9]+\s*/,'').trim()}
+function cleanAwardLabel(s){
+ return String(s||'')
+  .replace(/[\\p{Extended_Pictographic}\\p{Emoji_Presentation}]/gu,'')
+  .replace(/[\\uFE0F\\u200D]/g,'')
+  .replace(/\\s*·\\s*·\\s*/g,' · ')
+  .replace(/\\s{2,}/g,' ')
+  .trim();
+}
 function awardMark(s){return String(s||'').includes('En competición')?'<span class="awardMark">◆</span>':'<span class="awardMark laureate">●</span>'}
 
 const FESTIVAL_MISSING = [{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"MATJ (ZAPRECHTCHIONNYE LIOUDI)","director":"Gleb Panfilov","year":1990,"award":"🎨 Mejor contribución artística"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"SHI NO TOGE","director":"Kohei Oguri","year":1990,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"TILAI","director":"Idrissa Ouedraogo","year":1990,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"UCHO","director":"Karel Kachyna","year":1990,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"ANNA KARAMAZOVA","director":"Roustam Khamdamov","year":1991,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"BIAN ZOU BIAN CHANG (LIFE ON A STRING)","director":"Kaige Chen","year":1991,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"EUROPA","director":"Lars von Trier","year":1991,"award":"⚖ Premio del Jurado · ex aequo"},{"festival":"Cannes","festival_year":1992,"section":"Competición oficial","title":"AU PAYS DES JULIETS","director":"Mehdi Charef","year":1992,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"BROKEN HIGHWAY","director":"Laurie McInnes","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"FRAUDS","director":"Stephan Elliott","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"LA SCORTA","director":"Ricky Tognazzi","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"LOUIS, ENFANT ROI","director":"Roger Planchon","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"MAGNIFICAT","director":"Pupi Avati","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"MAZEPPA","director":"Bartabas","year":1993,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"DULI SHIDAI","director":"Edward Yang","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"KOUROTCHKA RIABA","director":"Andrei Konchalovsky","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"LE BUTTANE","director":"Aurelio Grimaldi","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"SWAHAM","director":"Shaji N. Karun","year":1994,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Dead Man","director":"Jim Jarmusch","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Senatorul Melcilor","director":"Mircea Daneliuc","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Sharaku","director":"Masahiro Shinoda","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Waati","director":"Souleymane Cissé","year":1995,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1996,"section":"Competición oficial","title":"Po Di Sangui","director":"Flora Gomes","year":1996,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1996,"section":"Competición oficial","title":"Temptress Moon","director":"Chen Kaige","year":1996,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1997,"section":"Competición oficial","title":"The Well","director":"Samantha Lang","year":1997,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1999,"section":"Competición oficial","title":"Ghesse Haye Kish","director":"Nasser Taghvai, Mohsen Makhmalbaf, Abolfazl Jalili","year":1999,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":1999,"section":"Competición oficial","title":"Love Will Tear Us Apart","director":"Yu Lik-wai","year":1999,"award":"🎞 En competición"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"A HERO","director":"Asghar Farhadi","year":2021,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"COMPARTMENT NO. 6","director":"Juho Kuosmanen","year":2021,"award":"🥈 Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"THE WORST PERSON IN THE WORLD","director":"Joachim Trier","year":2021,"award":"🎭 Mejor actriz · Renate Reinsve"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"THE EIGHT MOUNTAINS","director":"Felix van Groeningen, Charlotte Vandermeersch","year":2022,"award":"⚖ Premio del Jurado · ex aequo"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"HOLY SPIDER","director":"Ali Abbasi","year":2022,"award":"🎭 Mejor actriz · Zar Amir Ebrahimi"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"BOY FROM HEAVEN","director":"Tarik Saleh","year":2022,"award":"✍️ Mejor guion · Tarik Saleh"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"TORI AND LOKITA","director":"Jean-Pierre Dardenne, Luc Dardenne","year":2022,"award":"🏅 Premio 75º aniversario"}];
+/* Premio limpio en origen: ninguna vista debe volver a recibir emojis */
+FESTIVAL_TAGS.forEach(x=>{x.award=cleanAwardLabel(x.award)});
+FESTIVAL_MISSING.forEach(x=>{x.award=cleanAwardLabel(x.award)});
+
 
 const $=id=>document.getElementById(id);
 const norm=s=>(s||'').toString().normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
