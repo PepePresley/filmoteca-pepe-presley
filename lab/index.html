@@ -677,35 +677,58 @@ function festivalRibbon(award){
  return '<div class="festivalRibbon '+(selection?'selection':palme?'palme':'winner')+'"><span class="classicAwardIcon">'+icon+'</span><span>'+esc(label)+'</span></div>';
 }
 function normFest(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}
+const FESTIVAL_INDEX=DATA.map((r,idx)=>({
+ idx,
+ y:Number(r&&r.y)||0,
+ d:normFest(r&&r.d),
+ titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title].filter(Boolean).map(normFest)
+}));
+const FESTIVAL_EDITION_CACHE=new Map();
 function resolveFestivalMatch(ft){
- const nd=normFest(ft.director), nt=normFest(ft.festival_title);
- let best=-1;
- for(let i=0;i<DATA.length;i++){
-   const r=DATA[i]; if(!r)continue;
-   if(nd && normFest(r.d)!==nd) continue;
-   if(Number(r.y)&&Math.abs(Number(r.y)-2024)>1) continue;
-   const hay=normFest([r.t,r.ot,r.original_title,r.en,r.english_title].filter(Boolean).join(' '));
-   if(hay.includes(nt)||nt.includes(normFest(r.t||''))||nd){best=i;break}
+ const nd=normFest(ft.director), nt=normFest(ft.festival_title), fy=Number(ft.festival_year)||0;
+ let best=-1,bestScore=0;
+ for(const x of FESTIVAL_INDEX){
+   if(fy&&x.y&&Math.abs(x.y-fy)>1) continue;
+   let score=0;
+   if(nd&&x.d){
+     if(x.d===nd) score+=5;
+     else if(x.d.includes(nd)||nd.includes(x.d)) score+=3;
+   }
+   let titleScore=0;
+   for(const t of x.titles){
+     if(!t||!nt) continue;
+     if(t===nt) titleScore=Math.max(titleScore,8);
+     else if(t.includes(nt)||nt.includes(t)) titleScore=Math.max(titleScore,5);
+   }
+   score+=titleScore;
+   if(fy&&x.y===fy) score+=2; else if(fy&&x.y&&Math.abs(x.y-fy)===1) score+=1;
+   if(score>bestScore){bestScore=score;best=x.idx}
  }
- return best;
+ return bestScore>=7?best:-1;
 }
-function festivalEditionData(fy){
- const external=(FESTIVAL_DB.editions||[]).find(e=>e.festival==='Cannes'&&Number(e.year)===Number(fy)&&e.section==='Competición oficial');
+function festivalEditionData(fy,festival='Cannes',section='Competición oficial'){
+ const key=[festival,fy,section].join('|');
+ if(FESTIVAL_EDITION_CACHE.has(key)) return FESTIVAL_EDITION_CACHE.get(key);
+ const external=(FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy)&&e.section===section);
+ let result;
  if(external){
    const present=[],missing=[];
    external.films.forEach(f=>{
-     const ft={festival:'Cannes',festival_year:Number(fy),section:external.section,festival_title:f.title,director:f.director,award:f.award};
+     const ft={festival,festival_year:Number(fy),section,festival_title:f.title,director:f.director,award:f.award};
      const idx=resolveFestivalMatch(ft);
      if(idx>=0) present.push({...ft,idx});
-     else missing.push({festival:'Cannes',festival_year:Number(fy),section:external.section,title:f.title,director:f.director,year:Number(fy),award:f.award});
+     else missing.push({festival,festival_year:Number(fy),section,title:f.title,director:f.director,year:Number(fy),award:f.award});
    });
-   return {present,missing};
+   result={present,missing};
+ }else{
+   const fixed=FESTIVAL_TAGS.filter(x=>x.festival===festival&&x.festival_year===fy);
+   const dyn=FESTIVAL_MATCH_TAGS.filter(x=>x.festival===festival&&x.festival_year===fy);
+   const present=fixed.slice(),missing=FESTIVAL_MISSING.filter(x=>x.festival===festival&&x.festival_year===fy).slice();
+   dyn.forEach(ft=>{const idx=resolveFestivalMatch(ft);if(idx>=0)present.push({...ft,idx});else missing.push({festival:ft.festival,festival_year:ft.festival_year,section:ft.section,title:ft.festival_title,director:ft.director,year:fy,award:ft.award})});
+   result={present,missing};
  }
- const fixed=FESTIVAL_TAGS.filter(x=>x.festival==='Cannes'&&x.festival_year===fy);
- const dyn=FESTIVAL_MATCH_TAGS.filter(x=>x.festival==='Cannes'&&x.festival_year===fy);
- const present=fixed.slice(), missing=FESTIVAL_MISSING.filter(x=>x.festival==='Cannes'&&x.festival_year===fy).slice();
- dyn.forEach(ft=>{const idx=resolveFestivalMatch(ft); if(idx>=0)present.push({...ft,idx}); else missing.push({festival:ft.festival,festival_year:ft.festival_year,section:ft.section,title:ft.festival_title,director:ft.director,year:fy,award:ft.award})});
- return {present,missing};
+ FESTIVAL_EDITION_CACHE.set(key,result);
+ return result;
 }
 function renderFestivalEdition(fy){
  const ed=festivalEditionData(fy), tags=ed.present, missing=ed.missing;
