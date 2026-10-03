@@ -1,39 +1,47 @@
-name: Probar Filmoteca publicada
+name: Laboratorio premios 2024
 on:
   push:
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
   contents: read
 jobs:
-  probar:
+  laboratorio:
     runs-on: ubuntu-latest
     steps:
-      - name: Esperar y comprobar web pública
+      - uses: actions/checkout@v4
+      - name: Cruzar 2024 con la filmoteca
         run: |
           python3 - <<'PY'
-          import urllib.request,json,time,re
-          base="https://pepepresley.github.io/filmoteca-pepe-presley/"
-          for n in range(12):
-              try:
-                  html=urllib.request.urlopen(base+"?v=smoke205a484",timeout=20).read().decode("utf-8")
-                  if "data/catalog/catalog.json" in html:
-                      break
-              except Exception as e:
-                  print("espera",n,e)
-              time.sleep(10)
-          else: raise SystemExit("La versión ligera aún no está publicada")
-          print("HTML publicado bytes:",len(html.encode()))
-          assert len(html.encode()) < 200000
-          assert "Filmoteca" in html
-          assert "data/catalog/catalog.json" in html
-          raw=urllib.request.urlopen(base+"data/catalog/catalog.json?v=smoke205a484",timeout=60).read()
-          data=json.loads(raw)
-          print("Catálogo publicado bytes:",len(raw))
-          print("Películas publicadas:",len(data))
-          assert len(data)==52929
-          assert all(k in data[0] for k in ("t","y"))
-          for y in (2021,2022):
-              assert f"Cannes {y}" in html
-          print("Cannes 2021/2022: OK")
-          print("SMOKE TEST PUBLICO: OK")
+          import json,re,unicodedata
+          from pathlib import Path
+          data=json.loads(Path("data/catalog/catalog.json").read_text())
+          def norm(s):
+            s=unicodedata.normalize("NFD",str(s or ""))
+            s="".join(c for c in s if unicodedata.category(c)!="Mn").lower()
+            return re.sub(r"[^a-z0-9]+"," ",s).strip()
+          lookup={}
+          for i,r in enumerate(data):
+            for x in (r.get("t"),r.get("o")):
+              if norm(x): lookup.setdefault(norm(x),[]).append(i)
+          sets={
+          "Cannes":["Anora","All We Imagine as Light","Emilia Pérez","Grand Tour","Kinds of Kindness","The Substance","The Seed of the Sacred Fig"],
+          "Venecia":["The Room Next Door","Vermiglio","The Brutalist","Babygirl","April"],
+          "Berlin":["Dahomey","A Traveler's Needs","The Empire","Pepe","No Other Land"],
+          "San Sebastian":["Tardes de soledad","The Last Showgirl","On Falling","El llanto","Los destellos","Cuando cae el otoño","Bound in Heaven"],
+          "Oscar":["Oppenheimer","Poor Things","The Holdovers","The Zone of Interest","American Fiction","Anatomy of a Fall","The Boy and the Heron","20 Days in Mariupol","Barbie"]
+          }
+          out={}
+          for fest,titles in sets.items():
+            rows=[]
+            for title in titles:
+              ids=lookup.get(norm(title),[])
+              rows.append({"title":title,"found":bool(ids),"matches":[{"idx":i,"t":data[i].get("t"),"o":data[i].get("o"),"y":data[i].get("y"),"d":data[i].get("d")} for i in ids[:5]]})
+            out[fest]=rows
+            print("\n##",fest,sum(x["found"] for x in rows),"/",len(rows))
+            for x in rows: print("OK" if x["found"] else "--",x["title"],x["matches"][:1])
+          Path("/tmp/cruce2024.json").write_text(json.dumps(out,ensure_ascii=False,indent=2))
           PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cruce-premios-2024
+          path: /tmp/cruce2024.json
