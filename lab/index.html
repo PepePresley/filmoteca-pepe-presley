@@ -481,7 +481,7 @@ $('clearFestival').onclick=()=>{activeFestival=null;render();document.getElement
 
 chooseSpot();render();
 
-}catch(e){console.error(e);if(!catalogoCargado)document.body.insertAdjacentHTML("afterbegin","<div style='padding:12px;background:#7a1d1d;color:white'>No se pudo cargar el catálogo. Recarga la página.</div>");else console.warn("Error secundario tras cargar catálogo:",e);}
+}catch(e){console.error("Error en /lab/:",e);}
 }
 arrancarFilmoteca();
 </script>
