@@ -33,7 +33,7 @@ jobs:
           for f in fest:
               cand=[]
               for i,r in enumerate(data):
-                  if abs(int(r.get("y") or 0)-f["festival_year"])>1: continue
+                  if abs(int(r.get("y") or 0)-f["festival_year"])>2: continue
                   sc=max(SequenceMatcher(None,norm(f["title"]),norm(r.get(k,""))).ratio() for k in ("t","o"))
                   dm=dmatch(f["director"],r.get("d",""))
                   if dm or sc>=.72: cand.append((sc,dm,i,r.get("t"),r.get("o"),r.get("d")))
