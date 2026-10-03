@@ -1,37 +1,52 @@
-name: Comprobar Filmoteca estable publicada
+name: Construir versión aligerada aislada
 on:
   push:
+    branches: [lab-aligerado]
     paths: ['.github/workflows/inspeccionar-ui-2024.yml']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  comprobar:
+  construir:
     runs-on: ubuntu-latest
     steps:
-      - name: Verificar web publicada
+      - uses: actions/checkout@v4
+        with: {ref: lab-aligerado}
+      - name: Separar catálogo sin tocar main
         run: |
           python3 - <<'PY'
-          import urllib.request
-          u="https://pepepresley.github.io/filmoteca-pepe-presley/?v=d8a9fb2"
-          s=urllib.request.urlopen(u,timeout=60).read().decode("utf-8")
-          print("HTML publicado bytes:",len(s.encode()))
-          checks={
-            "catalogo_incrustado":"const DATA = [" in s,
-            "sin_error_tags":"const FESTIVAL_TAGSconst" not in s,
-            "arranque_render":"chooseSpot();render();" in s,
-            "buscador":'id="q"' in s,
-            "filtro_ano":'id="year"' in s,
-            "pestana_festivales":'id="tabFestivals"' in s,
-          }
-          for k,v in checks.items(): print(k,":","OK" if v else "FALLO")
-          assert len(s.encode())>10_000_000
-          assert all(checks.values())
-          open("/tmp/index.html","w").write(s)
+          from pathlib import Path
+          import re,json
+          p=Path("index.html"); s=p.read_text(encoding="utf-8")
+          m=re.search(r'const DATA = (\[[\s\S]*?\]);\nconst FESTIVAL_TAGS',s)
+          if not m: raise SystemExit("No se encontró DATA")
+          raw=m.group(1); data=json.loads(raw)
+          Path("data/catalog").mkdir(parents=True,exist_ok=True)
+          Path("data/catalog/catalog.json").write_text(raw,encoding="utf-8")
+          # La app original se encapsula en una función y solo arranca tras cargar los datos.
+          start=m.start(); end=s.rfind("</script>")
+          before=s[:start]; app=s[start:end]
+          app=app.replace("const DATA = "+raw+";","const DATA = window.__CATALOGO__;",1)
+          wrapped='''async function arrancarFilmoteca(){\ntry{\n const r=await fetch("data/catalog/catalog.json?v=3");\n if(!r.ok) throw new Error("HTTP "+r.status);\n window.__CATALOGO__=await r.json();\n''' + app + '''\n}catch(e){console.error(e);document.body.insertAdjacentHTML("afterbegin","<div style='padding:12px;background:#7a1d1d;color:white'>No se pudo cargar el catálogo. Recarga la página.</div>");}\n}\narrancarFilmoteca();\n'''
+          s=before+wrapped+s[end:]
+          p.write_text(s,encoding="utf-8")
+          print("peliculas",len(data))
+          print("html",len(s.encode()))
+          print("catalogo",len(raw.encode()))
+          assert len(data)==52929
+          assert len(s.encode())<100000
           PY
           python3 - <<'PY'
           import re
-          s=open("/tmp/index.html").read()
+          s=open("index.html").read()
           open("/tmp/app.js","w").write("\n".join(re.findall(r'<script[^>]*>([\s\S]*?)</script>',s)))
           PY
           node --check /tmp/app.js
-          echo "JAVASCRIPT PUBLICADO: OK"
+          echo "SINTAXIS JS ALIGERADA: OK"
+      - name: Guardar solo en laboratorio
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html data/catalog/catalog.json
+          git commit -m "Prototipo aligerado aislado"
+          git push origin HEAD:lab-aligerado
