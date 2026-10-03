@@ -1,0 +1,42 @@
+name: Import Filmoteca Pepe Presley
+
+on:
+  push:
+    paths:
+      - '.github/workflows/import-filmoteca.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download current Filmoteca
+        run: |
+          curl -L --fail --retry 3 'https://uc48e010a9b62359b6b2d934e8f3.dl.dropboxusercontent.com/cd/0/get/DJSFDJBGvGKCk_JHe1sui-9LX2DNjn4illhZVB3CNFNqf9FkW2rd6O443S-PlAIPL2lwbXhXsv28wORZUmp0n_EPiOzASqK7Vt1ZE9eDwJCx0Qr43E8wWXZGl-TPe-eWCyawPmT0aWYYDrJIybOpVhZgwgKEP3JFHpB0Kjgv4mKdxA/file?c_luid=a6253552' -o index.html
+
+      - name: Create project structure
+        run: |
+          mkdir -p data/festivals docs
+          cat > data/festivals/README.md <<'EOF'
+          # Festivales
+
+          Aquí se guardarán las selecciones oficiales y premios de festivales que se cruzan con Filmoteca Pepe Presley.
+          EOF
+          cat > docs/README.md <<'EOF'
+          # Filmoteca Pepe Presley
+
+          Web personal de catálogo cinematográfico. La portada pública será index.html.
+          EOF
+
+      - name: Commit imported catalog
+        run: |
+          git config user.name "Filmoteca Pepe Presley"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html data docs
+          git commit -m "Importar Filmoteca Pepe Presley" || exit 0
+          git push
