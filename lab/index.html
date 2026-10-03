@@ -100,6 +100,38 @@ linear-gradient(180deg,#171013,#0e0e10);color:#c69a9e;font-family:Georgia,serif;
 .festGridYears{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
 .yearFest{min-height:180px}
 
+
+/* LAB festival browser — visual pilot */
+.festivalHub{max-width:1600px;margin:18px auto 8px;padding:0 3vw}
+.festivalShell{display:grid;grid-template-columns:235px minmax(0,1fr);min-height:590px;border:1px solid #2d2a25;border-radius:18px;overflow:hidden;background:#0e0f11;box-shadow:0 28px 90px rgba(0,0,0,.28)}
+.festSide{padding:22px 12px;background:linear-gradient(180deg,#111214,#0b0c0e);border-right:1px solid #292722}
+.festSideTitle{font-family:Georgia,serif;font-size:21px;margin:0 8px 14px;color:#f1eadc}
+.festNav{display:grid;gap:5px}.festNav button{width:100%;text-align:left;border:0;background:transparent;color:#c5c0b7;padding:10px 12px;border-radius:9px;cursor:pointer;font-size:13px}
+.festNav button.active{background:linear-gradient(90deg,#493a18,#2b2518);color:#f5d77f;font-weight:800}
+.festNav button.locked{opacity:.45;cursor:default}.festNav .ico{display:inline-block;width:24px;text-align:center;margin-right:5px}
+.festDivider{height:1px;background:#292722;margin:18px 7px}
+.festSideLabel{font-family:Georgia,serif;font-size:16px;color:#f0eadf;margin:0 9px 10px}
+.festYears{display:grid;gap:3px;max-height:265px;overflow:auto;padding-right:3px}
+.festYears button{border:0;background:transparent;color:#aaa49a;text-align:left;padding:7px 12px;border-radius:8px;cursor:pointer}
+.festYears button:hover,.festYears button.active{background:#3c321d;color:#f4d276;font-weight:800}
+.festSections{display:grid;gap:4px}.festSections div{padding:7px 12px;color:#8e8981;font-size:12px;border-radius:7px}.festSections .active{background:#2b261a;color:#e8ca76}
+.festMain{min-width:0}
+.festHero{min-height:215px;padding:34px 38px;display:flex;align-items:flex-end;background:
+linear-gradient(90deg,rgba(9,10,12,.97) 0%,rgba(9,10,12,.72) 55%,rgba(9,10,12,.45) 100%),
+radial-gradient(circle at 78% 18%,rgba(205,164,72,.24),transparent 35%),
+linear-gradient(135deg,#20190e,#101216 60%,#251c0e)}
+.festPalm{font-size:46px;line-height:1;margin-bottom:10px;color:#e8c76e}
+.festHero h2{font-family:Georgia,serif;font-weight:500;font-size:43px;margin:0 0 5px;color:#fff}
+.festHeroSub{font-family:Georgia,serif;font-size:20px;color:#eee7db}
+.festHeroMeta{margin-top:8px;color:#b7b0a3;font-size:13px}.festHeroMeta b{color:#e9cc78}
+.festWelcome{padding:28px 34px}
+.festWelcome h3{font-family:Georgia,serif;font-size:25px;font-weight:500;margin:0 0 8px}
+.festWelcome p{color:#aaa49a;line-height:1.6;max-width:760px;margin:0 0 20px}
+.festYearCards{display:grid;grid-template-columns:repeat(4,minmax(135px,1fr));gap:10px}
+.festMini{border:1px solid #353129;background:#151515;color:#ddd4c4;border-radius:11px;padding:14px;text-align:left;cursor:pointer}
+.festMini:hover{border-color:#8a7138;background:#1d1a13}.festMini b{display:block;color:#f1cf76;font-size:18px;margin-bottom:4px}.festMini span{font-size:11px;color:#918b82}
+@media(max-width:850px){.festivalShell{grid-template-columns:1fr}.festSide{border-right:0;border-bottom:1px solid #292722}.festNav{grid-template-columns:repeat(2,1fr)}.festYears{grid-template-columns:repeat(4,1fr);max-height:none}.festHero{padding:26px}.festHero h2{font-size:34px}.festYearCards{grid-template-columns:repeat(2,1fr)}}
+
 </style>
 </head>
 <body>
@@ -153,105 +185,57 @@ linear-gradient(180deg,#171013,#0e0e10);color:#c69a9e;font-family:Georgia,serif;
 </div>
 
 <section class="festivalHub" id="festivalHub">
-<h2 class="sectionTitle">Festival de Cannes · 1990–1999 · 2021–2022</h2>
-<div class="sectionNote">Competición oficial cruzada con Filmoteca Pepe Presley. Las ausentes también aparecen para que puedas localizarlas.</div>
-<div class="festGridYears"><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1990</div>
-    <div class="festMeta"><b>14</b> en tu filmoteca · <b>4</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1990">Ver las 18 películas</button></div>
+ <div class="festivalShell">
+  <aside class="festSide">
+   <div class="festSideTitle">🏆 &nbsp;Festivales</div>
+   <div class="festNav">
+    <button class="active"><span class="ico">🌴</span>Cannes</button>
+    <button class="locked" title="Se incorporará en el piloto 2024"><span class="ico">🦁</span>Venecia</button>
+    <button class="locked" title="Se incorporará en el piloto 2024"><span class="ico">🐻</span>Berlín</button>
+    <button class="locked" title="Se incorporará en el piloto 2024"><span class="ico">◉</span>San Sebastián</button>
+    <button class="locked" title="Se incorporará en el piloto 2024"><span class="ico">🏅</span>Oscar</button>
+   </div>
+   <div class="festDivider"></div>
+   <div class="festSideLabel">Año (Cannes)</div>
+   <div class="festYears">
+    <button class="festivalYearBtn" data-year="2022">2022</button>
+    <button class="festivalYearBtn" data-year="2021">2021</button>
+    <button class="festivalYearBtn" data-year="1999">1999</button>
+    <button class="festivalYearBtn" data-year="1998">1998</button>
+    <button class="festivalYearBtn" data-year="1997">1997</button>
+    <button class="festivalYearBtn" data-year="1996">1996</button>
+    <button class="festivalYearBtn" data-year="1995">1995</button>
+    <button class="festivalYearBtn" data-year="1994">1994</button>
+    <button class="festivalYearBtn" data-year="1993">1993</button>
+    <button class="festivalYearBtn" data-year="1992">1992</button>
+    <button class="festivalYearBtn" data-year="1991">1991</button>
+    <button class="festivalYearBtn" data-year="1990">1990</button>
+   </div>
+   <div class="festDivider"></div>
+   <div class="festSideLabel">Sección</div>
+   <div class="festSections"><div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div></div>
+  </aside>
+  <div class="festMain">
+   <div class="festHero">
+    <div>
+     <div class="festPalm">🌴</div>
+     <h2 id="festDisplayTitle">Festival de Cannes</h2>
+     <div class="festHeroSub" id="festDisplaySub">Archivo de selecciones y palmarés</div>
+     <div class="festHeroMeta" id="festDisplayMeta">Cruce directo con las <b>52.929 películas</b> de Filmoteca Pepe Presley</div>
+    </div>
+   </div>
+   <div class="festWelcome">
+    <h3>Elige un año de Cannes</h3>
+    <p>Verás la competición oficial como una colección visual: películas presentes en tu filmoteca, premios y títulos pendientes de localizar. Este es ya el nuevo diseño sobre el que construiremos el piloto completo de 2024.</p>
+    <div class="festYearCards">
+     <button class="festMini festivalYearBtn" data-year="1997"><b>1997</b><span>19 de 20 en tu filmoteca</span></button>
+     <button class="festMini festivalYearBtn" data-year="1998"><b>1998</b><span>22 de 22 en tu filmoteca</span></button>
+     <button class="festMini festivalYearBtn" data-year="2021"><b>2021</b><span>6 de 9 en tu filmoteca</span></button>
+     <button class="festMini festivalYearBtn" data-year="2022"><b>2022</b><span>6 de 10 en tu filmoteca</span></button>
+    </div>
+   </div>
   </div>
-  <div class="festScore"><b>14/18</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1991</div>
-    <div class="festMeta"><b>16</b> en tu filmoteca · <b>3</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1991">Ver las 19 películas</button></div>
-  </div>
-  <div class="festScore"><b>16/19</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1992</div>
-    <div class="festMeta"><b>20</b> en tu filmoteca · <b>1</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1992">Ver las 21 películas</button></div>
-  </div>
-  <div class="festScore"><b>20/21</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1993</div>
-    <div class="festMeta"><b>17</b> en tu filmoteca · <b>6</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1993">Ver las 23 películas</button></div>
-  </div>
-  <div class="festScore"><b>17/23</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1994</div>
-    <div class="festMeta"><b>19</b> en tu filmoteca · <b>4</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1994">Ver las 23 películas</button></div>
-  </div>
-  <div class="festScore"><b>19/23</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1995</div>
-    <div class="festMeta"><b>20</b> en tu filmoteca · <b>4</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1995">Ver las 24 películas</button></div>
-  </div>
-  <div class="festScore"><b>20/24</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1996</div>
-    <div class="festMeta"><b>20</b> en tu filmoteca · <b>2</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1996">Ver las 22 películas</button></div>
-  </div>
-  <div class="festScore"><b>20/22</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1997</div>
-    <div class="festMeta"><b>19</b> en tu filmoteca · <b>1</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1997">Ver las 20 películas</button></div>
-  </div>
-  <div class="festScore"><b>19/20</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1998</div>
-    <div class="festMeta"><b>22</b> en tu filmoteca · <b>0</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1998">Ver las 22 películas</button></div>
-  </div>
-  <div class="festScore"><b>22/22</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 1999</div>
-    <div class="festMeta"><b>20</b> en tu filmoteca · <b>2</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="1999">Ver las 22 películas</button></div>
-  </div>
-  <div class="festScore"><b>20/22</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 2021</div>
-    <div class="festMeta"><b>6</b> en tu filmoteca · <b>3</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="2021">Ver las 9 películas</button></div>
-  </div>
-  <div class="festScore"><b>6/9</b><span>en tu filmoteca</span></div>
-</div><div class="festCard yearFest">
-  <div>
-    <div class="festEyebrow">Festival de Cannes · Competición oficial</div>
-    <div class="festTitle">Cannes 2022</div>
-    <div class="festMeta"><b>6</b> en tu filmoteca · <b>4</b> pendientes de localizar</div>
-    <div class="heroActions"><button class="btn primary festivalYearBtn" data-year="2022">Ver las 10 películas</button></div>
-  </div>
-  <div class="festScore"><b>6/10</b><span>en tu filmoteca</span></div>
-</div></div>
+ </div>
 </section>
 <section class="quick">
  <h2 class="sectionTitle">Colecciones rápidas</h2>
@@ -474,6 +458,13 @@ document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>{
  ['q','year','genre','country','source','status','quality','duration'].forEach(id=>$(id).value='');
  $('sort').value='year_desc';
  activeFestival='cannes'+b.dataset.year;
+ document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',x.dataset.year===b.dataset.year));
+ const yr=b.dataset.year;
+ const count=FESTIVAL_TAGS.filter(x=>x.festival_year==yr).length;
+ const present=FESTIVAL_TAGS.filter(x=>x.festival_year==yr && x.idx!=null).length;
+ if($('festDisplayTitle')) $('festDisplayTitle').textContent='Cannes '+yr;
+ if($('festDisplaySub')) $('festDisplaySub').textContent='Sección Oficial · '+count+' películas';
+ if($('festDisplayMeta')) $('festDisplayMeta').innerHTML='<b>'+present+'</b> vinculadas con tu filmoteca · selección y premios';
  render();
  document.getElementById('catalogo').scrollIntoView({behavior:'smooth'});
 });
