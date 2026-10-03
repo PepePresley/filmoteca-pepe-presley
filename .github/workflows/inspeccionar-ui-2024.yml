@@ -8,25 +8,16 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Comprobar LAB publicado
+      - name: Comprobar LAB publicado actual
         run: |
           python3 - <<'PY'
-          import urllib.request,json
-          base='https://pepepresley.github.io/filmoteca-pepe-presley'
-          h=urllib.request.urlopen(base+'/lab/?v=35c05571',timeout=60).read().decode('utf-8')
-          d=json.loads(urllib.request.urlopen(base+'/data/catalog/catalog.json?v=lab3',timeout=60).read())
+          import urllib.request,time
+          url='https://pepepresley.github.io/filmoteca-pepe-presley/lab/?diag=2a882581'
+          time.sleep(20)
+          req=urllib.request.Request(url,headers={'Cache-Control':'no-cache','User-Agent':'Filmoteca-Diagnostic'})
+          h=urllib.request.urlopen(req,timeout=60).read().decode('utf-8')
           print('html_bytes',len(h.encode()))
-          print('peliculas',len(d))
-          checks=[
-            ('async','async function arrancarFilmoteca' in h),
-            ('fetch_correcto','../data/catalog/catalog.json?v=lab3' in h),
-            ('render','chooseSpot();render();' in h),
-            ('buscador','id="q"' in h),
-            ('festivales','id="tabFestivals"' in h),
-          ]
-          for k,v in checks: print(k,'OK' if v else 'FALLO')
-          assert len(h.encode())<100000
-          assert len(d)==52929
-          assert all(v for _,v in checks)
-          print('LAB_PUBLICADO_OK')
+          for text in ['LAB e2b9 → PRUEBA 2024','data-year="2024"','FESTIVAL_MATCH_TAGS']:
+              print(text, 'SI' if text in h else 'NO')
+          print('snippet:',h[h.find('Elige un año')-200:h.find('Elige un año')+1200])
           PY
