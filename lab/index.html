@@ -360,15 +360,15 @@ body.festivalMode .festivalHub{margin-top:10px}
   <aside class="festSide">
    <div class="festSideTitle"><svg class="festTitleIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg> Festivales</div>
    <div class="festNav">
-    <button class="active"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg>Cannes</button>
+    <button class="festivalSelectBtn active" data-festival="Cannes"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg>Cannes</button>
     <button class="festivalSelectBtn" data-festival="Venecia"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
     <button class="festivalSelectBtn" data-festival="Berlín"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
     <button class="festivalSelectBtn" data-festival="San Sebastián"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
     <button class="festivalSelectBtn" data-festival="Oscar"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
    </div>
    <div class="festDivider"></div>
-   <div class="festSideLabel">Año (Cannes)</div>
-   <div class="festYears">
+   <div class="festSideLabel" id="festYearLabel">Año (Cannes)</div>
+   <div class="festYears" id="festYears">
     <button class="festivalYearBtn" data-year="2024">2024</button>
     <button class="festivalYearBtn" data-year="2022">2022</button>
     <button class="festivalYearBtn" data-year="2021">2021</button>
@@ -385,12 +385,12 @@ body.festivalMode .festivalHub{margin-top:10px}
    </div>
    <div class="festDivider"></div>
    <div class="festSideLabel">Sección</div>
-   <div class="festSections"><div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div></div>
+   <div class="festSections" id="festSections"><div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div></div>
   </aside>
   <div class="festMain">
    <div class="festHero">
     <div>
-     <div class="festPalm"><svg class="festHeroIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg></div>
+     <div class="festPalm"><svg class="festHeroIcon" viewBox="0 0 64 64"><use id="festHeroUse" href="#ico-cannes"></use></svg></div>
      <h2 id="festDisplayTitle">Festival de Cannes</h2>
      <div class="festHeroSub" id="festDisplaySub">Archivo de selecciones y palmarés</div>
      <div class="festHeroMeta" id="festDisplayMeta">Cruce directo con las <b>52.929 películas</b> de Filmoteca Pepe Presley</div>
@@ -781,12 +781,32 @@ function renderFestivalEditionFor(festival,fy){
  orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
  missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';grid.appendChild(el)});
 }
+function festivalIconId(f){
+ return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':'#ico-cannes';
+}
+function festivalSectionsHTML(f){
+ if(f==='Oscar') return '<div class="active">Premios de la Academia</div>';
+ if(f==='Cannes') return '<div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div>';
+ return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
+}
+function rebuildFestivalYears(f){
+ const years=f==='Cannes'
+   ? [...new Set([...availableYears(f),2022,2021,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990])].sort((a,b)=>b-a)
+   : availableYears(f);
+ $('festYearLabel').textContent='Año ('+f+')';
+ $('festYears').innerHTML=years.map(y=>'<button class="festivalYearBtn" data-year="'+y+'">'+y+'</button>').join('');
+ $('festYears').querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
+}
+function selectFestival(f,openLatest=true){
+ selectedFestival=f;
+ document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.classList.toggle('active',b.dataset.festival===f));
+ rebuildFestivalYears(f);
+ $('festSections').innerHTML=festivalSectionsHTML(f);
+ const use=$('festHeroUse'); if(use) use.setAttribute('href',festivalIconId(f));
+ if(openLatest){const years=availableYears(f);if(years.length)openFestivalYear(years[0]);}
+}
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
-document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>{
- selectedFestival=b.dataset.festival;
- const years=availableYears(selectedFestival);
- if(years.length) openFestivalYear(years[0]);
-});
+document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>selectFestival(b.dataset.festival,true));
 // Welcome-card counts are always computed from the same live festival data.
 document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
  const yr=Number(b.dataset.year), ed=festivalEditionData(yr), s=b.querySelector('span');
@@ -801,6 +821,7 @@ if(directParams.get('view')==='festivals'){
  if(directFestival==='berlin') selectedFestival='Berlín';
  if(directFestival==='san-sebastian'||directFestival==='sansebastian') selectedFestival='San Sebastián';
  if(directFestival==='oscar'||directFestival==='oscars') selectedFestival='Oscar';
+ selectFestival(selectedFestival,false);
  const directYear=Number(directParams.get('year'));
  if(directYear) openFestivalYear(directYear);
 }
