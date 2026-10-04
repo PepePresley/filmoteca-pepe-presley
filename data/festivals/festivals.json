@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 22,
   "editions": [
     {
       "festival": "Cannes",
@@ -7017,111 +7017,6 @@
       ]
     },
     {
-      "festival": "San Sebastián",
-      "year": 1999,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "A Map of the World",
-          "director": "Scott Elliott",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Jonas et Lila, à demain",
-          "director": "Alain Tanner",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Cuando vuelvas a mi lado",
-          "director": "Gracia Querejeta",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Jaime",
-          "director": "António-Pedro Vasconcelos",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "La Maladie de Sachs",
-          "director": "Michel Deville",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Miss Julie",
-          "director": "Mike Figgis",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Mumford",
-          "director": "Lawrence Kasdan",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Nichts als die Wahrheit",
-          "director": "Roland Suso Richter",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Orfeu",
-          "director": "Carlos Diegues",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Soft Fruit",
-          "director": "Christina Andreef",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Crossing",
-          "director": "Nora Hoppe",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Under the Sun",
-          "director": "Colin Nutley",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Volavérunt",
-          "director": "Bigas Luna",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Xizhao",
-          "director": "Zhang Yang",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "C'est quoi la vie?",
-          "director": "François Dupeyron",
-          "aliases": [
-            "¿QUÉ ES LA VIDA?"
-          ],
-          "award": "Concha de Oro · mejor actor: Jacques Dufilho"
-        },
-        {
-          "title": "The Red Ribbon",
-          "director": "Ebrahim Hatamikia",
-          "aliases": [],
-          "award": "En competición"
-        }
-      ]
-    },
-    {
       "festival": "Oscar",
       "year": 1999,
       "section": "71.ª edición · películas de 1998",
@@ -7859,6 +7754,109 @@
           "director": "Abbas Kiarostami",
           "aliases": [],
           "award": "Gran Premio Especial del Jurado"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1999,
+      "section": "Sección Oficial · competición",
+      "films": [
+        {
+          "title": "Jonas et Lila, à demain",
+          "director": "Alain Tanner",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "A Map of the World",
+          "director": "Scott Elliott",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "C'est quoi la vie?",
+          "director": "François Dupeyron",
+          "aliases": [],
+          "award": "Concha de Oro · Mejor actor"
+        },
+        {
+          "title": "Cuando vuelvas a mi lado",
+          "director": "Gracia Querejeta",
+          "aliases": [],
+          "award": "Mejor fotografía · Mención especial"
+        },
+        {
+          "title": "Jaime",
+          "director": "António-Pedro Vasconcelos",
+          "aliases": [],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "La Maladie de Sachs",
+          "director": "Michel Deville",
+          "aliases": [],
+          "award": "Concha de Plata a la mejor dirección"
+        },
+        {
+          "title": "Miss Julie",
+          "director": "Mike Figgis",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Mumford",
+          "director": "Lawrence Kasdan",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Nichts als die Wahrheit",
+          "director": "Roland Suso Richter",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Orfeu",
+          "director": "Carlos Diegues",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Soft Fruit",
+          "director": "Christina Andreef",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Crossing",
+          "director": "Nora Hoppe",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Red Ribbon",
+          "director": "Ebrahim Hatamikia",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Under the Sun",
+          "director": "Colin Nutley",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Volaverunt",
+          "director": "Bigas Luna",
+          "aliases": [],
+          "award": "Concha de Plata a la mejor actriz"
+        },
+        {
+          "title": "Xizhao",
+          "director": "Zhang Yang",
+          "aliases": [],
+          "award": "Concha de Plata a la mejor dirección"
         }
       ]
     }
