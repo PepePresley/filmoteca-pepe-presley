@@ -866,13 +866,16 @@ function openFestivalYear(yr){
    if(first)renderOscarCategory(yr,first);else renderFestivalEditionFor(selectedFestival,yr);
  }else{
    const sections=(FESTIVAL_DB.editions||[]).filter(e=>e.festival===selectedFestival&&Number(e.year)===Number(yr));
-   if(selectedFestival==='Cannes'&&sections.length>1){
-     $('festSections').innerHTML=sections.map((e,i)=>'<div class="festivalSectionBtn '+(i===0?'active':'')+'" data-section="'+esc(e.section)+'">'+esc(e.section)+'</div>').join('');
+   const initialSection=sections.length?sections[0].section:null;
+   if(selectedFestival==='Cannes'){
+     $('festSections').innerHTML=sections.length
+       ? sections.map((e,i)=>'<div class="festivalSectionBtn '+(i===0?'active':'')+'" data-section="'+esc(e.section)+'">'+esc(e.section)+'</div>').join('')
+       : '<div class="active">Sección Oficial</div>';
      $('festSections').querySelectorAll('.festivalSectionBtn').forEach(b=>b.onclick=()=>renderFestivalSection(yr,b.dataset.section));
    }
-   $('festDisplaySub').textContent=(ed.section||'Sección Oficial')+' · '+total+' películas';
+   $('festDisplaySub').textContent=(initialSection||'Sección Oficial')+' · '+total+' películas';
    $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
-   renderFestivalEditionFor(selectedFestival,yr,ed.section);
+   renderFestivalEditionFor(selectedFestival,yr,initialSection);
  }
  history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+yr);
  window.scrollTo({top:0,behavior:'smooth'});
