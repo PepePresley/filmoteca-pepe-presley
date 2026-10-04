@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "editions": [
     {
       "festival": "Cannes",
@@ -8768,7 +8768,8 @@
           "director": "Laetitia Masson",
           "aliases": [
             "Mujer en venta",
-            "À vendre"
+            "À vendre",
+            "Se vende"
           ],
           "award": "En Un Certain Regard"
         },
@@ -8864,7 +8865,9 @@
         {
           "title": "Os Mutantes",
           "director": "Teresa Villaverde",
-          "aliases": [],
+          "aliases": [
+            "Los mutantes"
+          ],
           "award": "En Un Certain Regard"
         },
         {
@@ -8949,7 +8952,9 @@
         {
           "title": "Un soir après la guerre",
           "director": "Rithy Panh",
-          "aliases": [],
+          "aliases": [
+            "Una noche después de la guerra"
+          ],
           "award": "En Un Certain Regard"
         },
         {
@@ -9334,7 +9339,8 @@
           "title": "À la place du coeur",
           "director": "Robert Guédiguian",
           "aliases": [
-            "Where the Heart Is"
+            "Where the Heart Is",
+            "De todo corazón"
           ],
           "award": "Premio Especial del Jurado"
         },
