@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "editions": [
     {
       "festival": "Cannes",
@@ -7129,7 +7129,9 @@
         {
           "title": "Shakespeare in Love",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "SHAKESPEARE ENAMORADO"
+          ],
           "nominations": [
             "Película",
             "Dirección",
@@ -7175,7 +7177,10 @@
         {
           "title": "Life Is Beautiful",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "LA VIDA ES BELLA",
+            "La vita e bella"
+          ],
           "nominations": [
             "Película",
             "Dirección",
@@ -7194,7 +7199,9 @@
         {
           "title": "Saving Private Ryan",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "SALVAR AL SOLDADO RYAN"
+          ],
           "nominations": [
             "Película",
             "Dirección",
@@ -7219,7 +7226,9 @@
         {
           "title": "The Thin Red Line",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "LA DELGADA LINEA ROJA"
+          ],
           "nominations": [
             "Película",
             "Dirección",
@@ -7234,7 +7243,9 @@
         {
           "title": "The Truman Show",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "EL SHOW DE TRUMAN (UNA VIDA EN DIRECTO)"
+          ],
           "nominations": [
             "Dirección",
             "Actor de reparto",
@@ -7245,7 +7256,9 @@
         {
           "title": "Gods and Monsters",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "DIOSES Y MONSTRUOS"
+          ],
           "nominations": [
             "Actor protagonista",
             "Actriz de reparto",
@@ -7258,7 +7271,9 @@
         {
           "title": "Affliction",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "AFLICCION"
+          ],
           "nominations": [
             "Actor protagonista",
             "Actor de reparto"
@@ -7279,7 +7294,10 @@
         {
           "title": "Central Station",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "ESTACION CENTRAL DE BRASIL",
+            "Central do Brasil"
+          ],
           "nominations": [
             "Actriz protagonista",
             "Película internacional"
@@ -7289,7 +7307,9 @@
         {
           "title": "One True Thing",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "COSAS QUE IMPORTAN"
+          ],
           "nominations": [
             "Actriz protagonista"
           ],
@@ -7298,7 +7318,9 @@
         {
           "title": "Hilary and Jackie",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "HILARY Y JACKIE"
+          ],
           "nominations": [
             "Actriz protagonista",
             "Actriz de reparto"
@@ -7308,7 +7330,9 @@
         {
           "title": "A Civil Action",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "ACCIÓN CIVIL"
+          ],
           "nominations": [
             "Actor de reparto",
             "Fotografía"
@@ -7318,7 +7342,9 @@
         {
           "title": "A Simple Plan",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "UN PLAN SENCILLO"
+          ],
           "nominations": [
             "Actor de reparto",
             "Guion adaptado"
@@ -7347,7 +7373,9 @@
         {
           "title": "Out of Sight",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "UN ROMANCE MUY PELIGROSO"
+          ],
           "nominations": [
             "Guion adaptado",
             "Montaje"
@@ -7407,7 +7435,10 @@
         {
           "title": "Children of Heaven",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "LOS NIÑOS DEL PARAISO (CHILDREN OF HEAVEN)",
+            "Bacheha-Ye aseman"
+          ],
           "nominations": [
             "Película internacional"
           ],
@@ -7416,7 +7447,9 @@
         {
           "title": "The Grandfather",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "EL ABUELO"
+          ],
           "nominations": [
             "Película internacional"
           ],
@@ -7434,7 +7467,9 @@
         {
           "title": "A Bug's Life",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "BICHOS, UNA AVENTURA EN MINIATURA"
+          ],
           "nominations": [
             "Banda sonora musical o comedia"
           ],
@@ -7461,7 +7496,9 @@
         {
           "title": "The Prince of Egypt",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "EL PRÍNCIPE DE EGIPTO"
+          ],
           "nominations": [
             "Banda sonora musical o comedia",
             "Canción"
@@ -7485,7 +7522,9 @@
         {
           "title": "Quest for Camelot",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "La espada mágica: En busca de Camelot"
+          ],
           "nominations": [
             "Canción"
           ],
@@ -7494,7 +7533,9 @@
         {
           "title": "The Horse Whisperer",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "EL HOMBRE QUE SUSURRABA A LOS CABALLOS"
+          ],
           "nominations": [
             "Canción"
           ],
@@ -7503,7 +7544,9 @@
         {
           "title": "Babe: Pig in the City",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "BABE, EL CERDITO EN LA CIUDAD"
+          ],
           "nominations": [
             "Canción"
           ],
@@ -7512,7 +7555,9 @@
         {
           "title": "The Mask of Zorro",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "LA MASCARA DEL ZORRO"
+          ],
           "nominations": [
             "Sonido",
             "Edición de sonido"
@@ -7522,7 +7567,9 @@
         {
           "title": "Mighty Joe Young",
           "director": "",
-          "aliases": [],
+          "aliases": [
+            "MI GRAN AMIGO JOE"
+          ],
           "nominations": [
             "Efectos visuales"
           ],
