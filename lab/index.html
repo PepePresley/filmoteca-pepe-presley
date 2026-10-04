@@ -824,6 +824,9 @@ function rebuildOscarCategories(fy){
 }
 function renderOscarCategory(fy,cat){
  const raw=oscarEditionRaw(fy); if(!raw)return;
+ $('festWelcome').style.display='none';
+ $('festEdition').style.display='block';
+ $('festEditionTitle').textContent='';
  document.querySelectorAll('.oscarCategoryBtn').forEach(b=>b.classList.toggle('active',b.dataset.cat===cat));
  const rows=(raw.films||[]).filter(f=>(f.nominations||[]).some(n=>oscarCategoryBase(n)===cat)).map(f=>{
    const nomination=(f.nominations||[]).find(n=>oscarCategoryBase(n)===cat)||cat;
