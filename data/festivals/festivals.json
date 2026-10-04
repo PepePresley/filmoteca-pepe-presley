@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "editions": [
     {
       "festival": "Cannes",
@@ -3776,224 +3776,552 @@
       "section": "Premios de la Academia",
       "films": [
         {
-          "title": "Nomadland",
-          "award": "Ganadora · Oscar"
-        },
-        {
           "title": "The Father",
-          "award": "Ganadora · Oscar"
-        },
-        {
-          "title": "Judas and the Black Messiah",
-          "award": "Ganadora · Oscar"
-        },
-        {
-          "title": "Mank",
-          "award": "Ganadora · Oscar"
-        },
-        {
-          "title": "Minari",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor protagonista · Anthony Hopkins",
+            "Actriz de reparto · Olivia Colman",
+            "Montaje · Yorgos Lamprinos",
+            "Película",
+            "Diseño de producción",
+            "Guion adaptado · Christopher Hampton y Florian Zeller"
+          ],
+          "wins": [
+            "Actor protagonista · Anthony Hopkins",
+            "Guion adaptado · Christopher Hampton y Florian Zeller"
+          ],
+          "award": "2 Oscar · 6 nominaciónes"
         },
         {
           "title": "Sound of Metal",
-          "award": "Ganadora · Oscar"
-        },
-        {
-          "title": "The Trial of the Chicago 7",
-          "award": "Nominada"
-        },
-        {
-          "title": "Promising Young Woman",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor protagonista · Riz Ahmed",
+            "Actor de reparto · Paul Raci",
+            "Montaje · Mikkel E. G. Nielsen",
+            "Película",
+            "Sonido",
+            "Guion original · Darius Marder y Abraham Marder"
+          ],
+          "wins": [
+            "Montaje · Mikkel E. G. Nielsen",
+            "Sonido"
+          ],
+          "award": "2 Oscar · 6 nominaciónes"
         },
         {
           "title": "Ma Rainey's Black Bottom",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor protagonista · Chadwick Boseman",
+            "Actriz protagonista · Viola Davis",
+            "Vestuario · Ann Roth",
+            "Maquillaje y peluquería",
+            "Diseño de producción"
+          ],
+          "wins": [
+            "Vestuario · Ann Roth",
+            "Maquillaje y peluquería"
+          ],
+          "award": "2 Oscar · 5 nominaciónes"
+        },
+        {
+          "title": "Mank",
+          "nominations": [
+            "Actor protagonista · Gary Oldman",
+            "Actriz de reparto · Amanda Seyfried",
+            "Fotografía · Erik Messerschmidt",
+            "Vestuario · Trish Summerville",
+            "Dirección · David Fincher",
+            "Maquillaje y peluquería",
+            "Banda sonora · Trent Reznor y Atticus Ross",
+            "Película",
+            "Diseño de producción",
+            "Sonido"
+          ],
+          "wins": [
+            "Fotografía · Erik Messerschmidt",
+            "Diseño de producción"
+          ],
+          "award": "2 Oscar · 10 nominaciónes"
+        },
+        {
+          "title": "Minari",
+          "nominations": [
+            "Actor protagonista · Steven Yeun",
+            "Actriz de reparto · Yuh-Jung Youn",
+            "Dirección · Lee Isaac Chung",
+            "Banda sonora · Emile Mosseri",
+            "Película",
+            "Guion original · Lee Isaac Chung"
+          ],
+          "wins": [
+            "Actriz de reparto · Yuh-Jung Youn"
+          ],
+          "award": "1 Oscar · 6 nominaciónes"
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "nominations": [
+            "Actor de reparto · Daniel Kaluuya",
+            "Actor de reparto · Lakeith Stanfield",
+            "Fotografía · Sean Bobbitt",
+            "Canción · Fight For You",
+            "Película",
+            "Guion original · Will Berson y Shaka King"
+          ],
+          "wins": [
+            "Actor de reparto · Daniel Kaluuya",
+            "Canción · Fight For You"
+          ],
+          "award": "2 Oscar · 6 nominaciónes"
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "nominations": [
+            "Actor de reparto · Sacha Baron Cohen",
+            "Fotografía · Phedon Papamichael",
+            "Montaje · Alan Baumgarten",
+            "Canción · Hear My Voice",
+            "Película",
+            "Guion original · Aaron Sorkin"
+          ],
+          "wins": [],
+          "award": "6 nominaciónes"
         },
         {
           "title": "One Night in Miami...",
-          "award": "Nominada"
+          "nominations": [
+            "Actor de reparto · Leslie Odom, Jr.",
+            "Canción · Speak Now",
+            "Guion adaptado · Kemp Powers"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
-          "title": "Pieces of a Woman",
-          "award": "Nominada"
+          "title": "Nomadland",
+          "nominations": [
+            "Actriz protagonista · Frances McDormand",
+            "Fotografía · Joshua James Richards",
+            "Dirección · Chloé Zhao",
+            "Montaje · Chloé Zhao",
+            "Película",
+            "Guion adaptado · Chloé Zhao"
+          ],
+          "wins": [
+            "Actriz protagonista · Frances McDormand",
+            "Dirección · Chloé Zhao",
+            "Película"
+          ],
+          "award": "3 Oscar · 6 nominaciónes"
         },
         {
           "title": "The United States vs. Billie Holiday",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Andra Day"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Pieces of a Woman",
+          "nominations": [
+            "Actriz protagonista · Vanessa Kirby"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Promising Young Woman",
+          "nominations": [
+            "Actriz protagonista · Carey Mulligan",
+            "Dirección · Emerald Fennell",
+            "Montaje · Frédéric Thoraval",
+            "Película",
+            "Guion original · Emerald Fennell"
+          ],
+          "wins": [
+            "Guion original · Emerald Fennell"
+          ],
+          "award": "1 Oscar · 5 nominaciónes"
         },
         {
           "title": "Borat Subsequent Moviefilm",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz de reparto · Maria Bakalova",
+            "Guion adaptado · Sacha Baron Cohen y equipo"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "Hillbilly Elegy",
-          "award": "Nominada"
-        },
-        {
-          "title": "Emma.",
-          "award": "Nominada"
-        },
-        {
-          "title": "Pinocchio",
-          "award": "Nominada"
-        },
-        {
-          "title": "Another Round",
-          "award": "Ganadora · Oscar"
-        },
-        {
-          "title": "Better Days",
-          "award": "Nominada"
-        },
-        {
-          "title": "Collective",
-          "award": "Nominada"
-        },
-        {
-          "title": "The Man Who Sold His Skin",
-          "award": "Nominada"
-        },
-        {
-          "title": "Quo Vadis, Aida?",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz de reparto · Glenn Close",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "Soul",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Película de animación",
+            "Banda sonora · Trent Reznor, Atticus Ross y Jon Batiste",
+            "Sonido"
+          ],
+          "wins": [
+            "Película de animación",
+            "Banda sonora · Trent Reznor, Atticus Ross y Jon Batiste"
+          ],
+          "award": "2 Oscar · 3 nominaciónes"
         },
         {
           "title": "Onward",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Over the Moon",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "A Shaun the Sheep Movie: Farmageddon",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Wolfwalkers",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "News of the World",
-          "award": "Nominada"
+          "nominations": [
+            "Fotografía · Dariusz Wolski",
+            "Banda sonora · James Newton Howard",
+            "Diseño de producción",
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "4 nominaciónes"
         },
         {
-          "title": "Tenet",
-          "award": "Ganadora · Oscar"
-        },
-        {
-          "title": "Greyhound",
-          "award": "Nominada"
-        },
-        {
-          "title": "Love and Monsters",
-          "award": "Nominada"
-        },
-        {
-          "title": "The Midnight Sky",
-          "award": "Nominada"
+          "title": "Emma",
+          "nominations": [
+            "Vestuario · Alexandra Byrne",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "Mulan",
-          "award": "Nominada"
+          "nominations": [
+            "Vestuario · Bina Daigeler",
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
-          "title": "The White Tiger",
-          "award": "Nominada"
+          "title": "Pinocchio",
+          "nominations": [
+            "Vestuario · Massimo Cantini Parrini",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
-          "title": "Da 5 Bloods",
-          "award": "Nominada"
-        },
-        {
-          "title": "Eurovision Song Contest: The Story of Fire Saga",
-          "award": "Nominada"
-        },
-        {
-          "title": "The Life Ahead",
-          "award": "Nominada"
-        },
-        {
-          "title": "Crip Camp",
-          "award": "Nominada"
-        },
-        {
-          "title": "The Mole Agent",
-          "award": "Nominada"
+          "title": "Another Round",
+          "nominations": [
+            "Dirección · Thomas Vinterberg",
+            "Película internacional · Dinamarca"
+          ],
+          "wins": [
+            "Película internacional · Dinamarca"
+          ],
+          "award": "1 Oscar · 2 nominaciónes"
         },
         {
           "title": "My Octopus Teacher",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [
+            "Documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
+        },
+        {
+          "title": "Collective",
+          "nominations": [
+            "Documental",
+            "Película internacional · Rumanía"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
+        },
+        {
+          "title": "Crip Camp",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Mole Agent",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Time",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Colette",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "A Concerto Is a Conversation",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Do Not Split",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Hunger Ward",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "A Love Song for Latasha",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Better Days",
+          "nominations": [
+            "Película internacional · Hong Kong"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Man Who Sold His Skin",
+          "nominations": [
+            "Película internacional · Túnez"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Quo Vadis, Aida?",
+          "nominations": [
+            "Película internacional · Bosnia y Herzegovina"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Da 5 Bloods",
+          "nominations": [
+            "Banda sonora · Terence Blanchard"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Eurovision Song Contest: The Story of Fire Saga",
+          "nominations": [
+            "Canción · Husavik"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Life Ahead",
+          "nominations": [
+            "Canción · Io Sì (Seen)"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Tenet",
+          "nominations": [
+            "Diseño de producción",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Efectos visuales"
+          ],
+          "award": "1 Oscar · 2 nominaciónes"
         },
         {
           "title": "If Anything Happens I Love You",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Burrow",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Genius Loci",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Opera",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Yes-People",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Two Distant Strangers",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Feeling Through",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Letter Room",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Present",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "White Eye",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Greyhound",
+          "nominations": [
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Love and Monsters",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Midnight Sky",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The One and Only Ivan",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The White Tiger",
+          "nominations": [
+            "Guion adaptado · Ramin Bahrani"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         }
       ]
     }
