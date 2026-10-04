@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "editions": [
     {
       "festival": "Cannes",
@@ -7127,6 +7127,19 @@
           "aliases": [
             "Kesher Ir (Urban Feel)"
           ],
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1999,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "A Map of the World",
+          "director": "Scott Elliott",
+          "aliases": [],
           "award": "En competición"
         }
       ]
