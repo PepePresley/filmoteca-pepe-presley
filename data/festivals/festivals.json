@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "editions": [
     {
       "festival": "Cannes",
@@ -7219,6 +7219,14 @@
           "director": "Zhang Yang",
           "aliases": [],
           "award": "En competición"
+        },
+        {
+          "title": "C'est quoi la vie?",
+          "director": "François Dupeyron",
+          "aliases": [
+            "¿QUÉ ES LA VIDA?"
+          ],
+          "award": "Concha de Oro · mejor actor: Jacques Dufilho"
         }
       ]
     }
