@@ -670,7 +670,7 @@ document.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{
 let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(render,130)});
 ['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
 
-$('tabFestivals').onclick=()=>{setFestivalChrome(true);$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
+$('tabFestivals').onclick=()=>{setFestivalChrome(true);$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
 $('tabCollection').onclick=()=>{setFestivalChrome(false);$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
 
 
