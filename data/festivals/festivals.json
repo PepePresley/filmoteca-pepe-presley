@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "editions": [
     {
       "festival": "Cannes",
@@ -1854,6 +1854,763 @@
           "aliases": [
             "Puñales por la espalda: El misterio de Glass Onion"
           ],
+          "award": "Nominada"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 2022,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Holy Spider",
+          "director": "Ali Abbasi",
+          "award": "Mejor actriz · Zar Amir Ebrahimi"
+        },
+        {
+          "title": "Les Amandiers",
+          "director": "Valeria Bruni Tedeschi",
+          "aliases": [
+            "Forever Young"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Crimes of the Future",
+          "director": "David Cronenberg",
+          "award": "En competición"
+        },
+        {
+          "title": "Tori et Lokita",
+          "director": "Jean-Pierre Dardenne, Luc Dardenne",
+          "aliases": [
+            "Tori and Lokita"
+          ],
+          "award": "Premio 75º aniversario"
+        },
+        {
+          "title": "Stars at Noon",
+          "director": "Claire Denis",
+          "award": "Gran Premio · ex aequo"
+        },
+        {
+          "title": "Frère et sœur",
+          "director": "Arnaud Desplechin",
+          "aliases": [
+            "Brother and Sister"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Close",
+          "director": "Lukas Dhont",
+          "award": "Gran Premio · ex aequo"
+        },
+        {
+          "title": "Armageddon Time",
+          "director": "James Gray",
+          "award": "En competición"
+        },
+        {
+          "title": "Broker",
+          "director": "Hirokazu Koreeda",
+          "award": "Mejor actor · Song Kang-ho"
+        },
+        {
+          "title": "Nostalgia",
+          "director": "Mario Martone",
+          "award": "En competición"
+        },
+        {
+          "title": "R.M.N.",
+          "director": "Cristian Mungiu",
+          "award": "En competición"
+        },
+        {
+          "title": "Triangle of Sadness",
+          "director": "Ruben Östlund",
+          "aliases": [
+            "El triángulo de la tristeza"
+          ],
+          "award": "Palma de Oro"
+        },
+        {
+          "title": "Heojil kyolshim",
+          "director": "Park Chan-wook",
+          "aliases": [
+            "Decision to Leave"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Showing Up",
+          "director": "Kelly Reichardt",
+          "award": "En competición"
+        },
+        {
+          "title": "Leila's Brothers",
+          "director": "Saeed Roustaee",
+          "award": "En competición"
+        },
+        {
+          "title": "Walad min al janna",
+          "director": "Tarik Saleh",
+          "aliases": [
+            "Boy from Heaven",
+            "La conspiración del Cairo"
+          ],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Zhena Chaikovskogo",
+          "director": "Kirill Serebrennikov",
+          "aliases": [
+            "Tchaikovsky's Wife",
+            "La mujer de Tchaikovsky"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Pacifiction",
+          "director": "Albert Serra",
+          "award": "En competición"
+        },
+        {
+          "title": "Un petit frère",
+          "director": "Léonor Serraille",
+          "aliases": [
+            "Mother and Son"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "EO",
+          "director": "Jerzy Skolimowski",
+          "award": "Premio del Jurado · ex aequo"
+        },
+        {
+          "title": "Le otto montagne",
+          "director": "Charlotte Vandermeersch, Felix Van Groeningen",
+          "aliases": [
+            "The Eight Mountains",
+            "Las ocho montañas"
+          ],
+          "award": "Premio del Jurado · ex aequo"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 2022,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Il signore delle formiche",
+          "director": "Gianni Amelio",
+          "aliases": [
+            "Lord of the Ants"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Whale",
+          "director": "Darren Aronofsky",
+          "aliases": [
+            "La ballena"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "White Noise",
+          "director": "Noah Baumbach",
+          "award": "En competición"
+        },
+        {
+          "title": "L'immensità",
+          "director": "Emanuele Crialese",
+          "award": "En competición"
+        },
+        {
+          "title": "Saint Omer",
+          "director": "Alice Diop",
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Blonde",
+          "director": "Andrew Dominik",
+          "award": "En competición"
+        },
+        {
+          "title": "TÁR",
+          "director": "Todd Field",
+          "award": "Mejor actriz · Cate Blanchett"
+        },
+        {
+          "title": "Love Life",
+          "director": "Koji Fukada",
+          "award": "En competición"
+        },
+        {
+          "title": "Athena",
+          "director": "Romain Gavras",
+          "award": "En competición"
+        },
+        {
+          "title": "Bones and All",
+          "director": "Luca Guadagnino",
+          "award": "Mejor dirección · Marcello Mastroianni · Taylor Russell"
+        },
+        {
+          "title": "The Eternal Daughter",
+          "director": "Joanna Hogg",
+          "award": "En competición"
+        },
+        {
+          "title": "Bardo, falsa crónica de unas cuantas verdades",
+          "director": "Alejandro G. Iñárritu",
+          "aliases": [
+            "Bardo, False Chronicle of a Handful of Truths"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Shab, Dakheli, Divar",
+          "director": "Vahid Jalilvand",
+          "aliases": [
+            "Beyond the Wall"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Banshees of Inisherin",
+          "director": "Martin McDonagh",
+          "aliases": [
+            "Almas en pena de Inisherin"
+          ],
+          "award": "Mejor actor · Colin Farrell · Mejor guion"
+        },
+        {
+          "title": "Argentina, 1985",
+          "director": "Santiago Mitre",
+          "award": "En competición"
+        },
+        {
+          "title": "Chiara",
+          "director": "Susanna Nicchiarelli",
+          "award": "En competición"
+        },
+        {
+          "title": "Monica",
+          "director": "Andrea Pallaoro",
+          "award": "En competición"
+        },
+        {
+          "title": "Khers Nist",
+          "director": "Jafar Panahi",
+          "aliases": [
+            "No Bears",
+            "Los osos no existen"
+          ],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "All the Beauty and the Bloodshed",
+          "director": "Laura Poitras",
+          "award": "León de Oro"
+        },
+        {
+          "title": "Un couple",
+          "director": "Frederick Wiseman",
+          "aliases": [
+            "A Couple"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Son",
+          "director": "Florian Zeller",
+          "award": "En competición"
+        },
+        {
+          "title": "Les miens",
+          "director": "Roschdy Zem",
+          "aliases": [
+            "Our Ties"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Les enfants des autres",
+          "director": "Rebecca Zlotowski",
+          "aliases": [
+            "Other People's Children"
+          ],
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 2022,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "A E I O U - Das schnelle Alphabet der Liebe",
+          "director": "Nicolette Krebitz",
+          "aliases": [
+            "A E I O U - A Quick Alphabet of Love"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Alcarràs",
+          "director": "Carla Simón",
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Avec amour et acharnement",
+          "director": "Claire Denis",
+          "aliases": [
+            "Both Sides of the Blade"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Call Jane",
+          "director": "Phyllis Nagy",
+          "award": "En competición"
+        },
+        {
+          "title": "Drii Winter",
+          "director": "Michael Koch",
+          "aliases": [
+            "A Piece of Sky"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Everything Will Be Ok",
+          "director": "Rithy Panh",
+          "award": "Contribución artística"
+        },
+        {
+          "title": "La ligne",
+          "director": "Ursula Meier",
+          "aliases": [
+            "The Line"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Leonora addio",
+          "director": "Paolo Taviani",
+          "award": "En competición"
+        },
+        {
+          "title": "Les passagers de la nuit",
+          "director": "Mikhaël Hers",
+          "aliases": [
+            "The Passengers of the Night"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Nana",
+          "director": "Kamila Andini",
+          "aliases": [
+            "Before, Now & Then"
+          ],
+          "award": "Mejor interpretación de reparto · Laura Basuki"
+        },
+        {
+          "title": "Peter von Kant",
+          "director": "François Ozon",
+          "award": "En competición"
+        },
+        {
+          "title": "Rabiye Kurnaz gegen George W. Bush",
+          "director": "Andreas Dresen",
+          "aliases": [
+            "Rabiye Kurnaz vs. George W. Bush"
+          ],
+          "award": "Mejor interpretación protagonista · Meltem Kaptan · Mejor guion"
+        },
+        {
+          "title": "Rimini",
+          "director": "Ulrich Seidl",
+          "award": "En competición"
+        },
+        {
+          "title": "Robe of Gems",
+          "director": "Natalia López Gallardo",
+          "aliases": [
+            "Manto de gemas"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "Soseolga-ui Yeonghwa",
+          "director": "Hong Sang-soo",
+          "aliases": [
+            "The Novelist's Film"
+          ],
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Un été comme ça",
+          "director": "Denis Côté",
+          "aliases": [
+            "That Kind of Summer"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Un año, una noche",
+          "director": "Isaki Lacuesta",
+          "award": "En competición"
+        },
+        {
+          "title": "Yin ru chen yan",
+          "director": "Li Ruijun",
+          "aliases": [
+            "Return to Dust"
+          ],
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 2022,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "El suplente",
+          "director": "Diego Lerman",
+          "aliases": [
+            "The Substitute"
+          ],
+          "award": "Mejor interpretación de reparto · Renata Lerman"
+        },
+        {
+          "title": "Girasoles silvestres",
+          "director": "Jaime Rosales",
+          "aliases": [
+            "Wild Flowers"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Great Yarmouth - Provisional Figures",
+          "director": "Marco Martins",
+          "award": "En competición"
+        },
+        {
+          "title": "Hyakka",
+          "director": "Genki Kawamura",
+          "aliases": [
+            "A Hundred Flowers"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Il Boemo",
+          "director": "Petr Václav",
+          "award": "En competición"
+        },
+        {
+          "title": "Kong Xiu",
+          "director": "Wang Chao",
+          "aliases": [
+            "A Woman"
+          ],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "La consagración de la primavera",
+          "director": "Fernando Franco",
+          "aliases": [
+            "The Rite of Spring"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "La Maternal",
+          "director": "Pilar Palomero",
+          "award": "Mejor interpretación protagonista · Carla Quílez"
+        },
+        {
+          "title": "Le lycéen",
+          "director": "Christophe Honoré",
+          "aliases": [
+            "Winter Boy"
+          ],
+          "award": "Mejor interpretación protagonista · Paul Kircher"
+        },
+        {
+          "title": "Los reyes del mundo",
+          "director": "Laura Mora",
+          "aliases": [
+            "The Kings of the World"
+          ],
+          "award": "Concha de Oro"
+        },
+        {
+          "title": "Pornomelancolía",
+          "director": "Manuel Abramovich",
+          "award": "Mejor fotografía"
+        },
+        {
+          "title": "Resten af livet",
+          "director": "Frelle Petersen",
+          "aliases": [
+            "Forever"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Runner",
+          "director": "Marian Mathias",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Sparta",
+          "director": "Ulrich Seidl",
+          "award": "En competición"
+        },
+        {
+          "title": "Suro",
+          "director": "Mikel Gurrea",
+          "award": "En competición"
+        },
+        {
+          "title": "The Wonder",
+          "director": "Sebastián Lelio",
+          "award": "En competición"
+        },
+        {
+          "title": "Walk Up",
+          "director": "Hong Sang-soo",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 2022,
+      "section": "Premios de la Academia",
+      "films": [
+        {
+          "title": "Being the Ricardos",
+          "award": "Nominada"
+        },
+        {
+          "title": "King Richard",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "The Power of the Dog",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "tick, tick...BOOM!",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Tragedy of Macbeth",
+          "award": "Nominada"
+        },
+        {
+          "title": "CODA",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Belfast",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "The Eyes of Tammy Faye",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "The Lost Daughter",
+          "award": "Nominada"
+        },
+        {
+          "title": "Parallel Mothers",
+          "award": "Nominada"
+        },
+        {
+          "title": "Spencer",
+          "award": "Nominada"
+        },
+        {
+          "title": "West Side Story",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Encanto",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Flee",
+          "award": "Nominada"
+        },
+        {
+          "title": "Luca",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Mitchells vs. the Machines",
+          "award": "Nominada"
+        },
+        {
+          "title": "Raya and the Last Dragon",
+          "award": "Nominada"
+        },
+        {
+          "title": "Dune",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Nightmare Alley",
+          "award": "Nominada"
+        },
+        {
+          "title": "Cruella",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Cyrano",
+          "award": "Nominada"
+        },
+        {
+          "title": "Drive My Car",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Licorice Pizza",
+          "award": "Nominada"
+        },
+        {
+          "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Ascension",
+          "award": "Nominada"
+        },
+        {
+          "title": "Attica",
+          "award": "Nominada"
+        },
+        {
+          "title": "Writing with Fire",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Queen of Basketball",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Audible",
+          "award": "Nominada"
+        },
+        {
+          "title": "Lead Me Home",
+          "award": "Nominada"
+        },
+        {
+          "title": "Three Songs for Benazir",
+          "award": "Nominada"
+        },
+        {
+          "title": "When We Were Bullies",
+          "award": "Nominada"
+        },
+        {
+          "title": "Don't Look Up",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Hand of God",
+          "award": "Nominada"
+        },
+        {
+          "title": "Lunana: A Yak in the Classroom",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Worst Person in the World",
+          "award": "Nominada"
+        },
+        {
+          "title": "Coming 2 America",
+          "award": "Nominada"
+        },
+        {
+          "title": "House of Gucci",
+          "award": "Nominada"
+        },
+        {
+          "title": "No Time to Die",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Four Good Days",
+          "award": "Nominada"
+        },
+        {
+          "title": "Free Guy",
+          "award": "Nominada"
+        },
+        {
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "award": "Nominada"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Windshield Wiper",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Affairs of the Art",
+          "award": "Nominada"
+        },
+        {
+          "title": "Bestia",
+          "award": "Nominada"
+        },
+        {
+          "title": "Boxballet",
+          "award": "Nominada"
+        },
+        {
+          "title": "Robin Robin",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Long Goodbye",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Ala Kachuu - Take and Run",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Dress",
+          "award": "Nominada"
+        },
+        {
+          "title": "On My Mind",
+          "award": "Nominada"
+        },
+        {
+          "title": "Please Hold",
           "award": "Nominada"
         }
       ]
