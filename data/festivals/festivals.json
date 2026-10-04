@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "editions": [
     {
       "festival": "Cannes",
@@ -8625,6 +8625,731 @@
             "Amigos y vecinos"
           ],
           "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 1998,
+      "section": "70.ª edición · películas de 1997",
+      "films": [
+        {
+          "title": "As Good as It Gets",
+          "director": "",
+          "aliases": [
+            "Mejor... imposible"
+          ],
+          "award": "Ganadora",
+          "nominations": [
+            "Actor protagonista",
+            "Actor de reparto",
+            "Actriz protagonista",
+            "Montaje",
+            "Banda sonora musical o comedia",
+            "Película",
+            "Guion original"
+          ],
+          "wins": [
+            "Actor protagonista",
+            "Actriz protagonista"
+          ]
+        },
+        {
+          "title": "Good Will Hunting",
+          "director": "",
+          "aliases": [
+            "El indomable Will Hunting"
+          ],
+          "award": "Ganadora",
+          "nominations": [
+            "Actor protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección",
+            "Montaje",
+            "Banda sonora dramática",
+            "Canción",
+            "Película",
+            "Guion original"
+          ],
+          "wins": [
+            "Actor de reparto",
+            "Guion original"
+          ]
+        },
+        {
+          "title": "The Apostle",
+          "director": "",
+          "aliases": [
+            "Camino al cielo"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Ulee's Gold",
+          "director": "",
+          "aliases": [
+            "El oro de Ulises"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Wag the Dog",
+          "director": "",
+          "aliases": [
+            "La cortina de humo"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista",
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Jackie Brown",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Actor de reparto"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Amistad",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Actor de reparto",
+            "Fotografía",
+            "Vestuario",
+            "Banda sonora dramática"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Boogie Nights",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Guion original"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Wings of the Dove",
+          "director": "",
+          "aliases": [
+            "Las alas de la paloma"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista",
+            "Fotografía",
+            "Vestuario",
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Afterglow",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mrs. Brown",
+          "director": "",
+          "aliases": [
+            "Su Majestad Mrs. Brown"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista",
+            "Maquillaje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Titanic",
+          "director": "",
+          "aliases": [],
+          "award": "Ganadora",
+          "nominations": [
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección artística",
+            "Fotografía",
+            "Vestuario",
+            "Dirección",
+            "Montaje",
+            "Maquillaje",
+            "Banda sonora dramática",
+            "Canción",
+            "Película",
+            "Sonido",
+            "Edición de efectos de sonido",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Dirección artística",
+            "Fotografía",
+            "Vestuario",
+            "Dirección",
+            "Montaje",
+            "Banda sonora dramática",
+            "Canción",
+            "Película",
+            "Sonido",
+            "Edición de efectos de sonido",
+            "Efectos visuales"
+          ]
+        },
+        {
+          "title": "L.A. Confidential",
+          "director": "",
+          "aliases": [],
+          "award": "Ganadora",
+          "nominations": [
+            "Actriz de reparto",
+            "Dirección artística",
+            "Fotografía",
+            "Dirección",
+            "Montaje",
+            "Banda sonora dramática",
+            "Película",
+            "Sonido",
+            "Guion adaptado"
+          ],
+          "wins": [
+            "Actriz de reparto",
+            "Guion adaptado"
+          ]
+        },
+        {
+          "title": "In & Out",
+          "director": "",
+          "aliases": [
+            "In & Out (Dentro o fuera)"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Actriz de reparto"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Gattaca",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Dirección artística"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Kundun",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Dirección artística",
+            "Fotografía",
+            "Vestuario",
+            "Banda sonora dramática"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Men in Black",
+          "director": "",
+          "aliases": [
+            "Men in Black (Hombres de negro)"
+          ],
+          "award": "Ganadora",
+          "nominations": [
+            "Dirección artística",
+            "Maquillaje",
+            "Banda sonora musical o comedia"
+          ],
+          "wins": [
+            "Maquillaje"
+          ]
+        },
+        {
+          "title": "Oscar and Lucinda",
+          "director": "",
+          "aliases": [
+            "Óscar y Lucinda"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Full Monty",
+          "director": "",
+          "aliases": [
+            "Full Monty"
+          ],
+          "award": "Ganadora",
+          "nominations": [
+            "Dirección",
+            "Banda sonora musical o comedia",
+            "Película",
+            "Guion original"
+          ],
+          "wins": [
+            "Banda sonora musical o comedia"
+          ]
+        },
+        {
+          "title": "The Sweet Hereafter",
+          "director": "",
+          "aliases": [
+            "El dulce porvenir"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Dirección",
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Long Way Home",
+          "director": "",
+          "aliases": [],
+          "award": "Ganadora",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [
+            "Documental"
+          ]
+        },
+        {
+          "title": "Ayn Rand: A Sense of Life",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Colors Straight Up",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "4 Little Girls",
+          "director": "",
+          "aliases": [
+            "Cuatro niñas"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Waco: The Rules of Engagement",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "A Story of Healing",
+          "director": "",
+          "aliases": [],
+          "award": "Ganadora",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ]
+        },
+        {
+          "title": "Alaska: Spirit of the Wild",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Amazon",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Daughter of the Bride",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Still Kicking: The Fabulous Palm Springs Follies",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Air Force One",
+          "director": "",
+          "aliases": [
+            "Air Force One (El avión del presidente)"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Montaje",
+            "Sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Character",
+          "director": "",
+          "aliases": [
+            "Carácter"
+          ],
+          "award": "Ganadora",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [
+            "Película internacional"
+          ]
+        },
+        {
+          "title": "Beyond Silence",
+          "director": "",
+          "aliases": [
+            "Más allá del silencio"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Four Days in September",
+          "director": "",
+          "aliases": [
+            "Cuatro días de septiembre"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Secrets of the Heart",
+          "director": "",
+          "aliases": [
+            "Secretos del corazón"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Thief",
+          "director": "",
+          "aliases": [
+            "Vor (el ladrón)"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Anastasia",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Banda sonora musical o comedia",
+            "Canción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "My Best Friend's Wedding",
+          "director": "",
+          "aliases": [
+            "La boda de mi mejor amigo"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Banda sonora musical o comedia"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Hercules",
+          "director": "",
+          "aliases": [
+            "Hércules"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Canción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Con Air",
+          "director": "",
+          "aliases": [
+            "Con Air (Convictos en el aire)"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Canción",
+            "Sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Geri's Game",
+          "director": "",
+          "aliases": [],
+          "award": "Ganadora",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ]
+        },
+        {
+          "title": "Famous Fred",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La Vieille Dame et les Pigeons",
+          "director": "",
+          "aliases": [
+            "La anciana y las palomas"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Mermaid",
+          "director": "",
+          "aliases": [
+            "La sirena"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Redux Riding Hood",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Visas and Virtue",
+          "director": "",
+          "aliases": [],
+          "award": "Ganadora",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ]
+        },
+        {
+          "title": "Dance Lexie Dance",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "It's Good to Talk",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Sweethearts?",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Wolfgang",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Contact",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Face/Off",
+          "director": "",
+          "aliases": [
+            "Cara a cara"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Edición de efectos de sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Fifth Element",
+          "director": "",
+          "aliases": [
+            "El quinto elemento"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Edición de efectos de sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Lost World: Jurassic Park",
+          "director": "",
+          "aliases": [
+            "El mundo perdido - Jurassic Park"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Starship Troopers",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Donnie Brasco",
+          "director": "",
+          "aliases": [],
+          "award": "Nominada",
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Deconstructing Harry",
+          "director": "",
+          "aliases": [
+            "Desmontando a Harry"
+          ],
+          "award": "Nominada",
+          "nominations": [
+            "Guion original"
+          ],
+          "wins": []
         }
       ]
     }
