@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "editions": [
     {
       "festival": "Cannes",
@@ -6816,207 +6816,6 @@
       ]
     },
     {
-      "festival": "Berlín",
-      "year": 1999,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "8MM",
-          "director": "Joel Schumacher",
-          "aliases": [
-            "ASESINATO EN 8MM.",
-            "8MM (AKA Eight millimeter)"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Aimée & Jaguar",
-          "director": "Max Färberböck",
-          "aliases": [
-            "AIMEE Y JAGUAR"
-          ],
-          "award": "Oso de Plata a la mejor actriz: Juliane Köhler y Maria Schrader"
-        },
-        {
-          "title": "Güneşe Yolculuk",
-          "director": "Yeşim Ustaoğlu",
-          "aliases": [
-            "Viaje hacia el sol"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Au coeur du mensonge",
-          "director": "Claude Chabrol",
-          "aliases": [
-            "EN EL CORAZÓN DE LA MENTIRA"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Breakfast of Champions",
-          "director": "Alan Rudolph",
-          "aliases": [
-            "EL DESAYUNO DE LOS CAMPEONES"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Ça commence aujourd'hui",
-          "director": "Bertrand Tavernier",
-          "aliases": [
-            "HOY EMPIEZA TODO",
-            "It All Starts Today"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Playing by Heart",
-          "director": "Willard Carroll",
-          "aliases": [
-            "JUGANDO CON EL CORAZÓN"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Cookie's Fortune",
-          "director": "Robert Altman",
-          "aliases": [
-            "COOKIE'S FORTUNE"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Emporte-moi",
-          "director": "Léa Pool",
-          "aliases": [
-            "LLÉVAME CONTIGO (EMPORTE-MOI)",
-            "Set Me Free"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Entre las piernas",
-          "director": "Manuel Gómez Pereira",
-          "aliases": [
-            "ENTRE LAS PIERNAS"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "eXistenZ",
-          "director": "David Cronenberg",
-          "aliases": [
-            "EXISTENZ"
-          ],
-          "award": "Oso de Plata · contribución artística"
-        },
-        {
-          "title": "La niña de tus ojos",
-          "director": "Fernando Trueba",
-          "aliases": [
-            "LA NIÑA DE TUS OJOS"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Glória",
-          "director": "Manuela Viegas",
-          "aliases": [
-            "GLORIA"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "The Hi-Lo Country",
-          "director": "Stephen Frears",
-          "aliases": [
-            "HI-LO COUNTRY"
-          ],
-          "award": "Oso de Plata a la mejor dirección: Stephen Frears"
-        },
-        {
-          "title": "Karnaval",
-          "director": "Thomas Vincent",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "39 keihō dai sanjūkyū jō",
-          "director": "Yoshimitsu Morita",
-          "aliases": [
-            "39 keihô dai sanjûkyû jô (Keiho)"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "The Thin Red Line",
-          "director": "Terrence Malick",
-          "aliases": [
-            "LA DELGADA LINEA ROJA"
-          ],
-          "award": "Oso de Oro"
-        },
-        {
-          "title": "Mifune",
-          "director": "Søren Kragh-Jacobsen",
-          "aliases": [
-            "MIFUNE",
-            "Mifunes sidste sang"
-          ],
-          "award": "Oso de Plata · Gran Premio del Jurado"
-        },
-        {
-          "title": "Qian yan wan yu",
-          "director": "Ann Hui",
-          "aliases": [
-            "Ordinary Heroes"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Nachtgestalten",
-          "director": "Andreas Dresen",
-          "aliases": [
-            "ENCUENTROS NOCTURNOS",
-            "Nachtgestalten (Nightshapes)"
-          ],
-          "award": "Oso de Plata al mejor actor: Michael Gwisdek"
-        },
-        {
-          "title": "Shakespeare in Love",
-          "director": "John Madden",
-          "aliases": [
-            "SHAKESPEARE ENAMORADO"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Simon Magus",
-          "director": "Ben Hopkins",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Three Seasons",
-          "director": "Tony Bui",
-          "aliases": [
-            "TRES ESTACIONES",
-            "Ba mua"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Kesher Ir",
-          "director": "Jonathan Sagall",
-          "aliases": [
-            "Kesher Ir (Urban Feel)"
-          ],
-          "award": "En competición"
-        }
-      ]
-    },
-    {
       "festival": "Venecia",
       "year": 1999,
       "section": "Competición oficial",
@@ -7885,6 +7684,157 @@
             "Guion original"
           ],
           "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1999,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "39 keihô dai sanjûkyû jô",
+          "director": "Yoshimitsu Morita",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "8MM",
+          "director": "Joel Schumacher",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Aimée & Jaguar",
+          "director": "Max Färberböck",
+          "aliases": [],
+          "award": "Oso de Plata a la mejor actriz"
+        },
+        {
+          "title": "Breakfast of Champions",
+          "director": "Alan Rudolph",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Ça commence aujourd'hui",
+          "director": "Bertrand Tavernier",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Playing by Heart",
+          "director": "Willard Carroll",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Cookie's Fortune",
+          "director": "Robert Altman",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Emporte-moi",
+          "director": "Léa Pool",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Entre las piernas",
+          "director": "Manuel Gómez Pereira",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "eXistenZ",
+          "director": "David Cronenberg",
+          "aliases": [],
+          "award": "Oso de Plata por contribución artística"
+        },
+        {
+          "title": "La niña de tus ojos",
+          "director": "Fernando Trueba",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Glória",
+          "director": "Manuela Viegas",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Hi-Lo Country",
+          "director": "Stephen Frears",
+          "aliases": [],
+          "award": "Oso de Plata a la mejor dirección"
+        },
+        {
+          "title": "Karnaval",
+          "director": "Thomas Vincent",
+          "aliases": [],
+          "award": "Premio Alfred Bauer"
+        },
+        {
+          "title": "Kesher Ir",
+          "director": "Jonathan Sagall",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Mifune",
+          "director": "Søren Kragh-Jacobsen",
+          "aliases": [],
+          "award": "Gran Premio del Jurado · Oso de Plata"
+        },
+        {
+          "title": "Nachtgestalten",
+          "director": "Andreas Dresen",
+          "aliases": [],
+          "award": "Oso de Plata al mejor actor"
+        },
+        {
+          "title": "Qian yan wan yu",
+          "director": "Ann Hui",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Shakespeare in Love",
+          "director": "John Madden",
+          "aliases": [],
+          "award": "Oso de Plata por logro individual"
+        },
+        {
+          "title": "Simon Magus",
+          "director": "Ben Hopkins",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Thin Red Line",
+          "director": "Terrence Malick",
+          "aliases": [],
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Three Seasons",
+          "director": "Tony Bui",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Au coeur du mensonge",
+          "director": "Claude Chabrol",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Güneşe Yolculuk",
+          "director": "Yeşim Ustaoğlu",
+          "aliases": [],
+          "award": "Premio Ángel Azul"
         }
       ]
     }
