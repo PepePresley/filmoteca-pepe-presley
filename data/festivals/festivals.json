@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "editions": [
     {
       "festival": "Cannes",
@@ -5851,8 +5851,74 @@
     {
       "festival": "Cannes",
       "year": 2021,
-      "section": "Un Certain Regard · Palmarés",
+      "section": "Un Certain Regard",
       "films": [
+        {
+          "title": "Onoda",
+          "director": "Arthur Harari",
+          "aliases": [
+            "Onoda, 10.000 noches en la jungla"
+          ]
+        },
+        {
+          "title": "Moneyboys",
+          "director": "C.B. Yi"
+        },
+        {
+          "title": "Blue Bayou",
+          "director": "Justin Chon"
+        },
+        {
+          "title": "Freda",
+          "director": "Gessica Généus"
+        },
+        {
+          "title": "Delo",
+          "director": "Aleksey German Jr.",
+          "aliases": [
+            "House Arrest"
+          ]
+        },
+        {
+          "title": "Bonne mère",
+          "director": "Hafsia Herzi",
+          "aliases": [
+            "Good Mother"
+          ],
+          "award": "Premio de conjunto · Un Certain Regard"
+        },
+        {
+          "title": "Noche de fuego",
+          "director": "Tatiana Huezo",
+          "aliases": [
+            "Prayers for the Stolen"
+          ],
+          "award": "Mención especial · Un Certain Regard"
+        },
+        {
+          "title": "Lamb",
+          "director": "Valdimar Jóhannsson",
+          "award": "Premio a la originalidad · Un Certain Regard"
+        },
+        {
+          "title": "Baglilik Hasan",
+          "director": "Semih Kaplanoglu",
+          "aliases": [
+            "Commitment Hasan",
+            "La promesa de Hasan"
+          ]
+        },
+        {
+          "title": "After Yang",
+          "director": "Kogonada",
+          "aliases": [
+            "Despidiendo a Yang"
+          ]
+        },
+        {
+          "title": "Let There Be Morning",
+          "director": "Eran Kolirin"
+        },
         {
           "title": "Razzhimaya kulaki",
           "director": "Kira Kovalenko",
@@ -5862,18 +5928,32 @@
           "award": "Premio Un Certain Regard"
         },
         {
+          "title": "Mes frères et moi",
+          "director": "Yohan Manca",
+          "aliases": [
+            "La Traviata, My Brothers and I",
+            "Mis hermanos y yo"
+          ]
+        },
+        {
+          "title": "Women Do Cry",
+          "director": "Mina Mileva, Vesela Kazakova"
+        },
+        {
+          "title": "Rehana Maryam Noor",
+          "director": "Abdullah Mohammad Saad",
+          "aliases": [
+            "Rehana"
+          ]
+        },
+        {
           "title": "Grosse Freiheit",
           "director": "Sebastian Meise",
           "aliases": [
             "Great Freedom",
-            "GREAT FREEDOM (GRAN LIBERTAD)"
+            "Great Freedom (Gran libertad)"
           ],
           "award": "Premio del Jurado · Un Certain Regard"
-        },
-        {
-          "title": "Bonne mère",
-          "director": "Hafsia Herzi",
-          "award": "Premio de conjunto · Un Certain Regard"
         },
         {
           "title": "La Civil",
@@ -5881,34 +5961,65 @@
           "award": "Premio a la audacia · Un Certain Regard"
         },
         {
-          "title": "Lamb",
-          "director": "Valdimar Jóhannsson",
-          "award": "Premio a la originalidad · Un Certain Regard"
+          "title": "Gaey wa'r",
+          "director": "Na Jiazuo",
+          "aliases": [
+            "Streetwise",
+            "Animal de ciudad"
+          ]
         },
         {
-          "title": "Noche de fuego",
-          "director": "Tatiana Huezo",
+          "title": "De uskyldige",
+          "director": "Eskil Vogt",
           "aliases": [
-            "Prayers for the Stolen"
-          ],
-          "award": "Mención especial · Un Certain Regard"
+            "The Innocents"
+          ]
+        },
+        {
+          "title": "Un monde",
+          "director": "Laura Wandel",
+          "aliases": [
+            "Playground",
+            "Un pequeño mundo"
+          ]
         }
       ]
     },
     {
       "festival": "Cannes",
       "year": 2022,
-      "section": "Un Certain Regard · Palmarés",
+      "section": "Un Certain Regard",
       "films": [
+        {
+          "title": "Tirailleurs",
+          "director": "Mathieu Vadepied",
+          "aliases": [
+            "Father and Soldier",
+            "Padre y soldado"
+          ]
+        },
         {
           "title": "Les pires",
           "director": "Lise Akoka, Romane Gueret",
+          "aliases": [
+            "Los peores"
+          ],
           "award": "Premio Un Certain Regard"
         },
         {
-          "title": "Joyland",
-          "director": "Saim Sadiq",
-          "award": "Premio del Jurado · Un Certain Regard"
+          "title": "Kurak Günler",
+          "director": "Emin Alper",
+          "aliases": [
+            "Burning Days"
+          ]
+        },
+        {
+          "title": "Plus que jamais",
+          "director": "Emily Atef",
+          "aliases": [
+            "More Than Ever",
+            "Más que nunca"
+          ]
         },
         {
           "title": "Metronom",
@@ -5916,17 +6027,23 @@
           "award": "Mejor dirección · Un Certain Regard"
         },
         {
-          "title": "Corsage",
-          "director": "Marie Kreutzer",
+          "title": "Syk pike",
+          "director": "Kristoffer Borgli",
           "aliases": [
-            "LA EMPERATRIZ REBELDE"
-          ],
-          "award": "Mejor interpretación · Un Certain Regard"
+            "Sick of Myself"
+          ]
         },
         {
-          "title": "Harka",
-          "director": "Lotfy Nathan",
-          "award": "Mejor interpretación · Un Certain Regard"
+          "title": "Retour à Séoul",
+          "director": "Davy Chou",
+          "aliases": [
+            "Return to Seoul",
+            "Retorno a Seúl"
+          ]
+        },
+        {
+          "title": "Domingo y la niebla",
+          "director": "Ariel Escalante Meza"
         },
         {
           "title": "Mediterranean Fever",
@@ -5934,41 +6051,98 @@
           "award": "Mejor guion · Un Certain Regard"
         },
         {
+          "title": "Plan 75",
+          "director": "Chie Hayakawa"
+        },
+        {
+          "title": "War Pony",
+          "director": "Riley Keough, Gina Gammell"
+        },
+        {
+          "title": "Corsage",
+          "director": "Marie Kreutzer",
+          "aliases": [
+            "La emperatriz rebelde"
+          ],
+          "award": "Mejor interpretación · Un Certain Regard"
+        },
+        {
+          "title": "The Stranger",
+          "director": "Thomas M. Wright",
+          "aliases": [
+            "El extraño"
+          ]
+        },
+        {
+          "title": "Bachennya metelyka",
+          "director": "Maksym Nakonechnyi",
+          "aliases": [
+            "Butterfly Vision"
+          ]
+        },
+        {
+          "title": "Harka",
+          "director": "Lotfy Nathan",
+          "award": "Mejor interpretación · Un Certain Regard"
+        },
+        {
+          "title": "Vanskabte land",
+          "director": "Hlynur Pálmason",
+          "aliases": [
+            "Godland"
+          ]
+        },
+        {
           "title": "Rodeo",
           "director": "Lola Quivoron",
           "award": "Coup de cœur · Un Certain Regard"
+        },
+        {
+          "title": "Joyland",
+          "director": "Saim Sadiq",
+          "award": "Premio del Jurado · Un Certain Regard"
+        },
+        {
+          "title": "The Silent Twins",
+          "director": "Agnieszka Smoczynska",
+          "aliases": [
+            "Las gemelas que no hablaban"
+          ]
+        },
+        {
+          "title": "Le bleu du caftan",
+          "director": "Maryam Touzani",
+          "aliases": [
+            "The Blue Caftan",
+            "El caftán azul"
+          ]
         }
       ]
     },
     {
       "festival": "Cannes",
       "year": 2023,
-      "section": "Un Certain Regard · Palmarés",
+      "section": "Un Certain Regard",
       "films": [
+        {
+          "title": "Le Règne animal",
+          "director": "Thomas Cailley",
+          "aliases": [
+            "The Animal Kingdom",
+            "El reino animal"
+          ]
+        },
+        {
+          "title": "Los delincuentes",
+          "director": "Rodrigo Moreno",
+          "aliases": [
+            "The Delinquents"
+          ]
+        },
         {
           "title": "How to Have Sex",
           "director": "Molly Manning Walker",
-          "aliases": [
-            "HOW TO HAVE SEX"
-          ],
           "award": "Premio Un Certain Regard"
-        },
-        {
-          "title": "Augure",
-          "director": "Baloji",
-          "aliases": [
-            "Omen"
-          ],
-          "award": "Premio Nueva Voz · Un Certain Regard"
-        },
-        {
-          "title": "Crowrã",
-          "director": "João Salaviza, Renée Nader Messora",
-          "aliases": [
-            "The Buriti Flower",
-            "Crowrã "
-          ],
-          "award": "Premio de conjunto · Un Certain Regard"
         },
         {
           "title": "Goodbye Julia",
@@ -5985,20 +6159,156 @@
           "award": "Mejor dirección · Un Certain Regard"
         },
         {
+          "title": "Simple comme Sylvain",
+          "director": "Monia Chokri",
+          "aliases": [
+            "The Nature of Love",
+            "Simple como Sylvain"
+          ]
+        },
+        {
+          "title": "Crowrã",
+          "director": "João Salaviza, Renée Nader Messora",
+          "aliases": [
+            "The Buriti Flower",
+            "La flor del Burití"
+          ],
+          "award": "Premio de conjunto · Un Certain Regard"
+        },
+        {
+          "title": "Los colonos",
+          "director": "Felipe Gálvez",
+          "aliases": [
+            "The Settlers"
+          ]
+        },
+        {
+          "title": "Augure",
+          "director": "Baloji",
+          "aliases": [
+            "Omen"
+          ],
+          "award": "Premio Nueva Voz · Un Certain Regard"
+        },
+        {
+          "title": "Ran Dong",
+          "director": "Anthony Chen",
+          "aliases": [
+            "The Breaking Ice",
+            "La fragilidad del hielo"
+          ]
+        },
+        {
+          "title": "Rosalie",
+          "director": "Stéphanie Di Giusto"
+        },
+        {
+          "title": "The New Boy",
+          "director": "Warwick Thornton"
+        },
+        {
+          "title": "If Only I Could Hibernate",
+          "director": "Zoljargal Purevdash",
+          "aliases": [
+            "Si yo pudiera hibernar (Hasta que todo pase)"
+          ]
+        },
+        {
+          "title": "Hwa-ran",
+          "director": "Kim Chang-hoon",
+          "aliases": [
+            "Hopeless"
+          ]
+        },
+        {
+          "title": "Ayeh haye zamini",
+          "director": "Ali Asgari, Alireza Khatami",
+          "aliases": [
+            "Terrestrial Verses"
+          ]
+        },
+        {
+          "title": "Rien à perdre",
+          "director": "Delphine Deloget",
+          "aliases": [
+            "Nada que perder"
+          ]
+        },
+        {
           "title": "Les meutes",
           "director": "Kamal Lazraq",
           "aliases": [
-            "Hounds"
+            "Hounds",
+            "Las jaurías"
           ],
           "award": "Premio del Jurado · Un Certain Regard"
+        },
+        {
+          "title": "He bian de cuo wu",
+          "director": "Wei Shujun",
+          "aliases": [
+            "Only the River Flows",
+            "El silencio del agua"
+          ]
+        },
+        {
+          "title": "Salem",
+          "director": "Jean-Bernard Marlin"
+        },
+        {
+          "title": "Une nuit",
+          "director": "Alex Lutz",
+          "aliases": [
+            "Strangers by Night"
+          ],
+          "award": "Clausura · fuera de concurso"
         }
       ]
     },
     {
       "festival": "Cannes",
       "year": 2024,
-      "section": "Un Certain Regard · Palmarés",
+      "section": "Un Certain Regard",
       "films": [
+        {
+          "title": "When the Light Breaks",
+          "director": "Rúnar Rúnarsson"
+        },
+        {
+          "title": "Norah",
+          "director": "Tawfik Alzaidi",
+          "award": "Mención especial · Un Certain Regard"
+        },
+        {
+          "title": "The Shameless",
+          "director": "Konstantin Bojanov",
+          "award": "Mejor actriz · Un Certain Regard"
+        },
+        {
+          "title": "Le Royaume",
+          "director": "Julien Colonna",
+          "aliases": [
+            "The Kingdom",
+            "El reino de la mafia"
+          ]
+        },
+        {
+          "title": "Vingt dieux",
+          "director": "Louise Courvoisier",
+          "aliases": [
+            "Holy Cow",
+            "La receta perfecta"
+          ],
+          "award": "Premio de la Juventud · Un Certain Regard"
+        },
+        {
+          "title": "Le procès du chien",
+          "director": "Laetitia Dosch",
+          "aliases": [
+            "Dog on Trial",
+            "El juicio del perro"
+          ]
+        },
         {
           "title": "Gou zhen",
           "director": "Guan Hu",
@@ -6006,6 +6316,17 @@
             "Black Dog"
           ],
           "award": "Premio Un Certain Regard"
+        },
+        {
+          "title": "The Village Next to Paradise",
+          "director": "Mo Harawe"
+        },
+        {
+          "title": "September Says",
+          "director": "Ariane Labed",
+          "aliases": [
+            "Septiembre dice"
+          ]
         },
         {
           "title": "L'Histoire de Souleymane",
@@ -6029,22 +6350,40 @@
           "award": "Mejor dirección ex aequo · Un Certain Regard"
         },
         {
-          "title": "The Shameless",
-          "director": "Konstantin Bojanov",
-          "award": "Mejor actriz · Un Certain Regard"
-        },
-        {
-          "title": "Vingt dieux",
-          "director": "Louise Courvoisier",
+          "title": "Boku no Ohisama",
+          "director": "Hiroshi Okuyama",
           "aliases": [
-            "Holy Cow"
-          ],
-          "award": "Premio de la Juventud · Un Certain Regard"
+            "My Sunshine"
+          ]
         },
         {
-          "title": "Norah",
-          "director": "Tawfik Alzaidi",
-          "award": "Mención especial · Un Certain Regard"
+          "title": "Niki",
+          "director": "Céline Sallette"
+        },
+        {
+          "title": "Santosh",
+          "director": "Sandhya Suri",
+          "aliases": [
+            "Secretos de un crimen"
+          ]
+        },
+        {
+          "title": "Viet and Nam",
+          "director": "Truong Minh Quý"
+        },
+        {
+          "title": "Armand",
+          "director": "Halfdan Ullmann Tøndel",
+          "aliases": [
+            "La tutoría"
+          ]
+        },
+        {
+          "title": "Flow",
+          "director": "Gints Zilbalodis",
+          "aliases": [
+            "Flow, un mundo que salvar"
+          ]
         }
       ]
     }
