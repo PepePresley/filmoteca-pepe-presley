@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "editions": [
     {
       "festival": "Cannes",
@@ -2652,11 +2652,6 @@
           "award": "Mejor guion"
         },
         {
-          "title": "Flag Day",
-          "director": "Sean Penn",
-          "award": "En competición"
-        },
-        {
           "title": "Ha'berech",
           "director": "Nadav Lapid",
           "aliases": [
@@ -2670,15 +2665,20 @@
           "award": "En competición"
         },
         {
-          "title": "Nitram",
-          "director": "Justin Kurzel",
-          "award": "Mejor actor · Caleb Landry Jones"
+          "title": "Hytti nro 6",
+          "director": "Juho Kuosmanen",
+          "aliases": [
+            "Compartment No. 6",
+            "Compartimento Nº 6"
+          ],
+          "award": "Gran Premio · ex aequo"
         },
         {
-          "title": "Tout s'est bien passé",
-          "director": "François Ozon",
+          "title": "Verdens verste menneske",
+          "director": "Joachim Trier",
           "aliases": [
-            "Everything Went Fine"
+            "The Worst Person in the World",
+            "La peor persona del mundo"
           ],
           "award": "En competición"
         },
@@ -2691,16 +2691,19 @@
           "award": "En competición"
         },
         {
+          "title": "Les Intranquilles",
+          "director": "Joachim Lafosse",
+          "aliases": [
+            "The Restless"
+          ],
+          "award": "En competición"
+        },
+        {
           "title": "Les Olympiades, Paris 13e",
           "director": "Jacques Audiard",
           "aliases": [
             "Paris, 13th District"
           ],
-          "award": "En competición"
-        },
-        {
-          "title": "France",
-          "director": "Bruno Dumont",
           "award": "En competición"
         },
         {
@@ -2712,16 +2715,18 @@
           "award": "En competición"
         },
         {
-          "title": "Tre piani",
-          "director": "Nanni Moretti",
-          "aliases": [
-            "Three Floors"
-          ],
-          "award": "En competición"
+          "title": "Memoria",
+          "director": "Apichatpong Weerasethakul",
+          "award": "Premio del Jurado · ex aequo"
         },
         {
-          "title": "The French Dispatch",
-          "director": "Wes Anderson",
+          "title": "Nitram",
+          "director": "Justin Kurzel",
+          "award": "Mejor actor · Caleb Landry Jones"
+        },
+        {
+          "title": "France",
+          "director": "Bruno Dumont",
           "award": "En competición"
         },
         {
@@ -2735,9 +2740,35 @@
           "award": "En competición"
         },
         {
+          "title": "Flag Day",
+          "director": "Sean Penn",
+          "award": "En competición"
+        },
+        {
+          "title": "The French Dispatch",
+          "director": "Wes Anderson",
+          "award": "En competición"
+        },
+        {
           "title": "Titane",
           "director": "Julia Ducournau",
           "award": "Palma de Oro"
+        },
+        {
+          "title": "Tre piani",
+          "director": "Nanni Moretti",
+          "aliases": [
+            "Three Floors"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Tout s'est bien passé",
+          "director": "François Ozon",
+          "aliases": [
+            "Everything Went Fine"
+          ],
+          "award": "En competición"
         },
         {
           "title": "Ghahreman",
@@ -2747,28 +2778,6 @@
             "Un héroe"
           ],
           "award": "Gran Premio · ex aequo"
-        },
-        {
-          "title": "Hytti nro 6",
-          "director": "Juho Kuosmanen",
-          "aliases": [
-            "Compartment No. 6",
-            "Compartimento Nº 6"
-          ],
-          "award": "Gran Premio · ex aequo"
-        },
-        {
-          "title": "Memoria",
-          "director": "Apichatpong Weerasethakul",
-          "award": "Premio del Jurado · ex aequo"
-        },
-        {
-          "title": "La voix d'Aïda",
-          "director": "Jasmila Žbanić",
-          "aliases": [
-            "Quo Vadis, Aida?"
-          ],
-          "award": "En competición"
         }
       ]
     },
