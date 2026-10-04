@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "editions": [
     {
       "festival": "Cannes",
@@ -5219,6 +5219,632 @@
         {
           "title": "Wuhai",
           "director": "Zhou Ziyang"
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 2020,
+      "section": "92.ª edición · películas de 2019",
+      "films": [
+        {
+          "title": "Parasite",
+          "nominations": [
+            "Película",
+            "Dirección · Bong Joon Ho",
+            "Guion original",
+            "Montaje",
+            "Diseño de producción",
+            "Película internacional"
+          ],
+          "wins": [
+            "Película",
+            "Dirección · Bong Joon Ho",
+            "Guion original",
+            "Película internacional"
+          ],
+          "aliases": [
+            "Parásitos"
+          ],
+          "award": "4 Oscars · 6 nominaciónes"
+        },
+        {
+          "title": "Ford v Ferrari",
+          "nominations": [
+            "Película",
+            "Montaje",
+            "Mezcla de sonido",
+            "Edición de sonido"
+          ],
+          "wins": [
+            "Montaje",
+            "Edición de sonido"
+          ],
+          "aliases": [
+            "Le Mans '66"
+          ],
+          "award": "2 Oscars · 4 nominaciónes"
+        },
+        {
+          "title": "The Irishman",
+          "nominations": [
+            "Película",
+            "Dirección · Martin Scorsese",
+            "Actor de reparto · Al Pacino",
+            "Actor de reparto · Joe Pesci",
+            "Guion adaptado",
+            "Montaje",
+            "Fotografía",
+            "Diseño de producción",
+            "Vestuario",
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "aliases": [
+            "El irlandés"
+          ],
+          "award": "10 nominaciónes"
+        },
+        {
+          "title": "Jojo Rabbit",
+          "nominations": [
+            "Película",
+            "Actriz de reparto · Scarlett Johansson",
+            "Guion adaptado",
+            "Montaje",
+            "Diseño de producción",
+            "Vestuario"
+          ],
+          "wins": [
+            "Guion adaptado"
+          ],
+          "award": "1 Oscar · 6 nominaciónes"
+        },
+        {
+          "title": "Joker",
+          "nominations": [
+            "Película",
+            "Dirección · Todd Phillips",
+            "Actor protagonista · Joaquin Phoenix",
+            "Guion adaptado",
+            "Montaje",
+            "Fotografía",
+            "Banda sonora",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Mezcla de sonido",
+            "Edición de sonido"
+          ],
+          "wins": [
+            "Actor protagonista · Joaquin Phoenix",
+            "Banda sonora"
+          ],
+          "award": "2 Oscars · 11 nominaciónes"
+        },
+        {
+          "title": "Little Women",
+          "nominations": [
+            "Película",
+            "Actriz protagonista · Saoirse Ronan",
+            "Actriz de reparto · Florence Pugh",
+            "Guion adaptado",
+            "Banda sonora",
+            "Vestuario"
+          ],
+          "wins": [
+            "Vestuario"
+          ],
+          "aliases": [
+            "Mujercitas"
+          ],
+          "award": "1 Oscar · 6 nominaciónes"
+        },
+        {
+          "title": "Marriage Story",
+          "nominations": [
+            "Película",
+            "Actor protagonista · Adam Driver",
+            "Actriz protagonista · Scarlett Johansson",
+            "Actriz de reparto · Laura Dern",
+            "Guion original",
+            "Banda sonora"
+          ],
+          "wins": [
+            "Actriz de reparto · Laura Dern"
+          ],
+          "aliases": [
+            "Historia de un matrimonio"
+          ],
+          "award": "1 Oscar · 6 nominaciónes"
+        },
+        {
+          "title": "1917",
+          "nominations": [
+            "Película",
+            "Dirección · Sam Mendes",
+            "Guion original",
+            "Fotografía",
+            "Banda sonora",
+            "Diseño de producción",
+            "Maquillaje y peluquería",
+            "Mezcla de sonido",
+            "Edición de sonido",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Fotografía",
+            "Mezcla de sonido",
+            "Efectos visuales"
+          ],
+          "award": "3 Oscars · 10 nominaciónes"
+        },
+        {
+          "title": "Once upon a Time...in Hollywood",
+          "nominations": [
+            "Película",
+            "Dirección · Quentin Tarantino",
+            "Actor protagonista · Leonardo DiCaprio",
+            "Actor de reparto · Brad Pitt",
+            "Guion original",
+            "Fotografía",
+            "Diseño de producción",
+            "Vestuario",
+            "Mezcla de sonido",
+            "Edición de sonido"
+          ],
+          "wins": [
+            "Actor de reparto · Brad Pitt",
+            "Diseño de producción"
+          ],
+          "aliases": [
+            "Érase una vez en... Hollywood"
+          ],
+          "award": "2 Oscars · 10 nominaciónes"
+        },
+        {
+          "title": "Pain and Glory",
+          "nominations": [
+            "Actor protagonista · Antonio Banderas",
+            "Película internacional"
+          ],
+          "wins": [],
+          "aliases": [
+            "Dolor y gloria"
+          ],
+          "award": "2 nominaciónes"
+        },
+        {
+          "title": "The Two Popes",
+          "nominations": [
+            "Actor protagonista · Jonathan Pryce",
+            "Actor de reparto · Anthony Hopkins",
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "aliases": [
+            "Los dos papas"
+          ],
+          "award": "3 nominaciónes"
+        },
+        {
+          "title": "Judy",
+          "nominations": [
+            "Actriz protagonista · Renée Zellweger",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Actriz protagonista · Renée Zellweger"
+          ],
+          "award": "1 Oscar · 2 nominaciónes"
+        },
+        {
+          "title": "Harriet",
+          "nominations": [
+            "Actriz protagonista · Cynthia Erivo",
+            "Canción"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
+        },
+        {
+          "title": "Bombshell",
+          "nominations": [
+            "Actriz protagonista · Charlize Theron",
+            "Actriz de reparto · Margot Robbie",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Maquillaje y peluquería"
+          ],
+          "aliases": [
+            "El escándalo"
+          ],
+          "award": "1 Oscar · 3 nominaciónes"
+        },
+        {
+          "title": "A Beautiful Day in the Neighborhood",
+          "nominations": [
+            "Actor de reparto · Tom Hanks"
+          ],
+          "wins": [],
+          "aliases": [
+            "Un amigo extraordinario"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Richard Jewell",
+          "nominations": [
+            "Actriz de reparto · Kathy Bates"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Knives Out",
+          "nominations": [
+            "Guion original"
+          ],
+          "wins": [],
+          "aliases": [
+            "Puñales por la espalda"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Lighthouse",
+          "nominations": [
+            "Fotografía"
+          ],
+          "wins": [],
+          "aliases": [
+            "El faro"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Star Wars: The Rise of Skywalker",
+          "nominations": [
+            "Banda sonora",
+            "Edición de sonido",
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "aliases": [
+            "Star Wars: El ascenso de Skywalker"
+          ],
+          "award": "3 nominaciónes"
+        },
+        {
+          "title": "Rocketman",
+          "nominations": [
+            "Canción"
+          ],
+          "wins": [
+            "Canción"
+          ],
+          "award": "1 Oscar · 1 nominación"
+        },
+        {
+          "title": "Toy Story 4",
+          "nominations": [
+            "Canción",
+            "Largometraje de animación"
+          ],
+          "wins": [
+            "Largometraje de animación"
+          ],
+          "award": "1 Oscar · 2 nominaciónes"
+        },
+        {
+          "title": "Breakthrough",
+          "nominations": [
+            "Canción"
+          ],
+          "wins": [],
+          "aliases": [
+            "Más allá de la esperanza"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Frozen II",
+          "nominations": [
+            "Canción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Maleficent: Mistress of Evil",
+          "nominations": [
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "aliases": [
+            "Maléfica: Maestra del mal"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Ad Astra",
+          "nominations": [
+            "Mezcla de sonido"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Avengers: Endgame",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "aliases": [
+            "Vengadores: Endgame"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Lion King",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "aliases": [
+            "El rey león"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "How to Train Your Dragon: The Hidden World",
+          "nominations": [
+            "Largometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [
+            "Cómo entrenar a tu dragón 3"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "I Lost My Body",
+          "nominations": [
+            "Largometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [
+            "¿Dónde está mi cuerpo?"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Klaus",
+          "nominations": [
+            "Largometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Missing Link",
+          "nominations": [
+            "Largometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [
+            "Mr. Link: El origen perdido"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "American Factory",
+          "nominations": [
+            "Largometraje documental"
+          ],
+          "wins": [
+            "Largometraje documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
+        },
+        {
+          "title": "The Edge of Democracy",
+          "nominations": [
+            "Largometraje documental"
+          ],
+          "wins": [],
+          "aliases": [
+            "La democracia en peligro"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Cave",
+          "nominations": [
+            "Largometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "For Sama",
+          "nominations": [
+            "Largometraje documental"
+          ],
+          "wins": [],
+          "aliases": [
+            "Para Sama"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Honeyland",
+          "nominations": [
+            "Largometraje documental",
+            "Película internacional"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
+        },
+        {
+          "title": "Learning to Skateboard in a Warzone (If You're a Girl)",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
+        },
+        {
+          "title": "In the Absence",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Life Overtakes Me",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "aliases": [
+            "La vida me supera"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "St. Louis Superman",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Walk Run Cha-Cha",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Corpus Christi",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Les Misérables",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "aliases": [
+            "Los miserables"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Hair Love",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "award": "1 Oscar · 1 nominación"
+        },
+        {
+          "title": "Dcera (Daughter)",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [
+            "Hija"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Kitbull",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Memorable",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [
+            "Inolvidable"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Sister",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [
+            "Hermana"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "The Neighbors' Window",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "1 Oscar · 1 nominación"
+        },
+        {
+          "title": "Brotherhood",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "aliases": [
+            "Fraternidad"
+          ],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Nefta Football Club",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Saria",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "A Sister",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         }
       ]
     }
