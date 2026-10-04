@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "editions": [
     {
       "festival": "Cannes",
@@ -1061,6 +1061,544 @@
           ],
           "wins": [],
           "award": "1 nominación"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 2023,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Anatomie d'une chute",
+          "director": "Justine Triet",
+          "aliases": [
+            "Anatomy of a Fall",
+            "Anatomía de una caída"
+          ],
+          "award": "Palma de Oro"
+        },
+        {
+          "title": "The Zone of Interest",
+          "director": "Jonathan Glazer",
+          "aliases": [
+            "La zona de interés"
+          ],
+          "award": "Gran Premio"
+        },
+        {
+          "title": "La Passion de Dodin Bouffant",
+          "director": "Tran Anh Hung",
+          "aliases": [
+            "The Taste of Things",
+            "A fuego lento"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Kuolleet lehdet",
+          "director": "Aki Kaurismäki",
+          "aliases": [
+            "Fallen Leaves",
+            "Fallen Leaves (Kuolleet lehdet)"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "Kaibutsu",
+          "director": "Hirokazu Koreeda",
+          "aliases": [
+            "Monster"
+          ],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Kuru Otlar Üstüne",
+          "director": "Nuri Bilge Ceylan",
+          "aliases": [
+            "About Dry Grasses"
+          ],
+          "award": "Mejor actriz · Merve Dizdar"
+        },
+        {
+          "title": "Perfect Days",
+          "director": "Wim Wenders",
+          "award": "Mejor actor · Koji Yakusho"
+        },
+        {
+          "title": "Asteroid City",
+          "director": "Wes Anderson",
+          "award": "En competición"
+        },
+        {
+          "title": "Banel e Adama",
+          "director": "Ramata-Toulaye Sy",
+          "award": "En competición"
+        },
+        {
+          "title": "Black Flies",
+          "director": "Jean-Stéphane Sauvaire",
+          "award": "En competición"
+        },
+        {
+          "title": "Club Zero",
+          "director": "Jessica Hausner",
+          "award": "En competición"
+        },
+        {
+          "title": "Firebrand",
+          "director": "Karim Aïnouz",
+          "award": "En competición"
+        },
+        {
+          "title": "Il sol dell'avvenire",
+          "director": "Nanni Moretti",
+          "aliases": [
+            "A Brighter Tomorrow"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "L'été dernier",
+          "director": "Catherine Breillat",
+          "aliases": [
+            "Last Summer"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "La Chimera",
+          "director": "Alice Rohrwacher",
+          "award": "En competición"
+        },
+        {
+          "title": "Le Retour",
+          "director": "Catherine Corsini",
+          "aliases": [
+            "Homecoming"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Les filles d'Olfa",
+          "director": "Kaouther Ben Hania",
+          "aliases": [
+            "Four Daughters"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "May December",
+          "director": "Todd Haynes",
+          "award": "En competición"
+        },
+        {
+          "title": "Qing Chun (Chun)",
+          "director": "Wang Bing",
+          "aliases": [
+            "Youth (Spring)"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Rapito",
+          "director": "Marco Bellocchio",
+          "aliases": [
+            "Kidnapped"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Old Oak",
+          "director": "Ken Loach",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 2023,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Poor Things",
+          "director": "Yorgos Lanthimos",
+          "aliases": [
+            "Pobres criaturas"
+          ],
+          "award": "León de Oro"
+        },
+        {
+          "title": "Aku wa sonzai shinai",
+          "director": "Ryusuke Hamaguchi",
+          "aliases": [
+            "Evil Does Not Exist"
+          ],
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Io Capitano",
+          "director": "Matteo Garrone",
+          "aliases": [
+            "Yo capitán"
+          ],
+          "award": "Mejor dirección · Marcello Mastroianni · Seydou Sarr"
+        },
+        {
+          "title": "Priscilla",
+          "director": "Sofia Coppola",
+          "award": "Mejor actriz · Cailee Spaeny"
+        },
+        {
+          "title": "Memory",
+          "director": "Michel Franco",
+          "award": "Mejor actor · Peter Sarsgaard"
+        },
+        {
+          "title": "El Conde",
+          "director": "Pablo Larraín",
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Zielona granica",
+          "director": "Agnieszka Holland",
+          "aliases": [
+            "Green Border"
+          ],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Bastarden",
+          "director": "Nikolaj Arcel",
+          "aliases": [
+            "The Promised Land"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Dogman",
+          "director": "Luc Besson",
+          "award": "En competición"
+        },
+        {
+          "title": "La bête",
+          "director": "Bertrand Bonello",
+          "aliases": [
+            "The Beast"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Hors-saison",
+          "director": "Stéphane Brizé",
+          "award": "En competición"
+        },
+        {
+          "title": "Enea",
+          "director": "Pietro Castellitto",
+          "award": "En competición"
+        },
+        {
+          "title": "Maestro",
+          "director": "Bradley Cooper",
+          "award": "En competición"
+        },
+        {
+          "title": "Finalmente l'alba",
+          "director": "Saverio Costanzo",
+          "award": "En competición"
+        },
+        {
+          "title": "Comandante",
+          "director": "Edoardo De Angelis",
+          "award": "En competición"
+        },
+        {
+          "title": "Lubo",
+          "director": "Giorgio Diritti",
+          "award": "En competición"
+        },
+        {
+          "title": "Origin",
+          "director": "Ava DuVernay",
+          "award": "En competición"
+        },
+        {
+          "title": "The Killer",
+          "director": "David Fincher",
+          "award": "En competición"
+        },
+        {
+          "title": "Die Theorie von allem",
+          "director": "Timm Kröger",
+          "aliases": [
+            "The Universal Theory"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Ferrari",
+          "director": "Michael Mann",
+          "award": "En competición"
+        },
+        {
+          "title": "Adagio",
+          "director": "Stefano Sollima",
+          "award": "En competición"
+        },
+        {
+          "title": "Kobieta z...",
+          "director": "Małgorzata Szumowska, Michał Englert",
+          "aliases": [
+            "Woman of..."
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Holly",
+          "director": "Fien Troch",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 2023,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Sur l'Adamant",
+          "director": "Nicolas Philibert",
+          "aliases": [
+            "On the Adamant"
+          ],
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Roter Himmel",
+          "director": "Christian Petzold",
+          "aliases": [
+            "Afire",
+            "El cielo rojo"
+          ],
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Mal Viver",
+          "director": "João Canijo",
+          "aliases": [
+            "Bad Living"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "Le grand chariot",
+          "director": "Philippe Garrel",
+          "aliases": [
+            "The Plough"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "20.000 especies de abejas",
+          "director": "Estibaliz Urresola Solaguren",
+          "aliases": [
+            "20,000 Species of Bees"
+          ],
+          "award": "Mejor interpretación protagonista · Sofía Otero"
+        },
+        {
+          "title": "Bis ans Ende der Nacht",
+          "director": "Christoph Hochhäusler",
+          "aliases": [
+            "Till the End of the Night"
+          ],
+          "award": "Mejor interpretación de reparto · Thea Ehre"
+        },
+        {
+          "title": "Music",
+          "director": "Angela Schanelec",
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Disco Boy",
+          "director": "Giacomo Abbruzzese",
+          "award": "Contribución artística · Hélène Louvart"
+        },
+        {
+          "title": "Art College 1994",
+          "director": "Liu Jian",
+          "award": "En competición"
+        },
+        {
+          "title": "Bai Ta Zhi Guang",
+          "director": "Zhang Lu",
+          "aliases": [
+            "The Shadowless Tower"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "BlackBerry",
+          "director": "Matt Johnson",
+          "award": "En competición"
+        },
+        {
+          "title": "Ingeborg Bachmann – Reise in die Wüste",
+          "director": "Margarethe von Trotta",
+          "aliases": [
+            "Ingeborg Bachmann - Journey into the Desert"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Irgendwann werden wir uns alles erzählen",
+          "director": "Emily Atef",
+          "aliases": [
+            "Someday We'll Tell Each Other Everything"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Limbo",
+          "director": "Ivan Sen",
+          "award": "En competición"
+        },
+        {
+          "title": "Manodrome",
+          "director": "John Trengove",
+          "award": "En competición"
+        },
+        {
+          "title": "Past Lives",
+          "director": "Celine Song",
+          "aliases": [
+            "Vidas pasadas"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Suzume",
+          "director": "Makoto Shinkai",
+          "award": "En competición"
+        },
+        {
+          "title": "The Survival of Kindness",
+          "director": "Rolf de Heer",
+          "award": "En competición"
+        },
+        {
+          "title": "Tótem",
+          "director": "Lila Avilés",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 2023,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "O corno",
+          "director": "Jaione Camborda",
+          "aliases": [
+            "The Rye Horn"
+          ],
+          "award": "Concha de Oro"
+        },
+        {
+          "title": "Kalak",
+          "director": "Isabella Eklöf",
+          "award": "Premio Especial del Jurado · Mejor fotografía · Nadim Carlsen"
+        },
+        {
+          "title": "Chun xing",
+          "director": "Tzu-Hui Peng, Ping-Wen Wang",
+          "aliases": [
+            "A Journey in Spring"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Puan",
+          "director": "María Alché, Benjamín Naishtat",
+          "award": "Mejor interpretación protagonista · Marcelo Subiotto · Mejor guion"
+        },
+        {
+          "title": "Great Absence",
+          "director": "Kei Chika-Ura",
+          "award": "Mejor interpretación protagonista · Tatsuya Fuji"
+        },
+        {
+          "title": "Un amor",
+          "director": "Isabel Coixet",
+          "award": "Mejor interpretación de reparto · Hovik Keuchkerian"
+        },
+        {
+          "title": "All Dirt Roads Taste of Salt",
+          "director": "Raven Jackson",
+          "award": "En competición"
+        },
+        {
+          "title": "El sueño de la sultana",
+          "director": "Isabel Herguera",
+          "aliases": [
+            "Sultana's Dream"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Ex-Husbands",
+          "director": "Noah Pritzker",
+          "award": "En competición"
+        },
+        {
+          "title": "Fingernails",
+          "director": "Christos Nikou",
+          "award": "En competición"
+        },
+        {
+          "title": "L'île rouge",
+          "director": "Robin Campillo",
+          "aliases": [
+            "Red Island"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "La práctica",
+          "director": "Martín Rejtman",
+          "aliases": [
+            "The Practice"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Le successeur",
+          "director": "Xavier Legrand",
+          "aliases": [
+            "The Successor"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "MMXX",
+          "director": "Cristi Puiu",
+          "award": "En competición"
+        },
+        {
+          "title": "The Royal Hotel",
+          "director": "Kitty Green",
+          "award": "En competición"
+        },
+        {
+          "title": "Un silence",
+          "director": "Joachim Lafosse",
+          "aliases": [
+            "A Silence"
+          ],
+          "award": "En competición"
         }
       ]
     }
