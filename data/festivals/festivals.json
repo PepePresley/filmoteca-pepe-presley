@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "editions": [
     {
       "festival": "Cannes",
@@ -4043,7 +4043,10 @@
             "Vestuario · Ann Roth",
             "Maquillaje y peluquería"
           ],
-          "award": "2 Oscar · 5 nominaciónes"
+          "award": "2 Oscar · 5 nominaciónes",
+          "aliases": [
+            "LA MADRE DEL BLUES"
+          ]
         },
         {
           "title": "Mank",
@@ -4126,7 +4129,10 @@
             "Guion adaptado · Kemp Powers"
           ],
           "wins": [],
-          "award": "3 nominaciónes"
+          "award": "3 nominaciónes",
+          "aliases": [
+            "UNA NOCHE EN MIAMI…"
+          ]
         },
         {
           "title": "Nomadland",
@@ -4151,7 +4157,10 @@
             "Actriz protagonista · Andra Day"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "LOS ESTADOS UNIDOS CONTRA BILLIE HOLIDAY"
+          ]
         },
         {
           "title": "Pieces of a Woman",
@@ -4159,7 +4168,10 @@
             "Actriz protagonista · Vanessa Kirby"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "FRAGMENTOS DE UNA MUJER"
+          ]
         },
         {
           "title": "Promising Young Woman",
@@ -4185,7 +4197,10 @@
             "Guion adaptado · Sacha Baron Cohen y equipo"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "BORAT, PELÍCULA FILM SECUELA"
+          ]
         },
         {
           "title": "Hillbilly Elegy",
@@ -4194,7 +4209,10 @@
             "Maquillaje y peluquería"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "HILLBILLY, UNA ELEGÍA RURAL"
+          ]
         },
         {
           "title": "Soul",
@@ -4256,7 +4274,10 @@
             "Sonido"
           ],
           "wins": [],
-          "award": "4 nominaciónes"
+          "award": "4 nominaciónes",
+          "aliases": [
+            "NOTICIAS DEL GRAN MUNDO"
+          ]
         },
         {
           "title": "Emma",
@@ -4274,7 +4295,10 @@
             "Efectos visuales"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "MULÁN"
+          ]
         },
         {
           "title": "Pinocchio",
@@ -4283,7 +4307,10 @@
             "Maquillaje y peluquería"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "PINOCHO"
+          ]
         },
         {
           "title": "Another Round",
@@ -4320,7 +4347,11 @@
             "Película internacional · Rumanía"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "COLECTIVE",
+            "COLECTIV"
+          ]
         },
         {
           "title": "Crip Camp",
@@ -4433,7 +4464,10 @@
             "Banda sonora · Terence Blanchard"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "DA 5 BLOODS: HERMANOS DE ARMAS"
+          ]
         },
         {
           "title": "Eurovision Song Contest: The Story of Fire Saga",
@@ -4441,7 +4475,10 @@
             "Canción · Husavik"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "FESTIVAL DE LA CANCIÓN DE EUROVISIÓN: LA HISTORIA DE FIRE SAGA"
+          ]
         },
         {
           "title": "The Life Ahead",
@@ -4449,7 +4486,10 @@
             "Canción · Io Sì (Seen)"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "LA VIDA POR DELANTE"
+          ]
         },
         {
           "title": "Tenet",
@@ -4569,7 +4609,10 @@
             "Sonido"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "GREYHOUND: ENEMIGOS BAJO EL MAR"
+          ]
         },
         {
           "title": "Love and Monsters",
@@ -4577,7 +4620,10 @@
             "Efectos visuales"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "DE AMOR Y MONSTRUOS"
+          ]
         },
         {
           "title": "The Midnight Sky",
@@ -4585,7 +4631,10 @@
             "Efectos visuales"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "CIELO DE MEDIANOCHE"
+          ]
         },
         {
           "title": "The One and Only Ivan",
@@ -4593,7 +4642,10 @@
             "Efectos visuales"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "EL MAGNÍFICO IVÁN"
+          ]
         },
         {
           "title": "The White Tiger",
@@ -4601,7 +4653,10 @@
             "Guion adaptado · Ramin Bahrani"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "TIGRE BLANCO"
+          ]
         }
       ]
     },
