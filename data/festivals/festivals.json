@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "editions": [
     {
       "festival": "Cannes",
@@ -2611,6 +2611,738 @@
         },
         {
           "title": "Please Hold",
+          "award": "Nominada"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 2021,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Titane",
+          "director": "Julia Ducournau",
+          "award": "Palma de Oro"
+        },
+        {
+          "title": "Ghahreman",
+          "director": "Asghar Farhadi",
+          "aliases": [
+            "A Hero",
+            "Un héroe"
+          ],
+          "award": "Gran Premio · ex aequo"
+        },
+        {
+          "title": "Hytti nro 6",
+          "director": "Juho Kuosmanen",
+          "aliases": [
+            "Compartment No. 6",
+            "Compartimento Nº 6"
+          ],
+          "award": "Gran Premio · ex aequo"
+        },
+        {
+          "title": "Memoria",
+          "director": "Apichatpong Weerasethakul",
+          "award": "Premio del Jurado · ex aequo"
+        },
+        {
+          "title": "Ha'berech",
+          "director": "Nadav Lapid",
+          "aliases": [
+            "Ahed's Knee"
+          ],
+          "award": "Premio del Jurado · ex aequo"
+        },
+        {
+          "title": "Annette",
+          "director": "Leos Carax",
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Drive My Car",
+          "director": "Ryusuke Hamaguchi",
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Nitram",
+          "director": "Justin Kurzel",
+          "award": "Mejor actor · Caleb Landry Jones"
+        },
+        {
+          "title": "La fracture",
+          "director": "Catherine Corsini",
+          "aliases": [
+            "The Divide"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Les Olympiades, Paris 13e",
+          "director": "Jacques Audiard",
+          "aliases": [
+            "Paris, 13th District"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "France",
+          "director": "Bruno Dumont",
+          "award": "En competición"
+        },
+        {
+          "title": "Lingui",
+          "director": "Mahamat-Saleh Haroun",
+          "aliases": [
+            "Lingui, The Sacred Bonds"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Bergman Island",
+          "director": "Mia Hansen-Løve",
+          "award": "En competición"
+        },
+        {
+          "title": "Tout s'est bien passé",
+          "director": "François Ozon",
+          "aliases": [
+            "Everything Went Fine"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Tre piani",
+          "director": "Nanni Moretti",
+          "aliases": [
+            "Three Floors"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The French Dispatch",
+          "director": "Wes Anderson",
+          "award": "En competición"
+        },
+        {
+          "title": "Petrov's Flu",
+          "director": "Kirill Serebrennikov",
+          "award": "En competición"
+        },
+        {
+          "title": "Flag Day",
+          "director": "Sean Penn",
+          "award": "En competición"
+        },
+        {
+          "title": "Red Rocket",
+          "director": "Sean Baker",
+          "award": "En competición"
+        },
+        {
+          "title": "Casablanca Beats",
+          "director": "Nabil Ayouch",
+          "award": "En competición"
+        },
+        {
+          "title": "The Story of My Wife",
+          "director": "Ildikó Enyedi",
+          "award": "En competición"
+        },
+        {
+          "title": "Benedetta",
+          "director": "Paul Verhoeven",
+          "award": "En competición"
+        },
+        {
+          "title": "La voix d'Aïda",
+          "director": "Jasmila Žbanić",
+          "aliases": [
+            "Quo Vadis, Aida?"
+          ],
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 2021,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "L'événement",
+          "director": "Audrey Diwan",
+          "aliases": [
+            "Happening",
+            "El acontecimiento"
+          ],
+          "award": "León de Oro"
+        },
+        {
+          "title": "È stata la mano di Dio",
+          "director": "Paolo Sorrentino",
+          "aliases": [
+            "The Hand of God",
+            "Fue la mano de Dios"
+          ],
+          "award": "Gran Premio del Jurado · Marcello Mastroianni · Filippo Scotti"
+        },
+        {
+          "title": "Il buco",
+          "director": "Michelangelo Frammartino",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "The Power of the Dog",
+          "director": "Jane Campion",
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Spencer",
+          "director": "Pablo Larraín",
+          "award": "En competición"
+        },
+        {
+          "title": "Madres paralelas",
+          "director": "Pedro Almodóvar",
+          "aliases": [
+            "Parallel Mothers"
+          ],
+          "award": "Mejor actriz · Penélope Cruz"
+        },
+        {
+          "title": "On the Job: The Missing 8",
+          "director": "Erik Matti",
+          "award": "Mejor actor · John Arcilla"
+        },
+        {
+          "title": "La caja",
+          "director": "Lorenzo Vigas",
+          "award": "En competición"
+        },
+        {
+          "title": "Freaks Out",
+          "director": "Gabriele Mainetti",
+          "award": "En competición"
+        },
+        {
+          "title": "Mona Lisa and the Blood Moon",
+          "director": "Ana Lily Amirpour",
+          "award": "En competición"
+        },
+        {
+          "title": "Sundown",
+          "director": "Michel Franco",
+          "award": "En competición"
+        },
+        {
+          "title": "The Card Counter",
+          "director": "Paul Schrader",
+          "award": "En competición"
+        },
+        {
+          "title": "Competencia oficial",
+          "director": "Mariano Cohn, Gastón Duprat",
+          "aliases": [
+            "Official Competition"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Lost Daughter",
+          "director": "Maggie Gyllenhaal",
+          "award": "Mejor guion"
+        },
+        {
+          "title": "America Latina",
+          "director": "Damiano D'Innocenzo, Fabio D'Innocenzo",
+          "award": "En competición"
+        },
+        {
+          "title": "Qui rido io",
+          "director": "Mario Martone",
+          "aliases": [
+            "The King of Laughter"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Illusions perdues",
+          "director": "Xavier Giannoli",
+          "aliases": [
+            "Lost Illusions"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Another World",
+          "director": "Stéphane Brizé",
+          "award": "En competición"
+        },
+        {
+          "title": "Captain Volkonogov Escaped",
+          "director": "Natasha Merkulova, Aleksey Chupov",
+          "award": "En competición"
+        },
+        {
+          "title": "Reflection",
+          "director": "Valentyn Vasyanovych",
+          "award": "En competición"
+        },
+        {
+          "title": "Leave No Traces",
+          "director": "Jan P. Matuszyński",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 2021,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Babardeala cu bucluc sau porno balamuc",
+          "director": "Radu Jude",
+          "aliases": [
+            "Bad Luck Banging or Loony Porn"
+          ],
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Guzen to sozo",
+          "director": "Ryusuke Hamaguchi",
+          "aliases": [
+            "Wheel of Fortune and Fantasy"
+          ],
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Herr Bachmann und seine Klasse",
+          "director": "Maria Speth",
+          "aliases": [
+            "Mr Bachmann and His Class"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "Természetes fény",
+          "director": "Dénes Nagy",
+          "aliases": [
+            "Natural Light"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Ich bin dein Mensch",
+          "director": "Maria Schrader",
+          "aliases": [
+            "I'm Your Man"
+          ],
+          "award": "Mejor interpretación protagonista · Maren Eggert"
+        },
+        {
+          "title": "Rengeteg - Mindenhol látlak",
+          "director": "Bence Fliegauf",
+          "aliases": [
+            "Forest - I See You Everywhere"
+          ],
+          "award": "Mejor interpretación de reparto · Lilla Kizlinger"
+        },
+        {
+          "title": "Introduction",
+          "director": "Hong Sang-soo",
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Una película de policías",
+          "director": "Alonso Ruizpalacios",
+          "aliases": [
+            "A Cop Movie"
+          ],
+          "award": "Contribución artística · Yibrán Asuad"
+        },
+        {
+          "title": "Albatros",
+          "director": "Xavier Beauvois",
+          "award": "En competición"
+        },
+        {
+          "title": "Fabian oder Der Gang vor die Hunde",
+          "director": "Dominik Graf",
+          "aliases": [
+            "Fabian: Going to the Dogs"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Je suis Karl",
+          "director": "Christian Schwochow",
+          "award": "En competición"
+        },
+        {
+          "title": "Nebenan",
+          "director": "Daniel Brühl",
+          "aliases": [
+            "Next Door"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Petite maman",
+          "director": "Céline Sciamma",
+          "award": "En competición"
+        },
+        {
+          "title": "Memory Box",
+          "director": "Joana Hadjithomas, Khalil Joreige",
+          "award": "En competición"
+        },
+        {
+          "title": "What Do We See When We Look at the Sky?",
+          "director": "Alexandre Koberidze",
+          "award": "En competición"
+        },
+        {
+          "title": "The World to Come",
+          "director": "Mona Fastvold",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 2021,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Crai nou",
+          "director": "Alina Grigore",
+          "aliases": [
+            "Blue Moon"
+          ],
+          "award": "Concha de Oro"
+        },
+        {
+          "title": "Earwig",
+          "director": "Lucile Hadžihalilović",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "As in Heaven",
+          "director": "Tea Lindeburg",
+          "award": "Mejor dirección · Mejor interpretación protagonista · Flora Ofelia Hofmann Lindahl"
+        },
+        {
+          "title": "Arthur Rambo",
+          "director": "Laurent Cantet",
+          "award": "En competición"
+        },
+        {
+          "title": "Benediction",
+          "director": "Terence Davies",
+          "award": "En competición"
+        },
+        {
+          "title": "Camila saldrá esta noche",
+          "director": "Inés María Barrionuevo",
+          "aliases": [
+            "Camila Comes Out Tonight"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Distancia de rescate",
+          "director": "Claudia Llosa",
+          "aliases": [
+            "Fever Dream"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "El buen patrón",
+          "director": "Fernando León de Aranoa",
+          "aliases": [
+            "The Good Boss"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "La abuela",
+          "director": "Paco Plaza",
+          "aliases": [
+            "The Grandmother"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Las leyes de la frontera",
+          "director": "Daniel Monzón",
+          "aliases": [
+            "The Laws of the Border"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Maixabel",
+          "director": "Icíar Bollaín",
+          "award": "En competición"
+        },
+        {
+          "title": "One Second",
+          "director": "Zhang Yimou",
+          "award": "En competición"
+        },
+        {
+          "title": "Quién lo impide",
+          "director": "Jonás Trueba",
+          "aliases": [
+            "Who’s Stopping Us"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Eyes of Tammy Faye",
+          "director": "Michael Showalter",
+          "award": "En competición"
+        },
+        {
+          "title": "The Forgiven",
+          "director": "John Michael McDonagh",
+          "award": "En competición"
+        },
+        {
+          "title": "Undercover",
+          "director": "Shariff Korver",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 2021,
+      "section": "Premios de la Academia",
+      "films": [
+        {
+          "title": "Nomadland",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "The Father",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Judas and the Black Messiah",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Mank",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Minari",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Sound of Metal",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "The Trial of the Chicago 7",
+          "award": "Nominada"
+        },
+        {
+          "title": "Promising Young Woman",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Ma Rainey's Black Bottom",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "One Night in Miami...",
+          "award": "Nominada"
+        },
+        {
+          "title": "Pieces of a Woman",
+          "award": "Nominada"
+        },
+        {
+          "title": "The United States vs. Billie Holiday",
+          "award": "Nominada"
+        },
+        {
+          "title": "Borat Subsequent Moviefilm",
+          "award": "Nominada"
+        },
+        {
+          "title": "Hillbilly Elegy",
+          "award": "Nominada"
+        },
+        {
+          "title": "Emma.",
+          "award": "Nominada"
+        },
+        {
+          "title": "Pinocchio",
+          "award": "Nominada"
+        },
+        {
+          "title": "Another Round",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Better Days",
+          "award": "Nominada"
+        },
+        {
+          "title": "Collective",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Man Who Sold His Skin",
+          "award": "Nominada"
+        },
+        {
+          "title": "Quo Vadis, Aida?",
+          "award": "Nominada"
+        },
+        {
+          "title": "Soul",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Onward",
+          "award": "Nominada"
+        },
+        {
+          "title": "Over the Moon",
+          "award": "Nominada"
+        },
+        {
+          "title": "A Shaun the Sheep Movie: Farmageddon",
+          "award": "Nominada"
+        },
+        {
+          "title": "Wolfwalkers",
+          "award": "Nominada"
+        },
+        {
+          "title": "News of the World",
+          "award": "Nominada"
+        },
+        {
+          "title": "Tenet",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Greyhound",
+          "award": "Nominada"
+        },
+        {
+          "title": "Love and Monsters",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Midnight Sky",
+          "award": "Nominada"
+        },
+        {
+          "title": "Mulan",
+          "award": "Nominada"
+        },
+        {
+          "title": "The White Tiger",
+          "award": "Nominada"
+        },
+        {
+          "title": "Da 5 Bloods",
+          "award": "Nominada"
+        },
+        {
+          "title": "Eurovision Song Contest: The Story of Fire Saga",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Life Ahead",
+          "award": "Nominada"
+        },
+        {
+          "title": "Crip Camp",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Mole Agent",
+          "award": "Nominada"
+        },
+        {
+          "title": "My Octopus Teacher",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Time",
+          "award": "Nominada"
+        },
+        {
+          "title": "Colette",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "A Concerto Is a Conversation",
+          "award": "Nominada"
+        },
+        {
+          "title": "Do Not Split",
+          "award": "Nominada"
+        },
+        {
+          "title": "Hunger Ward",
+          "award": "Nominada"
+        },
+        {
+          "title": "A Love Song for Latasha",
+          "award": "Nominada"
+        },
+        {
+          "title": "If Anything Happens I Love You",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Burrow",
+          "award": "Nominada"
+        },
+        {
+          "title": "Genius Loci",
+          "award": "Nominada"
+        },
+        {
+          "title": "Opera",
+          "award": "Nominada"
+        },
+        {
+          "title": "Yes-People",
+          "award": "Nominada"
+        },
+        {
+          "title": "Two Distant Strangers",
+          "award": "Ganadora · Oscar"
+        },
+        {
+          "title": "Feeling Through",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Letter Room",
+          "award": "Nominada"
+        },
+        {
+          "title": "The Present",
+          "award": "Nominada"
+        },
+        {
+          "title": "White Eye",
           "award": "Nominada"
         }
       ]
