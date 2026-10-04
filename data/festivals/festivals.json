@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "editions": [
     {
       "festival": "Cannes",
@@ -7233,6 +7233,210 @@
           "director": "Ebrahim Hatamikia",
           "aliases": [],
           "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 1999,
+      "section": "71.ª edición · películas de 1998",
+      "films": [
+        {
+          "title": "Shakespeare in Love",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Guion original"
+          ],
+          "wins": [
+            "Película",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Guion original"
+          ]
+        },
+        {
+          "title": "Elizabeth",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película",
+            "Actriz protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Life Is Beautiful",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Actor protagonista",
+            "Guion original"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ]
+        },
+        {
+          "title": "Saving Private Ryan",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Actor protagonista",
+            "Guion original"
+          ],
+          "wins": [
+            "Dirección"
+          ]
+        },
+        {
+          "title": "The Thin Red Line",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Truman Show",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Dirección",
+            "Actor de reparto",
+            "Guion original"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Gods and Monsters",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actor protagonista",
+            "Actriz de reparto",
+            "Guion adaptado"
+          ],
+          "wins": [
+            "Guion adaptado"
+          ]
+        },
+        {
+          "title": "Affliction",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actor protagonista",
+            "Actor de reparto"
+          ],
+          "wins": [
+            "Actor de reparto"
+          ]
+        },
+        {
+          "title": "American History X",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Central Station",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actriz protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "One True Thing",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actriz protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Hilary and Jackie",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actriz protagonista",
+            "Actriz de reparto"
+          ],
+          "wins": []
+        },
+        {
+          "title": "A Civil Action",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actor de reparto"
+          ],
+          "wins": []
+        },
+        {
+          "title": "A Simple Plan",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actor de reparto",
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Primary Colors",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actriz de reparto",
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Little Voice",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Actriz de reparto"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Out of Sight",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Bulworth",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Guion original"
+          ],
+          "wins": []
         }
       ]
     }
