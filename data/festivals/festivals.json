@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "editions": [
     {
       "festival": "Cannes",
@@ -591,7 +591,10 @@
             "Maquillaje y peluquería",
             "Diseño de producción"
           ],
-          "award": "4 Oscar · 11 nominaciónes"
+          "award": "4 Oscar · 11 nominaciónes",
+          "aliases": [
+            "POBRES CRIATURAS"
+          ]
         },
         {
           "title": "Killers of the Flower Moon",
@@ -608,7 +611,10 @@
             "Diseño de producción"
           ],
           "wins": [],
-          "award": "10 nominaciónes"
+          "award": "10 nominaciónes",
+          "aliases": [
+            "LOS ASESINOS DE LA LUNA"
+          ]
         },
         {
           "title": "Barbie",
@@ -667,7 +673,10 @@
           "wins": [
             "Guion original"
           ],
-          "award": "1 Oscar · 5 nominaciónes"
+          "award": "1 Oscar · 5 nominaciónes",
+          "aliases": [
+            "ANATOMÍA DE UNA CAÍDA"
+          ]
         },
         {
           "title": "The Holdovers",
@@ -681,7 +690,10 @@
           "wins": [
             "Actriz de reparto · Da'Vine Joy Randolph"
           ],
-          "award": "1 Oscar · 5 nominaciónes"
+          "award": "1 Oscar · 5 nominaciónes",
+          "aliases": [
+            "LOS QUE SE QUEDAN"
+          ]
         },
         {
           "title": "The Zone of Interest",
@@ -696,7 +708,10 @@
             "Película internacional",
             "Sonido"
           ],
-          "award": "2 Oscar · 5 nominaciónes"
+          "award": "2 Oscar · 5 nominaciónes",
+          "aliases": [
+            "LA ZONA DE INTERÉS"
+          ]
         },
         {
           "title": "Past Lives",
@@ -705,7 +720,10 @@
             "Guion original"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "VIDAS PASADAS"
+          ]
         },
         {
           "title": "Nyad",
@@ -732,7 +750,10 @@
           "wins": [
             "Película de animación"
           ],
-          "award": "1 Oscar · 1 nominación"
+          "award": "1 Oscar · 1 nominación",
+          "aliases": [
+            "EL CHICO Y LA GARZA"
+          ]
         },
         {
           "title": "Elemental",
@@ -764,7 +785,10 @@
             "Película de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "SPIDER-MAN: CRUZANDO EL MULTIVERSO"
+          ]
         },
         {
           "title": "El Conde",
@@ -792,7 +816,10 @@
           "wins": [
             "Documental"
           ],
-          "award": "1 Oscar · 1 nominación"
+          "award": "1 Oscar · 1 nominación",
+          "aliases": [
+            "20 DÍAS EN MARIÚPOL"
+          ]
         },
         {
           "title": "Bobi Wine: The People's President",
@@ -874,7 +901,10 @@
             "Película internacional"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "YO CAPITÁN"
+          ]
         },
         {
           "title": "Perfect Days",
@@ -891,7 +921,10 @@
             "Maquillaje y peluquería"
           ],
           "wins": [],
-          "award": "2 nominaciónes"
+          "award": "2 nominaciónes",
+          "aliases": [
+            "LA SOCIEDAD DE LA NIEVE"
+          ]
         },
         {
           "title": "The Teachers' Lounge",
@@ -915,7 +948,10 @@
             "Banda sonora"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "INDIANA JONES Y EL DIAL DEL DESTINO"
+          ]
         },
         {
           "title": "Flamin' Hot",
@@ -983,7 +1019,10 @@
           "wins": [
             "Cortometraje de ficción"
           ],
-          "award": "1 Oscar · 1 nominación"
+          "award": "1 Oscar · 1 nominación",
+          "aliases": [
+            "LA MARAVILLOSA HISTORIA DE HENRY SUGAR"
+          ]
         },
         {
           "title": "The After",
@@ -991,7 +1030,10 @@
             "Cortometraje de ficción"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "El después ©"
+          ]
         },
         {
           "title": "Invincible",
@@ -1059,7 +1101,10 @@
             "Guion original"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "SECRETOS DE UN ESCÁNDALO"
+          ]
         },
         {
           "title": "Rustin",
@@ -1084,7 +1129,10 @@
         {
           "title": "The Zone of Interest",
           "director": "Jonathan Glazer",
-          "award": "Gran Premio"
+          "award": "Gran Premio",
+          "aliases": [
+            "LA ZONA DE INTERÉS"
+          ]
         },
         {
           "title": "Kuolleet lehdet",
@@ -1098,7 +1146,8 @@
           "title": "Les filles d'Olfa",
           "director": "Kaouther Ben Hania",
           "aliases": [
-            "Four Daughters"
+            "Four Daughters",
+            "LAS CUATRO HIJAS"
           ],
           "award": "En competición"
         },
@@ -1120,7 +1169,8 @@
           "title": "Kaibutsu",
           "director": "Hirokazu Koreeda",
           "aliases": [
-            "Monster"
+            "Monster",
+            "MONSTRUO"
           ],
           "award": "Mejor guion"
         },
@@ -1128,7 +1178,8 @@
           "title": "Il sol dell'avvenire",
           "director": "Nanni Moretti",
           "aliases": [
-            "A Brighter Tomorrow"
+            "A Brighter Tomorrow",
+            "EL SOL DEL FUTURO"
           ],
           "award": "En competición"
         },
@@ -1136,7 +1187,8 @@
           "title": "L'été dernier",
           "director": "Catherine Breillat",
           "aliases": [
-            "Last Summer"
+            "Last Summer",
+            "EL ÚLTIMO VERANO"
           ],
           "award": "En competición"
         },
@@ -1144,7 +1196,8 @@
           "title": "Kuru Otlar Üstüne",
           "director": "Nuri Bilge Ceylan",
           "aliases": [
-            "About Dry Grasses"
+            "About Dry Grasses",
+            "SOBRE LA HIERBA SECA"
           ],
           "award": "Mejor actriz · Merve Dizdar"
         },
@@ -1166,14 +1219,18 @@
           "title": "Rapito",
           "director": "Marco Bellocchio",
           "aliases": [
-            "Kidnapped"
+            "Kidnapped",
+            "EL RAPTO"
           ],
           "award": "En competición"
         },
         {
           "title": "May December",
           "director": "Todd Haynes",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "SECRETOS DE UN ESCÁNDALO"
+          ]
         },
         {
           "title": "Qing Chun",
@@ -1186,7 +1243,10 @@
         {
           "title": "The Old Oak",
           "director": "Ken Loach",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "EL VIEJO ROBLE"
+          ]
         },
         {
           "title": "Banel e Adama",
@@ -1206,7 +1266,10 @@
         {
           "title": "Black Flies",
           "director": "Jean-Stéphane Sauvaire",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "ASPHALT CITY"
+          ]
         },
         {
           "title": "Le Retour",
@@ -1235,7 +1298,8 @@
           "title": "Aku wa sonzai shinai",
           "director": "Ryusuke Hamaguchi",
           "aliases": [
-            "Evil Does Not Exist"
+            "Evil Does Not Exist",
+            "EL MAL NO EXISTE (EVIL DOES NOT EXIST)"
           ],
           "award": "Gran Premio del Jurado"
         },
@@ -1274,7 +1338,8 @@
           "title": "Bastarden",
           "director": "Nikolaj Arcel",
           "aliases": [
-            "The Promised Land"
+            "The Promised Land",
+            "LA TIERRA PROMETIDA (THE BASTARD)"
           ],
           "award": "En competición"
         },
@@ -1287,7 +1352,8 @@
           "title": "La bête",
           "director": "Bertrand Bonello",
           "aliases": [
-            "The Beast"
+            "The Beast",
+            "The Beast (La bestia)"
           ],
           "award": "En competición"
         },
@@ -1314,7 +1380,10 @@
         {
           "title": "Comandante",
           "director": "Edoardo De Angelis",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "El buen italiano"
+          ]
         },
         {
           "title": "Lubo",
@@ -1329,13 +1398,17 @@
         {
           "title": "The Killer",
           "director": "David Fincher",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "EL ASESINO"
+          ]
         },
         {
           "title": "Die Theorie von allem",
           "director": "Timm Kröger",
           "aliases": [
-            "The Universal Theory"
+            "The Universal Theory",
+            "La teoría universal"
           ],
           "award": "En competición"
         },
@@ -1360,7 +1433,10 @@
         {
           "title": "Holly",
           "director": "Fien Troch",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "La chica que sanaba"
+          ]
         }
       ]
     },
@@ -1373,7 +1449,8 @@
           "title": "Sur l'Adamant",
           "director": "Nicolas Philibert",
           "aliases": [
-            "On the Adamant"
+            "On the Adamant",
+            "EN EL ADAMANT"
           ],
           "award": "Oso de Oro"
         },
@@ -1450,7 +1527,8 @@
           "title": "Ingeborg Bachmann – Reise in die Wüste",
           "director": "Margarethe von Trotta",
           "aliases": [
-            "Ingeborg Bachmann - Journey into the Desert"
+            "Ingeborg Bachmann - Journey into the Desert",
+            "VIAJE HACIA EL DESIERTO"
           ],
           "award": "En competición"
         },
@@ -1458,7 +1536,8 @@
           "title": "Irgendwann werden wir uns alles erzählen",
           "director": "Emily Atef",
           "aliases": [
-            "Someday We'll Tell Each Other Everything"
+            "Someday We'll Tell Each Other Everything",
+            "ALGÚN DÍA NOS LO CONTAREMOS TODO"
           ],
           "award": "En competición"
         },
@@ -1793,7 +1872,10 @@
             "Película de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "MARCEL, LA CONCHA CON ZAPATOS"
+          ]
         },
         {
           "title": "Puss in Boots: The Last Wish",
@@ -1812,7 +1894,10 @@
             "Película de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "EL MONSTRUO MARINO"
+          ]
         },
         {
           "title": "Turning Red",
@@ -1820,7 +1905,10 @@
             "Película de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "RED"
+          ]
         },
         {
           "title": "All Quiet on the Western Front",
@@ -1909,7 +1997,10 @@
             "Documental"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "TODO LO QUE RESPIRA"
+          ]
         },
         {
           "title": "All the Beauty and the Bloodshed",
@@ -1917,7 +2008,10 @@
             "Documental"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "LA BELLEZA Y EL DOLOR"
+          ]
         },
         {
           "title": "Fire of Love",
@@ -1933,7 +2027,10 @@
             "Documental"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "UNA CASA HECHA DE ASTILLAS"
+          ]
         },
         {
           "title": "The Elephant Whisperers",
@@ -2090,7 +2187,10 @@
           "wins": [
             "Cortometraje de animación"
           ],
-          "award": "1 Oscar · 1 nominación"
+          "award": "1 Oscar · 1 nominación",
+          "aliases": [
+            "EL NIÑO, EL TOPO, EL ZORRO Y EL CABALLO"
+          ]
         },
         {
           "title": "The Flying Sailor",
@@ -2187,39 +2287,51 @@
         {
           "title": "Holy Spider",
           "director": "Ali Abbasi",
-          "award": "Mejor actriz · Zar Amir Ebrahimi"
+          "award": "Mejor actriz · Zar Amir Ebrahimi",
+          "aliases": [
+            "HOLY SPIDER (ARAÑA SAGRADA)"
+          ]
         },
         {
           "title": "Les Amandiers",
           "director": "Valeria Bruni Tedeschi",
           "aliases": [
-            "Forever Young"
+            "Forever Young",
+            "LA GRAN JUVENTUD"
           ],
           "award": "En competición"
         },
         {
           "title": "Crimes of the Future",
           "director": "David Cronenberg",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "CRÍMENES DEL FUTURO"
+          ]
         },
         {
           "title": "Tori et Lokita",
           "director": "Jean-Pierre Dardenne, Luc Dardenne",
           "aliases": [
-            "Tori and Lokita"
+            "Tori and Lokita",
+            "TORI Y LOKITA"
           ],
           "award": "Premio 75º aniversario"
         },
         {
           "title": "Stars at Noon",
           "director": "Claire Denis",
-          "award": "Gran Premio · ex aequo"
+          "award": "Gran Premio · ex aequo",
+          "aliases": [
+            "LAS ESTRELLAS AL MEDIODÍA"
+          ]
         },
         {
           "title": "Frère et sœur",
           "director": "Arnaud Desplechin",
           "aliases": [
-            "Brother and Sister"
+            "Brother and Sister",
+            "ASUNTOS FAMILIARES"
           ],
           "award": "En competición"
         },
@@ -2272,14 +2384,18 @@
         {
           "title": "Leila's Brothers",
           "director": "Saeed Roustaee",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "LA FAMILIA DE LEILA"
+          ]
         },
         {
           "title": "Walad min al janna",
           "director": "Tarik Saleh",
           "aliases": [
             "Boy from Heaven",
-            "La conspiración del Cairo"
+            "La conspiración del Cairo",
+            "CONSPIRACIÓN EN EL CAIRO"
           ],
           "award": "Mejor guion"
         },
@@ -2301,7 +2417,8 @@
           "title": "Un petit frère",
           "director": "Léonor Serraille",
           "aliases": [
-            "Mother and Son"
+            "Mother and Son",
+            "MI HERMANO PEQUEÑO"
           ],
           "award": "En competición"
         },
@@ -2330,7 +2447,8 @@
           "title": "Il signore delle formiche",
           "director": "Gianni Amelio",
           "aliases": [
-            "Lord of the Ants"
+            "Lord of the Ants",
+            "EL CASO BRAIBANTI"
           ],
           "award": "En competición"
         },
@@ -2338,14 +2456,18 @@
           "title": "The Whale",
           "director": "Darren Aronofsky",
           "aliases": [
-            "La ballena"
+            "La ballena",
+            "LA BALLENA (THE WHALE)"
           ],
           "award": "En competición"
         },
         {
           "title": "White Noise",
           "director": "Noah Baumbach",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "RUIDO DE FONDO"
+          ]
         },
         {
           "title": "L'immensità",
@@ -2355,7 +2477,10 @@
         {
           "title": "Saint Omer",
           "director": "Alice Diop",
-          "award": "Gran Premio del Jurado"
+          "award": "Gran Premio del Jurado",
+          "aliases": [
+            "SAINT OMER, EL PUEBLO CONTRA LAURENCE COLY"
+          ]
         },
         {
           "title": "Blonde",
@@ -2375,17 +2500,26 @@
         {
           "title": "Athena",
           "director": "Romain Gavras",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "ATENEA"
+          ]
         },
         {
           "title": "Bones and All",
           "director": "Luca Guadagnino",
-          "award": "Mejor dirección · Marcello Mastroianni · Taylor Russell"
+          "award": "Mejor dirección · Marcello Mastroianni · Taylor Russell",
+          "aliases": [
+            "HASTA LOS HUESOS: BONES AND ALL"
+          ]
         },
         {
           "title": "The Eternal Daughter",
           "director": "Joanna Hogg",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "LA HIJA ETERNA"
+          ]
         },
         {
           "title": "Bardo, falsa crónica de unas cuantas verdades",
@@ -2438,7 +2572,10 @@
         {
           "title": "All the Beauty and the Bloodshed",
           "director": "Laura Poitras",
-          "award": "León de Oro"
+          "award": "León de Oro",
+          "aliases": [
+            "LA BELLEZA Y EL DOLOR"
+          ]
         },
         {
           "title": "Un couple",
@@ -2451,7 +2588,10 @@
         {
           "title": "The Son",
           "director": "Florian Zeller",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "EL HIJO"
+          ]
         },
         {
           "title": "Les miens",
@@ -2465,7 +2605,8 @@
           "title": "Les enfants des autres",
           "director": "Rebecca Zlotowski",
           "aliases": [
-            "Other People's Children"
+            "Other People's Children",
+            "LOS HIJOS DE OTROS"
           ],
           "award": "En competición"
         }
@@ -2493,14 +2634,18 @@
           "title": "Avec amour et acharnement",
           "director": "Claire Denis",
           "aliases": [
-            "Both Sides of the Blade"
+            "Both Sides of the Blade",
+            "FUEGO"
           ],
           "award": "Mejor dirección"
         },
         {
           "title": "Call Jane",
           "director": "Phyllis Nagy",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "TODAS SOMOS JANE"
+          ]
         },
         {
           "title": "Drii Winter",
@@ -2519,7 +2664,8 @@
           "title": "La ligne",
           "director": "Ursula Meier",
           "aliases": [
-            "The Line"
+            "The Line",
+            "La línea"
           ],
           "award": "En competición"
         },
@@ -2532,7 +2678,8 @@
           "title": "Les passagers de la nuit",
           "director": "Mikhaël Hers",
           "aliases": [
-            "The Passengers of the Night"
+            "The Passengers of the Night",
+            "LOS PASAJEROS DE LA NOCHE"
           ],
           "award": "En competición"
         },
@@ -2574,7 +2721,8 @@
           "title": "Soseolga-ui Yeonghwa",
           "director": "Hong Sang-soo",
           "aliases": [
-            "The Novelist's Film"
+            "The Novelist's Film",
+            "LA NOVELISTA Y SU PELÍCULA"
           ],
           "award": "Gran Premio del Jurado"
         },
@@ -2595,7 +2743,8 @@
           "title": "Yin ru chen yan",
           "director": "Li Ruijun",
           "aliases": [
-            "Return to Dust"
+            "Return to Dust",
+            "EL REGRESO DE LAS GOLONDRINAS"
           ],
           "award": "En competición"
         }
@@ -2735,7 +2884,10 @@
           "wins": [
             "Actor protagonista · Will Smith"
           ],
-          "award": "1 Oscar · 6 nominaciónes"
+          "award": "1 Oscar · 6 nominaciónes",
+          "aliases": [
+            "EL MÉTODO WILLIAMS"
+          ]
         },
         {
           "title": "Being the Ricardos",
@@ -2766,7 +2918,10 @@
           "wins": [
             "Dirección · Jane Campion"
           ],
-          "award": "1 Oscar · 12 nominaciónes"
+          "award": "1 Oscar · 12 nominaciónes",
+          "aliases": [
+            "EL PODER DEL PERRO"
+          ]
         },
         {
           "title": "tick, tick...BOOM!",
@@ -2799,7 +2954,10 @@
             "Película",
             "Guion adaptado · Siân Heder"
           ],
-          "award": "3 Oscar · 3 nominaciónes"
+          "award": "3 Oscar · 3 nominaciónes",
+          "aliases": [
+            "CODA: LOS SONIDOS DEL SILENCIO"
+          ]
         },
         {
           "title": "Belfast",
@@ -2837,7 +2995,10 @@
             "Guion adaptado · Maggie Gyllenhaal"
           ],
           "wins": [],
-          "award": "3 nominaciónes"
+          "award": "3 nominaciónes",
+          "aliases": [
+            "LA HIJA OSCURA"
+          ]
         },
         {
           "title": "Parallel Mothers",
@@ -2908,7 +3069,10 @@
             "Película de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "LOS MITCHELL CONTRA LAS MÁQUINAS"
+          ]
         },
         {
           "title": "Raya and the Last Dragon",
@@ -2916,7 +3080,10 @@
             "Película de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "RAYA Y EL ÚLTIMO DRAGÓN"
+          ]
         },
         {
           "title": "Dune",
@@ -2951,7 +3118,10 @@
             "Diseño de producción"
           ],
           "wins": [],
-          "award": "4 nominaciónes"
+          "award": "4 nominaciónes",
+          "aliases": [
+            "EL CALLEJÓN DE LAS ALMAS PERDIDAS"
+          ]
         },
         {
           "title": "Cruella",
@@ -3027,7 +3197,10 @@
             "Documental"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "ESCRIBIENDO CON FUEGO"
+          ]
         },
         {
           "title": "The Queen of Basketball",
@@ -3080,7 +3253,10 @@
             "Guion original · Adam McKay y David Sirota"
           ],
           "wins": [],
-          "award": "4 nominaciónes"
+          "award": "4 nominaciónes",
+          "aliases": [
+            "NO MIRES ARRIBA"
+          ]
         },
         {
           "title": "The Hand of God",
@@ -3096,7 +3272,10 @@
             "Película internacional · Bután"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "LUNANA, UN YAK EN LA ESCUELA"
+          ]
         },
         {
           "title": "The Worst Person in the World",
@@ -3151,7 +3330,10 @@
           "wins": [
             "Cortometraje de animación"
           ],
-          "award": "1 Oscar · 1 nominación"
+          "award": "1 Oscar · 1 nominación",
+          "aliases": [
+            "EL LIMPIAPARABRISAS"
+          ]
         },
         {
           "title": "Affairs of the Art",
@@ -3159,7 +3341,10 @@
             "Cortometraje de animación"
           ],
           "wins": [],
-          "award": "1 nominación"
+          "award": "1 nominación",
+          "aliases": [
+            "Asuntos del arte ©"
+          ]
         },
         {
           "title": "Bestia",
@@ -3279,7 +3464,10 @@
         {
           "title": "Bergman Island",
           "director": "Mia Hansen-Løve",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "LA ISLA DE BERGMAN"
+          ]
         },
         {
           "title": "Drive My Car",
@@ -3321,7 +3509,8 @@
           "title": "La fracture",
           "director": "Catherine Corsini",
           "aliases": [
-            "The Divide"
+            "The Divide",
+            "LA FRACTURA"
           ],
           "award": "En competición"
         },
@@ -3329,7 +3518,8 @@
           "title": "Les Intranquilles",
           "director": "Joachim Lafosse",
           "aliases": [
-            "The Restless"
+            "The Restless",
+            "UN AMOR INTRANQUILO"
           ],
           "award": "En competición"
         },
@@ -3337,7 +3527,8 @@
           "title": "Les Olympiades, Paris 13e",
           "director": "Jacques Audiard",
           "aliases": [
-            "Paris, 13th District"
+            "Paris, 13th District",
+            "PARÍS, DISTRITO 13"
           ],
           "award": "En competición"
         },
@@ -3345,7 +3536,8 @@
           "title": "Lingui",
           "director": "Mahamat-Saleh Haroun",
           "aliases": [
-            "Lingui, The Sacred Bonds"
+            "Lingui, The Sacred Bonds",
+            "LINGUI: LAZOS SAGRADOS"
           ],
           "award": "En competición"
         },
@@ -3377,7 +3569,10 @@
         {
           "title": "Flag Day",
           "director": "Sean Penn",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "EL DÍA DE LA BANDERA"
+          ]
         },
         {
           "title": "The French Dispatch",
@@ -3393,7 +3588,8 @@
           "title": "Tre piani",
           "director": "Nanni Moretti",
           "aliases": [
-            "Three Floors"
+            "Three Floors",
+            "TRES PISOS"
           ],
           "award": "En competición"
         },
@@ -3401,7 +3597,8 @@
           "title": "Tout s'est bien passé",
           "director": "François Ozon",
           "aliases": [
-            "Everything Went Fine"
+            "Everything Went Fine",
+            "TODO HA IDO BIEN"
           ],
           "award": "En competición"
         },
@@ -3447,7 +3644,10 @@
         {
           "title": "The Power of the Dog",
           "director": "Jane Campion",
-          "award": "Mejor dirección"
+          "award": "Mejor dirección",
+          "aliases": [
+            "EL PODER DEL PERRO"
+          ]
         },
         {
           "title": "Spencer",
@@ -3480,7 +3680,10 @@
         {
           "title": "Mona Lisa and the Blood Moon",
           "director": "Ana Lily Amirpour",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "MONA LISA Y LA LUNA DE SANGRE"
+          ]
         },
         {
           "title": "Sundown",
@@ -3490,7 +3693,10 @@
         {
           "title": "The Card Counter",
           "director": "Paul Schrader",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "EL CONTADOR DE CARTAS"
+          ]
         },
         {
           "title": "Competencia oficial",
@@ -3503,7 +3709,10 @@
         {
           "title": "The Lost Daughter",
           "director": "Maggie Gyllenhaal",
-          "award": "Mejor guion"
+          "award": "Mejor guion",
+          "aliases": [
+            "LA HIJA OSCURA"
+          ]
         },
         {
           "title": "America Latina",
@@ -3514,7 +3723,8 @@
           "title": "Qui rido io",
           "director": "Mario Martone",
           "aliases": [
-            "The King of Laughter"
+            "The King of Laughter",
+            "AQUÍ ME RÍO YO"
           ],
           "award": "En competición"
         },
@@ -3522,7 +3732,8 @@
           "title": "Illusions perdues",
           "director": "Xavier Giannoli",
           "aliases": [
-            "Lost Illusions"
+            "Lost Illusions",
+            "LAS ILUSIONES PERDIDAS"
           ],
           "award": "En competición"
         },
@@ -3557,7 +3768,8 @@
           "title": "Babardeala cu bucluc sau porno balamuc",
           "director": "Radu Jude",
           "aliases": [
-            "Bad Luck Banging or Loony Porn"
+            "Bad Luck Banging or Loony Porn",
+            "UN POLVO DESAFORTUNADO O PORNO LOCO"
           ],
           "award": "Oso de Oro"
         },
@@ -3565,7 +3777,8 @@
           "title": "Guzen to sozo",
           "director": "Ryusuke Hamaguchi",
           "aliases": [
-            "Wheel of Fortune and Fantasy"
+            "Wheel of Fortune and Fantasy",
+            "LA RULETA DE LA FORTUNA Y LA FANTASÍA"
           ],
           "award": "Gran Premio del Jurado"
         },
@@ -3573,7 +3786,8 @@
           "title": "Herr Bachmann und seine Klasse",
           "director": "Maria Speth",
           "aliases": [
-            "Mr Bachmann and His Class"
+            "Mr Bachmann and His Class",
+            "EL PROFESOR BACHMANN Y SU CLASE"
           ],
           "award": "Premio del Jurado"
         },
@@ -3581,7 +3795,8 @@
           "title": "Természetes fény",
           "director": "Dénes Nagy",
           "aliases": [
-            "Natural Light"
+            "Natural Light",
+            "LUZ NATURAL"
           ],
           "award": "Mejor dirección"
         },
@@ -3623,7 +3838,8 @@
           "title": "Fabian oder Der Gang vor die Hunde",
           "director": "Dominik Graf",
           "aliases": [
-            "Fabian: Going to the Dogs"
+            "Fabian: Going to the Dogs",
+            "FABIAN"
           ],
           "award": "En competición"
         },
@@ -3636,7 +3852,8 @@
           "title": "Nebenan",
           "director": "Daniel Brühl",
           "aliases": [
-            "Next Door"
+            "Next Door",
+            "LA PUERTA DE AL LADO"
           ],
           "award": "En competición"
         },
@@ -3648,7 +3865,10 @@
         {
           "title": "Memory Box",
           "director": "Joana Hadjithomas, Khalil Joreige",
-          "award": "En competición"
+          "award": "En competición",
+          "aliases": [
+            "CAJA DE MEMORIAS"
+          ]
         },
         {
           "title": "What Do We See When We Look at the Sky?",
