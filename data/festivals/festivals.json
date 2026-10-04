@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "editions": [
     {
       "festival": "Cannes",
@@ -7839,796 +7839,6 @@
       ]
     },
     {
-      "festival": "Cannes",
-      "year": 1998,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Aprile",
-          "director": "Nanni Moretti",
-          "aliases": [
-            "Abril"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Ceux qui m'aiment prendront le train",
-          "director": "Patrice Chéreau",
-          "aliases": [
-            "Los que me quieren cogerán el tren"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Claire Dolan",
-          "director": "Lodge Kerrigan",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Corazón iluminado",
-          "director": "Hector Babenco",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Dance Me to My Song",
-          "director": "Rolf de Heer",
-          "aliases": [
-            "Hazme bailar mi canción"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Fear and Loathing in Las Vegas",
-          "director": "Terry Gilliam",
-          "aliases": [
-            "Miedo y asco en Las Vegas"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Festen",
-          "director": "Thomas Vinterberg",
-          "aliases": [
-            "Celebración"
-          ],
-          "award": "Premio del Jurado"
-        },
-        {
-          "title": "Flowers of Shanghai",
-          "director": "Hou Hsiao-Hsien",
-          "aliases": [
-            "Flores de Shanghai"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Henry Fool",
-          "director": "Hal Hartley",
-          "aliases": [],
-          "award": "Mejor guion"
-        },
-        {
-          "title": "Idioterne",
-          "director": "Lars von Trier",
-          "aliases": [
-            "Los idiotas"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Illuminata",
-          "director": "John Turturro",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Khrustalyov, My Car!",
-          "director": "Aleksei German",
-          "aliases": [
-            "¡Khrustalyov, mi coche!"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "L'école de la chair",
-          "director": "Benoît Jacquot",
-          "aliases": [
-            "La escuela de la carne"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "La classe de neige",
-          "director": "Claude Miller",
-          "aliases": [],
-          "award": "Premio del Jurado"
-        },
-        {
-          "title": "La vendedora de rosas",
-          "director": "Víctor Gaviria",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "La vie rêvée des anges",
-          "director": "Erick Zonca",
-          "aliases": [
-            "La vida soñada de los ángeles"
-          ],
-          "award": "Mejor actriz"
-        },
-        {
-          "title": "La vita è bella",
-          "director": "Roberto Benigni",
-          "aliases": [
-            "La vida es bella"
-          ],
-          "award": "Gran Premio"
-        },
-        {
-          "title": "Mia aioniotita kai mia mera",
-          "director": "Theo Angelopoulos",
-          "aliases": [
-            "La eternidad y un día"
-          ],
-          "award": "Palma de Oro"
-        },
-        {
-          "title": "My Name Is Joe",
-          "director": "Ken Loach",
-          "aliases": [
-            "Mi nombre es Joe"
-          ],
-          "award": "Mejor actor"
-        },
-        {
-          "title": "The General",
-          "director": "John Boorman",
-          "aliases": [
-            "El general"
-          ],
-          "award": "Mejor dirección"
-        },
-        {
-          "title": "The Hole",
-          "director": "Tsai Ming-liang",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Velvet Goldmine",
-          "director": "Todd Haynes",
-          "aliases": [],
-          "award": "Mejor contribución artística"
-        }
-      ]
-    },
-    {
-      "festival": "Cannes",
-      "year": 1998,
-      "section": "Un Certain Regard",
-      "films": [
-        {
-          "title": "À vendre",
-          "director": "Laetitia Masson",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "All the Little Animals",
-          "director": "Jeremy Thomas",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Daun di atas bantal",
-          "director": "Garin Nugroho",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Dis-moi que je rêve",
-          "director": "Claude Mourieras",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "El evangelio de las maravillas",
-          "director": "Arturo Ripstein",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Island, Alicia",
-          "director": "Ken Yunome",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Kleine Teun",
-          "director": "Alex van Warmerdam",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "La pomme",
-          "director": "Samira Makhmalbaf",
-          "aliases": [
-            "La Manzana"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Larmar och gör sig till",
-          "director": "Ingmar Bergman",
-          "aliases": [
-            "En presencia de un payaso"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Louise (Take 2)",
-          "director": "Siegfried",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Love Is the Devil",
-          "director": "John Maybury",
-          "aliases": [
-            "El amor es el demonio. Estudio para un retrato de Francis Bacon"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Lulu on the Bridge",
-          "director": "Paul Auster",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "O Rio do Ouro",
-          "director": "Paulo Rocha",
-          "aliases": [
-            "O Rio de Ouro"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Os Mutantes",
-          "director": "Teresa Villaverde",
-          "aliases": [
-            "Los mutantes"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Plätze in Städten",
-          "director": "Angela Schanelec",
-          "aliases": [
-            "Places in Cities"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Szenvedély",
-          "director": "György Fehér",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Teatro di guerra",
-          "director": "Mario Martone",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "The Apostle",
-          "director": "Robert Duvall",
-          "aliases": [
-            "Camino al cielo"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "The Impostors",
-          "director": "Stanley Tucci",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "The Man Who Couldn't Open Doors",
-          "director": "Paul Arden",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "The Power of Kangwon Province",
-          "director": "Hong Sang-soo",
-          "aliases": [
-            "Gangwon-do-ui him"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "The Shoe",
-          "director": "Laila Pakalnina",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Tokyo Eyes",
-          "director": "Jean-Pierre Limosin",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Tueur à gages",
-          "director": "Darezhan Omirbayev",
-          "aliases": [
-            "Killer"
-          ],
-          "award": "Premio Un Certain Regard"
-        },
-        {
-          "title": "Un 32 août sur terre",
-          "director": "Denis Villeneuve",
-          "aliases": [
-            "Un 32 de agosto en la Tierra"
-          ],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Un soir après la guerre",
-          "director": "Rithy Panh",
-          "aliases": [],
-          "award": "En Un Certain Regard"
-        },
-        {
-          "title": "Zero Effect",
-          "director": "Jake Kasdan",
-          "aliases": [
-            "El efecto Zero"
-          ],
-          "award": "En Un Certain Regard"
-        }
-      ]
-    },
-    {
-      "festival": "Venecia",
-      "year": 1998,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Autumn Tale",
-          "director": "Éric Rohmer",
-          "aliases": [
-            "Cuento de otoño"
-          ],
-          "award": "Mejor guion"
-        },
-        {
-          "title": "Black Cat, White Cat",
-          "director": "Emir Kusturica",
-          "aliases": [
-            "Gato negro, gato blanco"
-          ],
-          "award": "León de Plata a la mejor dirección"
-        },
-        {
-          "title": "Bulworth",
-          "director": "Warren Beatty",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Cloud",
-          "director": "Fernando Solanas",
-          "aliases": [
-            "La nube"
-          ],
-          "award": "Mejor música"
-        },
-        {
-          "title": "Dancing at Lughnasa",
-          "director": "Pat O'Connor",
-          "aliases": [
-            "El baile de agosto"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "The Garden of Eden",
-          "director": "Alessandro D'Alatri",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Hilary and Jackie",
-          "director": "Anand Tucker",
-          "aliases": [
-            "Hilary y Jackie"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Hurlyburly",
-          "director": "Anthony Drazan",
-          "aliases": [
-            "Hurlyburly (Descontrol)"
-          ],
-          "award": "Copa Volpi al mejor actor"
-        },
-        {
-          "title": "Little Teachers",
-          "director": "Daniele Luchetti",
-          "aliases": [
-            "I piccoli maestri"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Lovers of the Arctic Circle",
-          "director": "Julio Medem",
-          "aliases": [
-            "Los amantes del Círculo Polar"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "New Rose Hotel",
-          "director": "Abel Ferrara",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Next Stop Paradise",
-          "director": "Lucian Pintilie",
-          "aliases": [
-            "Última parada, el paradiso"
-          ],
-          "award": "Gran Premio Especial del Jurado"
-        },
-        {
-          "title": "Place Vendôme",
-          "director": "Nicole Garcia",
-          "aliases": [],
-          "award": "Copa Volpi a la mejor actriz"
-        },
-        {
-          "title": "Rounders",
-          "director": "John Dahl",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Run Lola Run",
-          "director": "Tom Tykwer",
-          "aliases": [
-            "Corre Lola, corre"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Shooting the Moon",
-          "director": "Francesca Archibugi",
-          "aliases": [],
-          "award": "Premio Marcello Mastroianni"
-        },
-        {
-          "title": "The Silence",
-          "director": "Mohsen Makhmalbaf",
-          "aliases": [
-            "El silencio"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Stolen Life",
-          "director": "Yves Angelo",
-          "aliases": [
-            "Vidas robadas"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Traffic",
-          "director": "João Botelho",
-          "aliases": [
-            "Tráfico"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "The Way We Laughed",
-          "director": "Gianni Amelio",
-          "aliases": [
-            "Así reían"
-          ],
-          "award": "León de Oro"
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 1998,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Barbara",
-          "director": "Nils Malmros",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Big Lebowski",
-          "director": "Joel Coen",
-          "aliases": [
-            "El gran Lebowski"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "The Big Mambo",
-          "director": "Michael Gwisdek",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Boxer",
-          "director": "Jim Sheridan",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Boys",
-          "director": "Rowan Woods",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Butcher Boy",
-          "director": "Neil Jordan",
-          "aliases": [
-            "Contracorriente (The Butcher Boy)"
-          ],
-          "award": "Oso de Plata a la mejor dirección"
-        },
-        {
-          "title": "Central Station",
-          "director": "Walter Salles",
-          "aliases": [
-            "Estación central de Brasil",
-            "Central do Brasil"
-          ],
-          "award": "Oso de Oro · Mejor actriz"
-        },
-        {
-          "title": "The Commissioner",
-          "director": "George Sluizer",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Country of the Deaf",
-          "director": "Valery Todorovsky",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Girls' Night",
-          "director": "Nick Hurran",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Good Will Hunting",
-          "director": "Gus Van Sant",
-          "aliases": [
-            "El indomable Will Hunting"
-          ],
-          "award": "Oso de Plata por logro individual"
-        },
-        {
-          "title": "Hold You Tight",
-          "director": "Stanley Kwan",
-          "aliases": [],
-          "award": "Premio Alfred Bauer"
-        },
-        {
-          "title": "I Want You",
-          "director": "Michael Winterbottom",
-          "aliases": [],
-          "award": "Mención especial"
-        },
-        {
-          "title": "Jackie Brown",
-          "director": "Quentin Tarantino",
-          "aliases": [],
-          "award": "Oso de Plata al mejor actor"
-        },
-        {
-          "title": "Left Luggage",
-          "director": "Jeroen Krabbé",
-          "aliases": [
-            "Corazones enfrentados"
-          ],
-          "award": "Mención especial"
-        },
-        {
-          "title": "The Naked Eye",
-          "director": "Vicente Aranda",
-          "aliases": [
-            "La mirada del otro"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "The Perfect Guy",
-          "director": "Olivier Ducastel, Jacques Martineau",
-          "aliases": [
-            "Jeanne y el chico formidable"
-          ],
-          "award": "En competición"
-        },
-        {
-          "title": "Sada",
-          "director": "Nobuhiko Obayashi",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Same Old Song",
-          "director": "Alain Resnais",
-          "aliases": [
-            "On connaît la chanson"
-          ],
-          "award": "Oso de Plata por contribución artística"
-        },
-        {
-          "title": "The Sound of One Hand Clapping",
-          "director": "Richard Flanagan",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Sweet Degeneration",
-          "director": "Lin Cheng-sheng",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "The Best Man",
-          "director": "Pupi Avati",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Too Much (Little) Love",
-          "director": "Jacques Doillon",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Wag the Dog",
-          "director": "Barry Levinson",
-          "aliases": [
-            "La cortina de humo"
-          ],
-          "award": "Gran Premio del Jurado · Oso de Plata"
-        },
-        {
-          "title": "Xiu Xiu: The Sent Down Girl",
-          "director": "Joan Chen",
-          "aliases": [
-            "Xiu Xiu"
-          ],
-          "award": "En competición"
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1998,
-      "section": "Sección Oficial · a concurso",
-      "films": [
-        {
-          "title": "A Kind of Hush",
-          "director": "Brian Stirner",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "À la place du coeur",
-          "director": "Robert Guédiguian",
-          "aliases": [
-            "De todo corazón"
-          ],
-          "award": "Premio Especial del Jurado"
-        },
-        {
-          "title": "After Life",
-          "director": "Hirokazu Kore-eda",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Barrio",
-          "director": "Fernando León de Aranoa",
-          "aliases": [],
-          "award": "Concha de Plata a la mejor dirección"
-        },
-        {
-          "title": "Don",
-          "director": "Abolfazl Jalili",
-          "aliases": [],
-          "award": "Premio del Jurado"
-        },
-        {
-          "title": "El viento se llevó lo que",
-          "director": "Alejandro Agresti",
-          "aliases": [],
-          "award": "Concha de Oro"
-        },
-        {
-          "title": "Fin août, début septembre",
-          "director": "Olivier Assayas",
-          "aliases": [
-            "Finales de Agosto, Principios de Septiembre"
-          ],
-          "award": "Concha de Plata a la mejor actriz"
-        },
-        {
-          "title": "Frontera Sur",
-          "director": "Gerardo Herrero",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Gods and Monsters",
-          "director": "Bill Condon",
-          "aliases": [
-            "Dioses y monstruos"
-          ],
-          "award": "Premio Especial del Jurado · Mejor actor"
-        },
-        {
-          "title": "No se lo digas a nadie",
-          "director": "Francisco J. Lombardi",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Sweety Barrett",
-          "director": "Stephen Bradley",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Un embrujo",
-          "director": "Carlos Carrera",
-          "aliases": [],
-          "award": "Mejor fotografía"
-        },
-        {
-          "title": "Very Bad Things",
-          "director": "Peter Berg",
-          "aliases": [],
-          "award": "En competición"
-        },
-        {
-          "title": "Your Friends & Neighbors",
-          "director": "Neil LaBute",
-          "aliases": [
-            "Amigos y vecinos"
-          ],
-          "award": "En competición"
-        }
-      ]
-    },
-    {
       "festival": "Oscar",
       "year": 1998,
       "section": "70.ª edición · películas de 1997",
@@ -9350,6 +8560,829 @@
             "Guion original"
           ],
           "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 1998,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Aprile",
+          "director": "Nanni Moretti",
+          "aliases": [
+            "Abril"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Ceux qui m'aiment prendront le train",
+          "director": "Patrice Chéreau",
+          "aliases": [
+            "Los que me quieren cogerán el tren"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Claire Dolan",
+          "director": "Lodge Kerrigan",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Corazón iluminado",
+          "director": "Hector Babenco",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Dance Me to My Song",
+          "director": "Rolf de Heer",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Fear and Loathing in Las Vegas",
+          "director": "Terry Gilliam",
+          "aliases": [
+            "Miedo y asco en Las Vegas"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Festen",
+          "director": "Thomas Vinterberg",
+          "aliases": [
+            "Celebración"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "Flowers of Shanghai",
+          "director": "Hou Hsiao-hsien",
+          "aliases": [
+            "Flores de Shanghai",
+            "海上花"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Henry Fool",
+          "director": "Hal Hartley",
+          "aliases": [],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Idioterne",
+          "director": "Lars von Trier",
+          "aliases": [
+            "Los idiotas"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Illuminata",
+          "director": "John Turturro",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Khrustalyov, My Car!",
+          "director": "Aleksey German",
+          "aliases": [
+            "Khrustalyov, mi coche!",
+            "Хрусталёв, машину!",
+            "¡Khrustalyov, mi coche!",
+            "Khrustalyov, mashinu!"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "L'École de la chair",
+          "director": "Benoît Jacquot",
+          "aliases": [
+            "La escuela de la carne"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "La classe de neige",
+          "director": "Claude Miller",
+          "aliases": [
+            "La clase de nieve"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "La vendedora de rosas",
+          "director": "Víctor Gaviria",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "La vie rêvée des anges",
+          "director": "Erick Zonca",
+          "aliases": [
+            "La vida soñada de los ángeles"
+          ],
+          "award": "Mejor actriz"
+        },
+        {
+          "title": "La vita è bella",
+          "director": "Roberto Benigni",
+          "aliases": [
+            "La vida es bella"
+          ],
+          "award": "Gran Premio"
+        },
+        {
+          "title": "Mia aioniotita kai mia mera",
+          "director": "Theo Angelopoulos",
+          "aliases": [
+            "La eternidad y un día",
+            "Μια αιωνιότητα και μια μέρα",
+            "Eternity and a Day"
+          ],
+          "award": "Palma de Oro"
+        },
+        {
+          "title": "My Name Is Joe",
+          "director": "Ken Loach",
+          "aliases": [
+            "Mi nombre es Joe"
+          ],
+          "award": "Mejor actor"
+        },
+        {
+          "title": "The General",
+          "director": "John Boorman",
+          "aliases": [
+            "El general"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "The Hole",
+          "director": "Tsai Ming-liang",
+          "aliases": [
+            "洞"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Velvet Goldmine",
+          "director": "Todd Haynes",
+          "aliases": [],
+          "award": "Mejor contribución artística"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 1998,
+      "section": "Un Certain Regard",
+      "films": [
+        {
+          "title": "A vendre",
+          "director": "Laetitia Masson",
+          "aliases": [
+            "Mujer en venta",
+            "À vendre"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "All the Little Animals",
+          "director": "Jeremy Thomas",
+          "aliases": [
+            "Todos los animales pequeños"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Daun di atas bantal",
+          "director": "Garin Nugroho",
+          "aliases": [
+            "Leaf on a Pillow"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Dis-moi que je rêve",
+          "director": "Claude Mouriéras",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "El evangelio de las maravillas",
+          "director": "Arturo Ripstein",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Island, Alicia",
+          "director": "Ken Yunome",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Kleine Teun",
+          "director": "Alex van Warmerdam",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "La pomme",
+          "director": "Samira Makhmalbaf",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Larmar och gör sig till",
+          "director": "Ingmar Bergman",
+          "aliases": [
+            "En presencia de un payaso"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Louise (Take 2)",
+          "director": "Siegfried",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Love Is the Devil",
+          "director": "John Maybury",
+          "aliases": [
+            "El amor es el demonio. Estudio para un retrato de Francis Bacon",
+            "Love Is the Devil: Study for a Portrait of Francis Bacon",
+            "El amor es el demonio"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Lulu on the Bridge",
+          "director": "Paul Auster",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "O Rio do Ouro",
+          "director": "Paulo Rocha",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Os Mutantes",
+          "director": "Teresa Villaverde",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Plätze in Städten",
+          "director": "Angela Schanelec",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Szenvedély",
+          "director": "György Fehér",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Teatro di guerra",
+          "director": "Mario Martone",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "The Apostle",
+          "director": "Robert Duvall",
+          "aliases": [
+            "Camino al cielo"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "The Impostors",
+          "director": "Stanley Tucci",
+          "aliases": [
+            "Los impostores"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "The Man Who Couldn't Open Doors",
+          "director": "Paul Arden",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "The Power of Kangwon Province",
+          "director": "Hong Sang-soo",
+          "aliases": [
+            "Kangwon-do ui him"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "The Shoe",
+          "director": "Laila Pakalnina",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Tokyo Eyes",
+          "director": "Jean-Pierre Limosin",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Tueur à gages",
+          "director": "Darezhan Omirbayev",
+          "aliases": [
+            "Killer"
+          ],
+          "award": "Premio Un Certain Regard"
+        },
+        {
+          "title": "Un 32 août sur terre",
+          "director": "Denis Villeneuve",
+          "aliases": [
+            "Un 32 de agosto en la Tierra"
+          ],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Un soir après la guerre",
+          "director": "Rithy Panh",
+          "aliases": [],
+          "award": "En Un Certain Regard"
+        },
+        {
+          "title": "Zero Effect",
+          "director": "Jake Kasdan",
+          "aliases": [
+            "El efecto Zero"
+          ],
+          "award": "En Un Certain Regard"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1998,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Autumn Tale",
+          "director": "Éric Rohmer",
+          "aliases": [
+            "Cuento de otoño",
+            "Conte d'automne"
+          ],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Black Cat, White Cat",
+          "director": "Emir Kusturica",
+          "aliases": [
+            "Gato negro, gato blanco",
+            "Crna mačka, beli mačor"
+          ],
+          "award": "León de Plata"
+        },
+        {
+          "title": "Bulworth",
+          "director": "Warren Beatty",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Cloud",
+          "director": "Fernando Solanas",
+          "aliases": [
+            "La nube"
+          ],
+          "award": "Mejor música"
+        },
+        {
+          "title": "Dancing at Lughnasa",
+          "director": "Pat O'Connor",
+          "aliases": [
+            "El baile de agosto"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Garden of Eden",
+          "director": "Alessandro D'Alatri",
+          "aliases": [
+            "El jardín del Edén",
+            "I giardini dell'Eden"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Hilary and Jackie",
+          "director": "Anand Tucker",
+          "aliases": [
+            "Hilary y Jackie"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Hurlyburly",
+          "director": "Anthony Drazan",
+          "aliases": [
+            "Hurlyburly (Descontrol)"
+          ],
+          "award": "Copa Volpi al mejor actor"
+        },
+        {
+          "title": "Little Teachers",
+          "director": "Daniele Luchetti",
+          "aliases": [
+            "I piccoli maestri"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Los amantes del Círculo Polar",
+          "director": "Julio Medem",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "New Rose Hotel",
+          "director": "Abel Ferrara",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Next Stop Paradise",
+          "director": "Lucian Pintilie",
+          "aliases": [
+            "Terminus paradis",
+            "Terminus Paradis"
+          ],
+          "award": "Gran Premio Especial del Jurado"
+        },
+        {
+          "title": "Place Vendôme",
+          "director": "Nicole Garcia",
+          "aliases": [],
+          "award": "Copa Volpi a la mejor actriz"
+        },
+        {
+          "title": "Rounders",
+          "director": "John Dahl",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Lola rennt",
+          "director": "Tom Tykwer",
+          "aliases": [
+            "Corre Lola, corre"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Shooting the Moon",
+          "director": "Francesca Archibugi",
+          "aliases": [
+            "L'Albero delle pere"
+          ],
+          "award": "Premio Marcello Mastroianni"
+        },
+        {
+          "title": "The Silence",
+          "director": "Mohsen Makhmalbaf",
+          "aliases": [
+            "El silencio",
+            "سکوت",
+            "Sokout"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Stolen Life",
+          "director": "Yves Angelo",
+          "aliases": [
+            "Vidas robadas",
+            "Voleur de vie"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Tráfico",
+          "director": "João Botelho",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Così ridevano",
+          "director": "Gianni Amelio",
+          "aliases": [
+            "Así reían"
+          ],
+          "award": "León de Oro · Mejor fotografía"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1998,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Barbara",
+          "director": "Nils Malmros",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Big Lebowski",
+          "director": "Joel Coen",
+          "aliases": [
+            "El gran Lebowski"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Big Mambo",
+          "director": "Michael Gwisdek",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Boxer",
+          "director": "Jim Sheridan",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Boys",
+          "director": "Rowan Woods",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "The Butcher Boy",
+          "director": "Neil Jordan",
+          "aliases": [
+            "The Butcher Boy (Contracorriente)",
+            "Contracorriente (The Butcher Boy)"
+          ],
+          "award": "Mejor dirección · Mención de honor"
+        },
+        {
+          "title": "Central Station",
+          "director": "Walter Salles",
+          "aliases": [
+            "Estación central de Brasil",
+            "Central do Brasil"
+          ],
+          "award": "Oso de Oro · Mejor actriz"
+        },
+        {
+          "title": "The Commissioner",
+          "director": "George Sluizer",
+          "aliases": [
+            "El comisario europeo"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Country of the Deaf",
+          "director": "Valery Todorovsky",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Girls' Night",
+          "director": "Nick Hurran",
+          "aliases": [
+            "La noche de las chicas"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Good Will Hunting",
+          "director": "Gus Van Sant",
+          "aliases": [
+            "El indomable Will Hunting"
+          ],
+          "award": "Logro individual sobresaliente"
+        },
+        {
+          "title": "Hold You Tight",
+          "director": "Stanley Kwan",
+          "aliases": [],
+          "award": "Premio Alfred Bauer"
+        },
+        {
+          "title": "I Want You",
+          "director": "Michael Winterbottom",
+          "aliases": [],
+          "award": "Mención de honor"
+        },
+        {
+          "title": "Jackie Brown",
+          "director": "Quentin Tarantino",
+          "aliases": [],
+          "award": "Mejor actor"
+        },
+        {
+          "title": "Left Luggage",
+          "director": "Jeroen Krabbé",
+          "aliases": [
+            "Corazones enfrentados"
+          ],
+          "award": "Mención de honor"
+        },
+        {
+          "title": "La mirada del otro",
+          "director": "Vicente Aranda",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Jeanne et le garçon formidable",
+          "director": "Olivier Ducastel, Jacques Martineau",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Sada",
+          "director": "Nobuhiko Obayashi",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Same Old Song",
+          "director": "Alain Resnais",
+          "aliases": [
+            "On connaît la chanson"
+          ],
+          "award": "Contribución artística sobresaliente"
+        },
+        {
+          "title": "The Sound of One Hand Clapping",
+          "director": "Richard Flanagan",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Sweet Degeneration",
+          "director": "Lin Cheng-sheng",
+          "aliases": [
+            "Fang lang (Sweet degeneration)"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "The Best Man",
+          "director": "Pupi Avati",
+          "aliases": [
+            "El mejor amigo del novio",
+            "El testigo del esposo",
+            "Il testimone dello sposo"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Too Much (Little) Love",
+          "director": "Jacques Doillon",
+          "aliases": [
+            "Demasiado (poco) amor",
+            "Trop (peu) d'amour"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Wag the Dog",
+          "director": "Barry Levinson",
+          "aliases": [
+            "La cortina de humo"
+          ],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Xiu Xiu: The Sent Down Girl",
+          "director": "Joan Chen",
+          "aliases": [
+            "Xiu Xiu",
+            "Xiu Xiu: The Sent-Down Girl"
+          ],
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1998,
+      "section": "Sección Oficial · a concurso",
+      "films": [
+        {
+          "title": "A Kind of Hush",
+          "director": "Brian Stirner",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "À la place du coeur",
+          "director": "Robert Guédiguian",
+          "aliases": [
+            "Where the Heart Is"
+          ],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "After Life",
+          "director": "Hirokazu Kore-eda",
+          "aliases": [
+            "ワンダフルライフ"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Barrio",
+          "director": "Fernando León de Aranoa",
+          "aliases": [],
+          "award": "Concha de Plata a la mejor dirección"
+        },
+        {
+          "title": "Don",
+          "director": "Abolfazl Jalili",
+          "aliases": [],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "El viento se llevó lo que",
+          "director": "Alejandro Agresti",
+          "aliases": [],
+          "award": "Concha de Oro"
+        },
+        {
+          "title": "Fin août, début septembre",
+          "director": "Olivier Assayas",
+          "aliases": [
+            "Finales de Agosto, Principios de Septiembre"
+          ],
+          "award": "Concha de Plata a la mejor actriz"
+        },
+        {
+          "title": "Frontera sur",
+          "director": "Gerardo Herrero",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Gods and Monsters",
+          "director": "Bill Condon",
+          "aliases": [
+            "Dioses y monstruos"
+          ],
+          "award": "Premio Especial del Jurado · Concha de Plata al mejor actor"
+        },
+        {
+          "title": "No se lo digas a nadie",
+          "director": "Francisco J. Lombardi",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Sweety Barrett",
+          "director": "Stephen Bradley",
+          "aliases": [
+            "The Tale of Sweety Barrett"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Un embrujo",
+          "director": "Carlos Carrera",
+          "aliases": [],
+          "award": "Mejor fotografía"
+        },
+        {
+          "title": "Very Bad Things",
+          "director": "Peter Berg",
+          "aliases": [],
+          "award": "En competición"
+        },
+        {
+          "title": "Your Friends & Neighbors",
+          "director": "Neil LaBute",
+          "aliases": [
+            "Amigos y vecinos"
+          ],
+          "award": "En competición"
         }
       ]
     }
