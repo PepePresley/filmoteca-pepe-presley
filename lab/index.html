@@ -500,7 +500,7 @@ try{
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=filmaffinity-aliases-v12");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=2020-v14");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
 const FESTIVAL_DB = window.__FESTIVALES__;
