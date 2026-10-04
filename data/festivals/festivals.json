@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "editions": [
     {
       "festival": "Cannes",
@@ -1615,249 +1615,567 @@
           "aliases": [
             "La ballena (The Whale)"
           ],
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor protagonista · Brendan Fraser",
+            "Actriz de reparto · Hong Chau",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Actor protagonista · Brendan Fraser",
+            "Maquillaje y peluquería"
+          ],
+          "award": "2 Oscar · 3 nominaciónes"
         },
         {
           "title": "Elvis",
-          "award": "Nominada"
+          "nominations": [
+            "Actor protagonista · Austin Butler",
+            "Fotografía · Mandy Walker",
+            "Vestuario · Catherine Martin",
+            "Montaje · Matt Villa y Jonathan Redmond",
+            "Maquillaje y peluquería",
+            "Película",
+            "Diseño de producción",
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "8 nominaciónes"
         },
         {
           "title": "The Banshees of Inisherin",
           "aliases": [
             "Almas en pena de Inisherin"
           ],
-          "award": "Nominada"
+          "nominations": [
+            "Actor protagonista · Colin Farrell",
+            "Actor de reparto · Brendan Gleeson",
+            "Actor de reparto · Barry Keoghan",
+            "Actriz de reparto · Kerry Condon",
+            "Dirección · Martin McDonagh",
+            "Montaje · Mikkel E.G. Nielsen",
+            "Banda sonora · Carter Burwell",
+            "Película",
+            "Guion original · Martin McDonagh"
+          ],
+          "wins": [],
+          "award": "9 nominaciónes"
         },
         {
           "title": "Aftersun",
-          "award": "Nominada"
+          "nominations": [
+            "Actor protagonista · Paul Mescal"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Living",
-          "award": "Nominada"
+          "nominations": [
+            "Actor protagonista · Bill Nighy",
+            "Guion adaptado · Kazuo Ishiguro"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "Everything Everywhere All at Once",
           "aliases": [
             "Todo a la vez en todas partes"
           ],
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor de reparto · Ke Huy Quan",
+            "Actriz protagonista · Michelle Yeoh",
+            "Actriz de reparto · Jamie Lee Curtis",
+            "Actriz de reparto · Stephanie Hsu",
+            "Vestuario · Shirley Kurata",
+            "Dirección · Daniel Kwan y Daniel Scheinert",
+            "Montaje · Paul Rogers",
+            "Banda sonora · Son Lux",
+            "Canción original · This Is a Life",
+            "Película",
+            "Guion original · Daniel Kwan y Daniel Scheinert"
+          ],
+          "wins": [
+            "Actor de reparto · Ke Huy Quan",
+            "Actriz protagonista · Michelle Yeoh",
+            "Actriz de reparto · Jamie Lee Curtis",
+            "Dirección · Daniel Kwan y Daniel Scheinert",
+            "Montaje · Paul Rogers",
+            "Película",
+            "Guion original · Daniel Kwan y Daniel Scheinert"
+          ],
+          "award": "7 Oscar · 11 nominaciónes"
         },
         {
           "title": "Causeway",
-          "award": "Nominada"
+          "nominations": [
+            "Actor de reparto · Brian Tyree Henry"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Fabelmans",
           "aliases": [
             "Los Fabelman"
           ],
-          "award": "Nominada"
+          "nominations": [
+            "Actor de reparto · Judd Hirsch",
+            "Actriz protagonista · Michelle Williams",
+            "Dirección · Steven Spielberg",
+            "Banda sonora · John Williams",
+            "Película",
+            "Diseño de producción",
+            "Guion original · Steven Spielberg y Tony Kushner"
+          ],
+          "wins": [],
+          "award": "7 nominaciónes"
         },
         {
           "title": "Tár",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Cate Blanchett",
+            "Fotografía · Florian Hoffmeister",
+            "Dirección · Todd Field",
+            "Montaje · Monika Willi",
+            "Película",
+            "Guion original · Todd Field"
+          ],
+          "wins": [],
+          "award": "6 nominaciónes"
         },
         {
           "title": "Blonde",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Ana de Armas"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "To Leslie",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Andrea Riseborough"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Black Panther: Wakanda Forever",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actriz de reparto · Angela Bassett",
+            "Vestuario · Ruth Carter",
+            "Maquillaje y peluquería",
+            "Canción original · Lift Me Up",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Vestuario · Ruth Carter"
+          ],
+          "award": "1 Oscar · 5 nominaciónes"
         },
         {
           "title": "Guillermo del Toro's Pinocchio",
           "aliases": [
             "Pinocho de Guillermo del Toro"
           ],
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [
+            "Película de animación"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Marcel the Shell with Shoes On",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Puss in Boots: The Last Wish",
           "aliases": [
             "El gato con botas: El último deseo"
           ],
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Sea Beast",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Turning Red",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "All Quiet on the Western Front",
           "aliases": [
             "Sin novedad en el frente"
           ],
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Fotografía · James Friend",
+            "Película internacional · Alemania",
+            "Maquillaje y peluquería",
+            "Banda sonora · Volker Bertelmann",
+            "Película",
+            "Diseño de producción",
+            "Sonido",
+            "Efectos visuales",
+            "Guion adaptado · Edward Berger, Lesley Paterson e Ian Stokell"
+          ],
+          "wins": [
+            "Fotografía · James Friend",
+            "Película internacional · Alemania",
+            "Banda sonora · Volker Bertelmann",
+            "Diseño de producción"
+          ],
+          "award": "4 Oscar · 9 nominaciónes"
         },
         {
           "title": "Bardo, False Chronicle of a Handful of Truths",
-          "award": "Nominada"
+          "nominations": [
+            "Fotografía · Darius Khondji"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Empire of Light",
-          "award": "Nominada"
+          "nominations": [
+            "Fotografía · Roger Deakins"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Babylon",
-          "award": "Nominada"
+          "nominations": [
+            "Vestuario · Mary Zophres",
+            "Banda sonora · Justin Hurwitz",
+            "Diseño de producción"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "Mrs. Harris Goes to Paris",
-          "award": "Nominada"
+          "nominations": [
+            "Vestuario · Jenny Beavan"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Triangle of Sadness",
           "aliases": [
             "El triángulo de la tristeza"
           ],
-          "award": "Nominada"
+          "nominations": [
+            "Dirección · Ruben Östlund",
+            "Película",
+            "Guion original · Ruben Östlund"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "Navalny",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [
+            "Documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "All That Breathes",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "All the Beauty and the Bloodshed",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Fire of Love",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "A House Made of Splinters",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Elephant Whisperers",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Haulout",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "How Do You Measure a Year?",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Martha Mitchell Effect",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Stranger at the Gate",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Top Gun: Maverick",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Montaje · Eddie Hamilton",
+            "Canción original · Hold My Hand",
+            "Película",
+            "Sonido",
+            "Efectos visuales",
+            "Guion adaptado · Ehren Kruger, Eric Warren Singer y Christopher McQuarrie"
+          ],
+          "wins": [
+            "Sonido"
+          ],
+          "award": "1 Oscar · 6 nominaciónes"
         },
         {
           "title": "Argentina, 1985",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Argentina"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Close",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Bélgica"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "EO",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Polonia"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Quiet Girl",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Irlanda"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Batman",
-          "award": "Nominada"
+          "nominations": [
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "RRR",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Canción original · Naatu Naatu"
+          ],
+          "wins": [
+            "Canción original · Naatu Naatu"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
-          "title": "Tell It like a Woman",
-          "award": "Nominada"
+          "title": "Tell It Like a Woman",
+          "nominations": [
+            "Canción original · Applause"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Avatar: The Way of Water",
           "aliases": [
             "Avatar: El sentido del agua"
           ],
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Película",
+            "Diseño de producción",
+            "Sonido",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Efectos visuales"
+          ],
+          "award": "1 Oscar · 4 nominaciónes"
         },
         {
           "title": "Women Talking",
           "aliases": [
             "Ellas hablan"
           ],
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Película",
+            "Guion adaptado · Sarah Polley"
+          ],
+          "wins": [
+            "Guion adaptado · Sarah Polley"
+          ],
+          "award": "1 Oscar · 2 nominaciónes"
         },
         {
           "title": "The Boy, the Mole, the Fox and the Horse",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "The Flying Sailor",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Ice Merchants",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "My Year of Dicks",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "An Irish Goodbye",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Ivalu",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Le Pupille",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Night Ride",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Red Suitcase",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Glass Onion: A Knives Out Mystery",
           "aliases": [
             "Puñales por la espalda: El misterio de Glass Onion"
           ],
-          "award": "Nominada"
+          "nominations": [
+            "Guion adaptado · Rian Johnson"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         }
       ]
     },
