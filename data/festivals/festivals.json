@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "editions": [
     {
       "festival": "Cannes",
@@ -7137,13 +7137,22 @@
             "Actor de reparto",
             "Actriz de reparto",
             "Guion original",
-            "Fotografía"
+            "Fotografía",
+            "Diseño de producción",
+            "Vestuario",
+            "Montaje",
+            "Maquillaje y peluquería",
+            "Banda sonora musical o comedia",
+            "Sonido"
           ],
           "wins": [
             "Película",
             "Actriz protagonista",
             "Actriz de reparto",
-            "Guion original"
+            "Guion original",
+            "Diseño de producción",
+            "Vestuario",
+            "Banda sonora musical o comedia"
           ]
         },
         {
@@ -7153,9 +7162,15 @@
           "nominations": [
             "Película",
             "Actriz protagonista",
-            "Fotografía"
+            "Fotografía",
+            "Diseño de producción",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Banda sonora dramática"
           ],
-          "wins": []
+          "wins": [
+            "Maquillaje y peluquería"
+          ]
         },
         {
           "title": "Life Is Beautiful",
@@ -7165,10 +7180,15 @@
             "Película",
             "Dirección",
             "Actor protagonista",
-            "Guion original"
+            "Guion original",
+            "Montaje",
+            "Película internacional",
+            "Banda sonora dramática"
           ],
           "wins": [
-            "Actor protagonista"
+            "Actor protagonista",
+            "Película internacional",
+            "Banda sonora dramática"
           ]
         },
         {
@@ -7180,11 +7200,20 @@
             "Dirección",
             "Actor protagonista",
             "Guion original",
-            "Fotografía"
+            "Fotografía",
+            "Diseño de producción",
+            "Montaje",
+            "Maquillaje y peluquería",
+            "Banda sonora dramática",
+            "Sonido",
+            "Edición de sonido"
           ],
           "wins": [
             "Dirección",
-            "Fotografía"
+            "Fotografía",
+            "Montaje",
+            "Sonido",
+            "Edición de sonido"
           ]
         },
         {
@@ -7195,7 +7224,10 @@
             "Película",
             "Dirección",
             "Guion adaptado",
-            "Fotografía"
+            "Fotografía",
+            "Montaje",
+            "Banda sonora dramática",
+            "Sonido"
           ],
           "wins": []
         },
@@ -7249,7 +7281,8 @@
           "director": "",
           "aliases": [],
           "nominations": [
-            "Actriz protagonista"
+            "Actriz protagonista",
+            "Película internacional"
           ],
           "wins": []
         },
@@ -7316,7 +7349,8 @@
           "director": "",
           "aliases": [],
           "nominations": [
-            "Guion adaptado"
+            "Guion adaptado",
+            "Montaje"
           ],
           "wins": []
         },
@@ -7326,6 +7360,171 @@
           "aliases": [],
           "nominations": [
             "Guion original"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Pleasantville",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Diseño de producción",
+            "Vestuario",
+            "Banda sonora dramática"
+          ],
+          "wins": []
+        },
+        {
+          "title": "What Dreams May Come",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Diseño de producción",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Efectos visuales"
+          ]
+        },
+        {
+          "title": "Beloved",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Velvet Goldmine",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Children of Heaven",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Grandfather",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Tango",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": []
+        },
+        {
+          "title": "A Bug's Life",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Banda sonora musical o comedia"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mulan",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Banda sonora musical o comedia"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Patch Adams",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Banda sonora musical o comedia"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Prince of Egypt",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Banda sonora musical o comedia",
+            "Canción"
+          ],
+          "wins": [
+            "Canción"
+          ]
+        },
+        {
+          "title": "Armageddon",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Canción",
+            "Sonido",
+            "Edición de sonido",
+            "Efectos visuales"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Quest for Camelot",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Canción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Horse Whisperer",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Canción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Babe: Pig in the City",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Canción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Mask of Zorro",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Sonido",
+            "Edición de sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mighty Joe Young",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Efectos visuales"
           ],
           "wins": []
         }
