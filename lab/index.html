@@ -500,7 +500,7 @@ try{
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=2020-v14");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=un-certain-regard-v16");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
 const FESTIVAL_DB = window.__FESTIVALES__;
@@ -865,15 +865,27 @@ function openFestivalYear(yr){
    const first=rebuildOscarCategories(yr);
    if(first)renderOscarCategory(yr,first);else renderFestivalEditionFor(selectedFestival,yr);
  }else{
-   $('festDisplaySub').textContent='Sección Oficial · '+total+' películas';
+   const sections=(FESTIVAL_DB.editions||[]).filter(e=>e.festival===selectedFestival&&Number(e.year)===Number(yr));
+   if(selectedFestival==='Cannes'&&sections.length>1){
+     $('festSections').innerHTML=sections.map((e,i)=>'<div class="festivalSectionBtn '+(i===0?'active':'')+'" data-section="'+esc(e.section)+'">'+esc(e.section)+'</div>').join('');
+     $('festSections').querySelectorAll('.festivalSectionBtn').forEach(b=>b.onclick=()=>renderFestivalSection(yr,b.dataset.section));
+   }
+   $('festDisplaySub').textContent=(ed.section||'Sección Oficial')+' · '+total+' películas';
    $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
-   renderFestivalEditionFor(selectedFestival,yr);
+   renderFestivalEditionFor(selectedFestival,yr,ed.section);
  }
  history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+yr);
  window.scrollTo({top:0,behavior:'smooth'});
 }
-function renderFestivalEditionFor(festival,fy){
- const ed=festivalEditionData(fy,festival), tags=ed.present, missing=ed.missing;
+function renderFestivalSection(fy,section){
+ document.querySelectorAll('.festivalSectionBtn').forEach(x=>x.classList.toggle('active',x.dataset.section===section));
+ const ed=festivalEditionData(fy,selectedFestival,section), total=ed.present.length+ed.missing.length;
+ $('festDisplaySub').textContent=section+' · '+total+' películas';
+ $('festDisplayMeta').innerHTML='<b>'+ed.present.length+'</b> en tu filmoteca · '+ed.missing.length+' pendiente'+(ed.missing.length===1?'':'s')+' de localizar';
+ renderFestivalEditionFor(selectedFestival,fy,section);
+}
+function renderFestivalEditionFor(festival,fy,section=null){
+ const ed=festivalEditionData(fy,festival,section), tags=ed.present, missing=ed.missing;
  $('festWelcome').style.display='none'; $('festEdition').style.display='block';
  $('festEditionTitle').textContent='';
  $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
@@ -887,7 +899,7 @@ function festivalIconId(f){
 }
 function festivalSectionsHTML(f){
  if(f==='Oscar') return '<div class="active">Selecciona un año</div>';
- if(f==='Cannes') return '<div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div>';
+ if(f==='Cannes') return '<div class="active">Selecciona un año</div><div>Competición oficial</div><div>Un Certain Regard</div>';
  return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
 }
 function rebuildFestivalYears(f){
