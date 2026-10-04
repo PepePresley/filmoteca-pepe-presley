@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "editions": [
     {
       "festival": "Cannes",
@@ -2723,216 +2723,533 @@
       "section": "Premios de la Academia",
       "films": [
         {
-          "title": "Being the Ricardos",
-          "award": "Nominada"
+          "title": "King Richard",
+          "nominations": [
+            "Actor protagonista · Will Smith",
+            "Actriz de reparto · Aunjanue Ellis",
+            "Montaje",
+            "Canción · Be Alive",
+            "Película",
+            "Guion original · Zach Baylin"
+          ],
+          "wins": [
+            "Actor protagonista · Will Smith"
+          ],
+          "award": "1 Oscar · 6 nominaciónes"
         },
         {
-          "title": "King Richard",
-          "award": "Ganadora · Oscar"
+          "title": "Being the Ricardos",
+          "nominations": [
+            "Actor protagonista · Javier Bardem",
+            "Actor de reparto · J.K. Simmons",
+            "Actriz protagonista · Nicole Kidman"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "The Power of the Dog",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor protagonista · Benedict Cumberbatch",
+            "Actor de reparto · Jesse Plemons",
+            "Actor de reparto · Kodi Smit-McPhee",
+            "Actriz de reparto · Kirsten Dunst",
+            "Fotografía",
+            "Dirección · Jane Campion",
+            "Montaje",
+            "Banda sonora · Jonny Greenwood",
+            "Película",
+            "Diseño de producción",
+            "Sonido",
+            "Guion adaptado · Jane Campion"
+          ],
+          "wins": [
+            "Dirección · Jane Campion"
+          ],
+          "award": "1 Oscar · 12 nominaciónes"
         },
         {
           "title": "tick, tick...BOOM!",
-          "award": "Nominada"
+          "nominations": [
+            "Actor protagonista · Andrew Garfield",
+            "Montaje"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "The Tragedy of Macbeth",
-          "award": "Nominada"
+          "nominations": [
+            "Actor protagonista · Denzel Washington",
+            "Fotografía",
+            "Diseño de producción"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "CODA",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor de reparto · Troy Kotsur",
+            "Película",
+            "Guion adaptado · Siân Heder"
+          ],
+          "wins": [
+            "Actor de reparto · Troy Kotsur",
+            "Película",
+            "Guion adaptado · Siân Heder"
+          ],
+          "award": "3 Oscar · 3 nominaciónes"
         },
         {
           "title": "Belfast",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actor de reparto · Ciarán Hinds",
+            "Actriz de reparto · Judi Dench",
+            "Dirección · Kenneth Branagh",
+            "Canción · Down To Joy",
+            "Película",
+            "Sonido",
+            "Guion original · Kenneth Branagh"
+          ],
+          "wins": [
+            "Guion original · Kenneth Branagh"
+          ],
+          "award": "1 Oscar · 7 nominaciónes"
         },
         {
           "title": "The Eyes of Tammy Faye",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actriz protagonista · Jessica Chastain",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Actriz protagonista · Jessica Chastain",
+            "Maquillaje y peluquería"
+          ],
+          "award": "2 Oscar · 2 nominaciónes"
         },
         {
           "title": "The Lost Daughter",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Olivia Colman",
+            "Actriz de reparto · Jessie Buckley",
+            "Guion adaptado · Maggie Gyllenhaal"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "Parallel Mothers",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Penélope Cruz",
+            "Banda sonora · Alberto Iglesias"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "Spencer",
-          "award": "Nominada"
+          "nominations": [
+            "Actriz protagonista · Kristen Stewart"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "West Side Story",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Actriz de reparto · Ariana DeBose",
+            "Fotografía",
+            "Vestuario",
+            "Dirección · Steven Spielberg",
+            "Película",
+            "Diseño de producción",
+            "Sonido"
+          ],
+          "wins": [
+            "Actriz de reparto · Ariana DeBose"
+          ],
+          "award": "1 Oscar · 7 nominaciónes"
         },
         {
           "title": "Encanto",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Película de animación",
+            "Banda sonora · Germaine Franco",
+            "Canción · Dos Oruguitas"
+          ],
+          "wins": [
+            "Película de animación"
+          ],
+          "award": "1 Oscar · 3 nominaciónes"
         },
         {
           "title": "Flee",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación",
+            "Documental",
+            "Película internacional · Dinamarca"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "Luca",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Mitchells vs. the Machines",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Raya and the Last Dragon",
-          "award": "Nominada"
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Dune",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Fotografía",
+            "Vestuario",
+            "Montaje",
+            "Maquillaje y peluquería",
+            "Banda sonora · Hans Zimmer",
+            "Película",
+            "Diseño de producción",
+            "Sonido",
+            "Efectos visuales",
+            "Guion adaptado · Jon Spaihts, Denis Villeneuve y Eric Roth"
+          ],
+          "wins": [
+            "Fotografía",
+            "Montaje",
+            "Banda sonora · Hans Zimmer",
+            "Diseño de producción",
+            "Sonido",
+            "Efectos visuales"
+          ],
+          "award": "6 Oscar · 10 nominaciónes"
         },
         {
           "title": "Nightmare Alley",
-          "award": "Nominada"
+          "nominations": [
+            "Fotografía",
+            "Vestuario",
+            "Película",
+            "Diseño de producción"
+          ],
+          "wins": [],
+          "award": "4 nominaciónes"
         },
         {
           "title": "Cruella",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Vestuario"
+          ],
+          "award": "1 Oscar · 2 nominaciónes"
         },
         {
           "title": "Cyrano",
-          "award": "Nominada"
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Drive My Car",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Dirección · Ryusuke Hamaguchi",
+            "Película internacional · Japón",
+            "Película",
+            "Guion adaptado · Ryusuke Hamaguchi y Takamasa Oe"
+          ],
+          "wins": [
+            "Película internacional · Japón"
+          ],
+          "award": "1 Oscar · 4 nominaciónes"
         },
         {
           "title": "Licorice Pizza",
-          "award": "Nominada"
+          "nominations": [
+            "Dirección · Paul Thomas Anderson",
+            "Película",
+            "Guion original · Paul Thomas Anderson"
+          ],
+          "wins": [],
+          "award": "3 nominaciónes"
         },
         {
           "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [
+            "Documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Ascension",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Attica",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Writing with Fire",
-          "award": "Nominada"
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Queen of Basketball",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Audible",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Lead Me Home",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Three Songs for Benazir",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "When We Were Bullies",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Don't Look Up",
-          "award": "Nominada"
+          "nominations": [
+            "Montaje",
+            "Banda sonora · Nicholas Britell",
+            "Película",
+            "Guion original · Adam McKay y David Sirota"
+          ],
+          "wins": [],
+          "award": "4 nominaciónes"
         },
         {
           "title": "The Hand of God",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Italia"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Lunana: A Yak in the Classroom",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Bután"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Worst Person in the World",
-          "award": "Nominada"
+          "nominations": [
+            "Película internacional · Noruega",
+            "Guion original · Eskil Vogt y Joachim Trier"
+          ],
+          "wins": [],
+          "award": "2 nominaciónes"
         },
         {
           "title": "Coming 2 America",
-          "award": "Nominada"
+          "nominations": [
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "House of Gucci",
-          "award": "Nominada"
+          "nominations": [
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
-          "title": "No Time to Die",
-          "award": "Ganadora · Oscar"
+          "title": "No Time To Die",
+          "nominations": [
+            "Canción · No Time To Die",
+            "Sonido",
+            "Efectos visuales"
+          ],
+          "wins": [
+            "Canción · No Time To Die"
+          ],
+          "award": "1 Oscar · 3 nominaciónes"
         },
         {
           "title": "Four Good Days",
-          "award": "Nominada"
-        },
-        {
-          "title": "Free Guy",
-          "award": "Nominada"
-        },
-        {
-          "title": "Shang-Chi and the Legend of the Ten Rings",
-          "award": "Nominada"
-        },
-        {
-          "title": "Spider-Man: No Way Home",
-          "award": "Nominada"
+          "nominations": [
+            "Canción · Somehow You Do"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Windshield Wiper",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Affairs of the Art",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Bestia",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Boxballet",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Robin Robin",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Long Goodbye",
-          "award": "Ganadora · Oscar"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "1 Oscar · 1 nominación"
         },
         {
           "title": "Ala Kachuu - Take and Run",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "The Dress",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "On My Mind",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         },
         {
           "title": "Please Hold",
-          "award": "Nominada"
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Free Guy",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "1 nominación"
+        },
+        {
+          "title": "Spider-Man: No Way Home",
+          "nominations": [
+            "Efectos visuales"
+          ],
+          "wins": [],
+          "award": "1 nominación"
         }
       ]
     },
