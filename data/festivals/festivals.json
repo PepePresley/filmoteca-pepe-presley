@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 28,
   "editions": [
     {
       "festival": "Cannes",
@@ -7136,7 +7136,8 @@
             "Actriz protagonista",
             "Actor de reparto",
             "Actriz de reparto",
-            "Guion original"
+            "Guion original",
+            "Fotografía"
           ],
           "wins": [
             "Película",
@@ -7151,7 +7152,8 @@
           "aliases": [],
           "nominations": [
             "Película",
-            "Actriz protagonista"
+            "Actriz protagonista",
+            "Fotografía"
           ],
           "wins": []
         },
@@ -7177,10 +7179,12 @@
             "Película",
             "Dirección",
             "Actor protagonista",
-            "Guion original"
+            "Guion original",
+            "Fotografía"
           ],
           "wins": [
-            "Dirección"
+            "Dirección",
+            "Fotografía"
           ]
         },
         {
@@ -7190,7 +7194,8 @@
           "nominations": [
             "Película",
             "Dirección",
-            "Guion adaptado"
+            "Guion adaptado",
+            "Fotografía"
           ],
           "wins": []
         },
@@ -7272,7 +7277,8 @@
           "director": "",
           "aliases": [],
           "nominations": [
-            "Actor de reparto"
+            "Actor de reparto",
+            "Fotografía"
           ],
           "wins": []
         },
