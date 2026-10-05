@@ -91,7 +91,7 @@ function resolve(ft,p){
  }
  return best;
 }
-const filmKey=(festival,year,section,title,director)=>JSON.stringify([String(festival||''),Number(year)||0,String(section||''),String(title||''),String(director||'')]);
+const filmKey=(festival,year,title,director)=>JSON.stringify([String(festival||''),Number(year)||0,String(title||''),String(director||'')]);
 
 const catalog=loadCatalog(),prepared=prepare(makeIndex(catalog));
 const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json','utf8'));
@@ -101,7 +101,7 @@ for(const ed of (db.editions||[])){
   total++;
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director};
   const i=resolve(ft,prepared);
-  const key=filmKey(ed.festival,ed.year,ed.section,f.title,f.director);
+  const key=filmKey(ed.festival,ed.year,f.title,f.director);
   if(i>=0){
    present++;
    const r=catalog[i]||{};
