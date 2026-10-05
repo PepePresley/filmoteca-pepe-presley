@@ -520,7 +520,9 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
 try{
+ const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
  window.__CATALOGO__=[];
+ if(!FESTIVAL_DIRECT){
  const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
@@ -542,6 +544,7 @@ try{
    }
  }catch(_){}
  catalogoCargado=true;
+ }
  const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1990-v38");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
@@ -758,12 +761,28 @@ function festTokenSimilarity(a,b){
  let common=0;A.forEach(x=>{if(B.has(x))common++});
  return common/(A.size+B.size-common);
 }
-const FESTIVAL_INDEX=DATA.map((r,idx)=>({
+let FESTIVAL_INDEX=DATA.map((r,idx)=>({
  idx,
  y:Number(r&&r.y)||0,
  d:normFest(r&&r.d),
  titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title].filter(Boolean).map(normFest)
 }));
+const FESTIVAL_DECADES_LOADED=new Set();
+async function ensureFestivalIndex(year){
+ const y=Number(year)||0;
+ const start=y<1930?1891:Math.floor(y/10)*10, end=start===1891?1929:start+9;
+ const key=start+'-'+end;
+ if(FESTIVAL_DECADES_LOADED.has(key))return;
+ const rr=await fetch('/filmoteca-pepe-presley/data/catalog/festival-index/'+key+'.json?v=light1');
+ if(!rr.ok)throw new Error('No se pudo cargar índice '+key);
+ const rows=await rr.json();
+ for(const r of rows){
+   DATA[r.i]=r;
+   FESTIVAL_INDEX.push({idx:r.i,y:Number(r.y)||0,d:normFest(r.d),titles:[r.t,r.ot,r.o,r.en,r.e].filter(Boolean).map(normFest)});
+ }
+ FESTIVAL_DECADES_LOADED.add(key);
+ FESTIVAL_EDITION_CACHE.clear();
+}
 const FESTIVAL_EDITION_CACHE=new Map();
 function resolveFestivalMatch(ft){
  const nd=normFest(ft.director),nt=normFest(ft.festival_title),aliasTitles=(ft.aliases||[]).map(normFest).filter(Boolean),queryTitles=[nt,...aliasTitles],fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
@@ -901,7 +920,8 @@ function renderOscarCategory(fy,cat){
  })
  appendAnnualMissingLink(fy);;
 }
-function openFestivalYear(yr){
+async function openFestivalYear(yr){
+ if(FESTIVAL_DIRECT){await ensureFestivalIndex(selectedFestival==='Oscar'?Number(yr)-1:yr);}
  activeFestival=selectedFestival.toLowerCase()+yr;
  setFestivalChrome(true);
  $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
