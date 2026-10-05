@@ -519,12 +519,26 @@ try{
  const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
+ window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row&&row.y)!==2025);
  try{
    const overlays=[
      "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
-     "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
+     "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_01.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_02.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_03.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_04.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_05.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_1.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_2.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_3.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_1.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_2.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_3.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_1.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_2.json?v=annual-2025-v1"
    ];
    for(const url of overlays){
      try{
@@ -772,13 +786,27 @@ async function ensureFullCatalog(){
  if(catalogoCargado)return;
  const rr=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
  if(!rr.ok)throw new Error("HTTP "+rr.status);
- const full=await rr.json();
+ let full=await rr.json();
+ full=full.filter(row=>Number(row&&row.y)!==2025);
  for(const url of [
    "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
-   "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
+   "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_01.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_02.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_03.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_04.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_05.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_1.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_2.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_3.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_1.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_2.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_3.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_1.json?v=annual-2025-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_2.json?v=annual-2025-v1"
  ]){
    try{
      const ar=await fetch(url);
