@@ -1,0 +1,38 @@
+name: Audit 1988 ownership
+on:
+  push:
+    branches:
+      - lab-1988-complete
+    paths:
+      - '.github/workflows/audit-1988-ownership.yml'
+      - 'scripts/audit-1988-ownership.mjs'
+      - 'data/staging/1988/telegram-owned.json'
+      - 'data/catalog/festival-matches.json'
+permissions:
+  contents: write
+concurrency:
+  group: audit-1988-ownership
+  cancel-in-progress: true
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: lab-1988-complete
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/audit-1988-ownership.mjs
+      - name: Commit audit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/staging/1988/ownership-audit.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Audit 1988 festival ownership against Telegram"
+            git pull --rebase origin lab-1988-complete
+            git push origin HEAD:lab-1988-complete
+          fi
