@@ -8,6 +8,7 @@ on:
       - 'scripts/build-festival-matches.mjs'
       - 'data/catalog/catalog.json'
       - 'data/catalog/annual_*_overlay.json'
+      - 'data/catalog/festival-owned-*.json'
       - 'data/festivals/festivals.json'
 permissions:
   contents: write

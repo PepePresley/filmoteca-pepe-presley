@@ -2,7 +2,7 @@ import fs from 'node:fs';
 
 function loadCatalog(){
  let src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
- for(const f of ['annual_1989_overlay.json','annual_1990_1994_overlay.json','annual_1995_1996_overlay.json','annual_1997_1999_overlay.json']){
+ for(const f of ['annual_1988_festival_overlay.json','annual_1989_overlay.json','annual_1990_1994_overlay.json','annual_1995_1996_overlay.json','annual_1997_1999_overlay.json']){
   const p='data/catalog/'+f;
   if(fs.existsSync(p)){
    const extra=JSON.parse(fs.readFileSync(p,'utf8'));
@@ -93,6 +93,15 @@ function resolve(ft,p){
 }
 const filmKey=(festival,year,title,director)=>JSON.stringify([String(festival||''),Number(year)||0,String(title||''),String(director||'')]);
 
+const ownership1988Path='data/catalog/festival-owned-1988.json';
+const ownership1988=fs.existsSync(ownership1988Path)?JSON.parse(fs.readFileSync(ownership1988Path,'utf8')):{};
+const ownership1988Sets=new Map(Object.entries(ownership1988).map(([k,v])=>[k,new Set(v||[])]));
+function authoritative1988(ed,f){
+ if(Number(ed.year)!==1988)return null;
+ const set=ownership1988Sets.get(ed.festival+'|'+ed.section);
+ return set?set.has(f.title):null;
+}
+
 const catalog=loadCatalog(),prepared=prepare(makeIndex(catalog));
 const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json','utf8'));
 const matches={};let total=0,present=0;
@@ -100,7 +109,9 @@ for(const ed of (db.editions||[])){
  for(const f of (ed.films||[])){
   total++;
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director};
-  const i=resolve(ft,prepared);
+  let i=resolve(ft,prepared);
+  const authoritative=authoritative1988(ed,f);
+  if(authoritative===false)i=-1;
   const key=filmKey(ed.festival,ed.year,f.title,f.director);
   if(i>=0){
    present++;
