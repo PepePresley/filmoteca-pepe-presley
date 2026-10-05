@@ -719,7 +719,7 @@ let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTime
 $('homeCollection').onclick=()=>{document.body.classList.remove('homeMode');$('tabCollection').click();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)};
 $('homeFestivals').onclick=()=>{document.body.classList.remove('homeMode');$('tabFestivals').click()};
 $('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.trim()){const v=$('homeQ').value.trim();document.body.classList.remove('homeMode');$('tabCollection').click();$('q').value=v;render();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)}});
-$('tabHome').onclick=()=>{setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
+$('tabHome').onclick=()=>{if(FESTIVAL_DIRECT){location.href=location.pathname;return;}setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
 
 $('tabFestivals').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(true);$('tabHome').classList.remove('active');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
 $('tabCollection').onclick=()=>{if(FESTIVAL_DIRECT){location.href='?view=collection';return;}document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
@@ -767,6 +767,37 @@ let FESTIVAL_INDEX=DATA.map((r,idx)=>({
  d:normFest(r&&r.d),
  titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title].filter(Boolean).map(normFest)
 }));
+async function ensureFullCatalog(){
+ if(catalogoCargado)return;
+ const rr=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
+ if(!rr.ok)throw new Error("HTTP "+rr.status);
+ const full=await rr.json();
+ for(const url of [
+   "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
+   "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
+   "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
+   "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
+ ]){
+   try{
+     const ar=await fetch(url);
+     if(ar.ok){
+       const annual=await ar.json();
+       if(Array.isArray(annual)) for(const row of annual) full.push(row);
+     }
+   }catch(_){}
+ }
+ DATA.length=0;
+ for(const row of full)DATA.push(row);
+ catalogoCargado=true;
+ FESTIVAL_INDEX=DATA.map((r,idx)=>({idx,y:Number(r&&r.y)||0,d:normFest(r&&r.d),titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title].filter(Boolean).map(normFest)}));
+ FESTIVAL_DECADES_LOADED.clear();
+ FESTIVAL_EDITION_CACHE.clear();
+}
+async function openFestivalMovie(idx){
+ await ensureFullCatalog();
+ const r=DATA[idx];
+ if(r)openModal(r);
+}
 const FESTIVAL_DECADES_LOADED=new Set();
 async function ensureFestivalIndex(year){
  const y=Number(year)||0;
@@ -859,7 +890,7 @@ function renderFestivalEdition(fy){
    const el=document.createElement('article'); el.className='festMovie';
    const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
    el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
-   el.onclick=()=>openModal(r); grid.appendChild(el);
+   el.onclick=()=>openFestivalMovie(ft.idx); grid.appendChild(el);
  });
  missing.forEach(x=>{
    const el=document.createElement('article'); el.className='festMovie festMissing';
@@ -912,7 +943,7 @@ function renderOscarCategory(fy,cat){
      const r=DATA[x.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';
      const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
      const ribbon='<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div>';
-     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el);
+     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openFestivalMovie(ft.idx);grid.appendChild(el);
    }else{
      const el=document.createElement('article');el.className='festMovie festMissing';
      el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.f.title)+'<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.f.title)+'</div></div>';grid.appendChild(el);
@@ -1023,7 +1054,7 @@ function renderFestivalEditionFor(festival,fy,section=null){
  $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
  const grid=$('festMovieGrid'); grid.innerHTML='';
  const orderedTags=tags.slice().sort((x,y)=>(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
- orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
+ orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openFestivalMovie(ft.idx);grid.appendChild(el)});
  missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';grid.appendChild(el)});
  appendAnnualMissingLink(fy);
 }
