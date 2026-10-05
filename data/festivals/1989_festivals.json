@@ -1,0 +1,779 @@
+{
+  "editions": [
+    {
+      "festival": "Cannes",
+      "year": 1989,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "A Cry in the Dark",
+          "aliases": [
+            "Evil Angels",
+            "Un grito en la oscuridad"
+          ],
+          "director": "Fred Schepisi",
+          "award": "En competición"
+        },
+        {
+          "title": "Chimère",
+          "aliases": [],
+          "director": "Claire Devers",
+          "award": "En competición"
+        },
+        {
+          "title": "Das Spinnennetz",
+          "aliases": [
+            "Spider's Web"
+          ],
+          "director": "Bernhard Wicki",
+          "award": "En competición"
+        },
+        {
+          "title": "Do the Right Thing",
+          "aliases": [
+            "Haz lo que debas"
+          ],
+          "director": "Spike Lee",
+          "award": "En competición"
+        },
+        {
+          "title": "Dom za vesanje",
+          "aliases": [
+            "Time of the Gypsies",
+            "Tiempo de gitanos"
+          ],
+          "director": "Emir Kusturica",
+          "award": "En competición"
+        },
+        {
+          "title": "El niño de la luna",
+          "aliases": [
+            "Moon Child"
+          ],
+          "director": "Agustí Villaronga",
+          "award": "En competición"
+        },
+        {
+          "title": "Francesco",
+          "aliases": [],
+          "director": "Liliana Cavani",
+          "award": "En competición"
+        },
+        {
+          "title": "Jésus de Montréal",
+          "aliases": [
+            "Jesus of Montreal",
+            "Jesús de Montreal"
+          ],
+          "director": "Denys Arcand",
+          "award": "En competición"
+        },
+        {
+          "title": "Kuarup",
+          "aliases": [],
+          "director": "Ruy Guerra",
+          "award": "En competición"
+        },
+        {
+          "title": "Kuroi ame",
+          "aliases": [
+            "Black Rain",
+            "Lluvia negra"
+          ],
+          "director": "Shōhei Imamura",
+          "award": "Gran Premio Técnico"
+        },
+        {
+          "title": "Kvinnorna på taket",
+          "aliases": [
+            "The Women on the Roof"
+          ],
+          "director": "Carl-Gustaf Nykvist",
+          "award": "En competición"
+        },
+        {
+          "title": "Lost Angels",
+          "aliases": [],
+          "director": "Hugh Hudson",
+          "award": "En competición"
+        },
+        {
+          "title": "Monsieur Hire",
+          "aliases": [],
+          "director": "Patrice Leconte",
+          "award": "En competición"
+        },
+        {
+          "title": "Mystery Train",
+          "aliases": [],
+          "director": "Jim Jarmusch",
+          "award": "En competición"
+        },
+        {
+          "title": "Nuovo Cinema Paradiso",
+          "aliases": [
+            "Cinema Paradiso"
+          ],
+          "director": "Giuseppe Tornatore",
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Reunion",
+          "aliases": [],
+          "director": "Jerry Schatzberg",
+          "award": "En competición"
+        },
+        {
+          "title": "Rosalie Goes Shopping",
+          "aliases": [],
+          "director": "Percy Adlon",
+          "award": "En competición"
+        },
+        {
+          "title": "Sex, Lies, and Videotape",
+          "aliases": [
+            "Sexo, mentiras y cintas de vídeo",
+            "Sex, Lies & Videotape"
+          ],
+          "director": "Steven Soderbergh",
+          "award": "Palma de Oro"
+        },
+        {
+          "title": "Splendor",
+          "aliases": [],
+          "director": "Ettore Scola",
+          "award": "En competición"
+        },
+        {
+          "title": "Sweetie",
+          "aliases": [],
+          "director": "Jane Campion",
+          "award": "En competición"
+        },
+        {
+          "title": "Torrents of Spring",
+          "aliases": [],
+          "director": "Jerzy Skolimowski",
+          "award": "En competición"
+        },
+        {
+          "title": "Trop belle pour toi",
+          "aliases": [
+            "Too Beautiful for You",
+            "Demasiado bella para ti"
+          ],
+          "director": "Bertrand Blier",
+          "award": "Gran Premio del Jurado"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 1989,
+      "section": "Un Certain Regard",
+      "films": [
+        {
+          "title": "9 kruhů pekla",
+          "aliases": [
+            "Devět kruhů pekla"
+          ],
+          "director": "Milan Muchna",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Az én XX. századom",
+          "aliases": [
+            "My 20th Century",
+            "My Twentieth Century"
+          ],
+          "director": "Ildikó Enyedi",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Barroco",
+          "aliases": [],
+          "director": "Paul Leduc",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Dharmaga tongjoguro kan kkadalgŭn",
+          "aliases": [
+            "Why Has Bodhi-Dharma Left for the East?",
+            "Dharmaga tongjoguro kan kkadalgŭn"
+          ],
+          "director": "Bae Yong-kyun",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Fool's Mate",
+          "aliases": [
+            "Zugzwang"
+          ],
+          "director": "Mathieu Carrière",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Il decimo clandestino",
+          "aliases": [],
+          "director": "Lina Wertmüller",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Malpractice",
+          "aliases": [],
+          "director": "Bill Bennett",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Oshibki yunosti",
+          "aliases": [
+            "Errors of Youth"
+          ],
+          "director": "Boris Frumin",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Peaux de vaches",
+          "aliases": [
+            "Thick Skinned"
+          ],
+          "director": "Patricia Mazuy",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Piravi",
+          "aliases": [],
+          "director": "Shaji N. Karun",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Santa Sangre",
+          "aliases": [],
+          "director": "Alejandro Jodorowsky",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Schwarze Sünde",
+          "aliases": [
+            "Black Sin"
+          ],
+          "director": "Danièle Huillet, Jean-Marie Straub",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Safa'ih min dhahab",
+          "aliases": [
+            "Golden Horseshoes"
+          ],
+          "director": "Nouri Bouzid",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Smertch",
+          "aliases": [],
+          "director": "Bako Sadykov",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "The Prisoner of St. Petersburg",
+          "aliases": [],
+          "director": "Ian Pringle",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Treffen in Travers",
+          "aliases": [
+            "Meeting in Travers"
+          ],
+          "director": "Michael Gwisdek",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Venus Peter",
+          "aliases": [],
+          "director": "Ian Sellar",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Voices of Sarafina!",
+          "aliases": [],
+          "director": "Nigel Noble",
+          "award": "Selección Un Certain Regard"
+        },
+        {
+          "title": "Wired",
+          "aliases": [],
+          "director": "Larry Peerce",
+          "award": "Selección Un Certain Regard"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1989,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "The Accused",
+          "aliases": [
+            "Acusados"
+          ],
+          "director": "Jonathan Kaplan",
+          "award": "En competición"
+        },
+        {
+          "title": "Histoires d'Amérique",
+          "aliases": [
+            "American Stories: Food, Family and Philosophy"
+          ],
+          "director": "Chantal Akerman",
+          "award": "En competición"
+        },
+        {
+          "title": "Ha-Kayitz Shel Aviya",
+          "aliases": [
+            "Aviya's Summer",
+            "El verano de Aviya"
+          ],
+          "director": "Eli Cohen",
+          "award": "En competición"
+        },
+        {
+          "title": "Bankomatt",
+          "aliases": [],
+          "director": "Villi Hermann",
+          "award": "En competición"
+        },
+        {
+          "title": "Mielött befejezi röptét a denevér",
+          "aliases": [
+            "Before the Bat's Flight Is Done"
+          ],
+          "director": "Péter Tímár",
+          "award": "En competición"
+        },
+        {
+          "title": "Camille Claudel",
+          "aliases": [],
+          "director": "Bruno Nuytten",
+          "award": "En competición"
+        },
+        {
+          "title": "La noche oscura",
+          "aliases": [
+            "The Dark Night"
+          ],
+          "director": "Carlos Saura",
+          "award": "En competición"
+        },
+        {
+          "title": "Esquilache",
+          "aliases": [],
+          "director": "Josefina Molina",
+          "award": "En competición"
+        },
+        {
+          "title": "Wan zhong",
+          "aliases": [
+            "Evening Bell",
+            "Campanadas al atardecer"
+          ],
+          "director": "Wu Ziniu",
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Fallada – letztes Kapitel",
+          "aliases": [
+            "Fallada: The Last Chapter"
+          ],
+          "director": "Roland Gräf",
+          "award": "En competición"
+        },
+        {
+          "title": "La bande des quatre",
+          "aliases": [
+            "Gang of Four",
+            "La banda de los cuatro"
+          ],
+          "director": "Jacques Rivette",
+          "award": "En competición"
+        },
+        {
+          "title": "Dauntaun hirozu",
+          "aliases": [
+            "Hope and Pain",
+            "Downtown Heroes"
+          ],
+          "director": "Yoji Yamada",
+          "award": "En competición"
+        },
+        {
+          "title": "Ja milujem, ty miluješ",
+          "aliases": [
+            "I Love, You Love"
+          ],
+          "director": "Dušan Hanák",
+          "award": "Oso de Plata · Mejor dirección"
+        },
+        {
+          "title": "1952: Ivan i Aleksandra",
+          "aliases": [
+            "Ivan and Alexandra"
+          ],
+          "director": "Ivan Nitchev",
+          "award": "En competición"
+        },
+        {
+          "title": "Johanna D'Arc of Mongolia",
+          "aliases": [
+            "Joan of Arc of Mongolia"
+          ],
+          "director": "Ulrike Ottinger",
+          "award": "En competición"
+        },
+        {
+          "title": "Mississippi Burning",
+          "aliases": [
+            "Arde Mississippi"
+          ],
+          "director": "Alan Parker",
+          "award": "Oso de Plata · Mejor actor Gene Hackman"
+        },
+        {
+          "title": "Pestalozzis Berg",
+          "aliases": [
+            "Pestalozzi's Mountain"
+          ],
+          "director": "Peter von Gunten",
+          "award": "En competición"
+        },
+        {
+          "title": "Rain Man",
+          "aliases": [],
+          "director": "Barry Levinson",
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Resurrected",
+          "aliases": [],
+          "director": "Paul Greengrass",
+          "award": "En competición"
+        },
+        {
+          "title": "Sluga",
+          "aliases": [
+            "The Servant"
+          ],
+          "director": "Vadim Abdrashitov",
+          "award": "Premio Alfred Bauer"
+        },
+        {
+          "title": "I fanela me to '9'",
+          "aliases": [
+            "The Striker with Number 9"
+          ],
+          "director": "Pantelis Voulgaris",
+          "award": "En competición"
+        },
+        {
+          "title": "Talk Radio",
+          "aliases": [
+            "Hablando con la muerte"
+          ],
+          "director": "Oliver Stone",
+          "award": "Oso de Plata · logro individual Eric Bogosian"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1989,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Et la lumière fut",
+          "aliases": [
+            "And Then There Was Light"
+          ],
+          "director": "Otar Iosseliani",
+          "award": "Gran Premio Especial del Jurado"
+        },
+        {
+          "title": "Australia",
+          "aliases": [],
+          "director": "Jean-Jacques Andrien",
+          "award": "En competición"
+        },
+        {
+          "title": "Berlin-Yerushalaim",
+          "aliases": [
+            "Berlin-Jerusalem",
+            "Berlín-Jerusalén"
+          ],
+          "director": "Amos Gitai",
+          "award": "En competición"
+        },
+        {
+          "title": "Blauäugig",
+          "aliases": [
+            "Blue Eyed",
+            "Ojos azules"
+          ],
+          "director": "Reinhard Hauff",
+          "award": "En competición"
+        },
+        {
+          "title": "Christian",
+          "aliases": [],
+          "director": "Gabriel Axel",
+          "award": "En competición"
+        },
+        {
+          "title": "Beiqing chengshi",
+          "aliases": [
+            "A City of Sadness",
+            "Ciudad doliente"
+          ],
+          "director": "Hou Hsiao-hsien",
+          "award": "León de Oro"
+        },
+        {
+          "title": "In una notte di chiaro di luna",
+          "aliases": [
+            "Crystal or Ash, Fire or Wind, as Long as It's Love"
+          ],
+          "director": "Lina Wertmüller",
+          "award": "En competición"
+        },
+        {
+          "title": "Sen no Rikyu: Honkakubô ibun",
+          "aliases": [
+            "Death of a Tea Master",
+            "La muerte de un maestro de té"
+          ],
+          "director": "Kei Kumai",
+          "award": "León de Plata"
+        },
+        {
+          "title": "I Want to Go Home",
+          "aliases": [
+            "Quiero volver a casa"
+          ],
+          "director": "Alain Resnais",
+          "award": "Osella de Oro · Mejor guion"
+        },
+        {
+          "title": "Island",
+          "aliases": [],
+          "director": "Paul Cox",
+          "award": "En competición"
+        },
+        {
+          "title": "Layla",
+          "aliases": [
+            "Layla, My Reason"
+          ],
+          "director": "Taïeb Louhichi",
+          "award": "En competición"
+        },
+        {
+          "title": "M' agapas?",
+          "aliases": [
+            "Love Me Not?"
+          ],
+          "director": "Giorgos Panousopoulos",
+          "award": "En competición"
+        },
+        {
+          "title": "New Year's Day",
+          "aliases": [],
+          "director": "Henry Jaglom",
+          "award": "En competición"
+        },
+        {
+          "title": "Fallgropen",
+          "aliases": [
+            "The Pitfall"
+          ],
+          "director": "Vilgot Sjöman",
+          "award": "En competición"
+        },
+        {
+          "title": "Recordações da Casa Amarela",
+          "aliases": [
+            "Recollections of the Yellow House"
+          ],
+          "director": "João César Monteiro",
+          "award": "León de Plata"
+        },
+        {
+          "title": "She's Been Away",
+          "aliases": [],
+          "director": "Peter Hall",
+          "award": "Copa Volpi · Mejor actriz Peggy Ashcroft / Geraldine James"
+        },
+        {
+          "title": "Sedím na konári a je mi dobre",
+          "aliases": [
+            "Sitting on a Branch, Enjoying Myself"
+          ],
+          "director": "Juraj Jakubisko",
+          "award": "En competición"
+        },
+        {
+          "title": "Scugnizzi",
+          "aliases": [
+            "Street Kids"
+          ],
+          "director": "Nanni Loy",
+          "award": "Osella de Oro · Mejor música"
+        },
+        {
+          "title": "Ek Din Achanak",
+          "aliases": [
+            "Suddenly, One Day"
+          ],
+          "director": "Mrinal Sen",
+          "award": "En competición"
+        },
+        {
+          "title": "Muzh i doch' Tamary Aleksandrovny",
+          "aliases": [
+            "Tamara Aleksandrovna's Husband and Daughter"
+          ],
+          "director": "Olga Narutskaya",
+          "award": "En competición"
+        },
+        {
+          "title": "El sueño del mono loco",
+          "aliases": [
+            "Twisted Obsession"
+          ],
+          "director": "Fernando Trueba",
+          "award": "En competición"
+        },
+        {
+          "title": "Che ora è?",
+          "aliases": [
+            "What Time Is It?",
+            "¿Qué hora es?"
+          ],
+          "director": "Ettore Scola",
+          "award": "Copa Volpi · Mejor actor Massimo Troisi / Marcello Mastroianni"
+        },
+        {
+          "title": "La femme de Rose Hill",
+          "aliases": [
+            "The Woman from Rose Hill"
+          ],
+          "director": "Alain Tanner",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1989,
+      "section": "Sección Oficial",
+      "films": [
+        {
+          "title": "Djavolji raj",
+          "aliases": [
+            "That Summer of White Roses",
+            "Rosas blancas"
+          ],
+          "director": "Rajko Grlić",
+          "award": "En competición"
+        },
+        {
+          "title": "El mar y el tiempo",
+          "aliases": [],
+          "director": "Fernando Fernán Gómez",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Eversmile New Jersey",
+          "aliases": [
+            "Sonrisas de New Jersey"
+          ],
+          "director": "Carlos Sorín",
+          "award": "Mejor interpretación femenina · Mirjana Joković"
+        },
+        {
+          "title": "Homer and Eddie",
+          "aliases": [
+            "Homer y Eddie"
+          ],
+          "director": "Andrei Konchalovsky",
+          "award": "Concha de Oro · ex aequo"
+        },
+        {
+          "title": "Il maestro",
+          "aliases": [],
+          "director": "Marion Hänsel",
+          "award": "En competición"
+        },
+        {
+          "title": "Ke arteko egunak",
+          "aliases": [
+            "Días de humo"
+          ],
+          "director": "Antxon Eceiza",
+          "award": "Premio San Sebastián"
+        },
+        {
+          "title": "Konsul",
+          "aliases": [],
+          "director": "Mirosław Bork",
+          "award": "Concha de Plata · Mejor director"
+        },
+        {
+          "title": "La nación clandestina",
+          "aliases": [],
+          "director": "Jorge Sanjinés",
+          "award": "Concha de Oro · ex aequo"
+        },
+        {
+          "title": "Ledi Makbet Mtsenskogo uezda",
+          "aliases": [
+            "Lady Macbeth of Mtsensk"
+          ],
+          "director": "Roman Balayan",
+          "award": "En competición"
+        },
+        {
+          "title": "Lun hui",
+          "aliases": [
+            "Samsara"
+          ],
+          "director": "Huang Jianxin",
+          "award": "En competición"
+        },
+        {
+          "title": "Papeles secundarios",
+          "aliases": [],
+          "director": "Orlando Rojas",
+          "award": "En competición"
+        },
+        {
+          "title": "Si te dicen que caí",
+          "aliases": [],
+          "director": "Vicente Aranda",
+          "award": "En competición"
+        },
+        {
+          "title": "True Love",
+          "aliases": [],
+          "director": "Nancy Savoca",
+          "award": "Premio San Sebastián"
+        },
+        {
+          "title": "Túsztörténet",
+          "aliases": [],
+          "director": "Gyula Gazdag",
+          "award": "Mejor interpretación masculina · Ari Bery"
+        }
+      ]
+    }
+  ]
+}
