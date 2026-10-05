@@ -568,8 +568,8 @@ async function ensureFestivalYear(year){
    const d=await r.json();
    (d.editions||[]).forEach(e=>FESTIVAL_DB.editions.push(e));
    FESTIVAL_YEAR_LOADED.add(year);
-   FESTIVAL_EDITION_CACHE.clear();
-   ANNUAL_MISSING_CACHE.clear();
+   if(typeof FESTIVAL_EDITION_CACHE!=='undefined') FESTIVAL_EDITION_CACHE.clear();
+   if(typeof ANNUAL_MISSING_CACHE!=='undefined') ANNUAL_MISSING_CACHE.clear();
    return true;
  }catch(_){return false;}
 }
