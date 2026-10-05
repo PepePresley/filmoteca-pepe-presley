@@ -175,9 +175,9 @@ body.festivalMode .festivalHub{margin-top:10px}
 .festEditionHead{display:flex;align-items:end;justify-content:space-between;gap:14px;margin-bottom:16px}
 .festEditionHead h3{font-family:Georgia,serif;font-size:27px;font-weight:500;margin:0}
 .festEditionCount{font-size:12px;color:#aaa49a}.festEditionCount b{color:#e8ca76}
-.missingToggle{border:0;background:transparent;color:#c99a9f;padding:0 2px;cursor:pointer;font-size:inherit;text-decoration:underline;text-decoration-color:#6d4448;text-underline-offset:3px}
-.missingToggle:hover{color:#f0c2c6}
-.festMovieGrid.missingOnly .festMovie:not(.festMissing){display:none!important}
+.annualMissingLink,.annualBack{border:0;background:transparent;color:#c99a9f;padding:0 2px;cursor:pointer;font-size:inherit;text-decoration:underline;text-decoration-color:#6d4448;text-underline-offset:3px}
+.annualMissingLink:hover,.annualBack:hover{color:#f0c2c6}
+.annualSources{margin-top:7px;color:#d5b86f;font-size:9px;line-height:1.35;text-transform:uppercase;letter-spacing:.05em}
 .festMovieGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:12px}
 .festMovie{background:#151517;border:1px solid #302e2a;border-radius:12px;overflow:hidden;cursor:pointer;transition:.15s transform,.15s border-color}
 .festMovie:hover{transform:translateY(-2px);border-color:#746139}
@@ -896,8 +896,8 @@ function renderOscarCategory(fy,cat){
      const el=document.createElement('article');el.className='festMovie festMissing';
      el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.f.title)+'<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.f.title)+'</div></div>';grid.appendChild(el);
    }
- });
- installMissingToggle(present,missing,grid,'oscar');
+ })
+ appendAnnualMissingLink(fy);;
 }
 function openFestivalYear(yr){
  activeFestival=selectedFestival.toLowerCase()+yr;
@@ -935,22 +935,64 @@ function renderFestivalSection(fy,section){
  $('festDisplayMeta').innerHTML='<b>'+ed.present.length+'</b> en tu filmoteca · '+ed.missing.length+' pendiente'+(ed.missing.length===1?'':'s')+' de localizar';
  renderFestivalEditionFor(selectedFestival,fy,section);
 }
-function installMissingToggle(present,missing,grid,mode='standard'){
- const count=$('festEditionCount');
- if(mode==='oscar'){
-   const lead=count.dataset.lead||count.innerHTML;
-   count.dataset.lead=lead;
-   count.innerHTML=lead+(missing?' · <button class="missingToggle" type="button">'+missing+' me falta'+(missing===1?'':'n')+'</button>':' · ninguna pendiente');
- }else{
-   count.innerHTML='<b>'+present+'</b> en tu filmoteca · '+(missing?'<button class="missingToggle" type="button">'+missing+' me falta'+(missing===1?'':'n')+'</button>':'ninguna pendiente');
- }
- grid.classList.remove('missingOnly');
- const btn=count.querySelector('.missingToggle');
- if(!btn)return;
- btn.onclick=()=>{
-   const only=grid.classList.toggle('missingOnly');
-   btn.textContent=only?'Ver todas':missing+' me falta'+(missing===1?'':'n');
- };
+
+const ANNUAL_MISSING_CACHE=new Map();
+function annualMissingData(fy){
+ fy=Number(fy);
+ if(ANNUAL_MISSING_CACHE.has(fy)) return ANNUAL_MISSING_CACHE.get(fy);
+ const groups=[];
+ const editions=(FESTIVAL_DB.editions||[]).filter(e=>Number(e.year)===fy);
+ editions.forEach(ed=>(ed.films||[]).forEach(f=>{
+   const ft={festival:ed.festival,festival_year:fy,section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
+   if(resolveFestivalMatch(ft)>=0) return;
+   const names=[f.title,...(f.aliases||[])].map(norm).filter(Boolean);
+   const director=norm(f.director||'');
+   let g=groups.find(x=>{
+     const sameDirector=!director||!x.directorKey||director===x.directorKey;
+     return sameDirector&&names.some(n=>x.nameKeys.has(n));
+   });
+   if(!g){
+     g={title:f.title,director:f.director||'',directorKey:director,nameKeys:new Set(names),sources:[],sections:[]};
+     groups.push(g);
+   }else names.forEach(n=>g.nameKeys.add(n));
+   if(!g.sources.includes(ed.festival)) g.sources.push(ed.festival);
+   const sectionLabel=ed.festival+(ed.section?' · '+ed.section:'');
+   if(!g.sections.includes(sectionLabel)) g.sections.push(sectionLabel);
+ }));
+ groups.sort((a,b)=>String(a.title).localeCompare(String(b.title),'es'));
+ ANNUAL_MISSING_CACHE.set(fy,groups);
+ return groups;
+}
+function appendAnnualMissingLink(fy){
+ const meta=$('festDisplayMeta'); if(!meta)return;
+ const rows=annualMissingData(fy);
+ meta.querySelectorAll('.annualMissingLink').forEach(x=>x.remove());
+ if(!rows.length) return;
+ const sep=document.createTextNode(' · ');
+ const btn=document.createElement('button');
+ btn.type='button';btn.className='annualMissingLink';
+ btn.textContent=rows.length+' pendiente'+(rows.length===1?'':'s')+' del año';
+ btn.onclick=()=>renderAnnualMissing(fy);
+ meta.appendChild(sep);meta.appendChild(btn);
+}
+function renderAnnualMissing(fy){
+ const rows=annualMissingData(fy);
+ $('festWelcome').style.display='none';$('festEdition').style.display='block';
+ $('festDisplayTitle').textContent=String(fy);
+ $('festDisplaySub').textContent='Pendientes de festivales y premios · '+rows.length+' película'+(rows.length===1?'':'s');
+ $('festDisplayMeta').innerHTML='Una sola vez por película, aunque aparezca en varios festivales';
+ $('festEditionTitle').textContent='';
+ $('festEditionCount').innerHTML='<b>'+rows.length+'</b> pendiente'+(rows.length===1?'':'s')+' del año · <button type="button" class="annualBack">Volver a '+esc(selectedFestival)+' '+fy+'</button>';
+ const back=$('festEditionCount').querySelector('.annualBack');
+ if(back) back.onclick=()=>openFestivalYear(Number(fy));
+ const grid=$('festMovieGrid');grid.innerHTML='';
+ rows.forEach(x=>{
+   const el=document.createElement('article');el.className='festMovie festMissing';
+   const sources=x.sources.join(' · ');
+   el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+(x.director?esc(x.director):'Director no indicado')+'</div><div class="annualSources">'+esc(sources)+'</div></div>';
+   grid.appendChild(el);
+ });
+ history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+fy+'&pending=year');
 }
 function renderFestivalEditionFor(festival,fy,section=null){
  const ed=festivalEditionData(fy,festival,section), tags=ed.present, missing=ed.missing;
@@ -961,7 +1003,7 @@ function renderFestivalEditionFor(festival,fy,section=null){
  const orderedTags=tags.slice().sort((x,y)=>(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
  orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
  missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';grid.appendChild(el)});
- installMissingToggle(tags.length,missing.length,grid);
+ appendAnnualMissingLink(fy);
 }
 function festivalIconId(f){
  return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':'#ico-cannes';
@@ -1005,7 +1047,7 @@ if(directParams.get('view')==='festivals'){
  if(directFestival==='oscar'||directFestival==='oscars') selectedFestival='Oscar';
  selectFestival(selectedFestival,false);
  const directYear=Number(directParams.get('year'));
- if(directYear) openFestivalYear(directYear);
+ if(directYear){ openFestivalYear(directYear); if(directParams.get('pending')==='year') renderAnnualMissing(directYear); }
 }
 
 chooseSpot();render();
