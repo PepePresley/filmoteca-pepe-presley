@@ -136,7 +136,7 @@ linear-gradient(135deg,#20190e,#101216 60%,#251c0e)}
 .festWelcome{padding:28px 34px}
 .festWelcome h3{font-family:Georgia,serif;font-size:25px;font-weight:500;margin:0 0 8px}
 .festWelcome p{color:#aaa49a;line-height:1.6;max-width:760px;margin:0 0 20px}
-.festYearCards{display:grid;grid-template-columns:repeat(4,minmax(135px,1fr));gap:10px}
+.festYearCards{display:grid;grid-template-columns:repeat(5,minmax(120px,1fr));gap:10px}
 .festMini{border:1px solid #353129;background:#151515;color:#ddd4c4;border-radius:11px;padding:14px;text-align:left;cursor:pointer}
 .festMini:hover{border-color:#8a7138;background:#1d1a13}.festMini b{display:block;color:#f1cf76;font-size:18px;margin-bottom:4px}.festMini span{font-size:11px;color:#918b82}
 @media(max-width:850px){.festivalShell{grid-template-columns:1fr}.festSide{border-right:0;border-bottom:1px solid #292722}.festNav{grid-template-columns:repeat(2,1fr)}.festYears{grid-template-columns:repeat(4,1fr);max-height:none}.festHero{padding:26px}.festHero h2{font-size:34px}.festYearCards{grid-template-columns:repeat(2,1fr)}}
@@ -445,15 +445,9 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
     </div>
    </div>
    <div class="festWelcome" id="festWelcome">
-    <h3>Elige un año de Cannes</h3>
-    <p>Verás la competición oficial como una colección visual: películas presentes en tu filmoteca, premios y títulos pendientes de localizar. Este es ya el nuevo diseño sobre el que construiremos el piloto completo de 2024.</p>
-    <div class="festYearCards">
-     <button class="festMini festivalYearBtn" data-year="2024"><b>2024</b><span class="festMiniCount">calculando cruce…</span></button>
-     <button class="festMini festivalYearBtn" data-year="1997"><b>1997</b><span>19 de 20 en tu filmoteca</span></button>
-     <button class="festMini festivalYearBtn" data-year="1998"><b>1998</b><span>22 de 22 en tu filmoteca</span></button>
-     <button class="festMini festivalYearBtn" data-year="2021"><b>2021</b><span>6 de 9 en tu filmoteca</span></button>
-     <button class="festMini festivalYearBtn" data-year="2022"><b>2022</b><span>6 de 10 en tu filmoteca</span></button>
-    </div>
+    <h3 id="festWelcomeTitle">Elige un año de Cannes</h3>
+    <p id="festWelcomeText">Selecciona un año para ver las películas presentes en tu filmoteca, premios y títulos pendientes de localizar.</p>
+    <div class="festYearCards" id="festYearCards"></div>
    </div>
    <div class="festEdition" id="festEdition" style="display:none"><div class="festEditionHead"><h3 id="festEditionTitle"></h3><div class="festEditionCount" id="festEditionCount"></div></div><div class="festMovieGrid" id="festMovieGrid"></div></div>
   </div>
@@ -517,7 +511,8 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
 try{
- const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
+ const INITIAL_PARAMS=new URLSearchParams(location.search);
+ const FESTIVAL_DIRECT=INITIAL_PARAMS.get('view')==='festivals';
  window.__CATALOGO__=[];
  if(!FESTIVAL_DIRECT){
  const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
@@ -1073,18 +1068,39 @@ function festivalYearsFor(f){
    : availableYears(f);
 }
 function festivalDecadeStart(y){return Math.floor(Number(y)/10)*10}
-function setFestivalDecade(decade,allowClose=true){
- const target=Number(decade), same=festivalOpenDecade===target;
+function renderFestivalDecadeWelcome(f,decade,updateHistory=true){
+ const start=Number(decade), end=start+9;
+ const years=festivalYearsFor(f).filter(y=>festivalDecadeStart(y)===start);
+ $('festWelcome').style.display='block';
+ $('festEdition').style.display='none';
+ $('festWelcomeTitle').textContent='Elige un año de '+f;
+ $('festWelcomeText').textContent='Años disponibles de '+start+'–'+end+'. Selecciona uno para ver la selección, los premios y el cruce con tu filmoteca.';
+ const cards=$('festYearCards');
+ cards.innerHTML=years.map(y=>{
+   const ed=festivalEditionData(y,f), total=ed.present.length+ed.missing.length;
+   return '<button class="festMini festivalYearBtn" type="button" data-year="'+y+'"><b>'+y+'</b><span>'+ed.present.length+' de '+total+' en tu filmoteca</span></button>';
+ }).join('');
+ cards.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
+ $('festDisplayTitle').textContent='Festival de '+f;
+ $('festDisplaySub').textContent='Archivo de selecciones y palmarés';
+ $('festDisplayMeta').innerHTML='Cruce directo con las <b>52.929 películas</b> de Filmoteca Pepe Presley';
+ $('festSections').innerHTML=festivalSectionsHTML(f);
+ if(updateHistory)history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(f.toLowerCase()));
+}
+function setFestivalDecade(decade,showWelcome=true){
+ const target=Number(decade);
  document.querySelectorAll('#festYears .festDecade').forEach(x=>x.classList.remove('open'));
- if(allowClose&&same){festivalOpenDecade=null;return}
  festivalOpenDecade=target;
  const el=document.querySelector('#festYears .festDecade[data-decade="'+target+'"]');
  if(el)el.classList.add('open');
+ if(showWelcome){
+   activeFestival=null;
+   document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.remove('active'));
+   renderFestivalDecadeWelcome(selectedFestival,target,true);
+ }
 }
 function openFestivalDecadeForYear(year){
- const decade=festivalDecadeStart(year);
- festivalOpenDecade=null;
- setFestivalDecade(decade,false);
+ setFestivalDecade(festivalDecadeStart(year),false);
 }
 function rebuildFestivalYears(f,preferredYear=null){
  const years=festivalYearsFor(f), groups=[];
@@ -1105,6 +1121,7 @@ function rebuildFestivalYears(f,preferredYear=null){
  ).join('');
  $('festYears').querySelectorAll('.festDecadeToggle').forEach(b=>b.onclick=()=>setFestivalDecade(Number(b.dataset.decade),true));
  $('festYears').querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
+ if(festivalOpenDecade!==null)renderFestivalDecadeWelcome(f,festivalOpenDecade,false);
 }
 function selectFestival(f,openLatest=true){
  selectedFestival=f;
@@ -1116,13 +1133,8 @@ function selectFestival(f,openLatest=true){
 }
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
 document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>selectFestival(b.dataset.festival,true));
-// Welcome-card counts are always computed from the same live festival data.
-document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
- const yr=Number(b.dataset.year), ed=festivalEditionData(yr), s=b.querySelector('span');
- if(s) s.textContent=ed.present.length+' de '+(ed.present.length+ed.missing.length)+' en tu filmoteca';
-});
 
-const directParams=new URLSearchParams(location.search);
+const directParams=INITIAL_PARAMS;
 if(directParams.get('view')==='festivals'){
  $('tabFestivals').click();
  const directFestival=directParams.get('festival');
