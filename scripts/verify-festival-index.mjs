@@ -22,7 +22,7 @@ function makeIndex(rows,light=false){
  return rows.map((r,pos)=>{
   const d=norm(r&&r.d);
   const titles=[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.o,r&&r.en,r&&r.english_title,r&&r.e]
-    .filter(Boolean).map(v=>{const s=norm(v);return {s,t:toks(s)}});
+    .filter(Boolean).map(v=>{const s=norm(v);return {s,t:toks(s)}}).filter(x=>x.s);
   return {idx:light?r.i:pos,y:Number(r&&r.y)||0,d,dt:toks(d),titles};
  });
 }
@@ -40,7 +40,7 @@ function prepare(index){
 }
 function queryData(ft){
  const nd=norm(ft.director), nt=norm(ft.festival_title);
- const qs=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)].map(s=>({s,t:toks(s)}));
+ const qs=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)].map(s=>({s,t:toks(s)})).filter(x=>x.s);
  const fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
  return {nd,ndt:toks(nd),nt,qs,targetYear};
 }
