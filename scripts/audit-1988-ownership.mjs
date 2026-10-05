@@ -26,3 +26,5 @@ for(const ed of (db.editions||[]).filter(e=>Number(e.year)===1988)){
 const report={generatedAt:new Date().toISOString(),groups,mismatchCount:mismatches.length,mismatches};
 fs.writeFileSync('data/staging/1988/ownership-audit.json',JSON.stringify(report,null,2)+'\n');
 console.log(JSON.stringify(report,null,2));
+
+if(report.mismatchCount) process.exitCode=2;
