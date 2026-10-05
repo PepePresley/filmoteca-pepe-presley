@@ -12,13 +12,19 @@ function loadCatalog(){
  return src;
 }
 const norm=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
-function sim(a,b){
- const A=new Set(norm(a).split(' ').filter(x=>x.length>1)),B=new Set(norm(b).split(' ').filter(x=>x.length>1));
- if(!A.size||!B.size)return 0; let common=0; A.forEach(x=>{if(B.has(x))common++});
+const toks=s=>new Set(String(s||'').split(' ').filter(x=>x.length>1));
+function tokenSim(A,B){
+ if(!A.size||!B.size)return 0;
+ let common=0; A.forEach(x=>{if(B.has(x))common++});
  return common/(A.size+B.size-common);
 }
 function makeIndex(rows,light=false){
- return rows.map((r,pos)=>({idx:light?r.i:pos,y:Number(r&&r.y)||0,d:norm(r&&r.d),titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.o,r&&r.en,r&&r.english_title,r&&r.e].filter(Boolean).map(norm)}));
+ return rows.map((r,pos)=>{
+  const d=norm(r&&r.d);
+  const titles=[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.o,r&&r.en,r&&r.english_title,r&&r.e]
+    .filter(Boolean).map(v=>{const s=norm(v);return {s,t:toks(s)}});
+  return {idx:light?r.i:pos,y:Number(r&&r.y)||0,d,dt:toks(d),titles};
+ });
 }
 function prepare(index){
  const byYear=new Map(),byTitle=new Map();
@@ -26,35 +32,46 @@ function prepare(index){
   if(!byYear.has(x.y))byYear.set(x.y,[]);
   byYear.get(x.y).push(x);
   for(const t of x.titles){
-   if(!byTitle.has(t))byTitle.set(t,[]);
-   byTitle.get(t).push(x);
+   if(!byTitle.has(t.s))byTitle.set(t.s,[]);
+   byTitle.get(t.s).push(x);
   }
  }
- return {index,byYear,byTitle};
+ return {byYear,byTitle};
 }
-function candidates(ft,prepared){
+function queryData(ft){
+ const nd=norm(ft.director), nt=norm(ft.festival_title);
+ const qs=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)].map(s=>({s,t:toks(s)}));
  const fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
- const qs=[norm(ft.festival_title),...(ft.aliases||[]).map(norm).filter(Boolean)];
+ return {nd,ndt:toks(nd),nt,qs,targetYear};
+}
+function candidates(q,prepared){
  const map=new Map();
- for(let y=targetYear-5;y<=targetYear+5;y++) for(const x of (prepared.byYear.get(y)||[])) map.set(x.idx,x);
- // Outside ±5, only strongIdentity can qualify, and that requires an exact title.
- for(const q of qs) for(const x of (prepared.byTitle.get(q)||[])) map.set(x.idx,x);
+ for(let y=q.targetYear-5;y<=q.targetYear+5;y++) for(const x of (prepared.byYear.get(y)||[])) map.set(x.idx,x);
+ for(const z of q.qs) for(const x of (prepared.byTitle.get(z.s)||[])) map.set(x.idx,x);
  return [...map.values()].sort((a,b)=>a.idx-b.idx);
 }
 function resolve(ft,prepared){
- const nd=norm(ft.director),nt=norm(ft.festival_title),queryTitles=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)],fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
+ const q=queryData(ft);
  let best=-1,bestScore=-1;
- for(const x of candidates(ft,prepared)){
-  const yearDiff=(targetYear&&x.y)?Math.abs(x.y-targetYear):99;
+ for(const x of candidates(q,prepared)){
+  const yearDiff=(q.targetYear&&x.y)?Math.abs(x.y-q.targetYear):99;
   let dirSim=0;
-  if(nd&&x.d){if(x.d===nd)dirSim=1;else if(x.d.includes(nd)||nd.includes(x.d))dirSim=.9;else dirSim=sim(x.d,nd);}
+  if(q.nd&&x.d){
+   if(x.d===q.nd)dirSim=1;
+   else if(x.d.includes(q.nd)||q.nd.includes(x.d))dirSim=.9;
+   else dirSim=tokenSim(x.dt,q.ndt);
+  }
   let titleSim=0;
-  for(const t of x.titles)for(const q of queryTitles){
-   let s=0;if(t===q)s=1;else if(t.includes(q)||q.includes(t))s=.88;else s=sim(t,q);if(s>titleSim)titleSim=s;
+  for(const t of x.titles)for(const z of q.qs){
+   let s=0;
+   if(t.s===z.s)s=1;
+   else if(t.s.includes(z.s)||z.s.includes(t.s))s=.88;
+   else s=tokenSim(t.t,z.t);
+   if(s>titleSim)titleSim=s;
   }
   const strongIdentity=titleSim===1&&dirSim>=.8;
   const normalExact=titleSim===1&&yearDiff<=1;
-  const oscarExact=!nd&&titleSim===1&&yearDiff<=2&&nt.length>=6;
+  const oscarExact=!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
   const directorAnchor=titleSim>=.55&&dirSim>=.95&&yearDiff<=3;
   const nearYearTitle=titleSim>=.88&&yearDiff<=1;
