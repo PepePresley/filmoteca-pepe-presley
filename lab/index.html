@@ -520,9 +520,13 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
 try{
- const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
- if(!r.ok) throw new Error("HTTP "+r.status);
- window.__CATALOGO__=await r.json();
+ const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
+ window.__CATALOGO__=[];
+ if(!FESTIVAL_DIRECT){
+   const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
+   if(!r.ok) throw new Error("HTTP "+r.status);
+   window.__CATALOGO__=await r.json();
+ }
  try{
    const overlays=[
      "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
@@ -718,7 +722,7 @@ $('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.t
 $('tabHome').onclick=()=>{setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
 
 $('tabFestivals').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(true);$('tabHome').classList.remove('active');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
-$('tabCollection').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
+$('tabCollection').onclick=()=>{if(FESTIVAL_DIRECT){location.href='?view=collection';return;}document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
 
 
 if(new URLSearchParams(location.search).get('view')==='festivals') $('tabFestivals').click();
