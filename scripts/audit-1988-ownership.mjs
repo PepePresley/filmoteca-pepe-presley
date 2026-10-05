@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json','utf8'));
 const map=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json','utf8')).matches||{};
-const owned=JSON.parse(fs.readFileSync('data/staging/1988/telegram-owned.json','utf8'));
+const owned=JSON.parse(fs.readFileSync('data/catalog/festival-owned-1988.json','utf8'));
 const key=(festival,year,title,director)=>JSON.stringify([String(festival||''),Number(year)||0,String(title||''),String(director||'')]);
 const groups={}, mismatches=[];
 for(const ed of (db.editions||[]).filter(e=>Number(e.year)===1988)){
