@@ -8,6 +8,9 @@ on:
       - 'scripts/build-festival-matches.mjs'
 permissions:
   contents: write
+concurrency:
+  group: exact-festival-map-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -28,5 +31,6 @@ jobs:
             echo "No map changes"
           else
             git commit -m "Generate exact festival match map"
+            git pull --rebase origin lab-lightweight-festival-index
             git push
           fi
