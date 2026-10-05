@@ -773,6 +773,7 @@ async function ensureFullCatalog(){
  if(!rr.ok)throw new Error("HTTP "+rr.status);
  const full=await rr.json();
  for(const url of [
+   "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
