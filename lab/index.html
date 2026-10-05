@@ -514,20 +514,17 @@ let catalogoCargado=false;
 try{
  const INITIAL_PARAMS=new URLSearchParams(location.search);
  const FESTIVAL_DIRECT=INITIAL_PARAMS.get('view')==='festivals';
- const COLLECTION_DIRECT=INITIAL_PARAMS.get('view')==='collection';
  window.__CATALOGO__=[];
- if(COLLECTION_DIRECT){
- const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab5");
+ if(!FESTIVAL_DIRECT){
+ const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
- window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row&&row.y)!==2025);
  try{
    const overlays=[
      "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
-     "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=annual-2025-v3"
+     "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
    ];
    for(const url of overlays){
      try{
@@ -541,11 +538,8 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- window.__FESTIVALES__={editions:[]};
- if(FESTIVAL_DIRECT){
-   const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1990-v38");
-   window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
- }
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1990-v38");
+ window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
@@ -590,7 +584,7 @@ function sourceOf(r){
 function sourceLabel(s){return s==='fa'?'FilmAffinity':s==='tmdb'?'TMDb':s==='imdb'?'IMDb':s==='pending'?'Revisar':'Catalogada'}
 const dupKey=r=>norm(r.t)+'|'+r.y;
 const dupCounts={}; DATA.forEach(r=>dupCounts[dupKey(r)]=(dupCounts[dupKey(r)]||0)+1);
-const isDup=r=>Boolean(r&&r.dup)||dupCounts[dupKey(r)]>1;
+const isDup=r=>dupCounts[dupKey(r)]>1;
 function countriesOf(r){return (r.pais||'').split('/').map(x=>x.trim()).filter(Boolean)}
 function genresOf(r){return (r.g||'').split('/').map(x=>x.trim()).filter(Boolean)}
 function fmt(n){return Number(n||0).toLocaleString('es-ES')}
@@ -708,7 +702,7 @@ function chooseSpot(){
  $('spotDesc').textContent=[r.g,r.dur?`${r.dur} min`:null,r.res,r.sz].filter(Boolean).join(' · ');
 }
 $('spotOpen').onclick=()=>currentSpot&&openModal(currentSpot);$('spotAgain').onclick=chooseSpot;
-$('randomBtn').onclick=()=>{location.href='?view=collection&random=1'};
+$('randomBtn').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');chooseSpot();document.querySelector('.spotlight').style.display='';$('spot').scrollIntoView({behavior:'smooth',block:'center'})};
 
 function reset(){activeFestival=null;['q','year','genre','country','source','status','quality','duration'].forEach(id=>$(id).value='');$('sort').value='year_desc';render()}
 $('resetBtn').onclick=reset;
@@ -723,22 +717,16 @@ let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTime
 ['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
 
 
-$('homeCollection').onclick=()=>{location.href='?view=collection'};
-$('homeFestivals').onclick=()=>{location.href='?view=festivals'};
-$('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.trim()){location.href='?view=collection&q='+encodeURIComponent($('homeQ').value.trim())}});
-$('tabHome').onclick=()=>{if(FESTIVAL_DIRECT||COLLECTION_DIRECT){location.href=location.pathname;return;}setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
+$('homeCollection').onclick=()=>{document.body.classList.remove('homeMode');$('tabCollection').click();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)};
+$('homeFestivals').onclick=()=>{document.body.classList.remove('homeMode');$('tabFestivals').click()};
+$('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.trim()){const v=$('homeQ').value.trim();document.body.classList.remove('homeMode');$('tabCollection').click();$('q').value=v;render();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)}});
+$('tabHome').onclick=()=>{if(FESTIVAL_DIRECT){location.href=location.pathname;return;}setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
 
-$('tabFestivals').onclick=()=>{if(COLLECTION_DIRECT){location.href='?view=festivals';return;}document.body.classList.remove('homeMode');setFestivalChrome(true);$('tabHome').classList.remove('active');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
-$('tabCollection').onclick=()=>{if(!COLLECTION_DIRECT){location.href='?view=collection';return;}document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
+$('tabFestivals').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(true);$('tabHome').classList.remove('active');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
+$('tabCollection').onclick=()=>{if(FESTIVAL_DIRECT){location.href='?view=collection';return;}document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
 
 
-if(INITIAL_PARAMS.get('view')==='festivals') $('tabFestivals').click();
-if(COLLECTION_DIRECT){
- const initialQ=INITIAL_PARAMS.get('q')||'';
- if(initialQ)$('q').value=initialQ;
- $('tabCollection').click();
- if(INITIAL_PARAMS.get('random')==='1') setTimeout(()=>{document.querySelector('.spotlight').style.display='';$('spot').scrollIntoView({behavior:'smooth',block:'center'})},80);
-}
+if(new URLSearchParams(location.search).get('view')==='festivals') $('tabFestivals').click();
 
 
 function setFestivalChrome(on){
@@ -782,17 +770,15 @@ let FESTIVAL_INDEX=DATA.map((r,idx)=>({
 }));
 async function ensureFullCatalog(){
  if(catalogoCargado)return;
- const rr=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab5");
+ const rr=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
  if(!rr.ok)throw new Error("HTTP "+rr.status);
- let full=await rr.json();
- full=full.filter(row=>Number(row&&row.y)!==2025);
+ const full=await rr.json();
  for(const url of [
    "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
-   "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
-   "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=annual-2025-v3"
+   "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
  ]){
    try{
      const ar=await fetch(url);
@@ -1163,7 +1149,7 @@ if(directParams.get('view')==='festivals'){
  if(directYear){ openFestivalYear(directYear); if(directParams.get('pending')==='year') renderAnnualMissing(directYear); }
 }
 
-if(COLLECTION_DIRECT){chooseSpot();render();}
+if(!FESTIVAL_DIRECT){chooseSpot();render();}
 
 }catch(e){console.error("Error en /lab/:",e);}
 }
