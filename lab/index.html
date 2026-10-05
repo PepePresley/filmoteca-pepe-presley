@@ -943,7 +943,7 @@ function renderOscarCategory(fy,cat){
      const r=DATA[x.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';
      const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
      const ribbon='<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div>';
-     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openFestivalMovie(ft.idx);grid.appendChild(el);
+     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openFestivalMovie(x.idx);grid.appendChild(el);
    }else{
      const el=document.createElement('article');el.className='festMovie festMissing';
      el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.f.title)+'<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.f.title)+'</div></div>';grid.appendChild(el);
