@@ -1,0 +1,1064 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Filmoteca Pepe Presley</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+:root{
+  --bg:#0b0b0c;--bg2:#121214;--panel:#171719;--panel2:#1e1e21;
+  --line:#2b2b2f;--text:#f4f0e6;--muted:#aaa59b;--gold:#d7b66f;
+  --gold2:#9d7b39;--green:#81c995;--orange:#e5a85c;--red:#df7a7a;--blue:#7ea7ff;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:radial-gradient(circle at 50% -20%,#2b2418 0,#111113 28%,#09090a 65%);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+button,select,input{font:inherit}
+a{color:inherit}
+.hero{min-height:390px;display:flex;align-items:flex-end;padding:52px 5vw 44px;border-bottom:1px solid #28251f;position:relative;overflow:hidden}
+.hero:before{content:"";position:absolute;inset:0;background:
+ linear-gradient(90deg,rgba(5,5,6,.97) 0%,rgba(5,5,6,.78) 45%,rgba(5,5,6,.1) 100%),
+ radial-gradient(circle at 80% 35%,rgba(215,182,111,.19),transparent 34%)}
+.hero:after{content:"";position:absolute;right:-4%;top:-20%;width:48vw;height:48vw;border:1px solid rgba(215,182,111,.13);border-radius:50%;box-shadow:0 0 0 55px rgba(215,182,111,.025),0 0 0 110px rgba(215,182,111,.02)}
+.heroInner{position:relative;z-index:1;max-width:1080px}
+.kicker{font-size:12px;letter-spacing:.32em;text-transform:uppercase;color:var(--gold);font-weight:700}
+h1{font-family:Georgia,"Times New Roman",serif;font-size:clamp(48px,7vw,90px);line-height:.95;margin:12px 0 16px;font-weight:500;letter-spacing:-.03em}
+.subtitle{max-width:720px;color:#d0cbc1;font-size:18px;line-height:1.55}
+.heroActions{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+.btn{border:1px solid #4a4334;background:#151411;color:var(--text);padding:11px 16px;border-radius:999px;cursor:pointer;transition:.2s}
+.btn:hover{border-color:var(--gold);transform:translateY(-1px)}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#111;font-weight:750}
+.metrics{max-width:1500px;margin:-22px auto 0;padding:0 4vw;position:relative;z-index:3;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.metric{background:linear-gradient(180deg,#1b1a18,#121214);border:1px solid #34302a;border-radius:16px;padding:17px 18px;box-shadow:0 18px 50px rgba(0,0,0,.25)}
+.metric b{display:block;font-family:Georgia,serif;font-size:26px;color:#fff;font-weight:500}.metric span{font-size:11px;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.sticky{position:sticky;top:0;z-index:20;background:rgba(10,10,11,.93);backdrop-filter:blur(18px);border-bottom:1px solid var(--line);padding:12px 4vw}
+.toolbar{max-width:1500px;margin:auto;display:grid;grid-template-columns:minmax(260px,1.8fr) repeat(4,minmax(120px,.7fr));gap:8px}
+.searchWrap{position:relative}.searchWrap:before{content:"⌕";position:absolute;left:13px;top:8px;color:var(--gold);font-size:22px}
+input,select{width:100%;background:#141416;border:1px solid #303035;color:var(--text);border-radius:11px;padding:11px 12px;outline:none}
+input{padding-left:39px}input:focus,select:focus{border-color:var(--gold2);box-shadow:0 0 0 3px rgba(215,182,111,.08)}
+.filters2{max-width:1500px;margin:8px auto 0;display:flex;gap:7px;flex-wrap:wrap}
+.filters2 select{width:auto;min-width:145px}
+.quick{max-width:1500px;margin:22px auto 8px;padding:0 4vw}
+.sectionTitle{font-family:Georgia,serif;font-size:25px;font-weight:500;margin:0 0 10px}
+.sectionNote{color:var(--muted);font-size:13px;margin-bottom:13px}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#161619;border:1px solid #303034;color:#d9d4ca;border-radius:999px;padding:8px 12px;cursor:pointer;font-size:12px}
+.chip:hover,.chip.active{border-color:var(--gold);color:var(--gold)}
+.spotlight{max-width:1500px;margin:22px auto;padding:0 4vw}
+.spot{border:1px solid #34302a;border-radius:22px;overflow:hidden;display:grid;grid-template-columns:220px 1fr;min-height:310px;background:linear-gradient(115deg,#201d17,#131316 45%,#0d0d0f)}
+.spotPoster{background:#111 center/cover no-repeat;min-height:310px}
+.spotInfo{padding:28px 30px;display:flex;flex-direction:column;justify-content:center}
+.spotInfo .eyebrow{color:var(--gold);font-size:11px;text-transform:uppercase;letter-spacing:.15em}
+.spotInfo h2{font-family:Georgia,serif;font-size:36px;margin:7px 0 7px;font-weight:500}.spotMeta{color:#c3bdb3;font-size:14px;line-height:1.55}.spotDesc{color:var(--muted);font-size:13px;margin-top:12px}
+.catalog{max-width:1500px;margin:24px auto 80px;padding:0 4vw}
+.catalogHead{display:flex;align-items:end;justify-content:space-between;gap:16px;margin-bottom:14px}.count{color:var(--muted);font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(176px,1fr));gap:15px}
+.card{background:linear-gradient(180deg,#19191c,#121214);border:1px solid #29292d;border-radius:14px;overflow:hidden;cursor:pointer;transition:.18s;position:relative}
+.card:hover{transform:translateY(-4px);border-color:#554a34;box-shadow:0 16px 34px rgba(0,0,0,.3)}
+.poster{aspect-ratio:2/3;background:#111 center/cover no-repeat;position:relative}.poster.none{display:flex;align-items:center;justify-content:center;color:#555;font-family:Georgia,serif;font-size:13px;padding:15px;text-align:center}
+.sourceBadge{position:absolute;top:8px;left:8px;padding:4px 7px;border-radius:6px;font-size:9px;font-weight:800;letter-spacing:.07em;background:rgba(10,10,10,.86);backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.15)}
+.sourceBadge.fa{color:#ffd978;border-color:#806b31}.sourceBadge.tmdb{color:#7fd7b1;border-color:#2c6750}.sourceBadge.imdb{color:#f1cf55;border-color:#78651f}.sourceBadge.pending{color:#ff9a78;border-color:#79412e}
+.dupBadge{position:absolute;top:8px;right:8px;background:#802f35;color:#ffd9db;padding:4px 7px;border-radius:6px;font-size:9px;font-weight:800}
+.cardInfo{padding:10px 11px 12px}.title{font-size:13px;font-weight:700;line-height:1.28;margin-bottom:4px}.original{font-size:11px;color:#88847c;font-style:italic;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.meta{font-size:11px;color:#aaa69f;margin-top:4px;line-height:1.4}.micro{display:flex;gap:5px;flex-wrap:wrap;margin-top:8px}.tag{font-size:9px;border:1px solid #333338;color:#aaa;padding:3px 5px;border-radius:5px}
+.empty{text-align:center;color:var(--muted);padding:70px 20px}
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.82);z-index:50;display:none;align-items:center;justify-content:center;padding:20px}.modal.show{display:flex}
+.modalCard{width:min(880px,96vw);max-height:90vh;overflow:auto;background:#151518;border:1px solid #3b372f;border-radius:22px;box-shadow:0 30px 100px #000;display:grid;grid-template-columns:250px 1fr}
+.modalPoster{min-height:380px;background:#0e0e0f center/cover no-repeat}.modalBody{padding:28px 30px;position:relative}.close{position:absolute;right:18px;top:16px;border:0;background:transparent;color:#aaa;font-size:27px;cursor:pointer}.modalBody h2{font-family:Georgia,serif;font-size:34px;font-weight:500;margin:10px 30px 7px 0}.modalOrig{color:#aaa;font-style:italic}.detailGrid{display:grid;grid-template-columns:130px 1fr;gap:8px 14px;font-size:13px;margin-top:20px}.detailGrid .k{color:#817d75}.detailGrid .v{color:#ddd8ce}.reference{display:inline-block;margin-top:22px;text-decoration:none;background:var(--gold);color:#111;padding:10px 14px;border-radius:9px;font-weight:750}
+footer{border-top:1px solid #242426;color:#77736c;text-align:center;padding:35px 20px;font-size:12px}
+@media(max-width:900px){.metrics{grid-template-columns:repeat(2,1fr)}.toolbar{grid-template-columns:1fr 1fr}.searchWrap{grid-column:1/-1}.spot{grid-template-columns:140px 1fr}.spotPoster{min-height:240px}.modalCard{grid-template-columns:1fr}.modalPoster{display:none}}
+@media(max-width:520px){.metrics{grid-template-columns:1fr 1fr}.metric:last-child{grid-column:1/-1}.toolbar{grid-template-columns:1fr}.searchWrap{grid-column:auto}.spot{grid-template-columns:1fr}.spotPoster{height:330px}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.hero{min-height:330px}.subtitle{font-size:15px}}
+
+.tabsBar{max-width:1500px;margin:22px auto 0;padding:0 4vw;display:flex;gap:8px}
+.tabBtn{border:1px solid #343034;background:#151517;color:#d8d3ca;padding:10px 15px;border-radius:999px;cursor:pointer}
+.tabBtn.active{border-color:var(--gold);color:#111;background:var(--gold);font-weight:800}
+.festivalHub{max-width:1500px;margin:18px auto 6px;padding:0 4vw;display:none}
+.festivalHub.show{display:block}
+.festCard{background:linear-gradient(120deg,#211b12,#151518 45%,#101012);border:1px solid #4b402a;border-radius:20px;padding:24px;display:grid;grid-template-columns:1fr auto;gap:20px;align-items:center}
+.festEyebrow{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold)}
+.festTitle{font-family:Georgia,serif;font-size:32px;margin:5px 0 7px}
+.festMeta{color:#bbb4a7;font-size:14px;line-height:1.5}
+.festScore{text-align:center;min-width:150px}.festScore b{font-family:Georgia,serif;font-size:44px;font-weight:500;color:#fff;display:block}.festScore span{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.1em}
+.festivalBadge{display:inline-block;margin-top:8px;border:1px solid #7c6535;color:#e7c97e;padding:5px 8px;border-radius:7px;font-size:10px;font-weight:800}
+.awardBadge{display:inline-block;margin-top:8px;margin-left:5px;border:1px solid #665323;background:#2a2313;color:#ffd978;padding:5px 8px;border-radius:7px;font-size:10px;font-weight:800}
+@media(max-width:650px){.festCard{grid-template-columns:1fr}.festScore{text-align:left}}
+
+
+.missingCard{background:linear-gradient(180deg,#231516,#141416);border:1px dashed #7f3c42;border-radius:14px;overflow:hidden;position:relative}
+.missingPoster{aspect-ratio:2/3;display:flex;align-items:center;justify-content:center;text-align:center;padding:18px;background:
+radial-gradient(circle at 50% 35%,rgba(180,70,78,.17),transparent 38%),
+linear-gradient(180deg,#171013,#0e0e10);color:#c69a9e;font-family:Georgia,serif;font-size:16px}
+.missingBadge{position:absolute;top:8px;left:8px;background:#702f35;color:#ffe3e5;border:1px solid #9e4c54;padding:5px 7px;border-radius:6px;font-size:9px;font-weight:900;letter-spacing:.06em}
+.missingInfo{padding:10px 11px 13px}
+.missingInfo .title{color:#f1d9db}
+.missingInfo .meta{color:#b99094}
+.missingHint{margin-top:8px;font-size:10px;color:#d8a0a5;border-top:1px solid #3a2427;padding-top:8px}
+
+
+.selectionBadge{display:inline-block;margin-top:8px;margin-left:5px;border:1px solid #4f4b43;background:#1b1a18;color:#c6c0b4;padding:5px 8px;border-radius:7px;font-size:10px;font-weight:800}
+
+
+.festGridYears{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+.yearFest{min-height:180px}
+
+
+/* LAB festival browser — visual pilot */
+.festivalHub{max-width:1600px;margin:18px auto 8px;padding:0 3vw}
+.festivalShell{display:grid;grid-template-columns:235px minmax(0,1fr);min-height:590px;border:1px solid #2d2a25;border-radius:18px;overflow:hidden;background:#0e0f11;box-shadow:0 28px 90px rgba(0,0,0,.28)}
+.festSide{padding:22px 12px;background:linear-gradient(180deg,#111214,#0b0c0e);border-right:1px solid #292722}
+.festSideTitle{font-family:Georgia,serif;font-size:21px;margin:0 8px 14px;color:#f1eadc}
+.festNav{display:grid;gap:5px}.festNav button{width:100%;text-align:left;border:0;background:transparent;color:#c5c0b7;padding:10px 12px;border-radius:9px;cursor:pointer;font-size:13px}
+.festNav button.active{background:linear-gradient(90deg,#493a18,#2b2518);color:#f5d77f;font-weight:800}
+.festNav button.locked{opacity:.45;cursor:default}.festNav .ico{display:inline-block;width:24px;text-align:center;margin-right:5px}
+.festDivider{height:1px;background:#292722;margin:18px 7px}
+.festSideLabel{font-family:Georgia,serif;font-size:16px;color:#f0eadf;margin:0 9px 10px}
+.festYears{display:grid;gap:3px;max-height:265px;overflow:auto;padding-right:3px}
+.festYears button{border:0;background:transparent;color:#aaa49a;text-align:left;padding:7px 12px;border-radius:8px;cursor:pointer}
+.festYears button:hover,.festYears button.active{background:#3c321d;color:#f4d276;font-weight:800}
+.festSections{display:grid;gap:4px}.festSections div{padding:7px 12px;color:#8e8981;font-size:12px;border-radius:7px}.festSections .active{background:#2b261a;color:#e8ca76}
+.festMain{min-width:0}
+.festHero{min-height:215px;padding:34px 38px;display:flex;align-items:flex-end;background:
+linear-gradient(90deg,rgba(9,10,12,.97) 0%,rgba(9,10,12,.72) 55%,rgba(9,10,12,.45) 100%),
+radial-gradient(circle at 78% 18%,rgba(205,164,72,.24),transparent 35%),
+linear-gradient(135deg,#20190e,#101216 60%,#251c0e)}
+.festPalm{font-size:46px;line-height:1;margin-bottom:10px;color:#e8c76e}
+.festHero h2{font-family:Georgia,serif;font-weight:500;font-size:43px;margin:0 0 5px;color:#fff}
+.festHeroSub{font-family:Georgia,serif;font-size:20px;color:#eee7db}
+.festHeroMeta{margin-top:8px;color:#b7b0a3;font-size:13px}.festHeroMeta b{color:#e9cc78}
+.festWelcome{padding:28px 34px}
+.festWelcome h3{font-family:Georgia,serif;font-size:25px;font-weight:500;margin:0 0 8px}
+.festWelcome p{color:#aaa49a;line-height:1.6;max-width:760px;margin:0 0 20px}
+.festYearCards{display:grid;grid-template-columns:repeat(4,minmax(135px,1fr));gap:10px}
+.festMini{border:1px solid #353129;background:#151515;color:#ddd4c4;border-radius:11px;padding:14px;text-align:left;cursor:pointer}
+.festMini:hover{border-color:#8a7138;background:#1d1a13}.festMini b{display:block;color:#f1cf76;font-size:18px;margin-bottom:4px}.festMini span{font-size:11px;color:#918b82}
+@media(max-width:850px){.festivalShell{grid-template-columns:1fr}.festSide{border-right:0;border-bottom:1px solid #292722}.festNav{grid-template-columns:repeat(2,1fr)}.festYears{grid-template-columns:repeat(4,1fr);max-height:none}.festHero{padding:26px}.festHero h2{font-size:34px}.festYearCards{grid-template-columns:repeat(2,1fr)}}
+
+
+/* Festival mode: keep collection controls out of the festival browser */
+body.festivalMode .hero,body.festivalMode .metrics,body.festivalMode .sticky,body.festivalMode .spotlight,body.festivalMode .quick,body.festivalMode #catalogo{display:none!important}
+body.festivalMode .tabsBar{margin-top:10px}
+body.festivalMode .festivalHub{margin-top:10px}
+@media(max-width:850px){
+ body.festivalMode .tabsBar{padding:0 14px;margin-top:8px}
+ body.festivalMode .festivalHub{padding:0 10px;margin-top:8px}
+ .festivalShell{border-radius:12px;min-height:0}
+ .festSide{padding:12px 10px}
+ .festSideTitle{font-size:18px;margin:2px 6px 10px}
+ .festNav{display:flex;gap:6px;overflow-x:auto;padding-bottom:3px}
+ .festNav button{width:auto;min-width:max-content;padding:8px 10px}
+ .festDivider{margin:10px 5px}
+ .festSideLabel{font-size:14px;margin:0 6px 7px}
+ .festYears{display:flex;gap:5px;overflow-x:auto;max-height:none;padding:0 0 4px}
+ .festYears button{min-width:62px;text-align:center;padding:7px 9px;border:1px solid #292720}
+ .festSections{display:flex;gap:5px;overflow-x:auto}
+ .festSections div{min-width:max-content;border:1px solid #292720;padding:7px 9px}
+ .festHero{min-height:170px;padding:22px 20px}
+ .festPalm{font-size:34px;margin-bottom:7px}
+ .festHero h2{font-size:32px}
+ .festHeroSub{font-size:16px}
+ .festHeroMeta{font-size:12px}
+ .festWelcome{padding:20px}
+ .festWelcome h3{font-size:21px}
+ .festWelcome p{font-size:13px;margin-bottom:14px}
+ .festYearCards{display:none}
+}
+
+
+.tabsBar{position:sticky;top:0;z-index:60;background:rgba(9,9,10,.96);backdrop-filter:blur(14px);padding-top:10px;padding-bottom:10px;border-bottom:1px solid #26231e}
+@media(max-width:850px){
+ .tabsBar{margin:0!important;padding:10px 12px!important;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+ .tabBtn{font-size:14px;padding:11px 8px}
+ body.festivalMode .tabsBar{margin:0!important}
+}
+
+
+.festEdition{padding:22px 26px 30px;border-top:1px solid #24231f}
+.festEditionHead{display:flex;align-items:end;justify-content:space-between;gap:14px;margin-bottom:16px}
+.festEditionHead h3{font-family:Georgia,serif;font-size:27px;font-weight:500;margin:0}
+.festEditionCount{font-size:12px;color:#aaa49a}.festEditionCount b{color:#e8ca76}
+.annualMissingLink,.annualBack{border:0;background:transparent;color:#c99a9f;padding:0 2px;cursor:pointer;font-size:inherit;text-decoration:underline;text-decoration-color:#6d4448;text-underline-offset:3px}
+.annualMissingLink:hover,.annualBack:hover{color:#f0c2c6}
+.annualSources{margin-top:7px;color:#d5b86f;font-size:9px;line-height:1.35;text-transform:uppercase;letter-spacing:.05em}
+.festMovieGrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:12px}
+.festMovie{background:#151517;border:1px solid #302e2a;border-radius:12px;overflow:hidden;cursor:pointer;transition:.15s transform,.15s border-color}
+.festMovie:hover{transform:translateY(-2px);border-color:#746139}
+.festMoviePoster{aspect-ratio:2/3;background:#0f1011 center/cover no-repeat;position:relative}
+.festMoviePoster.none{display:flex;align-items:center;justify-content:center;padding:16px;text-align:center;font-family:Georgia,serif;color:#aaa}
+.festAward{position:absolute;left:7px;right:7px;bottom:7px;background:rgba(17,17,18,.92);border:1px solid #80672d;color:#f2d477;border-radius:7px;padding:6px 7px;font-size:10px;font-weight:800;line-height:1.25}
+.festAward.selection{border-color:#555;color:#ddd;background:rgba(24,24,26,.92)}
+.festMovieInfo{padding:10px}.festMovieTitle{font-weight:750;font-size:13px;line-height:1.25;color:#f1eee8}
+.festMovieMeta{font-size:10px;color:#9b958b;margin-top:5px;line-height:1.35}
+.festMissing{border-color:#753c42;background:#171113}.festMissing .festMoviePoster{background:radial-gradient(circle at 50% 35%,rgba(180,70,78,.18),transparent 40%),#100d0f;display:flex;align-items:center;justify-content:center;padding:18px;text-align:center;color:#c89da1;font-family:Georgia,serif}
+.festMissingFlag{position:absolute;left:7px;top:7px;background:#702f35;color:#ffe3e5;border:1px solid #9e4c54;padding:5px 6px;border-radius:6px;font-size:8px;font-weight:900}
+@media(max-width:850px){.festEdition{padding:18px 12px 24px}.festEditionHead{align-items:start;flex-direction:column;margin-bottom:12px}.festEditionHead h3{font-size:23px}.festMovieGrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.festMovieTitle{font-size:12px}.festMovieMeta{font-size:9px}.festAward{font-size:9px}}
+
+
+@media(min-width:1100px){
+ body.festivalMode .festivalHub{max-width:1800px;padding:0 18px;margin-top:10px}
+ body.festivalMode .festivalShell{grid-template-columns:210px minmax(0,1fr);min-height:720px;border-radius:12px}
+ body.festivalMode .festSide{padding:20px 10px}
+ body.festivalMode .festHero{min-height:190px;padding:28px 34px}
+ body.festivalMode .festHero h2{font-size:42px}
+ body.festivalMode .festPalm{font-size:40px}
+ body.festivalMode .festEdition{padding:18px 20px 28px}
+ body.festivalMode .festEditionHead{margin-bottom:12px}
+ body.festivalMode .festEditionHead h3{display:none}
+ body.festivalMode .festEditionCount{font-size:13px}
+ body.festivalMode .festMovieGrid{grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+ body.festivalMode .festMovie{border-radius:9px}
+ body.festivalMode .festMovieInfo{padding:9px}
+ body.festivalMode .festMovieTitle{font-size:12px}
+ body.festivalMode .festMovieMeta{font-size:9px}
+ body.festivalMode .festAward{font-size:9px;padding:5px 6px}
+}
+@media(min-width:1450px){
+ body.festivalMode .festMovieGrid{grid-template-columns:repeat(8,minmax(0,1fr))}
+}
+
+
+.festIcon{width:25px;height:25px;vertical-align:middle;margin-right:8px;color:currentColor;flex:0 0 auto}
+.festNav button{display:flex;align-items:center}
+.festTitleIcon{width:25px;height:25px;vertical-align:-6px;margin-right:7px;color:#e5c46d}
+.festHeroIcon{width:72px;height:72px;color:#e5c46d;filter:drop-shadow(0 0 16px rgba(226,191,98,.18))}
+.festPalm{height:76px;display:flex;align-items:center}
+@media(max-width:850px){.festHeroIcon{width:52px;height:52px}.festPalm{height:57px}.festIcon{width:21px;height:21px}}
+
+
+.festIcon{width:31px!important;height:24px!important}
+.festTitleIcon{width:34px!important;height:27px!important}
+.festHeroIcon{width:112px!important;height:82px!important}
+.festPalm{height:88px!important}
+@media(max-width:850px){.festIcon{width:27px!important;height:22px!important}.festHeroIcon{width:82px!important;height:60px!important}.festPalm{height:66px!important}}
+
+
+.miniFestIcon{width:19px;height:14px;vertical-align:-3px;margin-right:4px;color:#e7c66c}
+.awardMark{display:inline-block;font-size:8px;margin-right:5px;color:#b9b4aa;vertical-align:1px}
+.awardMark.laureate{color:#e8c760}
+.festAward .awardMark{font-size:7px}
+
+
+
+/* Festival card badges: typography only. Festival identity belongs to the page chrome, not every poster. */
+.festAward svg,.festAward .miniFestIcon,.festMovie .miniFestIcon,.micro .miniFestIcon,.festivalBadge .miniFestIcon{display:none!important}
+.festAward{letter-spacing:.01em}
+
+.awardGlyph{display:inline-flex;align-items:center;justify-content:center;vertical-align:-1px;margin-right:6px;color:#e8c760;flex:0 0 auto}
+.medalGlyph{width:11px;height:11px;border:2px solid #e8c760;border-radius:50%;box-sizing:border-box;position:relative}
+.medalGlyph:before,.medalGlyph:after{content:"";position:absolute;top:-7px;width:4px;height:7px;background:#e8c760}
+.medalGlyph:before{left:0;transform:skew(-18deg)}.medalGlyph:after{right:0;transform:skew(18deg)}
+.palmGlyph{font-family:Georgia,serif;font-size:18px;line-height:10px;transform:rotate(-18deg)}
+.competitionGlyph{width:13px;height:9px;border:1px solid #b9b4aa;color:transparent;position:relative}
+.competitionGlyph:before{content:"";position:absolute;left:-1px;top:-5px;width:13px;height:4px;border:1px solid #b9b4aa;transform:skew(-18deg)}
+.festAward{display:flex;align-items:center}
+
+
+.badgeIcon{display:inline-block;vertical-align:-2px;margin-right:7px;flex:0 0 auto}
+.medalIcon{width:12px;height:12px;border-radius:50%;background:#e6c34f;box-shadow:inset 0 0 0 2px #f4dc7b;position:relative}
+.medalIcon:before,.medalIcon:after{content:"";position:absolute;top:-5px;width:4px;height:6px;background:#c99f2d}
+.medalIcon:before{left:1px;transform:skew(-18deg)}.medalIcon:after{right:1px;transform:skew(18deg)}
+.slateIcon{width:14px;height:10px;border:1px solid #aaa;border-radius:1px;position:relative}
+.slateIcon:before{content:"";position:absolute;left:-1px;top:-5px;width:14px;height:4px;border:1px solid #aaa;transform:skew(-18deg)}
+.laurelIcon{font-family:Georgia,serif;font-size:19px;line-height:11px;color:#e6c34f;transform:rotate(-18deg)}
+
+/* Isolated festival ribbon v2 — intentionally independent of legacy .festAward/.tag */
+.festivalRibbon{position:absolute;left:8px;right:8px;bottom:8px;min-height:34px;box-sizing:border-box;display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:8px;background:rgba(15,15,16,.94);font-size:11px;font-weight:800;line-height:1.18;z-index:4}
+.festivalRibbon.winner,.festivalRibbon.palme{border:1px solid #9b7925;color:#f3d56f}
+.festivalRibbon.selection{border:1px solid #555;color:#ddd}
+.ribbonMedal{width:14px;height:14px;border-radius:50%;background:#e7c44e;box-shadow:inset 0 0 0 2px #f7df80;position:relative;flex:0 0 14px}
+.ribbonMedal:before,.ribbonMedal:after{content:"";position:absolute;top:-5px;width:4px;height:6px;background:#bd9228}.ribbonMedal:before{left:1px;transform:skew(-18deg)}.ribbonMedal:after{right:1px;transform:skew(18deg)}
+.ribbonLaurel{font-family:Georgia,serif;font-size:21px;color:#e7c44e;line-height:14px;transform:rotate(-18deg);flex:0 0 16px}
+.ribbonSlate{width:15px;height:10px;border:1px solid #aaa;position:relative;flex:0 0 15px}.ribbonSlate:before{content:"";position:absolute;left:-1px;top:-5px;width:15px;height:4px;border:1px solid #aaa;transform:skew(-18deg)}
+
+
+.ribbonEmoji{display:inline-block;font-size:17px;line-height:1;flex:0 0 auto}
+
+.classicAwardIcon{display:inline-flex;align-items:center;justify-content:center;min-width:20px;font-size:16px;line-height:1;flex:0 0 auto}
+.classicAwardIcon .ribbonLaurel{font-family:Georgia,serif;font-size:21px;color:#e7c44e;line-height:1;transform:rotate(-18deg)}
+
+.palmeMini{width:21px;height:21px;display:block;overflow:visible}
+.palmeMini path{fill:none;stroke:#e7c44e;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+
+
+/* Mobile festival browser: fixed-width viewport + compact poster grid */
+@media(max-width:600px){
+ html,body{max-width:100%;overflow-x:hidden}
+ body.festivalMode .festivalHub,
+ body.festivalMode .festivalShell,
+ body.festivalMode .festSide,
+ body.festivalMode .festMain,
+ body.festivalMode .festEdition{width:100%;max-width:100%;min-width:0;box-sizing:border-box;overflow-x:hidden}
+ body.festivalMode .festNav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:5px;overflow:visible}
+ body.festivalMode .festNav button{width:100%;min-width:0;padding:7px 8px;font-size:11px;white-space:normal}
+ body.festivalMode .festYears{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:4px;overflow:visible}
+ body.festivalMode .festYears button{min-width:0;width:100%;padding:6px 3px;font-size:11px}
+ body.festivalMode .festSections{display:flex;flex-wrap:wrap;gap:5px;overflow:visible}
+ body.festivalMode .festSections div{min-width:0;font-size:11px;padding:6px 7px}
+ body.festivalMode .festHero{min-width:0;padding:18px 14px}
+ body.festivalMode .festHero h2{font-size:28px}
+ body.festivalMode .festEdition{padding:14px 8px 22px}
+ body.festivalMode .festMovieGrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;width:100%;min-width:0}
+ body.festivalMode .festMovie{min-width:0;border-radius:7px}
+ body.festivalMode .festMovieInfo{padding:6px}
+ body.festivalMode .festMovieTitle{font-size:10px;line-height:1.2}
+ body.festivalMode .festMovieMeta{font-size:8px;margin-top:3px}
+ body.festivalMode .festAward{left:4px;right:4px;bottom:4px;padding:4px;font-size:7px;border-radius:5px;line-height:1.15}
+ body.festivalMode .festMissingFlag{font-size:6px;padding:3px 4px;left:4px;top:4px}
+}
+
+
+/* Portada limpia */
+.homeSearch{position:relative;max-width:760px;margin-top:30px}
+.homeSearch span{position:absolute;left:18px;top:11px;color:var(--gold);font-size:26px;z-index:2}
+.homeSearch input{font-size:17px;padding:16px 18px 16px 52px;border-radius:15px;background:rgba(18,18,20,.88);border-color:#49402f;box-shadow:0 16px 50px rgba(0,0,0,.22)}
+.homeDoors{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;max-width:980px;margin-top:22px}
+.homeDoor{min-height:118px;text-align:left;padding:20px;border-radius:18px;border:1px solid #3b352b;background:linear-gradient(145deg,rgba(31,29,25,.96),rgba(17,17,19,.96));color:var(--text);cursor:pointer;transition:.18s}
+.homeDoor:hover{transform:translateY(-3px);border-color:var(--gold);box-shadow:0 18px 45px rgba(0,0,0,.28)}
+.homeDoor b{display:block;font-family:Georgia,serif;font-size:22px;font-weight:500;margin-bottom:8px;color:#f5efe3}
+.homeDoor span{display:block;color:#aaa59b;font-size:12px;line-height:1.45}
+body.homeMode .hero{min-height:calc(100vh - 1px);align-items:center;padding-top:70px;padding-bottom:70px;border-bottom:0}
+body.homeMode .tabsBar,body.homeMode .metrics,body.homeMode .sticky,body.homeMode .festivalHub,body.homeMode .quick,body.homeMode .spotlight,body.homeMode #catalogo,body.homeMode footer{display:none!important}
+body:not(.homeMode):not(.festivalMode) .hero{display:none!important}
+body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
+.internalMetric{display:none!important}
+@media(max-width:850px){.homeDoors{grid-template-columns:1fr}.homeDoor{min-height:92px}.tabsBar{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:520px){body.homeMode .hero{min-height:100vh;padding:44px 20px}.homeHeroInner h1{font-size:52px}.homeSearch{margin-top:24px}.homeDoor b{font-size:19px}}
+
+</style>
+</head>
+<body class="homeMode">
+<svg aria-hidden="true" width="0" height="0" style="position:absolute;overflow:hidden"><defs>
+<symbol id="ico-cannes" viewBox="0 0 100 72">
+ <path d="M10 60C31 53 52 37 69 12" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round"/>
+ <path d="M19 55C10 52 6 47 4 40c9-1 16 1 22 7M29 49c-9-7-12-15-11-24 10 2 17 8 21 16M41 40c-6-10-6-20-2-29 9 5 14 13 14 23M54 31c-2-10 2-19 9-26 7 8 8 17 4 26M66 23c2-9 9-16 18-20 4 10 1 19-8 26M18 59c15 6 31 7 47 2" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+</symbol>
+<symbol id="ico-venice" viewBox="0 0 100 72">
+ <path d="M16 54h69M24 54V32l9-8 8 6 9-13 8 12 10-7 9 10v22" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linejoin="round"/>
+ <path d="M31 25c7-12 17-18 30-17l-7 8 12 2-9 7 10 5-15 3-10-6-11-2Z" fill="currentColor"/>
+ <path d="M30 54V39h10v15M57 54V37h11v17" fill="none" stroke="currentColor" stroke-width="3"/>
+</symbol>
+<symbol id="ico-berlin" viewBox="0 0 100 72">
+ <path d="M22 57c-4-13-3-25 4-35l9-8 11 3 8-7 11 6 7 13-4 10 7 9-8 8-13-4-9 8-12-6-11 3Z" fill="currentColor"/>
+ <path d="M34 22l-4-12 11 7M58 17l7-10 3 14" fill="currentColor"/>
+ <circle cx="39" cy="28" r="2.6" fill="#0e0f11"/>
+ <path d="M30 54l-3 12M57 53l5 12M68 38l13 2" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"/>
+</symbol>
+<symbol id="ico-ss" viewBox="0 0 100 72">
+ <circle cx="50" cy="36" r="27" fill="none" stroke="currentColor" stroke-width="3.2"/>
+ <circle cx="50" cy="36" r="17" fill="none" stroke="currentColor" stroke-width="3.2"/>
+ <circle cx="50" cy="36" r="6" fill="currentColor"/>
+ <path d="M50 4v15M50 53v15M18 36h15M67 36h15M27 13l11 11M62 48l11 11M73 13L62 24M38 48L27 59" stroke="currentColor" stroke-width="3.2"/>
+</symbol>
+<symbol id="ico-oscar" viewBox="0 0 100 72">
+ <circle cx="50" cy="10" r="7" fill="currentColor"/>
+ <path d="M43 18h14l5 21-8 11h-8l-8-11 5-21Z" fill="currentColor"/>
+ <path d="M46 48h8l5 11H41l5-11ZM36 63h28v5H36z" fill="currentColor"/>
+</symbol>
+</defs></svg>
+<div class="tabsBar">
+ <button class="tabBtn" id="tabHome">Inicio</button>
+ <button class="tabBtn active" id="tabCollection">Filmoteca</button>
+ <button class="tabBtn" id="tabFestivals">Festivales</button>
+</div>
+<section class="hero">
+ <div class="heroInner homeHeroInner">
+  <div class="kicker">Archivo personal de cine</div>
+  <h1>Filmoteca<br>Pepe Presley</h1>
+  <div class="subtitle">Décadas de cine, clásicos, rarezas y hallazgos. Busca una película o entra por una de las puertas de la colección.</div>
+  <div class="homeSearch"><span>⌕</span><input id="homeQ" type="text" placeholder="Busca una película, director, año…"></div>
+  <div class="homeDoors">
+   
+   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Óscar</span></button>
+   
+  </div>
+ </div>
+</section>
+
+<section class="metrics">
+ <div class="metric"><b id="mTotal">—</b><span>títulos</span></div>
+ <div class="metric internalMetric"><b id="mFA">—</b><span>referencias catalogadas</span></div>
+ <div class="metric"><b id="mPending">—</b><span>por revisar</span></div>
+ <div class="metric"><b id="mDup">—</b><span>entradas duplicadas</span></div>
+ <div class="metric"><b id="mHD">—</b><span>1080p o más</span></div>
+</section>
+
+<div class="sticky">
+ <div class="toolbar">
+  <div class="searchWrap"><input id="q" type="text" placeholder="Título, original, director, género, país…"></div>
+  <select id="year"><option value="">Todos los años</option></select>
+  <select id="genre"><option value="">Todos los géneros</option></select>
+  <select id="country"><option value="">Todos los países</option></select>
+  <select id="sort">
+    <option value="year_desc">Más nuevas primero</option>
+    <option value="year_asc">Más antiguas primero</option>
+    <option value="title">Título A–Z</option>
+    <option value="duration">Duración</option>
+    <option value="quality">Mejor calidad</option>
+  </select>
+ </div>
+ <div class="filters2">
+  <select id="source"><option value="">Cualquier fuente</option><option value="fa">FilmAffinity</option><option value="tmdb">TMDb</option><option value="imdb">IMDb</option><option value="other">Otra / sin identificar</option></select>
+  <select id="status"><option value="">Todo el estado</option><option value="ok">Catalogadas</option><option value="pending">Por revisar</option><option value="dup">Duplicadas</option></select>
+  <select id="quality"><option value="">Cualquier calidad</option><option value="fhd">1080p+</option><option value="hd">720p+</option><option value="sd">Menos de 700p</option></select>
+  <select id="duration"><option value="">Cualquier duración</option><option value="short">Cortos ≤40 min</option><option value="compact">41–89 min</option><option value="feature">90–120 min</option><option value="long">Más de 120 min</option></select>
+  <button class="btn" id="resetBtn">Limpiar filtros</button>
+ </div>
+</div>
+
+
+
+
+<section class="festivalHub" id="festivalHub">
+ <div class="festivalShell">
+  <aside class="festSide">
+   <div class="festSideTitle"><svg class="festTitleIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg> Festivales</div>
+   <div class="festNav">
+    <button class="festivalSelectBtn active" data-festival="Cannes"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg>Cannes</button>
+    <button class="festivalSelectBtn" data-festival="Venecia"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
+    <button class="festivalSelectBtn" data-festival="Berlín"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
+    <button class="festivalSelectBtn" data-festival="San Sebastián"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
+    <button class="festivalSelectBtn" data-festival="Oscar"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
+   </div>
+   <div class="festDivider"></div>
+   <div class="festSideLabel" id="festYearLabel">Año (Cannes)</div>
+   <div class="festYears" id="festYears">
+    <button class="festivalYearBtn" data-year="2024">2024</button>
+    <button class="festivalYearBtn" data-year="2022">2022</button>
+    <button class="festivalYearBtn" data-year="2021">2021</button>
+    <button class="festivalYearBtn" data-year="1999">1999</button>
+    <button class="festivalYearBtn" data-year="1998">1998</button>
+    <button class="festivalYearBtn" data-year="1997">1997</button>
+    <button class="festivalYearBtn" data-year="1996">1996</button>
+    <button class="festivalYearBtn" data-year="1995">1995</button>
+    <button class="festivalYearBtn" data-year="1994">1994</button>
+    <button class="festivalYearBtn" data-year="1993">1993</button>
+    <button class="festivalYearBtn" data-year="1992">1992</button>
+    <button class="festivalYearBtn" data-year="1991">1991</button>
+    <button class="festivalYearBtn" data-year="1990">1990</button>
+   </div>
+   <div class="festDivider"></div>
+   <div class="festSideLabel">Sección</div>
+   <div class="festSections" id="festSections"><div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div></div>
+  </aside>
+  <div class="festMain">
+   <div class="festHero">
+    <div>
+     <div class="festPalm"><svg class="festHeroIcon" viewBox="0 0 64 64"><use id="festHeroUse" href="#ico-cannes"></use></svg></div>
+     <h2 id="festDisplayTitle">Festival de Cannes</h2>
+     <div class="festHeroSub" id="festDisplaySub">Archivo de selecciones y palmarés</div>
+     <div class="festHeroMeta" id="festDisplayMeta">Cruce directo con las <b>52.929 películas</b> de Filmoteca Pepe Presley</div>
+    </div>
+   </div>
+   <div class="festWelcome" id="festWelcome">
+    <h3>Elige un año de Cannes</h3>
+    <p>Verás la competición oficial como una colección visual: películas presentes en tu filmoteca, premios y títulos pendientes de localizar. Este es ya el nuevo diseño sobre el que construiremos el piloto completo de 2024.</p>
+    <div class="festYearCards">
+     <button class="festMini festivalYearBtn" data-year="2024"><b>2024</b><span class="festMiniCount">calculando cruce…</span></button>
+     <button class="festMini festivalYearBtn" data-year="1997"><b>1997</b><span>19 de 20 en tu filmoteca</span></button>
+     <button class="festMini festivalYearBtn" data-year="1998"><b>1998</b><span>22 de 22 en tu filmoteca</span></button>
+     <button class="festMini festivalYearBtn" data-year="2021"><b>2021</b><span>6 de 9 en tu filmoteca</span></button>
+     <button class="festMini festivalYearBtn" data-year="2022"><b>2022</b><span>6 de 10 en tu filmoteca</span></button>
+    </div>
+   </div>
+   <div class="festEdition" id="festEdition" style="display:none"><div class="festEditionHead"><h3 id="festEditionTitle"></h3><div class="festEditionCount" id="festEditionCount"></div></div><div class="festMovieGrid" id="festMovieGrid"></div></div>
+  </div>
+ </div>
+</section>
+<section class="quick" style="display:none">
+ <h2 class="sectionTitle">Colecciones rápidas</h2>
+ <div class="sectionNote">Un clic para entrar por una puerta distinta.</div>
+ <div class="chips">
+  <button class="chip" data-action="fa">⭐ FilmAffinity</button>
+  <button class="chip" data-action="pending">⚠ Por revisar</button>
+  <button class="chip" data-action="dup">♻ Duplicadas</button>
+  <button class="chip" data-action="fhd">✨ 1080p+</button>
+  <button class="chip" data-action="short">🎞 Cortos</button>
+  <button class="chip" data-action="doc">🎥 Documentales</button>
+  <button class="chip" data-action="1985">🗓 1985</button>
+ </div>
+</section>
+
+<section class="spotlight">
+ <h2 class="sectionTitle">La película que te estaba esperando</h2>
+ <div class="sectionNote">Una propuesta al azar de tu propia colección. Pulsa otra vez si quieres tentar a la suerte.</div>
+ <div class="spot" id="spot">
+  <div class="spotPoster" id="spotPoster"></div>
+  <div class="spotInfo">
+   <div class="eyebrow">Selección aleatoria de la filmoteca</div>
+   <h2 id="spotTitle">—</h2>
+   <div class="spotMeta" id="spotMeta"></div>
+   <div class="spotDesc" id="spotDesc"></div>
+   <div class="heroActions"><button class="btn primary" id="spotOpen">Ver ficha</button><button class="btn" id="spotAgain">Otra</button></div>
+  </div>
+ </div>
+</section>
+
+<main class="catalog" id="catalogo">
+ <div class="catalogHead">
+  <div><h2 class="sectionTitle" style="margin-bottom:3px" id="catalogTitle">La colección</h2><div class="count" id="count"></div></div>
+  <div class="count">Pulsa una carátula para abrir la ficha</div>
+ </div>
+ <div class="grid" id="grid"></div>
+ <div class="empty" id="empty" style="display:none">Aquí no hay nada todavía. Prueba con otros filtros.</div>
+</main>
+
+<div class="modal" id="modal">
+ <div class="modalCard">
+  <div class="modalPoster" id="modalPoster"></div>
+  <div class="modalBody">
+   <button class="close" id="close">×</button>
+   <div id="modalSource"></div>
+   <h2 id="modalTitle"></h2>
+   <div class="modalOrig" id="modalOrig"></div>
+   <div class="detailGrid" id="detailGrid"></div>
+   <a id="reference" class="reference" target="_blank" rel="noopener" style="display:none">Abrir referencia</a>
+  </div>
+ </div>
+</div>
+
+<footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
+
+<script>
+async function arrancarFilmoteca(){
+let catalogoCargado=false;
+try{
+ const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
+ window.__CATALOGO__=[];
+ if(!FESTIVAL_DIRECT){
+   const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
+   if(!r.ok) throw new Error("HTTP "+r.status);
+   window.__CATALOGO__=await r.json();
+ }
+ try{
+   const overlays=[
+     "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
+   ];
+   for(const url of overlays){
+     try{
+       const ar=await fetch(url);
+       if(ar.ok){
+         const annual=await ar.json();
+         if(Array.isArray(annual)) window.__CATALOGO__=window.__CATALOGO__.concat(annual);
+       }
+     }catch(_){}
+   }
+ }catch(_){}
+ catalogoCargado=true;
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1990-v38");
+ window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
+const DATA = window.__CATALOGO__;
+const FESTIVAL_DB = window.__FESTIVALES__;
+const FESTIVAL_TAGS = [{"idx":27015,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"COME SEE THE PARADISE","award":"En competición"},{"idx":26842,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"CYRANO DE BERGERAC","award":"Mejor actor · Gérard Depardieu"},{"idx":27902,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"DADDY NOSTALGIE","award":"En competición"},{"idx":26889,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"HIDDEN AGENDA","award":"Premio del Jurado"},{"idx":26896,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"JU DOU","award":"En competición"},{"idx":26587,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"LA CAPTIVE DU DÉSERT","award":"En competición"},{"idx":28302,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"LA PUTAIN DU ROI","award":"En competición"},{"idx":27031,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"NOUVELLE VAGUE","award":"En competición"},{"idx":26371,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"PRZESLUCHANIE","award":"Mejor actriz · Krystyna Janda"},{"idx":27041,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"RODRIGO D – NO FUTURO","award":"En competición"},{"idx":26985,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"STANNO TUTTI BENE","award":"En competición"},{"idx":27174,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"TAXI BLUES","award":"Mejor dirección · Pavel Lounguine"},{"idx":26868,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"WHITE HUNTER, BLACK HEART","award":"En competición"},{"idx":26846,"festival":"Cannes","festival_year":1990,"section":"Competición oficial","festival_title":"WILD AT HEART","award":"Palma de Oro"},{"idx":27865,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"A RAGE IN HARLEM","award":"En competición"},{"idx":27218,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"ASSASSIN OF THE TSAR","award":"En competición"},{"idx":27475,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"BARTON FINK","award":"Palma de Oro · Mejor dirección · Mejor actor John Turturro"},{"idx":27811,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"BIX","award":"En competición"},{"idx":27568,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"GUILTY BY SUSPICION","award":"En competición"},{"idx":27592,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"HOMICIDE","award":"En competición"},{"idx":27845,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"HORS LA VIE","award":"Premio del Jurado · ex aequo"},{"idx":27778,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"IL PORTABORSE","award":"En competición"},{"idx":27505,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"JUNGLE FEVER","award":"Mejor actor de reparto · Samuel L. Jackson"},{"idx":27575,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"LA BELLE NOISEUSE","award":"Gran Premio"},{"idx":27852,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"LA CARNE","award":"En competición"},{"idx":27499,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"LA DOUBLE VIE DE VERONIQUE","award":"Mejor actriz · Irène Jacob"},{"idx":27589,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"LE PAS SUSPENDU DE LA CIGOGNE","award":"En competición"},{"idx":27927,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"LUNE FROIDE","award":"En competición"},{"idx":27859,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"MALINA","award":"En competición"},{"idx":27625,"festival":"Cannes","festival_year":1991,"section":"Competición oficial","festival_title":"VAN GOGH","award":"En competición"},{"idx":28260,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"A STRANGER AMONG US","award":"En competición"},{"idx":28137,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"BASIC INSTINCT","award":"En competición"},{"idx":29309,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"CRUSH","award":"En competición"},{"idx":28515,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"DARK AT NOON","award":"En competición"},{"idx":28229,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"DEN GODA VILJAN","award":"Palma de Oro · Mejor actriz Pernilla August"},{"idx":28197,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"EL SOL DEL MEMBRILLO","award":"Premio del Jurado · ex aequo"},{"idx":28412,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"EL VIAJE","award":"En competición"},{"idx":28161,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"HOWARDS END","award":"Premio 45º aniversario"},{"idx":28335,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"HYENES","award":"En competición"},{"idx":28270,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"IL LADRO DI BAMBINI","award":"Gran Premio del Jurado"},{"idx":28519,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"LA SENTINELLE","award":"En competición"},{"idx":28500,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"LE RETOUR DE CASANOVA","award":"En competición"},{"idx":28159,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"LEOLO","award":"En competición"},{"idx":28521,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"LUNA PARK","award":"En competición"},{"idx":28217,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"OF MICE AND MEN","award":"En competición"},{"idx":28542,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"SAMOSTOIATELNAIA JIZN","award":"Premio del Jurado · ex aequo"},{"idx":28268,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"SIMPLE MEN","award":"En competición"},{"idx":28304,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"THE LONG DAY CLOSES","award":"En competición"},{"idx":28189,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"THE PLAYER","award":"Mejor dirección · Robert Altman · Mejor actor Tim Robbins"},{"idx":28166,"festival":"Cannes","festival_year":1992,"section":"Competición oficial","festival_title":"TWIN PEAKS FIRE WALK WITH ME","award":"En competición"},{"idx":28834,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"BAWANG BIEJI","award":"Palma de Oro · ex aequo"},{"idx":28903,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"BODY SNATCHERS","award":"En competición"},{"idx":29994,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"DOUBA-DOUBA","award":"En competición"},{"idx":28793,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"FALLING DOWN","award":"En competición"},{"idx":29174,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"FIORILE","award":"En competición"},{"idx":29014,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"FRIENDS","award":"En competición"},{"idx":29004,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"HSIMENG RENSHENG","award":"Premio del Jurado · ex aequo"},{"idx":29067,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"IN WEITER FERNE, SO NAH !","award":"Gran Premio del Jurado"},{"idx":28958,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"KING OF THE HILL","award":"En competición"},{"idx":27661,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"LIBERA ME","award":"En competición"},{"idx":29202,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"L’HOMME SUR LES QUAIS","award":"En competición"},{"idx":29034,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"MA SAISON PRÉFÉRÉE","award":"En competición"},{"idx":28799,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"MUCH ADO ABOUT NOTHING","award":"En competición"},{"idx":28890,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"NAKED","award":"Mejor dirección · Mike Leigh · Mejor actor David Thewlis"},{"idx":28861,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"RAINING STONES","award":"Premio del Jurado · ex aequo"},{"idx":28960,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"SPLITTING HEIRS","award":"En competición"},{"idx":28780,"festival":"Cannes","festival_year":1993,"section":"Competición oficial","festival_title":"THE PIANO","award":"Palma de Oro · ex aequo · Mejor actriz Holly Hunter"},{"idx":29811,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"BARNABO DELLE MONTAGNE","award":"En competición"},{"idx":28821,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"CARO DIARIO","award":"Mejor dirección · Nanni Moretti"},{"idx":29506,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"EXOTICA","award":"En competición"},{"idx":29839,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"GROSSE FATIGUE","award":"Mejor guion · Michel Blanc"},{"idx":954,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"HUOZHE","award":"Gran Premio del Jurado · ex aequo · Mejor actor You Ge"},{"idx":29730,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"LA REINA DE LA NOCHE","award":"En competición"},{"idx":29514,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"LA REINE MARGOT","award":"Premio del Jurado · Mejor actriz Virna Lisi"},{"idx":28663,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"LE JOUEUR DE VIOLON","award":"En competición"},{"idx":29837,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"LES PATRIOTES","award":"En competición"},{"idx":29681,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"MRS PARKER AND THE VICIOUS CIRCLE","award":"En competición"},{"idx":29762,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"NEAK SRE","award":"En competición"},{"idx":29530,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"OUTOMLIONNYE SOLNTSEM","award":"Gran Premio del Jurado · ex aequo"},{"idx":29450,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"PULP FICTION","award":"Palma de Oro"},{"idx":29654,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"THE BROWNING VERSION","award":"En competición"},{"idx":29489,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"THE HUDSUCKER PROXY","award":"En competición"},{"idx":29477,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"TROIS COULEURS ROUGE","award":"En competición"},{"idx":29903,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"UN ETE INOUBLIABLE","award":"En competición"},{"idx":29575,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"UNA PURA FORMALITA","award":"En competición"},{"idx":29564,"festival":"Cannes","festival_year":1994,"section":"Competición oficial","festival_title":"ZIRE DARAKHTAN ZEYTON","award":"En competición"},{"idx":30286,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"ANGELS AND INSECTS","award":"En competición"},{"idx":30284,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"BETWEEN THE DEVIL AND THE DEEP BLUE SEA","award":"En competición"},{"idx":30145,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"BEYOND RANGOON","award":"En competición"},{"idx":30137,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"CARRINGTON","award":"Premio especial del Jurado · Mejor actor Jonathan Pryce"},{"idx":29465,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"ED WOOD","award":"En competición"},{"idx":30255,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"HAONAN HAONU","award":"En competición"},{"idx":30015,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"HISTORIAS DEL KRONEN","award":"En competición"},{"idx":29800,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"JEFFERSON IN PARIS","award":"En competición"},{"idx":30032,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"KIDS","award":"En competición"},{"idx":30036,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"LA CITE DES ENFANTS PERDUS","award":"En competición"},{"idx":29999,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"LA HAINE","award":"Mejor dirección · Mathieu Kassovitz"},{"idx":30026,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"LAND AND FREEDOM","award":"En competición"},{"idx":30356,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"L’AMORE MOLESTO","award":"En competición"},{"idx":30382,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"N’OUBLIE PAS QUE TU VAS MOURIR","award":"Premio del Jurado"},{"idx":30244,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"O CONVENTO","award":"En competición"},{"idx":29578,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"THE MADNESS OF KING GEORGE","award":"Mejor actriz · Helen Mirren"},{"idx":30238,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"THE NEON BIBLE","award":"En competición"},{"idx":30098,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"TO VLEMMA TOU ODYSSEA","award":"Gran Premio"},{"idx":30013,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"UNDERGROUND","award":"Palma de Oro"},{"idx":30140,"festival":"Cannes","festival_year":1995,"section":"Competición oficial","festival_title":"YAO A YAO YAO DAO WAI PE QIAO","award":"En competición"},{"idx":30597,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"BREAKING THE WAVES","award":"Gran Premio"},{"idx":30854,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"COMMENT JE ME SUIS DISPUTÉ…(MA VIE SEXUELLE)","award":"En competición"},{"idx":30594,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"CRASH","award":"Premio especial del Jurado"},{"idx":30578,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"FARGO","award":"Mejor dirección · Joel Coen"},{"idx":30850,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"GOODBYE SOUTH, GOODBYE","award":"En competición"},{"idx":30780,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"KANSAS CITY","award":"En competición"},{"idx":30685,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"KAUAS PILVET KARKAAVAT","award":"En competición"},{"idx":30377,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"LA SECONDA VOLTA","award":"En competición"},{"idx":30741,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"LE HUITIÈME JOUR","award":"Mejor actor · Daniel Auteuil / Pascal Duquenne"},{"idx":30802,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"LES VOLEURS","award":"En competición"},{"idx":30792,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"RIDICULE","award":"En competición"},{"idx":30610,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"SECRETS AND LIES","award":"Palma de Oro · Mejor actriz Brenda Blethyn"},{"idx":30646,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"STEALING BEAUTY","award":"En competición"},{"idx":30783,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"SUNCHASER","award":"En competición"},{"idx":30983,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"THE QUIET ROOM","award":"En competición"},{"idx":30705,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"THE VAN","award":"En competición"},{"idx":30619,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"TIERRA","award":"En competición"},{"idx":30881,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"TROIS VIES ET UNE SEULE MORT","award":"En competición"},{"idx":31078,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"TROP TARD","award":"En competición"},{"idx":30840,"festival":"Cannes","festival_year":1996,"section":"Competición oficial","festival_title":"UN HÉROS TRÈS DISCRET","award":"Mejor guion · Jacques Audiard"},{"idx":31503,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"ASSASSIN(S)","award":"En competición"},{"idx":31152,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"FUNNY GAMES","award":"En competición"},{"idx":31202,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"HAPPY TOGETHER","award":"Mejor dirección · Wong Kar Wai"},{"idx":31400,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"IL PRINCIPE DI HOMBURG DI HEINRICH VON KLEIST","award":"En competición"},{"idx":31631,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"KINI & ADAMS","award":"En competición"},{"idx":31134,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"L.A. CONFIDENTIAL","award":"En competición"},{"idx":31539,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"LA FEMME DEFENDUE","award":"En competición"},{"idx":31352,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"LA TREGUA","award":"En competición"},{"idx":31451,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"NIL BY MOUTH","award":"Mejor actriz · Kathy Burke"},{"idx":31347,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"SHE’S SO LOVELY","award":"Mejor actor · Sean Penn"},{"idx":31206,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"TA’M E GUILASS","award":"Palma de Oro · ex aequo"},{"idx":31263,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"THE BRAVE","award":"En competición"},{"idx":31346,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"THE END OF VIOLENCE","award":"En competición"},{"idx":31200,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"THE ICE STORM","award":"Mejor guion · James Schamus"},{"idx":31697,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"THE SERPENT’S KISS","award":"En competición"},{"idx":31229,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"THE SWEET HEREAFTER","award":"Gran Premio"},{"idx":31260,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"UNAGI","award":"Palma de Oro · ex aequo"},{"idx":31336,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"WELCOME TO SARAJEVO","award":"En competición"},{"idx":31448,"festival":"Cannes","festival_year":1997,"section":"Competición oficial","festival_title":"WESTERN","award":"Premio del Jurado"},{"idx":31873,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"APRILE","award":"En competición"},{"idx":31493,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"CEUX QUI M’AIMENT PRENDRONT LE TRAIN","award":"En competición"},{"idx":32105,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"CLAIRE DOLAN","award":"En competición"},{"idx":32108,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"CORAZON ILUMINADO","award":"En competición"},{"idx":32130,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"DANCE ME TO MY SONG","award":"En competición"},{"idx":31724,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"FEAR AND LOATHING IN LAS VEGAS","award":"En competición"},{"idx":31752,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"FESTEN","award":"Premio del Jurado · ex aequo"},{"idx":31992,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"FLOWERS OF SHANGHAI","award":"En competición"},{"idx":31301,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"HENRY FOOL","award":"Mejor guion · Hal Hartley"},{"idx":31743,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"IDIOTERNE","award":"En competición"},{"idx":32719,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"ILLUMINATA","award":"En competición"},{"idx":32097,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"KHROUSTALIOV, MA VOITURE !","award":"En competición"},{"idx":32013,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"LA CLASSE DE NEIGE","award":"Premio del Jurado · ex aequo"},{"idx":31852,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"LA VENDEDORA DE ROSAS","award":"En competición"},{"idx":31816,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"LA VIE REVEE DES ANGES","award":"Mejor actriz · Natacha Régnier / Élodie Bouchez"},{"idx":31125,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"LA VITA E BELLA","award":"Gran Premio"},{"idx":32134,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"L’ÉCOLE DE LA CHAIR","award":"En competición"},{"idx":31839,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"MIA EONIOTITA KE MIA MERA","award":"Palma de Oro"},{"idx":31817,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"MY NAME IS JOE","award":"Mejor actor · Peter Mullan"},{"idx":31847,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"THE GENERAL","award":"Mejor dirección · John Boorman"},{"idx":33599,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"THE HOLE","award":"En competición"},{"idx":31812,"festival":"Cannes","festival_year":1998,"section":"Competición oficial","festival_title":"VELVET GOLDMINE","award":"En competición"},{"idx":32750,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"8 1/2 WOMEN","award":"En competición"},{"idx":32653,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"A CARTA","award":"Premio del Jurado"},{"idx":32484,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"CRADLE WILL ROCK","award":"En competición"},{"idx":32532,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"EL CORONEL NO TIENE QUIEN LE ESCRIBA","award":"En competición"},{"idx":32527,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"FELICIA’S JOURNEY","award":"En competición"},{"idx":32392,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"GHOST DOG : THE WAY OF THE SAMURAI","award":"En competición"},{"idx":34743,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"KADOSH","award":"En competición"},{"idx":32394,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"KIKUJIRO","award":"En competición"},{"idx":32237,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"LA BALIA","award":"En competición"},{"idx":32674,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"LE TEMPS RETROUVE","award":"En competición"},{"idx":32602,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"LIMBO","award":"En competición"},{"idx":32636,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"L’HUMANITE","award":"Gran Premio · Mejor actriz Séverine Caneele · Mejor actor Emmanuel Schotté"},{"idx":34170,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"MOLOCH","award":"Mejor guion · Youri Arabov"},{"idx":32798,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"NOS VIES HEUREUSES","award":"En competición"},{"idx":32624,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"POLA X","award":"En competición"},{"idx":32442,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"ROSETTA","award":"Palma de Oro · Mejor actriz Emilie Dequenne"},{"idx":32032,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"THE EMPEROR AND THE ASSASSIN","award":"En competición"},{"idx":32364,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"THE STRAIGHT STORY","award":"En competición"},{"idx":32342,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"TODO SOBRE MI MADRE","award":"Mejor dirección · Pedro Almodóvar"},{"idx":32470,"festival":"Cannes","festival_year":1999,"section":"Competición oficial","festival_title":"WONDERLAND","award":"En competición"},{"idx":49505,"festival":"Cannes","festival_year":2021,"section":"Competición oficial","festival_title":"TITANE","award":"Palma de Oro"},{"idx":49758,"festival":"Cannes","festival_year":2021,"section":"Competición oficial","festival_title":"MEMORIA","award":"Premio del Jurado · ex aequo"},{"idx":50040,"festival":"Cannes","festival_year":2021,"section":"Competición oficial","festival_title":"AHED'S KNEE","award":"Premio del Jurado · ex aequo"},{"idx":49543,"festival":"Cannes","festival_year":2021,"section":"Competición oficial","festival_title":"ANNETTE","award":"Mejor dirección"},{"idx":49688,"festival":"Cannes","festival_year":2021,"section":"Competición oficial","festival_title":"NITRAM","award":"Mejor actor · Caleb Landry Jones"},{"idx":49507,"festival":"Cannes","festival_year":2021,"section":"Competición oficial","festival_title":"DRIVE MY CAR","award":"Mejor guion · Ryusuke Hamaguchi, Takamasa Oe"},{"idx":50368,"festival":"Cannes","festival_year":2022,"section":"Competición oficial","festival_title":"TRIANGLE OF SADNESS","award":"Palma de Oro"},{"idx":50404,"festival":"Cannes","festival_year":2022,"section":"Competición oficial","festival_title":"CLOSE","award":"Gran Premio · ex aequo"},{"idx":51130,"festival":"Cannes","festival_year":2022,"section":"Competición oficial","festival_title":"STARS AT NOON","award":"Gran Premio · ex aequo"},{"idx":50548,"festival":"Cannes","festival_year":2022,"section":"Competición oficial","festival_title":"EO","award":"Premio del Jurado · ex aequo"},{"idx":50410,"festival":"Cannes","festival_year":2022,"section":"Competición oficial","festival_title":"DECISION TO LEAVE","award":"Mejor dirección"},{"idx":50502,"festival":"Cannes","festival_year":2022,"section":"Competición oficial","festival_title":"BROKER","award":"Mejor actor · Song Kang-ho"}];
+const FESTIVAL_MATCH_TAGS = [{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"THE APPRENTICE","director":"Ali Abbasi","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"MOTEL DESTINO","director":"Karim Aïnouz","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"BIRD","director":"Andrea Arnold","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"EMILIA PEREZ","director":"Jacques Audiard","award":"Premio del Jurado · Mejor actriz · Adriana Paz, Zoe Saldaña, Karla Sofía Gascón, Selena Gomez"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"ANORA","director":"Sean Baker","award":"Palma de Oro"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"MEGALOPOLIS","director":"Francis Ford Coppola","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"THE SHROUDS","director":"David Cronenberg","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"THE SUBSTANCE","director":"Coralie Fargeat","award":"Mejor guion · Coralie Fargeat"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"GRAND TOUR","director":"Miguel Gomes","award":"Mejor dirección · Miguel Gomes"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"LA PLUS PRÉCIEUSE DES MARCHANDISES","director":"Michel Hazanavicius","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"MARCELLO MIO","director":"Christophe Honoré","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"FENG LIU YI DAI","director":"Jia Zhang-ke","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"ALL WE IMAGINE AS LIGHT","director":"Payal Kapadia","award":"Gran Premio"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"KINDS OF KINDNESS","director":"Yorgos Lanthimos","award":"Mejor actor · Jesse Plemons"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"L’AMOUR OUF","director":"Gilles Lellouche","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"TREI KILOMETRI PANA LA CAPATUL LUMII","director":"Emanuel Pârvu","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"THE SEED OF THE SACRED FIG","director":"Mohammad Rasoulof","award":"Premio especial"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"DIAMANT BRUT","director":"Agathe Riedinger","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"OH CANADA","director":"Paul Schrader","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"LIMONOV – THE BALLAD","director":"Kirill Serebrennikov","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"PARTHENOPE","director":"Paolo Sorrentino","award":"En competición"},{"festival":"Cannes","festival_year":2024,"section":"Competición oficial","festival_title":"PIGEN MED NÅLEN","director":"Magnus von Horn","award":"En competición"}];
+const FESTIVAL_BY_IDX = new Map(FESTIVAL_TAGS.map(x=>[x.idx,x]));
+let activeFestival = null;
+const MINI_CANNES='<svg class="miniFestIcon" viewBox="0 0 100 72"><use href="#ico-cannes"></use></svg>';
+function cleanAwardLabel(s){return String(s||'').replace(/\s{2,}/g,' ').trim()}
+function awardType(s){
+ const a=cleanAwardLabel(s);
+ if(/Palma de Oro/i.test(a)) return 'palme';
+ if(/En competición/i.test(a)) return 'selection';
+ return 'award';
+}
+function awardBadge(s){
+ const label=esc(cleanAwardLabel(s)), type=awardType(s);
+ const icon=type==='selection'?'<span class="badgeIcon slateIcon"></span>':type==='palme'?'<span class="badgeIcon laurelIcon">❧</span>':'<span class="badgeIcon medalIcon"></span>';
+ return icon+label;
+}
+function awardMark(s){return awardBadge(s).replace(esc(cleanAwardLabel(s)),'')}
+
+const FESTIVAL_MISSING = [{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"MATJ (ZAPRECHTCHIONNYE LIOUDI)","director":"Gleb Panfilov","year":1990,"award":"Mejor contribución artística"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"SHI NO TOGE","director":"Kohei Oguri","year":1990,"award":"Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"TILAI","director":"Idrissa Ouedraogo","year":1990,"award":"Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":1990,"section":"Competición oficial","title":"UCHO","director":"Karel Kachyna","year":1990,"award":"En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"ANNA KARAMAZOVA","director":"Roustam Khamdamov","year":1991,"award":"En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"BIAN ZOU BIAN CHANG (LIFE ON A STRING)","director":"Kaige Chen","year":1991,"award":"En competición"},{"festival":"Cannes","festival_year":1991,"section":"Competición oficial","title":"EUROPA","director":"Lars von Trier","year":1991,"award":"Premio del Jurado · ex aequo"},{"festival":"Cannes","festival_year":1992,"section":"Competición oficial","title":"AU PAYS DES JULIETS","director":"Mehdi Charef","year":1992,"award":"En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"BROKEN HIGHWAY","director":"Laurie McInnes","year":1993,"award":"En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"FRAUDS","director":"Stephan Elliott","year":1993,"award":"En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"LA SCORTA","director":"Ricky Tognazzi","year":1993,"award":"En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"LOUIS, ENFANT ROI","director":"Roger Planchon","year":1993,"award":"En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"MAGNIFICAT","director":"Pupi Avati","year":1993,"award":"En competición"},{"festival":"Cannes","festival_year":1993,"section":"Competición oficial","title":"MAZEPPA","director":"Bartabas","year":1993,"award":"En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"DULI SHIDAI","director":"Edward Yang","year":1994,"award":"En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"KOUROTCHKA RIABA","director":"Andrei Konchalovsky","year":1994,"award":"En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"LE BUTTANE","director":"Aurelio Grimaldi","year":1994,"award":"En competición"},{"festival":"Cannes","festival_year":1994,"section":"Competición oficial","title":"SWAHAM","director":"Shaji N. Karun","year":1994,"award":"En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Dead Man","director":"Jim Jarmusch","year":1995,"award":"En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Senatorul Melcilor","director":"Mircea Daneliuc","year":1995,"award":"En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Sharaku","director":"Masahiro Shinoda","year":1995,"award":"En competición"},{"festival":"Cannes","festival_year":1995,"section":"Competición oficial","title":"Waati","director":"Souleymane Cissé","year":1995,"award":"En competición"},{"festival":"Cannes","festival_year":1996,"section":"Competición oficial","title":"Po Di Sangui","director":"Flora Gomes","year":1996,"award":"En competición"},{"festival":"Cannes","festival_year":1996,"section":"Competición oficial","title":"Temptress Moon","director":"Chen Kaige","year":1996,"award":"En competición"},{"festival":"Cannes","festival_year":1997,"section":"Competición oficial","title":"The Well","director":"Samantha Lang","year":1997,"award":"En competición"},{"festival":"Cannes","festival_year":1999,"section":"Competición oficial","title":"Ghesse Haye Kish","director":"Nasser Taghvai, Mohsen Makhmalbaf, Abolfazl Jalili","year":1999,"award":"En competición"},{"festival":"Cannes","festival_year":1999,"section":"Competición oficial","title":"Love Will Tear Us Apart","director":"Yu Lik-wai","year":1999,"award":"En competición"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"A HERO","director":"Asghar Farhadi","year":2021,"award":"Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"COMPARTMENT NO. 6","director":"Juho Kuosmanen","year":2021,"award":"Gran Premio · ex aequo"},{"festival":"Cannes","festival_year":2021,"section":"Competición oficial","title":"THE WORST PERSON IN THE WORLD","director":"Joachim Trier","year":2021,"award":"Mejor actriz · Renate Reinsve"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"THE EIGHT MOUNTAINS","director":"Felix van Groeningen, Charlotte Vandermeersch","year":2022,"award":"Premio del Jurado · ex aequo"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"HOLY SPIDER","director":"Ali Abbasi","year":2022,"award":"Mejor actriz · Zar Amir Ebrahimi"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"BOY FROM HEAVEN","director":"Tarik Saleh","year":2022,"award":"Mejor guion · Tarik Saleh"},{"festival":"Cannes","festival_year":2022,"section":"Competición oficial","title":"TORI AND LOKITA","director":"Jean-Pierre Dardenne, Luc Dardenne","year":2022,"award":"Premio 75º aniversario"}];
+/* Premio limpio en origen: ninguna vista debe volver a recibir emojis */
+const $=id=>document.getElementById(id);
+const norm=s=>(s||'').toString().normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
+function esc(s){return (s||'').toString().replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function sourceOf(r){
+ const blob=((r.p||'')+' '+(r.u||'')+' '+(r.n||'')).toLowerCase();
+ if(blob.includes('filmaffinity')) return 'fa';
+ if(blob.includes('image.tmdb.org')||blob.includes('themoviedb')) return 'tmdb';
+ if(blob.includes('imdb')||blob.includes('media-amazon')) return 'imdb';
+ return r.m ? 'other':'pending';
+}
+function sourceLabel(s){return s==='fa'?'FilmAffinity':s==='tmdb'?'TMDb':s==='imdb'?'IMDb':s==='pending'?'Revisar':'Catalogada'}
+const dupKey=r=>norm(r.t)+'|'+r.y;
+const dupCounts={}; DATA.forEach(r=>dupCounts[dupKey(r)]=(dupCounts[dupKey(r)]||0)+1);
+const isDup=r=>dupCounts[dupKey(r)]>1;
+function countriesOf(r){return (r.pais||'').split('/').map(x=>x.trim()).filter(Boolean)}
+function genresOf(r){return (r.g||'').split('/').map(x=>x.trim()).filter(Boolean)}
+function fmt(n){return Number(n||0).toLocaleString('es-ES')}
+
+const years=[...new Set(DATA.map(r=>r.y).filter(Boolean))].sort((a,b)=>b-a);
+years.forEach(y=>{const o=document.createElement('option');o.value=y;o.textContent=y;$('year').appendChild(o)});
+const genres=[...new Set(DATA.flatMap(genresOf))].sort((a,b)=>a.localeCompare(b,'es'));
+genres.forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;$('genre').appendChild(o)});
+const countries=[...new Set(DATA.flatMap(countriesOf))].sort((a,b)=>a.localeCompare(b,'es'));
+countries.forEach(x=>{const o=document.createElement('option');o.value=x;o.textContent=x;$('country').appendChild(o)});
+
+$('mTotal').textContent=fmt(DATA.length);
+$('mFA').textContent=fmt(DATA.filter(r=>sourceOf(r)==='fa').length);
+$('mPending').textContent=fmt(DATA.filter(r=>!r.m).length);
+$('mDup').textContent=fmt(DATA.filter(isDup).length);
+$('mHD').textContent=fmt(DATA.filter(r=>r.h>=1080).length);
+
+let visible=DATA, currentSpot=null;
+function qualityScore(r){return (r.h||0)*100000+(r.br||0)}
+
+function filtered(){
+ let a=DATA;
+ if(activeFestival&&activeFestival.startsWith('cannes')){
+   const fy=Number(activeFestival.replace('cannes',''));
+   const ids=new Set(FESTIVAL_TAGS.filter(x=>x.festival==='Cannes'&&x.festival_year===fy).map(x=>x.idx));
+   a=a.filter(r=>ids.has(DATA.indexOf(r)));
+ }
+ const q=norm($('q').value);
+ if(q)a=a.filter(r=>norm([r.t,r.o,r.d,r.g,r.pais,r.arch].join(' ')).includes(q));
+ if($('year').value)a=a.filter(r=>String(r.y)===$('year').value);
+ if($('genre').value)a=a.filter(r=>genresOf(r).includes($('genre').value));
+ if($('country').value)a=a.filter(r=>countriesOf(r).includes($('country').value));
+ if($('source').value)a=a.filter(r=>sourceOf(r)===$('source').value);
+ const st=$('status').value;
+ if(st==='ok')a=a.filter(r=>r.m); if(st==='pending')a=a.filter(r=>!r.m); if(st==='dup')a=a.filter(isDup);
+ const qu=$('quality').value;
+ if(qu==='fhd')a=a.filter(r=>r.h>=1080); if(qu==='hd')a=a.filter(r=>r.h>=700); if(qu==='sd')a=a.filter(r=>!r.h||r.h<700);
+ const du=$('duration').value;
+ if(du==='short')a=a.filter(r=>r.dur&&r.dur<=40); if(du==='compact')a=a.filter(r=>r.dur>40&&r.dur<90); if(du==='feature')a=a.filter(r=>r.dur>=90&&r.dur<=120); if(du==='long')a=a.filter(r=>r.dur>120);
+ const so=$('sort').value;
+ a=a.slice();
+ if(so==='year_desc')a.sort((x,y)=>(y.y||0)-(x.y||0)||x.t.localeCompare(y.t,'es'));
+ if(so==='year_asc')a.sort((x,y)=>(x.y||0)-(y.y||0)||x.t.localeCompare(y.t,'es'));
+ if(so==='title')a.sort((x,y)=>x.t.localeCompare(y.t,'es'));
+ if(so==='duration')a.sort((x,y)=>(y.dur||0)-(x.dur||0));
+ if(so==='quality')a.sort((x,y)=>qualityScore(y)-qualityScore(x));
+ return a;
+}
+
+function render(){
+ visible=filtered();
+ if(activeFestival&&activeFestival.startsWith('cannes')){
+   const fy=Number(activeFestival.replace('cannes',''));
+   const miss=FESTIVAL_MISSING.filter(x=>x.festival==='Cannes'&&x.festival_year===fy).length;
+   $('catalogTitle').textContent=`Cannes ${fy} · Competición oficial`;
+   $('count').textContent=`${fmt(visible.length)} en tu filmoteca · ${miss} pendiente${miss===1?'':'s'}`;
+ } else {
+   $('catalogTitle').textContent='La colección';
+   $('count').textContent=`${fmt(visible.length)} de ${fmt(DATA.length)} títulos`;
+ }
+ $('grid').innerHTML=''; $('empty').style.display=visible.length?'none':'block';
+ const frag=document.createDocumentFragment(), MAX=700;
+ visible.slice(0,MAX).forEach((r,idx)=>{
+  const c=document.createElement('article'); c.className='card';
+  const src=sourceOf(r), poster=r.p?`style="background-image:url('${(r.p||'').replace(/'/g,'')}')"`:'';
+  c.innerHTML=`<div class="poster ${r.p?'':'none'}" ${poster}>${r.p?'':esc(r.t)}
+    <span class="sourceBadge ${src}">${sourceLabel(src)}</span>${isDup(r)?'<span class="dupBadge">DUP</span>':''}
+   </div>
+   <div class="cardInfo"><div class="title">${esc(r.t)}</div>${r.o?`<div class="original">${esc(r.o)}</div>`:''}
+    <div class="meta">${r.y||'—'}${r.d?' · '+esc(r.d):''}</div>
+    <div class="micro">${r.dur?`<span class="tag">${r.dur} min</span>`:''}${r.h?`<span class="tag">${r.h}p</span>`:''}${genresOf(r)[0]?`<span class="tag">${esc(genresOf(r)[0])}</span>`:''}${FESTIVAL_BY_IDX.has(DATA.indexOf(r))?(()=>{const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));return `<span class="tag" style="border-color:#7c6535;color:#e7c97e">${ft.festival} ${ft.festival_year}</span><span class="tag" style="${ft.award.includes('En competición')?'border-color:#4f4b43;color:#bdb6aa':'border-color:#8c6e25;color:#ffd978'}">${awardBadge(ft.award)}</span>`})():''}</div>
+   </div>`;
+  c.onclick=()=>openModal(r); frag.appendChild(c);
+ });
+ $('grid').appendChild(frag);
+
+ if(activeFestival&&activeFestival.startsWith('cannes')){
+   const fy=Number(activeFestival.replace('cannes',''));
+   FESTIVAL_MISSING.filter(x=>x.festival==='Cannes'&&x.festival_year===fy).forEach(x=>{
+     const c=document.createElement('article');
+     c.className='missingCard';
+     c.innerHTML=`<div class="missingPoster"><span class="missingBadge">NO ESTÁ EN TU FILMOTECA</span>🎞<br>${esc(x.title)}</div>
+       <div class="missingInfo">
+         <div class="title">${esc(x.title)}</div>
+         <div class="meta">${x.year} · ${esc(x.director)}</div>
+         <div class="micro"><span class="tag" style="border-color:#7c6535;color:#e7c97e">${x.festival} ${x.festival_year}</span><span class="tag" style="${x.award.includes('En competición')?'border-color:#4f4b43;color:#bdb6aa':'border-color:#8c6e25;color:#ffd978'}">${esc(cleanAwardLabel(x.award))}</span></div>
+         <div class="missingHint">Pendiente de localizar y añadir</div>
+       </div>`;
+     $('grid').appendChild(c);
+   });
+ }
+
+ if(visible.length>MAX){const more=document.createElement('div');more.className='empty';more.style.gridColumn='1/-1';more.textContent=`… y ${fmt(visible.length-MAX)} más. Afina un poco el filtro para verlas.`;$('grid').appendChild(more)}
+}
+
+function badgeHtml(r){const s=sourceOf(r);return `<span class="sourceBadge ${s}" style="position:static;display:inline-block">${sourceLabel(s)}</span>${isDup(r)?' <span class="dupBadge" style="position:static;display:inline-block">DUPLICADA</span>':''}`}
+function openModal(r){
+ const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));
+ $('modalSource').innerHTML=badgeHtml(r)+(ft?` <span class="festivalBadge">${ft.festival} ${ft.festival_year} · ${ft.section}</span>${ft.award?` <span class="${ft.award.includes('sin premio')?'selectionBadge':'awardBadge'}">${awardBadge(ft.award)}</span>`:''}`:'');$('modalTitle').textContent=r.t||'Sin título';$('modalOrig').textContent=r.o||'';
+ $('modalPoster').style.backgroundImage=r.p?`url("${r.p.replace(/"/g,'')}")`:'none';
+ const details=[['Año',r.y],['Director',r.d],['País',r.pais],['Género',r.g],['Duración',r.dur?`${r.dur} min`:null],['Resolución',r.res],['Tamaño',r.sz],['Archivo',r.arch],['Nota',r.n]];
+ $('detailGrid').innerHTML=details.filter(x=>x[1]).map(x=>`<div class="k">${esc(x[0])}</div><div class="v">${esc(x[1])}</div>`).join('');
+ if(r.u){$('reference').href=r.u;$('reference').style.display='inline-block'}else $('reference').style.display='none';
+ $('modal').classList.add('show');
+}
+$('close').onclick=()=>$('modal').classList.remove('show');
+$('modal').onclick=e=>{if(e.target===$('modal'))$('modal').classList.remove('show')};
+document.addEventListener('keydown',e=>{if(e.key==='Escape')$('modal').classList.remove('show')});
+
+function chooseSpot(){
+ const pool=DATA.filter(r=>r.m&&r.p&&r.dur&&r.y);
+ currentSpot=pool[Math.floor(Math.random()*pool.length)];
+ const r=currentSpot;$('spotPoster').style.backgroundImage=`url("${r.p.replace(/"/g,'')}")`;
+ $('spotTitle').textContent=r.t;$('spotMeta').textContent=`${r.y} · ${r.d||'Director desconocido'}${r.pais?' · '+r.pais:''}`;
+ $('spotDesc').textContent=[r.g,r.dur?`${r.dur} min`:null,r.res,r.sz].filter(Boolean).join(' · ');
+}
+$('spotOpen').onclick=()=>currentSpot&&openModal(currentSpot);$('spotAgain').onclick=chooseSpot;
+$('randomBtn').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');chooseSpot();document.querySelector('.spotlight').style.display='';$('spot').scrollIntoView({behavior:'smooth',block:'center'})};
+
+function reset(){activeFestival=null;['q','year','genre','country','source','status','quality','duration'].forEach(id=>$(id).value='');$('sort').value='year_desc';render()}
+$('resetBtn').onclick=reset;
+document.querySelectorAll('.chip').forEach(b=>b.onclick=()=>{
+ reset();
+ const a=b.dataset.action;
+ if(a==='fa')$('source').value='fa'; if(a==='pending')$('status').value='pending'; if(a==='dup')$('status').value='dup';
+ if(a==='fhd')$('quality').value='fhd'; if(a==='short')$('duration').value='short'; if(a==='doc')$('genre').value='Documental'; if(a==='1985')$('year').value='1985';
+ render();document.getElementById('catalogo').scrollIntoView({behavior:'smooth'});
+});
+let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(render,130)});
+['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
+
+
+$('homeCollection').onclick=()=>{document.body.classList.remove('homeMode');$('tabCollection').click();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)};
+$('homeFestivals').onclick=()=>{document.body.classList.remove('homeMode');$('tabFestivals').click()};
+$('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.trim()){const v=$('homeQ').value.trim();document.body.classList.remove('homeMode');$('tabCollection').click();$('q').value=v;render();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)}});
+$('tabHome').onclick=()=>{setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
+
+$('tabFestivals').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(true);$('tabHome').classList.remove('active');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
+$('tabCollection').onclick=()=>{if(FESTIVAL_DIRECT){location.href='?view=collection';return;}document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');activeFestival=null;history.replaceState(null,'','?view=collection');render();window.scrollTo({top:0,behavior:'smooth'})};
+
+
+if(new URLSearchParams(location.search).get('view')==='festivals') $('tabFestivals').click();
+
+
+function setFestivalChrome(on){
+ document.body.classList.toggle('festivalMode',on);
+ const sticky=document.querySelector('.sticky');
+ const hero=document.querySelector('.hero');
+ const metrics=document.querySelector('.metrics');
+ const quick=document.querySelector('.quick');
+ const spotlight=document.querySelector('.spotlight');
+ const catalog=document.getElementById('catalogo');
+ [sticky,hero,metrics,quick,spotlight,catalog].forEach(el=>{if(el) el.style.display=on?'none':''});
+ $('festivalHub').classList.toggle('show',on);
+}
+function festivalRibbon(award){
+ const label=String(award||'').trim();
+ const palme=/Palma de Oro/i.test(label);
+ let icon='🎞';
+ if(palme) icon='🥇';
+ else if(/Gran Premio/i.test(label)) icon='🥈';
+ else if(/Premio del Jurado/i.test(label)) icon='⚖';
+ else if(/Mejor dirección/i.test(label)) icon='🎬';
+ else if(/Mejor (actor|actriz)/i.test(label)) icon='🎭';
+ else if(/Mejor guion/i.test(label)) icon='✍';
+ else if(/contribución artística/i.test(label)) icon='🎨';
+ else if(/aniversario/i.test(label)) icon='🏅';
+ const selection=/En competición/i.test(label);
+ return '<div class="festivalRibbon '+(selection?'selection':palme?'palme':'winner')+'"><span class="classicAwardIcon">'+icon+'</span><span>'+esc(label)+'</span></div>';
+}
+function normFest(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}
+function festTokenSimilarity(a,b){
+ const A=new Set(normFest(a).split(' ').filter(x=>x.length>1)),B=new Set(normFest(b).split(' ').filter(x=>x.length>1));
+ if(!A.size||!B.size)return 0;
+ let common=0;A.forEach(x=>{if(B.has(x))common++});
+ return common/(A.size+B.size-common);
+}
+const FESTIVAL_INDEX=DATA.map((r,idx)=>({
+ idx,
+ y:Number(r&&r.y)||0,
+ d:normFest(r&&r.d),
+ titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title].filter(Boolean).map(normFest)
+}));
+const FESTIVAL_EDITION_CACHE=new Map();
+function resolveFestivalMatch(ft){
+ const nd=normFest(ft.director),nt=normFest(ft.festival_title),aliasTitles=(ft.aliases||[]).map(normFest).filter(Boolean),queryTitles=[nt,...aliasTitles],fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
+ let best=-1,bestScore=-1;
+ for(const x of FESTIVAL_INDEX){
+   const yearDiff=(targetYear&&x.y)?Math.abs(x.y-targetYear):99;
+   let dirSim=0;
+   if(nd&&x.d){
+     if(x.d===nd)dirSim=1;
+     else if(x.d.includes(nd)||nd.includes(x.d))dirSim=.9;
+     else dirSim=festTokenSimilarity(x.d,nd);
+   }
+   let titleSim=0;
+   for(const t of x.titles){
+     if(!t)continue;
+     for(const q of queryTitles){
+       if(!q)continue;
+       let s=0;
+       if(t===q)s=1;
+       else if(t.includes(q)||q.includes(t))s=.88;
+       else s=festTokenSimilarity(t,q);
+       if(s>titleSim)titleSim=s;
+     }
+   }
+   /* El año ayuda a decidir, pero nunca invalida una coincidencia inequívoca de título+director. */
+   const strongIdentity=titleSim===1&&dirSim>=.8;
+   const normalExact=titleSim===1&&yearDiff<=1;
+   const oscarExact=!nd&&titleSim===1&&yearDiff<=2&&nt.length>=6;
+   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
+   const directorAnchor=titleSim>=.55&&dirSim>=.95&&yearDiff<=3;
+   const nearYearTitle=titleSim>=.88&&yearDiff<=1;
+   if(!(strongIdentity||normalExact||oscarExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
+   const yearBonus=yearDiff===0?2:yearDiff===1?1:yearDiff===2?.25:0;
+   const score=titleSim*10+dirSim*5+yearBonus;
+   if(score>bestScore){bestScore=score;best=x.idx}
+ }
+ return best;
+}
+function festivalEditionData(fy,festival='Cannes',section=null){
+ const extAny=(FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy));
+ section=section||(extAny&&extAny.section)||'Competición oficial';
+ const key=[festival,fy,section].join('|');
+ if(FESTIVAL_EDITION_CACHE.has(key)) return FESTIVAL_EDITION_CACHE.get(key);
+ const external=(FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy)&&e.section===section);
+ let result;
+ if(external){
+   const present=[],missing=[];
+   external.films.forEach(f=>{
+     const ft={festival,festival_year:Number(fy),section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
+     const idx=resolveFestivalMatch(ft);
+     if(idx>=0) present.push({...ft,idx});
+     else missing.push({festival,festival_year:Number(fy),section,title:f.title,aliases:f.aliases||[],director:f.director,year:Number(fy),award:f.award,nominations:f.nominations||[],wins:f.wins||[]});
+   });
+   result={present,missing};
+ }else{
+   const fixed=FESTIVAL_TAGS.filter(x=>x.festival===festival&&x.festival_year===fy);
+   const dyn=FESTIVAL_MATCH_TAGS.filter(x=>x.festival===festival&&x.festival_year===fy);
+   const present=fixed.slice(),missing=FESTIVAL_MISSING.filter(x=>x.festival===festival&&x.festival_year===fy).slice();
+   dyn.forEach(ft=>{const idx=resolveFestivalMatch(ft);if(idx>=0)present.push({...ft,idx});else missing.push({festival:ft.festival,festival_year:ft.festival_year,section:ft.section,title:ft.festival_title,director:ft.director,year:fy,award:ft.award})});
+   result={present,missing};
+ }
+ FESTIVAL_EDITION_CACHE.set(key,result);
+ return result;
+}
+function renderFestivalEdition(fy){
+ const ed=festivalEditionData(fy), tags=ed.present, missing=ed.missing;
+ $('festWelcome').style.display='none'; $('festEdition').style.display='block';
+ $('festEditionTitle').textContent='';
+ $('festEditionCount').innerHTML='';
+ const grid=$('festMovieGrid'); grid.innerHTML='';
+ const orderedTags=tags.slice().sort((x,y)=>(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
+ orderedTags.forEach(ft=>{
+   const r=DATA[ft.idx]; if(!r)return;
+   const el=document.createElement('article'); el.className='festMovie';
+   const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
+   el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
+   el.onclick=()=>openModal(r); grid.appendChild(el);
+ });
+ missing.forEach(x=>{
+   const el=document.createElement('article'); el.className='festMovie festMissing';
+   el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';
+   grid.appendChild(el);
+ });
+}
+
+let selectedFestival='Cannes';
+function festivalLabel(f){return 'Festival de '+f}
+function availableYears(f){
+ return [...new Set((FESTIVAL_DB.editions||[]).filter(e=>e.festival===f).map(e=>Number(e.year)))].sort((a,b)=>b-a);
+}
+const OSCAR_CATEGORY_ORDER=['Película','Dirección','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Guion original','Guion adaptado','Película internacional','Película de animación','Documental','Cortometraje documental','Cortometraje de animación','Cortometraje de ficción','Fotografía','Montaje','Diseño de producción','Vestuario','Maquillaje y peluquería','Banda sonora','Canción','Sonido','Efectos visuales'];
+function oscarCategoryBase(s){return String(s||'').split(' · ')[0].trim()}
+function oscarEditionRaw(fy){return (FESTIVAL_DB.editions||[]).find(e=>e.festival==='Oscar'&&Number(e.year)===Number(fy))}
+function oscarCategories(fy){
+ const ed=oscarEditionRaw(fy), set=new Set();
+ (ed?.films||[]).forEach(f=>(f.nominations||[]).forEach(n=>set.add(oscarCategoryBase(n))));
+ const arr=[...set];
+ return arr.sort((a,b)=>{const ia=OSCAR_CATEGORY_ORDER.indexOf(a),ib=OSCAR_CATEGORY_ORDER.indexOf(b);return (ia<0?999:ia)-(ib<0?999:ib)||a.localeCompare(b,'es')});
+}
+function rebuildOscarCategories(fy){
+ const cats=oscarCategories(fy);
+ if(!cats.length){$('festSections').innerHTML='<div class="active">Resumen por películas</div>';return null}
+ $('festSections').innerHTML=cats.map((x,i)=>'<div class="oscarCategoryBtn '+(i===0?'active':'')+'" data-cat="'+esc(x)+'">'+esc(x)+'</div>').join('');
+ $('festSections').querySelectorAll('.oscarCategoryBtn').forEach(b=>b.onclick=()=>renderOscarCategory(fy,b.dataset.cat));
+ return cats[0];
+}
+function renderOscarCategory(fy,cat){
+ const raw=oscarEditionRaw(fy); if(!raw)return;
+ $('festWelcome').style.display='none';
+ $('festEdition').style.display='block';
+ $('festEditionTitle').textContent='';
+ document.querySelectorAll('.oscarCategoryBtn').forEach(b=>b.classList.toggle('active',b.dataset.cat===cat));
+ const rows=(raw.films||[]).filter(f=>(f.nominations||[]).some(n=>oscarCategoryBase(n)===cat)).map(f=>{
+   const nomination=(f.nominations||[]).find(n=>oscarCategoryBase(n)===cat)||cat;
+   const win=(f.wins||[]).some(w=>oscarCategoryBase(w)===cat);
+   const ft={festival:'Oscar',festival_year:Number(fy),section:'Premios de la Academia',festival_title:f.title,aliases:f.aliases||[],director:f.director,award:win?'Ganador · Oscar':'Nominado',nominations:f.nominations||[],wins:f.wins||[]};
+   return {f,ft,idx:resolveFestivalMatch(ft),detail:String(nomination).split(' · ').slice(1).join(' · '),win};
+ });
+ const present=rows.filter(x=>x.idx>=0).length,missing=rows.length-present;
+ $('festDisplaySub').textContent=cat+' · '+rows.length+' nominados';
+ $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+missing+' pendiente'+(missing===1?'':'s')+' de localizar';
+ $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+rows.length+' nominados';
+ $('festEditionCount').innerHTML=$('festEditionCount').dataset.lead;
+ const grid=$('festMovieGrid');grid.innerHTML='';
+ rows.sort((a,b)=>Number(b.win)-Number(a.win)).forEach(x=>{
+   if(x.idx>=0){
+     const r=DATA[x.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';
+     const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
+     const ribbon='<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div>';
+     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el);
+   }else{
+     const el=document.createElement('article');el.className='festMovie festMissing';
+     el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.f.title)+'<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.f.title)+'</div></div>';grid.appendChild(el);
+   }
+ })
+ appendAnnualMissingLink(fy);;
+}
+function openFestivalYear(yr){
+ activeFestival=selectedFestival.toLowerCase()+yr;
+ setFestivalChrome(true);
+ $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
+ document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',Number(x.dataset.year)===yr));
+ const ed=festivalEditionData(yr,selectedFestival), present=ed.present.length, miss=ed.missing.length, total=present+miss;
+ $('festDisplayTitle').textContent=selectedFestival+' '+yr;
+ if(selectedFestival==='Oscar'){
+   const cats=oscarCategories(yr);
+   $('festDisplaySub').textContent=(cats.length?cats.length+' categorías · ':'')+total+' títulos nominados';
+   $('festDisplayMeta').innerHTML='<b>'+present+'</b> títulos en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
+   const first=rebuildOscarCategories(yr);
+   if(first)renderOscarCategory(yr,first);else renderFestivalEditionFor(selectedFestival,yr);
+ }else{
+   const sections=(FESTIVAL_DB.editions||[]).filter(e=>e.festival===selectedFestival&&Number(e.year)===Number(yr));
+   const initialSection=sections.length?sections[0].section:null;
+   if(selectedFestival==='Cannes'){
+     $('festSections').innerHTML=sections.length
+       ? sections.map((e,i)=>'<div class="festivalSectionBtn '+(i===0?'active':'')+'" data-section="'+esc(e.section)+'">'+esc(e.section)+'</div>').join('')
+       : '<div class="active">Sección Oficial</div>';
+     $('festSections').querySelectorAll('.festivalSectionBtn').forEach(b=>b.onclick=()=>renderFestivalSection(yr,b.dataset.section));
+   }
+   $('festDisplaySub').textContent=(initialSection||'Sección Oficial')+' · '+total+' películas';
+   $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
+   renderFestivalEditionFor(selectedFestival,yr,initialSection);
+ }
+ history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+yr);
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+function renderFestivalSection(fy,section){
+ document.querySelectorAll('.festivalSectionBtn').forEach(x=>x.classList.toggle('active',x.dataset.section===section));
+ const ed=festivalEditionData(fy,selectedFestival,section), total=ed.present.length+ed.missing.length;
+ $('festDisplaySub').textContent=section+' · '+total+' películas';
+ $('festDisplayMeta').innerHTML='<b>'+ed.present.length+'</b> en tu filmoteca · '+ed.missing.length+' pendiente'+(ed.missing.length===1?'':'s')+' de localizar';
+ renderFestivalEditionFor(selectedFestival,fy,section);
+}
+
+const ANNUAL_MISSING_CACHE=new Map();
+function annualMissingData(fy){
+ fy=Number(fy);
+ if(ANNUAL_MISSING_CACHE.has(fy)) return ANNUAL_MISSING_CACHE.get(fy);
+ const groups=[];
+ const editions=(FESTIVAL_DB.editions||[]).filter(e=>Number(e.year)===fy);
+ editions.forEach(ed=>(ed.films||[]).forEach(f=>{
+   const ft={festival:ed.festival,festival_year:fy,section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
+   if(resolveFestivalMatch(ft)>=0) return;
+   const names=[f.title,...(f.aliases||[])].map(norm).filter(Boolean);
+   const director=norm(f.director||'');
+   let g=groups.find(x=>{
+     const sameDirector=!director||!x.directorKey||director===x.directorKey;
+     return sameDirector&&names.some(n=>x.nameKeys.has(n));
+   });
+   if(!g){
+     g={title:f.title,director:f.director||'',directorKey:director,nameKeys:new Set(names),sources:[],sections:[]};
+     groups.push(g);
+   }else names.forEach(n=>g.nameKeys.add(n));
+   if(!g.sources.includes(ed.festival)) g.sources.push(ed.festival);
+   const sectionLabel=ed.festival+(ed.section?' · '+ed.section:'');
+   if(!g.sections.includes(sectionLabel)) g.sections.push(sectionLabel);
+ }));
+ groups.sort((a,b)=>String(a.title).localeCompare(String(b.title),'es'));
+ ANNUAL_MISSING_CACHE.set(fy,groups);
+ return groups;
+}
+function appendAnnualMissingLink(fy){
+ const meta=$('festDisplayMeta'); if(!meta)return;
+ const rows=annualMissingData(fy);
+ meta.querySelectorAll('.annualMissingLink').forEach(x=>x.remove());
+ if(!rows.length) return;
+ const sep=document.createTextNode(' · ');
+ const btn=document.createElement('button');
+ btn.type='button';btn.className='annualMissingLink';
+ btn.textContent=rows.length+' pendiente'+(rows.length===1?'':'s')+' del año';
+ btn.onclick=()=>renderAnnualMissing(fy);
+ meta.appendChild(sep);meta.appendChild(btn);
+}
+function renderAnnualMissing(fy){
+ const rows=annualMissingData(fy);
+ $('festWelcome').style.display='none';$('festEdition').style.display='block';
+ $('festDisplayTitle').textContent=String(fy);
+ $('festDisplaySub').textContent='Pendientes de festivales y premios · '+rows.length+' película'+(rows.length===1?'':'s');
+ $('festDisplayMeta').innerHTML='Una sola vez por película, aunque aparezca en varios festivales';
+ $('festEditionTitle').textContent='';
+ $('festEditionCount').innerHTML='<b>'+rows.length+'</b> pendiente'+(rows.length===1?'':'s')+' del año · <button type="button" class="annualBack">Volver a '+esc(selectedFestival)+' '+fy+'</button>';
+ const back=$('festEditionCount').querySelector('.annualBack');
+ if(back) back.onclick=()=>openFestivalYear(Number(fy));
+ const grid=$('festMovieGrid');grid.innerHTML='';
+ rows.forEach(x=>{
+   const el=document.createElement('article');el.className='festMovie festMissing';
+   const sources=x.sources.join(' · ');
+   el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+(x.director?esc(x.director):'Director no indicado')+'</div><div class="annualSources">'+esc(sources)+'</div></div>';
+   grid.appendChild(el);
+ });
+ history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+fy+'&pending=year');
+}
+function renderFestivalEditionFor(festival,fy,section=null){
+ const ed=festivalEditionData(fy,festival,section), tags=ed.present, missing=ed.missing;
+ $('festWelcome').style.display='none'; $('festEdition').style.display='block';
+ $('festEditionTitle').textContent='';
+ $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
+ const grid=$('festMovieGrid'); grid.innerHTML='';
+ const orderedTags=tags.slice().sort((x,y)=>(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
+ orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
+ missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';grid.appendChild(el)});
+ appendAnnualMissingLink(fy);
+}
+function festivalIconId(f){
+ return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':'#ico-cannes';
+}
+function festivalSectionsHTML(f){
+ if(f==='Oscar') return '<div class="active">Selecciona un año</div>';
+ if(f==='Cannes') return '<div class="active">Selecciona un año</div><div>Competición oficial</div><div>Un Certain Regard</div>';
+ return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
+}
+function rebuildFestivalYears(f){
+ const years=f==='Cannes'
+   ? [...new Set([...availableYears(f),2022,2021,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990])].sort((a,b)=>b-a)
+   : availableYears(f);
+ $('festYearLabel').textContent='Año ('+f+')';
+ $('festYears').innerHTML=years.map(y=>'<button class="festivalYearBtn" data-year="'+y+'">'+y+'</button>').join('');
+ $('festYears').querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
+}
+function selectFestival(f,openLatest=true){
+ selectedFestival=f;
+ document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.classList.toggle('active',b.dataset.festival===f));
+ rebuildFestivalYears(f);
+ $('festSections').innerHTML=festivalSectionsHTML(f);
+ const use=$('festHeroUse'); if(use) use.setAttribute('href',festivalIconId(f));
+ if(openLatest){const years=availableYears(f);if(years.length)openFestivalYear(years[0]);}
+}
+document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
+document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>selectFestival(b.dataset.festival,true));
+// Welcome-card counts are always computed from the same live festival data.
+document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
+ const yr=Number(b.dataset.year), ed=festivalEditionData(yr), s=b.querySelector('span');
+ if(s) s.textContent=ed.present.length+' de '+(ed.present.length+ed.missing.length)+' en tu filmoteca';
+});
+
+const directParams=new URLSearchParams(location.search);
+if(directParams.get('view')==='festivals'){
+ $('tabFestivals').click();
+ const directFestival=directParams.get('festival');
+ if(directFestival==='venecia') selectedFestival='Venecia';
+ if(directFestival==='berlin') selectedFestival='Berlín';
+ if(directFestival==='san-sebastian'||directFestival==='sansebastian') selectedFestival='San Sebastián';
+ if(directFestival==='oscar'||directFestival==='oscars') selectedFestival='Oscar';
+ selectFestival(selectedFestival,false);
+ const directYear=Number(directParams.get('year'));
+ if(directYear){ openFestivalYear(directYear); if(directParams.get('pending')==='year') renderAnnualMissing(directYear); }
+}
+
+chooseSpot();render();
+
+}catch(e){console.error("Error en /lab/:",e);}
+}
+arrancarFilmoteca();
+</script>
+</body></html>
