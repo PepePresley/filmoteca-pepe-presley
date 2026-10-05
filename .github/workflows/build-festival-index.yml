@@ -5,6 +5,7 @@ on:
       - lab-lightweight-festival-index
     paths:
       - 'scripts/build-festival-index.mjs'
+      - 'scripts/verify-festival-index.mjs'
       - '.github/workflows/build-festival-index.yml'
       - 'data/catalog/catalog.json'
 permissions:
