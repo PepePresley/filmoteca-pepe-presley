@@ -10,6 +10,9 @@ on:
       - 'data/catalog/catalog.json'
 permissions:
   contents: write
+concurrency:
+  group: festival-index-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
