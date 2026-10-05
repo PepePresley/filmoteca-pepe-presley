@@ -13,7 +13,7 @@ for(let i=0;i<src.length;i++){
   buckets.get(key).push({
     i,y,t:r.t||'',d:r.d||'',
     ot:r.ot||'',o:r.original_title||'',
-    en:r.en||'',e:r.english_title||''
+    en:r.en||'',e:r.english_title||'',p:r.p||'',dur:r.dur||0
   });
 }
 for(const [key,rows] of buckets){
