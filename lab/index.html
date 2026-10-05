@@ -940,7 +940,7 @@ function installMissingToggle(present,missing,grid,mode='standard'){
  if(mode==='oscar'){
    const lead=count.dataset.lead||count.innerHTML;
    count.dataset.lead=lead;
-   count.innerHTML=lead+(missing?' · <button class="missingToggle" type="button">'+missing+' me faltan</button>':' · ninguna pendiente');
+   count.innerHTML=lead+(missing?' · <button class="missingToggle" type="button">'+missing+' me falta'+(missing===1?'':'n')+'</button>':' · ninguna pendiente');
  }else{
    count.innerHTML='<b>'+present+'</b> en tu filmoteca · '+(missing?'<button class="missingToggle" type="button">'+missing+' me falta'+(missing===1?'':'n')+'</button>':'ninguna pendiente');
  }
