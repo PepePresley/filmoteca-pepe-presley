@@ -511,7 +511,8 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
 try{
- const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
+ const INITIAL_PARAMS=new URLSearchParams(location.search);
+ const FESTIVAL_DIRECT=INITIAL_PARAMS.get('view')==='festivals';
  window.__CATALOGO__=[];
  if(!FESTIVAL_DIRECT){
  const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
@@ -1092,7 +1093,11 @@ function setFestivalDecade(decade,showWelcome=true){
  festivalOpenDecade=target;
  const el=document.querySelector('#festYears .festDecade[data-decade="'+target+'"]');
  if(el)el.classList.add('open');
- if(showWelcome)renderFestivalDecadeWelcome(selectedFestival,target);
+ if(showWelcome){
+   activeFestival=null;
+   document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.remove('active'));
+   renderFestivalDecadeWelcome(selectedFestival,target,true);
+ }
 }
 function openFestivalDecadeForYear(year){
  setFestivalDecade(festivalDecadeStart(year),false);
@@ -1129,7 +1134,7 @@ function selectFestival(f,openLatest=true){
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
 document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>selectFestival(b.dataset.festival,true));
 
-const directParams=new URLSearchParams(location.search);
+const directParams=INITIAL_PARAMS;
 if(directParams.get('view')==='festivals'){
  $('tabFestivals').click();
  const directFestival=directParams.get('festival');
