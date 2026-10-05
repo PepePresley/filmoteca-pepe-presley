@@ -355,17 +355,19 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 </defs></svg>
 <div class="tabsBar">
  <button class="tabBtn" id="tabHome">Inicio</button>
- <button class="tabBtn" id="tabCollection" style="display:none">Filmoteca</button>
+ <button class="tabBtn active" id="tabCollection">Filmoteca</button>
  <button class="tabBtn" id="tabFestivals">Festivales</button>
 </div>
 <section class="hero">
  <div class="heroInner homeHeroInner">
   <div class="kicker">Archivo personal de cine</div>
   <h1>Filmoteca<br>Pepe Presley</h1>
-  <div class="subtitle">Festivales, premios y tu archivo de cine. Busca cualquier película o entra directamente en festivales y premios.</div>
+  <div class="subtitle">Décadas de cine, clásicos, rarezas y hallazgos. Busca una película o entra por una de las puertas de la colección.</div>
   <div class="homeSearch"><span>⌕</span><input id="homeQ" type="text" placeholder="Busca una película, director, año…"></div>
   <div class="homeDoors">
+   <button class="homeDoor" id="homeCollection"><b>🎬 Mi Filmoteca</b><span>Explorar toda la colección</span></button>
    <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Óscar</span></button>
+   <button class="homeDoor" id="randomBtn"><b>🎲 Descubrir</b><span>Una película al azar de tu filmoteca</span></button>
   </div>
  </div>
 </section>
@@ -518,11 +520,9 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
 try{
- const paramsIniciales=new URLSearchParams(location.search);
- const FESTIVAL_DIRECT=paramsIniciales.get('view')==='festivals';
- const SEARCH_DIRECT=paramsIniciales.get('view')==='search' && paramsIniciales.get('q');
+ const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
  window.__CATALOGO__=[];
- if(SEARCH_DIRECT){
+ if(!FESTIVAL_DIRECT){
    const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
    if(!r.ok) throw new Error("HTTP "+r.status);
    window.__CATALOGO__=await r.json();
@@ -701,6 +701,7 @@ function chooseSpot(){
  $('spotDesc').textContent=[r.g,r.dur?`${r.dur} min`:null,r.res,r.sz].filter(Boolean).join(' · ');
 }
 $('spotOpen').onclick=()=>currentSpot&&openModal(currentSpot);$('spotAgain').onclick=chooseSpot;
+$('randomBtn').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(false);$('tabHome').classList.remove('active');$('tabCollection').classList.add('active');$('tabFestivals').classList.remove('active');chooseSpot();document.querySelector('.spotlight').style.display='';$('spot').scrollIntoView({behavior:'smooth',block:'center'})};
 
 function reset(){activeFestival=null;['q','year','genre','country','source','status','quality','duration'].forEach(id=>$(id).value='');$('sort').value='year_desc';render()}
 $('resetBtn').onclick=reset;
@@ -715,8 +716,9 @@ let timer;$('q').addEventListener('input',()=>{clearTimeout(timer);timer=setTime
 ['year','genre','country','source','status','quality','duration','sort'].forEach(id=>$(id).addEventListener('change',render));
 
 
+$('homeCollection').onclick=()=>{document.body.classList.remove('homeMode');$('tabCollection').click();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)};
 $('homeFestivals').onclick=()=>{document.body.classList.remove('homeMode');$('tabFestivals').click()};
-$('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.trim()){const v=$('homeQ').value.trim();location.href='?view=search&q='+encodeURIComponent(v);}});
+$('homeQ').addEventListener('keydown',e=>{if(e.key==='Enter'&&$('homeQ').value.trim()){const v=$('homeQ').value.trim();document.body.classList.remove('homeMode');$('tabCollection').click();$('q').value=v;render();setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),80)}});
 $('tabHome').onclick=()=>{setFestivalChrome(false);document.body.classList.add('homeMode');$('tabHome').classList.add('active');$('tabCollection').classList.remove('active');$('tabFestivals').classList.remove('active');history.replaceState(null,'',location.pathname);window.scrollTo({top:0,behavior:'smooth'})};
 
 $('tabFestivals').onclick=()=>{document.body.classList.remove('homeMode');setFestivalChrome(true);$('tabHome').classList.remove('active');$('tabFestivals').classList.add('active');$('tabCollection').classList.remove('active');const current=document.querySelector('.festivalSelectBtn.active')?.dataset.festival||'Cannes';rebuildFestivalYears(current);$('festSections').innerHTML=festivalSectionsHTML(current);history.replaceState(null,'','?view=festivals');window.scrollTo({top:0,behavior:'smooth'})};
@@ -724,12 +726,6 @@ $('tabCollection').onclick=()=>{if(FESTIVAL_DIRECT){location.href='?view=collect
 
 
 if(new URLSearchParams(location.search).get('view')==='festivals') $('tabFestivals').click();
-if(SEARCH_DIRECT){
- document.body.classList.remove('homeMode'); setFestivalChrome(false);
- $('tabHome').classList.remove('active'); $('tabFestivals').classList.remove('active');
- $('q').value=paramsIniciales.get('q')||''; render();
- setTimeout(()=>document.getElementById('catalogo').scrollIntoView({behavior:'smooth'}),50);
-}
 
 
 function setFestivalChrome(on){
