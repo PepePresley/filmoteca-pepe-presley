@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-10-05T11:00:44.741Z",
+  "groups": {
+    "Cannes|Competición oficial": {
+      "total": 21,
+      "telegramOwned": 19,
+      "webOwned": 18,
+      "falsePositive": [],
+      "falseNegative": [
+        "OS CANIBAIS"
+      ]
+    },
+    "Cannes|Un Certain Regard": {
+      "total": 22,
+      "telegramOwned": 2,
+      "webOwned": 5,
+      "falsePositive": [
+        "DE SABLE ET DE SANG",
+        "PROC",
+        "ROUGE OF THE NORTH"
+      ],
+      "falseNegative": []
+    },
+    "Berlín|Competición oficial": {
+      "total": 19,
+      "telegramOwned": 8,
+      "webOwned": 10,
+      "falsePositive": [
+        "Komissar",
+        "Ground Zero"
+      ],
+      "falseNegative": []
+    },
+    "Venecia|Competición oficial": {
+      "total": 22,
+      "telegramOwned": 14,
+      "webOwned": 15,
+      "falsePositive": [
+        "Caro Gorbaciov",
+        "Dedé Mamata"
+      ],
+      "falseNegative": [
+        "Niezwykła podróż Baltazara Kobera"
+      ]
+    },
+    "San Sebastián|Sección Oficial": {
+      "total": 18,
+      "telegramOwned": 10,
+      "webOwned": 13,
+      "falsePositive": [
+        "Agosto",
+        "Myonichi",
+        "Wherever You Are"
+      ],
+      "falseNegative": []
+    },
+    "Oscar|60.ª edición · películas de 1987": {
+      "total": 55,
+      "telegramOwned": 38,
+      "webOwned": 41,
+      "falsePositive": [
+        "Anna",
+        "My Life as a Dog",
+        "Radio Bikini"
+      ],
+      "falseNegative": []
+    }
+  },
+  "mismatchCount": 15,
+  "mismatches": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "OS CANIBAIS",
+      "director": "Manoel de Oliveira",
+      "expected": true,
+      "actual": false,
+      "match": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "title": "DE SABLE ET DE SANG",
+      "director": "Jeanne Labrune",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25074,
+        "t": "Вeћ виђeно",
+        "d": "Goran Marković",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "title": "PROC",
+      "director": "Karel Smyczek",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 24916,
+        "t": "Procedimiento ilegal",
+        "d": "John Badham",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "title": "ROUGE OF THE NORTH",
+      "director": "Fred Tan",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25080,
+        "t": "Rouge",
+        "d": "關錦鵬",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "title": "Komissar",
+      "director": "Aleksandr Askoldov",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25276,
+        "t": "Aria",
+        "d": "Charles Sturridge, Nicolas Roeg, Julien Temple, Bruce Beresford, Jean-Luc Godard, Robert Altman, Franc Roddam, Ken Russell, Derek Jarman, Bill Bryden",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "title": "Ground Zero",
+      "director": "Bruce Myles, Michael Pattinson",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25496,
+        "t": "Zona cero, alerta nuclear",
+        "d": "Michael Pattinson, Bruce Myles",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Caro Gorbaciov",
+      "director": "Carlo Lizzani",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25446,
+        "t": "Gor",
+        "d": "Fritz Kiersch",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Dedé Mamata",
+      "director": "Rodolfo Brandão",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25882,
+        "t": "Mama",
+        "d": "Pablo Berger",
+        "y": 1988
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Niezwykła podróż Baltazara Kobera",
+      "director": "Wojciech Jerzy Has",
+      "expected": true,
+      "actual": false,
+      "match": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial",
+      "title": "Agosto",
+      "director": "Jorge Silva Melo",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 24976,
+        "t": "Las ballenas de agosto",
+        "d": "Lindsay Anderson",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial",
+      "title": "Myonichi",
+      "director": "Kazuo Kuroki",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25570,
+        "t": "El Lute II: Mañana seré libre",
+        "d": "Vicente Aranda",
+        "y": 1988
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial",
+      "title": "Wherever You Are",
+      "director": "Krzysztof Zanussi",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25074,
+        "t": "Вeћ виђeно",
+        "d": "Goran Marković",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "60.ª edición · películas de 1987",
+      "title": "Anna",
+      "director": "",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 25435,
+        "t": "Anna y Cristina",
+        "d": "Yurek Bogayevicz",
+        "y": 1987
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "60.ª edición · películas de 1987",
+      "title": "My Life as a Dog",
+      "director": "",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 23297,
+        "t": "Mi vida como un perro",
+        "d": "Lasse Hallström",
+        "y": 1985
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "60.ª edición · películas de 1987",
+      "title": "Radio Bikini",
+      "director": "",
+      "expected": false,
+      "actual": true,
+      "match": {
+        "i": 24528,
+        "t": "RAD",
+        "d": "Hal Needham",
+        "y": 1986
+      }
+    }
+  ]
+}
