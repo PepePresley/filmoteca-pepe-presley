@@ -500,14 +500,22 @@ try{
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
  try{
-   const ar=await fetch("/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1");
-   if(ar.ok){
-     const annual=await ar.json();
-     if(Array.isArray(annual)) window.__CATALOGO__=window.__CATALOGO__.concat(annual);
+   const overlays=[
+     "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1"
+   ];
+   for(const url of overlays){
+     try{
+       const ar=await fetch(url);
+       if(ar.ok){
+         const annual=await ar.json();
+         if(Array.isArray(annual)) window.__CATALOGO__=window.__CATALOGO__.concat(annual);
+       }
+     }catch(_){}
    }
  }catch(_){}
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1997-v30");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1996-v31");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
 const FESTIVAL_DB = window.__FESTIVALES__;
