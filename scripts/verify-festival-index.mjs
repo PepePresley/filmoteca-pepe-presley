@@ -20,10 +20,31 @@ function sim(a,b){
 function makeIndex(rows,light=false){
  return rows.map((r,pos)=>({idx:light?r.i:pos,y:Number(r&&r.y)||0,d:norm(r&&r.d),titles:[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.o,r&&r.en,r&&r.english_title,r&&r.e].filter(Boolean).map(norm)}));
 }
-function resolve(ft,index){
+function prepare(index){
+ const byYear=new Map(),byTitle=new Map();
+ for(const x of index){
+  if(!byYear.has(x.y))byYear.set(x.y,[]);
+  byYear.get(x.y).push(x);
+  for(const t of x.titles){
+   if(!byTitle.has(t))byTitle.set(t,[]);
+   byTitle.get(t).push(x);
+  }
+ }
+ return {index,byYear,byTitle};
+}
+function candidates(ft,prepared){
+ const fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
+ const qs=[norm(ft.festival_title),...(ft.aliases||[]).map(norm).filter(Boolean)];
+ const map=new Map();
+ for(let y=targetYear-5;y<=targetYear+5;y++) for(const x of (prepared.byYear.get(y)||[])) map.set(x.idx,x);
+ // Outside ±5, only strongIdentity can qualify, and that requires an exact title.
+ for(const q of qs) for(const x of (prepared.byTitle.get(q)||[])) map.set(x.idx,x);
+ return [...map.values()].sort((a,b)=>a.idx-b.idx);
+}
+function resolve(ft,prepared){
  const nd=norm(ft.director),nt=norm(ft.festival_title),queryTitles=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)],fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
  let best=-1,bestScore=-1;
- for(const x of index){
+ for(const x of candidates(ft,prepared)){
   const yearDiff=(targetYear&&x.y)?Math.abs(x.y-targetYear):99;
   let dirSim=0;
   if(nd&&x.d){if(x.d===nd)dirSim=1;else if(x.d.includes(nd)||nd.includes(x.d))dirSim=.9;else dirSim=sim(x.d,nd);}
@@ -46,15 +67,15 @@ function resolve(ft,index){
 }
 function decade(y){y=Number(y)||0;const start=y<1930?1891:Math.floor(y/10)*10,end=start===1891?1929:start+9;return start+'-'+end;}
 
-const src=loadCatalog(), fullIndex=makeIndex(src);
+const src=loadCatalog(), fullPrepared=prepare(makeIndex(src));
 const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json','utf8'));
 const cache=new Map();
-function lightIndexFor(ft){
+function lightPreparedFor(ft){
  const target=ft.festival==='Oscar'?Number(ft.festival_year)-1:Number(ft.festival_year);
  const key=decade(target);
  if(!cache.has(key)){
   const rows=JSON.parse(fs.readFileSync('data/catalog/festival-index/'+key+'.json','utf8'));
-  cache.set(key,makeIndex(rows,true));
+  cache.set(key,prepare(makeIndex(rows,true)));
  }
  return cache.get(key);
 }
@@ -62,7 +83,7 @@ const checks=[],mismatches=[];
 for(const ed of (db.editions||[])){
  for(const f of (ed.films||[])){
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:f.award};
-  const full=resolve(ft,fullIndex),light=resolve(ft,lightIndexFor(ft));
+  const full=resolve(ft,fullPrepared),light=resolve(ft,lightPreparedFor(ft));
   const row={festival:ed.festival,year:Number(ed.year),section:ed.section,title:f.title,director:f.director||'',full,light,fullPresent:full>=0,lightPresent:light>=0};
   checks.push(row);
   if(full!==light)mismatches.push(row);
