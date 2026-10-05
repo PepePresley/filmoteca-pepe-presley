@@ -20,6 +20,7 @@ jobs:
         with:
           node-version: '20'
       - run: node scripts/build-festival-index.mjs
+      - run: node scripts/verify-festival-index.mjs
       - name: Commit generated indexes
         run: |
           git config user.name "github-actions[bot]"
