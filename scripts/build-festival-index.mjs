@@ -1,5 +1,12 @@
 import fs from 'node:fs';
-const src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
+let src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
+for(const f of ['annual_1989_overlay.json','annual_1990_1994_overlay.json','annual_1995_1996_overlay.json','annual_1997_1999_overlay.json']){
+ const p='data/catalog/'+f;
+ if(fs.existsSync(p)){
+   const extra=JSON.parse(fs.readFileSync(p,'utf8'));
+   if(Array.isArray(extra))src=src.concat(extra);
+ }
+}
 const out='data/catalog/festival-index';
 fs.mkdirSync(out,{recursive:true});
 const buckets=new Map();
