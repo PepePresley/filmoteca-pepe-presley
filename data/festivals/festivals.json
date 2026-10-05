@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "editions": [
     {
       "festival": "Cannes",
@@ -17614,6 +17614,1332 @@
           ],
           "wins": [],
           "award": "Nominación · Documental"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 1991,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "A Rage in Harlem",
+          "director": "Bill Duke",
+          "award": "En competición",
+          "aliases": [
+            "Furia en Harlem"
+          ]
+        },
+        {
+          "title": "Anna Karamazova",
+          "director": "Rustam Khamdamov",
+          "award": "En competición"
+        },
+        {
+          "title": "Tsareubiytsa",
+          "director": "Karen Shakhnazarov",
+          "award": "En competición",
+          "aliases": [
+            "The Assassin of the Tsar",
+            "El asesino del zar"
+          ]
+        },
+        {
+          "title": "Barton Fink",
+          "director": "Joel Coen",
+          "award": "Palma de Oro · Mejor dirección · Mejor actor · John Turturro"
+        },
+        {
+          "title": "Bian zou bian chang",
+          "director": "Chen Kaige",
+          "award": "En competición",
+          "aliases": [
+            "Life on a String",
+            "La vida pendiente de un hilo"
+          ]
+        },
+        {
+          "title": "Bix",
+          "director": "Pupi Avati",
+          "award": "En competición"
+        },
+        {
+          "title": "Europa",
+          "director": "Lars von Trier",
+          "award": "Premio del Jurado (ex aequo) · Gran Premio Técnico"
+        },
+        {
+          "title": "Guilty by Suspicion",
+          "director": "Irwin Winkler",
+          "award": "En competición",
+          "aliases": [
+            "Caza de brujas"
+          ]
+        },
+        {
+          "title": "Homicide",
+          "director": "David Mamet",
+          "award": "En competición"
+        },
+        {
+          "title": "Hors la vie",
+          "director": "Maroun Bagdadi",
+          "award": "Premio del Jurado (ex aequo)",
+          "aliases": [
+            "Out of Life"
+          ]
+        },
+        {
+          "title": "Il portaborse",
+          "director": "Daniele Luchetti",
+          "award": "En competición",
+          "aliases": [
+            "The Yes Man",
+            "El portaborse"
+          ]
+        },
+        {
+          "title": "Jungle Fever",
+          "director": "Spike Lee",
+          "award": "Mejor actor de reparto · Samuel L. Jackson"
+        },
+        {
+          "title": "La belle noiseuse",
+          "director": "Jacques Rivette",
+          "award": "Gran Premio",
+          "aliases": [
+            "La bella mentirosa"
+          ]
+        },
+        {
+          "title": "La carne",
+          "director": "Marco Ferreri",
+          "award": "En competición"
+        },
+        {
+          "title": "La double vie de Véronique",
+          "director": "Krzysztof Kieślowski",
+          "award": "Mejor actriz · Irène Jacob · FIPRESCI",
+          "aliases": [
+            "The Double Life of Veronique",
+            "La doble vida de Verónica"
+          ]
+        },
+        {
+          "title": "To meteoro vima tou pelargou",
+          "director": "Theo Angelopoulos",
+          "award": "En competición",
+          "aliases": [
+            "The Suspended Step of the Stork",
+            "El paso suspendido de la cigüeña"
+          ]
+        },
+        {
+          "title": "Lune froide",
+          "director": "Patrick Bouchitey",
+          "award": "En competición",
+          "aliases": [
+            "Cold Moon"
+          ]
+        },
+        {
+          "title": "Malina",
+          "director": "Werner Schroeter",
+          "award": "En competición"
+        },
+        {
+          "title": "Van Gogh",
+          "director": "Maurice Pialat",
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Cannes",
+      "year": 1991,
+      "section": "Un Certain Regard",
+      "films": [
+        {
+          "title": "A Captive in the Land",
+          "director": "John Berry",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Un prisonnier de la terre"
+          ]
+        },
+        {
+          "title": "Boyz n the Hood",
+          "director": "John Singleton",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Los chicos del barrio"
+          ]
+        },
+        {
+          "title": "Dar koutche-haye eshgh",
+          "director": "Khosrow Sinai",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "In the Alleys of Love"
+          ]
+        },
+        {
+          "title": "Halálutak és angyalok",
+          "director": "Zoltán Kamondi",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Paths of Death and Angels"
+          ]
+        },
+        {
+          "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+          "director": "Fax Bahr, George Hickenlooper",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Corazones en tinieblas"
+          ]
+        },
+        {
+          "title": "Holidays on the River Yarra",
+          "director": "Leo Berkeley",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "Ishanou",
+          "director": "Aribam Syam Sharma",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "L'entraînement du champion avant la course",
+          "director": "Bernard Favre",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "L'île au trésor",
+          "director": "Raúl Ruiz",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Treasure Island"
+          ]
+        },
+        {
+          "title": "La flûte de roseau",
+          "director": "Ermek Shinarbaev",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "The Reed Flute"
+          ]
+        },
+        {
+          "title": "La mujer del puerto",
+          "director": "Arturo Ripstein",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "Laada",
+          "director": "Drissa Touré",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "Lebewohl, Fremde",
+          "director": "Tevfik Başer",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Farewell Stranger"
+          ]
+        },
+        {
+          "title": "Perekhod tovarishcha Chkalova cherez severnyy polyus",
+          "director": "Maksim Pezhemsky",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Comrade Chkalov Crosses the North Pole"
+          ]
+        },
+        {
+          "title": "Pogrzeb kartofla",
+          "director": "Jan Jakub Kolski",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Burial of a Potato"
+          ]
+        },
+        {
+          "title": "Sango Malo",
+          "director": "Bassek Ba Kobhio",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "Ta Dona",
+          "director": "Adama Drabo",
+          "award": "Un Certain Regard"
+        },
+        {
+          "title": "Ucieczka z kina \"Wolność\"",
+          "director": "Wojciech Marczewski",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Escape from the Liberty Cinema"
+          ]
+        },
+        {
+          "title": "Ystävät, toverit",
+          "director": "Rauni Mollberg",
+          "award": "Un Certain Regard",
+          "aliases": [
+            "Friends, Comrades"
+          ]
+        },
+        {
+          "title": "Yumeji",
+          "director": "Seijun Suzuki",
+          "award": "Un Certain Regard"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1991,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Ferdydurke",
+          "director": "Jerzy Skolimowski",
+          "award": "En competición",
+          "aliases": [
+            "30 Door Key"
+          ]
+        },
+        {
+          "title": "La plage des enfants perdus",
+          "director": "Jillali Ferhati",
+          "award": "En competición",
+          "aliases": [
+            "The Beach of Lost Children"
+          ]
+        },
+        {
+          "title": "Chatarra",
+          "director": "Félix Rotaeta",
+          "award": "En competición"
+        },
+        {
+          "title": "Urga",
+          "director": "Nikita Mikhalkov",
+          "award": "León de Oro",
+          "aliases": [
+            "Close to Eden",
+            "Urga, el territorio del amor"
+          ]
+        },
+        {
+          "title": "A Divina Comédia",
+          "director": "Manoel de Oliveira",
+          "award": "Gran Premio Especial del Jurado",
+          "aliases": [
+            "The Divine Comedy",
+            "La divina comedia"
+          ]
+        },
+        {
+          "title": "Edward II",
+          "director": "Derek Jarman",
+          "award": "Copa Volpi · Mejor actriz · Tilda Swinton"
+        },
+        {
+          "title": "The Fisher King",
+          "director": "Terry Gilliam",
+          "award": "León de Plata",
+          "aliases": [
+            "El rey pescador"
+          ]
+        },
+        {
+          "title": "Allemagne année 90 neuf zéro",
+          "director": "Jean-Luc Godard",
+          "award": "En competición",
+          "aliases": [
+            "Germany Year 90 Nine Zero"
+          ]
+        },
+        {
+          "title": "J'entends plus la guitare",
+          "director": "Philippe Garrel",
+          "award": "León de Plata",
+          "aliases": [
+            "I Don't Hear the Guitar Anymore"
+          ]
+        },
+        {
+          "title": "Il muro di gomma",
+          "director": "Marco Risi",
+          "award": "En competición",
+          "aliases": [
+            "The Invisible Wall"
+          ]
+        },
+        {
+          "title": "Jeszcze tylko ten las",
+          "director": "Jan Łomnicki",
+          "award": "En competición",
+          "aliases": [
+            "Just Beyond This Forest"
+          ]
+        },
+        {
+          "title": "Meeting Venus",
+          "director": "István Szabó",
+          "award": "En competición"
+        },
+        {
+          "title": "Mississippi Masala",
+          "director": "Mira Nair",
+          "award": "Osella de Oro · Mejor guion"
+        },
+        {
+          "title": "My Own Private Idaho",
+          "director": "Gus Van Sant",
+          "award": "Copa Volpi · Mejor actor · River Phoenix",
+          "aliases": [
+            "Mi Idaho privado"
+          ]
+        },
+        {
+          "title": "L'amore necessario",
+          "director": "Fabio Carpi",
+          "award": "En competición",
+          "aliases": [
+            "Necessary Love"
+          ]
+        },
+        {
+          "title": "Nuit et jour",
+          "director": "Chantal Akerman",
+          "award": "En competición",
+          "aliases": [
+            "Night and Day"
+          ]
+        },
+        {
+          "title": "Prospero's Books",
+          "director": "Peter Greenaway",
+          "award": "En competición",
+          "aliases": [
+            "Los libros de Próspero"
+          ]
+        },
+        {
+          "title": "Da hong deng long gao gao gua",
+          "director": "Zhang Yimou",
+          "award": "León de Plata",
+          "aliases": [
+            "Raise the Red Lantern",
+            "La linterna roja"
+          ]
+        },
+        {
+          "title": "Cerro Torre: Schrei aus Stein",
+          "director": "Werner Herzog",
+          "award": "En competición",
+          "aliases": [
+            "Scream of Stone",
+            "Grito de piedra"
+          ]
+        },
+        {
+          "title": "Gizli yüz",
+          "director": "Ömer Kavur",
+          "award": "En competición",
+          "aliases": [
+            "The Secret Face"
+          ]
+        },
+        {
+          "title": "Una storia semplice",
+          "director": "Emidio Greco",
+          "award": "En competición",
+          "aliases": [
+            "A Simple Story"
+          ]
+        },
+        {
+          "title": "Les équilibristes",
+          "director": "Nikos Papatakis",
+          "award": "En competición",
+          "aliases": [
+            "Walking a Tightrope"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1991,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Amelia Lópes O'Neill",
+          "director": "Valeria Sarmiento",
+          "award": "En competición"
+        },
+        {
+          "title": "The Ballad of the Sad Café",
+          "director": "Simon Callow",
+          "award": "En competición"
+        },
+        {
+          "title": "Cabeza de Vaca",
+          "director": "Nicolás Echevarría",
+          "award": "En competición"
+        },
+        {
+          "title": "Il viaggio di Capitan Fracassa",
+          "director": "Ettore Scola",
+          "award": "En competición",
+          "aliases": [
+            "Captain Fracassa's Journey",
+            "El viaje del capitán Fracassa"
+          ]
+        },
+        {
+          "title": "La condanna",
+          "director": "Marco Bellocchio",
+          "award": "Oso de Plata · Premio Especial del Jurado",
+          "aliases": [
+            "The Conviction",
+            "La condena"
+          ]
+        },
+        {
+          "title": "Dances with Wolves",
+          "director": "Kevin Costner",
+          "award": "Oso de Plata · Logro individual sobresaliente",
+          "aliases": [
+            "Bailando con lobos"
+          ]
+        },
+        {
+          "title": "Fortune Express",
+          "director": "Olivier Schatzky",
+          "award": "En competición"
+        },
+        {
+          "title": "God afton, Herr Wallenberg",
+          "director": "Kjell Grede",
+          "award": "En competición",
+          "aliases": [
+            "Good Evening, Mr. Wallenberg"
+          ]
+        },
+        {
+          "title": "La casa del sorriso",
+          "director": "Marco Ferreri",
+          "award": "Oso de Oro",
+          "aliases": [
+            "The House of Smiles",
+            "La casa de la sonrisa"
+          ]
+        },
+        {
+          "title": "Da taijian Li Lianying",
+          "director": "Tian Zhuangzhuang",
+          "award": "Mención honorífica",
+          "aliases": [
+            "Li Lianying: The Imperial Eunuch"
+          ]
+        },
+        {
+          "title": "Le petit criminel",
+          "director": "Jacques Doillon",
+          "award": "Mención honorífica",
+          "aliases": [
+            "The Little Gangster",
+            "El pequeño criminal"
+          ]
+        },
+        {
+          "title": "Amantes",
+          "director": "Vicente Aranda",
+          "award": "Oso de Plata · Mejor actriz · Victoria Abril"
+        },
+        {
+          "title": "The Miracle",
+          "director": "Neil Jordan",
+          "award": "En competición"
+        },
+        {
+          "title": "Mister Johnson",
+          "director": "Bruce Beresford",
+          "award": "Oso de Plata · Mejor actor · Maynard Eziashi"
+        },
+        {
+          "title": "Der Berg",
+          "director": "Markus Imhoof",
+          "award": "En competición",
+          "aliases": [
+            "The Mountain"
+          ]
+        },
+        {
+          "title": "Isyhes meres tou Avgoustou",
+          "director": "Pantelis Voulgaris",
+          "award": "En competición",
+          "aliases": [
+            "Quiet Days in August"
+          ]
+        },
+        {
+          "title": "The Russia House",
+          "director": "Fred Schepisi",
+          "award": "En competición",
+          "aliases": [
+            "La casa Rusia"
+          ]
+        },
+        {
+          "title": "Satana",
+          "director": "Viktor Aristov",
+          "award": "Oso de Plata · Premio Especial del Jurado",
+          "aliases": [
+            "Satan"
+          ]
+        },
+        {
+          "title": "The Silence of the Lambs",
+          "director": "Jonathan Demme",
+          "award": "Oso de Plata · Mejor dirección",
+          "aliases": [
+            "El silencio de los corderos"
+          ]
+        },
+        {
+          "title": "Dandan-e-mar",
+          "director": "Masoud Kimiai",
+          "award": "Mención honorífica",
+          "aliases": [
+            "Snake Fang"
+          ]
+        },
+        {
+          "title": "Erfolg",
+          "director": "Franz Seitz Jr.",
+          "award": "En competición",
+          "aliases": [
+            "Success"
+          ]
+        },
+        {
+          "title": "Der Tangospieler",
+          "director": "Roland Gräf",
+          "award": "En competición",
+          "aliases": [
+            "The Tango Player"
+          ]
+        },
+        {
+          "title": "Ultrà",
+          "director": "Ricky Tognazzi",
+          "award": "Oso de Plata · Mejor dirección"
+        },
+        {
+          "title": "Uranus",
+          "director": "Claude Berri",
+          "award": "En competición"
+        },
+        {
+          "title": "Ked hviezdy boli cervené",
+          "director": "Dušan Trančík",
+          "award": "En competición",
+          "aliases": [
+            "When the Stars Were Red"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1991,
+      "section": "Sección Oficial · competición",
+      "films": [
+        {
+          "title": "Alas de mariposa",
+          "director": "Juanma Bajo Ulloa",
+          "award": "Concha de Oro",
+          "aliases": [
+            "Butterfly Wings"
+          ]
+        },
+        {
+          "title": "Closet Land",
+          "director": "Radha Bharadwaj",
+          "award": "En competición",
+          "aliases": [
+            "Tierra de armarios"
+          ]
+        },
+        {
+          "title": "Den store badedag",
+          "director": "Stellan Olsson",
+          "award": "En competición",
+          "aliases": [
+            "The Great Day on the Beach"
+          ]
+        },
+        {
+          "title": "Erster Verlust",
+          "director": "Maxim Dessau",
+          "award": "En competición",
+          "aliases": [
+            "First Loss"
+          ]
+        },
+        {
+          "title": "Highway 61",
+          "director": "Bruce McDonald",
+          "award": "Concha de Plata · Mejor dirección"
+        },
+        {
+          "title": "I Was on Mars",
+          "director": "Dani Levy",
+          "award": "En competición"
+        },
+        {
+          "title": "Kamigata kugai zoshi",
+          "director": "Tetsutaro Murano",
+          "award": "En competición"
+        },
+        {
+          "title": "La noche más larga",
+          "director": "José Luis García Sánchez",
+          "award": "En competición"
+        },
+        {
+          "title": "Los papeles de Aspern",
+          "director": "Jordi Cadena",
+          "award": "En competición"
+        },
+        {
+          "title": "Nie vozvraschenets",
+          "director": "Sergei Snezhkin",
+          "award": "Premio Especial del Jurado",
+          "aliases": [
+            "The Non-Returner"
+          ]
+        },
+        {
+          "title": "Scorchers",
+          "director": "David Beaird",
+          "award": "En competición"
+        },
+        {
+          "title": "Shuttlecock",
+          "director": "Andrew Piddington",
+          "award": "En competición"
+        },
+        {
+          "title": "Ucieczka z kina \"Wolność\"",
+          "director": "Wojciech Marczewski",
+          "award": "En competición",
+          "aliases": [
+            "Escape from the Liberty Cinema"
+          ]
+        },
+        {
+          "title": "Un nos ola leuad",
+          "director": "Endaf Emlyn",
+          "award": "En competición"
+        },
+        {
+          "title": "Vörös vurstli",
+          "director": "György Molnár",
+          "award": "En competición"
+        },
+        {
+          "title": "Waiting",
+          "director": "Jackie McKimmie",
+          "award": "Concha de Plata · Mejor actriz · reparto femenino"
+        },
+        {
+          "title": "Zombie ja kummitusjuna",
+          "director": "Mika Kaurismäki",
+          "award": "Concha de Plata · Mejor actor · Silu Seppälä",
+          "aliases": [
+            "Zombie and the Ghost Train"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 1991,
+      "section": "63.ª edición · películas de 1990",
+      "films": [
+        {
+          "title": "12:01 PM",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominación · Cortometraje"
+        },
+        {
+          "title": "Alice",
+          "nominations": [
+            "Guion original"
+          ],
+          "wins": [],
+          "award": "Nominación · Guion original"
+        },
+        {
+          "title": "American Dream",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [
+            "Documental"
+          ],
+          "award": "Oscar · Documental"
+        },
+        {
+          "title": "Avalon",
+          "nominations": [
+            "Fotografía",
+            "Vestuario",
+            "Música original",
+            "Guion original"
+          ],
+          "wins": [],
+          "award": "Nominación · Fotografía · Vestuario · Música original · Guion original"
+        },
+        {
+          "title": "Awakenings",
+          "nominations": [
+            "Actor protagonista",
+            "Película",
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominación · Actor protagonista · Película · Guion adaptado",
+          "aliases": [
+            "Despertares"
+          ]
+        },
+        {
+          "title": "Berkeley in the Sixties",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Documental"
+        },
+        {
+          "title": "Bronx Cheers",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominación · Cortometraje"
+        },
+        {
+          "title": "Building Bombs",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Documental"
+        },
+        {
+          "title": "Burning Down Tomorrow",
+          "nominations": [
+            "Corto documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Corto documental"
+        },
+        {
+          "title": "Chimps: So Like Us",
+          "nominations": [
+            "Corto documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Corto documental"
+        },
+        {
+          "title": "Creature Comforts",
+          "nominations": [
+            "Cortometraje animado"
+          ],
+          "wins": [
+            "Cortometraje animado"
+          ],
+          "award": "Oscar · Cortometraje animado"
+        },
+        {
+          "title": "Cyrano de Bergerac",
+          "nominations": [
+            "Actor protagonista",
+            "Dirección artística",
+            "Vestuario",
+            "Película de habla no inglesa",
+            "Maquillaje"
+          ],
+          "wins": [
+            "Vestuario"
+          ],
+          "award": "Oscar · Vestuario"
+        },
+        {
+          "title": "Dances with Wolves",
+          "nominations": [
+            "Actor protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección artística",
+            "Fotografía",
+            "Vestuario",
+            "Dirección",
+            "Montaje",
+            "Música original",
+            "Película",
+            "Sonido",
+            "Guion adaptado"
+          ],
+          "wins": [
+            "Fotografía",
+            "Dirección",
+            "Montaje",
+            "Música original",
+            "Película",
+            "Sonido",
+            "Guion adaptado"
+          ],
+          "award": "Oscar · Fotografía · Dirección · Montaje · Música original · Película · Sonido · Guion adaptado",
+          "aliases": [
+            "Bailando con lobos"
+          ]
+        },
+        {
+          "title": "Days of Thunder",
+          "nominations": [
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "Nominación · Sonido",
+          "aliases": [
+            "Días de trueno"
+          ]
+        },
+        {
+          "title": "Days of Waiting",
+          "nominations": [
+            "Corto documental"
+          ],
+          "wins": [
+            "Corto documental"
+          ],
+          "award": "Oscar · Corto documental"
+        },
+        {
+          "title": "Dear Rosie",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominación · Cortometraje"
+        },
+        {
+          "title": "Dick Tracy",
+          "nominations": [
+            "Actor de reparto",
+            "Dirección artística",
+            "Fotografía",
+            "Vestuario",
+            "Maquillaje",
+            "Canción original",
+            "Sonido"
+          ],
+          "wins": [
+            "Dirección artística",
+            "Maquillaje",
+            "Canción original"
+          ],
+          "award": "Oscar · Dirección artística · Maquillaje · Canción original"
+        },
+        {
+          "title": "Edward Scissorhands",
+          "nominations": [
+            "Maquillaje"
+          ],
+          "wins": [],
+          "award": "Nominación · Maquillaje",
+          "aliases": [
+            "Eduardo Manostijeras"
+          ]
+        },
+        {
+          "title": "The Field",
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": [],
+          "award": "Nominación · Actor protagonista",
+          "aliases": [
+            "El prado"
+          ]
+        },
+        {
+          "title": "Flatliners",
+          "nominations": [
+            "Edición de efectos de sonido"
+          ],
+          "wins": [],
+          "award": "Nominación · Edición de efectos de sonido",
+          "aliases": [
+            "Línea mortal"
+          ]
+        },
+        {
+          "title": "Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Documental"
+        },
+        {
+          "title": "Ghost",
+          "nominations": [
+            "Actriz de reparto",
+            "Montaje",
+            "Música original",
+            "Película",
+            "Guion original"
+          ],
+          "wins": [
+            "Actriz de reparto",
+            "Guion original"
+          ],
+          "award": "Oscar · Actriz de reparto · Guion original"
+        },
+        {
+          "title": "The Godfather, Part III",
+          "nominations": [
+            "Actor de reparto",
+            "Dirección artística",
+            "Fotografía",
+            "Dirección",
+            "Montaje",
+            "Canción original",
+            "Película"
+          ],
+          "wins": [],
+          "award": "Nominación · Actor de reparto · Dirección artística · Fotografía · Dirección · Montaje · Canción original · Película",
+          "aliases": [
+            "El padrino. Parte III"
+          ]
+        },
+        {
+          "title": "Good Fellas",
+          "nominations": [
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección",
+            "Montaje",
+            "Película",
+            "Guion adaptado"
+          ],
+          "wins": [
+            "Actor de reparto"
+          ],
+          "award": "Oscar · Actor de reparto",
+          "aliases": [
+            "Goodfellas",
+            "Uno de los nuestros"
+          ]
+        },
+        {
+          "title": "A Grand Day Out",
+          "nominations": [
+            "Cortometraje animado"
+          ],
+          "wins": [],
+          "award": "Nominación · Cortometraje animado"
+        },
+        {
+          "title": "Grasshoppers (Cavallette)",
+          "nominations": [
+            "Cortometraje animado"
+          ],
+          "wins": [],
+          "award": "Nominación · Cortometraje animado"
+        },
+        {
+          "title": "Green Card",
+          "nominations": [
+            "Guion original"
+          ],
+          "wins": [],
+          "award": "Nominación · Guion original"
+        },
+        {
+          "title": "The Grifters",
+          "nominations": [
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección",
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominación · Actriz protagonista · Actriz de reparto · Dirección · Guion adaptado",
+          "aliases": [
+            "Los timadores"
+          ]
+        },
+        {
+          "title": "Hamlet",
+          "nominations": [
+            "Dirección artística",
+            "Vestuario"
+          ],
+          "wins": [],
+          "award": "Nominación · Dirección artística · Vestuario"
+        },
+        {
+          "title": "Havana",
+          "nominations": [
+            "Música original"
+          ],
+          "wins": [],
+          "award": "Nominación · Música original"
+        },
+        {
+          "title": "Henry & June",
+          "nominations": [
+            "Fotografía"
+          ],
+          "wins": [],
+          "award": "Nominación · Fotografía"
+        },
+        {
+          "title": "Home Alone",
+          "nominations": [
+            "Música original",
+            "Canción original"
+          ],
+          "wins": [],
+          "award": "Nominación · Música original · Canción original",
+          "aliases": [
+            "Solo en casa"
+          ]
+        },
+        {
+          "title": "The Hunt for Red October",
+          "nominations": [
+            "Montaje",
+            "Sonido",
+            "Edición de efectos de sonido"
+          ],
+          "wins": [
+            "Edición de efectos de sonido"
+          ],
+          "award": "Oscar · Edición de efectos de sonido",
+          "aliases": [
+            "La caza del Octubre Rojo"
+          ]
+        },
+        {
+          "title": "Journey into Life: The World of the Unborn",
+          "nominations": [
+            "Corto documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Corto documental"
+        },
+        {
+          "title": "Reise der Hoffnung",
+          "nominations": [
+            "Película de habla no inglesa"
+          ],
+          "wins": [
+            "Película de habla no inglesa"
+          ],
+          "award": "Oscar · Película de habla no inglesa",
+          "aliases": [
+            "Journey of Hope",
+            "Viaje a la esperanza"
+          ]
+        },
+        {
+          "title": "Ju Dou",
+          "nominations": [
+            "Película de habla no inglesa"
+          ],
+          "wins": [],
+          "award": "Nominación · Película de habla no inglesa"
+        },
+        {
+          "title": "Longtime Companion",
+          "nominations": [
+            "Actor de reparto"
+          ],
+          "wins": [],
+          "award": "Nominación · Actor de reparto"
+        },
+        {
+          "title": "The Lunch Date",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ],
+          "award": "Oscar · Cortometraje"
+        },
+        {
+          "title": "Metropolitan",
+          "nominations": [
+            "Guion original"
+          ],
+          "wins": [],
+          "award": "Nominación · Guion original"
+        },
+        {
+          "title": "Misery",
+          "nominations": [
+            "Actriz protagonista"
+          ],
+          "wins": [
+            "Actriz protagonista"
+          ],
+          "award": "Oscar · Actriz protagonista"
+        },
+        {
+          "title": "Mr. & Mrs. Bridge",
+          "nominations": [
+            "Actriz protagonista"
+          ],
+          "wins": [],
+          "award": "Nominación · Actriz protagonista",
+          "aliases": [
+            "Mr. y Mrs. Bridge"
+          ]
+        },
+        {
+          "title": "Das schreckliche Mädchen",
+          "nominations": [
+            "Película de habla no inglesa"
+          ],
+          "wins": [],
+          "award": "Nominación · Película de habla no inglesa",
+          "aliases": [
+            "The Nasty Girl",
+            "La chica terrible"
+          ]
+        },
+        {
+          "title": "Porte aperte",
+          "nominations": [
+            "Película de habla no inglesa"
+          ],
+          "wins": [],
+          "award": "Nominación · Película de habla no inglesa",
+          "aliases": [
+            "Open Doors",
+            "Puertas abiertas"
+          ]
+        },
+        {
+          "title": "Postcards from the Edge",
+          "nominations": [
+            "Actriz protagonista",
+            "Canción original"
+          ],
+          "wins": [],
+          "award": "Nominación · Actriz protagonista · Canción original",
+          "aliases": [
+            "Postales desde el filo"
+          ]
+        },
+        {
+          "title": "Pretty Woman",
+          "nominations": [
+            "Actriz protagonista"
+          ],
+          "wins": [],
+          "award": "Nominación · Actriz protagonista"
+        },
+        {
+          "title": "Reversal of Fortune",
+          "nominations": [
+            "Actor protagonista",
+            "Dirección",
+            "Guion adaptado"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ],
+          "award": "Oscar · Actor protagonista",
+          "aliases": [
+            "El misterio Von Bülow"
+          ]
+        },
+        {
+          "title": "Rose Kennedy: A Life to Remember",
+          "nominations": [
+            "Corto documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Corto documental"
+        },
+        {
+          "title": "Senzeni Na? (What Have We Done?)",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominación · Cortometraje"
+        },
+        {
+          "title": "Total Recall",
+          "nominations": [
+            "Sonido",
+            "Edición de efectos de sonido",
+            "Premio especial al logro · Efectos visuales"
+          ],
+          "wins": [
+            "Premio especial al logro · Efectos visuales"
+          ],
+          "award": "Oscar · Premio especial al logro · Efectos visuales",
+          "aliases": [
+            "Desafío total"
+          ]
+        },
+        {
+          "title": "Waldo Salt: A Screenwriter's Journey",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [],
+          "award": "Nominación · Documental"
+        },
+        {
+          "title": "Wild at Heart",
+          "nominations": [
+            "Actriz de reparto"
+          ],
+          "wins": [],
+          "award": "Nominación · Actriz de reparto",
+          "aliases": [
+            "Corazón salvaje"
+          ]
+        },
+        {
+          "title": "Young Guns II",
+          "nominations": [
+            "Canción original"
+          ],
+          "wins": [],
+          "award": "Nominación · Canción original"
         }
       ]
     }
