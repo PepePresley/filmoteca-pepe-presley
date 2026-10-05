@@ -156,7 +156,7 @@ body.festivalMode .festivalHub{margin-top:10px}
  .festNav button{width:auto;min-width:max-content;padding:8px 10px}
  .festDivider{margin:10px 5px}
  .festSideLabel{font-size:14px;margin:0 6px 7px}
- .festYears{display:grid;gap:5px;overflow:auto;max-height:230px;padding:0 0 4px}
+ .festYears{display:grid;grid-template-columns:1fr;gap:5px;overflow:auto;max-height:230px;padding:0 0 4px}
  .festDecadeToggle{padding:8px 10px}
  .festDecade.open .festDecadeYears{grid-template-columns:repeat(5,minmax(0,1fr));gap:3px;padding:4px}
  .festDecadeYears .festivalYearBtn{min-width:0;text-align:center;padding:7px 3px;border:1px solid #292720}
@@ -429,7 +429,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
     <button class="festivalSelectBtn" data-festival="Oscar"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
    </div>
    <div class="festDivider"></div>
-   <div class="festSideLabel" id="festYearLabel">Año (Cannes)</div>
+   <div class="festSideLabel" id="festYearLabel">Década / Año (Cannes)</div>
    <div class="festYears" id="festYears"><div class="festYearsLoading">Cargando décadas…</div></div>
    <div class="festDivider"></div>
    <div class="festSideLabel">Sección</div>
