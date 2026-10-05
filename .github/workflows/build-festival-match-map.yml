@@ -2,10 +2,13 @@ name: Build exact festival match map
 on:
   push:
     branches:
-      - lab-lightweight-festival-index
+      - main
     paths:
       - '.github/workflows/build-festival-match-map.yml'
       - 'scripts/build-festival-matches.mjs'
+      - 'data/catalog/catalog.json'
+      - 'data/catalog/annual_*_overlay.json'
+      - 'data/festivals/festivals.json'
 permissions:
   contents: write
 concurrency:
@@ -17,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: lab-lightweight-festival-index
+          ref: ${{ github.ref_name }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -31,6 +34,6 @@ jobs:
             echo "No map changes"
           else
             git commit -m "Generate exact festival match map"
-            git pull --rebase origin lab-lightweight-festival-index
-            git push
+            git pull --rebase origin "$GITHUB_REF_NAME"
+            git push origin "HEAD:$GITHUB_REF_NAME"
           fi
