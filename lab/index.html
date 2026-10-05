@@ -1087,7 +1087,7 @@ function selectFestival(f,openLatest=true){
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
 document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>selectFestival(b.dataset.festival,true));
 // Welcome-card counts are always computed from the same live festival data.
-if(!FESTIVAL_DIRECT) document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
+document.querySelectorAll('.festMini.festivalYearBtn').forEach(b=>{
  const yr=Number(b.dataset.year), ed=festivalEditionData(yr), s=b.querySelector('span');
  if(s) s.textContent=ed.present.length+' de '+(ed.present.length+ed.missing.length)+' en tu filmoteca';
 });
@@ -1105,7 +1105,7 @@ if(directParams.get('view')==='festivals'){
  if(directYear){ openFestivalYear(directYear); if(directParams.get('pending')==='year') renderAnnualMissing(directYear); }
 }
 
-chooseSpot();render();
+if(!FESTIVAL_DIRECT){chooseSpot();render();}
 
 }catch(e){console.error("Error en /lab/:",e);}
 }
