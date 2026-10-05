@@ -111,9 +111,18 @@ linear-gradient(180deg,#171013,#0e0e10);color:#c69a9e;font-family:Georgia,serif;
 .festNav button.locked{opacity:.45;cursor:default}.festNav .ico{display:inline-block;width:24px;text-align:center;margin-right:5px}
 .festDivider{height:1px;background:#292722;margin:18px 7px}
 .festSideLabel{font-family:Georgia,serif;font-size:16px;color:#f0eadf;margin:0 9px 10px}
-.festYears{display:grid;gap:3px;max-height:265px;overflow:auto;padding-right:3px}
-.festYears button{border:0;background:transparent;color:#aaa49a;text-align:left;padding:7px 12px;border-radius:8px;cursor:pointer}
-.festYears button:hover,.festYears button.active{background:#3c321d;color:#f4d276;font-weight:800}
+.festYears{display:grid;gap:5px;max-height:285px;overflow:auto;padding-right:3px}
+.festDecade{border:1px solid transparent;border-radius:9px;overflow:hidden}
+.festDecade.open{border-color:#29261f;background:#11100e}
+.festDecadeToggle{width:100%;border:0;background:transparent;color:#aaa49a;text-align:left;padding:8px 10px;border-radius:8px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:8px;font-size:12px;font-weight:750;letter-spacing:.02em}
+.festDecadeToggle:hover,.festDecade.open>.festDecadeToggle{background:#211c12;color:#e8cb79}
+.festDecadeChevron{font-size:17px;line-height:1;transition:transform .16s ease;color:#746b5d}
+.festDecade.open .festDecadeChevron{transform:rotate(90deg);color:#d7b85f}
+.festDecadeYears{display:none;padding:2px 4px 5px}
+.festDecade.open .festDecadeYears{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2px}
+.festDecadeYears .festivalYearBtn{border:0;background:transparent;color:#aaa49a;text-align:left;padding:6px 8px 6px 13px;border-radius:7px;cursor:pointer;font-size:12px}
+.festDecadeYears .festivalYearBtn:hover,.festDecadeYears .festivalYearBtn.active{background:#3c321d;color:#f4d276;font-weight:800}
+.festYearsLoading{color:#817b72;font-size:12px;padding:7px 10px}
 .festSections{display:grid;gap:4px}.festSections div{padding:7px 12px;color:#8e8981;font-size:12px;border-radius:7px}.festSections .active{background:#2b261a;color:#e8ca76}
 .festMain{min-width:0}
 .festHero{min-height:215px;padding:34px 38px;display:flex;align-items:flex-end;background:
@@ -147,8 +156,10 @@ body.festivalMode .festivalHub{margin-top:10px}
  .festNav button{width:auto;min-width:max-content;padding:8px 10px}
  .festDivider{margin:10px 5px}
  .festSideLabel{font-size:14px;margin:0 6px 7px}
- .festYears{display:flex;gap:5px;overflow-x:auto;max-height:none;padding:0 0 4px}
- .festYears button{min-width:62px;text-align:center;padding:7px 9px;border:1px solid #292720}
+ .festYears{display:grid;gap:5px;overflow:auto;max-height:230px;padding:0 0 4px}
+ .festDecadeToggle{padding:8px 10px}
+ .festDecade.open .festDecadeYears{grid-template-columns:repeat(5,minmax(0,1fr));gap:3px;padding:4px}
+ .festDecadeYears .festivalYearBtn{min-width:0;text-align:center;padding:7px 3px;border:1px solid #292720}
  .festSections{display:flex;gap:5px;overflow-x:auto}
  .festSections div{min-width:max-content;border:1px solid #292720;padding:7px 9px}
  .festHero{min-height:170px;padding:22px 20px}
@@ -419,21 +430,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
    </div>
    <div class="festDivider"></div>
    <div class="festSideLabel" id="festYearLabel">Año (Cannes)</div>
-   <div class="festYears" id="festYears">
-    <button class="festivalYearBtn" data-year="2024">2024</button>
-    <button class="festivalYearBtn" data-year="2022">2022</button>
-    <button class="festivalYearBtn" data-year="2021">2021</button>
-    <button class="festivalYearBtn" data-year="1999">1999</button>
-    <button class="festivalYearBtn" data-year="1998">1998</button>
-    <button class="festivalYearBtn" data-year="1997">1997</button>
-    <button class="festivalYearBtn" data-year="1996">1996</button>
-    <button class="festivalYearBtn" data-year="1995">1995</button>
-    <button class="festivalYearBtn" data-year="1994">1994</button>
-    <button class="festivalYearBtn" data-year="1993">1993</button>
-    <button class="festivalYearBtn" data-year="1992">1992</button>
-    <button class="festivalYearBtn" data-year="1991">1991</button>
-    <button class="festivalYearBtn" data-year="1990">1990</button>
-   </div>
+   <div class="festYears" id="festYears"><div class="festYearsLoading">Cargando décadas…</div></div>
    <div class="festDivider"></div>
    <div class="festSideLabel">Sección</div>
    <div class="festSections" id="festSections"><div class="active">Sección Oficial</div><div>Una cierta mirada · próximamente</div><div>Quincena · próximamente</div><div>Otras secciones · próximamente</div></div>
@@ -955,6 +952,7 @@ function renderOscarCategory(fy,cat){
  appendAnnualMissingLink(fy);;
 }
 async function openFestivalYear(yr){
+ openFestivalDecadeForYear(yr);
  activeFestival=selectedFestival.toLowerCase()+yr;
  setFestivalChrome(true);
  $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
@@ -1068,12 +1066,44 @@ function festivalSectionsHTML(f){
  if(f==='Cannes') return '<div class="active">Selecciona un año</div><div>Competición oficial</div><div>Un Certain Regard</div>';
  return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
 }
-function rebuildFestivalYears(f){
- const years=f==='Cannes'
+let festivalOpenDecade=null;
+function festivalYearsFor(f){
+ return f==='Cannes'
    ? [...new Set([...availableYears(f),2022,2021,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990])].sort((a,b)=>b-a)
    : availableYears(f);
- $('festYearLabel').textContent='Año ('+f+')';
- $('festYears').innerHTML=years.map(y=>'<button class="festivalYearBtn" data-year="'+y+'">'+y+'</button>').join('');
+}
+function festivalDecadeStart(y){return Math.floor(Number(y)/10)*10}
+function setFestivalDecade(decade,allowClose=true){
+ const target=Number(decade), same=festivalOpenDecade===target;
+ document.querySelectorAll('#festYears .festDecade').forEach(x=>x.classList.remove('open'));
+ if(allowClose&&same){festivalOpenDecade=null;return}
+ festivalOpenDecade=target;
+ const el=document.querySelector('#festYears .festDecade[data-decade="'+target+'"]');
+ if(el)el.classList.add('open');
+}
+function openFestivalDecadeForYear(year){
+ const decade=festivalDecadeStart(year);
+ festivalOpenDecade=null;
+ setFestivalDecade(decade,false);
+}
+function rebuildFestivalYears(f,preferredYear=null){
+ const years=festivalYearsFor(f), groups=[];
+ years.forEach(y=>{
+   const decade=festivalDecadeStart(y);
+   let g=groups.find(x=>x.decade===decade);
+   if(!g){g={decade,years:[]};groups.push(g)}
+   g.years.push(y);
+ });
+ const firstYear=preferredYear||years[0]||null;
+ festivalOpenDecade=firstYear?festivalDecadeStart(firstYear):null;
+ $('festYearLabel').textContent='Década / Año ('+f+')';
+ $('festYears').innerHTML=groups.map(g=>
+   '<div class="festDecade '+(g.decade===festivalOpenDecade?'open':'')+'" data-decade="'+g.decade+'">'+
+    '<button class="festDecadeToggle" type="button" data-decade="'+g.decade+'"><span>'+g.decade+'–'+(g.decade+9)+'</span><span class="festDecadeChevron">›</span></button>'+
+    '<div class="festDecadeYears">'+g.years.map(y=>'<button class="festivalYearBtn" type="button" data-year="'+y+'">'+y+'</button>').join('')+'</div>'+
+   '</div>'
+ ).join('');
+ $('festYears').querySelectorAll('.festDecadeToggle').forEach(b=>b.onclick=()=>setFestivalDecade(Number(b.dataset.decade),true));
  $('festYears').querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
 }
 function selectFestival(f,openLatest=true){
@@ -1082,7 +1112,7 @@ function selectFestival(f,openLatest=true){
  rebuildFestivalYears(f);
  $('festSections').innerHTML=festivalSectionsHTML(f);
  const use=$('festHeroUse'); if(use) use.setAttribute('href',festivalIconId(f));
- if(openLatest){const years=availableYears(f);if(years.length)openFestivalYear(years[0]);}
+ if(openLatest){const years=festivalYearsFor(f);if(years.length)openFestivalYear(years[0]);}
 }
 document.querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
 document.querySelectorAll('.festivalSelectBtn').forEach(b=>b.onclick=()=>selectFestival(b.dataset.festival,true));
