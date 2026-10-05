@@ -1,0 +1,37 @@
+name: Build 1988 festival matches
+on:
+  push:
+    branches:
+      - lab-1988-complete
+    paths:
+      - '.github/workflows/build-1988-festival-matches.yml'
+      - 'data/festivals/festivals.json'
+      - 'scripts/build-festival-matches.mjs'
+permissions:
+  contents: write
+concurrency:
+  group: build-1988-festival-matches
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: lab-1988-complete
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/build-festival-matches.mjs
+      - name: Commit match map
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog/festival-matches.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Generate 1988 festival ownership matches"
+            git pull --rebase origin lab-1988-complete
+            git push origin HEAD:lab-1988-complete
+          fi
