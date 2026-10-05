@@ -1,0 +1,19 @@
+name: Verify exact festival map baseline
+on:
+  push:
+    branches:
+      - lab-lightweight-festival-index
+    paths:
+      - '.github/workflows/verify-map-baseline.yml'
+      - 'scripts/verify-map-baseline.mjs'
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: lab-lightweight-festival-index
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/verify-map-baseline.mjs
