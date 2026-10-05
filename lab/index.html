@@ -156,10 +156,11 @@ body.festivalMode .festivalHub{margin-top:10px}
  .festNav button{width:auto;min-width:max-content;padding:8px 10px}
  .festDivider{margin:10px 5px}
  .festSideLabel{font-size:14px;margin:0 6px 7px}
- .festYears{display:grid;grid-template-columns:1fr;gap:5px;overflow:auto;max-height:230px;padding:0 0 4px}
- .festDecadeToggle{padding:8px 10px}
- .festDecade.open .festDecadeYears{grid-template-columns:repeat(5,minmax(0,1fr));gap:3px;padding:4px}
- .festDecadeYears .festivalYearBtn{min-width:0;text-align:center;padding:7px 3px;border:1px solid #292720}
+ .festYears{display:flex;flex-direction:column;gap:6px;overflow:visible;max-height:none;padding:0 0 4px;width:100%}
+ .festDecade{width:100%;flex:0 0 auto}
+ .festDecadeToggle{padding:10px 12px;font-size:13px}
+ .festDecade.open .festDecadeYears{grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;padding:7px}
+ .festDecadeYears .festivalYearBtn{min-width:0;width:100%;text-align:center;padding:9px 3px;border:1px solid #292720;font-size:12px}
  .festSections{display:flex;gap:5px;overflow-x:auto}
  .festSections div{min-width:max-content;border:1px solid #292720;padding:7px 9px}
  .festHero{min-height:170px;padding:22px 20px}
