@@ -516,7 +516,7 @@ try{
  const FESTIVAL_DIRECT=INITIAL_PARAMS.get('view')==='festivals';
  window.__CATALOGO__=[];
  if(!FESTIVAL_DIRECT){
- const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
+ const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab5");
  if(!r.ok) throw new Error("HTTP "+r.status);
  window.__CATALOGO__=await r.json();
  window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row&&row.y)!==2025);
@@ -526,19 +526,19 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_01.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_02.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_03.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_04.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_05.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_1.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_2.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_3.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_1.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_2.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_3.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_1.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_2.json?v=annual-2025-v1"
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_01.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_02.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_03.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_04.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_05.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_1.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_2.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_3.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_1.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_2.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_3.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_1.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_2.json?v=annual-2025-v2"
    ];
    for(const url of overlays){
      try{
@@ -794,19 +794,19 @@ async function ensureFullCatalog(){
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
    "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_01.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_02.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_03.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_04.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_05.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_1.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_2.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_3.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_1.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_2.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_3.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_1.json?v=annual-2025-v1",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_2.json?v=annual-2025-v1"
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_01.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_02.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_03.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_04.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_05.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_1.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_2.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_06_3.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_1.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_2.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_07_3.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_1.json?v=annual-2025-v2",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay_08_2.json?v=annual-2025-v2"
  ]){
    try{
      const ar=await fetch(url);
