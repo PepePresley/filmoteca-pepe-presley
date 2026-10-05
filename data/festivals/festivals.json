@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "editions": [
     {
       "festival": "Cannes",
@@ -11648,10 +11648,11 @@
             "Doce monos"
           ],
           "nominations": [
-            "Actor de reparto"
+            "Actor de reparto",
+            "Vestuario"
           ],
           "wins": [],
-          "award": "Nominación · Actor de reparto"
+          "award": "Nominación · Actor de reparto · Vestuario"
         },
         {
           "title": "All Things Fair",
@@ -11704,12 +11705,21 @@
             "Apolo 13"
           ],
           "nominations": [
-            "Montaje"
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección artística",
+            "Montaje",
+            "Música dramática",
+            "Película",
+            "Sonido",
+            "Efectos visuales",
+            "Guion adaptado"
           ],
           "wins": [
-            "Montaje"
+            "Montaje",
+            "Sonido"
           ],
-          "award": "Oscar · Montaje"
+          "award": "Oscar · Montaje · Sonido"
         },
         {
           "title": "Babe",
@@ -11718,7 +11728,13 @@
             "Babe: El cerdito valiente"
           ],
           "nominations": [
-            "Efectos visuales"
+            "Actor de reparto",
+            "Dirección artística",
+            "Dirección",
+            "Montaje",
+            "Película",
+            "Efectos visuales",
+            "Guion adaptado"
           ],
           "wins": [
             "Efectos visuales"
@@ -11728,10 +11744,12 @@
         {
           "title": "Batman Forever",
           "nominations": [
-            "Fotografía"
+            "Fotografía",
+            "Sonido",
+            "Edición de efectos de sonido"
           ],
           "wins": [],
-          "award": "Nominación · Fotografía"
+          "award": "Nominación · Fotografía · Sonido · Edición de efectos de sonido"
         },
         {
           "title": "The Battle over Citizen Kane",
@@ -11744,12 +11762,25 @@
         {
           "title": "Braveheart",
           "nominations": [
-            "Película"
+            "Fotografía",
+            "Vestuario",
+            "Dirección",
+            "Montaje",
+            "Maquillaje",
+            "Música dramática",
+            "Película",
+            "Sonido",
+            "Edición de efectos de sonido",
+            "Guion original"
           ],
           "wins": [
-            "Película"
+            "Fotografía",
+            "Dirección",
+            "Maquillaje",
+            "Película",
+            "Edición de efectos de sonido"
           ],
-          "award": "Oscar · Película"
+          "award": "Oscar · Fotografía · Dirección · Maquillaje · Película · Edición de efectos de sonido"
         },
         {
           "title": "The Bridges of Madison County",
@@ -11805,10 +11836,12 @@
             "Marea roja"
           ],
           "nominations": [
-            "Montaje"
+            "Montaje",
+            "Sonido",
+            "Edición de efectos de sonido"
           ],
           "wins": [],
-          "award": "Nominación · Montaje"
+          "award": "Nominación · Montaje · Sonido · Edición de efectos de sonido"
         },
         {
           "title": "Dead Man Walking",
@@ -11816,7 +11849,10 @@
             "Pena de muerte"
           ],
           "nominations": [
-            "Actriz protagonista"
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Dirección",
+            "Canción original"
           ],
           "wins": [
             "Actriz protagonista"
@@ -11898,7 +11934,10 @@
         {
           "title": "Leaving Las Vegas",
           "nominations": [
-            "Actor protagonista"
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Dirección",
+            "Guion adaptado"
           ],
           "wins": [
             "Actor protagonista"
@@ -11921,10 +11960,11 @@
             "La princesita"
           ],
           "nominations": [
-            "Dirección artística"
+            "Dirección artística",
+            "Fotografía"
           ],
           "wins": [],
-          "award": "Nominación · Dirección artística"
+          "award": "Nominación · Dirección artística · Fotografía"
         },
         {
           "title": "Little Surprises",
@@ -11948,7 +11988,8 @@
             "Poderosa Afrodita"
           ],
           "nominations": [
-            "Actriz de reparto"
+            "Actriz de reparto",
+            "Guion original"
           ],
           "wins": [
             "Actriz de reparto"
@@ -11985,10 +12026,13 @@
         {
           "title": "Nixon",
           "nominations": [
-            "Actor protagonista"
+            "Actor protagonista",
+            "Actriz de reparto",
+            "Música dramática",
+            "Guion original"
           ],
           "wins": [],
-          "award": "Nominación · Actor protagonista"
+          "award": "Nominación · Actor protagonista · Actriz de reparto · Música dramática · Guion original"
         },
         {
           "title": "O Quatrilho",
@@ -12011,12 +12055,14 @@
         {
           "title": "Pocahontas",
           "nominations": [
-            "Música"
+            "Música de comedia o musical",
+            "Canción original"
           ],
           "wins": [
-            "Música"
+            "Música de comedia o musical",
+            "Canción original"
           ],
-          "award": "Oscar · Música"
+          "award": "Oscar · Música de comedia o musical · Canción original"
         },
         {
           "title": "The Postman (Il Postino)",
@@ -12025,7 +12071,11 @@
             "El cartero (y Pablo Neruda)"
           ],
           "nominations": [
-            "Música dramática"
+            "Actor protagonista",
+            "Dirección",
+            "Música dramática",
+            "Película",
+            "Guion adaptado"
           ],
           "wins": [
             "Música dramática"
@@ -12035,10 +12085,12 @@
         {
           "title": "Restoration",
           "nominations": [
-            "Dirección artística · Vestuario"
+            "Dirección artística",
+            "Vestuario"
           ],
           "wins": [
-            "Dirección artística · Vestuario"
+            "Dirección artística",
+            "Vestuario"
           ],
           "award": "Oscar · Dirección artística · Vestuario"
         },
@@ -12048,10 +12100,11 @@
             "Ricardo III"
           ],
           "nominations": [
-            "Dirección artística"
+            "Dirección artística",
+            "Vestuario"
           ],
           "wins": [],
-          "award": "Nominación · Dirección artística"
+          "award": "Nominación · Dirección artística · Vestuario"
         },
         {
           "title": "Rob Roy",
@@ -12089,10 +12142,11 @@
             "Sabrina (y sus amores)"
           ],
           "nominations": [
-            "Música"
+            "Música de comedia o musical",
+            "Canción original"
           ],
           "wins": [],
-          "award": "Nominación · Música"
+          "award": "Nominación · Música de comedia o musical · Canción original"
         },
         {
           "title": "Sense and Sensibility",
@@ -12100,6 +12154,12 @@
             "Sentido y sensibilidad"
           ],
           "nominations": [
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Fotografía",
+            "Vestuario",
+            "Música dramática",
+            "Película",
             "Guion adaptado"
           ],
           "wins": [
@@ -12149,12 +12209,15 @@
         {
           "title": "Toy Story",
           "nominations": [
-            "logro técnico"
+            "Música de comedia o musical",
+            "Canción original",
+            "Guion original",
+            "Premio especial al logro"
           ],
           "wins": [
-            "logro técnico"
+            "Premio especial al logro"
           ],
-          "award": "Oscar especial · logro técnico"
+          "award": "Oscar · Premio especial al logro"
         },
         {
           "title": "Troublesome Creek: A Midwestern",
@@ -12189,10 +12252,12 @@
             "Sospechosos habituales"
           ],
           "nominations": [
-            "Actor de reparto · Guion original"
+            "Actor de reparto",
+            "Guion original"
           ],
           "wins": [
-            "Actor de reparto · Guion original"
+            "Actor de reparto",
+            "Guion original"
           ],
           "award": "Oscar · Actor de reparto · Guion original"
         },
