@@ -1,0 +1,35 @@
+name: Finalize 1988 festival audit
+on:
+  push:
+    branches:
+      - lab-1988-complete
+    paths:
+      - '.github/workflows/finalize-1988-festival-audit.yml'
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: lab-1988-complete
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/merge-1988-festivals.mjs
+      - run: node scripts/build-festival-matches.mjs
+      - run: node scripts/audit-1988-ownership.mjs
+      - run: node scripts/audit-1988-identity.mjs
+      - name: Commit verified 1988 outputs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/festivals/festivals.json data/catalog/festival-matches.json data/staging/1988/ownership-audit.json data/staging/1988/identity-audit.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Finalize verified 1988 festival data"
+            git pull --rebase origin lab-1988-complete
+            git push origin HEAD:lab-1988-complete
+          fi
