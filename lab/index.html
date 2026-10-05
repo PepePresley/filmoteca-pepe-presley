@@ -1067,7 +1067,7 @@ function festivalYearsFor(f){
    : availableYears(f);
 }
 function festivalDecadeStart(y){return Math.floor(Number(y)/10)*10}
-function renderFestivalDecadeWelcome(f,decade){
+function renderFestivalDecadeWelcome(f,decade,updateHistory=true){
  const start=Number(decade), end=start+9;
  const years=festivalYearsFor(f).filter(y=>festivalDecadeStart(y)===start);
  $('festWelcome').style.display='block';
@@ -1084,7 +1084,7 @@ function renderFestivalDecadeWelcome(f,decade){
  $('festDisplaySub').textContent='Archivo de selecciones y palmarés';
  $('festDisplayMeta').innerHTML='Cruce directo con las <b>52.929 películas</b> de Filmoteca Pepe Presley';
  $('festSections').innerHTML=festivalSectionsHTML(f);
- history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(f.toLowerCase()));
+ if(updateHistory)history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(f.toLowerCase()));
 }
 function setFestivalDecade(decade,showWelcome=true){
  const target=Number(decade);
@@ -1116,7 +1116,7 @@ function rebuildFestivalYears(f,preferredYear=null){
  ).join('');
  $('festYears').querySelectorAll('.festDecadeToggle').forEach(b=>b.onclick=()=>setFestivalDecade(Number(b.dataset.decade),true));
  $('festYears').querySelectorAll('.festivalYearBtn').forEach(b=>b.onclick=()=>openFestivalYear(Number(b.dataset.year)));
- if(festivalOpenDecade!==null)renderFestivalDecadeWelcome(f,festivalOpenDecade);
+ if(festivalOpenDecade!==null)renderFestivalDecadeWelcome(f,festivalOpenDecade,false);
 }
 function selectFestival(f,openLatest=true){
  selectedFestival=f;
