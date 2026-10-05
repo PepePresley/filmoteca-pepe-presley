@@ -520,13 +520,10 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
 try{
- const FESTIVAL_DIRECT=new URLSearchParams(location.search).get('view')==='festivals';
  window.__CATALOGO__=[];
- if(!FESTIVAL_DIRECT){
-   const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
-   if(!r.ok) throw new Error("HTTP "+r.status);
-   window.__CATALOGO__=await r.json();
- }
+ const r=await fetch("/filmoteca-pepe-presley/data/catalog/catalog.json?v=lab4");
+ if(!r.ok) throw new Error("HTTP "+r.status);
+ window.__CATALOGO__=await r.json();
  try{
    const overlays=[
      "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
