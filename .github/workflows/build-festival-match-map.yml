@@ -2,6 +2,18 @@ name: Build exact festival match map
 on:
   push:
     branches:
+      - 'lab-*'
+      - 'catalog-*'
+      - 'festival-*'
+    paths:
+      - '.github/workflows/build-festival-match-map.yml'
+      - 'scripts/build-festival-matches.mjs'
+      - 'data/catalog/catalog.json'
+      - 'data/catalog/annual_*_overlay.json'
+      - 'data/catalog/festival-owned-*.json'
+      - 'data/festivals/festivals.json'
+  pull_request:
+    branches:
       - main
     paths:
       - '.github/workflows/build-festival-match-map.yml'
@@ -9,6 +21,7 @@ on:
       - 'data/catalog/catalog.json'
       - 'data/catalog/annual_*_overlay.json'
       - 'data/catalog/festival-owned-*.json'
+      - 'data/catalog/festival-matches.json'
       - 'data/festivals/festivals.json'
 permissions:
   contents: write
@@ -20,13 +33,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref_name }}
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
       - run: node scripts/build-festival-matches.mjs
-      - name: Commit exact match map
+      - name: Commit exact match map on staging branch
+        if: github.event_name == 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -38,3 +50,6 @@ jobs:
             git pull --rebase origin "$GITHUB_REF_NAME"
             git push origin "HEAD:$GITHUB_REF_NAME"
           fi
+      - name: Verify exact match map is current
+        if: github.event_name == 'pull_request'
+        run: git diff --exit-code -- data/catalog/festival-matches.json
