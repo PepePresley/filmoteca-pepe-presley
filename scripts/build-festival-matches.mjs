@@ -2,12 +2,26 @@ import fs from 'node:fs';
 
 function loadCatalog(){
  let src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
- for(const f of ['annual_1988_festival_overlay.json','annual_1989_overlay.json','annual_1990_1994_overlay.json','annual_1995_1996_overlay.json','annual_1997_1999_overlay.json']){
-  const p='data/catalog/'+f;
-  if(fs.existsSync(p)){
-   const extra=JSON.parse(fs.readFileSync(p,'utf8'));
-   if(Array.isArray(extra))src=src.concat(extra);
+ const dir='data/catalog';
+ const files=fs.readdirSync(dir).filter(f=>/^annual_.*_overlay\.json$/.test(f)).sort();
+ for(const f of files){
+  const p=dir+'/'+f;
+  const extra=JSON.parse(fs.readFileSync(p,'utf8'));
+  if(!Array.isArray(extra))continue;
+
+  // Annual masters named in the form Catalogo_Telegram_YYYY replace any
+  // older rows of that same year in the base catalog. Legacy overlays keep
+  // their historical additive behaviour.
+  const masterYears=new Set(
+   extra
+    .filter(r=>/^Catalogo_Telegram_\d{4}$/.test(String(r&&r.src||'')))
+    .map(r=>Number(r&&r.y)||0)
+    .filter(Boolean)
+  );
+  if(masterYears.size===1 && extra.every(r=>masterYears.has(Number(r&&r.y)||0))){
+   src=src.filter(r=>!masterYears.has(Number(r&&r.y)||0));
   }
+  src=src.concat(extra);
  }
  return src;
 }
