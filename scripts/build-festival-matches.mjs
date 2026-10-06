@@ -38,7 +38,8 @@ function makeIndex(rows){
   const d=norm(r&&r.d);
   const titles=[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title]
     .filter(Boolean).map(v=>{const s=norm(v);return {s,t:toks(s),g:sig(s)}}).filter(x=>x.s);
-  return {idx,y:Number(r&&r.y)||0,d,dt:toks(d),titles};
+  const festivalOverride=/_festival$/.test(String(r&&r.src||''));
+  return {idx,y:Number(r&&r.y)||0,d,dt:toks(d),titles,festivalOverride};
  });
 }
 function prepare(index){
@@ -75,7 +76,7 @@ function candidates(q,p){
  return [...map.values()].sort((a,b)=>a.idx-b.idx);
 }
 function resolve(ft,p){
- const q=query(ft);let best=-1,bestScore=-1;
+ const q=query(ft);let best=-1,bestScore=-1,bestOverride=false;
  for(const x of candidates(q,p)){
   const yearDiff=(q.targetYear&&x.y)?Math.abs(x.y-q.targetYear):99;
   let dirSim=0;
@@ -92,6 +93,7 @@ function resolve(ft,p){
    else s=tokenSim(t.t,z.t);
    if(s>titleSim)titleSim=s;
   }
+  // Displaced-year Goya matches require exact title plus a strong director identity; this protects historical aliases from homonyms.
   const strongIdentity=titleSim===1&&dirSim>=.8;
   const normalExact=titleSim===1&&yearDiff<=1;
   const oscarExact=!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
@@ -101,7 +103,9 @@ function resolve(ft,p){
   if(!(strongIdentity||normalExact||oscarExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
   const yearBonus=yearDiff===0?2:yearDiff===1?1:yearDiff===2?.25:0;
   const score=titleSim*10+dirSim*5+yearBonus;
-  if(score>bestScore){bestScore=score;best=x.idx}
+  if(score>bestScore||(score===bestScore&&x.festivalOverride&&!bestOverride)){
+   bestScore=score;best=x.idx;bestOverride=Boolean(x.festivalOverride);
+  }
  }
  return best;
 }
