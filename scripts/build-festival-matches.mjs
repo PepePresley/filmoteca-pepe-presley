@@ -60,7 +60,7 @@ function prepare(index){
 function query(ft){
  const nd=norm(ft.director),nt=norm(ft.festival_title);
  const qs=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)].map(s=>({s,t:toks(s),g:sig(s)})).filter(x=>x.s);
- const fy=Number(ft.festival_year)||0,targetYear=ft.festival==='Oscar'?fy-1:fy;
+ const fy=Number(ft.festival_year)||0,targetYear=(ft.festival==='Oscar'||ft.festival==='Goya')?fy-1:fy;
  return {nd,ndt:toks(nd),nt,qs,targetYear};
 }
 function candidates(q,p){
@@ -94,11 +94,11 @@ function resolve(ft,p){
   }
   const strongIdentity=titleSim===1&&dirSim>=.8;
   const normalExact=titleSim===1&&yearDiff<=1;
-  const oscarExact=!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
+  const awardExact=(ft.festival==='Oscar'||ft.festival==='Goya')&&!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
   const directorAnchor=titleSim>=.55&&dirSim>=.95&&yearDiff<=3;
   const nearYearTitle=titleSim>=.88&&yearDiff<=1&&(!q.nd||dirSim>0);
-  if(!(strongIdentity||normalExact||oscarExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
+  if(!(strongIdentity||normalExact||awardExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
   const yearBonus=yearDiff===0?2:yearDiff===1?1:yearDiff===2?.25:0;
   const score=titleSim*10+dirSim*5+yearBonus;
   if(score>bestScore){bestScore=score;best=x.idx}
