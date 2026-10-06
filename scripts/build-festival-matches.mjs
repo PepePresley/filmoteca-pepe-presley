@@ -97,7 +97,7 @@ function resolve(ft,p){
   const oscarExact=!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
   const directorAnchor=titleSim>=.55&&dirSim>=.95&&yearDiff<=3;
-  const nearYearTitle=titleSim>=.88&&yearDiff<=1;
+  const nearYearTitle=titleSim>=.88&&yearDiff<=1&&(!q.nd||dirSim>0);
   if(!(strongIdentity||normalExact||oscarExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
   const yearBonus=yearDiff===0?2:yearDiff===1?1:yearDiff===2?.25:0;
   const score=titleSim*10+dirSim*5+yearBonus;
@@ -116,6 +116,8 @@ function authoritative1988(ed,f){
  return set?set.has(f.title):null;
 }
 
+const baseCatalog=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
+const basePrepared=prepare(makeIndex(baseCatalog));
 const catalog=loadCatalog(),prepared=prepare(makeIndex(catalog));
 const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json','utf8'));
 const matches={};let total=0,present=0;
@@ -130,7 +132,16 @@ for(const ed of (db.editions||[])){
   if(i>=0){
    present++;
    const r=catalog[i]||{};
-   matches[key]={i,y:Number(r.y)||0,t:r.t||'',d:r.d||'',p:r.p||'',dur:r.dur||0};
+   // Annual master overlays can intentionally replace a year's catalogue rows
+   // without carrying poster metadata. Preserve the lightweight festival map by
+   // falling back to the matching row in the original base catalogue only when
+   // the selected catalogue row has no poster of its own.
+   let poster=r.p||'';
+   if(!poster){
+    const baseIndex=resolve(ft,basePrepared);
+    if(baseIndex>=0)poster=(baseCatalog[baseIndex]&&baseCatalog[baseIndex].p)||'';
+   }
+   matches[key]={i,y:Number(r.y)||0,t:r.t||'',d:r.d||'',p:poster,dur:r.dur||0};
   }else matches[key]=null;
  }
 }
