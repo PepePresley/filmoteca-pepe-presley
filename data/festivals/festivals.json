@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "editions": [
     {
       "festival": "Cannes",
@@ -29511,6 +29511,396 @@
           "wins": [
             "Película extranjera de habla hispana · Argentina"
           ]
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1994,
+      "section": "8.ª edición · películas de 1993",
+      "films": [
+        {
+          "title": "Intruso",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 5 candidaturas",
+          "nominations": [
+            "Película",
+            "Dirección · Vicente Aranda",
+            "Música original · José Nieto",
+            "Actor protagonista · Imanol Arias",
+            "Montaje · Teresa Font"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Sombras en una batalla",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Guion original · Mario Camus",
+            "Actriz protagonista · Carmen Maura",
+            "Actor de reparto · Fernando Valverde"
+          ],
+          "wins": [
+            "Guion original · Mario Camus",
+            "Actor de reparto · Fernando Valverde"
+          ]
+        },
+        {
+          "title": "Todos a la cárcel",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Luis García Berlanga",
+            "Guion original · Jorge Berlanga, Luis García Berlanga",
+            "Dirección de producción · Ricardo García Arrojo",
+            "Sonido · Alberto Herena, Daniel Goldstein, Enrique Quintana, Gilles Ortion, Manuel Cora"
+          ],
+          "wins": [
+            "Película",
+            "Dirección · Luis García Berlanga",
+            "Sonido · Alberto Herena, Daniel Goldstein, Enrique Quintana, Gilles Ortion, Manuel Cora"
+          ]
+        },
+        {
+          "title": "La madre muerta",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección · Juanma Bajo Ulloa",
+            "Fotografía · Javier Aguirresarobe",
+            "Montaje · Pablo Blanco",
+            "Efectos especiales · Hipólito Cantero"
+          ],
+          "wins": [
+            "Efectos especiales · Hipólito Cantero"
+          ]
+        },
+        {
+          "title": "Ciénaga",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · José Ángel Bohollo"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Los años oscuros",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · Arantxa Lazkano"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mi hermano del alma",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección novel · Mariano Barroso",
+            "Actor de reparto · Juan Echanove"
+          ],
+          "wins": [
+            "Dirección novel · Mariano Barroso"
+          ]
+        },
+        {
+          "title": "Madregilda",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion original · Ángel Fernández Santos, Francisco Regueiro",
+            "Actor protagonista · Juan Echanove",
+            "Fotografía · José Luis López-Linares",
+            "Dirección artística · Luis Koldo Vallés",
+            "Vestuario · Gumersindo Andrés",
+            "Maquillaje y peluquería · María del Mar Paradela, Odile Fourquin",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": [
+            "Actor protagonista · Juan Echanove"
+          ]
+        },
+        {
+          "title": "El amante bilingüe",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Guion adaptado · Vicente Aranda"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La fiebre del oro",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Guion adaptado · Guillem Jordi Graells, Gonzalo Herralde"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Tirano Banderas",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 6 Goyas",
+          "nominations": [
+            "Guion adaptado · José Luis García Sánchez, Rafael Azcona",
+            "Actor de reparto · Javier Gurruchaga",
+            "Dirección de producción · José Luis García Arrojo",
+            "Montaje · Pablo del Amo",
+            "Dirección artística · Félix Murcia",
+            "Vestuario · Andrea D'Odorico",
+            "Maquillaje y peluquería · Magdalena Álvarez, Solange Aumaitre"
+          ],
+          "wins": [
+            "Guion adaptado · José Luis García Sánchez, Rafael Azcona",
+            "Dirección de producción · José Luis García Arrojo",
+            "Montaje · Pablo del Amo",
+            "Dirección artística · Félix Murcia",
+            "Vestuario · Andrea D'Odorico",
+            "Maquillaje y peluquería · Magdalena Álvarez, Solange Aumaitre"
+          ]
+        },
+        {
+          "title": "La ardilla roja",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Música original · Alberto Iglesias",
+            "Actriz protagonista · Emma Suárez",
+            "Actriz de reparto · María Barranco"
+          ],
+          "wins": [
+            "Música original · Alberto Iglesias"
+          ]
+        },
+        {
+          "title": "¿Por qué lo llaman amor cuando quieren decir sexo?",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Música original · Manolo Tena",
+            "Actriz de reparto · Rosa María Sardá"
+          ],
+          "wins": [
+            "Actriz de reparto · Rosa María Sardá"
+          ]
+        },
+        {
+          "title": "Huevos de oro",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actor protagonista · Javier Bardem"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Kika",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actriz protagonista · Verónica Forqué",
+            "Actriz de reparto · Rossy de Palma",
+            "Dirección de producción · Esther García",
+            "Dirección artística · Alain Bainée, Javier Fernández",
+            "Vestuario · José María de Cossío",
+            "Maquillaje y peluquería · Gregorio Ros, Jesús Moncusi",
+            "Sonido · Graham V. Hartstone, Jean-Paul Mugel",
+            "Efectos especiales · Jean-Baptiste Bonetto, Olivier Gleyre, Yves Domenjoud"
+          ],
+          "wins": [
+            "Actriz protagonista · Verónica Forqué"
+          ]
+        },
+        {
+          "title": "El pájaro de la felicidad",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Fotografía · José Luis Alcaine",
+            "Sonido · Carlos Faruolo"
+          ],
+          "wins": [
+            "Fotografía · José Luis Alcaine"
+          ]
+        },
+        {
+          "title": "Juego de lágrimas",
+          "aliases": [
+            "The Crying Game"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea · Neil Jordan"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Los amigos de Peter",
+          "aliases": [
+            "Peter's Friends"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea · Kenneth Branagh"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Tres colores: Azul",
+          "aliases": [
+            "Trois couleurs: Bleu",
+            "Tres colores. Azul"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película europea · Krzysztof Kieslowski"
+          ],
+          "wins": [
+            "Película europea · Krzysztof Kieslowski"
+          ]
+        },
+        {
+          "title": "Cita con Alberto",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Ivorsi",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Maldita suerte",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Perturbado",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ]
+        },
+        {
+          "title": "Quien mal anda mal acaba",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El largo viaje de Rústico",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Verano en la universidad",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ]
+        },
+        {
+          "title": "Walter Peralta",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Gatica, el mono",
+          "aliases": [
+            "Gatica el Mono"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana · Argentina"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana · Argentina"
+          ]
+        },
+        {
+          "title": "Golpes a mi puerta",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Venezuela"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Johnny 100 pesos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Chile, México"
+          ],
+          "wins": []
         }
       ]
     }
