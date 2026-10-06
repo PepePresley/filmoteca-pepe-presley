@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "editions": [
     {
       "festival": "Cannes",
@@ -31966,7 +31966,10 @@
         },
         {
           "title": "La habitación de al lado (The Room Next Door)",
-          "aliases": [],
+          "aliases": [
+            "La habitación de al lado",
+            "The Room Next Door"
+          ],
           "director": "",
           "nominations": [
             "Dirección · Pedro Almodóvar",
@@ -32277,7 +32280,9 @@
         },
         {
           "title": "No estás sola",
-          "aliases": [],
+          "aliases": [
+            "No estás sola: La lucha contra La Manada"
+          ],
           "director": "",
           "nominations": [
             "Película documental"
@@ -32297,7 +32302,10 @@
         },
         {
           "title": "Ainda estou aqui (Aún estoy aquí)",
-          "aliases": [],
+          "aliases": [
+            "Ainda Estou Aqui",
+            "Aún estoy aquí"
+          ],
           "director": "",
           "nominations": [
             "Película iberoamericana"
@@ -32361,7 +32369,10 @@
         },
         {
           "title": "Flow",
-          "aliases": [],
+          "aliases": [
+            "Flow, un mundo que salvar",
+            "Straume"
+          ],
           "director": "",
           "nominations": [
             "Película europea"
