@@ -920,7 +920,7 @@ function availableYears(f){
 }
 const AWARD_CATEGORY_ORDER={
  Oscar:['Película','Dirección','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Guion original','Guion adaptado','Película internacional','Película de animación','Documental','Cortometraje documental','Cortometraje de animación','Cortometraje de ficción','Fotografía','Montaje','Diseño de producción','Vestuario','Maquillaje y peluquería','Banda sonora','Canción','Sonido','Efectos visuales'],
- Goya:['Película','Dirección','Guion','Música original','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Fotografía','Montaje','Dirección artística','Vestuario','Maquillaje y peluquería','Sonido','Película extranjera de habla hispana']
+ Goya:['Película','Dirección','Dirección novel','Guion','Guion original','Guion adaptado','Música original','Canción original','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Actor revelación','Actriz revelación','Dirección de producción','Fotografía','Montaje','Dirección artística','Vestuario','Maquillaje y peluquería','Sonido','Efectos especiales','Película de animación','Película documental','Película europea','Película iberoamericana','Película extranjera de habla hispana','Cortometraje','Cortometraje de ficción','Cortometraje documental','Cortometraje de animación']
 };
 function awardCategoryBase(s){return String(s||'').split(' · ')[0].trim()}
 function awardEditionRaw(fy,festival){return (FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy))}
