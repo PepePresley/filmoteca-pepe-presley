@@ -93,7 +93,8 @@ function resolve(ft,p){
    else s=tokenSim(t.t,z.t);
    if(s>titleSim)titleSim=s;
   }
-  // Displaced-year Goya matches require exact title plus a strong director identity; this protects historical aliases from homonyms.\n  const strongIdentity=titleSim===1&&dirSim>=.8;
+  // Displaced-year Goya matches require exact title plus a strong director identity; this protects historical aliases from homonyms.
+  const strongIdentity=titleSim===1&&dirSim>=.8;
   const normalExact=titleSim===1&&yearDiff<=1;
   const oscarExact=!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
