@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "editions": [
     {
       "festival": "Cannes",
@@ -31455,6 +31455,447 @@
         },
         {
           "title": "Última llamada",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1999,
+      "section": "13.ª edición · películas de 1998",
+      "films": [
+        {
+          "title": "Abre los ojos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 10 candidaturas",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actor protagonista",
+            "Dirección de producción",
+            "Montaje",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Barrio",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Actriz revelación"
+          ],
+          "wins": [
+            "Dirección",
+            "Guion original",
+            "Actriz revelación"
+          ]
+        },
+        {
+          "title": "El abuelo",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ]
+        },
+        {
+          "title": "La niña de tus ojos",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 6 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Actriz de reparto",
+            "Actor revelación",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Película",
+            "Actriz protagonista",
+            "Dirección de producción",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ]
+        },
+        {
+          "title": "El milagro de P. Tinto",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección novel",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Efectos especiales"
+          ]
+        },
+        {
+          "title": "La primera noche de mi vida",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mensaka. Páginas de una historia",
+          "aliases": [
+            "Mensaka"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección novel",
+            "Guion adaptado",
+            "Actor revelación"
+          ],
+          "wins": [
+            "Guion adaptado"
+          ]
+        },
+        {
+          "title": "Torrente, el brazo tonto de la ley",
+          "aliases": [
+            "Torrente. El brazo tonto de la ley"
+          ],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Dirección novel",
+            "Actor de reparto",
+            "Actor revelación"
+          ],
+          "wins": [
+            "Dirección novel",
+            "Actor de reparto"
+          ]
+        },
+        {
+          "title": "Los amantes del círculo polar",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Guion original",
+            "Música original",
+            "Actriz protagonista",
+            "Montaje"
+          ],
+          "wins": [
+            "Música original",
+            "Montaje"
+          ]
+        },
+        {
+          "title": "Los años bárbaros",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 4 candidaturas",
+          "nominations": [
+            "Guion adaptado",
+            "Música original",
+            "Actor revelación",
+            "Maquillaje y peluquería"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mararía",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion adaptado",
+            "Música original",
+            "Actriz revelación",
+            "Fotografía",
+            "Dirección artística"
+          ],
+          "wins": [
+            "Fotografía"
+          ]
+        },
+        {
+          "title": "La hora de los valientes",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Vestuario",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actriz de reparto"
+          ]
+        },
+        {
+          "title": "Cosas que dejé en La Habana",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz revelación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Nada en la nevera",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz revelación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Tango",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Fotografía",
+            "Sonido"
+          ],
+          "wins": [
+            "Sonido"
+          ]
+        },
+        {
+          "title": "A los que aman",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Ahmed, el príncipe de La Alhambra",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "¡Qué vecinos tan animales!",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [
+            "Película de animación"
+          ]
+        },
+        {
+          "title": "Abril",
+          "aliases": [
+            "Aprile"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Marius y Jeannette",
+          "aliases": [
+            "Marius et Jeannette"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "The Boxer",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [
+            "Película europea"
+          ]
+        },
+        {
+          "title": "Vor, el ladrón",
+          "aliases": [
+            "Vor",
+            "The Thief"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Génesis",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Patesnak, un cuento de Navidad",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Rufino",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Un día perfecto",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ]
+        },
+        {
+          "title": "Viaje a la luna",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Confluencias",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ]
+        },
+        {
+          "title": "Amaneció de golpe",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "De noche vienes, Esmeralda",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El faro del sur",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ]
+        },
+        {
+          "title": "Kleines Tropicana",
           "aliases": [],
           "director": "",
           "award": "Nominado · 1 candidatura",
