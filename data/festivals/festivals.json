@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "editions": [
     {
       "festival": "Cannes",
@@ -31901,6 +31901,742 @@
           "award": "Nominado · 1 candidatura",
           "nominations": [
             "Película extranjera de habla hispana"
+          ],
+          "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 2025,
+      "section": "39.ª edición · películas de 2024",
+      "films": [
+        {
+          "title": "Casa en flames",
+          "aliases": [
+            "Casa en llamas"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película",
+            "Guion original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Actriz de reparto",
+            "Dirección de producción"
+          ],
+          "wins": [
+            "Guion original"
+          ]
+        },
+        {
+          "title": "El 47",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 5 Goyas",
+          "nominations": [
+            "Película",
+            "Guion original",
+            "Música original",
+            "Canción original",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Actriz revelación",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección de arte",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Película",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Efectos especiales"
+          ]
+        },
+        {
+          "title": "La estrella azul",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección novel",
+            "Guion original",
+            "Actor revelación",
+            "Actor revelación",
+            "Actriz revelación",
+            "Montaje",
+            "Sonido"
+          ],
+          "wins": [
+            "Dirección novel",
+            "Actor revelación"
+          ]
+        },
+        {
+          "title": "La infiltrada",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Película",
+            "Actriz protagonista"
+          ]
+        },
+        {
+          "title": "Segundo premio",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Canción original",
+            "Actor revelación",
+            "Actor revelación",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección de arte",
+            "Vestuario",
+            "Sonido"
+          ],
+          "wins": [
+            "Dirección",
+            "Montaje",
+            "Sonido"
+          ]
+        },
+        {
+          "title": "La habitación de al lado (The Room Next Door)",
+          "aliases": [
+            "La habitación de al lado",
+            "The Room Next Door"
+          ],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Dirección",
+            "Guion adaptado",
+            "Música original",
+            "Actriz protagonista",
+            "Actriz protagonista",
+            "Fotografía",
+            "Dirección de arte",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Guion adaptado",
+            "Música original",
+            "Fotografía"
+          ]
+        },
+        {
+          "title": "La Virgen Roja",
+          "aliases": [
+            "La virgen roja"
+          ],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Dirección",
+            "Canción original",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Dirección de arte",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Dirección de arte",
+            "Vestuario"
+          ]
+        },
+        {
+          "title": "Marco",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Dirección",
+            "Guion original",
+            "Actor protagonista",
+            "Maquillaje y peluquería",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actor protagonista",
+            "Maquillaje y peluquería"
+          ]
+        },
+        {
+          "title": "Calladita",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El llanto",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Por donde pasa el silencio",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Rita",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La casa",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Guion adaptado",
+            "Actor de reparto"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Los destellos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 4 candidaturas",
+          "nominations": [
+            "Guion adaptado",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz revelación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Salve Maria",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion adaptado",
+            "Actriz revelación"
+          ],
+          "wins": [
+            "Actriz revelación"
+          ]
+        },
+        {
+          "title": "Soy Nevenka",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 4 candidaturas",
+          "nominations": [
+            "Guion adaptado",
+            "Actor protagonista",
+            "Actriz revelación",
+            "Fotografía"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Guardiana de Dragones - Dragonkeeper",
+          "aliases": [
+            "Guardiana de dragones (Dragonkeeper)",
+            "Dragonkeeper"
+          ],
+          "director": "",
+          "award": "Nominado · 3 candidaturas",
+          "nominations": [
+            "Música original",
+            "Efectos especiales",
+            "Película de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Verano en diciembre",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Música original"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Buffalo Kids",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Canción original",
+            "Película de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La guitarra flamenca de Yerai Cortés",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Canción original",
+            "Película documental"
+          ],
+          "wins": [
+            "Canción original",
+            "Película documental"
+          ]
+        },
+        {
+          "title": "Polvo serán",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Volveréis",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Actor protagonista",
+            "Dirección de arte"
+          ],
+          "wins": []
+        },
+        {
+          "title": "¿Es el enemigo? La película de Gila",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actor revelación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Los pequeños amores",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Montaje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Disco, Ibiza, Locomía",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mariposas Negras",
+          "aliases": [
+            "Mariposas negras"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [
+            "Película de animación"
+          ]
+        },
+        {
+          "title": "Rock Bottom",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "SuperKlaus",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Domingo Domingo",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Marisol, llámame Pepa",
+          "aliases": [
+            "Marisol: llámame Pepa"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mi hermano Ali",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "No estás sola",
+          "aliases": [
+            "No estás sola: La lucha contra La Manada"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Agarrame fuerte",
+          "aliases": [
+            "Agárrame fuerte"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Ainda estou aqui (Aún estoy aquí)",
+          "aliases": [
+            "Ainda Estou Aqui",
+            "Aún estoy aquí"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": [
+            "Película iberoamericana"
+          ]
+        },
+        {
+          "title": "El Jockey",
+          "aliases": [
+            "El jockey"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El lugar de la otra",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Memorias de un cuerpo que arde",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El Conde de Montecristo",
+          "aliases": [
+            "Le Comte de Monte-Cristo"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Emilia Pérez",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [
+            "Película europea"
+          ]
+        },
+        {
+          "title": "Flow",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La Quimera",
+          "aliases": [
+            "La chimera"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La zona de interés",
+          "aliases": [
+            "The Zone of Interest"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Betiko gaua (La noche eterna)",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Cuarentena",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El Trono",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La gran obra",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ]
+        },
+        {
+          "title": "Mamántula",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Ciao Bambina",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Els Buits",
+          "aliases": [
+            "Los vacíos"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Las novias del sur",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Los 30 (no) son los nuevos 20",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Semillas de Kivu",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ]
+        },
+        {
+          "title": "Cafunè",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ]
+        },
+        {
+          "title": "El cambio de rueda",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La mujer ilustrada",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Lola, Lolita, Lolaza",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Wan",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de animación"
           ],
           "wins": []
         }
