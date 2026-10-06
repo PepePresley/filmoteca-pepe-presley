@@ -107,12 +107,16 @@ function resolve(ft,p){
 }
 const filmKey=(festival,year,title,director)=>JSON.stringify([String(festival||''),Number(year)||0,String(title||''),String(director||'')]);
 
-const ownership1988Path='data/catalog/festival-owned-1988.json';
-const ownership1988=fs.existsSync(ownership1988Path)?JSON.parse(fs.readFileSync(ownership1988Path,'utf8')):{};
-const ownership1988Sets=new Map(Object.entries(ownership1988).map(([k,v])=>[k,new Set(v||[])]));
-function authoritative1988(ed,f){
- if(Number(ed.year)!==1988)return null;
- const set=ownership1988Sets.get(ed.festival+'|'+ed.section);
+const ownershipByYear=new Map();
+for(const file of fs.readdirSync('data/catalog').filter(f=>/^festival-owned-\d{4}\.json$/.test(f))){
+ const year=Number(file.match(/(\d{4})/)[1]);
+ const raw=JSON.parse(fs.readFileSync('data/catalog/'+file,'utf8'));
+ ownershipByYear.set(year,new Map(Object.entries(raw).map(([k,v])=>[k,new Set(v||[])])));
+}
+function authoritativeOwnership(ed,f){
+ const sets=ownershipByYear.get(Number(ed.year));
+ if(!sets)return null;
+ const set=sets.get(ed.festival+'|'+ed.section);
  return set?set.has(f.title):null;
 }
 
@@ -126,7 +130,7 @@ for(const ed of (db.editions||[])){
   total++;
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director};
   let i=resolve(ft,prepared);
-  const authoritative=authoritative1988(ed,f);
+  const authoritative=authoritativeOwnership(ed,f);
   if(authoritative===false)i=-1;
   const key=filmKey(ed.festival,ed.year,f.title,f.director);
   if(i>=0){
