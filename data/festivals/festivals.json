@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "editions": [
     {
       "festival": "Cannes",
@@ -28306,6 +28306,375 @@
           ],
           "wins": [
             "Efectos especiales · Basilio Cortijo, Carlo de Marchis y Gonzalo Gonzalo"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1990,
+      "section": "4.ª edición · películas de 1989",
+      "films": [
+        {
+          "title": "El mar y el tiempo",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Fernando Fernán-Gómez",
+            "Guion adaptado · Fernando Fernán-Gómez",
+            "Actor protagonista · Fernando Fernán-Gómez",
+            "Actriz protagonista · Rafaela Aparicio",
+            "Actriz de reparto · María Asquerino",
+            "Dirección de producción · Andrés Santana",
+            "Montaje · Pablo del Amo",
+            "Maquillaje y peluquería · Jesús Moncusi, Juan Pedro Hernández",
+            "Sonido · Eduardo Fernández, Gilles Ortion"
+          ],
+          "wins": [
+            "Actriz protagonista · Rafaela Aparicio",
+            "Actriz de reparto · María Asquerino"
+          ]
+        },
+        {
+          "title": "El niño de la luna",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Agustín Villaronga",
+            "Guion original · Agustín Villaronga",
+            "Dirección de producción · Adolfo Cora, Chihab Gharbi, Francisco Villar, Jaime Fernández-Cid, Selma Beccar",
+            "Fotografía · Jaume Peracaula",
+            "Montaje · Raúl Román",
+            "Dirección artística · Francisco Candini",
+            "Vestuario · Isidro Prunes, Montse Amenos",
+            "Maquillaje y peluquería · José Antonio Sánchez, Paquita Núñez",
+            "Efectos especiales · Ángel Alonso, Basilio Cortijo, Emilio Ruiz del Río, Reyes Abades"
+          ],
+          "wins": [
+            "Guion original · Agustín Villaronga",
+            "Vestuario · Isidro Prunes, Montse Amenos",
+            "Maquillaje y peluquería · José Antonio Sánchez, Paquita Núñez"
+          ]
+        },
+        {
+          "title": "El sueño del mono loco",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 6 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Fernando Trueba",
+            "Guion adaptado · Fernando Trueba, Manolo Matji, Menno Meyjes",
+            "Música original · Antoine Duhamel",
+            "Dirección de producción · José López Rodero",
+            "Fotografía · José Luis Alcaine",
+            "Montaje · Carmen Frías",
+            "Dirección artística · Pierre-Louis Thévenet",
+            "Maquillaje y peluquería · José Antonio Sánchez, Paquita Núñez",
+            "Sonido · Eduardo Fernández, Georges Prat, Pablo Blanco",
+            "Efectos especiales · Christian Bourqui"
+          ],
+          "wins": [
+            "Película",
+            "Dirección · Fernando Trueba",
+            "Guion adaptado · Fernando Trueba, Manolo Matji, Menno Meyjes",
+            "Dirección de producción · José López Rodero",
+            "Fotografía · José Luis Alcaine",
+            "Montaje · Carmen Frías"
+          ]
+        },
+        {
+          "title": "Esquilache",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Josefina Molina",
+            "Guion adaptado · Joaquín Oristrell, José Sámano, Josefina Molina",
+            "Música original · José Nieto",
+            "Actor protagonista · Fernando Fernán-Gómez",
+            "Actor de reparto · Adolfo Marsillach",
+            "Actriz de reparto · Amparo Rivelles",
+            "Actriz de reparto · Concha Velasco",
+            "Dirección de producción · Marisol Carnicero",
+            "Fotografía · Juan Amorós",
+            "Montaje · Pablo del Amo",
+            "Dirección artística · Javier Artiñano y Ramiro Gómez"
+          ],
+          "wins": [
+            "Actor de reparto · Adolfo Marsillach",
+            "Dirección artística · Javier Artiñano y Ramiro Gómez"
+          ]
+        },
+        {
+          "title": "Montoyas y Tarantos",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Música original · Paco de Lucía",
+            "Fotografía · Teo Escamilla",
+            "Montaje · José Antonio Rojo",
+            "Vestuario · Alfonso López Barajas",
+            "Maquillaje y peluquería · Josefa Morales, Romana González",
+            "Sonido · Antonio Bloch, Manuel Cora, Paco Peramos"
+          ],
+          "wins": [
+            "Música original · Paco de Lucía",
+            "Sonido · Antonio Bloch, Manuel Cora, Paco Peramos"
+          ]
+        },
+        {
+          "title": "Si te dicen que caí",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección · Vicente Aranda",
+            "Guion adaptado · Vicente Aranda",
+            "Actor protagonista · Jorge Sanz",
+            "Actriz protagonista · Victoria Abril",
+            "Dirección artística · Josep Rosell",
+            "Vestuario · Marcelo Grandes",
+            "Maquillaje y peluquería · Chass Llach, Poli López"
+          ],
+          "wins": [
+            "Actor protagonista · Jorge Sanz"
+          ]
+        },
+        {
+          "title": "Ander y Yul",
+          "aliases": [
+            "Ander eta Yul"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección novel · Ana Díez"
+          ],
+          "wins": [
+            "Dirección novel · Ana Díez"
+          ]
+        },
+        {
+          "title": "Brumal",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · Cristina Andreu"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Continental",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · Xavier Villaverde"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Demasiado viejo para morir joven",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · Isabel Coixet"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Guarapo",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · Santiago Ríos y Teodoro Ríos"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Amanece, que no es poco",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 3 candidaturas",
+          "nominations": [
+            "Guion original · José Luis Cuerda",
+            "Sonido · Carlos Faruolo, Enrique Molinero",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El baile del pato",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Guion original · Manuel Iborra",
+            "Actor de reparto · Enrique San Francisco"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El vuelo de la paloma",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 5 candidaturas",
+          "nominations": [
+            "Guion original · José Luis García Sánchez, Rafael Azcona",
+            "Actriz protagonista · Ana Belén",
+            "Actor de reparto · Juan Echanove",
+            "Actor de reparto · Juan Luis Galiardo",
+            "Actor de reparto · Manuel Huete"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Las cosas del querer",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 7 candidaturas",
+          "nominations": [
+            "Guion original · Antonio Larreta, Fernando Colomo, Jaime Chávarri, Lázaro Irazábal",
+            "Música original · Gregorio García Segura",
+            "Actriz protagonista · Ángela Molina",
+            "Actriz de reparto · María Barranco",
+            "Dirección artística · Luis Sanz",
+            "Vestuario · José María García Montes, María Luisa Zabala",
+            "Maquillaje y peluquería · Gregorio Ros, Jesús Moncusi"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Bajarse al moro",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 6 candidaturas",
+          "nominations": [
+            "Guion adaptado · José Luis Alonso de Santos, Fernando Colomo, Joaquín Oristrell",
+            "Música original · Pata Negra",
+            "Actriz protagonista · Verónica Forqué",
+            "Actriz de reparto · Chus Lampreave",
+            "Dirección de producción · Andrés Santana",
+            "Sonido · Enrique Molinero, Miguel Ángel Polo"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El río que nos lleva",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actor protagonista · Alfredo Landa"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La noche oscura",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 8 candidaturas",
+          "nominations": [
+            "Actor protagonista · Juan Diego",
+            "Actor de reparto · Fernando Guillén",
+            "Fotografía · Teo Escamilla",
+            "Montaje · Pedro del Rey",
+            "Vestuario · Ana Alvargonzález",
+            "Maquillaje y peluquería · José Antonio Sánchez, Josefa Morales, Mercedes Guillot, Romana González",
+            "Sonido · Carlos Faruolo, Gilles Ortion",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La grieta",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Efectos especiales · Colin Arthur, Basilio Cortijo, Carlos de Marchis"
+          ],
+          "wins": [
+            "Efectos especiales · Colin Arthur, Basilio Cortijo, Carlos de Marchis"
+          ]
+        },
+        {
+          "title": "Los 4 músicos de Bremen",
+          "aliases": [
+            "Los Cuatro Músicos de Bremen"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [
+            "Película de animación"
+          ]
+        },
+        {
+          "title": "El número marcado",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El reino de Víctor",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ]
+        },
+        {
+          "title": "Kilómetro cero: la partida",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Aventurera",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Venezuela"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La bella del Alhambra",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana · España, Cuba"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana · España, Cuba"
           ]
         }
       ]
