@@ -105,6 +105,7 @@ function resolve(ft,p){
  }
  return best;
 }
+// Goya, como Oscar, se indexa por año de ceremonia; el targetYear se desplaza al año cinematográfico.
 const filmKey=(festival,year,title,director)=>JSON.stringify([String(festival||''),Number(year)||0,String(title||''),String(director||'')]);
 
 const ownershipByYear=new Map();
