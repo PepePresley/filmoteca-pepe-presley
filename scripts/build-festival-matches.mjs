@@ -141,7 +141,7 @@ for(const ed of (db.editions||[])){
    // falling back to the matching row in the original base catalogue only when
    // the selected catalogue row has no poster of its own.
    let poster=r.p||'';
-   if(!poster){
+   if(!poster&&!r.noPosterFallback){
     const baseIndex=resolve(ft,basePrepared);
     if(baseIndex>=0)poster=(baseCatalog[baseIndex]&&baseCatalog[baseIndex].p)||'';
    }
