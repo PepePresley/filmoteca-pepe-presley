@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "editions": [
     {
       "festival": "Cannes",
@@ -27719,6 +27719,594 @@
           ],
           "wins": [],
           "award": "Nominado · 1 candidatura"
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1988,
+      "section": "2.ª edición · películas de 1987",
+      "films": [
+        {
+          "title": "Divinas palabras",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 4 Goyas",
+          "nominations": [
+            "Película",
+            "Música original",
+            "Actor de reparto · Juan Echanove",
+            "Fotografía · Fernando Arribas",
+            "Montaje · Pablo del Amo",
+            "Sonido · Enrique Molinero, Miguel Ángel Polo"
+          ],
+          "wins": [
+            "Actor de reparto · Juan Echanove",
+            "Fotografía · Fernando Arribas",
+            "Montaje · Pablo del Amo",
+            "Sonido · Enrique Molinero, Miguel Ángel Polo"
+          ]
+        },
+        {
+          "title": "El bosque animado",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 5 Goyas",
+          "nominations": [
+            "Película",
+            "Guion · Rafael Azcona",
+            "Música original · José Nieto",
+            "Actor protagonista · Alfredo Landa",
+            "Fotografía · Javier Aguirresarobe",
+            "Dirección artística · Félix Murcia",
+            "Vestuario · Javier Artiñano",
+            "Sonido · Bernardo Menz, Enrique Molinero"
+          ],
+          "wins": [
+            "Película",
+            "Guion · Rafael Azcona",
+            "Música original · José Nieto",
+            "Actor protagonista · Alfredo Landa",
+            "Vestuario · Javier Artiñano"
+          ]
+        },
+        {
+          "title": "El Lute, camina o revienta",
+          "aliases": [
+            "El Lute: camina o revienta",
+            "El Lute - Camina o revienta"
+          ],
+          "director": "",
+          "award": "Nominado · 4 candidaturas",
+          "nominations": [
+            "Película",
+            "Dirección · Vicente Aranda",
+            "Actor protagonista · Imanol Arias",
+            "Actriz protagonista · Victoria Abril"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Angustia",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección · Bigas Luna",
+            "Efectos especiales · Francisco Teres"
+          ],
+          "wins": [
+            "Efectos especiales · Francisco Teres"
+          ]
+        },
+        {
+          "title": "Asignatura aprobada",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección · José Luis Garci",
+            "Dirección de producción · Mario Morales"
+          ],
+          "wins": [
+            "Dirección · José Luis Garci"
+          ]
+        },
+        {
+          "title": "La guerra de los locos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Guion · Manolo Matji",
+            "Actor protagonista · José Manuel Cervino"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Moros y cristianos",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion · Luis García Berlanga y Rafael Azcona",
+            "Actor de reparto · Agustín González",
+            "Actor de reparto · Pedro Ruiz",
+            "Actriz de reparto · Verónica Forqué"
+          ],
+          "wins": [
+            "Actriz de reparto · Verónica Forqué"
+          ]
+        },
+        {
+          "title": "Los invitados",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Música original · Raúl Alcover"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La casa de Bernarda Alba",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actriz protagonista · Irene Gutiérrez Caba",
+            "Dirección artística · Rafael Palmero",
+            "Vestuario · José Rubio"
+          ],
+          "wins": [
+            "Dirección artística · Rafael Palmero"
+          ]
+        },
+        {
+          "title": "La vida alegre",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actriz protagonista · Verónica Forqué"
+          ],
+          "wins": [
+            "Actriz protagonista · Verónica Forqué"
+          ]
+        },
+        {
+          "title": "Cara de acelga",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actriz de reparto · Marisa Paredes",
+            "Dirección de producción · Marisol Carnicero"
+          ],
+          "wins": [
+            "Dirección de producción · Marisol Carnicero"
+          ]
+        },
+        {
+          "title": "Laura, del cielo llega la noche",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz de reparto · Terele Pávez"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Policía",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección de producción · Daniel Vega"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La rusa",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Fotografía · Hans Burmann"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La estanquera de Vallecas",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Montaje · Julio Peña"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Mi general",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Montaje · José Luis Matesanz"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La monja alférez",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección artística · Eduardo Torre de la Fuente"
+          ],
+          "wins": []
+        },
+        {
+          "title": "A los cuatro vientos \"Lauaxeta\"",
+          "aliases": [
+            "A los cuatro vientos",
+            "Lauaxeta"
+          ],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Vestuario · Javier Artiñano",
+            "Efectos especiales · Julián Martín"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El pecador impecable",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Sonido · Carlos Faruolo, Enrique Molinero"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Descanse en piezas",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Efectos especiales · John Collins"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Hombre mirando al sudeste",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Argentina"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Lo que importa es vivir",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana · México"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana · México"
+          ]
+        },
+        {
+          "title": "Un hombre de éxito",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Cuba"
+          ],
+          "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1989,
+      "section": "3.ª edición · películas de 1988",
+      "films": [
+        {
+          "title": "Diario de invierno",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película",
+            "Dirección · Francisco Regueiro",
+            "Actor protagonista · Fernando Rey",
+            "Actriz de reparto · Terele Pávez"
+          ],
+          "wins": [
+            "Actor protagonista · Fernando Rey"
+          ]
+        },
+        {
+          "title": "El túnel",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Película",
+            "Guion adaptado · Carlos A. Cornejo, José A. Mahieu y Agustín Drove"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Espérame en el cielo",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película",
+            "Dirección · Antonio Mercero",
+            "Guion original · Horacio Valcárcel, Antonio Mercero y Román Gubern",
+            "Actor protagonista · Pepe Soriano",
+            "Actor de reparto · José Sazatornil \"Saza\"",
+            "Actriz de reparto · Chus Lampreave",
+            "Maquillaje y peluquería · Alicia Regueiro y Ángel Luis de Diego"
+          ],
+          "wins": [
+            "Actor de reparto · José Sazatornil \"Saza\""
+          ]
+        },
+        {
+          "title": "Mujeres al borde de un ataque de nervios",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 5 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Pedro Almodóvar",
+            "Guion original · Pedro Almodóvar",
+            "Música original · Fernando Bonezzi",
+            "Actriz protagonista · Carmen Maura",
+            "Actor de reparto · Guillermo Montesinos",
+            "Actriz de reparto · María Barranco",
+            "Actriz de reparto · Julieta Serrano",
+            "Dirección de producción · Esther García",
+            "Fotografía · José Luis Alcaine",
+            "Montaje · José Salcedo",
+            "Dirección artística · Félix Murcia",
+            "Vestuario · José María de Cossío",
+            "Maquillaje y peluquería · Gregorio Ros y Jesús Moncusi",
+            "Sonido · Gilles Ortion",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": [
+            "Película",
+            "Guion original · Pedro Almodóvar",
+            "Actriz protagonista · Carmen Maura",
+            "Actriz de reparto · María Barranco",
+            "Montaje · José Salcedo"
+          ]
+        },
+        {
+          "title": "Remando al viento",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 6 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Gonzalo Suárez",
+            "Guion original · Gonzalo Suárez",
+            "Música original · Alejandro Massó",
+            "Actor de reparto · José Luis Gómez",
+            "Dirección de producción · José G. Jacoste",
+            "Fotografía · Carlos Suárez",
+            "Montaje · José Salcedo",
+            "Dirección artística · Wolfgang Burmann",
+            "Vestuario · Yvonne Blake",
+            "Maquillaje y peluquería · Josefa Morales y Romana González",
+            "Sonido · Daniel Goldstein y Ricardo Steinberg",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": [
+            "Dirección · Gonzalo Suárez",
+            "Dirección de producción · José G. Jacoste",
+            "Fotografía · Carlos Suárez",
+            "Dirección artística · Wolfgang Burmann",
+            "Vestuario · Yvonne Blake",
+            "Maquillaje y peluquería · Josefa Morales y Romana González"
+          ]
+        },
+        {
+          "title": "Berlín Blues",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección · Ricardo Franco",
+            "Música original · Lalo Shifrin",
+            "Dirección de producción · Emiliano Otegui",
+            "Fotografía · Teo Escamilla",
+            "Montaje · Teresa Font",
+            "Dirección artística · Gerardo Vera",
+            "Vestuario · Gerardo Vera",
+            "Sonido · Carlos Faruolo y Enrique Molinero"
+          ],
+          "wins": [
+            "Sonido · Carlos Faruolo y Enrique Molinero"
+          ]
+        },
+        {
+          "title": "Bâton Rouge",
+          "aliases": [
+            "Baton Rouge"
+          ],
+          "director": "",
+          "award": "Nominado · 5 candidaturas",
+          "nominations": [
+            "Guion original · Agustín Díaz Yanes y Rafael Moleón",
+            "Actriz protagonista · Victoria Abril",
+            "Actor de reparto · Ángel de Andrés López",
+            "Actriz de reparto · Laura Cepeda",
+            "Montaje · José Salcedo"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Pasodoble",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion original · Rafael Azcona y José Luis García Sánchez",
+            "Música original · Carmelo Bernaola",
+            "Dirección de producción · Marisol Carnicero",
+            "Sonido · Daniel Goldstein y Ricardo Steinberg"
+          ],
+          "wins": [
+            "Música original · Carmelo Bernaola"
+          ]
+        },
+        {
+          "title": "El aire de un crimen",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Guion adaptado · Gabriel Castro, Jorge R. Álamo y Antonio Isasi-Isasmendi"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El Lute II, mañana seré libre",
+          "aliases": [
+            "El Lute II: mañana seré libre",
+            "El Lute II - Mañana seré libre"
+          ],
+          "director": "",
+          "award": "Nominado · 5 candidaturas",
+          "nominations": [
+            "Guion adaptado · Joaquín Jordà, Vicente Aranda y Eleuterio Sánchez",
+            "Actor protagonista · Imanol Arias",
+            "Actor de reparto · Jorge Sanz",
+            "Maquillaje y peluquería · Agustín Caviedes y Juan Pedro Hernández",
+            "Efectos especiales · Alberto Nombela"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El placer de matar",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Guion adaptado · Félix Rotaeta"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Jarrapellejos",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion adaptado · Antonio Giménez-Rico y Manuel Gutiérrez Aragón",
+            "Actor protagonista · Antonio Ferrandis",
+            "Dirección artística · Rafael Palmero",
+            "Vestuario · Javier Artiñano"
+          ],
+          "wins": [
+            "Guion adaptado · Antonio Giménez-Rico y Manuel Gutiérrez Aragón"
+          ]
+        },
+        {
+          "title": "El Dorado",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 9 candidaturas",
+          "nominations": [
+            "Música original · Alejandro Massó",
+            "Dirección de producción · Víctor Albarrán",
+            "Fotografía · Teo Escamilla",
+            "Montaje · Pedro del Rey",
+            "Dirección artística · Terry Pritchard",
+            "Vestuario · Maritsa González, Terry Pritchard",
+            "Maquillaje y peluquería · José Antonio Sánchez y Paquita Núñez",
+            "Sonido · Gilles Ortion",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Caminos de tiza",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz protagonista · María Fernanda D'Ocon"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Luces y sombras",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz protagonista · Ángela Molina"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Miss Caribe",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz protagonista · Ana Belén"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Sinatra",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actor protagonista · Alfredo Landa"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Malaventura",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Fotografía · José Luis Alcaine"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Slugs, muerte viscosa",
+          "aliases": [
+            "Slugs: muerte viscosa"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Efectos especiales · Basilio Cortijo, Carlo de Marchis y Gonzalo Gonzalo"
+          ],
+          "wins": [
+            "Efectos especiales · Basilio Cortijo, Carlo de Marchis y Gonzalo Gonzalo"
+          ]
         }
       ]
     }
