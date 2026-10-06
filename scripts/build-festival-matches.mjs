@@ -132,15 +132,14 @@ for(const ed of (db.editions||[])){
   if(i>=0){
    present++;
    const r=catalog[i]||{};
-   // Annual master overlays can intentionally replace a year's catalogue rows
-   // without carrying poster metadata. Preserve the lightweight festival map by
-   // falling back to the matching row in the original base catalogue only when
-   // the selected catalogue row has no poster of its own.
-   let poster=r.p||'';
-   if(!poster){
-    const baseIndex=resolve(ft,basePrepared);
-    if(baseIndex>=0)poster=(baseCatalog[baseIndex]&&baseCatalog[baseIndex].p)||'';
-   }
+   // Reuse the established base-catalogue poster whenever this exact festival
+   // film can also be resolved there. Those poster URLs are the stable source
+   // already used by earlier years. Only fall back to the annual overlay poster
+   // for genuinely new rows absent from the base catalogue.
+   let poster='';
+   const baseIndex=resolve(ft,basePrepared);
+   if(baseIndex>=0)poster=(baseCatalog[baseIndex]&&baseCatalog[baseIndex].p)||'';
+   if(!poster)poster=r.p||'';
    matches[key]={i,y:Number(r.y)||0,t:r.t||'',d:r.d||'',p:poster,dur:r.dur||0};
   }else matches[key]=null;
  }
