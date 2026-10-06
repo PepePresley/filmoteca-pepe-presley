@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "editions": [
     {
       "festival": "Cannes",
@@ -29865,7 +29865,10 @@
         },
         {
           "title": "Johnny 100 pesos",
-          "aliases": [],
+          "aliases": [
+            "Johnny cien pesos",
+            "Johnny cien pesos (Johnny 100 pesos)"
+          ],
           "director": "",
           "nominations": [
             "Película extranjera de habla hispana"
@@ -31849,7 +31852,9 @@
       "films": [
         {
           "title": "Casa en flames",
-          "aliases": [],
+          "aliases": [
+            "Casa en llamas"
+          ],
           "director": "",
           "nominations": [
             "Película",
@@ -32464,7 +32469,10 @@
         },
         {
           "title": "Els Buits",
-          "aliases": [],
+          "aliases": [
+            "Los vacíos",
+            "Els buits (Los vacíos)"
+          ],
           "director": "",
           "nominations": [
             "Cortometraje documental"
