@@ -97,7 +97,7 @@ function resolve(ft,p){
   const oscarExact=!q.nd&&titleSim===1&&yearDiff<=2&&q.nt.length>=6;
   const fuzzyIdentity=titleSim>=.72&&dirSim>=.72&&yearDiff<=5;
   const directorAnchor=titleSim>=.55&&dirSim>=.95&&yearDiff<=3;
-  const nearYearTitle=titleSim>=.88&&yearDiff<=1;
+  const nearYearTitle=titleSim>=.88&&yearDiff<=1&&(!q.nd||dirSim>0);
   if(!(strongIdentity||normalExact||oscarExact||fuzzyIdentity||directorAnchor||nearYearTitle))continue;
   const yearBonus=yearDiff===0?2:yearDiff===1?1:yearDiff===2?.25:0;
   const score=titleSim*10+dirSim*5+yearBonus;
