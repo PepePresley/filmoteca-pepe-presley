@@ -1,0 +1,23 @@
+name: TEMP scrape official Goya
+on:
+  push:
+    branches: [lab-goya-historico]
+    paths:
+      - 'scripts/scrape-goya-temp.py'
+      - '.github/workflows/temp-scrape-goya.yml'
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/scrape-goya-temp.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp-goya-official.json
+          git commit -m "TEMP: scrape official Goya data" || exit 0
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
