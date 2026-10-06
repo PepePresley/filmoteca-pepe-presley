@@ -952,9 +952,11 @@ function renderAwardCategory(fy,festival,cat){
  });
  const present=rows.filter(x=>x.idx>=0).length,missing=rows.length-present;
  const candidatureCount=rows.reduce((n,x)=>n+x.nominations,0);
- $('festDisplaySub').textContent=cat+' · '+candidatureCount+' candidatura'+(candidatureCount===1?'':'s');
+ const awardCount=festival==='Goya'?rows.length:candidatureCount;
+ const awardUnit=festival==='Goya'?('película'+(awardCount===1?'':'s')+' nominada'+(awardCount===1?'':'s')):('candidatura'+(awardCount===1?'':'s'));
+ $('festDisplaySub').textContent=cat+' · '+awardCount+' '+awardUnit;
  $('festDisplayMeta').innerHTML='<b>'+present+'</b> películas en tu filmoteca · '+missing+' pendiente'+(missing===1?'':'s')+' de localizar';
- $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+candidatureCount+' candidatura'+(candidatureCount===1?'':'s');
+ $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+awardCount+' '+awardUnit;
  $('festEditionCount').innerHTML=$('festEditionCount').dataset.lead;
  const grid=$('festMovieGrid');grid.innerHTML='';
  rows.sort((a,b)=>Number(b.win)-Number(a.win)).forEach(x=>{
