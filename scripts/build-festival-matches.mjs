@@ -147,3 +147,16 @@ for(const ed of (db.editions||[])){
 const out={version:1,total,present,matches};
 fs.writeFileSync('data/catalog/festival-matches.json',JSON.stringify(out));
 console.log(JSON.stringify({total,present,missing:total-present,bytes:fs.statSync('data/catalog/festival-matches.json').size}));
+if(process.env.GITHUB_REF_NAME==='festival-2025-poster-normalize'){
+ const unique=[...new Map(Object.values(matches).filter(x=>x&&Number(x.y)===2025&&x.p).map(x=>[x.i,x])).values()];
+ const checks=await Promise.all(unique.map(async x=>{
+  const ctl=new AbortController();const timer=setTimeout(()=>ctl.abort(),8000);
+  try{
+   const res=await fetch(x.p,{headers:{'user-agent':'Mozilla/5.0','referer':'https://pepepresley.github.io/filmoteca-pepe-presley/'},signal:ctl.signal,redirect:'follow'});
+   clearTimeout(timer);
+   const ct=res.headers.get('content-type')||'';
+   return {i:x.i,t:x.t,url:x.p,status:res.status,ok:res.ok&&ct.startsWith('image/'),ct};
+  }catch(e){clearTimeout(timer);return {i:x.i,t:x.t,url:x.p,status:0,ok:false,ct:'',err:String(e&&e.name||e)}}
+ }));
+ console.log('POSTER_CHECK_2025 '+JSON.stringify({total:checks.length,ok:checks.filter(x=>x.ok).length,fail:checks.filter(x=>!x.ok)}));
+}
