@@ -920,7 +920,7 @@ function availableYears(f){
 }
 const AWARD_CATEGORY_ORDER={
  Oscar:['Película','Dirección','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Guion original','Guion adaptado','Película internacional','Película de animación','Documental','Cortometraje documental','Cortometraje de animación','Cortometraje de ficción','Fotografía','Montaje','Diseño de producción','Vestuario','Maquillaje y peluquería','Banda sonora','Canción','Sonido','Efectos visuales'],
- Goya:['Película','Dirección','Guion','Música original','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Fotografía','Montaje','Dirección artística','Vestuario','Maquillaje y peluquería','Sonido','Película extranjera de habla hispana']
+ Goya:['Película','Dirección','Dirección novel','Guion','Guion original','Guion adaptado','Música original','Canción original','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Actor revelación','Actriz revelación','Dirección de producción','Fotografía','Dirección de fotografía','Montaje','Dirección artística','Dirección de arte','Vestuario','Diseño de vestuario','Maquillaje y peluquería','Sonido','Efectos especiales','Película de animación','Película documental','Documental','Película iberoamericana','Película extranjera de habla hispana','Película europea','Cortometraje','Cortometraje de ficción','Cortometraje documental','Cortometraje de animación']
 };
 function awardCategoryBase(s){return String(s||'').split(' · ')[0].trim()}
 function awardEditionRaw(fy,festival){return (FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy))}
@@ -952,9 +952,11 @@ function renderAwardCategory(fy,festival,cat){
  });
  const present=rows.filter(x=>x.idx>=0).length,missing=rows.length-present;
  const candidatureCount=rows.reduce((n,x)=>n+x.nominations,0);
- $('festDisplaySub').textContent=cat+' · '+candidatureCount+' candidatura'+(candidatureCount===1?'':'s');
+ const awardCount=festival==='Goya'?rows.length:candidatureCount;
+ const awardUnit=festival==='Goya'?('película'+(awardCount===1?'':'s')+' nominada'+(awardCount===1?'':'s')):('candidatura'+(awardCount===1?'':'s'));
+ $('festDisplaySub').textContent=cat+' · '+awardCount+' '+awardUnit;
  $('festDisplayMeta').innerHTML='<b>'+present+'</b> películas en tu filmoteca · '+missing+' pendiente'+(missing===1?'':'s')+' de localizar';
- $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+candidatureCount+' candidatura'+(candidatureCount===1?'':'s');
+ $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+awardCount+' '+awardUnit;
  $('festEditionCount').innerHTML=$('festEditionCount').dataset.lead;
  const grid=$('festMovieGrid');grid.innerHTML='';
  rows.sort((a,b)=>Number(b.win)-Number(a.win)).forEach(x=>{
