@@ -152,7 +152,7 @@ if(process.env.GITHUB_REF_NAME==='festival-2025-poster-normalize'){
  const checks=await Promise.all(unique.map(async x=>{
   const ctl=new AbortController();const timer=setTimeout(()=>ctl.abort(),8000);
   try{
-   const res=await fetch(x.p,{headers:{'user-agent':'Mozilla/5.0','referer':'https://pepepresley.github.io/filmoteca-pepe-presley/'},signal:ctl.signal,redirect:'follow'});
+   const res=await fetch(x.p,{method:'HEAD',headers:{'user-agent':'Mozilla/5.0','referer':'https://pepepresley.github.io/filmoteca-pepe-presley/'},signal:ctl.signal,redirect:'follow'});
    clearTimeout(timer);
    const ct=res.headers.get('content-type')||'';
    return {i:x.i,t:x.t,url:x.p,status:res.status,ok:res.ok&&ct.startsWith('image/'),ct};
