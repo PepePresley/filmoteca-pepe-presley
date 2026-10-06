@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "editions": [
     {
       "festival": "Cannes",
@@ -30227,6 +30227,408 @@
           "award": "Nominado · 1 candidatura",
           "nominations": [
             "Película extranjera de habla hispana · Perú, México, Francia"
+          ],
+          "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1996,
+      "section": "10.ª edición · películas de 1995",
+      "films": [
+        {
+          "title": "Boca a boca",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actor protagonista",
+            "Actor de reparto",
+            "Dirección de producción",
+            "Montaje",
+            "Sonido"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ]
+        },
+        {
+          "title": "El día de la bestia",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 6 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actor revelación",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Dirección",
+            "Actor revelación",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ]
+        },
+        {
+          "title": "Nadie hablará de nosotras cuando hayamos muerto",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 8 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección novel",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Montaje",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Película",
+            "Dirección novel",
+            "Guion original",
+            "Música original",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Montaje"
+          ]
+        },
+        {
+          "title": "La flor de mi secreto",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 7 candidaturas",
+          "nominations": [
+            "Dirección",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Actriz de reparto",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Antártida",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección novel",
+            "Actriz protagonista",
+            "Actor revelación",
+            "Fotografía"
+          ],
+          "wins": [
+            "Fotografía"
+          ]
+        },
+        {
+          "title": "Hola, ¿estás sola?",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El palomo cojo",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El porqué de las cosas",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Guion adaptado",
+            "Música original"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Historias del Kronen",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion adaptado",
+            "Actor revelación"
+          ],
+          "wins": [
+            "Guion adaptado"
+          ]
+        },
+        {
+          "title": "Así en el cielo como en la tierra",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actor de reparto"
+          ],
+          "wins": [
+            "Actor de reparto"
+          ]
+        },
+        {
+          "title": "La ley de la frontera",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Actor de reparto",
+            "Vestuario"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Alma gitana",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz revelación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Entre rojas",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Actriz revelación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Tierra y libertad",
+          "aliases": [
+            "Land and Freedom"
+          ],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Actriz revelación"
+          ],
+          "wins": [
+            "Actriz revelación"
+          ]
+        },
+        {
+          "title": "Flamenco",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Fotografía"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La leyenda de Balthasar el castrado",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección artística",
+            "Vestuario"
+          ],
+          "wins": [
+            "Vestuario"
+          ]
+        },
+        {
+          "title": "El niño invisible",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Efectos especiales"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La ciudad de los niños perdidos",
+          "aliases": [
+            "La Cité des enfants perdus",
+            "The City of Lost Children"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Efectos especiales"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Carrington",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La locura del rey Jorge",
+          "aliases": [
+            "The Madness of King George"
+          ],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Lamerica",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [
+            "Película europea"
+          ]
+        },
+        {
+          "title": "Entre vías",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Escrito en la piel",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Hábitos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La madre",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ]
+        },
+        {
+          "title": "Sólo amor",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Caracol, col, col",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ]
+        },
+        {
+          "title": "Las partes de mí que te aman son seres vacíos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": []
+        },
+        {
+          "title": "El callejón de los milagros",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ]
+        },
+        {
+          "title": "El elefante y la bicicleta",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Sicario, la ley de la calle",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana"
           ],
           "wins": []
         }
