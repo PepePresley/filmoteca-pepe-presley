@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "editions": [
     {
       "festival": "Cannes",
@@ -28676,6 +28676,523 @@
           "wins": [
             "Película extranjera de habla hispana · España, Cuba"
           ]
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1991,
+      "section": "5.ª edición · películas de 1990",
+      "films": [
+        {
+          "title": "¡Átame!",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 15 candidaturas",
+          "nominations": [
+            "Película",
+            "Dirección · Pedro Almodóvar",
+            "Guion original · Pedro Almodóvar",
+            "Música original · Ennio Morricone",
+            "Actor protagonista · Antonio Banderas",
+            "Actriz protagonista · Victoria Abril",
+            "Actor de reparto · Francisco Rabal",
+            "Actriz de reparto · Loles León",
+            "Dirección de producción · Esther García",
+            "Fotografía · José Luis Alcaine",
+            "Montaje · José Salcedo",
+            "Dirección artística · Ferrán Sánchez",
+            "Vestuario · José María de Cossío",
+            "Maquillaje y peluquería · Jesús Moncusi, Juan Pedro Hernández",
+            "Sonido · Daniel Goldstein, Ricardo Steinberg"
+          ],
+          "wins": []
+        },
+        {
+          "title": "¡Ay, Carmela!",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 13 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Carlos Saura",
+            "Guion adaptado · Carlos Saura, Rafael Azcona",
+            "Música original · Alejandro Massó",
+            "Actor protagonista · Andrés Pajares",
+            "Actriz protagonista · Carmen Maura",
+            "Actor de reparto · Gabino Diego",
+            "Dirección de producción · Víctor Albarrán",
+            "Fotografía · José Luis Alcaine",
+            "Montaje · Pablo del Amo",
+            "Dirección artística · Rafael Palmero",
+            "Vestuario · Mercedes Sánchez Rau, Rafael Palmero",
+            "Maquillaje y peluquería · José Antonio Sánchez, Paquita Núñez",
+            "Sonido · Alfonso Pino, Gilles Ortion",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": [
+            "Película",
+            "Dirección · Carlos Saura",
+            "Guion adaptado · Carlos Saura, Rafael Azcona",
+            "Actor protagonista · Andrés Pajares",
+            "Actriz protagonista · Carmen Maura",
+            "Actor de reparto · Gabino Diego",
+            "Dirección de producción · Víctor Albarrán",
+            "Montaje · Pablo del Amo",
+            "Dirección artística · Rafael Palmero",
+            "Vestuario · Mercedes Sánchez Rau, Rafael Palmero",
+            "Maquillaje y peluquería · José Antonio Sánchez, Paquita Núñez",
+            "Sonido · Alfonso Pino, Gilles Ortion",
+            "Efectos especiales · Reyes Abades"
+          ]
+        },
+        {
+          "title": "Las cartas de Alou",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Montxo Armendáriz",
+            "Guion original · Montxo Armendáriz",
+            "Dirección de producción · Primitivo Álvaro",
+            "Fotografía · Alfredo F. Mayo",
+            "Montaje · Rori Sáinz de Rozas",
+            "Sonido · Eduardo Fernández, Pierre Lorraine",
+            "Efectos especiales · Juan Ramón Molina, Reyes Abades"
+          ],
+          "wins": [
+            "Guion original · Montxo Armendáriz",
+            "Fotografía · Alfredo F. Mayo"
+          ]
+        },
+        {
+          "title": "Boom, Boom",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Dirección novel · Rosa Vergés"
+          ],
+          "wins": [
+            "Dirección novel · Rosa Vergés"
+          ]
+        },
+        {
+          "title": "Contra el viento",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Dirección novel · Paco Periñán",
+            "Actriz de reparto · Rosario Flores"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Ovejas negras",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · José María Carreño"
+          ],
+          "wins": []
+        },
+        {
+          "title": "A solas contigo",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 3 candidaturas",
+          "nominations": [
+            "Guion original · Agustín Díaz Yanes, Eduardo Calvo, Manolo Matji",
+            "Actor protagonista · Imanol Arias",
+            "Actor de reparto · Juan Echanove"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La sombra del ciprés es alargada",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Guion adaptado · Luis Alcoriza"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Las edades de Lulú",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion adaptado · Bigas Luna, Almudena Grandes",
+            "Actriz de reparto · María Barranco"
+          ],
+          "wins": [
+            "Actriz de reparto · María Barranco"
+          ]
+        },
+        {
+          "title": "Lo más natural",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Música original · José Nieto",
+            "Actriz protagonista · Charo López",
+            "Dirección artística · Rafael Palmero"
+          ],
+          "wins": [
+            "Música original · José Nieto"
+          ]
+        },
+        {
+          "title": "Yo soy esa",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Vestuario · José María García Montes, Lina Montero, María Luisa Zabala",
+            "Maquillaje y peluquería · Juan Pedro Hernández, Leonardo Strafacio"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Don Juan, mi querido fantasma",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Efectos especiales · Carlos Santos, Juan Ramón Molina"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Blanco o negro",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ]
+        },
+        {
+          "title": "El viaje del agua",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ]
+        },
+        {
+          "title": "Indefenso",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Caídos del cielo",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana · Perú, España"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana · Perú, España"
+          ]
+        },
+        {
+          "title": "Caluga o menta",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Chile"
+          ],
+          "wins": []
+        },
+        {
+          "title": "María Antonia",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Cuba"
+          ],
+          "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 1992,
+      "section": "6.ª edición · películas de 1991",
+      "films": [
+        {
+          "title": "Amantes",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 2 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Vicente Aranda",
+            "Guion original · Carlos Pérez Merinero, Álvaro del Amo, Vicente Aranda",
+            "Actor protagonista · Jorge Sanz",
+            "Actriz protagonista · Victoria Abril",
+            "Actriz protagonista · Maribel Verdú",
+            "Montaje · Teresa Font"
+          ],
+          "wins": [
+            "Película",
+            "Dirección · Vicente Aranda"
+          ]
+        },
+        {
+          "title": "Don Juan en los infiernos",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película",
+            "Música original · Alejandro Massó",
+            "Actor protagonista · Fernando Guillén",
+            "Dirección de producción · Alejandro Vázquez",
+            "Fotografía · Carlos Suárez",
+            "Dirección artística · Wolfgang Burmann",
+            "Vestuario · Yvonne Blake"
+          ],
+          "wins": [
+            "Actor protagonista · Fernando Guillén"
+          ]
+        },
+        {
+          "title": "El rey pasmado",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 8 Goyas",
+          "nominations": [
+            "Película",
+            "Dirección · Imanol Uribe",
+            "Guion adaptado · Juan Potau, Gonzalo Torrente Malvido",
+            "Música original · José Nieto",
+            "Actor protagonista · Gabino Diego",
+            "Actor de reparto · Juan Diego",
+            "Actor de reparto · Javier Gurruchaga",
+            "Actriz de reparto · María Barranco",
+            "Dirección de producción · Andrés Santana",
+            "Fotografía · Hans Burmann",
+            "Dirección artística · Félix Murcia",
+            "Vestuario · Javier Artiñano",
+            "Maquillaje y peluquería · Josefa Morales, Romana González",
+            "Sonido · Gilles Ortion, Ricard Casals"
+          ],
+          "wins": [
+            "Guion adaptado · Juan Potau, Gonzalo Torrente Malvido",
+            "Música original · José Nieto",
+            "Actor de reparto · Juan Diego",
+            "Dirección de producción · Andrés Santana",
+            "Dirección artística · Félix Murcia",
+            "Vestuario · Javier Artiñano",
+            "Maquillaje y peluquería · Josefa Morales, Romana González",
+            "Sonido · Gilles Ortion, Ricard Casals"
+          ]
+        },
+        {
+          "title": "Beltenebros",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Dirección · Pilar Miró",
+            "Guion adaptado · Juan Antonio Porto, Mario Camus, Pilar Miró",
+            "Actor de reparto · José Luis Gómez",
+            "Dirección de producción · José Luis García Arrojo",
+            "Fotografía · Javier Aguirresarobe",
+            "Montaje · José Luis Matesanz",
+            "Dirección artística · Fernando Sáenz, Luis \"Koldo\" Vallés",
+            "Maquillaje y peluquería · Juan Pedro Hernández",
+            "Sonido · Alberto Herena, Carlos Faruolo, Manuel Cora",
+            "Efectos especiales · Reyes Abades"
+          ],
+          "wins": [
+            "Fotografía · Javier Aguirresarobe",
+            "Montaje · José Luis Matesanz",
+            "Efectos especiales · Reyes Abades"
+          ]
+        },
+        {
+          "title": "Alas de mariposa",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 3 Goyas",
+          "nominations": [
+            "Dirección novel · Juanma Bajo Ulloa",
+            "Guion original · Eduardo Bajo Ulloa, Juanma Bajo Ulloa",
+            "Actriz protagonista · Silvia Munt"
+          ],
+          "wins": [
+            "Dirección novel · Juanma Bajo Ulloa",
+            "Guion original · Eduardo Bajo Ulloa, Juanma Bajo Ulloa",
+            "Actriz protagonista · Silvia Munt"
+          ]
+        },
+        {
+          "title": "Cómo ser mujer y no morir en el intento",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 2 candidaturas",
+          "nominations": [
+            "Dirección novel · Ana Belén",
+            "Guion adaptado · Carmen Rico-Godoy"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Salsa rosa",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Dirección novel · Manuel Gómez Pereira"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Todo por la pasta",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Guion original · Luis Marías",
+            "Música original · Bernardo Bonezzi",
+            "Actriz de reparto · Kiti Mánver",
+            "Efectos especiales · Kit West"
+          ],
+          "wins": [
+            "Actriz de reparto · Kiti Mánver"
+          ]
+        },
+        {
+          "title": "Tacones lejanos",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 5 candidaturas",
+          "nominations": [
+            "Actriz de reparto · Cristina Marcos",
+            "Montaje · José Salcedo",
+            "Vestuario · José María de Cossío",
+            "Maquillaje y peluquería · Gregorio Ros, Jesús Moncusi",
+            "Sonido · Jean-Paul Mugel"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Capitán Escalaborns",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Efectos especiales · Carlo de Marchis"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Eduardo",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La doncella virtuosa o el martirio de San Pedro",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La viuda negra",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ]
+        },
+        {
+          "title": "Ni contigo ni sin ti",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Hello Hemingway",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Cuba"
+          ],
+          "wins": []
+        },
+        {
+          "title": "Jericó",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Venezuela"
+          ],
+          "wins": []
+        },
+        {
+          "title": "La frontera",
+          "aliases": [],
+          "director": "",
+          "award": "Ganador · 1 Goya",
+          "nominations": [
+            "Película extranjera de habla hispana · Chile, España"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana · Chile, España"
+          ]
+        },
+        {
+          "title": "Técnicas de duelo: una cuestión de honor",
+          "aliases": [],
+          "director": "",
+          "award": "Nominado · 1 candidatura",
+          "nominations": [
+            "Película extranjera de habla hispana · Colombia, Cuba"
+          ],
+          "wins": []
         }
       ]
     }
