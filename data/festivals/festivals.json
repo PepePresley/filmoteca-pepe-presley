@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "editions": [
     {
       "festival": "Cannes",
@@ -31858,10 +31858,13 @@
             "Actor de reparto · Enric Auquer",
             "Actriz de reparto · Macarena García",
             "Actriz de reparto · Maria Rodríguez Soto",
-            "Dirección de producción · Laia Gómez"
+            "Dirección de producción · Laia Gómez",
+            "Guion original · Eduard Sola"
           ],
-          "wins": [],
-          "award": "Nominado · 7 candidaturas"
+          "wins": [
+            "Guion original · Eduard Sola"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
           "title": "El 47",
@@ -31879,7 +31882,9 @@
             "Dirección artística · Marta Bazaco",
             "Vestuario · Irantzu Ortiz, Olga Rodal",
             "Maquillaje y peluquería · Karol Tornaría",
-            "Efectos especiales · Laura Canals, Iván López Hernández"
+            "Efectos especiales · Laura Canals, Iván López Hernández",
+            "Música original · Arnau Bataller",
+            "Canción original · El borde del mundo - Compositores: Valeria Castro"
           ],
           "wins": [
             "Película",
@@ -31901,7 +31906,8 @@
             "Actor revelación · Pepe Lorente",
             "Actriz revelación · Mariela Carabajal",
             "Montaje · Javier Macipe, Nacho Blasco",
-            "Sonido · Amanda Villavieja, Joaquín Rajadel, Víctor Puertas, Mayte Cabrera, Nicolas de Poulpiquet"
+            "Sonido · Amanda Villavieja, Joaquín Rajadel, Víctor Puertas, Mayte Cabrera, Nicolas de Poulpiquet",
+            "Guion original · Javier Macipe"
           ],
           "wins": [
             "Dirección novel · Javier Macipe",
@@ -31924,7 +31930,9 @@
             "Montaje · Victoria Lammers",
             "Maquillaje y peluquería · Patricia Rodríguez, Tono Garzón",
             "Sonido · Fabio Huete, Jorge Castillo Ballesteros, Miriam Lisón, Mayte Cabrera",
-            "Efectos especiales · Mariano García Marty, Jon Serrano, Juliana Lasunción"
+            "Efectos especiales · Mariano García Marty, Jon Serrano, Juliana Lasunción",
+            "Guion original · Amèlia Mora, Arantxa Echevarría",
+            "Música original · Fernando Velázquez"
           ],
           "wins": [
             "Película",
@@ -31946,7 +31954,8 @@
             "Montaje · Javi Frutos",
             "Dirección artística · Pepe Domínguez del Olmo",
             "Vestuario · Lourdes Fuentes",
-            "Sonido · Diana Sagrista, Eva Valiño, Alejandro Castillo, Antonin Dalmasso"
+            "Sonido · Diana Sagrista, Eva Valiño, Alejandro Castillo, Antonin Dalmasso",
+            "Canción original · Love is the worst - Compositores: Alondra Bentley,Isaki Lacuesta"
           ],
           "wins": [
             "Dirección · Isaki Lacuesta, Pol Rodríguez",
@@ -31968,13 +31977,15 @@
             "Dirección artística · Inbal Weinberg",
             "Vestuario · Bina Daigeler",
             "Maquillaje y peluquería · Morag Ross, Manolo García",
-            "Sonido · Sergio Bürmann, Anna Harrington, Marc Orts"
+            "Sonido · Sergio Bürmann, Anna Harrington, Marc Orts",
+            "Música original · Alberto Iglesias"
           ],
           "wins": [
             "Guion adaptado · Pedro Almodóvar",
-            "Fotografía · Edu Grau"
+            "Fotografía · Edu Grau",
+            "Música original · Alberto Iglesias"
           ],
-          "award": "Ganador · 2 Goyas"
+          "award": "Ganador · 3 Goyas"
         },
         {
           "title": "La Virgen Roja",
@@ -31988,7 +31999,8 @@
             "Vestuario · Arantxa Ezquerro",
             "Maquillaje y peluquería · Eli Adánez, Paco Rodríguez Frías",
             "Sonido · Coque F. Lahera, Álex F Capilla, Nacho Royo-Villanova",
-            "Efectos especiales · Raúl Romanillos, Juanma Nogales"
+            "Efectos especiales · Raúl Romanillos, Juanma Nogales",
+            "Canción original · La Virgen Roja - Compositores: Maria Arnal"
           ],
           "wins": [
             "Dirección artística · Javier Alvariño",
@@ -32054,121 +32066,69 @@
           "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Casa en flames Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
+          "title": "La casa",
           "aliases": [],
           "director": "",
           "nominations": [
-            "Guion original · Eduard Sola"
+            "Guion adaptado · Álex Montoya, Joana M. Ortueta",
+            "Actor de reparto · Óscar de la Fuente"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
+        },
+        {
+          "title": "Los destellos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado · Pilar Palomero",
+            "Actriz protagonista · Patricia Lopez Arnaiz",
+            "Actor de reparto · Antonio de la Torre",
+            "Actriz revelación · Marina Guerola"
+          ],
+          "wins": [],
+          "award": "Nominado · 4 candidaturas"
+        },
+        {
+          "title": "Salve Maria",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado · Mar Coll, Valentina Viso",
+            "Actriz revelación · Laura Weissmahr"
           ],
           "wins": [
-            "Guion original · Eduard Sola"
+            "Actriz revelación · Laura Weissmahr"
           ],
           "award": "Ganador · 1 Goya"
         },
         {
-          "title": "La estrella azul Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
+          "title": "Soy Nevenka",
           "aliases": [],
           "director": "",
           "nominations": [
-            "Guion original · Javier Macipe"
+            "Guion adaptado · Iciar Bollain, Isa Campo",
+            "Actor protagonista · Urko Olazabal",
+            "Actriz revelación · Lucía Veiga",
+            "Fotografía · Gris Jordana"
           ],
           "wins": [],
-          "award": "Nominado · 1 candidatura"
+          "award": "Nominado · 4 candidaturas"
         },
         {
-          "title": "La infiltrada Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
+          "title": "Guardiana de Dragones - Dragonkeeper",
           "aliases": [],
           "director": "",
           "nominations": [
-            "Guion original · Amèlia Mora, Arantxa Echevarría"
+            "Música original · Arturo Cardelús",
+            "Efectos especiales · Li Xin",
+            "Película de animación"
           ],
           "wins": [],
-          "award": "Nominado · 1 candidatura"
+          "award": "Nominado · 3 candidaturas"
         },
         {
-          "title": "La casa Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Guion adaptado · Álex Montoya, Joana M. Ortueta"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Los destellos Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Guion adaptado · Pilar Palomero"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Salve Maria Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Guion adaptado · Mar Coll, Valentina Viso"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Soy Nevenka Leer Este contenido es una creación protegida por el derecho de autor y objeto de propiedad intelectual, habiéndose autorizado su acceso a través de esta página Web por el titular de los citados derechos a los solos efectos de su lectura para disfrute privado de los usuarios, quedando terminantemente prohibido su utilización para fines comerciales o para cualquier otro fin distinto al expresado Leer Cancelar",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Guion adaptado · Iciar Bollain, Isa Campo"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "El 47 Escuchar música",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Música original · Arnau Bataller"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Guardiana de Dragones - Dragonkeeper Escuchar música Escuchar banda sonora",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Música original · Arturo Cardelús"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "La habitación de al lado (The Room Next Door) Escuchar música",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Música original · Alberto Iglesias"
-          ],
-          "wins": [
-            "Música original · Alberto Iglesias"
-          ],
-          "award": "Ganador · 1 Goya"
-        },
-        {
-          "title": "La infiltrada Escuchar música",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Música original · Fernando Velázquez"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Verano en diciembre Escuchar música",
+          "title": "Verano en diciembre",
           "aliases": [],
           "director": "",
           "nominations": [
@@ -32178,56 +32138,29 @@
           "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Buffalo Kids Escuchar canción",
+          "title": "Buffalo Kids",
           "aliases": [],
           "director": "",
           "nominations": [
-            "Canción original · Show me - Compositores: Fernando Velázquez"
+            "Canción original · Show me - Compositores: Fernando Velázquez",
+            "Película de animación"
           ],
           "wins": [],
-          "award": "Nominado · 1 candidatura"
+          "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "El 47 Escuchar canción",
+          "title": "La guitarra flamenca de Yerai Cortés",
           "aliases": [],
           "director": "",
           "nominations": [
-            "Canción original · El borde del mundo - Compositores: Valeria Castro"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "La guitarra flamenca de Yerai Cortés Escuchar canción",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Canción original · Los Almendros - Compositores: Antón Álvarez, Yerai Cortés, La Tania"
+            "Canción original · Los Almendros - Compositores: Antón Álvarez, Yerai Cortés, La Tania",
+            "Película documental"
           ],
           "wins": [
-            "Canción original · Los Almendros - Compositores: Antón Álvarez, Yerai Cortés, La Tania"
+            "Canción original · Los Almendros - Compositores: Antón Álvarez, Yerai Cortés, La Tania",
+            "Película documental"
           ],
-          "award": "Ganador · 1 Goya"
-        },
-        {
-          "title": "La Virgen Roja Escuchar canción",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Canción original · La Virgen Roja - Compositores: Maria Arnal"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Segundo premio Escuchar canción",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Canción original · Love is the worst - Compositores: Alondra Bentley,Isaki Lacuesta"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
+          "award": "Ganador · 2 Goyas"
         },
         {
           "title": "Polvo serán",
@@ -32238,18 +32171,6 @@
           ],
           "wins": [],
           "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Soy Nevenka",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Actor protagonista · Urko Olazabal",
-            "Actriz revelación · Lucía Veiga",
-            "Fotografía · Gris Jordana"
-          ],
-          "wins": [],
-          "award": "Nominado · 3 candidaturas"
         },
         {
           "title": "Volveréis",
@@ -32263,28 +32184,6 @@
           "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "Los destellos",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Actriz protagonista · Patricia Lopez Arnaiz",
-            "Actor de reparto · Antonio de la Torre",
-            "Actriz revelación · Marina Guerola"
-          ],
-          "wins": [],
-          "award": "Nominado · 3 candidaturas"
-        },
-        {
-          "title": "La casa",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Actor de reparto · Óscar de la Fuente"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
           "title": "¿Es el enemigo? La película de Gila",
           "aliases": [],
           "director": "",
@@ -32293,18 +32192,6 @@
           ],
           "wins": [],
           "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Salve Maria",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Actriz revelación · Laura Weissmahr"
-          ],
-          "wins": [
-            "Actriz revelación · Laura Weissmahr"
-          ],
-          "award": "Ganador · 1 Goya"
         },
         {
           "title": "Los pequeños amores",
@@ -32322,27 +32209,6 @@
           "director": "",
           "nominations": [
             "Vestuario · Ester Palaudàries, Vinyet Escobar"
-          ],
-          "wins": [],
-          "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "Guardiana de Dragones - Dragonkeeper",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Efectos especiales · Li Xin",
-            "Película de animación"
-          ],
-          "wins": [],
-          "award": "Nominado · 2 candidaturas"
-        },
-        {
-          "title": "Buffalo Kids",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Película de animación"
           ],
           "wins": [],
           "award": "Nominado · 1 candidatura"
@@ -32388,18 +32254,6 @@
           ],
           "wins": [],
           "award": "Nominado · 1 candidatura"
-        },
-        {
-          "title": "La guitarra flamenca de Yerai Cortés",
-          "aliases": [],
-          "director": "",
-          "nominations": [
-            "Película documental"
-          ],
-          "wins": [
-            "Película documental"
-          ],
-          "award": "Ganador · 1 Goya"
         },
         {
           "title": "Marisol, llámame Pepa",
