@@ -369,6 +369,10 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
  <path d="M39 25c3-5 7-8 11-8s8 3 11 8M43 30c2 3 4 4 7 4s5-1 7-4" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/>
  <path d="M28 60h44M34 66h32" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/>
 </symbol>
+<symbol id="ico-bafta" viewBox="0 0 100 72">
+ <path d="M24 18c14-9 37-10 52-2-2 25-14 42-30 43-14 1-23-14-22-41Z" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linejoin="round"/>
+ <path d="M34 31c5-4 10-4 15 0M56 29c5-3 10-2 14 1M42 45c7 4 14 3 20-2" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"/>
+</symbol>
 </defs></svg>
 <div class="tabsBar">
  <button class="tabBtn" id="tabHome">Inicio</button>
@@ -383,7 +387,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
   <div class="homeSearch"><span>⌕</span><input id="homeQ" type="text" placeholder="Busca una película, director, año…"></div>
   <div class="homeDoors">
    <button class="homeDoor" id="homeCollection"><b>🎬 Mi Filmoteca</b><span>Explorar toda la colección</span></button>
-   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Óscar · Goya</span></button>
+   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Óscar · Goya · BAFTA</span></button>
    <button class="homeDoor" id="randomBtn"><b>🎲 Descubrir</b><span>Una película al azar de tu filmoteca</span></button>
   </div>
  </div>
@@ -434,6 +438,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
     <button class="festivalSelectBtn" data-festival="San Sebastián"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
     <button class="festivalSelectBtn" data-festival="Oscar"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
     <button class="festivalSelectBtn" data-festival="Goya"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-goya"></use></svg>Goya</button>
+    <button class="festivalSelectBtn" data-festival="BAFTA"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-bafta"></use></svg>BAFTA</button>
    </div>
    <div class="festDivider"></div>
    <div class="festSideLabel" id="festYearLabel">Década / Año (Cannes)</div>
@@ -545,12 +550,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-1990-v38");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=ediciones-2026-v46");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=exact1");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=exact2");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
@@ -914,7 +919,7 @@ function renderFestivalEdition(fy){
 }
 
 let selectedFestival='Cannes';
-function festivalLabel(f){return f==='Oscar'?'Premios Oscar':f==='Goya'?'Premios Goya':'Festival de '+f}
+function festivalLabel(f){return f==='Oscar'?'Premios Oscar':f==='Goya'?'Premios Goya':f==='BAFTA'?'Premios BAFTA':'Festival de '+f}
 function availableYears(f){
  return [...new Set((FESTIVAL_DB.editions||[]).filter(e=>e.festival===f).map(e=>Number(e.year)))].sort((a,b)=>b-a);
 }
@@ -1080,10 +1085,10 @@ function renderFestivalEditionFor(festival,fy,section=null){
  appendAnnualMissingLink(fy);
 }
 function festivalIconId(f){
- return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':f==='Goya'?'#ico-goya':'#ico-cannes';
+ return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':f==='Goya'?'#ico-goya':f==='BAFTA'?'#ico-bafta':'#ico-cannes';
 }
 function festivalSectionsHTML(f){
- if(f==='Oscar'||f==='Goya') return '<div class="active">Selecciona un año</div>';
+ if(f==='Oscar'||f==='Goya'||f==='BAFTA') return '<div class="active">Selecciona un año</div>';
  if(f==='Cannes') return '<div class="active">Selecciona un año</div><div>Competición oficial</div><div>Un Certain Regard</div>';
  return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
 }
