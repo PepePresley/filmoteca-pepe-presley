@@ -61,6 +61,7 @@ function prepare(index){
 function query(ft){
  const nd=norm(ft.director),nt=norm(ft.festival_title);
  const qs=[nt,...(ft.aliases||[]).map(norm).filter(Boolean)].map(s=>({s,t:toks(s),g:sig(s)})).filter(x=>x.s);
+ // Oscar, Goya and BAFTA editions are keyed by ceremony year, so match against the prior film year.
  const fy=Number(ft.festival_year)||0,targetYear=(ft.festival==='Oscar'||ft.festival==='Goya'||ft.festival==='BAFTA')?fy-1:fy;
  return {nd,ndt:toks(nd),nt,qs,targetYear};
 }
