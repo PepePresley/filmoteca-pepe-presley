@@ -1,0 +1,66 @@
+{
+  "year": 2017,
+  "status": "PREPARACION_COTEJO_NO_PUBLICADO",
+  "base_main": "27c11b98a2b0c178001090949410f75c9f5160b2",
+  "source": "Dropbox Catalogo_Telegram_2016 y 2017; FilmAffinity y archivos oficiales",
+  "counts": [
+    [
+      "Berlin",
+      17,
+      11
+    ],
+    [
+      "Cannes oficial",
+      19,
+      15
+    ],
+    [
+      "Cannes Un Certain Regard",
+      18,
+      8
+    ],
+    [
+      "Venecia",
+      21,
+      18
+    ],
+    [
+      "San Sebastian",
+      17,
+      11
+    ],
+    [
+      "Oscar",
+      57,
+      44
+    ],
+    [
+      "BAFTA cine",
+      51,
+      36
+    ]
+  ],
+  "ambiguities": [
+    {
+      "title": "Happy End",
+      "correct": "Michael Haneke",
+      "wrong": "Jan Saska"
+    },
+    {
+      "title": "La novia del desierto",
+      "correct": "Cecilia Atán y Valeria Pivato",
+      "wrong": "Svyatoslav Podgaevskiy"
+    },
+    {
+      "title": "Madre!",
+      "correct": "Darren Aronofsky",
+      "wrong": "Aaron Burns / Rodrigo Sorogoyen"
+    },
+    {
+      "title": "Animales nocturnos",
+      "correct": "Tom Ford",
+      "wrong": "Animals (Greg Zglinski)"
+    }
+  ],
+  "important": "No construir festivals.json hasta verificar listas definitivas, propiedad y homonimos. Goya 2017 no tocar; Oscar/BAFTA de 2017 premian films 2016; archivo festival-owned-2017.json Goya existente conservar."
+}
