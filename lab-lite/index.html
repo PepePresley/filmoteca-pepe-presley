@@ -1017,6 +1017,8 @@ function renderFestivalEditionFor(festival,fy,section=null){
  const ed=festivalEditionData(fy,festival,section), allTags=ed.present, allMissing=ed.missing;
  const cannes=festival==='Cannes'&&fy>=2016&&fy<=2019;
  const allYearCannes=(FESTIVAL_DB.editions||[]).filter(e=>e.festival==='Cannes'&&Number(e.year)===Number(fy));
+ const cannesYearPresent=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).present):[];
+ const cannesUniquePresent=cannes?[...new Map(cannesYearPresent.map(x=>[String(x.idx),x])).values()]:[];
  const cannesYearMissing=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).missing):[];
  const cannesUniqueMissing=cannes?[...new Map(cannesYearMissing.map(x=>[(String(x.title||'').toLowerCase()+'|'+String(x.director||'').toLowerCase()),x])).values()]:[];
  const full=[...allTags,...allMissing];
@@ -1028,11 +1030,11 @@ function renderFestivalEditionFor(festival,fy,section=null){
  $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
  if(cannes){
   const count=cannesUniqueMissing.length;
+  const owned=cannesUniquePresent.length;
   const showingMissing=cannesResultFilter==='faltantes';
-  $('festEditionCount').innerHTML='<span style="color:#c68a9c;font-size:13px">Cannes '+fy+' · '+esc(section||'')+'</span><span style="padding:0 8px;color:#9c7881">—</span>'+
-   (showingMissing
-    ? '<span style="font-size:13px">Faltan '+count+' películas de Cannes en tu filmoteca</span> · <button type="button" class="cannesResultLink" data-filter="todas" style="border:0;border-bottom:1px solid #c68a9c;background:transparent;color:#e8a9bc;cursor:pointer;font-size:13px;padding:1px 0">← Ver selección completa</button>'
-    : '<button type="button" class="cannesResultLink" data-filter="faltantes" style="border:0;border-bottom:1px solid #c68a9c;background:transparent;color:#e8a9bc;cursor:pointer;font-size:13px;padding:1px 0">Faltan '+count+' películas en mi filmoteca (solo Cannes '+fy+')</button>');
+  $('festEditionCount').innerHTML=showingMissing
+   ? '<b>'+count+'</b> pendiente'+(count===1?'':'s')+' de Cannes '+fy+' · <button type="button" class="annualMissingLink cannesResultLink" data-filter="todas">← volver</button>'
+   : '<b>'+owned+'</b> en mi filmoteca · <button type="button" class="annualMissingLink cannesResultLink" data-filter="faltantes">'+count+' pendiente'+(count===1?'':'s')+' de Cannes '+fy+'</button>';
   $('festEditionCount').querySelectorAll('.cannesResultLink').forEach(btn=>btn.onclick=()=>showCannesResult(fy,section,btn.dataset.filter));
  }
  const grid=$('festMovieGrid'); grid.innerHTML='';
