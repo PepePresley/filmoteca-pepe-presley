@@ -1027,9 +1027,13 @@ function renderFestivalEditionFor(festival,fy,section=null){
  $('festEditionTitle').textContent='';
  $('festEditionCount').innerHTML='<b>'+tags.length+'</b> en tu filmoteca · <b>'+missing.length+'</b> pendiente'+(missing.length===1?'':'s')+' de localizar';
  if(cannes){
-  const buttons=[['todas','Todas',full.length],['faltantes','Faltan en mi filmoteca',cannesUniqueMissing.length]];
-  $('festEditionCount').innerHTML='<div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">'+buttons.map(([key,label,n])=>'<button type="button" class="cannesResultBtn '+(cannesResultFilter===key?'active':'')+'" data-filter="'+key+'" style="padding:8px 13px;border-radius:20px;border:1px solid #857448;background:'+(cannesResultFilter===key?'#c3a35e':'#201d18')+';color:'+(cannesResultFilter===key?'#17130b':'#e8dbc2')+';cursor:pointer">'+label+' · '+n+'</button>').join('')+'</div>';
-  $('festEditionCount').querySelectorAll('.cannesResultBtn').forEach(btn=>btn.onclick=()=>showCannesResult(fy,section,btn.dataset.filter));
+  const count=cannesUniqueMissing.length;
+  const showingMissing=cannesResultFilter==='faltantes';
+  $('festEditionCount').innerHTML='<span style="color:#c68a9c;font-size:13px">Cannes '+fy+' · '+esc(section||'')+'</span><span style="padding:0 8px;color:#9c7881">—</span>'+
+   (showingMissing
+    ? '<span style="font-size:13px">Faltan '+count+' películas de Cannes en tu filmoteca</span> · <button type="button" class="cannesResultLink" data-filter="todas" style="border:0;border-bottom:1px solid #c68a9c;background:transparent;color:#e8a9bc;cursor:pointer;font-size:13px;padding:1px 0">← Ver selección completa</button>'
+    : '<button type="button" class="cannesResultLink" data-filter="faltantes" style="border:0;border-bottom:1px solid #c68a9c;background:transparent;color:#e8a9bc;cursor:pointer;font-size:13px;padding:1px 0">Faltan '+count+' películas en mi filmoteca (solo Cannes '+fy+')</button>');
+  $('festEditionCount').querySelectorAll('.cannesResultLink').forEach(btn=>btn.onclick=()=>showCannesResult(fy,section,btn.dataset.filter));
  }
  const grid=$('festMovieGrid'); grid.innerHTML='';
  const orderedTags=tags.slice().sort((x,y)=>cannes?Number(cannesIsWinner(y))-Number(cannesIsWinner(x)):(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
