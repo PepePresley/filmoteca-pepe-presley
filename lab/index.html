@@ -924,6 +924,7 @@ function availableYears(f){
  return [...new Set((FESTIVAL_DB.editions||[]).filter(e=>e.festival===f).map(e=>Number(e.year)))].sort((a,b)=>b-a);
 }
 const AWARD_CATEGORY_ORDER={
+ BAFTA:['Mejor película','Mejor película británica','Mejor debut británico','Mejor dirección','Mejor actor','Mejor actriz','Mejor actor de reparto','Mejor actriz de reparto','Mejor guion original','Mejor guion adaptado','Mejor fotografía','Mejor montaje','Mejor música original','Mejor diseño de producción','Mejor vestuario','Mejor maquillaje y peluquería','Mejor sonido','Mejores efectos visuales','Mejor película de habla no inglesa','Mejor película de animación','Mejor documental','Mejor cortometraje británico','Mejor cortometraje británico de animación'],
  Oscar:['Película','Dirección','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Guion original','Guion adaptado','Película internacional','Película de animación','Documental','Cortometraje documental','Cortometraje de animación','Cortometraje de ficción','Fotografía','Montaje','Diseño de producción','Vestuario','Maquillaje y peluquería','Banda sonora','Canción','Sonido','Efectos visuales'],
  Goya:['Película','Dirección','Dirección novel','Guion','Guion original','Guion adaptado','Música original','Canción original','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Actor revelación','Actriz revelación','Dirección de producción','Fotografía','Dirección de fotografía','Montaje','Dirección artística','Dirección de arte','Vestuario','Diseño de vestuario','Maquillaje y peluquería','Sonido','Efectos especiales','Película de animación','Película documental','Documental','Película iberoamericana','Película extranjera de habla hispana','Película europea','Cortometraje','Cortometraje de ficción','Cortometraje documental','Cortometraje de animación']
 };
@@ -985,7 +986,7 @@ async function openFestivalYear(yr){
  document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',Number(x.dataset.year)===yr));
  const ed=festivalEditionData(yr,selectedFestival), present=ed.present.length, miss=ed.missing.length, total=present+miss;
  $('festDisplayTitle').textContent=selectedFestival+' '+yr;
- if(selectedFestival==='Oscar'||selectedFestival==='Goya'){
+ if(selectedFestival==='Oscar'||selectedFestival==='Goya'||selectedFestival==='BAFTA'){
    const cats=awardCategories(yr,selectedFestival);
    $('festDisplaySub').textContent=(cats.length?cats.length+' categorías · ':'')+total+' películas';
    $('festDisplayMeta').innerHTML='<b>'+present+'</b> títulos en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
