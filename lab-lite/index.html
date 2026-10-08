@@ -1003,11 +1003,13 @@ function renderAnnualMissing(fy){
  history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+fy+'&pending=year');
 }
 function cannesAwardText(ft){
+ if(Number(ft.festival_year)===2020)return 'Selección Oficial · sin competición';
  if(ft.wins&&ft.wins.length)return ft.wins.join(' · ');
  const a=String(ft.award||'').trim();
+ if(/^clausura\s*·\s*fuera de concurso/i.test(a))return 'Fuera de concurso · clausura';
  return /^(en competici[oó]n|selecci[oó]n un certain regard|en un certain regard|un certain regard$|candidata?|nominada?)/i.test(a)?'En competición':(a||'En competición');
 }
-function cannesIsWinner(ft){return cannesAwardText(ft)!=='En competición'}
+function cannesIsWinner(ft){return !/^(En competición|Selección Oficial · sin competición|Fuera de concurso · clausura)$/.test(cannesAwardText(ft))}
 let cannesResultFilter='todas';
 function showCannesResult(fy,section,filter){
  cannesResultFilter=filter;
@@ -1015,7 +1017,7 @@ function showCannesResult(fy,section,filter){
 }
 function renderFestivalEditionFor(festival,fy,section=null){
  const ed=festivalEditionData(fy,festival,section), allTags=ed.present, allMissing=ed.missing;
- const cannes=festival==='Cannes'&&((fy>=1984&&fy<=1999)||(fy>=2016&&fy<=2019));
+ const cannes=festival==='Cannes'&&((fy>=1984&&fy<=1999)||(fy>=2016&&fy<=2026));
  const allYearCannes=(FESTIVAL_DB.editions||[]).filter(e=>e.festival==='Cannes'&&Number(e.year)===Number(fy));
  const cannesYearPresent=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).present):[];
  const cannesUniquePresent=cannes?[...new Map(cannesYearPresent.map(x=>[String(x.idx),x])).values()]:[];
