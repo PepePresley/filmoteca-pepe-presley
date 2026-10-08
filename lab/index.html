@@ -774,7 +774,7 @@ function festivalRibbon(award){
  else if(/Mejor guion/i.test(label)) icon='✍';
  else if(/contribución artística/i.test(label)) icon='🎨';
  else if(/aniversario/i.test(label)) icon='🏅';
- const selection=/En competición/i.test(label);
+ const selection=/^(En competición|Selección Un Certain Regard|Selección Oficial · sin competición|Fuera de concurso · clausura)$/i.test(label);
  return '<div class="festivalRibbon '+(selection?'selection':palme?'palme':'winner')+'"><span class="classicAwardIcon">'+icon+'</span><span>'+esc(label)+'</span></div>';
 }
 function normFest(s){return String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim()}
