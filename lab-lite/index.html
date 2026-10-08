@@ -1007,9 +1007,10 @@ function cannesAwardText(ft){
  if(ft.wins&&ft.wins.length)return ft.wins.join(' · ');
  const a=String(ft.award||'').trim();
  if(/^clausura\s*·\s*fuera de concurso/i.test(a))return 'Fuera de concurso · clausura';
- return /^(en competici[oó]n|selecci[oó]n un certain regard|en un certain regard|un certain regard$|candidata?|nominada?)/i.test(a)?'En competición':(a||'En competición');
+ const selected=!a||/^(en competici[oó]n|selecci[oó]n un certain regard|en un certain regard|un certain regard$|candidata?|nominada?)/i.test(a);
+ return selected?(ft.section==='Un Certain Regard'?'Selección Un Certain Regard':'En competición'):a;
 }
-function cannesIsWinner(ft){return !/^(En competición|Selección Oficial · sin competición|Fuera de concurso · clausura)$/.test(cannesAwardText(ft))}
+function cannesIsWinner(ft){return !/^(En competición|Selección Un Certain Regard|Selección Oficial · sin competición|Fuera de concurso · clausura)$/.test(cannesAwardText(ft))}
 let cannesResultFilter='todas';
 function showCannesResult(fy,section,filter){
  cannesResultFilter=filter;
@@ -1022,7 +1023,12 @@ function renderFestivalEditionFor(festival,fy,section=null){
  const cannesYearPresent=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).present):[];
  const cannesUniquePresent=cannes?[...new Map(cannesYearPresent.map(x=>[String(x.idx),x])).values()]:[];
  const cannesYearMissing=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).missing):[];
- const cannesUniqueMissing=cannes?[...new Map(cannesYearMissing.map(x=>[(String(x.title||'').toLowerCase()+'|'+String(x.director||'').toLowerCase()),x])).values()]:[];
+ const cannesUniqueMissing=cannes?[...cannesYearMissing.reduce((map,x)=>{
+  const key=String(x.title||'').toLowerCase()+'|'+String(x.director||'').toLowerCase();
+  if(map.has(key)){const previous=map.get(key);if(!previous.sections.includes(x.section))previous.sections.push(x.section);}
+  else map.set(key,{...x,sections:[x.section]});
+  return map;
+ },new Map()).values()]:[];
  const full=[...allTags,...allMissing];
  const winnerCount=cannes?full.filter(cannesIsWinner).length:0;
  const tags=cannes&&cannesResultFilter==='faltantes'?[]:allTags;
@@ -1042,7 +1048,7 @@ function renderFestivalEditionFor(festival,fy,section=null){
  const grid=$('festMovieGrid'); grid.innerHTML='';
  const orderedTags=tags.slice().sort((x,y)=>cannes?Number(cannesIsWinner(y))-Number(cannesIsWinner(x)):(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
  orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(cannes?cannesAwardText(ft):ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
- missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(cannes?cannesAwardText(x):x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';grid.appendChild(el)});
+ missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(cannes?cannesAwardText(x):x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+(cannes&&cannesResultFilter==='faltantes'&&x.sections?'<div class="annualSources">'+esc(x.sections.join(' · '))+'</div>':'')+'</div></div>';grid.appendChild(el)});
  if(!cannes)appendAnnualMissingLink(fy);
 }
 function festivalIconId(f){
