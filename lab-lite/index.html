@@ -1018,7 +1018,7 @@ function showCannesResult(fy,section,filter){
 }
 function renderFestivalEditionFor(festival,fy,section=null){
  const ed=festivalEditionData(fy,festival,section), allTags=ed.present, allMissing=ed.missing;
- const cannes=festival==='Cannes'&&((fy>=1984&&fy<=2000)||(fy>=2016&&fy<=2026));
+ const cannes=festival==='Cannes'&&((fy>=1984&&fy<=2001)||(fy>=2016&&fy<=2026));
  const allYearCannes=(FESTIVAL_DB.editions||[]).filter(e=>e.festival==='Cannes'&&Number(e.year)===Number(fy));
  const cannesYearPresent=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).present):[];
  const cannesUniquePresent=cannes?[...new Map(cannesYearPresent.map(x=>[String(x.idx),x])).values()]:[];
