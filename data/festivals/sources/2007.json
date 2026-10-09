@@ -1,0 +1,66 @@
+{
+  "year": 2007,
+  "status": "CONSTRUIDO",
+  "preserved": [
+    "Goya",
+    "Ediciones previas a 2007"
+  ],
+  "counts": [
+    {
+      "festival": "Goya",
+      "section": "21.ª edición · películas de 2006",
+      "films": 49
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 22
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 20
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección oficial · competición",
+      "films": 16
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 23
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 23
+    },
+    {
+      "festival": "Oscar",
+      "section": "79.ª edición · películas de 2006",
+      "films": 58
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 2006",
+      "films": 39
+    }
+  ],
+  "added": 201,
+  "confirmed_in_masters": 152,
+  "pending": 49,
+  "sources": {
+    "Cannes": "https://www.festival-cannes.com/en/retrospective/2007/selection/",
+    "Berlín": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y%3D2007",
+    "Venecia": "https://asac.labiennale.org/attivita/cinema/annali?anno=2007",
+    "San Sebastián": "https://www.sansebastianfestival.com/2007/secciones_y_peliculas/8/es",
+    "Oscar": "https://www.oscars.org/oscars/ceremonies/2007",
+    "BAFTA": "https://www.bafta.org/awards/film/?award-year=2007"
+  },
+  "notes": [
+    "Fuentes oficiales para completar selecciones, candidaturas y palmarés; FilmAffinity no accesible en parte de las ediciones.",
+    "BAFTA: solo premios de cine; se excluyen galardones a personas sin película asociada.",
+    "Propiedad basada en los maestros de Dropbox; los no localizados quedan pendientes."
+  ]
+}
