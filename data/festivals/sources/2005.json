@@ -1,0 +1,66 @@
+{
+  "year": 2005,
+  "status": "CONSTRUIDO",
+  "preserved": [
+    "Goya",
+    "Ediciones previas a 2005"
+  ],
+  "counts": [
+    {
+      "festival": "Goya",
+      "section": "19.ª edición · películas de 2004",
+      "films": 58
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 21
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 23
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección oficial · competición",
+      "films": 18
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 22
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 20
+    },
+    {
+      "festival": "Oscar",
+      "section": "77.ª edición · películas de 2004",
+      "films": 54
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 2004",
+      "films": 36
+    }
+  ],
+  "added": 194,
+  "confirmed_in_masters": 144,
+  "pending": 50,
+  "sources": {
+    "Cannes": "https://www.festival-cannes.com/en/retrospective/2005/selection/",
+    "Berlín": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y%3D2005",
+    "Venecia": "https://asac.labiennale.org/attivita/cinema/annali?anno=2005",
+    "San Sebastián": "https://www.sansebastianfestival.com/2005/secciones_y_peliculas/8/es",
+    "Oscar": "https://www.oscars.org/oscars/ceremonies/2005",
+    "BAFTA": "https://www.bafta.org/awards/film/?award-year=2005"
+  },
+  "notes": [
+    "Fuentes oficiales para completar selecciones, candidaturas y palmarés; FilmAffinity no accesible en parte de las ediciones.",
+    "BAFTA: solo premios de cine; se excluyen galardones a personas sin película asociada.",
+    "Propiedad basada en los maestros de Dropbox; los no localizados quedan pendientes."
+  ]
+}
