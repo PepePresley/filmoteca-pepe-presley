@@ -1,0 +1,208 @@
+{
+  "year": 2010,
+  "status": "CONSTRUIDO",
+  "preserved": [
+    "Goya",
+    "Ediciones previas a 2010"
+  ],
+  "counts": [
+    {
+      "festival": "Goya",
+      "section": "24.ª edición · películas de 2009",
+      "films": 45
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 19
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 19
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección oficial · competición y fuera de concurso",
+      "films": 17
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 20
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 24
+    },
+    {
+      "festival": "Oscar",
+      "section": "82.ª edición · películas de 2009",
+      "films": 58
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 2009",
+      "films": 46
+    }
+  ],
+  "added": 203,
+  "confirmed_in_masters": 152,
+  "pending": 51,
+  "sources": {
+    "Cannes": "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_2010",
+    "Berlín": "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_2010",
+    "Venecia": "https://www.filmaffinity.com/es/award-edition.php?edition-id=venice_2010",
+    "San Sebastián": "https://www.filmaffinity.com/es/award-edition.php?edition-id=ss_2010",
+    "Oscar": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_2010",
+    "BAFTA": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_2010"
+  },
+  "notes": [
+    "FilmAffinity España es la fuente prioritaria de títulos y ediciones; los archivos oficiales completan selecciones o datos ausentes.",
+    "BAFTA: solo premios de cine; se excluyen galardones a personas sin película asociada.",
+    "Propiedad basada en los maestros de Dropbox; los no localizados quedan pendientes.",
+    "San Sebastián incluye también películas fuera de concurso, identificadas expresamente.",
+    "Goya 2010 y las ediciones anteriores se conservan íntegramente, sin una nueva auditoría."
+  ],
+  "official_supplements": {
+    "Cannes": "https://www.festival-cannes.com/en/retrospective/2010/selection/",
+    "Berlín": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y%3D2010",
+    "Venecia": "https://asac.labiennale.org/attivita/cinema/annali?anno=2010",
+    "San Sebastián": "https://www.sansebastianfestival.com/2010/secciones_y_peliculas/8/es",
+    "Oscar": "https://www.oscars.org/oscars/ceremonies/2010",
+    "BAFTA": "https://www.bafta.org/awards/film/?award-year=2010"
+  },
+  "filmaffinity_titles_verified": 180,
+  "filmaffinity_titles_pending": [
+    {
+      "festival": "Cannes",
+      "title": "AURORA",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "CARANCHO",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "CHATROOM",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "FILM SOCIALISME",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "HAI SHANG CHUAN QI",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "LIFE, ABOVE ALL",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "MARTI, DUPA CRACIUN",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "O ESTRANHO CASO DE ANGÉLICA",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "R U THERE",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "REBECCA H. ( RETURN TO THE DOGS)",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "SIMON WERNER A DISPARU…",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "UDAAN",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Cannes",
+      "title": "UNTER DIR DIE STADT",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Post mortem",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Noi credevamo",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "La Passione",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Jûsan-nin no shikaku",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Potiche",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Miral",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Noruwei no mori",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Di renjie zhi tongtian diguo",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "Venecia",
+      "title": "Le Fossé",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "BAFTA",
+      "title": "Fourteen",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    }
+  ],
+  "excluded_out_of_competition": [],
+  "included_out_of_competition": [
+    {
+      "festival": "San Sebastián",
+      "title": "Elle s’appelait Sarah",
+      "reason": "Fuera de concurso"
+    },
+    {
+      "festival": "San Sebastián",
+      "title": "Bicicleta, cullera, poma",
+      "reason": "Fuera de concurso"
+    }
+  ],
+  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias."
+}
