@@ -739,7 +739,7 @@ $('tabCollection').onclick=()=>{if(FESTIVAL_DIRECT){location.href='?view=collect
 
 
 const initialView=new URLSearchParams(location.search).get('view');
-if(initialView==='festivals') $('tabFestivals').click();
+// Festival deep links are applied after the festival state is initialized.
 if(initialView==='collection'){
  $('tabCollection').click();
  const directCollectionYear=Number(new URLSearchParams(location.search).get('year'));
@@ -817,8 +817,10 @@ async function ensureFullCatalog(){
  FESTIVAL_EDITION_CACHE.clear();
 }
 async function openFestivalMovie(idx){
+ const festivalRecord=DATA[idx];
  await ensureFullCatalog();
- const r=DATA[idx];
+ const candidate=DATA[idx];
+ const r=festivalRecord&&(!candidate||candidate.t!==festivalRecord.t||candidate.d!==festivalRecord.d||candidate.y!==festivalRecord.y)?festivalRecord:candidate;
  if(r)openModal(r);
 }
 const FESTIVAL_EDITION_CACHE=new Map();

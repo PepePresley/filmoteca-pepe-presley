@@ -135,6 +135,16 @@ function authoritativeOwnership(ed,f){
 const baseCatalog=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
 const basePrepared=prepare(makeIndex(baseCatalog));
 const catalog=loadCatalog(),prepared=prepare(makeIndex(catalog));
+const identity=r=>JSON.stringify([r.t||'',Number(r.y)||0,r.d||'']);
+const stableIndexes=new Map(Object.values(previousMatches).filter(Boolean).map(r=>[identity(r),r.i]));
+let nextStableIndex=Math.max(catalog.length,...Object.values(previousMatches).filter(Boolean).map(r=>r.i+1));
+function outputIndex(r,i,film){
+ if(!scopeYear)return i;
+ const key=identity(r);
+ if(previousMatches[film]&&identity(previousMatches[film])===key)return previousMatches[film].i;
+ if(!stableIndexes.has(key))stableIndexes.set(key,nextStableIndex++);
+ return stableIndexes.get(key);
+}
 const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json','utf8'));
 const matches={};let total=0,present=0;
 for(const ed of (db.editions||[])){
@@ -163,7 +173,7 @@ for(const ed of (db.editions||[])){
     const baseIndex=resolve(ft,basePrepared);
     if(baseIndex>=0)poster=(baseCatalog[baseIndex]&&baseCatalog[baseIndex].p)||'';
    }
-   matches[key]={i,y:Number(r.y)||0,t:r.t||'',d:r.d||'',p:poster,dur:r.dur||0};
+   matches[key]={i:outputIndex(r,i,key),y:Number(r.y)||0,t:r.t||'',d:r.d||'',p:poster,dur:r.dur||0};
   }else matches[key]=null;
  }
 }
