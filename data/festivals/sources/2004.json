@@ -1,0 +1,66 @@
+{
+  "year": 2004,
+  "status": "CONSTRUIDO",
+  "preserved": [
+    "Goya",
+    "Ediciones previas a 2004"
+  ],
+  "counts": [
+    {
+      "festival": "Goya",
+      "section": "18.ª edición · películas de 2003",
+      "films": 54
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 19
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 21
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección oficial · competición",
+      "films": 16
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 23
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 22
+    },
+    {
+      "festival": "Oscar",
+      "section": "76.ª edición · películas de 2003",
+      "films": 49
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 2003",
+      "films": 35
+    }
+  ],
+  "added": 185,
+  "confirmed_in_masters": 143,
+  "pending": 42,
+  "sources": {
+    "Cannes": "https://www.festival-cannes.com/en/retrospective/2004/selection/",
+    "Berlín": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y%3D2004",
+    "Venecia": "https://asac.labiennale.org/attivita/cinema/annali?anno=2004",
+    "San Sebastián": "https://www.sansebastianfestival.com/2004/secciones_y_peliculas/8/es",
+    "Oscar": "https://www.oscars.org/oscars/ceremonies/2004",
+    "BAFTA": "https://www.bafta.org/awards/film/?award-year=2004"
+  },
+  "notes": [
+    "Fuentes oficiales para completar selecciones, candidaturas y palmarés; FilmAffinity no accesible en parte de las ediciones.",
+    "BAFTA: solo premios de cine; se excluyen galardones a personas sin película asociada.",
+    "Propiedad basada en los maestros de Dropbox; los no localizados quedan pendientes."
+  ]
+}
