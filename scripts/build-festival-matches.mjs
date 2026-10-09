@@ -1,5 +1,12 @@
 import fs from 'node:fs';
 
+// Annual construction preserves previously verified editions. Without --year,
+// retain the full rebuild used for catalog-wide updates.
+const yearArg=process.argv.find(a=>a.startsWith('--year='));
+const scopeYear=yearArg?Number(yearArg.slice(7)):null;
+if(yearArg&&(!Number.isInteger(scopeYear)||scopeYear<1895||scopeYear>2100))throw new Error('Invalid festival year');
+const previousMatches=scopeYear?JSON.parse(fs.readFileSync('data/catalog/festival-matches.json','utf8')).matches:{};
+
 function loadCatalog(){
  let src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
  const dir='data/catalog';
@@ -138,6 +145,12 @@ for(const ed of (db.editions||[])){
   const authoritative=authoritativeOwnership(ed,f);
   if(authoritative===false)i=-1;
   const key=filmKey(ed.festival,ed.year,f.title,f.director);
+  if(scopeYear&&Number(ed.year)!==scopeYear){
+   if(!Object.hasOwn(previousMatches,key))throw new Error('Unbuilt edition outside scoped year: '+key);
+   matches[key]=previousMatches[key];
+   if(matches[key])present++;
+   continue;
+  }
   if(i>=0){
    present++;
    const r=catalog[i]||{};

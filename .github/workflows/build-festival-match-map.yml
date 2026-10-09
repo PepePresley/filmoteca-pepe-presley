@@ -36,7 +36,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: node scripts/build-festival-matches.mjs
+      - name: Generate festival associations
+        env:
+          SOURCE_BRANCH: ${{ github.head_ref || github.ref_name }}
+        run: |
+          if [[ "$SOURCE_BRANCH" =~ ^filmoteca-([0-9]{4})-certamenes$ ]]; then
+            node scripts/build-festival-matches.mjs --year="${BASH_REMATCH[1]}"
+          else
+            node scripts/build-festival-matches.mjs
+          fi
       - name: Commit exact match map on staging branch
         if: github.event_name == 'push'
         run: |
