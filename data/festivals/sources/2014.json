@@ -1,0 +1,118 @@
+{
+  "year": 2014,
+  "status": "CONSTRUIDO",
+  "preserved": [
+    "Goya",
+    "Ediciones previas a 2014"
+  ],
+  "counts": [
+    {
+      "festival": "Goya",
+      "section": "28.ª edición · películas de 2013",
+      "films": 51
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 18
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 20
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección oficial · competición y fuera de concurso",
+      "films": 21
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 20
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 20
+    },
+    {
+      "festival": "Oscar",
+      "section": "86.ª edición · películas de 2013",
+      "films": 57
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 2013",
+      "films": 48
+    }
+  ],
+  "added": 204,
+  "confirmed_in_masters": 150,
+  "pending": 54,
+  "sources": {
+    "Cannes": "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_2014",
+    "Berlín": "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_2014",
+    "Venecia": "https://www.filmaffinity.com/es/award-edition.php?edition-id=venice_2014",
+    "San Sebastián": "https://www.filmaffinity.com/es/award-edition.php?edition-id=ss_2014",
+    "Oscar": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_2014",
+    "BAFTA": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_2014"
+  },
+  "notes": [
+    "FilmAffinity España es la fuente prioritaria de títulos y ediciones; los archivos oficiales completan selecciones o datos ausentes.",
+    "BAFTA: solo premios de cine; se excluyen galardones a personas sin película asociada.",
+    "Propiedad basada en los maestros de Dropbox; los no localizados quedan pendientes.",
+    "San Sebastián incluye también películas fuera de concurso, identificadas expresamente.",
+    "Goya 2014 y las ediciones anteriores se conservan íntegramente, sin una nueva auditoría."
+  ],
+  "official_supplements": {
+    "Cannes": "https://www.festival-cannes.com/en/retrospective/2014/selection/",
+    "Berlín": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y%3D2014",
+    "Venecia": "https://asac.labiennale.org/attivita/cinema/annali?anno=2014",
+    "San Sebastián": "https://www.sansebastianfestival.com/2014/secciones_y_peliculas/8/es",
+    "Oscar": "https://www.oscars.org/oscars/ceremonies/2014",
+    "BAFTA": "https://www.bafta.org/awards/film/?award-year=2014"
+  },
+  "filmaffinity_titles_verified": 201,
+  "filmaffinity_titles_pending": [
+    {
+      "festival": "BAFTA",
+      "title": "Kelly + Victor",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "BAFTA",
+      "title": "Shell",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    },
+    {
+      "festival": "BAFTA",
+      "title": "For Those in Peril",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    }
+  ],
+  "excluded_out_of_competition": [],
+  "included_out_of_competition": [
+    {
+      "festival": "San Sebastián",
+      "title": "The Equalizer (El protector)",
+      "reason": "Fuera de concurso"
+    },
+    {
+      "festival": "San Sebastián",
+      "title": "Samba",
+      "reason": "Fuera de concurso"
+    },
+    {
+      "festival": "San Sebastián",
+      "title": "Lasa y Zabala",
+      "reason": "Fuera de concurso"
+    },
+    {
+      "festival": "San Sebastián",
+      "title": "Murieron por encima de sus posibilidades",
+      "reason": "Fuera de concurso"
+    }
+  ],
+  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias."
+}
