@@ -1,0 +1,103 @@
+{
+  "year": 2013,
+  "status": "CONSTRUIDO",
+  "preserved": [
+    "Goya",
+    "Ediciones previas a 2013"
+  ],
+  "counts": [
+    {
+      "festival": "Goya",
+      "section": "27.ª edición · películas de 2012",
+      "films": 44
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 20
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 18
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección oficial · competición y fuera de concurso",
+      "films": 16
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 19
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 20
+    },
+    {
+      "festival": "Oscar",
+      "section": "85.ª edición · películas de 2012",
+      "films": 53
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 2012",
+      "films": 46
+    }
+  ],
+  "added": 192,
+  "confirmed_in_masters": 145,
+  "pending": 47,
+  "sources": {
+    "Cannes": "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_2013",
+    "Berlín": "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_2013",
+    "Venecia": "https://www.filmaffinity.com/es/award-edition.php?edition-id=venice_2013",
+    "San Sebastián": "https://www.filmaffinity.com/es/award-edition.php?edition-id=ss_2013",
+    "Oscar": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_2013",
+    "BAFTA": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_2013"
+  },
+  "notes": [
+    "FilmAffinity España es la fuente prioritaria de títulos y ediciones; los archivos oficiales completan selecciones o datos ausentes.",
+    "BAFTA: solo premios de cine; se excluyen galardones a personas sin película asociada.",
+    "Propiedad basada en los maestros de Dropbox; los no localizados quedan pendientes.",
+    "San Sebastián incluye también películas fuera de concurso, identificadas expresamente.",
+    "Goya 2013 y las ediciones anteriores se conservan íntegramente, sin una nueva auditoría."
+  ],
+  "official_supplements": {
+    "Cannes": "https://www.festival-cannes.com/en/retrospective/2013/selection/",
+    "Berlín": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y%3D2013",
+    "Venecia": "https://asac.labiennale.org/attivita/cinema/annali?anno=2013",
+    "San Sebastián": "https://www.sansebastianfestival.com/2013/secciones_y_peliculas/8/es",
+    "Oscar": "https://www.oscars.org/oscars/ceremonies/2013",
+    "BAFTA": "https://www.bafta.org/awards/film/?award-year=2013"
+  },
+  "filmaffinity_titles_verified": 191,
+  "filmaffinity_titles_pending": [
+    {
+      "festival": "BAFTA",
+      "title": "The Curse",
+      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
+    }
+  ],
+  "excluded_out_of_competition": [],
+  "included_out_of_competition": [
+    {
+      "festival": "San Sebastián",
+      "title": "Futbolín (Metegol)",
+      "reason": "Fuera de concurso"
+    },
+    {
+      "festival": "San Sebastián",
+      "title": "El extraordinario viaje de T.S. Spivet",
+      "reason": "Fuera de concurso"
+    },
+    {
+      "festival": "San Sebastián",
+      "title": "Las brujas de Zugarramurdi",
+      "reason": "Fuera de concurso"
+    }
+  ],
+  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias."
+}
