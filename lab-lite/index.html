@@ -684,9 +684,9 @@ function render(){
 }
 
 function badgeHtml(r){const s=sourceOf(r);return `<span class="sourceBadge ${s}" style="position:static;display:inline-block">${sourceLabel(s)}</span>${isDup(r)?' <span class="dupBadge" style="position:static;display:inline-block">DUPLICADA</span>':''}`}
-function openModal(r){
+function openModal(r,displayTitle){
  const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));
- $('modalSource').innerHTML=badgeHtml(r)+(ft?` <span class="festivalBadge">${ft.festival} ${ft.festival_year} · ${ft.section}</span>${ft.award?` <span class="${ft.award.includes('sin premio')?'selectionBadge':'awardBadge'}">${awardBadge(ft.award)}</span>`:''}`:'');$('modalTitle').textContent=r.t||'Sin título';$('modalOrig').textContent=r.o||'';
+ $('modalSource').innerHTML=badgeHtml(r)+(ft?` <span class="festivalBadge">${ft.festival} ${ft.festival_year} · ${ft.section}</span>${ft.award?` <span class="${ft.award.includes('sin premio')?'selectionBadge':'awardBadge'}">${awardBadge(ft.award)}</span>`:''}`:'');$('modalTitle').textContent=displayTitle||r.t||'Sin título';$('modalOrig').textContent=r.o||'';
  $('modalPoster').style.backgroundImage=r.p?`url("${r.p.replace(/"/g,'')}")`:'none';
  const details=[['Año',r.y],['Director',r.d],['País',r.pais],['Género',r.g],['Duración',r.dur?`${r.dur} min`:null],['Resolución',r.res],['Tamaño',r.sz],['Archivo',r.arch],['Nota',r.n]];
  $('detailGrid').innerHTML=details.filter(x=>x[1]).map(x=>`<div class="k">${esc(x[0])}</div><div class="v">${esc(x[1])}</div>`).join('');
@@ -826,7 +826,7 @@ function festivalEditionData(fy,festival='Cannes',section=null){
  if(external){
    const present=[],missing=[];
    external.films.forEach(f=>{
-     const ft={festival,festival_year:Number(fy),section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
+     const ft={festival,festival_year:Number(fy),section,festival_title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
      const idx=resolveFestivalMatch(ft);
      if(idx>=0) present.push({...ft,idx});
      else missing.push({festival,festival_year:Number(fy),section,title:f.title,aliases:f.aliases||[],director:f.director,year:Number(fy),award:f.award,nominations:f.nominations||[],wins:f.wins||[]});
@@ -853,8 +853,8 @@ function renderFestivalEdition(fy){
    const r=DATA[ft.idx]; if(!r)return;
    const el=document.createElement('article'); el.className='festMovie';
    const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
-   el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
-   el.onclick=()=>openModal(r); grid.appendChild(el);
+   el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(ft.displayTitle||r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(ft.displayTitle||r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
+   el.onclick=()=>openModal(r,ft.displayTitle); grid.appendChild(el);
  });
  missing.forEach(x=>{
    const el=document.createElement('article'); el.className='festMovie festMissing';
@@ -894,7 +894,7 @@ function renderOscarCategory(fy,cat,festival='Oscar'){
  const rows=(raw.films||[]).filter(f=>(f.nominations||[]).some(n=>oscarCategoryBase(n)===cat)).map(f=>{
    const nomination=(f.nominations||[]).find(n=>oscarCategoryBase(n)===cat)||cat;
    const win=(f.wins||[]).some(w=>oscarCategoryBase(w)===cat);
-   const ft={festival,festival_year:Number(fy),section:raw.section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:win?'Ganador · '+festival:'Nominado',nominations:f.nominations||[],wins:f.wins||[]};
+   const ft={festival,festival_year:Number(fy),section:raw.section,festival_title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,award:win?'Ganador · '+festival:'Nominado',nominations:f.nominations||[],wins:f.wins||[]};
    return {f,ft,idx:resolveFestivalMatch(ft),detail:String(nomination).split(' · ').slice(1).join(' · '),win};
  });
  const present=rows.filter(x=>x.idx>=0).length,missing=rows.length-present;
@@ -908,7 +908,7 @@ function renderOscarCategory(fy,cat,festival='Oscar'){
      const r=DATA[x.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';
      const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
      const ribbon='<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div>';
-     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el);
+     el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(x.f.filmaffinityTitle||r.t))+ribbon+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.f.filmaffinityTitle||r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+'</div></div>';el.onclick=()=>openModal(r,x.f.filmaffinityTitle);grid.appendChild(el);
    }else{
      const el=document.createElement('article');el.className='festMovie festMissing';
      el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.f.title)+'<div class="festAward '+(x.win?'':'selection')+'">'+(x.win?'🏆 GANADOR':'NOMINADO')+(x.detail?'<br>'+esc(x.detail):'')+'</div></div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.f.title)+'</div></div>';grid.appendChild(el);
@@ -962,7 +962,7 @@ function annualMissingData(fy){
  const groups=[];
  const editions=(FESTIVAL_DB.editions||[]).filter(e=>Number(e.year)===fy);
  editions.forEach(ed=>(ed.films||[]).forEach(f=>{
-   const ft={festival:ed.festival,festival_year:fy,section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
+   const ft={festival:ed.festival,festival_year:fy,section:ed.section,festival_title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
    if(resolveFestivalMatch(ft)>=0) return;
    const names=[f.title,...(f.aliases||[])].map(norm).filter(Boolean);
    const director=norm(f.director||'');
@@ -1029,7 +1029,7 @@ function showCannesResult(fy,section,filter){
 }
 function renderFestivalEditionFor(festival,fy,section=null){
  const ed=festivalEditionData(fy,festival,section), allTags=ed.present, allMissing=ed.missing;
- const cannes=festival==='Cannes'&&((fy>=1984&&fy<=2008)||(fy>=2016&&fy<=2026));
+ const cannes=festival==='Cannes'&&((fy>=1984&&fy<=2009)||(fy>=2016&&fy<=2026));
  const allYearCannes=(FESTIVAL_DB.editions||[]).filter(e=>e.festival==='Cannes'&&Number(e.year)===Number(fy));
  const cannesYearPresent=cannes?allYearCannes.flatMap(e=>festivalEditionData(fy,'Cannes',e.section).present):[];
  const cannesUniquePresent=cannes?[...new Map(cannesYearPresent.map(x=>[String(x.idx),x])).values()]:[];
@@ -1058,7 +1058,7 @@ function renderFestivalEditionFor(festival,fy,section=null){
  }
  const grid=$('festMovieGrid'); grid.innerHTML='';
  const orderedTags=tags.slice().sort((x,y)=>cannes?Number(cannesIsWinner(y))-Number(cannesIsWinner(x)):(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
- orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(r.t))+festivalRibbon(cannes?cannesAwardText(ft):ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r);grid.appendChild(el)});
+ orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(ft.displayTitle||r.t))+festivalRibbon(cannes?cannesAwardText(ft):ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(ft.displayTitle||r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r,ft.displayTitle);grid.appendChild(el)});
  missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(cannes?cannesAwardText(x):x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+(cannes&&cannesResultFilter==='faltantes'&&x.sections?'<div class="annualSources">'+esc(x.sections.join(' · '))+'</div>':'')+'</div></div>';grid.appendChild(el)});
  if(!cannes)appendAnnualMissingLink(fy);
 }
