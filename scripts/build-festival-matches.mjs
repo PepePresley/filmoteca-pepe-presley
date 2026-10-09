@@ -36,7 +36,7 @@ function tokenSim(A,B){
 function makeIndex(rows){
  return rows.map((r,idx)=>{
   const d=norm(r&&r.d);
-  const titles=[r&&r.t,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title]
+  const titles=[r&&r.t,r&&r.o,r&&r.ot,r&&r.original_title,r&&r.en,r&&r.english_title]
     .filter(Boolean).map(v=>{const s=norm(v);return {s,t:toks(s),g:sig(s)}}).filter(x=>x.s);
   const festivalOverride=/_festival$/.test(String(r&&r.src||''));
   return {idx,y:Number(r&&r.y)||0,d,dt:toks(d),titles,festivalOverride};
