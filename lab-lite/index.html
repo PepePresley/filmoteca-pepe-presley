@@ -851,16 +851,17 @@ function renderFestivalEdition(fy){
  const orderedTags=tags.slice().sort((x,y)=>(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
  orderedTags.forEach(ft=>{
    const r=DATA[ft.idx]; if(!r)return;
-   const el=document.createElement('article'); el.className='festMovie';
+   const el=document.createElement('article'); el.className='festMovie';el.dataset.awardPriority=festivalAwardPriority(ft,selectedFestival);
    const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';
    el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(ft.displayTitle||r.t))+festivalRibbon(ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(ft.displayTitle||r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';
    el.onclick=()=>openModal(r,ft.displayTitle); grid.appendChild(el);
  });
  missing.forEach(x=>{
-   const el=document.createElement('article'); el.className='festMovie festMissing';
+   const el=document.createElement('article'); el.className='festMovie festMissing';el.dataset.awardPriority=festivalAwardPriority(x,selectedFestival);
    el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+'</div></div>';
    grid.appendChild(el);
  });
+ orderFestivalGrid(grid,selectedFestival);
 }
 
 let selectedFestival='Cannes';
@@ -1013,6 +1014,30 @@ function renderAnnualMissing(fy){
  });
  history.replaceState(null,'','?view=festivals&festival='+encodeURIComponent(selectedFestival.toLowerCase())+'&year='+fy+'&pending=year');
 }
+// Display priority within a festival section; equal awards keep their existing order.
+function festivalAwardPriority(ft,festival){
+ const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+ const text=normalize([ft.award,...(ft.wins||[])].filter(Boolean).join(' · '));
+ if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(text))return 110;
+ if(/palma de oro|palme d.or|oso de oro|golden bear|leon de oro|leone d.oro|golden lion|concha de oro|golden shell/.test(text))return 0;
+ if(festival==='Cannes'&&/premio un certain regard|un certain regard prize|prix un certain regard/.test(text))return 0;
+ if(/gran premio|grand prix|grand jury prize|jury grand prize|gran premio della giuria/.test(text))return 10;
+ if(/premio especial del jurado|premio del jurado|jury prize|jury.s prize|prix du jury|special jury|premio speciale della giuria/.test(text)&&!/guion|script|fotografia|cinematograph/.test(text))return 20;
+ if(/mejor direccion|best director|best direction|mise en scene|regia|leon de plata|leone d.argento|silver lion/.test(text))return 30;
+ if(/mejor actor|mejor actriz|mejor interpretacion|best actor|best actress|best performance|leading performance|supporting performance|copa volpi|coppa volpi|interpretation/.test(text))return 40;
+ if(/guion|screenplay|best script|scenario/.test(text))return 50;
+ if(/fotografia|cinematograph|contribucion artistica|artistic contribution|musica|music|osella/.test(text))return 60;
+ if(/alfred bauer|marcello mastroianni|joven actor|emergente|revelacion|special award|premio especial/.test(text))return 70;
+ if(/fipresci|signis|ecumenic|ecumenical|teddy|sebastiane|otra mirada|solidaridad/.test(text))return 90;
+ if(!text||/^(en competicion|seleccion|seccion oficial|en un certain regard|un certain regard$|candidata?|nominada?)/.test(text))return 100;
+ // Unclassified awards stay ahead of entries without a prize.
+ return 80;
+}
+function orderFestivalGrid(grid,festival){
+ if(!['Cannes','Berlín','Venecia','San Sebastián'].includes(festival))return;
+ [...grid.children].sort((a,b)=>Number(a.dataset.awardPriority)-Number(b.dataset.awardPriority)).forEach(el=>grid.appendChild(el));
+}
+
 function cannesAwardText(ft){
  if(Number(ft.festival_year)===2020)return 'Selección Oficial · sin competición';
  if(ft.wins&&ft.wins.length)return ft.wins.join(' · ');
@@ -1058,9 +1083,10 @@ function renderFestivalEditionFor(festival,fy,section=null){
  }
  const grid=$('festMovieGrid'); grid.innerHTML='';
  const orderedTags=tags.slice().sort((x,y)=>cannes?Number(cannesIsWinner(y))-Number(cannesIsWinner(x)):(/En competición/i.test(x.award)?1:0)-(/En competición/i.test(y.award)?1:0));
- orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(ft.displayTitle||r.t))+festivalRibbon(cannes?cannesAwardText(ft):ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(ft.displayTitle||r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r,ft.displayTitle);grid.appendChild(el)});
- missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(cannes?cannesAwardText(x):x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+(cannes&&cannesResultFilter==='faltantes'&&x.sections?'<div class="annualSources">'+esc(x.sections.join(' · '))+'</div>':'')+'</div></div>';grid.appendChild(el)});
+ orderedTags.forEach(ft=>{const r=DATA[ft.idx];if(!r)return;const el=document.createElement('article');el.className='festMovie';el.dataset.awardPriority=festivalAwardPriority(ft,festival);const poster=r.p?"background-image:url('"+String(r.p).replace(/'/g,'')+"')":'';el.innerHTML='<div class="festMoviePoster '+(r.p?'':'none')+'" style="'+poster+'">'+(r.p?'':esc(ft.displayTitle||r.t))+festivalRibbon(cannes?cannesAwardText(ft):ft.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(ft.displayTitle||r.t)+'</div><div class="festMovieMeta">'+(r.y||'—')+(r.d?' · '+esc(r.d):'')+(r.dur?' · '+r.dur+' min':'')+'</div></div>';el.onclick=()=>openModal(r,ft.displayTitle);grid.appendChild(el)});
+ missing.forEach(x=>{const el=document.createElement('article');el.className='festMovie festMissing';el.dataset.awardPriority=festivalAwardPriority(x,festival);el.innerHTML='<div class="festMoviePoster"><span class="festMissingFlag">NO ESTÁ EN TU FILMOTECA</span><br>'+esc(x.title)+festivalRibbon(cannes?cannesAwardText(x):x.award)+'</div><div class="festMovieInfo"><div class="festMovieTitle">'+esc(x.title)+'</div><div class="festMovieMeta">'+x.year+' · '+esc(x.director)+(cannes&&cannesResultFilter==='faltantes'&&x.sections?'<div class="annualSources">'+esc(x.sections.join(' · '))+'</div>':'')+'</div></div>';grid.appendChild(el)});
  if(!cannes)appendAnnualMissingLink(fy);
+ orderFestivalGrid(grid,festival);
 }
 function festivalIconId(f){
  return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':'#ico-cannes';
