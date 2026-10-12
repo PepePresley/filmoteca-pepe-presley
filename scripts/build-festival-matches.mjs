@@ -5,7 +5,10 @@ import fs from 'node:fs';
 const yearArg=process.argv.find(a=>a.startsWith('--year='));
 const scopeYear=yearArg?Number(yearArg.slice(7)):null;
 if(yearArg&&(!Number.isInteger(scopeYear)||scopeYear<1895||scopeYear>2100))throw new Error('Invalid festival year');
-const previousMatches=scopeYear?JSON.parse(fs.readFileSync('data/catalog/festival-matches.json','utf8')).matches:{};
+const yearsArg=process.argv.find(a=>a.startsWith('--years='));
+const scopeYears=yearsArg?new Set(yearsArg.slice(8).split(',').map(Number)):(scopeYear?new Set([scopeYear]):null);
+if(yearsArg&&[...scopeYears].some(y=>!Number.isInteger(y)||y<1895||y>2100))throw new Error('Invalid festival years');
+const previousMatches=scopeYears?JSON.parse(fs.readFileSync('data/catalog/festival-matches.json','utf8')).matches:{};
 
 function loadCatalog(){
  let src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
@@ -139,7 +142,7 @@ const identity=r=>JSON.stringify([r.t||'',Number(r.y)||0,r.d||'']);
 const stableIndexes=new Map(Object.values(previousMatches).filter(Boolean).map(r=>[identity(r),r.i]));
 let nextStableIndex=Math.max(catalog.length,...Object.values(previousMatches).filter(Boolean).map(r=>r.i+1));
 function outputIndex(r,i,film){
- if(!scopeYear)return i;
+ if(!scopeYears)return i;
  const key=identity(r);
  if(previousMatches[film]&&identity(previousMatches[film])===key)return previousMatches[film].i;
  if(!stableIndexes.has(key))stableIndexes.set(key,nextStableIndex++);
@@ -155,7 +158,7 @@ for(const ed of (db.editions||[])){
   const authoritative=authoritativeOwnership(ed,f);
   if(authoritative===false)i=-1;
   const key=filmKey(ed.festival,ed.year,f.title,f.director);
-  if(scopeYear&&Number(ed.year)!==scopeYear){
+  if(scopeYears&&!scopeYears.has(Number(ed.year))){
    if(!Object.hasOwn(previousMatches,key))throw new Error('Unbuilt edition outside scoped year: '+key);
    matches[key]=previousMatches[key];
    if(matches[key])present++;
