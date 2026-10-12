@@ -1089,7 +1089,7 @@ function festivalAwardPriority(ft,festival){
  if(/palma de oro|palme d.or|oso de oro|golden bear|leon de oro|leone d.oro|golden lion|concha de oro|golden shell/.test(text))return 0;
  if(festival==='Cannes'&&/premio un certain regard|un certain regard prize|prix un certain regard/.test(text))return 0;
  if(/gran premio|grand prix|grand jury prize|jury grand prize|gran premio della giuria/.test(text))return 10;
- if(/premio especial del jurado|premio del jurado|jury prize|jury.s prize|prix du jury|special jury|premio speciale della giuria/.test(text)&&!/guion|script|fotografia|cinematograph/.test(text))return 20;
+ if(text.split(' · ').some(prize=>/premio especial del jurado|premio del jurado|jury prize|jury.s prize|prix du jury|special jury|premio speciale della giuria/.test(prize)&&!/guion|script|fotografia|cinematograph/.test(prize)))return 20;
  if(/mejor direccion|best director|best direction|mise en scene|regia|leon de plata|leone d.argento|silver lion/.test(text))return 30;
  if(/mejor actor|mejor actriz|mejor interpretacion|best actor|best actress|best performance|leading performance|supporting performance|copa volpi|coppa volpi|interpretation/.test(text))return 40;
  if(/guion|screenplay|best script|scenario|sceneggiatura/.test(text))return 50;
