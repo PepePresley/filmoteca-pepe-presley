@@ -1082,18 +1082,20 @@ function renderAnnualMissing(fy){
 // Display priority within a festival section; equal awards keep their existing order.
 function festivalAwardPriority(ft,festival){
  const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
- const text=normalize([ft.award,...(ft.wins||[])].filter(Boolean).join(' · '));
- if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(text))return 110;
+ const allText=normalize([ft.award,...(ft.wins||[])].filter(Boolean).join(' · '));
+ const auxiliary=/fipresci|signis|ecumenic|ecumenical|teddy|sebastiane|otra mirada|solidaridad|irizar|guion vasco|feroz/;
+ const text=allText.split(' · ').filter(prize=>!auxiliary.test(prize)).join(' · ');
+ if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(allText))return 110;
  if(/palma de oro|palme d.or|oso de oro|golden bear|leon de oro|leone d.oro|golden lion|concha de oro|golden shell/.test(text))return 0;
  if(festival==='Cannes'&&/premio un certain regard|un certain regard prize|prix un certain regard/.test(text))return 0;
  if(/gran premio|grand prix|grand jury prize|jury grand prize|gran premio della giuria/.test(text))return 10;
  if(/premio especial del jurado|premio del jurado|jury prize|jury.s prize|prix du jury|special jury|premio speciale della giuria/.test(text)&&!/guion|script|fotografia|cinematograph/.test(text))return 20;
  if(/mejor direccion|best director|best direction|mise en scene|regia|leon de plata|leone d.argento|silver lion/.test(text))return 30;
  if(/mejor actor|mejor actriz|mejor interpretacion|best actor|best actress|best performance|leading performance|supporting performance|copa volpi|coppa volpi|interpretation/.test(text))return 40;
- if(/guion|screenplay|best script|scenario/.test(text))return 50;
+ if(/guion|screenplay|best script|scenario|sceneggiatura/.test(text))return 50;
  if(/fotografia|cinematograph|contribucion artistica|artistic contribution|musica|music|osella/.test(text))return 60;
  if(/alfred bauer|marcello mastroianni|joven actor|emergente|revelacion|special award|premio especial/.test(text))return 70;
- if(/fipresci|signis|ecumenic|ecumenical|teddy|sebastiane|otra mirada|solidaridad/.test(text))return 90;
+ if(auxiliary.test(allText)&&(!text||/^(en competicion|seleccion|seccion oficial|candidata?|nominada?)/.test(text)))return 90;
  if(!text||/^(en competicion|seleccion|seccion oficial|en un certain regard|un certain regard$|candidata?|nominada?)/.test(text))return 100;
  // Unclassified awards stay ahead of entries without a prize.
  return 80;
