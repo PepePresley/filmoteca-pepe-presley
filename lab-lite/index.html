@@ -534,6 +534,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_2024_overlay.json?v=catalog-2024-20261013",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
    ];
    for(const url of overlays){
@@ -541,7 +542,11 @@ try{
        const ar=await fetch(url);
        if(ar.ok){
          const annual=await ar.json();
-         if(Array.isArray(annual)) window.__CATALOGO__=window.__CATALOGO__.concat(annual);
+         if(Array.isArray(annual)){
+           const masterYear=/annual_(2024)_overlay\.json/.exec(url);
+           if(masterYear) window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row.y)!==Number(masterYear[1]));
+           window.__CATALOGO__=window.__CATALOGO__.concat(annual);
+         }
        }
      }catch(_){}
    }
@@ -550,7 +555,7 @@ try{
  const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=annual-2015");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
-const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=catalog-2025-20261012");
+const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=catalog-2024-20261013");
 if(!mapResponse.ok)throw new Error('Festival match map HTTP '+mapResponse.status);
 const FESTIVAL_MATCH_MAP=(await mapResponse.json()).matches||{};
 const FESTIVAL_DB = window.__FESTIVALES__;
