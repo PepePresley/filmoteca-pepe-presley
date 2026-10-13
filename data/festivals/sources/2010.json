@@ -73,118 +73,8 @@
     "Oscar": "https://www.oscars.org/oscars/ceremonies/2010",
     "BAFTA": "https://www.bafta.org/awards/film/?award-year=2010"
   },
-  "filmaffinity_titles_verified": 180,
+  "filmaffinity_titles_verified": 202,
   "filmaffinity_titles_pending": [
-    {
-      "festival": "Cannes",
-      "title": "AURORA",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "CARANCHO",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "CHATROOM",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "FILM SOCIALISME",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "HAI SHANG CHUAN QI",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "LIFE, ABOVE ALL",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "MARTI, DUPA CRACIUN",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "O ESTRANHO CASO DE ANGÉLICA",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "R U THERE",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "REBECCA H. ( RETURN TO THE DOGS)",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "SIMON WERNER A DISPARU…",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "UDAAN",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Cannes",
-      "title": "UNTER DIR DIE STADT",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Post mortem",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Noi credevamo",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "La Passione",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Jûsan-nin no shikaku",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Potiche",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Miral",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Noruwei no mori",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Di renjie zhi tongtian diguo",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "Venecia",
-      "title": "Le Fossé",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
     {
       "festival": "BAFTA",
       "title": "Fourteen",
@@ -204,5 +94,170 @@
       "reason": "Fuera de concurso"
     }
   ],
-  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias."
+  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias.",
+  "title_corrections_2026_10_13": [
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Aurora",
+      "title": "Aurora, un asesino muy común",
+      "url": "https://www.filmaffinity.com/es/film773257.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Carancho",
+      "title": "Carancho",
+      "url": "https://www.filmaffinity.com/es/film918617.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Chatroom",
+      "title": "Chatroom",
+      "url": "https://www.filmaffinity.com/es/film818191.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Film Socialisme",
+      "title": "Film socialisme",
+      "url": "https://www.filmaffinity.com/es/film310337.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Hai Shang Chuan Qi",
+      "title": "Historias de Shanghai",
+      "url": "https://www.filmaffinity.com/es/film362554.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Life, Above All",
+      "title": "Life, Above All",
+      "url": "https://www.filmaffinity.com/es/film724661.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Marti, Dupa Craciun",
+      "title": "Martes, después de Navidad",
+      "url": "https://www.filmaffinity.com/es/film156165.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "O Estranho Caso De Angélica",
+      "title": "El extraño caso de Angélica",
+      "url": "https://www.filmaffinity.com/es/film996751.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "R U There",
+      "title": "R U There",
+      "url": "https://www.filmaffinity.com/es/film949389.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Rebecca H. ( Return To The Dogs)",
+      "title": "Rebecca H. (Return to the Dogs)",
+      "url": "https://www.filmaffinity.com/es/film991757.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Simon Werner A Disparu…",
+      "title": "Simon Werner a disparu...",
+      "url": "https://www.filmaffinity.com/es/film698595.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Udaan",
+      "title": "Udaan",
+      "url": "https://www.filmaffinity.com/es/film294706.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Cannes",
+      "original": "Unter Dir Die Stadt",
+      "title": "The City Below",
+      "url": "https://www.filmaffinity.com/es/film847753.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Post mortem",
+      "title": "Post Mortem",
+      "url": "https://www.filmaffinity.com/es/film282773.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Noi credevamo",
+      "title": "Noi credevamo",
+      "url": "https://www.filmaffinity.com/es/film266491.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "La Passione",
+      "title": "La pasión",
+      "url": "https://www.filmaffinity.com/es/film176213.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Jûsan-nin no shikaku",
+      "title": "13 asesinos",
+      "url": "https://www.filmaffinity.com/es/film238356.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Potiche",
+      "title": "Potiche, mujeres al poder",
+      "url": "https://www.filmaffinity.com/es/film755456.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Miral",
+      "title": "Miral",
+      "url": "https://www.filmaffinity.com/es/film593430.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Noruwei no mori",
+      "title": "Tokio Blues",
+      "url": "https://www.filmaffinity.com/es/film960593.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Di renjie zhi tongtian diguo",
+      "title": "Detective Dee y el misterio de la llama fantasma",
+      "url": "https://www.filmaffinity.com/es/film620178.html"
+    },
+    {
+      "year": 2010,
+      "festival": "Venecia",
+      "original": "Le Fossé",
+      "title": "The Ditch",
+      "url": "https://www.filmaffinity.com/es/film719114.html"
+    }
+  ],
+  "identity_correction_2026_10_13": {
+    "festival": "Venecia",
+    "previous_title": "Toy Story 3",
+    "title": "Three",
+    "director": "Tom Tykwer",
+    "url": "https://www.filmaffinity.com/es/film671243.html",
+    "ownership_evidence": "Maestro 2010, ficha 407: Nombre en el chat Three (Tom Tykwer, 2010). Los campos cinematográficos del maestro corresponden erróneamente a Toy Story 3; se corrige mediante overlay sin modificar el Excel.",
+    "poster": "Sin imagen por falta de carátula verificada"
+  }
 }

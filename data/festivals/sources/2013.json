@@ -73,14 +73,8 @@
     "Oscar": "https://www.oscars.org/oscars/ceremonies/2013",
     "BAFTA": "https://www.bafta.org/awards/film/?award-year=2013"
   },
-  "filmaffinity_titles_verified": 191,
-  "filmaffinity_titles_pending": [
-    {
-      "festival": "BAFTA",
-      "title": "The Curse",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    }
-  ],
+  "filmaffinity_titles_verified": 192,
+  "filmaffinity_titles_pending": [],
   "excluded_out_of_competition": [],
   "included_out_of_competition": [
     {
@@ -99,5 +93,14 @@
       "reason": "Fuera de concurso"
     }
   ],
-  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias."
+  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias.",
+  "title_corrections_2026_10_13": [
+    {
+      "year": 2013,
+      "festival": "BAFTA",
+      "original": "The Curse",
+      "title": "The Curse (C)",
+      "url": "https://www.filmaffinity.com/es/film424813.html"
+    }
+  ]
 }

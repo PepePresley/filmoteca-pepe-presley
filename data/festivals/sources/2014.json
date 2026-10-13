@@ -73,24 +73,8 @@
     "Oscar": "https://www.oscars.org/oscars/ceremonies/2014",
     "BAFTA": "https://www.bafta.org/awards/film/?award-year=2014"
   },
-  "filmaffinity_titles_verified": 201,
-  "filmaffinity_titles_pending": [
-    {
-      "festival": "BAFTA",
-      "title": "Kelly + Victor",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "BAFTA",
-      "title": "Shell",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    },
-    {
-      "festival": "BAFTA",
-      "title": "For Those in Peril",
-      "reason": "Denominación oficial; título de FilmAffinity España pendiente de verificación."
-    }
-  ],
+  "filmaffinity_titles_verified": 204,
+  "filmaffinity_titles_pending": [],
   "excluded_out_of_competition": [],
   "included_out_of_competition": [
     {
@@ -114,5 +98,28 @@
       "reason": "Fuera de concurso"
     }
   ],
-  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias."
+  "title_policy": "Nombre registrado en FilmAffinity España (/es/), aunque esté en inglés; otros títulos como alias.",
+  "title_corrections_2026_10_13": [
+    {
+      "year": 2014,
+      "festival": "BAFTA",
+      "original": "Kelly + Victor",
+      "title": "Kelly + Victor",
+      "url": "https://www.filmaffinity.com/es/film698882.html"
+    },
+    {
+      "year": 2014,
+      "festival": "BAFTA",
+      "original": "Shell",
+      "title": "Shell",
+      "url": "https://www.filmaffinity.com/es/film647103.html"
+    },
+    {
+      "year": 2014,
+      "festival": "BAFTA",
+      "original": "For Those in Peril",
+      "title": "For Those in Peril",
+      "url": "https://www.filmaffinity.com/es/film855290.html"
+    }
+  ]
 }

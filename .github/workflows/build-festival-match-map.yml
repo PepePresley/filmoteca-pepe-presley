@@ -45,6 +45,8 @@ jobs:
             node scripts/build-festival-matches.mjs --year="${BASH_REMATCH[1]}"
           elif [[ "$SOURCE_BRANCH" =~ ^filmoteca-([0-9]{4})-catalogo$ ]]; then
             node scripts/build-festival-matches.mjs --years="${BASH_REMATCH[1]},$((BASH_REMATCH[1]+1))"
+          elif [[ "$SOURCE_BRANCH" == "filmoteca-titulos-filmaffinity" ]]; then
+            node scripts/build-festival-matches.mjs --years="2010,2024,2025"
           else
             node scripts/build-festival-matches.mjs
           fi
