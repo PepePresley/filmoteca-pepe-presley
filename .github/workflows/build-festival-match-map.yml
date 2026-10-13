@@ -10,6 +10,7 @@ on:
       - 'scripts/build-festival-matches.mjs'
       - 'scripts/festival-match-rules.mjs'
       - 'scripts/plan-festival-matches*.mjs'
+      - 'scripts/validate-festival-inputs*.mjs'
       - 'data/catalog/catalog.json'
       - 'data/catalog/annual_*_overlay.json'
       - 'data/catalog/festival-owned-*.json'
@@ -24,6 +25,7 @@ on:
       - 'scripts/build-festival-matches.mjs'
       - 'scripts/festival-match-rules.mjs'
       - 'scripts/plan-festival-matches*.mjs'
+      - 'scripts/validate-festival-inputs*.mjs'
       - 'data/catalog/catalog.json'
       - 'data/catalog/annual_*_overlay.json'
       - 'data/catalog/festival-owned-*.json'
@@ -46,10 +48,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Verify festival artifact comes from annual sources
-        run: node scripts/build-festivals.mjs --check
-      - name: Test association impact and preservation
-        run: node --test scripts/plan-festival-matches.test.mjs
       - name: Generate festival associations from changed inputs
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
@@ -57,7 +55,23 @@ jobs:
           if [[ -z "$BASE_SHA" || "$BASE_SHA" =~ ^0+$ ]]; then
             BASE_SHA=$(git merge-base HEAD origin/main)
           fi
-          node scripts/plan-festival-matches.mjs --base="$BASE_SHA"
+          node scripts/plan-festival-matches.mjs --base="$BASE_SHA" --report-dir="$RUNNER_TEMP/festival-block"
+      - name: Test association impact and preservation
+        run: node --test scripts/plan-festival-matches.test.mjs scripts/validate-festival-inputs.test.mjs
+      - name: Publish block summary
+        if: always()
+        run: |
+          if [[ -f "$RUNNER_TEMP/festival-block/bloque.md" ]]; then
+            cat "$RUNNER_TEMP/festival-block/bloque.md" >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Save validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: festival-block-validation
+          path: ${{ runner.temp }}/festival-block/
+          if-no-files-found: ignore
+          retention-days: 14
       - name: Commit exact match map on staging branch
         if: github.event_name == 'push'
         run: |

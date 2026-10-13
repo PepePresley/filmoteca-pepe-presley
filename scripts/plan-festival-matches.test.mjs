@@ -139,17 +139,21 @@ test('runner uses the approved Git base, not a modified map, and scoped generati
   fs.mkdirSync(path.join(temp,'data/catalog'),{recursive:true});
   fs.mkdirSync(path.join(temp,'data/festivals'),{recursive:true});
   fs.mkdirSync(path.join(temp,'scripts'));
-  const db={editions:[edition('Cannes',2024),edition('Oscar',2025,'Ajena','Otra')]};
+  const db={version:1,editions:[edition('Cannes',2024),edition('Oscar',2025,'Ajena','Otra')]};
   const key=ed=>JSON.stringify([ed.festival,ed.year,ed.films[0].title,ed.films[0].director]);
   const approved={version:1,total:2,present:2,matches:{
    [key(db.editions[0])]:{i:500,y:2024,t:row.t,d:row.d,p:'approved',dur:99},
    [key(db.editions[1])]:{i:600,y:1900,t:'Conservada',d:'Otra',p:'old-poster',dur:77}
   }};
-  fs.writeFileSync(path.join(temp,globalPath),JSON.stringify(db));
+  fs.writeFileSync(path.join(temp,globalPath),JSON.stringify(db)+'\n');
+  fs.mkdirSync(path.join(temp,'data/festivals/years'));
+  const index={schemaVersion:1,metadata:{version:1},editionOrder:db.editions.map(ed=>[ed.festival,ed.year,ed.section])};
+  fs.writeFileSync(path.join(temp,'data/festivals/years/index.json'),JSON.stringify(index));
+  for(const ed of db.editions)fs.writeFileSync(path.join(temp,'data/festivals/years/'+ed.year+'.json'),JSON.stringify({year:ed.year,editions:[ed]}));
   fs.writeFileSync(path.join(temp,catalogPath),JSON.stringify([row]));
   const mapFile=path.join(temp,'data/catalog/festival-matches.json');
   fs.writeFileSync(mapFile,JSON.stringify(approved));
-  for(const file of ['build-festival-matches.mjs','festival-match-rules.mjs','plan-festival-matches.mjs'])
+  for(const file of ['build-festival-matches.mjs','festival-match-rules.mjs','plan-festival-matches.mjs','build-festivals.mjs','validate-festival-inputs.mjs'])
    fs.copyFileSync('scripts/'+file,path.join(temp,'scripts',file));
   const git=(...args)=>execFileSync('git',args,{cwd:temp,stdio:'pipe'});
   git('init','-q');git('add','.');
@@ -165,5 +169,18 @@ test('runner uses the approved Git base, not a modified map, and scoped generati
   assert.equal(generated.matches[key(db.editions[0])].dur,105);
   assert.equal(generated.matches[key(db.editions[0])].i,500);
   assert.deepEqual(generated.matches[key(db.editions[1])],approved.matches[key(db.editions[1])]);
+  const validMap=fs.readFileSync(mapFile,'utf8');
+  fs.writeFileSync(path.join(temp,catalogPath),JSON.stringify([{...row,noPosterFallback:'yes'}]));
+  assert.throws(()=>run());
+  assert.equal(fs.readFileSync(mapFile,'utf8'),validMap);
+  let report=JSON.parse(fs.readFileSync(path.join(temp,'outputs/validacion_bloque/bloque.json')));
+  assert.equal(report.ok,false);assert.ok(report.errors.some(i=>i.code==='invalid-fallback'));
+  fs.writeFileSync(path.join(temp,catalogPath),JSON.stringify([row]));
+  const annualFile=path.join(temp,'data/festivals/years/2024.json');
+  const annual=JSON.parse(fs.readFileSync(annualFile));annual.editions[0].films[0].display_title='Etiqueta';
+  fs.writeFileSync(annualFile,JSON.stringify(annual));
+  assert.throws(()=>run());assert.equal(fs.readFileSync(mapFile,'utf8'),validMap);
+  report=JSON.parse(fs.readFileSync(path.join(temp,'outputs/validacion_bloque/bloque.json')));
+  assert.ok(report.errors.some(i=>i.code==='annual-artifact'));
  }finally{fs.rmSync(temp,{recursive:true,force:true});}
 });

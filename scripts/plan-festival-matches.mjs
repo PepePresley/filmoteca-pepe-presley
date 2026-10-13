@@ -4,12 +4,14 @@ import os from 'node:os';
 import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { makeIndex, prepare, resolve, associationValue, catalogRows } from './festival-match-rules.mjs';
+import { buildFestivals } from './build-festivals.mjs';
+import { validateInputChanges, writeValidationReport } from './validate-festival-inputs.mjs';
 
 const globalPath='data/festivals/festivals.json';
 const mapPath='data/catalog/festival-matches.json';
 const generatorPath='scripts/build-festival-matches.mjs';
 const rulesPath='scripts/festival-match-rules.mjs';
-const relevant=p=>p===globalPath||p===mapPath||p===generatorPath||p===rulesPath||
+const relevant=p=>p===globalPath||p===mapPath||p===generatorPath||p===rulesPath||/^data\/festivals\/years\/.*\.json$/.test(p)||
  /^data\/catalog\/(catalog\.json|annual_.*_overlay\.json|festival-owned-\d{4}\.json)$/.test(p);
 const parse=(files,p,fallback)=>files.has(p)?JSON.parse(files.get(p)):fallback;
 const encoded=value=>JSON.stringify(value);
@@ -103,6 +105,7 @@ export function readSnapshot(ref){
  if(!ref){
   const files=new Map();
   for(const p of [globalPath,mapPath,generatorPath,rulesPath,
+   ...(fs.existsSync('data/festivals/years')?fs.readdirSync('data/festivals/years').map(name=>'data/festivals/years/'+name):[]),
    ...fs.readdirSync('data/catalog').map(name=>'data/catalog/'+name)])
    if(relevant(p)&&fs.existsSync(p))files.set(p,fs.readFileSync(p,'utf8'));
   return files;
@@ -114,9 +117,20 @@ export function readSnapshot(ref){
  return files;
 }
 
-export function runPlannedMatches(base,{planOnly=false}={}){
+export function runPlannedMatches(base,{planOnly=false,reportDirectory='outputs/validacion_bloque'}={}){
  const before=readSnapshot(base), after=readSnapshot();
- const plan=planMatches(before,after);
+ const validation=validateInputChanges(before,after);
+ try{buildFestivals({check:true});}catch(error){validation.errors.push({file:globalPath,code:'annual-artifact',identity:globalPath,message:error.message,fatal:true});}
+ validation.ok=validation.errors.length===0;
+ const report={...validation,base:git('rev-parse','--verify','--end-of-options',base+'^{commit}').trim(),plan:null};
+ if(validation.ok){
+  try{report.plan=planMatches(before,after);}catch(error){
+   report.ok=false;report.errors.push({file:globalPath,code:'planning-error',identity:globalPath,message:error.message,fatal:true});
+  }
+ }
+ writeValidationReport(report,reportDirectory);
+ if(!report.ok)throw new Error('Block validation failed before generation; see '+path.join(reportDirectory,'bloque.md'));
+ const plan=report.plan;
  console.log(JSON.stringify(plan));
  if(planOnly)return plan;
  if(!plan.allYears.length)throw new Error('No festival years available');
@@ -137,8 +151,10 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
  try{
   const args=process.argv.slice(2);
   const base=args.find(arg=>arg.startsWith('--base='))?.slice(7);
-  if(!base||args.some(arg=>!arg.startsWith('--base=')&&arg!=='--plan-only'))
-   throw new Error('Usage: node scripts/plan-festival-matches.mjs --base=<approved-commit> [--plan-only]');
-  runPlannedMatches(base,{planOnly:args.includes('--plan-only')});
+  if(!base||args.some(arg=>!arg.startsWith('--base=')&&!arg.startsWith('--report-dir=')&&arg!=='--plan-only'))
+   throw new Error('Usage: node scripts/plan-festival-matches.mjs --base=<approved-commit> [--plan-only] [--report-dir=<directory>]');
+  const reportDirectory=args.find(arg=>arg.startsWith('--report-dir='))?.slice(13);
+  if(reportDirectory==='')throw new Error('Report directory must not be empty');
+  runPlannedMatches(base,{planOnly:args.includes('--plan-only'),reportDirectory});
  }catch(error){console.error(error.message);process.exitCode=1;}
 }
