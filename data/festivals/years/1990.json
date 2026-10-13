@@ -1,5 +1,170 @@
 {
+  "year": 1990,
   "editions": [
+    {
+      "festival": "Berlín",
+      "year": 1990,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Los ángeles",
+          "director": "Jacob Berger",
+          "award": "En competición"
+        },
+        {
+          "title": "Astenicheskiy sindrom",
+          "director": "Kira Muratova",
+          "award": "Oso de Plata · Premio Especial del Jurado",
+          "aliases": [
+            "The Asthenic Syndrome",
+            "El síndrome asténico"
+          ]
+        },
+        {
+          "title": "Ben ming nian",
+          "director": "Xie Fei",
+          "award": "Oso de Plata · Logro individual sobresaliente",
+          "aliases": [
+            "Black Snow"
+          ]
+        },
+        {
+          "title": "Born on the Fourth of July",
+          "director": "Oliver Stone",
+          "award": "En competición",
+          "aliases": [
+            "Nacido el cuatro de julio"
+          ]
+        },
+        {
+          "title": "Coming Out",
+          "director": "Heiner Carow",
+          "award": "Oso de Plata · Contribución artística sobresaliente"
+        },
+        {
+          "title": "Driving Miss Daisy",
+          "director": "Bruce Beresford",
+          "award": "Oso de Plata · Interpretación conjunta · Jessica Tandy y Morgan Freeman",
+          "aliases": [
+            "Paseando a Miss Daisy"
+          ]
+        },
+        {
+          "title": "The Handmaid's Tale",
+          "director": "Volker Schlöndorff",
+          "award": "En competición",
+          "aliases": [
+            "El cuento de la doncella"
+          ]
+        },
+        {
+          "title": "Herzlich willkommen",
+          "director": "Hark Bohm",
+          "award": "En competición",
+          "aliases": [
+            "Crossing Borders"
+          ]
+        },
+        {
+          "title": "Karaul",
+          "director": "Aleksandr Rogozhkin",
+          "award": "Premio Alfred Bauer · FIPRESCI",
+          "aliases": [
+            "The Guard"
+          ]
+        },
+        {
+          "title": "Skrivánci na niti",
+          "director": "Jiří Menzel",
+          "award": "Oso de Oro (ex aequo)",
+          "aliases": [
+            "Larks on a String",
+            "Alondras en el alambre"
+          ]
+        },
+        {
+          "title": "Music Box",
+          "director": "Costa-Gavras",
+          "award": "Oso de Oro (ex aequo)"
+        },
+        {
+          "title": "Das schreckliche Mädchen",
+          "director": "Michael Verhoeven",
+          "award": "Oso de Plata · Mejor dirección",
+          "aliases": [
+            "The Nasty Girl",
+            "La chica terrible"
+          ]
+        },
+        {
+          "title": "Les noces de papier",
+          "director": "Michel Brault",
+          "award": "En competición",
+          "aliases": [
+            "The Paper Wedding"
+          ]
+        },
+        {
+          "title": "Fat Man and Little Boy",
+          "director": "Roland Joffé",
+          "award": "En competición",
+          "aliases": [
+            "Shadow Makers",
+            "Creadores de sombras"
+          ]
+        },
+        {
+          "title": "Il segreto",
+          "director": "Francesco Maselli",
+          "award": "En competición",
+          "aliases": [
+            "The Secret"
+          ]
+        },
+        {
+          "title": "A halálraítélt",
+          "director": "János Zsombolyai",
+          "award": "En competición",
+          "aliases": [
+            "Sentenced to Death"
+          ]
+        },
+        {
+          "title": "Silent Scream",
+          "director": "David Hayman",
+          "award": "Oso de Plata · Mejor actor · Iain Glen"
+        },
+        {
+          "title": "Talvisota",
+          "director": "Pekka Parikka",
+          "award": "En competición",
+          "aliases": [
+            "The Winter War"
+          ]
+        },
+        {
+          "title": "La vengeance d'une femme",
+          "director": "Jacques Doillon",
+          "award": "En competición",
+          "aliases": [
+            "A Woman's Revenge"
+          ]
+        },
+        {
+          "title": "¡Átame!",
+          "director": "Pedro Almodóvar",
+          "award": "En competición"
+        },
+        {
+          "title": "The War of the Roses",
+          "director": "Danny DeVito",
+          "award": "En competición",
+          "aliases": [
+            "La guerra de los Rose"
+          ]
+        }
+      ]
+    },
     {
       "festival": "Cannes",
       "year": 1990,
@@ -286,442 +451,364 @@
       ]
     },
     {
-      "festival": "Venecia",
+      "festival": "Goya",
       "year": 1990,
-      "section": "Competición oficial",
+      "section": "4.ª edición · películas de 1989",
       "films": [
         {
-          "title": "Die Rückkehr",
-          "director": "Margarethe von Trotta",
-          "award": "En competición",
-          "aliases": [
-            "The African Woman"
-          ]
+          "title": "El mar y el tiempo",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Montaje",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Actriz protagonista",
+            "Actriz de reparto"
+          ],
+          "award": "Ganador · 2 Goyas"
         },
         {
-          "title": "An Angel at My Table",
-          "director": "Jane Campion",
-          "award": "Gran Premio Especial del Jurado",
-          "aliases": [
-            "Un ángel en mi mesa"
-          ]
+          "title": "El niño de la luna",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Guion original",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "award": "Ganador · 3 Goyas"
         },
         {
-          "title": "Ragazzi fuori",
-          "director": "Marco Risi",
-          "award": "Osella de Plata · Fotografía",
-          "aliases": [
-            "Boys on the Outside"
-          ]
+          "title": "El sueño del mono loco",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Música original",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje"
+          ],
+          "award": "Ganador · 6 Goyas"
         },
         {
-          "title": "Raspad",
-          "director": "Mikhail Belikov",
-          "award": "En competición",
-          "aliases": [
-            "Collapse",
-            "Decay"
-          ]
+          "title": "Esquilache",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Música original",
+            "Actor protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística"
+          ],
+          "wins": [
+            "Actor de reparto",
+            "Dirección artística"
+          ],
+          "award": "Ganador · 2 Goyas"
         },
         {
-          "title": "Pozegnanie jesieni",
-          "director": "Mariusz Treliński",
-          "award": "En competición",
-          "aliases": [
-            "Farewell to Autumn"
-          ]
+          "title": "Montoyas y Tarantos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Música original",
+            "Fotografía",
+            "Montaje",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Música original",
+            "Sonido"
+          ],
+          "award": "Ganador · 2 Goyas"
         },
         {
-          "title": "Spieler",
-          "director": "Dominik Graf",
-          "award": "En competición",
-          "aliases": [
-            "The Gamblers"
-          ]
+          "title": "Si te dicen que caí",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección",
+            "Guion adaptado",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Goodfellas",
-          "director": "Martin Scorsese",
-          "award": "León de Plata · Mejor dirección",
-          "aliases": [
-            "Uno de los nuestros"
-          ]
+          "title": "Ander y Yul",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [
+            "Dirección novel"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "I Hired a Contract Killer",
-          "director": "Aki Kaurismäki",
-          "award": "En competición",
-          "aliases": [
-            "Contraté a un asesino a sueldo"
-          ]
+          "title": "Brumal",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Karartma geceleri",
-          "director": "Yusuf Kurçenli",
-          "award": "En competición",
-          "aliases": [
-            "Blackout Nights"
-          ]
+          "title": "Continental",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Ahavata Ha'ahronah Shel Laura Adler",
-          "director": "Avraham Heffner",
-          "award": "En competición",
-          "aliases": [
-            "Laura Adler's Last Love Affair"
-          ]
+          "title": "Demasiado viejo para morir joven",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Marta a já",
-          "director": "Jiří Weiss",
-          "award": "En competición",
-          "aliases": [
-            "Martha and I"
-          ]
+          "title": "Guarapo",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Mo' Better Blues",
-          "director": "Spike Lee",
-          "award": "En competición"
+          "title": "Amanece, que no es poco",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion original",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [],
+          "award": "Nominado · 3 candidaturas"
         },
         {
-          "title": "La luna en el espejo",
-          "director": "Silvio Caiozzi",
-          "award": "Copa Volpi · Mejor actriz · Gloria Münchmeyer",
-          "aliases": [
-            "The Moon in the Mirror"
-          ]
+          "title": "El baile del pato",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion original",
+            "Actor de reparto"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "Mr. & Mrs. Bridge",
-          "director": "James Ivory",
-          "award": "En competición",
-          "aliases": [
-            "Mr. y Mrs. Bridge"
-          ]
+          "title": "El vuelo de la paloma",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion original",
+            "Actriz protagonista",
+            "Actor de reparto"
+          ],
+          "wins": [],
+          "award": "Nominado · 3 candidaturas"
         },
         {
-          "title": "S'en fout la mort",
-          "director": "Claire Denis",
-          "award": "Osella de Plata · Montaje",
-          "aliases": [
-            "No Fear, No Die",
-            "No tengo sueño"
-          ]
+          "title": "Las cosas del querer",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion original",
+            "Música original",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "Nominado · 7 candidaturas"
         },
         {
-          "title": "Edinstveniyat svidetel",
-          "director": "Mikhail Pandoursky",
-          "award": "Copa Volpi · Mejor actor · Oleg Borisov · Osella · Música",
-          "aliases": [
-            "The Only Witness"
-          ]
+          "title": "Bajarse al moro",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado",
+            "Música original",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "Nominado · 6 candidaturas"
         },
         {
-          "title": "Rosencrantz & Guildenstern Are Dead",
-          "director": "Tom Stoppard",
-          "award": "León de Oro",
-          "aliases": [
-            "Rosencrantz y Guildenstern han muerto"
-          ]
+          "title": "El río que nos lleva",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Sirup",
-          "director": "Helle Ryslinge",
-          "award": "León de Plata · Mejor guion"
+          "title": "La noche oscura",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor protagonista",
+            "Actor de reparto",
+            "Fotografía",
+            "Montaje",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [],
+          "award": "Nominado · 8 candidaturas"
         },
         {
-          "title": "Ageman",
-          "director": "Jūzō Itami",
-          "award": "En competición",
-          "aliases": [
-            "Tales of a Golden Geisha"
-          ]
+          "title": "La grieta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Efectos especiales"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Tracce di vita amorosa",
-          "director": "Peter Del Monte",
-          "award": "En competición",
-          "aliases": [
-            "Traces of an Amorous Life"
-          ]
+          "title": "Los 4 músicos de Bremen",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [
+            "Película de animación"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Mathilukal",
-          "director": "Adoor Gopalakrishnan",
-          "award": "En competición · FIPRESCI",
-          "aliases": [
-            "Walls"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 1990,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Los ángeles",
-          "director": "Jacob Berger",
-          "award": "En competición"
+          "title": "El número marcado",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Astenicheskiy sindrom",
-          "director": "Kira Muratova",
-          "award": "Oso de Plata · Premio Especial del Jurado",
-          "aliases": [
-            "The Asthenic Syndrome",
-            "El síndrome asténico"
-          ]
+          "title": "El reino de Víctor",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Ben ming nian",
-          "director": "Xie Fei",
-          "award": "Oso de Plata · Logro individual sobresaliente",
-          "aliases": [
-            "Black Snow"
-          ]
+          "title": "Kilómetro cero: la partida",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Born on the Fourth of July",
-          "director": "Oliver Stone",
-          "award": "En competición",
-          "aliases": [
-            "Nacido el cuatro de julio"
-          ]
+          "title": "Aventurera",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Coming Out",
-          "director": "Heiner Carow",
-          "award": "Oso de Plata · Contribución artística sobresaliente"
-        },
-        {
-          "title": "Driving Miss Daisy",
-          "director": "Bruce Beresford",
-          "award": "Oso de Plata · Interpretación conjunta · Jessica Tandy y Morgan Freeman",
-          "aliases": [
-            "Paseando a Miss Daisy"
-          ]
-        },
-        {
-          "title": "The Handmaid's Tale",
-          "director": "Volker Schlöndorff",
-          "award": "En competición",
-          "aliases": [
-            "El cuento de la doncella"
-          ]
-        },
-        {
-          "title": "Herzlich willkommen",
-          "director": "Hark Bohm",
-          "award": "En competición",
-          "aliases": [
-            "Crossing Borders"
-          ]
-        },
-        {
-          "title": "Karaul",
-          "director": "Aleksandr Rogozhkin",
-          "award": "Premio Alfred Bauer · FIPRESCI",
-          "aliases": [
-            "The Guard"
-          ]
-        },
-        {
-          "title": "Skrivánci na niti",
-          "director": "Jiří Menzel",
-          "award": "Oso de Oro (ex aequo)",
-          "aliases": [
-            "Larks on a String",
-            "Alondras en el alambre"
-          ]
-        },
-        {
-          "title": "Music Box",
-          "director": "Costa-Gavras",
-          "award": "Oso de Oro (ex aequo)"
-        },
-        {
-          "title": "Das schreckliche Mädchen",
-          "director": "Michael Verhoeven",
-          "award": "Oso de Plata · Mejor dirección",
-          "aliases": [
-            "The Nasty Girl",
-            "La chica terrible"
-          ]
-        },
-        {
-          "title": "Les noces de papier",
-          "director": "Michel Brault",
-          "award": "En competición",
-          "aliases": [
-            "The Paper Wedding"
-          ]
-        },
-        {
-          "title": "Fat Man and Little Boy",
-          "director": "Roland Joffé",
-          "award": "En competición",
-          "aliases": [
-            "Shadow Makers",
-            "Creadores de sombras"
-          ]
-        },
-        {
-          "title": "Il segreto",
-          "director": "Francesco Maselli",
-          "award": "En competición",
-          "aliases": [
-            "The Secret"
-          ]
-        },
-        {
-          "title": "A halálraítélt",
-          "director": "János Zsombolyai",
-          "award": "En competición",
-          "aliases": [
-            "Sentenced to Death"
-          ]
-        },
-        {
-          "title": "Silent Scream",
-          "director": "David Hayman",
-          "award": "Oso de Plata · Mejor actor · Iain Glen"
-        },
-        {
-          "title": "Talvisota",
-          "director": "Pekka Parikka",
-          "award": "En competición",
-          "aliases": [
-            "The Winter War"
-          ]
-        },
-        {
-          "title": "La vengeance d'une femme",
-          "director": "Jacques Doillon",
-          "award": "En competición",
-          "aliases": [
-            "A Woman's Revenge"
-          ]
-        },
-        {
-          "title": "¡Átame!",
-          "director": "Pedro Almodóvar",
-          "award": "En competición"
-        },
-        {
-          "title": "The War of the Roses",
-          "director": "Danny DeVito",
-          "award": "En competición",
-          "aliases": [
-            "La guerra de los Rose"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1990,
-      "section": "Sección Oficial · competición",
-      "films": [
-        {
-          "title": "Ach, Boris",
-          "director": "Niki List",
-          "award": "En competición"
-        },
-        {
-          "title": "Ava & Gabriel",
-          "director": "Felix de Rooy",
-          "award": "En competición"
-        },
-        {
-          "title": "Bakenbardy",
-          "director": "Yuri Mamin",
-          "award": "En competición"
-        },
-        {
-          "title": "Bütün kapilar kapaliydi",
-          "director": "Memduh Ün",
-          "award": "En competición"
-        },
-        {
-          "title": "Contra el viento",
-          "director": "Francisco Periñán",
-          "award": "En competición"
-        },
-        {
-          "title": "Historia niemoralna",
-          "director": "Barbara Sass",
-          "award": "En competición"
-        },
-        {
-          "title": "L'aventure de Catherine C.",
-          "director": "Pierre Beuchot",
-          "award": "En competición"
-        },
-        {
-          "title": "La settimana della sfinge",
-          "director": "Daniele Luchetti",
-          "award": "Concha de Plata · Mejor actriz · Margherita Buy",
-          "aliases": [
-            "The Week of the Sphinx"
-          ]
-        },
-        {
-          "title": "Las cartas de Alou",
-          "director": "Montxo Armendáriz",
-          "award": "Concha de Oro · Concha de Plata · Mejor actor · Mulie Jarju",
-          "aliases": [
-            "Letters from Alou"
-          ]
-        },
-        {
-          "title": "Luba",
-          "director": "Alejandro Agresti",
-          "award": "En competición"
-        },
-        {
-          "title": "Miller's Crossing",
-          "director": "Joel Coen",
-          "award": "Concha de Plata · Mejor dirección",
-          "aliases": [
-            "Muerte entre las flores"
-          ]
-        },
-        {
-          "title": "Motivsuche",
-          "director": "Dietmar Hochmuth",
-          "award": "En competición",
-          "aliases": [
-            "Location Hunting"
-          ]
-        },
-        {
-          "title": "Rapsy ja Dolly",
-          "director": "Matti Ijäs",
-          "award": "En competición",
-          "aliases": [
-            "Dolly and Her Lover"
-          ]
-        },
-        {
-          "title": "Río Negro",
-          "director": "Atahualpa Lichy",
-          "award": "En competición"
-        },
-        {
-          "title": "Rojo amanecer",
-          "director": "Jorge Fons",
-          "award": "Premio Especial del Jurado"
-        },
-        {
-          "title": "Vreme cuda",
-          "director": "Goran Paskaljević",
-          "award": "En competición",
-          "aliases": [
-            "Time of Miracles"
-          ]
+          "title": "La bella del Alhambra",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ],
+          "award": "Ganador · 1 Goya"
         }
       ]
     },
@@ -1310,6 +1397,282 @@
           ],
           "wins": [],
           "award": "Nominación · Corto documental"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1990,
+      "section": "Sección Oficial · competición",
+      "films": [
+        {
+          "title": "Ach, Boris",
+          "director": "Niki List",
+          "award": "En competición"
+        },
+        {
+          "title": "Ava & Gabriel",
+          "director": "Felix de Rooy",
+          "award": "En competición"
+        },
+        {
+          "title": "Bakenbardy",
+          "director": "Yuri Mamin",
+          "award": "En competición"
+        },
+        {
+          "title": "Bütün kapilar kapaliydi",
+          "director": "Memduh Ün",
+          "award": "En competición"
+        },
+        {
+          "title": "Contra el viento",
+          "director": "Francisco Periñán",
+          "award": "En competición"
+        },
+        {
+          "title": "Historia niemoralna",
+          "director": "Barbara Sass",
+          "award": "En competición"
+        },
+        {
+          "title": "L'aventure de Catherine C.",
+          "director": "Pierre Beuchot",
+          "award": "En competición"
+        },
+        {
+          "title": "La settimana della sfinge",
+          "director": "Daniele Luchetti",
+          "award": "Concha de Plata · Mejor actriz · Margherita Buy",
+          "aliases": [
+            "The Week of the Sphinx"
+          ]
+        },
+        {
+          "title": "Las cartas de Alou",
+          "director": "Montxo Armendáriz",
+          "award": "Concha de Oro · Concha de Plata · Mejor actor · Mulie Jarju",
+          "aliases": [
+            "Letters from Alou"
+          ]
+        },
+        {
+          "title": "Luba",
+          "director": "Alejandro Agresti",
+          "award": "En competición"
+        },
+        {
+          "title": "Miller's Crossing",
+          "director": "Joel Coen",
+          "award": "Concha de Plata · Mejor dirección",
+          "aliases": [
+            "Muerte entre las flores"
+          ]
+        },
+        {
+          "title": "Motivsuche",
+          "director": "Dietmar Hochmuth",
+          "award": "En competición",
+          "aliases": [
+            "Location Hunting"
+          ]
+        },
+        {
+          "title": "Rapsy ja Dolly",
+          "director": "Matti Ijäs",
+          "award": "En competición",
+          "aliases": [
+            "Dolly and Her Lover"
+          ]
+        },
+        {
+          "title": "Río Negro",
+          "director": "Atahualpa Lichy",
+          "award": "En competición"
+        },
+        {
+          "title": "Rojo amanecer",
+          "director": "Jorge Fons",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Vreme cuda",
+          "director": "Goran Paskaljević",
+          "award": "En competición",
+          "aliases": [
+            "Time of Miracles"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1990,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Die Rückkehr",
+          "director": "Margarethe von Trotta",
+          "award": "En competición",
+          "aliases": [
+            "The African Woman"
+          ]
+        },
+        {
+          "title": "An Angel at My Table",
+          "director": "Jane Campion",
+          "award": "Gran Premio Especial del Jurado",
+          "aliases": [
+            "Un ángel en mi mesa"
+          ]
+        },
+        {
+          "title": "Ragazzi fuori",
+          "director": "Marco Risi",
+          "award": "Osella de Plata · Fotografía",
+          "aliases": [
+            "Boys on the Outside"
+          ]
+        },
+        {
+          "title": "Raspad",
+          "director": "Mikhail Belikov",
+          "award": "En competición",
+          "aliases": [
+            "Collapse",
+            "Decay"
+          ]
+        },
+        {
+          "title": "Pozegnanie jesieni",
+          "director": "Mariusz Treliński",
+          "award": "En competición",
+          "aliases": [
+            "Farewell to Autumn"
+          ]
+        },
+        {
+          "title": "Spieler",
+          "director": "Dominik Graf",
+          "award": "En competición",
+          "aliases": [
+            "The Gamblers"
+          ]
+        },
+        {
+          "title": "Goodfellas",
+          "director": "Martin Scorsese",
+          "award": "León de Plata · Mejor dirección",
+          "aliases": [
+            "Uno de los nuestros"
+          ]
+        },
+        {
+          "title": "I Hired a Contract Killer",
+          "director": "Aki Kaurismäki",
+          "award": "En competición",
+          "aliases": [
+            "Contraté a un asesino a sueldo"
+          ]
+        },
+        {
+          "title": "Karartma geceleri",
+          "director": "Yusuf Kurçenli",
+          "award": "En competición",
+          "aliases": [
+            "Blackout Nights"
+          ]
+        },
+        {
+          "title": "Ahavata Ha'ahronah Shel Laura Adler",
+          "director": "Avraham Heffner",
+          "award": "En competición",
+          "aliases": [
+            "Laura Adler's Last Love Affair"
+          ]
+        },
+        {
+          "title": "Marta a já",
+          "director": "Jiří Weiss",
+          "award": "En competición",
+          "aliases": [
+            "Martha and I"
+          ]
+        },
+        {
+          "title": "Mo' Better Blues",
+          "director": "Spike Lee",
+          "award": "En competición"
+        },
+        {
+          "title": "La luna en el espejo",
+          "director": "Silvio Caiozzi",
+          "award": "Copa Volpi · Mejor actriz · Gloria Münchmeyer",
+          "aliases": [
+            "The Moon in the Mirror"
+          ]
+        },
+        {
+          "title": "Mr. & Mrs. Bridge",
+          "director": "James Ivory",
+          "award": "En competición",
+          "aliases": [
+            "Mr. y Mrs. Bridge"
+          ]
+        },
+        {
+          "title": "S'en fout la mort",
+          "director": "Claire Denis",
+          "award": "Osella de Plata · Montaje",
+          "aliases": [
+            "No Fear, No Die",
+            "No tengo sueño"
+          ]
+        },
+        {
+          "title": "Edinstveniyat svidetel",
+          "director": "Mikhail Pandoursky",
+          "award": "Copa Volpi · Mejor actor · Oleg Borisov · Osella · Música",
+          "aliases": [
+            "The Only Witness"
+          ]
+        },
+        {
+          "title": "Rosencrantz & Guildenstern Are Dead",
+          "director": "Tom Stoppard",
+          "award": "León de Oro",
+          "aliases": [
+            "Rosencrantz y Guildenstern han muerto"
+          ]
+        },
+        {
+          "title": "Sirup",
+          "director": "Helle Ryslinge",
+          "award": "León de Plata · Mejor guion"
+        },
+        {
+          "title": "Ageman",
+          "director": "Jūzō Itami",
+          "award": "En competición",
+          "aliases": [
+            "Tales of a Golden Geisha"
+          ]
+        },
+        {
+          "title": "Tracce di vita amorosa",
+          "director": "Peter Del Monte",
+          "award": "En competición",
+          "aliases": [
+            "Traces of an Amorous Life"
+          ]
+        },
+        {
+          "title": "Mathilukal",
+          "director": "Adoor Gopalakrishnan",
+          "award": "En competición · FIPRESCI",
+          "aliases": [
+            "Walls"
+          ]
         }
       ]
     }

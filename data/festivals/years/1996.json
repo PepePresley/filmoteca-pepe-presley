@@ -1,5 +1,176 @@
 {
+  "year": 1996,
   "editions": [
+    {
+      "festival": "Berlín",
+      "year": 1996,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "12 Monkeys",
+          "director": "Terry Gilliam",
+          "aliases": [
+            "Doce monos"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Lust och fägring stor",
+          "director": "Bo Widerberg",
+          "aliases": [
+            "All Things Fair"
+          ],
+          "award": "Oso de Plata · Gran Premio del Jurado"
+        },
+        {
+          "title": "A Single Spark",
+          "director": "Park Kwang-su",
+          "award": "En competición"
+        },
+        {
+          "title": "A Summer in La Goulette",
+          "director": "Férid Boughedir",
+          "award": "En competición"
+        },
+        {
+          "title": "Dead Man Walking",
+          "director": "Tim Robbins",
+          "aliases": [
+            "Pena de muerte"
+          ],
+          "award": "Oso de Plata · actor Sean Penn"
+        },
+        {
+          "title": "Éxtasis",
+          "director": "Mariano Barroso",
+          "award": "En competición"
+        },
+        {
+          "title": "Faithful",
+          "director": "Paul Mazursky",
+          "aliases": [
+            "Fielmente tuya"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Get Shorty",
+          "director": "Barry Sonnenfeld",
+          "aliases": [
+            "Cómo conquistar Hollywood"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Wielki tydzień",
+          "director": "Andrzej Wajda",
+          "aliases": [
+            "Holy Week"
+          ],
+          "award": "Oso de Plata · contribución artística"
+        },
+        {
+          "title": "Les menteurs",
+          "director": "Élie Chouraqui",
+          "aliases": [
+            "The Liars"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Mahjong",
+          "director": "Edward Yang",
+          "aliases": [
+            "Ma jiang"
+          ],
+          "award": "Mención de honor"
+        },
+        {
+          "title": "Mary Reilly",
+          "director": "Stephen Frears",
+          "aliases": [
+            "El secreto de Mary Reilly"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Mon homme",
+          "director": "Bertrand Blier",
+          "aliases": [
+            "My Man"
+          ],
+          "award": "Oso de Plata · actriz Anouk Grinberg"
+        },
+        {
+          "title": "Portland",
+          "director": "Niels Arden Oplev",
+          "award": "En competición"
+        },
+        {
+          "title": "Restoration",
+          "director": "Michael Hoffman",
+          "award": "En competición"
+        },
+        {
+          "title": "Richard III",
+          "director": "Richard Loncraine",
+          "award": "Oso de Plata · mejor dirección"
+        },
+        {
+          "title": "Sense and Sensibility",
+          "director": "Ang Lee",
+          "aliases": [
+            "Sentido y sensibilidad"
+          ],
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Stille Nacht",
+          "director": "Dani Levy",
+          "aliases": [
+            "Silent Night"
+          ],
+          "award": "Mención de honor"
+        },
+        {
+          "title": "Tai yang you er",
+          "director": "Yim Ho",
+          "aliases": [
+            "The Sun Has Ears"
+          ],
+          "award": "Oso de Plata · mejor dirección"
+        },
+        {
+          "title": "Vite strozzate",
+          "director": "Ricky Tognazzi",
+          "aliases": [
+            "Strangled Lives"
+          ],
+          "award": "Premio Alfred Bauer"
+        },
+        {
+          "title": "Ri guang xia gu",
+          "director": "He Ping",
+          "aliases": [
+            "Sun Valley"
+          ],
+          "award": "Mención de honor"
+        },
+        {
+          "title": "E no naka no boku no mura",
+          "director": "Yoichi Higashi",
+          "aliases": [
+            "Village of Dreams"
+          ],
+          "award": "Oso de Plata · logro individual"
+        },
+        {
+          "title": "What I Have Written",
+          "director": "John Hughes",
+          "award": "En competición"
+        }
+      ]
+    },
     {
       "festival": "Cannes",
       "year": 1996,
@@ -61,7 +232,7 @@
           "aliases": [
             "El octavo día"
           ],
-          "award": "Mejor actor · Daniel Auteuil / Pascal Duquenne"
+          "award": "Mejor actor (ex aequo) · Daniel Auteuil y Pascal Duquenne"
         },
         {
           "title": "Les voleurs",
@@ -320,393 +491,396 @@
       ]
     },
     {
-      "festival": "Venecia",
+      "festival": "Goya",
       "year": 1996,
-      "section": "Competición oficial",
+      "section": "10.ª edición · películas de 1995",
       "films": [
         {
-          "title": "Basquiat",
-          "director": "Julian Schnabel",
-          "award": "En competición"
-        },
-        {
-          "title": "Brigands, chapitre VII",
-          "director": "Otar Iosseliani",
-          "aliases": [
-            "Brigands",
-            "Brigands-Chapter VII"
+          "title": "Boca a boca",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actor protagonista",
+            "Actor de reparto",
+            "Dirección de producción",
+            "Montaje",
+            "Sonido"
           ],
-          "award": "Gran Premio Especial del Jurado"
-        },
-        {
-          "title": "Buddha Bless America",
-          "director": "Wu Nien-jen",
-          "aliases": [
-            "Tai ping tian guo"
+          "wins": [
+            "Actor protagonista"
           ],
-          "award": "En competición"
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Carla's Song",
-          "director": "Ken Loach",
-          "aliases": [
-            "La canción de Carla"
+          "title": "El día de la bestia",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actor revelación",
+            "Dirección de producción",
+            "Dirección de fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Diseño de vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
           ],
-          "award": "En competición"
-        },
-        {
-          "title": "Chronicle of a Disappearance",
-          "director": "Elia Suleiman",
-          "aliases": [
-            "Segell Ikhtifa"
+          "wins": [
+            "Dirección",
+            "Actor revelación",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
           ],
-          "award": "En competición"
+          "award": "Ganador · 6 Goyas"
         },
         {
-          "title": "Profundo carmesí",
-          "director": "Arturo Ripstein",
-          "aliases": [
-            "Deep Crimson"
+          "title": "Nadie hablará de nosotras cuando hayamos muerto",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección novel",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Montaje",
+            "Maquillaje y peluquería"
           ],
-          "award": "Osella de Oro · guion · escenografía · música"
-        },
-        {
-          "title": "For Ever Mozart",
-          "director": "Jean-Luc Godard",
-          "award": "En competición"
-        },
-        {
-          "title": "The Funeral",
-          "director": "Abel Ferrara",
-          "aliases": [
-            "El funeral"
+          "wins": [
+            "Película",
+            "Dirección novel",
+            "Guion original",
+            "Música original",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Montaje"
           ],
-          "award": "Copa Volpi · actor de reparto Chris Penn"
+          "award": "Ganador · 8 Goyas"
         },
         {
-          "title": "Ilona llega con la lluvia",
-          "director": "Sergio Cabrera",
-          "award": "En competición"
-        },
-        {
-          "title": "Hommes, femmes, mode d'emploi",
-          "director": "Claude Lelouch",
-          "award": "En competición"
-        },
-        {
-          "title": "Michael Collins",
-          "director": "Neil Jordan",
-          "award": "León de Oro · Copa Volpi actor Liam Neeson"
-        },
-        {
-          "title": "Der Unhold",
-          "director": "Volker Schlöndorff",
-          "aliases": [
-            "The Ogre",
-            "El ogro"
+          "title": "La flor de mi secreto",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección",
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido"
           ],
-          "award": "En competición"
+          "wins": [],
+          "award": "Nominado · 6 candidaturas"
         },
         {
-          "title": "Party",
-          "director": "Manoel de Oliveira",
-          "award": "En competición"
-        },
-        {
-          "title": "Ponette",
-          "director": "Jacques Doillon",
-          "award": "Copa Volpi · actriz Victoire Thivisol"
-        },
-        {
-          "title": "Pianese Nunzio, 14 anni a maggio",
-          "director": "Antonio Capuano",
-          "award": "En competición"
-        },
-        {
-          "title": "Vesna va veloce",
-          "director": "Carlo Mazzacurati",
-          "award": "En competición"
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 1996,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "12 Monkeys",
-          "director": "Terry Gilliam",
-          "aliases": [
-            "Doce monos"
+          "title": "Antártida",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Actriz protagonista",
+            "Actor revelación",
+            "Dirección de fotografía"
           ],
-          "award": "En competición"
-        },
-        {
-          "title": "Lust och fägring stor",
-          "director": "Bo Widerberg",
-          "aliases": [
-            "All Things Fair"
+          "wins": [
+            "Dirección de fotografía"
           ],
-          "award": "Oso de Plata · Gran Premio del Jurado"
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "A Single Spark",
-          "director": "Park Kwang-su",
-          "award": "En competición"
-        },
-        {
-          "title": "A Summer in La Goulette",
-          "director": "Férid Boughedir",
-          "award": "En competición"
-        },
-        {
-          "title": "Dead Man Walking",
-          "director": "Tim Robbins",
-          "aliases": [
-            "Pena de muerte"
+          "title": "Hola, ¿estás sola?",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
           ],
-          "award": "Oso de Plata · actor Sean Penn"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Éxtasis",
-          "director": "Mariano Barroso",
-          "award": "En competición"
-        },
-        {
-          "title": "Faithful",
-          "director": "Paul Mazursky",
-          "aliases": [
-            "Fielmente tuya"
+          "title": "El palomo cojo",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado"
           ],
-          "award": "En competición"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Get Shorty",
-          "director": "Barry Sonnenfeld",
-          "aliases": [
-            "Cómo conquistar Hollywood"
+          "title": "El porqué de las cosas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado",
+            "Música original"
           ],
-          "award": "En competición"
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "Wielki tydzień",
-          "director": "Andrzej Wajda",
-          "aliases": [
-            "Holy Week"
+          "title": "Historias del Kronen",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado",
+            "Actor revelación"
           ],
-          "award": "Oso de Plata · contribución artística"
-        },
-        {
-          "title": "Les menteurs",
-          "director": "Élie Chouraqui",
-          "aliases": [
-            "The Liars"
+          "wins": [
+            "Guion adaptado"
           ],
-          "award": "En competición"
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Mahjong",
-          "director": "Edward Yang",
-          "aliases": [
-            "Ma jiang"
+          "title": "Así en el cielo como en la tierra",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor de reparto"
           ],
-          "award": "Mención de honor"
-        },
-        {
-          "title": "Mary Reilly",
-          "director": "Stephen Frears",
-          "aliases": [
-            "El secreto de Mary Reilly"
+          "wins": [
+            "Actor de reparto"
           ],
-          "award": "En competición"
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Mon homme",
-          "director": "Bertrand Blier",
-          "aliases": [
-            "My Man"
+          "title": "La ley de la frontera",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor de reparto",
+            "Diseño de vestuario"
           ],
-          "award": "Oso de Plata · actriz Anouk Grinberg"
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "Portland",
-          "director": "Niels Arden Oplev",
-          "award": "En competición"
-        },
-        {
-          "title": "Restoration",
-          "director": "Michael Hoffman",
-          "award": "En competición"
-        },
-        {
-          "title": "Richard III",
-          "director": "Richard Loncraine",
-          "award": "Oso de Plata · mejor dirección"
-        },
-        {
-          "title": "Sense and Sensibility",
-          "director": "Ang Lee",
-          "aliases": [
-            "Sentido y sensibilidad"
+          "title": "Alma gitana",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz revelación"
           ],
-          "award": "Oso de Oro"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Stille Nacht",
-          "director": "Dani Levy",
-          "aliases": [
-            "Silent Night"
+          "title": "Entre rojas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz revelación"
           ],
-          "award": "Mención de honor"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Tai yang you er",
-          "director": "Yim Ho",
-          "aliases": [
-            "The Sun Has Ears"
+          "title": "Tierra y libertad",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz revelación"
           ],
-          "award": "Oso de Plata · mejor dirección"
-        },
-        {
-          "title": "Vite strozzate",
-          "director": "Ricky Tognazzi",
-          "aliases": [
-            "Strangled Lives"
+          "wins": [
+            "Actriz revelación"
           ],
-          "award": "Premio Alfred Bauer"
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Ri guang xia gu",
-          "director": "He Ping",
-          "aliases": [
-            "Sun Valley"
+          "title": "Flamenco",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección de fotografía"
           ],
-          "award": "Mención de honor"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "E no naka no boku no mura",
-          "director": "Yoichi Higashi",
-          "aliases": [
-            "Village of Dreams"
+          "title": "La leyenda de Balthasar el castrado",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección artística",
+            "Diseño de vestuario"
           ],
-          "award": "Oso de Plata · logro individual"
-        },
-        {
-          "title": "What I Have Written",
-          "director": "John Hughes",
-          "award": "En competición"
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1996,
-      "section": "Sección Oficial · a concurso",
-      "films": [
-        {
-          "title": "Bajo la piel",
-          "director": "Francisco J. Lombardi",
-          "award": "Concha de Plata · mejor director"
-        },
-        {
-          "title": "Beautiful Girls",
-          "director": "Ted Demme",
-          "award": "En competición"
-        },
-        {
-          "title": "Blood and Wine",
-          "director": "Bob Rafelson",
-          "aliases": [
-            "Sangre y vino"
+          "wins": [
+            "Diseño de vestuario"
           ],
-          "award": "Concha de Plata · actor Michael Caine"
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Bwana",
-          "director": "Imanol Uribe",
-          "award": "Concha de Oro · ex aequo · mejor fotografía"
-        },
-        {
-          "title": "Capitaine Conan",
-          "director": "Bertrand Tavernier",
-          "aliases": [
-            "Capitán Conan"
+          "title": "El niño invisible",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Efectos especiales"
           ],
-          "award": "Mención especial · Guy-Claude François"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "El último viaje de Robert Rylands",
-          "director": "Gracia Querejeta",
-          "award": "En competición"
-        },
-        {
-          "title": "Engelchen",
-          "director": "Helke Misselwitz",
-          "aliases": [
-            "Little Angel",
-            "Pequeño ángel"
+          "title": "La ciudad de los niños perdidos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Efectos especiales"
           ],
-          "award": "Premio Especial del Jurado"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Hotel Paura",
-          "director": "Renato De Maria",
-          "award": "En competición"
-        },
-        {
-          "title": "Kama Sutra: A Tale of Love",
-          "director": "Mira Nair",
-          "aliases": [
-            "Kamasutra, una historia de amor"
+          "title": "Carrington",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
           ],
-          "award": "En competición"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Pedar",
-          "director": "Majid Majidi",
-          "aliases": [
-            "Father",
-            "El padre"
+          "title": "La locura del rey Jorge",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
           ],
-          "award": "Premio del Jurado"
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Sol de otoño",
-          "director": "Eduardo Mignogna",
-          "award": "Concha de Plata · actriz Norma Aleandro"
-        },
-        {
-          "title": "Taxi",
-          "director": "Carlos Saura",
-          "award": "Mención especial · Ingrid Rubio"
-        },
-        {
-          "title": "The Emperor's Shadow",
-          "director": "Zhou Xiaowen",
-          "aliases": [
-            "La sombra del emperador",
-            "Qin Song"
+          "title": "Lamerica",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
           ],
-          "award": "En competición"
-        },
-        {
-          "title": "Trojan Eddie",
-          "director": "Gillies MacKinnon",
-          "award": "Concha de Oro · ex aequo"
-        },
-        {
-          "title": "Tu nombre envenena mis sueños",
-          "director": "Pilar Miró",
-          "award": "En competición"
-        },
-        {
-          "title": "Twelfth Night",
-          "director": "Trevor Nunn",
-          "aliases": [
-            "Noche de Reyes"
+          "wins": [
+            "Película europea"
           ],
-          "award": "En competición"
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Entre vías",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Escrito en la piel",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Hábitos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "La madre",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Sólo amor",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Caracol, col, col",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Las partes de mí que te aman son seres vacíos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "El callejón de los milagros",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "El elefante y la bicicleta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Sicario, la ley de la calle",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         }
       ]
     },
@@ -1341,6 +1515,227 @@
           ],
           "wins": [],
           "award": "Nominación · Sonido"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1996,
+      "section": "Sección Oficial · a concurso",
+      "films": [
+        {
+          "title": "Bajo la piel",
+          "director": "Francisco J. Lombardi",
+          "award": "Concha de Plata · mejor director"
+        },
+        {
+          "title": "Beautiful Girls",
+          "director": "Ted Demme",
+          "award": "En competición"
+        },
+        {
+          "title": "Blood and Wine",
+          "director": "Bob Rafelson",
+          "aliases": [
+            "Sangre y vino"
+          ],
+          "award": "Concha de Plata · actor Michael Caine"
+        },
+        {
+          "title": "Bwana",
+          "director": "Imanol Uribe",
+          "award": "Concha de Oro · ex aequo · mejor fotografía"
+        },
+        {
+          "title": "Capitaine Conan",
+          "director": "Bertrand Tavernier",
+          "aliases": [
+            "Capitán Conan"
+          ],
+          "award": "Mención especial · Guy-Claude François"
+        },
+        {
+          "title": "El último viaje de Robert Rylands",
+          "director": "Gracia Querejeta",
+          "award": "En competición"
+        },
+        {
+          "title": "Engelchen",
+          "director": "Helke Misselwitz",
+          "aliases": [
+            "Little Angel",
+            "Pequeño ángel"
+          ],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Hotel Paura",
+          "director": "Renato De Maria",
+          "award": "En competición"
+        },
+        {
+          "title": "Kama Sutra: A Tale of Love",
+          "director": "Mira Nair",
+          "aliases": [
+            "Kamasutra, una historia de amor"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Pedar",
+          "director": "Majid Majidi",
+          "aliases": [
+            "Father",
+            "El padre"
+          ],
+          "award": "Premio del Jurado"
+        },
+        {
+          "title": "Sol de otoño",
+          "director": "Eduardo Mignogna",
+          "award": "Concha de Plata · actriz Norma Aleandro"
+        },
+        {
+          "title": "Taxi",
+          "director": "Carlos Saura",
+          "award": "Mención especial · Ingrid Rubio"
+        },
+        {
+          "title": "The Emperor's Shadow",
+          "director": "Zhou Xiaowen",
+          "aliases": [
+            "La sombra del emperador",
+            "Qin Song"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Trojan Eddie",
+          "director": "Gillies MacKinnon",
+          "award": "Concha de Oro · ex aequo"
+        },
+        {
+          "title": "Tu nombre envenena mis sueños",
+          "director": "Pilar Miró",
+          "award": "En competición"
+        },
+        {
+          "title": "Twelfth Night",
+          "director": "Trevor Nunn",
+          "aliases": [
+            "Noche de Reyes"
+          ],
+          "award": "En competición"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1996,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Basquiat",
+          "director": "Julian Schnabel",
+          "award": "En competición"
+        },
+        {
+          "title": "Brigands, chapitre VII",
+          "director": "Otar Iosseliani",
+          "aliases": [
+            "Brigands",
+            "Brigands-Chapter VII"
+          ],
+          "award": "Gran Premio Especial del Jurado"
+        },
+        {
+          "title": "Buddha Bless America",
+          "director": "Wu Nien-jen",
+          "aliases": [
+            "Tai ping tian guo"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Carla's Song",
+          "director": "Ken Loach",
+          "aliases": [
+            "La canción de Carla"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Chronicle of a Disappearance",
+          "director": "Elia Suleiman",
+          "aliases": [
+            "Segell Ikhtifa"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Profundo carmesí",
+          "director": "Arturo Ripstein",
+          "aliases": [
+            "Deep Crimson"
+          ],
+          "award": "Osella de Oro · guion · escenografía · música"
+        },
+        {
+          "title": "For Ever Mozart",
+          "director": "Jean-Luc Godard",
+          "award": "En competición"
+        },
+        {
+          "title": "The Funeral",
+          "director": "Abel Ferrara",
+          "aliases": [
+            "El funeral"
+          ],
+          "award": "Copa Volpi · actor de reparto Chris Penn"
+        },
+        {
+          "title": "Ilona llega con la lluvia",
+          "director": "Sergio Cabrera",
+          "award": "En competición"
+        },
+        {
+          "title": "Hommes, femmes, mode d'emploi",
+          "director": "Claude Lelouch",
+          "award": "En competición"
+        },
+        {
+          "title": "Michael Collins",
+          "director": "Neil Jordan",
+          "award": "León de Oro · Copa Volpi actor Liam Neeson"
+        },
+        {
+          "title": "Der Unhold",
+          "director": "Volker Schlöndorff",
+          "aliases": [
+            "The Ogre",
+            "El ogro"
+          ],
+          "award": "En competición"
+        },
+        {
+          "title": "Party",
+          "director": "Manoel de Oliveira",
+          "award": "En competición"
+        },
+        {
+          "title": "Ponette",
+          "director": "Jacques Doillon",
+          "award": "Copa Volpi · actriz Victoire Thivisol"
+        },
+        {
+          "title": "Pianese Nunzio, 14 anni a maggio",
+          "director": "Antonio Capuano",
+          "award": "En competición"
+        },
+        {
+          "title": "Vesna va veloce",
+          "director": "Carlo Mazzacurati",
+          "award": "En competición"
         }
       ]
     }

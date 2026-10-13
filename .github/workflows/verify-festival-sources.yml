@@ -1,0 +1,30 @@
+name: Verify annual festival sources
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/festivals/years/**'
+      - 'data/festivals/festivals.json'
+      - 'scripts/build-festivals*.mjs'
+      - '.github/workflows/verify-festival-sources.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'data/festivals/years/**'
+      - 'data/festivals/festivals.json'
+      - 'scripts/build-festivals*.mjs'
+      - '.github/workflows/verify-festival-sources.yml'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Test annual source compiler
+        run: node --test scripts/build-festivals.test.mjs
+      - name: Verify generated artifact is current
+        run: node scripts/build-festivals.mjs --check
