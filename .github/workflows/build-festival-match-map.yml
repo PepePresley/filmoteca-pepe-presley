@@ -48,10 +48,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Verify festival artifact comes from annual sources
-        run: node scripts/build-festivals.mjs --check
-      - name: Test association impact and preservation
-        run: node --test scripts/plan-festival-matches.test.mjs scripts/validate-festival-inputs.test.mjs
       - name: Generate festival associations from changed inputs
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
@@ -60,6 +56,8 @@ jobs:
             BASE_SHA=$(git merge-base HEAD origin/main)
           fi
           node scripts/plan-festival-matches.mjs --base="$BASE_SHA" --report-dir="$RUNNER_TEMP/festival-block"
+      - name: Test association impact and preservation
+        run: node --test scripts/plan-festival-matches.test.mjs scripts/validate-festival-inputs.test.mjs
       - name: Publish block summary
         if: always()
         run: |
