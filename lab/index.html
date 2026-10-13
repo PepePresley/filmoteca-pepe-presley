@@ -555,12 +555,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=titulos-fa-20261013");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=titulos-fa-2000-2009-20261013");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=titulos-fa-20261013");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=titulos-fa-2000-2009-20261013");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }

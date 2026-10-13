@@ -9,6 +9,8 @@ const yearsArg=process.argv.find(a=>a.startsWith('--years='));
 const scopeYears=yearsArg?new Set(yearsArg.slice(8).split(',').map(Number)):(scopeYear?new Set([scopeYear]):null);
 if(yearsArg&&[...scopeYears].some(y=>!Number.isInteger(y)||y<1895||y>2100))throw new Error('Invalid festival years');
 const previousMatches=scopeYears?JSON.parse(fs.readFileSync('data/catalog/festival-matches.json','utf8')).matches:{};
+const labelsOnly=process.argv.includes('--labels-only');
+if(labelsOnly&&!scopeYears)throw new Error('--labels-only requires an explicit year scope');
 
 function loadCatalog(){
  let src=JSON.parse(fs.readFileSync('data/catalog/catalog.json','utf8'));
@@ -153,6 +155,15 @@ const matches={};let total=0,present=0;
 for(const ed of (db.editions||[])){
  for(const f of (ed.films||[])){
   total++;
+  // Display labels do not change film identity or ownership. Require every
+  // existing key rather than resolving historical associations again.
+  if(labelsOnly){
+   const key=filmKey(ed.festival,ed.year,f.title,f.director);
+   if(!Object.hasOwn(previousMatches,key))throw new Error('Identity changed during labels-only update: '+key);
+   matches[key]=previousMatches[key];
+   if(matches[key])present++;
+   continue;
+  }
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director};
   let i=resolve(ft,prepared);
   const authoritative=authoritativeOwnership(ed,f);
@@ -180,6 +191,7 @@ for(const ed of (db.editions||[])){
   }else matches[key]=null;
  }
 }
+if(labelsOnly&&Object.keys(matches).length!==Object.keys(previousMatches).length)throw new Error('Film removed during labels-only update');
 const out={version:1,total,present,matches};
 fs.writeFileSync('data/catalog/festival-matches.json',JSON.stringify(out));
 console.log(JSON.stringify({total,present,missing:total-present,bytes:fs.statSync('data/catalog/festival-matches.json').size}));
