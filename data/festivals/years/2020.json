@@ -1,5 +1,139 @@
 {
+  "year": 2020,
   "editions": [
+    {
+      "festival": "Berlín",
+      "year": 2020,
+      "section": "Competición",
+      "films": [
+        {
+          "title": "Sheytan vojud nadarad",
+          "director": "Mohammad Rasoulof",
+          "aliases": [
+            "There Is No Evil",
+            "La vida de los demás"
+          ],
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Never Rarely Sometimes Always",
+          "director": "Eliza Hittman",
+          "aliases": [
+            "Nunca, casi nunca, a veces, siempre"
+          ],
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Domangchin yeoja",
+          "director": "Hong Sang-soo",
+          "aliases": [
+            "The Woman Who Ran",
+            "La mujer que escapó"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Undine",
+          "director": "Christian Petzold",
+          "aliases": [
+            "Ondina. Un amor para siempre"
+          ],
+          "award": "Mejor actriz"
+        },
+        {
+          "title": "Volevo nascondermi",
+          "director": "Giorgio Diritti",
+          "award": "Mejor actor"
+        },
+        {
+          "title": "Favolacce",
+          "director": "Damiano D'Innocenzo, Fabio D'Innocenzo",
+          "aliases": [
+            "Bad Tales",
+            "Malditos vecinos"
+          ],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "DAU. Natasha",
+          "director": "Ilya Khrzhanovsky, Jekaterina Oertel",
+          "award": "Contribución artística"
+        },
+        {
+          "title": "Effacer l'historique",
+          "director": "Benoît Delépine, Gustave Kervern",
+          "aliases": [
+            "Delete History",
+            "Borrar el historial"
+          ],
+          "award": "Oso de Plata 70 aniversario"
+        },
+        {
+          "title": "Berlin Alexanderplatz",
+          "director": "Burhan Qurbani"
+        },
+        {
+          "title": "First Cow",
+          "director": "Kelly Reichardt"
+        },
+        {
+          "title": "Irradiés",
+          "director": "Rithy Panh",
+          "aliases": [
+            "Irradiated"
+          ]
+        },
+        {
+          "title": "Le sel des larmes",
+          "director": "Philippe Garrel",
+          "aliases": [
+            "The Salt of Tears",
+            "La sal de las lágrimas"
+          ]
+        },
+        {
+          "title": "Rizi",
+          "director": "Tsai Ming-liang",
+          "aliases": [
+            "Days"
+          ]
+        },
+        {
+          "title": "The Roads Not Taken",
+          "director": "Sally Potter",
+          "aliases": [
+            "Los caminos que no escogemos"
+          ]
+        },
+        {
+          "title": "Schwesterlein",
+          "director": "Stéphanie Chuat, Véronique Reymond",
+          "aliases": [
+            "My Little Sister",
+            "Mi pequeña hermana"
+          ]
+        },
+        {
+          "title": "Siberia",
+          "director": "Abel Ferrara"
+        },
+        {
+          "title": "Todos os mortos",
+          "director": "Caetano Gotardo, Marco Dutra",
+          "aliases": [
+            "All the Dead Ones",
+            "Todos los muertos"
+          ]
+        },
+        {
+          "title": "El prófugo",
+          "director": "Natalia Meta",
+          "aliases": [
+            "The Intruder"
+          ]
+        }
+      ]
+    },
     {
       "festival": "Cannes",
       "year": 2020,
@@ -320,360 +454,6 @@
         {
           "title": "Soul",
           "director": "Pete Docter"
-        }
-      ]
-    },
-    {
-      "festival": "Venecia",
-      "year": 2020,
-      "section": "Venezia 77 · Competición",
-      "films": [
-        {
-          "title": "Nomadland",
-          "director": "Chloé Zhao",
-          "award": "León de Oro"
-        },
-        {
-          "title": "Səpələnmiş Ölümlər Arasında",
-          "director": "Hilal Baydarov",
-          "aliases": [
-            "In Between Dying"
-          ]
-        },
-        {
-          "title": "Le sorelle Macaluso",
-          "director": "Emma Dante",
-          "aliases": [
-            "The Macaluso Sisters",
-            "Las hermanas Macaluso"
-          ]
-        },
-        {
-          "title": "The World to Come",
-          "director": "Mona Fastvold",
-          "aliases": [
-            "El mundo que viene"
-          ]
-        },
-        {
-          "title": "Nuevo orden",
-          "director": "Michel Franco",
-          "award": "Gran Premio del Jurado"
-        },
-        {
-          "title": "Amants",
-          "director": "Nicole Garcia",
-          "aliases": [
-            "Lovers",
-            "Los amantes"
-          ]
-        },
-        {
-          "title": "Laila in Haifa",
-          "director": "Amos Gitai"
-        },
-        {
-          "title": "Und morgen die ganze Welt",
-          "director": "Julia von Heinz",
-          "aliases": [
-            "And Tomorrow the Entire World",
-            "Y mañana el mundo entero"
-          ]
-        },
-        {
-          "title": "Dorogie tovarishchi!",
-          "director": "Andrei Konchalovsky",
-          "aliases": [
-            "Dear Comrades!",
-            "Queridos camaradas"
-          ],
-          "award": "Premio Especial del Jurado"
-        },
-        {
-          "title": "Spy no tsuma",
-          "director": "Kiyoshi Kurosawa",
-          "aliases": [
-            "Wife of a Spy",
-            "La mujer del espía"
-          ],
-          "award": "Mejor dirección"
-        },
-        {
-          "title": "Khorshid",
-          "director": "Majid Majidi",
-          "aliases": [
-            "Sun Children",
-            "Hijos del sol"
-          ],
-          "award": "Premio Marcello Mastroianni"
-        },
-        {
-          "title": "Pieces of a Woman",
-          "director": "Kornél Mundruczó",
-          "aliases": [
-            "Fragmentos de una mujer"
-          ],
-          "award": "Mejor actriz"
-        },
-        {
-          "title": "Miss Marx",
-          "director": "Susanna Nicchiarelli"
-        },
-        {
-          "title": "Padrenostro",
-          "director": "Claudio Noce",
-          "award": "Mejor actor"
-        },
-        {
-          "title": "Notturno",
-          "director": "Gianfranco Rosi"
-        },
-        {
-          "title": "Śniegu już nigdy nie będzie",
-          "director": "Małgorzata Szumowska, Michał Englert",
-          "aliases": [
-            "Never Gonna Snow Again",
-            "Nunca volverá a nevar"
-          ]
-        },
-        {
-          "title": "The Disciple",
-          "director": "Chaitanya Tamhane",
-          "aliases": [
-            "El discípulo"
-          ],
-          "award": "Mejor guion"
-        },
-        {
-          "title": "Quo Vadis, Aida?",
-          "director": "Jasmila Žbanić"
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 2020,
-      "section": "Competición",
-      "films": [
-        {
-          "title": "Sheytan vojud nadarad",
-          "director": "Mohammad Rasoulof",
-          "aliases": [
-            "There Is No Evil",
-            "La vida de los demás"
-          ],
-          "award": "Oso de Oro"
-        },
-        {
-          "title": "Never Rarely Sometimes Always",
-          "director": "Eliza Hittman",
-          "aliases": [
-            "Nunca, casi nunca, a veces, siempre"
-          ],
-          "award": "Gran Premio del Jurado"
-        },
-        {
-          "title": "Domangchin yeoja",
-          "director": "Hong Sang-soo",
-          "aliases": [
-            "The Woman Who Ran",
-            "La mujer que escapó"
-          ],
-          "award": "Mejor dirección"
-        },
-        {
-          "title": "Undine",
-          "director": "Christian Petzold",
-          "aliases": [
-            "Ondina. Un amor para siempre"
-          ],
-          "award": "Mejor actriz"
-        },
-        {
-          "title": "Volevo nascondermi",
-          "director": "Giorgio Diritti",
-          "award": "Mejor actor"
-        },
-        {
-          "title": "Favolacce",
-          "director": "Damiano D'Innocenzo, Fabio D'Innocenzo",
-          "aliases": [
-            "Bad Tales",
-            "Malditos vecinos"
-          ],
-          "award": "Mejor guion"
-        },
-        {
-          "title": "DAU. Natasha",
-          "director": "Ilya Khrzhanovsky, Jekaterina Oertel",
-          "award": "Contribución artística"
-        },
-        {
-          "title": "Effacer l'historique",
-          "director": "Benoît Delépine, Gustave Kervern",
-          "aliases": [
-            "Delete History",
-            "Borrar el historial"
-          ],
-          "award": "Oso de Plata 70 aniversario"
-        },
-        {
-          "title": "Berlin Alexanderplatz",
-          "director": "Burhan Qurbani"
-        },
-        {
-          "title": "First Cow",
-          "director": "Kelly Reichardt"
-        },
-        {
-          "title": "Irradiés",
-          "director": "Rithy Panh",
-          "aliases": [
-            "Irradiated"
-          ]
-        },
-        {
-          "title": "Le sel des larmes",
-          "director": "Philippe Garrel",
-          "aliases": [
-            "The Salt of Tears",
-            "La sal de las lágrimas"
-          ]
-        },
-        {
-          "title": "Rizi",
-          "director": "Tsai Ming-liang",
-          "aliases": [
-            "Days"
-          ]
-        },
-        {
-          "title": "The Roads Not Taken",
-          "director": "Sally Potter",
-          "aliases": [
-            "Los caminos que no escogemos"
-          ]
-        },
-        {
-          "title": "Schwesterlein",
-          "director": "Stéphanie Chuat, Véronique Reymond",
-          "aliases": [
-            "My Little Sister",
-            "Mi pequeña hermana"
-          ]
-        },
-        {
-          "title": "Siberia",
-          "director": "Abel Ferrara"
-        },
-        {
-          "title": "Todos os mortos",
-          "director": "Caetano Gotardo, Marco Dutra",
-          "aliases": [
-            "All the Dead Ones",
-            "Todos los muertos"
-          ]
-        },
-        {
-          "title": "El prófugo",
-          "director": "Natalia Meta",
-          "aliases": [
-            "The Intruder"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 2020,
-      "section": "Sección Oficial · Competición",
-      "films": [
-        {
-          "title": "Dasatskisi",
-          "director": "Dea Kulumbegashvili",
-          "aliases": [
-            "Beginning"
-          ],
-          "award": "Concha de Oro · Mejor dirección · Mejor actriz · Mejor guion"
-        },
-        {
-          "title": "Crock of Gold: A Few Rounds with Shane MacGowan",
-          "director": "Julien Temple",
-          "award": "Premio Especial del Jurado"
-        },
-        {
-          "title": "Druk",
-          "director": "Thomas Vinterberg",
-          "aliases": [
-            "Another Round",
-            "Otra ronda"
-          ],
-          "award": "Mejor actor"
-        },
-        {
-          "title": "Nakuko wa ineega",
-          "director": "Takuma Sato",
-          "aliases": [
-            "Any Crybabies Around?"
-          ],
-          "award": "Mejor fotografía"
-        },
-        {
-          "title": "Été 85",
-          "director": "François Ozon",
-          "aliases": [
-            "Summer of 85",
-            "Verano del 85"
-          ]
-        },
-        {
-          "title": "Akelarre",
-          "director": "Pablo Agüero"
-        },
-        {
-          "title": "Asa ga kuru",
-          "director": "Naomi Kawase",
-          "aliases": [
-            "True Mothers",
-            "Madres verdaderas"
-          ]
-        },
-        {
-          "title": "Courtroom 3H",
-          "director": "Antonio Méndez Esparza",
-          "aliases": [
-            "Sala del juzgado 3H"
-          ]
-        },
-        {
-          "title": "Nosotros nunca moriremos",
-          "director": "Eduardo Crespo",
-          "aliases": [
-            "We Will Never Die"
-          ]
-        },
-        {
-          "title": "Passion simple",
-          "director": "Danielle Arbid",
-          "aliases": [
-            "Pasión simple"
-          ]
-        },
-        {
-          "title": "Supernova",
-          "director": "Harry Macqueen"
-        },
-        {
-          "title": "Sutemose",
-          "director": "Šarūnas Bartas",
-          "aliases": [
-            "In the Dusk",
-            "En la oscuridad"
-          ]
-        },
-        {
-          "title": "Wuhai",
-          "director": "Zhou Ziyang"
         }
       ]
     },
@@ -1300,6 +1080,784 @@
           ],
           "wins": [],
           "award": "1 nominación"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 2020,
+      "section": "Sección Oficial · Competición",
+      "films": [
+        {
+          "title": "Dasatskisi",
+          "director": "Dea Kulumbegashvili",
+          "aliases": [
+            "Beginning"
+          ],
+          "award": "Concha de Oro · Mejor dirección · Mejor actriz · Mejor guion"
+        },
+        {
+          "title": "Crock of Gold: A Few Rounds with Shane MacGowan",
+          "director": "Julien Temple",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Druk",
+          "director": "Thomas Vinterberg",
+          "aliases": [
+            "Another Round",
+            "Otra ronda"
+          ],
+          "award": "Mejor actor"
+        },
+        {
+          "title": "Nakuko wa ineega",
+          "director": "Takuma Sato",
+          "aliases": [
+            "Any Crybabies Around?"
+          ],
+          "award": "Mejor fotografía"
+        },
+        {
+          "title": "Été 85",
+          "director": "François Ozon",
+          "aliases": [
+            "Summer of 85",
+            "Verano del 85"
+          ]
+        },
+        {
+          "title": "Akelarre",
+          "director": "Pablo Agüero"
+        },
+        {
+          "title": "Asa ga kuru",
+          "director": "Naomi Kawase",
+          "aliases": [
+            "True Mothers",
+            "Madres verdaderas"
+          ]
+        },
+        {
+          "title": "Courtroom 3H",
+          "director": "Antonio Méndez Esparza",
+          "aliases": [
+            "Sala del juzgado 3H"
+          ]
+        },
+        {
+          "title": "Nosotros nunca moriremos",
+          "director": "Eduardo Crespo",
+          "aliases": [
+            "We Will Never Die"
+          ]
+        },
+        {
+          "title": "Passion simple",
+          "director": "Danielle Arbid",
+          "aliases": [
+            "Pasión simple"
+          ]
+        },
+        {
+          "title": "Supernova",
+          "director": "Harry Macqueen"
+        },
+        {
+          "title": "Sutemose",
+          "director": "Šarūnas Bartas",
+          "aliases": [
+            "In the Dusk",
+            "En la oscuridad"
+          ]
+        },
+        {
+          "title": "Wuhai",
+          "director": "Zhou Ziyang"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 2020,
+      "section": "Venezia 77 · Competición",
+      "films": [
+        {
+          "title": "Nomadland",
+          "director": "Chloé Zhao",
+          "award": "León de Oro"
+        },
+        {
+          "title": "Səpələnmiş Ölümlər Arasında",
+          "director": "Hilal Baydarov",
+          "aliases": [
+            "In Between Dying"
+          ]
+        },
+        {
+          "title": "Le sorelle Macaluso",
+          "director": "Emma Dante",
+          "aliases": [
+            "The Macaluso Sisters",
+            "Las hermanas Macaluso"
+          ]
+        },
+        {
+          "title": "The World to Come",
+          "director": "Mona Fastvold",
+          "aliases": [
+            "El mundo que viene"
+          ]
+        },
+        {
+          "title": "Nuevo orden",
+          "director": "Michel Franco",
+          "award": "Gran Premio del Jurado"
+        },
+        {
+          "title": "Amants",
+          "director": "Nicole Garcia",
+          "aliases": [
+            "Lovers",
+            "Los amantes"
+          ]
+        },
+        {
+          "title": "Laila in Haifa",
+          "director": "Amos Gitai"
+        },
+        {
+          "title": "Und morgen die ganze Welt",
+          "director": "Julia von Heinz",
+          "aliases": [
+            "And Tomorrow the Entire World",
+            "Y mañana el mundo entero"
+          ]
+        },
+        {
+          "title": "Dorogie tovarishchi!",
+          "director": "Andrei Konchalovsky",
+          "aliases": [
+            "Dear Comrades!",
+            "Queridos camaradas"
+          ],
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Spy no tsuma",
+          "director": "Kiyoshi Kurosawa",
+          "aliases": [
+            "Wife of a Spy",
+            "La mujer del espía"
+          ],
+          "award": "Mejor dirección"
+        },
+        {
+          "title": "Khorshid",
+          "director": "Majid Majidi",
+          "aliases": [
+            "Sun Children",
+            "Hijos del sol"
+          ],
+          "award": "Premio Marcello Mastroianni"
+        },
+        {
+          "title": "Pieces of a Woman",
+          "director": "Kornél Mundruczó",
+          "aliases": [
+            "Fragmentos de una mujer"
+          ],
+          "award": "Mejor actriz"
+        },
+        {
+          "title": "Miss Marx",
+          "director": "Susanna Nicchiarelli"
+        },
+        {
+          "title": "Padrenostro",
+          "director": "Claudio Noce",
+          "award": "Mejor actor"
+        },
+        {
+          "title": "Notturno",
+          "director": "Gianfranco Rosi"
+        },
+        {
+          "title": "Śniegu już nigdy nie będzie",
+          "director": "Małgorzata Szumowska, Michał Englert",
+          "aliases": [
+            "Never Gonna Snow Again",
+            "Nunca volverá a nevar"
+          ]
+        },
+        {
+          "title": "The Disciple",
+          "director": "Chaitanya Tamhane",
+          "aliases": [
+            "El discípulo"
+          ],
+          "award": "Mejor guion"
+        },
+        {
+          "title": "Quo Vadis, Aida?",
+          "director": "Jasmila Žbanić"
+        }
+      ]
+    },
+    {
+      "festival": "Goya",
+      "year": 2020,
+      "section": "34.ª edición · películas de 2019",
+      "films": [
+        {
+          "title": "Dolor y gloria",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Dirección de fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Diseño de vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz de reparto",
+            "Montaje"
+          ],
+          "award": "Ganador · 7 Goyas"
+        },
+        {
+          "title": "Intemperie",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Guion adaptado",
+            "Canción original",
+            "Actor de reparto",
+            "Dirección de producción"
+          ],
+          "wins": [
+            "Guion adaptado",
+            "Canción original"
+          ],
+          "award": "Ganador · 2 Goyas"
+        },
+        {
+          "title": "La trinchera infinita",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actor revelación",
+            "Dirección de producción",
+            "Dirección de fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Diseño de vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actriz protagonista",
+            "Sonido"
+          ],
+          "award": "Ganador · 2 Goyas"
+        },
+        {
+          "title": "Lo que arde (O que arde)",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Actriz revelación",
+            "Dirección de fotografía"
+          ],
+          "wins": [
+            "Actriz revelación",
+            "Dirección de fotografía"
+          ],
+          "award": "Ganador · 2 Goyas"
+        },
+        {
+          "title": "Mientras dure la guerra",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Actor revelación",
+            "Actriz revelación",
+            "Dirección de producción",
+            "Dirección de fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Diseño de vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actor de reparto",
+            "Dirección de producción",
+            "Dirección artística",
+            "Diseño de vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "award": "Ganador · 5 Goyas"
+        },
+        {
+          "title": "Buñuel en el laberinto de las tortugas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Guion adaptado",
+            "Música original",
+            "Película de animación"
+          ],
+          "wins": [
+            "Película de animación"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "El hoyo (The Platform)",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Guion original",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Efectos especiales"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "La hija de un ladrón",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Actriz protagonista"
+          ],
+          "wins": [
+            "Dirección novel"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Ventajas de viajar en tren",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Guion adaptado",
+            "Dirección artística",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [],
+          "award": "Nominado · 4 candidaturas"
+        },
+        {
+          "title": "Madre",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado",
+            "Actriz protagonista",
+            "Montaje"
+          ],
+          "wins": [],
+          "award": "Nominado · 3 candidaturas"
+        },
+        {
+          "title": "Klaus",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Canción original",
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
+        },
+        {
+          "title": "La inocencia",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Canción original",
+            "Actriz revelación"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
+        },
+        {
+          "title": "La noche de las dos lunas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Canción original"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Quien a hierro mata",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor protagonista",
+            "Actor revelación",
+            "Sonido"
+          ],
+          "wins": [
+            "Actor revelación"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Adiós",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz de reparto",
+            "Actriz revelación"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
+        },
+        {
+          "title": "Diecisiete",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor revelación"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Paradise Hills",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Diseño de vestuario"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Perdiendo el Este",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Efectos especiales"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Elcano y Magallanes la primera vuelta al mundo",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Ara Malikian, una vida entre las cuerdas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": [
+            "Película documental"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Auterretrato",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "El cuadro",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Historias de nuestro cine",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Araña",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "El despertar de las hormigas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "La odisea de los giles",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": [
+            "Película iberoamericana"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Monos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película iberoamericana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Border",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Los miserables",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [
+            "Película europea"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Retrato de una mujer en llamas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Yesterday",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "El nadador",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Foreigner",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Maras",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Suc de Síndria",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Xiao Xian",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "2001 Destellos en la oscuridad",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "El infierno",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "El sueño europeo: Serbia",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Nuestra vida como niños refugiados en Europa",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "El árbol de las almas perdidas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Homomaquia",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
+        },
+        {
+          "title": "Madrid 2120",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "award": "Ganador · 1 Goya"
+        },
+        {
+          "title": "Muedra",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         }
       ]
     }

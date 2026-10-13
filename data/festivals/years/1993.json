@@ -1,5 +1,191 @@
 {
+  "year": 1993,
   "editions": [
+    {
+      "festival": "Berlín",
+      "year": 1993,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Arizona Dream",
+          "director": "Emir Kusturica",
+          "award": "Oso de Plata · Premio Especial del Jurado",
+          "aliases": [
+            "El sueño de Arizona"
+          ]
+        },
+        {
+          "title": "Belle Époque",
+          "director": "Fernando Trueba",
+          "award": "En competición"
+        },
+        {
+          "title": "Op afbetaling",
+          "director": "Frans Weisz",
+          "award": "En competición",
+          "aliases": [
+            "The Betrayed"
+          ]
+        },
+        {
+          "title": "The Cement Garden",
+          "director": "Andrew Birkin",
+          "award": "Oso de Plata · Mejor dirección",
+          "aliases": [
+            "El jardín de cemento"
+          ]
+        },
+        {
+          "title": "Patul conjugal",
+          "director": "Mircea Daneliuc",
+          "award": "En competición",
+          "aliases": [
+            "The Conjugal Bed"
+          ]
+        },
+        {
+          "title": "Diario di un vizio",
+          "director": "Marco Ferreri",
+          "award": "En competición",
+          "aliases": [
+            "Diary of a Maniac"
+          ]
+        },
+        {
+          "title": "Hoffa",
+          "director": "Danny DeVito",
+          "award": "En competición"
+        },
+        {
+          "title": "Le jeune Werther",
+          "director": "Jacques Doillon",
+          "award": "Blue Angel Award"
+        },
+        {
+          "title": "Die Denunziantin",
+          "director": "Thomas Mitscherlich",
+          "award": "En competición",
+          "aliases": [
+            "Just a Matter of Duty"
+          ]
+        },
+        {
+          "title": "Ha-Chayim Al-Pi Agfa",
+          "director": "Assi Dayan",
+          "award": "Mención honorífica",
+          "aliases": [
+            "Life According to Agfa"
+          ]
+        },
+        {
+          "title": "La Petite Apocalypse",
+          "director": "Costa-Gavras",
+          "award": "En competición",
+          "aliases": [
+            "The Little Apocalypse",
+            "La pequeña apocalipsis"
+          ]
+        },
+        {
+          "title": "Love Field",
+          "director": "Jonathan Kaplan",
+          "award": "Oso de Plata · Mejor actriz · Michelle Pfeiffer"
+        },
+        {
+          "title": "Malcolm X",
+          "director": "Spike Lee",
+          "award": "Oso de Plata · Mejor actor · Denzel Washington"
+        },
+        {
+          "title": "Wir können auch anders...",
+          "director": "Detlev Buck",
+          "award": "Mención honorífica",
+          "aliases": [
+            "No More Mr. Nice Guy"
+          ]
+        },
+        {
+          "title": "Kærlighedens smerte",
+          "director": "Nils Malmros",
+          "award": "En competición",
+          "aliases": [
+            "Pain of Love"
+          ]
+        },
+        {
+          "title": "Den russiske sangerinde",
+          "director": "Morten Arnfred",
+          "award": "En competición",
+          "aliases": [
+            "The Russian Singer"
+          ]
+        },
+        {
+          "title": "Samba Traoré",
+          "director": "Idrissa Ouedraogo",
+          "award": "Oso de Plata"
+        },
+        {
+          "title": "Sankofa",
+          "director": "Haile Gerima",
+          "award": "En competición"
+        },
+        {
+          "title": "Udzinarta mze",
+          "director": "Temur Babluani",
+          "award": "Oso de Plata · Contribución artística sobresaliente",
+          "aliases": [
+            "The Sun of the Sleepless"
+          ]
+        },
+        {
+          "title": "Telegrafisten",
+          "director": "Erik Gustavson",
+          "award": "En competición",
+          "aliases": [
+            "The Telegraphist"
+          ]
+        },
+        {
+          "title": "Toys",
+          "director": "Barry Levinson",
+          "award": "En competición"
+        },
+        {
+          "title": "Hsi Yen",
+          "director": "Ang Lee",
+          "award": "Oso de Oro (ex aequo)",
+          "aliases": [
+            "The Wedding Banquet",
+            "El banquete de boda"
+          ]
+        },
+        {
+          "title": "Hoppá",
+          "director": "Gyula Maár",
+          "award": "En competición",
+          "aliases": [
+            "Whoops"
+          ]
+        },
+        {
+          "title": "Xiang hun nü",
+          "director": "Xie Fei",
+          "award": "Oso de Oro (ex aequo)",
+          "aliases": [
+            "Woman Sesame Oil Maker"
+          ]
+        },
+        {
+          "title": "Yume no onna",
+          "director": "Bandō Tamasaburō V",
+          "award": "En competición",
+          "aliases": [
+            "Yearning"
+          ]
+        }
+      ]
+    },
     {
       "festival": "Cannes",
       "year": 1993,
@@ -332,439 +518,311 @@
       ]
     },
     {
-      "festival": "Venecia",
+      "festival": "Goya",
       "year": 1993,
-      "section": "Competición oficial",
+      "section": "7.ª edición · películas de 1992",
       "films": [
         {
-          "title": "Un, deux, trois, soleil",
-          "director": "Bertrand Blier",
-          "award": "Osella de Oro · Mejor música · Mejor actor de reparto · Marcello Mastroianni",
-          "aliases": [
-            "1, 2, 3, Sun"
-          ]
+          "title": "Belle époque",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Música original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actriz protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística"
+          ],
+          "award": "Ganador · 9 Goyas"
         },
         {
-          "title": "Hélas pour moi",
-          "director": "Jean-Luc Godard",
-          "award": "En competición",
-          "aliases": [
-            "Alas for Me"
-          ]
+          "title": "El maestro de esgrima",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Música original",
+            "Actriz protagonista",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Guion adaptado",
+            "Música original",
+            "Vestuario"
+          ],
+          "award": "Ganador · 3 Goyas"
         },
         {
-          "title": "Bad Boy Bubby",
-          "director": "Rolf de Heer",
-          "award": "Gran Premio Especial del Jurado"
+          "title": "Jamón, jamón",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "Nominado · 6 candidaturas"
         },
         {
-          "title": "Za zui zi",
-          "director": "Liu Miaomiao",
-          "award": "En competición",
-          "aliases": [
-            "Chatterbox"
-          ]
+          "title": "Acción mutante",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Dirección de producción",
+            "Montaje",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Dirección de producción",
+            "Maquillaje y peluquería",
+            "Efectos especiales"
+          ],
+          "award": "Ganador · 3 Goyas"
         },
         {
-          "title": "Rozmowa z człowiekiem z szafy",
-          "director": "Mariusz Grzegorzek",
-          "award": "En competición",
-          "aliases": [
-            "Conversation with a Cupboard Man"
-          ]
+          "title": "Sublet (Realquiler)",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Snake Eyes",
-          "director": "Abel Ferrara",
-          "award": "En competición",
-          "aliases": [
-            "Dangerous Game"
-          ]
+          "title": "Vacas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Guion original",
+            "Música original",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Dirección novel"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Even Cowgirls Get the Blues",
-          "director": "Gus Van Sant",
-          "award": "En competición"
+          "title": "El laberinto griego",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Aqui na Terra",
-          "director": "João Botelho",
-          "award": "En competición",
-          "aliases": [
-            "Here on Earth"
-          ]
+          "title": "Yo me bajo en la próxima ¿y usted?",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "De eso no se habla",
-          "director": "María Luisa Bemberg",
-          "award": "En competición",
-          "aliases": [
-            "I Don't Want to Talk About It"
-          ]
+          "title": "La marrana",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor protagonista",
+            "Fotografía"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Kosh ba kosh",
-          "director": "Bakhtyar Khudojnazarov",
-          "award": "León de Plata"
+          "title": "Orquesta Club Virginia",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor de reparto",
+            "Sonido"
+          ],
+          "wins": [
+            "Sonido"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "La prossima volta il fuoco",
-          "director": "Fabio Carpi",
-          "award": "En competición",
-          "aliases": [
-            "Next Time the Fire"
-          ]
+          "title": "Demasiado corazón",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz de reparto",
+            "Efectos especiales"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "¡Dispara!",
-          "director": "Carlos Saura",
-          "award": "En competición",
-          "aliases": [
-            "Outrage!"
-          ]
+          "title": "La reina anónima",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Vestuario"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "L'ombre du doute",
-          "director": "Aline Issermann",
-          "award": "En competición",
-          "aliases": [
-            "Shadow of a Doubt"
-          ]
+          "title": "Agenda oculta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Short Cuts",
-          "director": "Robert Altman",
-          "award": "León de Oro (ex aequo) · Copa Volpi · Reparto",
-          "aliases": [
-            "Vidas cruzadas"
-          ]
+          "title": "Indochina",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [
+            "Película europea"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Un'anima divisa in due",
-          "director": "Silvio Soldini",
-          "award": "Copa Volpi · Mejor actor · Fabrizio Bentivoglio",
-          "aliases": [
-            "A Soul Split in Two"
-          ]
+          "title": "Riff-Raff",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "You Seng",
-          "director": "Clara Law",
-          "award": "En competición",
-          "aliases": [
-            "Temptation of a Monk"
-          ]
+          "title": "El columpio",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Trois couleurs: Bleu",
-          "director": "Krzysztof Kieślowski",
-          "award": "León de Oro (ex aequo) · Copa Volpi · Mejor actriz · Juliette Binoche · Osella · Fotografía",
-          "aliases": [
-            "Three Colours: Blue",
-            "Tres colores: Azul"
-          ]
+          "title": "Huntza",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Dove siete? Io sono qui",
-          "director": "Liliana Cavani",
-          "award": "Copa Volpi · Mejor actriz de reparto · Anna Bonaiuto",
-          "aliases": [
-            "Where Are You? I'm Here"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 1993,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Arizona Dream",
-          "director": "Emir Kusturica",
-          "award": "Oso de Plata · Premio Especial del Jurado",
-          "aliases": [
-            "El sueño de Arizona"
-          ]
+          "title": "Oro en la pared",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Belle Époque",
-          "director": "Fernando Trueba",
-          "award": "En competición"
+          "title": "Manualidades",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Op afbetaling",
-          "director": "Frans Weisz",
-          "award": "En competición",
-          "aliases": [
-            "The Betrayed"
-          ]
+          "title": "Primer acorde",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "The Cement Garden",
-          "director": "Andrew Birkin",
-          "award": "Oso de Plata · Mejor dirección",
-          "aliases": [
-            "El jardín de cemento"
-          ]
+          "title": "Como agua para chocolate",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Patul conjugal",
-          "director": "Mircea Daneliuc",
-          "award": "En competición",
-          "aliases": [
-            "The Conjugal Bed"
-          ]
+          "title": "Disparen a matar",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Diario di un vizio",
-          "director": "Marco Ferreri",
-          "award": "En competición",
-          "aliases": [
-            "Diary of a Maniac"
-          ]
-        },
-        {
-          "title": "Hoffa",
-          "director": "Danny DeVito",
-          "award": "En competición"
-        },
-        {
-          "title": "Le jeune Werther",
-          "director": "Jacques Doillon",
-          "award": "Blue Angel Award"
-        },
-        {
-          "title": "Die Denunziantin",
-          "director": "Thomas Mitscherlich",
-          "award": "En competición",
-          "aliases": [
-            "Just a Matter of Duty"
-          ]
-        },
-        {
-          "title": "Ha-Chayim Al-Pi Agfa",
-          "director": "Assi Dayan",
-          "award": "Mención honorífica",
-          "aliases": [
-            "Life According to Agfa"
-          ]
-        },
-        {
-          "title": "La Petite Apocalypse",
-          "director": "Costa-Gavras",
-          "award": "En competición",
-          "aliases": [
-            "The Little Apocalypse",
-            "La pequeña apocalipsis"
-          ]
-        },
-        {
-          "title": "Love Field",
-          "director": "Jonathan Kaplan",
-          "award": "Oso de Plata · Mejor actriz · Michelle Pfeiffer"
-        },
-        {
-          "title": "Malcolm X",
-          "director": "Spike Lee",
-          "award": "Oso de Plata · Mejor actor · Denzel Washington"
-        },
-        {
-          "title": "Wir können auch anders...",
-          "director": "Detlev Buck",
-          "award": "Mención honorífica",
-          "aliases": [
-            "No More Mr. Nice Guy"
-          ]
-        },
-        {
-          "title": "Kærlighedens smerte",
-          "director": "Nils Malmros",
-          "award": "En competición",
-          "aliases": [
-            "Pain of Love"
-          ]
-        },
-        {
-          "title": "Den russiske sangerinde",
-          "director": "Morten Arnfred",
-          "award": "En competición",
-          "aliases": [
-            "The Russian Singer"
-          ]
-        },
-        {
-          "title": "Samba Traoré",
-          "director": "Idrissa Ouedraogo",
-          "award": "Oso de Plata"
-        },
-        {
-          "title": "Sankofa",
-          "director": "Haile Gerima",
-          "award": "En competición"
-        },
-        {
-          "title": "Udzinarta mze",
-          "director": "Temur Babluani",
-          "award": "Oso de Plata · Contribución artística sobresaliente",
-          "aliases": [
-            "The Sun of the Sleepless"
-          ]
-        },
-        {
-          "title": "Telegrafisten",
-          "director": "Erik Gustavson",
-          "award": "En competición",
-          "aliases": [
-            "The Telegraphist"
-          ]
-        },
-        {
-          "title": "Toys",
-          "director": "Barry Levinson",
-          "award": "En competición"
-        },
-        {
-          "title": "Hsi Yen",
-          "director": "Ang Lee",
-          "award": "Oso de Oro (ex aequo)",
-          "aliases": [
-            "The Wedding Banquet",
-            "El banquete de boda"
-          ]
-        },
-        {
-          "title": "Hoppá",
-          "director": "Gyula Maár",
-          "award": "En competición",
-          "aliases": [
-            "Whoops"
-          ]
-        },
-        {
-          "title": "Xiang hun nü",
-          "director": "Xie Fei",
-          "award": "Oso de Oro (ex aequo)",
-          "aliases": [
-            "Woman Sesame Oil Maker"
-          ]
-        },
-        {
-          "title": "Yume no onna",
-          "director": "Bandō Tamasaburō V",
-          "award": "En competición",
-          "aliases": [
-            "Yearning"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1993,
-      "section": "Sección Oficial · competición",
-      "films": [
-        {
-          "title": "Dollar Mambo",
-          "director": "Paul Leduc",
-          "award": "En competición"
-        },
-        {
-          "title": "Dunkle Schatten der Angst",
-          "director": "Konstantin Schmidt",
-          "award": "En competición",
-          "aliases": [
-            "Dark Shadows of Fear"
-          ]
-        },
-        {
-          "title": "El aliento del diablo",
-          "director": "Paco Lucio",
-          "award": "Mención especial del Jurado",
-          "aliases": [
-            "The Devil's Breath"
-          ]
-        },
-        {
-          "title": "Fényérzékeny történet",
-          "director": "Pál Erdőss",
-          "award": "En competición",
-          "aliases": [
-            "A Light-Sensitive Story"
-          ]
-        },
-        {
-          "title": "Huevos de oro",
-          "director": "Bigas Luna",
-          "award": "Premio Especial del Jurado",
-          "aliases": [
-            "Golden Balls"
-          ]
-        },
-        {
-          "title": "Just Friends",
-          "director": "Marc-Henri Wajnberg",
-          "award": "En competición"
-        },
-        {
-          "title": "Madregilda",
-          "director": "Francisco Regueiro",
-          "award": "Concha de Plata · Mejor actor · Juan Echanove"
-        },
-        {
-          "title": "Manhattan by Numbers",
-          "director": "Amir Naderi",
-          "award": "En competición"
-        },
-        {
-          "title": "Pamietnik znaleziony w garbie",
-          "director": "Jan Kidawa-Błoński",
-          "award": "En competición",
-          "aliases": [
-            "Diary in a Marble"
-          ]
-        },
-        {
-          "title": "Principio y fin",
-          "director": "Arturo Ripstein",
-          "award": "Concha de Oro (ex aequo)",
-          "aliases": [
-            "The Beginning and the End"
-          ]
-        },
-        {
-          "title": "Sara",
-          "director": "Dariush Mehrjui",
-          "award": "Concha de Oro (ex aequo) · Concha de Plata · Mejor actriz · Niki Karimi"
-        },
-        {
-          "title": "Tafelspitz",
-          "director": "Xaver Schwarzenberger",
-          "award": "En competición",
-          "aliases": [
-            "A Touch of Spice"
-          ]
-        },
-        {
-          "title": "The Harvest",
-          "director": "David Marconi",
-          "award": "En competición"
-        },
-        {
-          "title": "Tombés du ciel",
-          "director": "Philippe Lioret",
-          "award": "Concha de Plata · Mejor director",
-          "aliases": [
-            "In Transit"
-          ]
-        },
-        {
-          "title": "Yueh kuang shao nien",
-          "director": "Yu Wei-yen",
-          "award": "En competición",
-          "aliases": [
-            "Moonlight Boy"
-          ]
+          "title": "Un lugar en el mundo",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ],
+          "award": "Ganador · 1 Goya"
         }
       ]
     },
@@ -1372,6 +1430,258 @@
           ],
           "wins": [],
           "award": "Nominación · Corto documental"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1993,
+      "section": "Sección Oficial · competición",
+      "films": [
+        {
+          "title": "Dollar Mambo",
+          "director": "Paul Leduc",
+          "award": "En competición"
+        },
+        {
+          "title": "Dunkle Schatten der Angst",
+          "director": "Konstantin Schmidt",
+          "award": "En competición",
+          "aliases": [
+            "Dark Shadows of Fear"
+          ]
+        },
+        {
+          "title": "El aliento del diablo",
+          "director": "Paco Lucio",
+          "award": "Mención especial del Jurado",
+          "aliases": [
+            "The Devil's Breath"
+          ]
+        },
+        {
+          "title": "Fényérzékeny történet",
+          "director": "Pál Erdőss",
+          "award": "En competición",
+          "aliases": [
+            "A Light-Sensitive Story"
+          ]
+        },
+        {
+          "title": "Huevos de oro",
+          "director": "Bigas Luna",
+          "award": "Premio Especial del Jurado",
+          "aliases": [
+            "Golden Balls"
+          ]
+        },
+        {
+          "title": "Just Friends",
+          "director": "Marc-Henri Wajnberg",
+          "award": "En competición"
+        },
+        {
+          "title": "Madregilda",
+          "director": "Francisco Regueiro",
+          "award": "Concha de Plata · Mejor actor · Juan Echanove"
+        },
+        {
+          "title": "Manhattan by Numbers",
+          "director": "Amir Naderi",
+          "award": "En competición"
+        },
+        {
+          "title": "Pamietnik znaleziony w garbie",
+          "director": "Jan Kidawa-Błoński",
+          "award": "En competición",
+          "aliases": [
+            "Diary in a Marble"
+          ]
+        },
+        {
+          "title": "Principio y fin",
+          "director": "Arturo Ripstein",
+          "award": "Concha de Oro (ex aequo)",
+          "aliases": [
+            "The Beginning and the End"
+          ]
+        },
+        {
+          "title": "Sara",
+          "director": "Dariush Mehrjui",
+          "award": "Concha de Oro (ex aequo) · Concha de Plata · Mejor actriz · Niki Karimi"
+        },
+        {
+          "title": "Tafelspitz",
+          "director": "Xaver Schwarzenberger",
+          "award": "En competición",
+          "aliases": [
+            "A Touch of Spice"
+          ]
+        },
+        {
+          "title": "The Harvest",
+          "director": "David Marconi",
+          "award": "En competición"
+        },
+        {
+          "title": "Tombés du ciel",
+          "director": "Philippe Lioret",
+          "award": "Concha de Plata · Mejor director",
+          "aliases": [
+            "In Transit"
+          ]
+        },
+        {
+          "title": "Yueh kuang shao nien",
+          "director": "Yu Wei-yen",
+          "award": "En competición",
+          "aliases": [
+            "Moonlight Boy"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1993,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Un, deux, trois, soleil",
+          "director": "Bertrand Blier",
+          "award": "Osella de Oro · Mejor música · Mejor actor de reparto · Marcello Mastroianni",
+          "aliases": [
+            "1, 2, 3, Sun"
+          ]
+        },
+        {
+          "title": "Hélas pour moi",
+          "director": "Jean-Luc Godard",
+          "award": "En competición",
+          "aliases": [
+            "Alas for Me"
+          ]
+        },
+        {
+          "title": "Bad Boy Bubby",
+          "director": "Rolf de Heer",
+          "award": "Gran Premio Especial del Jurado"
+        },
+        {
+          "title": "Za zui zi",
+          "director": "Liu Miaomiao",
+          "award": "En competición",
+          "aliases": [
+            "Chatterbox"
+          ]
+        },
+        {
+          "title": "Rozmowa z człowiekiem z szafy",
+          "director": "Mariusz Grzegorzek",
+          "award": "En competición",
+          "aliases": [
+            "Conversation with a Cupboard Man"
+          ]
+        },
+        {
+          "title": "Snake Eyes",
+          "director": "Abel Ferrara",
+          "award": "En competición",
+          "aliases": [
+            "Dangerous Game"
+          ]
+        },
+        {
+          "title": "Even Cowgirls Get the Blues",
+          "director": "Gus Van Sant",
+          "award": "En competición"
+        },
+        {
+          "title": "Aqui na Terra",
+          "director": "João Botelho",
+          "award": "En competición",
+          "aliases": [
+            "Here on Earth"
+          ]
+        },
+        {
+          "title": "De eso no se habla",
+          "director": "María Luisa Bemberg",
+          "award": "En competición",
+          "aliases": [
+            "I Don't Want to Talk About It"
+          ]
+        },
+        {
+          "title": "Kosh ba kosh",
+          "director": "Bakhtyar Khudojnazarov",
+          "award": "León de Plata"
+        },
+        {
+          "title": "La prossima volta il fuoco",
+          "director": "Fabio Carpi",
+          "award": "En competición",
+          "aliases": [
+            "Next Time the Fire"
+          ]
+        },
+        {
+          "title": "¡Dispara!",
+          "director": "Carlos Saura",
+          "award": "En competición",
+          "aliases": [
+            "Outrage!"
+          ]
+        },
+        {
+          "title": "L'ombre du doute",
+          "director": "Aline Issermann",
+          "award": "En competición",
+          "aliases": [
+            "Shadow of a Doubt"
+          ]
+        },
+        {
+          "title": "Short Cuts",
+          "director": "Robert Altman",
+          "award": "León de Oro (ex aequo) · Copa Volpi · Reparto",
+          "aliases": [
+            "Vidas cruzadas"
+          ]
+        },
+        {
+          "title": "Un'anima divisa in due",
+          "director": "Silvio Soldini",
+          "award": "Copa Volpi · Mejor actor · Fabrizio Bentivoglio",
+          "aliases": [
+            "A Soul Split in Two"
+          ]
+        },
+        {
+          "title": "You Seng",
+          "director": "Clara Law",
+          "award": "En competición",
+          "aliases": [
+            "Temptation of a Monk"
+          ]
+        },
+        {
+          "title": "Trois couleurs: Bleu",
+          "director": "Krzysztof Kieślowski",
+          "award": "León de Oro (ex aequo) · Copa Volpi · Mejor actriz · Juliette Binoche · Osella · Fotografía",
+          "aliases": [
+            "Three Colours: Blue",
+            "Tres colores: Azul"
+          ]
+        },
+        {
+          "title": "Dove siete? Io sono qui",
+          "director": "Liliana Cavani",
+          "award": "Copa Volpi · Mejor actriz de reparto · Anna Bonaiuto",
+          "aliases": [
+            "Where Are You? I'm Here"
+          ]
         }
       ]
     }

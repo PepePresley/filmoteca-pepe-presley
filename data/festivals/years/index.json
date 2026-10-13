@@ -1,164 +1,1613 @@
 {
-  "years": [
-    {
-      "year": 1989,
-      "festivals": [
-        "Cannes",
-        "Berlín",
-        "Venecia",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1990,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1991,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1992,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1993,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1994,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1995,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1996,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1997,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 1998,
-      "festivals": [
-        "Oscar",
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián"
-      ]
-    },
-    {
-      "year": 1999,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "San Sebastián",
-        "Oscar",
-        "Berlín"
-      ]
-    },
-    {
-      "year": 2020,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 2021,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 2022,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 2023,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    },
-    {
-      "year": 2024,
-      "festivals": [
-        "Cannes",
-        "Venecia",
-        "Berlín",
-        "San Sebastián",
-        "Oscar"
-      ]
-    }
+  "schemaVersion": 1,
+  "metadata": {
+    "version": 54
+  },
+  "editionOrder": [
+    [
+      "Berlín",
+      1984,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1984,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1984,
+      "Un Certain Regard"
+    ],
+    [
+      "Venecia",
+      1984,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      1984,
+      "Sección Oficial"
+    ],
+    [
+      "Oscar",
+      1984,
+      "56.ª edición · películas de 1983"
+    ],
+    [
+      "BAFTA",
+      1984,
+      "Premios de cine"
+    ],
+    [
+      "Berlín",
+      1985,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1985,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1985,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      1985,
+      "57.ª edición · películas de 1984"
+    ],
+    [
+      "San Sebastián",
+      1985,
+      "Sección Oficial"
+    ],
+    [
+      "Venecia",
+      1985,
+      "Competición oficial"
+    ],
+    [
+      "BAFTA",
+      1985,
+      "Premios de cine"
+    ],
+    [
+      "Berlín",
+      1986,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1986,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1986,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      1986,
+      "58.ª edición · películas de 1985"
+    ],
+    [
+      "San Sebastián",
+      1986,
+      "Sección Oficial"
+    ],
+    [
+      "Venecia",
+      1986,
+      "Competición oficial"
+    ],
+    [
+      "BAFTA",
+      1986,
+      "Premios de cine"
+    ],
+    [
+      "Berlín",
+      1987,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1987,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1987,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1987,
+      "1.ª edición · películas de 1986"
+    ],
+    [
+      "Oscar",
+      1987,
+      "59.ª edición · películas de 1986"
+    ],
+    [
+      "San Sebastián",
+      1987,
+      "Sección Oficial"
+    ],
+    [
+      "Venecia",
+      1987,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1988,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1988,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1988,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1988,
+      "2.ª edición · películas de 1987"
+    ],
+    [
+      "Oscar",
+      1988,
+      "60.ª edición · películas de 1987"
+    ],
+    [
+      "San Sebastián",
+      1988,
+      "Sección Oficial"
+    ],
+    [
+      "Venecia",
+      1988,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1989,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1989,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1989,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1989,
+      "3.ª edición · películas de 1988"
+    ],
+    [
+      "Oscar",
+      1989,
+      "61.ª edición · películas de 1988"
+    ],
+    [
+      "San Sebastián",
+      1989,
+      "Sección Oficial"
+    ],
+    [
+      "Venecia",
+      1989,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1990,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1990,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1990,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1990,
+      "4.ª edición · películas de 1989"
+    ],
+    [
+      "Oscar",
+      1990,
+      "62.ª edición · películas de 1989"
+    ],
+    [
+      "San Sebastián",
+      1990,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1990,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1991,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1991,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1991,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1991,
+      "5.ª edición · películas de 1990"
+    ],
+    [
+      "Oscar",
+      1991,
+      "63.ª edición · películas de 1990"
+    ],
+    [
+      "San Sebastián",
+      1991,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1991,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1992,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1992,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1992,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1992,
+      "6.ª edición · películas de 1991"
+    ],
+    [
+      "Oscar",
+      1992,
+      "64.ª edición · películas de 1991"
+    ],
+    [
+      "San Sebastián",
+      1992,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1992,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1993,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1993,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1993,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1993,
+      "7.ª edición · películas de 1992"
+    ],
+    [
+      "Oscar",
+      1993,
+      "65.ª edición · películas de 1992"
+    ],
+    [
+      "San Sebastián",
+      1993,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1993,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1994,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1994,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1994,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1994,
+      "8.ª edición · películas de 1993"
+    ],
+    [
+      "Oscar",
+      1994,
+      "66.ª edición · películas de 1993"
+    ],
+    [
+      "San Sebastián",
+      1994,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1994,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1995,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1995,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1995,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1995,
+      "9.ª edición · películas de 1994"
+    ],
+    [
+      "Oscar",
+      1995,
+      "67.ª edición · películas de 1994"
+    ],
+    [
+      "San Sebastián",
+      1995,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1995,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1996,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1996,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1996,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1996,
+      "10.ª edición · películas de 1995"
+    ],
+    [
+      "Oscar",
+      1996,
+      "68.ª edición · películas de 1995"
+    ],
+    [
+      "San Sebastián",
+      1996,
+      "Sección Oficial · a concurso"
+    ],
+    [
+      "Venecia",
+      1996,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1997,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1997,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1997,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1997,
+      "11.ª edición · películas de 1996"
+    ],
+    [
+      "Oscar",
+      1997,
+      "69.ª edición · películas de 1996"
+    ],
+    [
+      "San Sebastián",
+      1997,
+      "Sección Oficial · a concurso"
+    ],
+    [
+      "Venecia",
+      1997,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1998,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1998,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1998,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1998,
+      "12.ª edición · películas de 1997"
+    ],
+    [
+      "Oscar",
+      1998,
+      "70.ª edición · películas de 1997"
+    ],
+    [
+      "San Sebastián",
+      1998,
+      "Sección Oficial · a concurso"
+    ],
+    [
+      "Venecia",
+      1998,
+      "Competición oficial"
+    ],
+    [
+      "Berlín",
+      1999,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1999,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      1999,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      1999,
+      "13.ª edición · películas de 1998"
+    ],
+    [
+      "Oscar",
+      1999,
+      "71.ª edición · películas de 1998"
+    ],
+    [
+      "San Sebastián",
+      1999,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      1999,
+      "Competición oficial"
+    ],
+    [
+      "Goya",
+      2000,
+      "14.ª edición · películas de 1999"
+    ],
+    [
+      "San Sebastián",
+      2000,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Cannes",
+      2000,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2000,
+      "Un Certain Regard"
+    ],
+    [
+      "Berlín",
+      2000,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2000,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2000,
+      "72.ª edición · películas de 1999"
+    ],
+    [
+      "BAFTA",
+      2000,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2001,
+      "15.ª edición · películas de 2000"
+    ],
+    [
+      "Cannes",
+      2001,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2001,
+      "Un Certain Regard"
+    ],
+    [
+      "Berlín",
+      2001,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2001,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Venecia",
+      2001,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2001,
+      "73.ª edición · películas de 2000"
+    ],
+    [
+      "BAFTA",
+      2001,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2002,
+      "16.ª edición · películas de 2001"
+    ],
+    [
+      "Cannes",
+      2002,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2002,
+      "Un Certain Regard"
+    ],
+    [
+      "Berlín",
+      2002,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2002,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2002,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Oscar",
+      2002,
+      "74.ª edición · películas de 2001"
+    ],
+    [
+      "BAFTA",
+      2002,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2003,
+      "17.ª edición · películas de 2002"
+    ],
+    [
+      "Cannes",
+      2003,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2003,
+      "Un Certain Regard"
+    ],
+    [
+      "Berlín",
+      2003,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2003,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2003,
+      "Sección Oficial · competición"
+    ],
+    [
+      "Oscar",
+      2003,
+      "75.ª edición · películas de 2002"
+    ],
+    [
+      "BAFTA",
+      2003,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2004,
+      "18.ª edición · películas de 2003"
+    ],
+    [
+      "Goya",
+      2005,
+      "19.ª edición · películas de 2004"
+    ],
+    [
+      "Goya",
+      2006,
+      "20.ª edición · películas de 2005"
+    ],
+    [
+      "Goya",
+      2007,
+      "21.ª edición · películas de 2006"
+    ],
+    [
+      "Goya",
+      2008,
+      "22.ª edición · películas de 2007"
+    ],
+    [
+      "Goya",
+      2009,
+      "23.ª edición · películas de 2008"
+    ],
+    [
+      "Goya",
+      2010,
+      "24.ª edición · películas de 2009"
+    ],
+    [
+      "Goya",
+      2011,
+      "25.ª edición · películas de 2010"
+    ],
+    [
+      "Goya",
+      2012,
+      "26.ª edición · películas de 2011"
+    ],
+    [
+      "Goya",
+      2013,
+      "27.ª edición · películas de 2012"
+    ],
+    [
+      "Goya",
+      2014,
+      "28.ª edición · películas de 2013"
+    ],
+    [
+      "Goya",
+      2015,
+      "29.ª edición · películas de 2014"
+    ],
+    [
+      "Berlín",
+      2016,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2016,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2016,
+      "Un Certain Regard"
+    ],
+    [
+      "Venecia",
+      2016,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2016,
+      "Sección Oficial"
+    ],
+    [
+      "Oscar",
+      2016,
+      "88.ª edición · películas de 2015"
+    ],
+    [
+      "BAFTA",
+      2016,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2016,
+      "30.ª edición · películas de 2015"
+    ],
+    [
+      "Goya",
+      2017,
+      "31.ª edición · películas de 2016"
+    ],
+    [
+      "Berlín",
+      2017,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2017,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2017,
+      "Un Certain Regard"
+    ],
+    [
+      "Venecia",
+      2017,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2017,
+      "Sección Oficial"
+    ],
+    [
+      "Oscar",
+      2017,
+      "89.ª edición · películas de 2016"
+    ],
+    [
+      "BAFTA",
+      2017,
+      "Premios de cine"
+    ],
+    [
+      "Berlín",
+      2018,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2018,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2018,
+      "Un Certain Regard"
+    ],
+    [
+      "Venecia",
+      2018,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2018,
+      "Sección Oficial"
+    ],
+    [
+      "Oscar",
+      2018,
+      "90.ª edición · películas de 2017"
+    ],
+    [
+      "BAFTA",
+      2018,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2018,
+      "32.ª edición · películas de 2017"
+    ],
+    [
+      "Berlín",
+      2019,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2019,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2019,
+      "Un Certain Regard"
+    ],
+    [
+      "Venecia",
+      2019,
+      "Competición oficial"
+    ],
+    [
+      "San Sebastián",
+      2019,
+      "Sección Oficial"
+    ],
+    [
+      "Oscar",
+      2019,
+      "91.ª edición · películas de 2018"
+    ],
+    [
+      "BAFTA",
+      2019,
+      "Premios de cine"
+    ],
+    [
+      "Goya",
+      2019,
+      "33.ª edición · películas de 2018"
+    ],
+    [
+      "Berlín",
+      2020,
+      "Competición"
+    ],
+    [
+      "Cannes",
+      2020,
+      "Selección Oficial 2020 · edición cancelada por la pandemia"
+    ],
+    [
+      "Oscar",
+      2020,
+      "92.ª edición · películas de 2019"
+    ],
+    [
+      "San Sebastián",
+      2020,
+      "Sección Oficial · Competición"
+    ],
+    [
+      "Venecia",
+      2020,
+      "Venezia 77 · Competición"
+    ],
+    [
+      "Goya",
+      2020,
+      "34.ª edición · películas de 2019"
+    ],
+    [
+      "Berlín",
+      2021,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2021,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2021,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      2021,
+      "Premios de la Academia"
+    ],
+    [
+      "San Sebastián",
+      2021,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2021,
+      "Competición oficial"
+    ],
+    [
+      "Goya",
+      2021,
+      "35.ª edición · películas de 2020"
+    ],
+    [
+      "Berlín",
+      2022,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2022,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2022,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      2022,
+      "Premios de la Academia"
+    ],
+    [
+      "San Sebastián",
+      2022,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2022,
+      "Competición oficial"
+    ],
+    [
+      "Goya",
+      2022,
+      "36.ª edición · películas de 2021"
+    ],
+    [
+      "Berlín",
+      2023,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2023,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2023,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      2023,
+      "Premios de la Academia"
+    ],
+    [
+      "San Sebastián",
+      2023,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2023,
+      "Competición oficial"
+    ],
+    [
+      "Goya",
+      2023,
+      "37.ª edición · películas de 2022"
+    ],
+    [
+      "Berlín",
+      2024,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2024,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2024,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      2024,
+      "Premios de la Academia"
+    ],
+    [
+      "San Sebastián",
+      2024,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2024,
+      "Competición oficial"
+    ],
+    [
+      "Goya",
+      2024,
+      "38.ª edición · películas de 2023"
+    ],
+    [
+      "Berlín",
+      2025,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2025,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2025,
+      "Un Certain Regard"
+    ],
+    [
+      "Goya",
+      2025,
+      "39.ª edición · películas de 2024"
+    ],
+    [
+      "Oscar",
+      2025,
+      "Premios de la Academia"
+    ],
+    [
+      "San Sebastián",
+      2025,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2025,
+      "Competición oficial"
+    ],
+    [
+      "Goya",
+      2026,
+      "40.ª edición · películas de 2025"
+    ],
+    [
+      "Berlín",
+      2026,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2026,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2026,
+      "Un Certain Regard"
+    ],
+    [
+      "Oscar",
+      2026,
+      "Premios de la Academia"
+    ],
+    [
+      "San Sebastián",
+      2026,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2026,
+      "Competición oficial"
+    ],
+    [
+      "BAFTA",
+      2026,
+      "Premios de cine"
+    ],
+    [
+      "Cannes",
+      2004,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2004,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2004,
+      "Sección oficial · competición"
+    ],
+    [
+      "Berlín",
+      2004,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2004,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2004,
+      "76.ª edición · películas de 2003"
+    ],
+    [
+      "BAFTA",
+      2004,
+      "Premios de cine · películas de 2003"
+    ],
+    [
+      "Cannes",
+      2005,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2005,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2005,
+      "Sección oficial · competición"
+    ],
+    [
+      "Berlín",
+      2005,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2005,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2005,
+      "77.ª edición · películas de 2004"
+    ],
+    [
+      "BAFTA",
+      2005,
+      "Premios de cine · películas de 2004"
+    ],
+    [
+      "Cannes",
+      2006,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2006,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2006,
+      "Sección oficial · competición"
+    ],
+    [
+      "Berlín",
+      2006,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2006,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2006,
+      "78.ª edición · películas de 2005"
+    ],
+    [
+      "BAFTA",
+      2006,
+      "Premios de cine · películas de 2005"
+    ],
+    [
+      "Cannes",
+      2007,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2007,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2007,
+      "Sección oficial · competición"
+    ],
+    [
+      "Berlín",
+      2007,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2007,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2007,
+      "79.ª edición · películas de 2006"
+    ],
+    [
+      "BAFTA",
+      2007,
+      "Premios de cine · películas de 2006"
+    ],
+    [
+      "Cannes",
+      2008,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2008,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2008,
+      "Sección oficial · competición"
+    ],
+    [
+      "Berlín",
+      2008,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2008,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2008,
+      "80.ª edición · películas de 2007"
+    ],
+    [
+      "BAFTA",
+      2008,
+      "Premios de cine · películas de 2007"
+    ],
+    [
+      "Cannes",
+      2009,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2009,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2009,
+      "Sección oficial · competición"
+    ],
+    [
+      "Berlín",
+      2009,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2009,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2009,
+      "81.ª edición · películas de 2008"
+    ],
+    [
+      "BAFTA",
+      2009,
+      "Premios de cine · películas de 2008"
+    ],
+    [
+      "Cannes",
+      2010,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2010,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2010,
+      "Sección oficial · competición y fuera de concurso"
+    ],
+    [
+      "Berlín",
+      2010,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2010,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2010,
+      "82.ª edición · películas de 2009"
+    ],
+    [
+      "BAFTA",
+      2010,
+      "Premios de cine · películas de 2009"
+    ],
+    [
+      "Cannes",
+      2011,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2011,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2011,
+      "Sección oficial · competición y fuera de concurso"
+    ],
+    [
+      "Berlín",
+      2011,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2011,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2011,
+      "83.ª edición · películas de 2010"
+    ],
+    [
+      "BAFTA",
+      2011,
+      "Premios de cine · películas de 2010"
+    ],
+    [
+      "Cannes",
+      2012,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2012,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2012,
+      "Sección oficial · competición y fuera de concurso"
+    ],
+    [
+      "Berlín",
+      2012,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2012,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2012,
+      "84.ª edición · películas de 2011"
+    ],
+    [
+      "BAFTA",
+      2012,
+      "Premios de cine · películas de 2011"
+    ],
+    [
+      "Cannes",
+      2013,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2013,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2013,
+      "Sección oficial · competición y fuera de concurso"
+    ],
+    [
+      "Berlín",
+      2013,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2013,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2013,
+      "85.ª edición · películas de 2012"
+    ],
+    [
+      "BAFTA",
+      2013,
+      "Premios de cine · películas de 2012"
+    ],
+    [
+      "Cannes",
+      2014,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2014,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2014,
+      "Sección oficial · competición y fuera de concurso"
+    ],
+    [
+      "Berlín",
+      2014,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2014,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2014,
+      "86.ª edición · películas de 2013"
+    ],
+    [
+      "BAFTA",
+      2014,
+      "Premios de cine · películas de 2013"
+    ],
+    [
+      "Cannes",
+      2015,
+      "Competición oficial"
+    ],
+    [
+      "Cannes",
+      2015,
+      "Un Certain Regard"
+    ],
+    [
+      "San Sebastián",
+      2015,
+      "Sección oficial · competición y fuera de concurso"
+    ],
+    [
+      "Berlín",
+      2015,
+      "Competición oficial"
+    ],
+    [
+      "Venecia",
+      2015,
+      "Competición oficial"
+    ],
+    [
+      "Oscar",
+      2015,
+      "87.ª edición · películas de 2014"
+    ],
+    [
+      "BAFTA",
+      2015,
+      "Premios de cine · películas de 2014"
+    ]
   ]
 }

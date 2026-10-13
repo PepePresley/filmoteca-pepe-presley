@@ -1,5 +1,197 @@
 {
+  "year": 1992,
   "editions": [
+    {
+      "festival": "Berlín",
+      "year": 1992,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Rcheuli",
+          "director": "Mikheil Kalatozishvili",
+          "award": "En competición",
+          "aliases": [
+            "The Beloved"
+          ]
+        },
+        {
+          "title": "Samostoiatelnaya zhizn",
+          "director": "Vitali Kanevsky",
+          "award": "En competición",
+          "aliases": [
+            "An Independent Life",
+            "Una vida independiente"
+          ]
+        },
+        {
+          "title": "Bugsy",
+          "director": "Barry Levinson",
+          "award": "En competición"
+        },
+        {
+          "title": "Cape Fear",
+          "director": "Martin Scorsese",
+          "award": "En competición",
+          "aliases": [
+            "El cabo del miedo"
+          ]
+        },
+        {
+          "title": "Céline",
+          "director": "Jean-Claude Brisseau",
+          "award": "En competición"
+        },
+        {
+          "title": "Ruan Lingyu",
+          "director": "Stanley Kwan",
+          "award": "Oso de Plata · Mejor actriz · Maggie Cheung",
+          "aliases": [
+            "Center Stage",
+            "Actriz"
+          ]
+        },
+        {
+          "title": "Dead Again",
+          "director": "Kenneth Branagh",
+          "award": "En competición",
+          "aliases": [
+            "Morir todavía"
+          ]
+        },
+        {
+          "title": "La frontera",
+          "director": "Ricardo Larraín",
+          "award": "Oso de Plata · Logro individual sobresaliente",
+          "aliases": [
+            "The Frontier"
+          ]
+        },
+        {
+          "title": "Gas Food Lodging",
+          "director": "Allison Anders",
+          "award": "En competición"
+        },
+        {
+          "title": "Grand Canyon",
+          "director": "Lawrence Kasdan",
+          "award": "Oso de Oro"
+        },
+        {
+          "title": "Gudrun",
+          "director": "Hans W. Geißendörfer",
+          "award": "Mención honorífica"
+        },
+        {
+          "title": "Il capitano",
+          "director": "Jan Troell",
+          "award": "Oso de Plata · Mejor dirección",
+          "aliases": [
+            "Il Capitano: A Swedish Requiem"
+          ]
+        },
+        {
+          "title": "Infinitas",
+          "director": "Marlen Khutsiev",
+          "award": "Premio Alfred Bauer"
+        },
+        {
+          "title": "The Inner Circle",
+          "director": "Andrei Konchalovsky",
+          "award": "En competición",
+          "aliases": [
+            "El círculo del poder"
+          ]
+        },
+        {
+          "title": "The Last Days of Chez Nous",
+          "director": "Gillian Armstrong",
+          "award": "En competición"
+        },
+        {
+          "title": "Light Sleeper",
+          "director": "Paul Schrader",
+          "award": "En competición"
+        },
+        {
+          "title": "El largo invierno",
+          "director": "Jaime Camino",
+          "award": "En competición",
+          "aliases": [
+            "The Long Winter"
+          ]
+        },
+        {
+          "title": "Hikarigoke",
+          "director": "Kei Kumai",
+          "award": "En competición",
+          "aliases": [
+            "Luminous Moss"
+          ]
+        },
+        {
+          "title": "Naked Lunch",
+          "director": "David Cronenberg",
+          "award": "En competición",
+          "aliases": [
+            "El almuerzo desnudo"
+          ]
+        },
+        {
+          "title": "Rien que des mensonges",
+          "director": "Paule Muret",
+          "award": "En competición",
+          "aliases": [
+            "Nothing But Lies"
+          ]
+        },
+        {
+          "title": "Beltenebros",
+          "director": "Pilar Miró",
+          "award": "Oso de Plata · Contribución artística sobresaliente",
+          "aliases": [
+            "Prince of Shadows"
+          ]
+        },
+        {
+          "title": "Der Brocken",
+          "director": "Vadim Glowna",
+          "award": "En competición",
+          "aliases": [
+            "Rising to the Bait"
+          ]
+        },
+        {
+          "title": "Édes Emma, drága Böbe",
+          "director": "István Szabó",
+          "award": "Oso de Plata · Premio Especial del Jurado",
+          "aliases": [
+            "Sweet Emma, Dear Böbe"
+          ]
+        },
+        {
+          "title": "Conte d'hiver",
+          "director": "Éric Rohmer",
+          "award": "En competición",
+          "aliases": [
+            "A Tale of Winter",
+            "Cuento de invierno"
+          ]
+        },
+        {
+          "title": "Tous les matins du monde",
+          "director": "Alain Corneau",
+          "award": "En competición",
+          "aliases": [
+            "Todas las mañanas del mundo"
+          ]
+        },
+        {
+          "title": "Utz",
+          "director": "George Sluizer",
+          "award": "Oso de Plata · Mejor actor · Armin Mueller-Stahl"
+        }
+      ]
+    },
     {
       "festival": "Cannes",
       "year": 1992,
@@ -299,470 +491,259 @@
       ]
     },
     {
-      "festival": "Venecia",
+      "festival": "Goya",
       "year": 1992,
-      "section": "Competición oficial",
+      "section": "6.ª edición · películas de 1991",
       "films": [
         {
-          "title": "Die Abwesenheit",
-          "director": "Peter Handke",
-          "award": "En competición",
-          "aliases": [
-            "The Absence"
-          ]
+          "title": "Amantes",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Actor protagonista",
+            "Actriz protagonista",
+            "Montaje"
+          ],
+          "wins": [
+            "Película",
+            "Dirección"
+          ],
+          "award": "Ganador · 2 Goyas"
         },
         {
-          "title": "La discesa di Aclà a Floristella",
-          "director": "Aurelio Grimaldi",
-          "award": "En competición",
-          "aliases": [
-            "Acla's Descent into Floristella"
-          ]
+          "title": "Don Juan en los infiernos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Música original",
+            "Actor protagonista",
+            "Dirección de producción",
+            "Fotografía",
+            "Dirección artística",
+            "Vestuario"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Fratelli e sorelle",
-          "director": "Pupi Avati",
-          "award": "En competición",
-          "aliases": [
-            "Brothers and Sisters"
-          ]
-        },
-        {
-          "title": "La chasse aux papillons",
-          "director": "Otar Iosseliani",
-          "award": "En competición",
-          "aliases": [
-            "Chasing Butterflies"
-          ]
-        },
-        {
-          "title": "Morte di un matematico napoletano",
-          "director": "Mario Martone",
-          "award": "Gran Premio Especial del Jurado",
-          "aliases": [
-            "Death of a Neapolitan Mathematician"
-          ]
-        },
-        {
-          "title": "Glengarry Glen Ross",
-          "director": "James Foley",
-          "award": "Copa Volpi · Mejor actor · Jack Lemmon"
-        },
-        {
-          "title": "Guelwaar",
-          "director": "Ousmane Sembène",
-          "award": "En competición"
-        },
-        {
-          "title": "Jamón, jamón",
-          "director": "Bigas Luna",
-          "award": "León de Plata"
-        },
-        {
-          "title": "Un cœur en hiver",
-          "director": "Claude Sautet",
-          "award": "León de Plata",
-          "aliases": [
-            "A Heart in Winter",
-            "Un corazón en invierno"
-          ]
-        },
-        {
-          "title": "In the Soup",
-          "director": "Alexandre Rockwell",
-          "award": "En competición"
-        },
-        {
-          "title": "L.627",
-          "director": "Bertrand Tavernier",
-          "award": "En competición"
-        },
-        {
-          "title": "O Último Mergulho",
-          "director": "João César Monteiro",
-          "award": "En competición",
-          "aliases": [
-            "The Last Dive"
-          ]
-        },
-        {
-          "title": "Hotel de Lux",
-          "director": "Dan Pița",
-          "award": "León de Plata",
-          "aliases": [
-            "Luxury Hotel"
-          ]
-        },
-        {
-          "title": "Olivier, Olivier",
-          "director": "Agnieszka Holland",
-          "award": "En competición"
-        },
-        {
-          "title": "Orlando",
-          "director": "Sally Potter",
-          "award": "En competición"
-        },
-        {
-          "title": "La peste",
-          "director": "Luis Puenzo",
-          "award": "En competición",
-          "aliases": [
-            "The Plague"
-          ]
-        },
-        {
-          "title": "Raising Cain",
-          "director": "Brian De Palma",
-          "award": "En competición",
-          "aliases": [
-            "En nombre de Caín"
-          ]
-        },
-        {
-          "title": "Chuvstvitelnyy militsioner",
-          "director": "Kira Muratova",
-          "award": "En competición",
-          "aliases": [
-            "The Sentimental Policeman"
-          ]
-        },
-        {
-          "title": "Qiu Ju da guan si",
-          "director": "Zhang Yimou",
-          "award": "León de Oro · Copa Volpi · Mejor actriz · Gong Li",
-          "aliases": [
-            "The Story of Qiu Ju",
-            "Qiu Ju, una mujer china"
-          ]
-        },
-        {
-          "title": "Valsi Pechoraze",
-          "director": "Lana Gogoberidze",
-          "award": "En competición",
-          "aliases": [
-            "The Waltz on the Petschora"
-          ]
-        },
-        {
-          "title": "Kaivo",
-          "director": "Pekka Lehto",
-          "award": "En competición",
-          "aliases": [
-            "The Well"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 1992,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Rcheuli",
-          "director": "Mikheil Kalatozishvili",
-          "award": "En competición",
-          "aliases": [
-            "The Beloved"
-          ]
-        },
-        {
-          "title": "Samostoiatelnaya zhizn",
-          "director": "Vitali Kanevsky",
-          "award": "En competición",
-          "aliases": [
-            "An Independent Life",
-            "Una vida independiente"
-          ]
-        },
-        {
-          "title": "Bugsy",
-          "director": "Barry Levinson",
-          "award": "En competición"
-        },
-        {
-          "title": "Cape Fear",
-          "director": "Martin Scorsese",
-          "award": "En competición",
-          "aliases": [
-            "El cabo del miedo"
-          ]
-        },
-        {
-          "title": "Céline",
-          "director": "Jean-Claude Brisseau",
-          "award": "En competición"
-        },
-        {
-          "title": "Ruan Lingyu",
-          "director": "Stanley Kwan",
-          "award": "Oso de Plata · Mejor actriz · Maggie Cheung",
-          "aliases": [
-            "Center Stage",
-            "Actriz"
-          ]
-        },
-        {
-          "title": "Dead Again",
-          "director": "Kenneth Branagh",
-          "award": "En competición",
-          "aliases": [
-            "Morir todavía"
-          ]
-        },
-        {
-          "title": "La frontera",
-          "director": "Ricardo Larraín",
-          "award": "Oso de Plata · Logro individual sobresaliente",
-          "aliases": [
-            "The Frontier"
-          ]
-        },
-        {
-          "title": "Gas Food Lodging",
-          "director": "Allison Anders",
-          "award": "En competición"
-        },
-        {
-          "title": "Grand Canyon",
-          "director": "Lawrence Kasdan",
-          "award": "Oso de Oro"
-        },
-        {
-          "title": "Gudrun",
-          "director": "Hans W. Geißendörfer",
-          "award": "Mención honorífica"
-        },
-        {
-          "title": "Il capitano",
-          "director": "Jan Troell",
-          "award": "Oso de Plata · Mejor dirección",
-          "aliases": [
-            "Il Capitano: A Swedish Requiem"
-          ]
-        },
-        {
-          "title": "Infinitas",
-          "director": "Marlen Khutsiev",
-          "award": "Premio Alfred Bauer"
-        },
-        {
-          "title": "The Inner Circle",
-          "director": "Andrei Konchalovsky",
-          "award": "En competición",
-          "aliases": [
-            "El círculo del poder"
-          ]
-        },
-        {
-          "title": "The Last Days of Chez Nous",
-          "director": "Gillian Armstrong",
-          "award": "En competición"
-        },
-        {
-          "title": "Light Sleeper",
-          "director": "Paul Schrader",
-          "award": "En competición"
-        },
-        {
-          "title": "El largo invierno",
-          "director": "Jaime Camino",
-          "award": "En competición",
-          "aliases": [
-            "The Long Winter"
-          ]
-        },
-        {
-          "title": "Hikarigoke",
-          "director": "Kei Kumai",
-          "award": "En competición",
-          "aliases": [
-            "Luminous Moss"
-          ]
-        },
-        {
-          "title": "Naked Lunch",
-          "director": "David Cronenberg",
-          "award": "En competición",
-          "aliases": [
-            "El almuerzo desnudo"
-          ]
-        },
-        {
-          "title": "Rien que des mensonges",
-          "director": "Paule Muret",
-          "award": "En competición",
-          "aliases": [
-            "Nothing But Lies"
-          ]
+          "title": "El rey pasmado",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion adaptado",
+            "Música original",
+            "Actor protagonista",
+            "Actor de reparto",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Fotografía",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [
+            "Guion adaptado",
+            "Música original",
+            "Actor de reparto",
+            "Dirección de producción",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "award": "Ganador · 8 Goyas"
         },
         {
           "title": "Beltenebros",
-          "director": "Pilar Miró",
-          "award": "Oso de Plata · Contribución artística sobresaliente",
-          "aliases": [
-            "Prince of Shadows"
-          ]
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección",
+            "Guion adaptado",
+            "Actor de reparto",
+            "Dirección de producción",
+            "Fotografía",
+            "Montaje",
+            "Dirección artística",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Fotografía",
+            "Montaje",
+            "Efectos especiales"
+          ],
+          "award": "Ganador · 3 Goyas"
         },
         {
-          "title": "Der Brocken",
-          "director": "Vadim Glowna",
-          "award": "En competición",
-          "aliases": [
-            "Rising to the Bait"
-          ]
+          "title": "Alas de mariposa",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Guion original",
+            "Actriz protagonista"
+          ],
+          "wins": [
+            "Dirección novel",
+            "Guion original",
+            "Actriz protagonista"
+          ],
+          "award": "Ganador · 3 Goyas"
         },
         {
-          "title": "Édes Emma, drága Böbe",
-          "director": "István Szabó",
-          "award": "Oso de Plata · Premio Especial del Jurado",
-          "aliases": [
-            "Sweet Emma, Dear Böbe"
-          ]
+          "title": "Cómo ser mujer y no morir en el intento",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominado · 2 candidaturas"
         },
         {
-          "title": "Conte d'hiver",
-          "director": "Éric Rohmer",
-          "award": "En competición",
-          "aliases": [
-            "A Tale of Winter",
-            "Cuento de invierno"
-          ]
+          "title": "Salsa rosa",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Tous les matins du monde",
-          "director": "Alain Corneau",
-          "award": "En competición",
-          "aliases": [
-            "Todas las mañanas del mundo"
-          ]
+          "title": "Todo por la pasta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion original",
+            "Música original",
+            "Actriz de reparto",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actriz de reparto"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Utz",
-          "director": "George Sluizer",
-          "award": "Oso de Plata · Mejor actor · Armin Mueller-Stahl"
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1992,
-      "section": "Sección Oficial · competición",
-      "films": [
-        {
-          "title": "Der Nachbar",
-          "director": "Götz Spielmann",
-          "award": "En competición",
-          "aliases": [
-            "The Neighbour"
-          ]
+          "title": "Tacones lejanos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz de reparto",
+            "Montaje",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido"
+          ],
+          "wins": [],
+          "award": "Nominado · 5 candidaturas"
         },
         {
-          "title": "Goldberg Variációk",
-          "director": "Ferenc Grünwalsky",
-          "award": "En competición",
-          "aliases": [
-            "Goldberg Variations"
-          ]
+          "title": "Capitán Escalaborns",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Efectos especiales"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Highway Patrolman",
-          "director": "Alex Cox",
-          "award": "Concha de Plata · Mejor actor · Roberto Sosa",
-          "aliases": [
-            "El patrullero"
-          ]
+          "title": "Eduardo",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Il giardino dei ciliegi",
-          "director": "Antonello Aglioti",
-          "award": "En competición",
-          "aliases": [
-            "The Cherry Orchard"
-          ]
+          "title": "La doncella virtuosa o el martirio de San Pedro",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Inside Monkey Zetterland",
-          "director": "Jefery Levy",
-          "award": "En competición"
+          "title": "La viuda negra",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [
+            "Cortometraje"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "La reina anónima",
-          "director": "Gonzalo Suárez",
-          "award": "En competición",
-          "aliases": [
-            "Anonymous Queen"
-          ]
+          "title": "Ni contigo ni sin ti",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "La tarea prohibida",
-          "director": "Jaime Humberto Hermosillo",
-          "award": "En competición",
-          "aliases": [
-            "Forbidden Homework"
-          ]
+          "title": "Hello Hemingway",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Moscou Parade",
-          "director": "Ivan Dykhovichny",
-          "award": "En competición"
+          "title": "Jericó",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Single White Female",
-          "director": "Barbet Schroeder",
-          "award": "En competición",
-          "aliases": [
-            "Mujer blanca soltera busca..."
-          ]
+          "title": "La frontera",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "The Favour, the Watch and the Very Big Fish",
-          "director": "Ben Lewin",
-          "award": "En competición"
-        },
-        {
-          "title": "The Footstep Man",
-          "director": "Leon Narbey",
-          "award": "En competición"
-        },
-        {
-          "title": "The Legend of the Icon",
-          "director": "Rodoh Seji",
-          "award": "En competición"
-        },
-        {
-          "title": "Tito i ja",
-          "director": "Goran Marković",
-          "award": "Concha de Plata · Mejor dirección · Concha de Plata · Dimitrie Vojnov",
-          "aliases": [
-            "Tito and Me"
-          ]
-        },
-        {
-          "title": "Un lugar en el mundo",
-          "director": "Adolfo Aristarain",
-          "award": "Concha de Oro",
-          "aliases": [
-            "A Place in the World"
-          ]
-        },
-        {
-          "title": "Verlorene Landschaft",
-          "director": "Andreas Kleinert",
-          "award": "En competición",
-          "aliases": [
-            "Lost Landscape"
-          ]
-        },
-        {
-          "title": "Zwolnieni z zycia",
-          "director": "Waldemar Krzystek",
-          "award": "Premio Especial del Jurado · Concha de Plata · Mejor actriz · Krystyna Janda",
-          "aliases": [
-            "Dismissed from Life",
-            "Passing Farewell"
-          ]
+          "title": "Técnicas de duelo: una cuestión de honor",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         }
       ]
     },
@@ -1280,6 +1261,283 @@
           ],
           "wins": [],
           "award": "Nominación · Documental"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1992,
+      "section": "Sección Oficial · competición",
+      "films": [
+        {
+          "title": "Der Nachbar",
+          "director": "Götz Spielmann",
+          "award": "En competición",
+          "aliases": [
+            "The Neighbour"
+          ]
+        },
+        {
+          "title": "Goldberg Variációk",
+          "director": "Ferenc Grünwalsky",
+          "award": "En competición",
+          "aliases": [
+            "Goldberg Variations"
+          ]
+        },
+        {
+          "title": "Highway Patrolman",
+          "director": "Alex Cox",
+          "award": "Concha de Plata · Mejor actor · Roberto Sosa",
+          "aliases": [
+            "El patrullero"
+          ]
+        },
+        {
+          "title": "Il giardino dei ciliegi",
+          "director": "Antonello Aglioti",
+          "award": "En competición",
+          "aliases": [
+            "The Cherry Orchard"
+          ]
+        },
+        {
+          "title": "Inside Monkey Zetterland",
+          "director": "Jefery Levy",
+          "award": "En competición"
+        },
+        {
+          "title": "La reina anónima",
+          "director": "Gonzalo Suárez",
+          "award": "En competición",
+          "aliases": [
+            "Anonymous Queen"
+          ]
+        },
+        {
+          "title": "La tarea prohibida",
+          "director": "Jaime Humberto Hermosillo",
+          "award": "En competición",
+          "aliases": [
+            "Forbidden Homework"
+          ]
+        },
+        {
+          "title": "Moscou Parade",
+          "director": "Ivan Dykhovichny",
+          "award": "En competición"
+        },
+        {
+          "title": "Single White Female",
+          "director": "Barbet Schroeder",
+          "award": "En competición",
+          "aliases": [
+            "Mujer blanca soltera busca..."
+          ]
+        },
+        {
+          "title": "The Favour, the Watch and the Very Big Fish",
+          "director": "Ben Lewin",
+          "award": "En competición"
+        },
+        {
+          "title": "The Footstep Man",
+          "director": "Leon Narbey",
+          "award": "En competición"
+        },
+        {
+          "title": "The Legend of the Icon",
+          "director": "Rodoh Seji",
+          "award": "En competición"
+        },
+        {
+          "title": "Tito i ja",
+          "director": "Goran Marković",
+          "award": "Concha de Plata · Mejor dirección · Concha de Plata · Dimitrie Vojnov",
+          "aliases": [
+            "Tito and Me"
+          ]
+        },
+        {
+          "title": "Un lugar en el mundo",
+          "director": "Adolfo Aristarain",
+          "award": "Concha de Oro",
+          "aliases": [
+            "A Place in the World"
+          ]
+        },
+        {
+          "title": "Verlorene Landschaft",
+          "director": "Andreas Kleinert",
+          "award": "En competición",
+          "aliases": [
+            "Lost Landscape"
+          ]
+        },
+        {
+          "title": "Zwolnieni z zycia",
+          "director": "Waldemar Krzystek",
+          "award": "Premio Especial del Jurado · Concha de Plata · Mejor actriz · Krystyna Janda",
+          "aliases": [
+            "Dismissed from Life",
+            "Passing Farewell"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1992,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Die Abwesenheit",
+          "director": "Peter Handke",
+          "award": "En competición",
+          "aliases": [
+            "The Absence"
+          ]
+        },
+        {
+          "title": "La discesa di Aclà a Floristella",
+          "director": "Aurelio Grimaldi",
+          "award": "En competición",
+          "aliases": [
+            "Acla's Descent into Floristella"
+          ]
+        },
+        {
+          "title": "Fratelli e sorelle",
+          "director": "Pupi Avati",
+          "award": "En competición",
+          "aliases": [
+            "Brothers and Sisters"
+          ]
+        },
+        {
+          "title": "La chasse aux papillons",
+          "director": "Otar Iosseliani",
+          "award": "En competición",
+          "aliases": [
+            "Chasing Butterflies"
+          ]
+        },
+        {
+          "title": "Morte di un matematico napoletano",
+          "director": "Mario Martone",
+          "award": "Gran Premio Especial del Jurado",
+          "aliases": [
+            "Death of a Neapolitan Mathematician"
+          ]
+        },
+        {
+          "title": "Glengarry Glen Ross",
+          "director": "James Foley",
+          "award": "Copa Volpi · Mejor actor · Jack Lemmon"
+        },
+        {
+          "title": "Guelwaar",
+          "director": "Ousmane Sembène",
+          "award": "En competición"
+        },
+        {
+          "title": "Jamón, jamón",
+          "director": "Bigas Luna",
+          "award": "León de Plata"
+        },
+        {
+          "title": "Un cœur en hiver",
+          "director": "Claude Sautet",
+          "award": "León de Plata",
+          "aliases": [
+            "A Heart in Winter",
+            "Un corazón en invierno"
+          ]
+        },
+        {
+          "title": "In the Soup",
+          "director": "Alexandre Rockwell",
+          "award": "En competición"
+        },
+        {
+          "title": "L.627",
+          "director": "Bertrand Tavernier",
+          "award": "En competición"
+        },
+        {
+          "title": "O Último Mergulho",
+          "director": "João César Monteiro",
+          "award": "En competición",
+          "aliases": [
+            "The Last Dive"
+          ]
+        },
+        {
+          "title": "Hotel de Lux",
+          "director": "Dan Pița",
+          "award": "León de Plata",
+          "aliases": [
+            "Luxury Hotel"
+          ]
+        },
+        {
+          "title": "Olivier, Olivier",
+          "director": "Agnieszka Holland",
+          "award": "En competición"
+        },
+        {
+          "title": "Orlando",
+          "director": "Sally Potter",
+          "award": "En competición"
+        },
+        {
+          "title": "La peste",
+          "director": "Luis Puenzo",
+          "award": "En competición",
+          "aliases": [
+            "The Plague"
+          ]
+        },
+        {
+          "title": "Raising Cain",
+          "director": "Brian De Palma",
+          "award": "En competición",
+          "aliases": [
+            "En nombre de Caín"
+          ]
+        },
+        {
+          "title": "Chuvstvitelnyy militsioner",
+          "director": "Kira Muratova",
+          "award": "En competición",
+          "aliases": [
+            "The Sentimental Policeman"
+          ]
+        },
+        {
+          "title": "Qiu Ju da guan si",
+          "director": "Zhang Yimou",
+          "award": "León de Oro · Copa Volpi · Mejor actriz · Gong Li",
+          "aliases": [
+            "The Story of Qiu Ju",
+            "Qiu Ju, una mujer china"
+          ]
+        },
+        {
+          "title": "Valsi Pechoraze",
+          "director": "Lana Gogoberidze",
+          "award": "En competición",
+          "aliases": [
+            "The Waltz on the Petschora"
+          ]
+        },
+        {
+          "title": "Kaivo",
+          "director": "Pekka Lehto",
+          "award": "En competición",
+          "aliases": [
+            "The Well"
+          ]
         }
       ]
     }

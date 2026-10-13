@@ -1,5 +1,164 @@
 {
+  "year": 1994,
   "editions": [
+    {
+      "festival": "Berlín",
+      "year": 1994,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Alles auf Anfang",
+          "director": "Reinhard Münster",
+          "award": "En competición",
+          "aliases": [
+            "Back to Square One"
+          ]
+        },
+        {
+          "title": "Der Blaue",
+          "director": "Lienhard Wawrzyn",
+          "award": "En competición",
+          "aliases": [
+            "The Blue One"
+          ]
+        },
+        {
+          "title": "Charachar",
+          "director": "Buddhadeb Dasgupta",
+          "award": "En competición"
+        },
+        {
+          "title": "Cari fottutissimi amici",
+          "director": "Mario Monicelli",
+          "award": "Mención honorífica",
+          "aliases": [
+            "Dear Goddamned Friends"
+          ]
+        },
+        {
+          "title": "Exile",
+          "director": "Paul Cox",
+          "award": "En competición"
+        },
+        {
+          "title": "Fearless",
+          "director": "Peter Weir",
+          "award": "Mención honorífica",
+          "aliases": [
+            "Sin miedo a la vida"
+          ]
+        },
+        {
+          "title": "A magzat",
+          "director": "Márta Mészáros",
+          "award": "En competición",
+          "aliases": [
+            "Foetus"
+          ]
+        },
+        {
+          "title": "In the Name of the Father",
+          "director": "Jim Sheridan",
+          "award": "Oso de Oro",
+          "aliases": [
+            "En el nombre del padre"
+          ]
+        },
+        {
+          "title": "Ladybird Ladybird",
+          "director": "Ken Loach",
+          "award": "Oso de Plata · Mejor actriz · Crissy Rock"
+        },
+        {
+          "title": "Il giudice ragazzino",
+          "director": "Alessandro Di Robilant",
+          "award": "En competición",
+          "aliases": [
+            "Law of Courage"
+          ]
+        },
+        {
+          "title": "Al otro lado del túnel",
+          "director": "Jaime de Armiñán",
+          "award": "En competición"
+        },
+        {
+          "title": "Hwa-Om-Kyung",
+          "director": "Jang Sun-woo",
+          "award": "Premio Alfred Bauer",
+          "aliases": [
+            "Passage to Buddha"
+          ]
+        },
+        {
+          "title": "Philadelphia",
+          "director": "Jonathan Demme",
+          "award": "Oso de Plata · Mejor actor · Tom Hanks"
+        },
+        {
+          "title": "Smoking / No Smoking",
+          "director": "Alain Resnais",
+          "award": "Oso de Plata · Logro individual sobresaliente"
+        },
+        {
+          "title": "Pas très catholique",
+          "director": "Tonie Marshall",
+          "award": "En competición",
+          "aliases": [
+            "Something Fishy"
+          ]
+        },
+        {
+          "title": "Huo hu",
+          "director": "Wu Ziniu",
+          "award": "Mención honorífica",
+          "aliases": [
+            "Sparkling Fox"
+          ]
+        },
+        {
+          "title": "Fresa y chocolate",
+          "director": "Tomás Gutiérrez Alea, Juan Carlos Tabío",
+          "award": "Oso de Plata · Premio Especial del Jurado",
+          "aliases": [
+            "Strawberry and Chocolate"
+          ]
+        },
+        {
+          "title": "Trois couleurs: Blanc",
+          "director": "Krzysztof Kieślowski",
+          "award": "Oso de Plata · Mejor dirección",
+          "aliases": [
+            "Three Colours: White",
+            "Tres colores: Blanco"
+          ]
+        },
+        {
+          "title": "A Terceira Margem do Rio",
+          "director": "Nelson Pereira dos Santos",
+          "award": "En competición",
+          "aliases": [
+            "The Third Bank of the River"
+          ]
+        },
+        {
+          "title": "Los de enfrente",
+          "director": "Jesús Garay",
+          "award": "En competición",
+          "aliases": [
+            "The Window Over the Way"
+          ]
+        },
+        {
+          "title": "God sobaki",
+          "director": "Semyon Aranovich",
+          "award": "Oso de Plata · Contribución artística sobresaliente",
+          "aliases": [
+            "The Year of the Dog"
+          ]
+        }
+      ]
+    },
     {
       "festival": "Cannes",
       "year": 1994,
@@ -42,7 +201,7 @@
         {
           "title": "Huozhe",
           "director": "Zhang Yimou",
-          "award": "Gran Premio del Jurado · Mejor actor · Ge You",
+          "award": "Gran Premio del Jurado (ex aequo) · Mejor actor · Ge You",
           "aliases": [
             "To Live",
             "Vivir"
@@ -107,7 +266,7 @@
         {
           "title": "Utomlyonnye solntsem",
           "director": "Nikita Mikhalkov",
-          "award": "Gran Premio del Jurado",
+          "award": "Gran Premio del Jurado (ex aequo)",
           "aliases": [
             "Burnt by the Sun",
             "Quemado por el sol"
@@ -320,426 +479,383 @@
       ]
     },
     {
-      "festival": "Venecia",
+      "festival": "Goya",
       "year": 1994,
-      "section": "Competición oficial",
+      "section": "8.ª edición · películas de 1993",
       "films": [
         {
-          "title": "À la folie",
-          "director": "Diane Kurys",
-          "award": "En competición",
-          "aliases": [
-            "6 Days, 6 Nights"
-          ]
+          "title": "Intruso",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Música original",
+            "Actor protagonista",
+            "Montaje"
+          ],
+          "wins": [],
+          "award": "Nominado · 5 candidaturas"
         },
         {
-          "title": "Dung che sai duk",
-          "director": "Wong Kar-wai",
-          "award": "Premio Osella · Mejor fotografía",
-          "aliases": [
-            "Ashes of Time",
-            "Cenizas del tiempo"
-          ]
+          "title": "Sombras en una batalla",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Guion original",
+            "Actriz protagonista",
+            "Actor de reparto"
+          ],
+          "wins": [
+            "Guion original",
+            "Actor de reparto"
+          ],
+          "award": "Ganador · 2 Goyas"
         },
         {
-          "title": "Pred dozhdot",
-          "director": "Milcho Manchevski",
-          "award": "León de Oro",
-          "aliases": [
-            "Before the Rain",
-            "Antes de la lluvia"
-          ]
+          "title": "Todos a la cárcel",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película",
+            "Dirección",
+            "Guion original",
+            "Dirección de producción",
+            "Sonido"
+          ],
+          "wins": [
+            "Película",
+            "Dirección",
+            "Sonido"
+          ],
+          "award": "Ganador · 3 Goyas"
         },
         {
-          "title": "Il toro",
-          "director": "Carlo Mazzacurati",
-          "award": "León de Plata · Mejor actor de reparto · Roberto Citran",
-          "aliases": [
-            "The Bull"
-          ]
+          "title": "La madre muerta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección",
+            "Fotografía",
+            "Montaje",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Efectos especiales"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Le cri du coeur",
-          "director": "Idrissa Ouedraogo",
-          "award": "En competición",
-          "aliases": [
-            "The Heart's Cry"
-          ]
+          "title": "Ciénaga",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Heavenly Creatures",
-          "director": "Peter Jackson",
-          "award": "León de Plata",
-          "aliases": [
-            "Criaturas celestiales"
-          ]
+          "title": "Los años oscuros",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Yangguang canlan de rizi",
-          "director": "Jiang Wen",
-          "award": "Copa Volpi · Mejor actor · Xia Yu",
-          "aliases": [
-            "In the Heat of the Sun",
-            "Días de sol"
-          ]
+          "title": "Mi hermano del alma",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Dirección novel",
+            "Actor de reparto"
+          ],
+          "wins": [
+            "Dirección novel"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Lamerica",
-          "director": "Gianni Amelio",
-          "award": "Premio Osella · Mejor dirección"
+          "title": "Madregilda",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion original",
+            "Actor protagonista",
+            "Fotografía",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actor protagonista"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Zivot a neobycejna dobrodruzstvi vojaka Ivana Conkina",
-          "director": "Jiří Menzel",
-          "award": "En competición",
-          "aliases": [
-            "Life and Extraordinary Adventures of Private Ivan Chonkin"
-          ]
+          "title": "El amante bilingüe",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Little Odessa",
-          "director": "James Gray",
-          "award": "León de Plata · Mejor actriz de reparto · Vanessa Redgrave"
+          "title": "La fiebre del oro",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Bűvös vadász",
-          "director": "Ildikó Enyedi",
-          "award": "En competición",
-          "aliases": [
-            "Magic Hunter"
-          ]
+          "title": "Tirano Banderas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Guion adaptado",
+            "Actor de reparto",
+            "Dirección de producción",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "wins": [
+            "Guion adaptado",
+            "Dirección de producción",
+            "Montaje",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería"
+          ],
+          "award": "Ganador · 6 Goyas"
         },
         {
-          "title": "Natural Born Killers",
-          "director": "Oliver Stone",
-          "award": "Gran Premio Especial del Jurado",
-          "aliases": [
-            "Asesinos natos"
-          ]
+          "title": "La ardilla roja",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Música original",
+            "Actriz protagonista",
+            "Actriz de reparto"
+          ],
+          "wins": [
+            "Música original"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Il branco",
-          "director": "Marco Risi",
-          "award": "En competición",
-          "aliases": [
-            "The Pack"
-          ]
+          "title": "¿Por qué lo llaman amor cuando quieren decir sexo?",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Música original",
+            "Actriz de reparto"
+          ],
+          "wins": [
+            "Actriz de reparto"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Pigalle",
-          "director": "Karim Dridi",
-          "award": "En competición"
+          "title": "Huevos de oro",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actor protagonista"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Una sombra ya pronto serás",
-          "director": "Héctor Olivera",
-          "award": "En competición"
+          "title": "Kika",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Actriz protagonista",
+            "Actriz de reparto",
+            "Dirección de producción",
+            "Dirección artística",
+            "Vestuario",
+            "Maquillaje y peluquería",
+            "Sonido",
+            "Efectos especiales"
+          ],
+          "wins": [
+            "Actriz protagonista"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Somebody to Love",
-          "director": "Alexandre Rockwell",
-          "award": "En competición"
+          "title": "El pájaro de la felicidad",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Fotografía",
+            "Sonido"
+          ],
+          "wins": [
+            "Fotografía"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "La teta y la luna",
-          "director": "Bigas Luna",
-          "award": "Premio Osella · Mejor guion",
-          "aliases": [
-            "The Tit and the Moon"
-          ]
+          "title": "Juego de lágrimas",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Três Irmãos",
-          "director": "Teresa Villaverde",
-          "award": "Copa Volpi · Mejor actriz · Maria de Medeiros",
-          "aliases": [
-            "Two Brothers, My Sister"
-          ]
+          "title": "Los amigos de Peter",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Ai qing wan sui",
-          "director": "Tsai Ming-liang",
-          "award": "León de Oro",
-          "aliases": [
-            "Vive L'Amour",
-            "Vive el amor"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Berlín",
-      "year": 1994,
-      "section": "Competición oficial",
-      "films": [
-        {
-          "title": "Alles auf Anfang",
-          "director": "Reinhard Münster",
-          "award": "En competición",
-          "aliases": [
-            "Back to Square One"
-          ]
+          "title": "Tres colores: Azul",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película europea"
+          ],
+          "wins": [
+            "Película europea"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Der Blaue",
-          "director": "Lienhard Wawrzyn",
-          "award": "En competición",
-          "aliases": [
-            "The Blue One"
-          ]
+          "title": "Cita con Alberto",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Charachar",
-          "director": "Buddhadeb Dasgupta",
-          "award": "En competición"
+          "title": "Ivorsi",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Cari fottutissimi amici",
-          "director": "Mario Monicelli",
-          "award": "Mención honorífica",
-          "aliases": [
-            "Dear Goddamned Friends"
-          ]
+          "title": "Maldita suerte",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Exile",
-          "director": "Paul Cox",
-          "award": "En competición"
+          "title": "Perturbado",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Fearless",
-          "director": "Peter Weir",
-          "award": "Mención honorífica",
-          "aliases": [
-            "Sin miedo a la vida"
-          ]
+          "title": "Quien mal anda mal acaba",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "A magzat",
-          "director": "Márta Mészáros",
-          "award": "En competición",
-          "aliases": [
-            "Foetus"
-          ]
+          "title": "El largo viaje de Rústico",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "In the Name of the Father",
-          "director": "Jim Sheridan",
-          "award": "Oso de Oro",
-          "aliases": [
-            "En el nombre del padre"
-          ]
+          "title": "Verano en la universidad",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [
+            "Cortometraje documental"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Ladybird Ladybird",
-          "director": "Ken Loach",
-          "award": "Oso de Plata · Mejor actriz · Crissy Rock"
+          "title": "Walter Peralta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Cortometraje documental"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Il giudice ragazzino",
-          "director": "Alessandro Di Robilant",
-          "award": "En competición",
-          "aliases": [
-            "Law of Courage"
-          ]
+          "title": "Gatica, el mono",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [
+            "Película extranjera de habla hispana"
+          ],
+          "award": "Ganador · 1 Goya"
         },
         {
-          "title": "Al otro lado del túnel",
-          "director": "Jaime de Armiñán",
-          "award": "En competición"
+          "title": "Golpes a mi puerta",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         },
         {
-          "title": "Hwa-Om-Kyung",
-          "director": "Jang Sun-woo",
-          "award": "Premio Alfred Bauer",
-          "aliases": [
-            "Passage to Buddha"
-          ]
-        },
-        {
-          "title": "Philadelphia",
-          "director": "Jonathan Demme",
-          "award": "Oso de Plata · Mejor actor · Tom Hanks"
-        },
-        {
-          "title": "Smoking / No Smoking",
-          "director": "Alain Resnais",
-          "award": "Oso de Plata · Logro individual sobresaliente"
-        },
-        {
-          "title": "Pas très catholique",
-          "director": "Tonie Marshall",
-          "award": "En competición",
-          "aliases": [
-            "Something Fishy"
-          ]
-        },
-        {
-          "title": "Huo hu",
-          "director": "Wu Ziniu",
-          "award": "Mención honorífica",
-          "aliases": [
-            "Sparkling Fox"
-          ]
-        },
-        {
-          "title": "Fresa y chocolate",
-          "director": "Tomás Gutiérrez Alea, Juan Carlos Tabío",
-          "award": "Oso de Plata · Premio Especial del Jurado",
-          "aliases": [
-            "Strawberry and Chocolate"
-          ]
-        },
-        {
-          "title": "Trois couleurs: Blanc",
-          "director": "Krzysztof Kieślowski",
-          "award": "Oso de Plata · Mejor dirección",
-          "aliases": [
-            "Three Colours: White",
-            "Tres colores: Blanco"
-          ]
-        },
-        {
-          "title": "A Terceira Margem do Rio",
-          "director": "Nelson Pereira dos Santos",
-          "award": "En competición",
-          "aliases": [
-            "The Third Bank of the River"
-          ]
-        },
-        {
-          "title": "Los de enfrente",
-          "director": "Jesús Garay",
-          "award": "En competición",
-          "aliases": [
-            "The Window Over the Way"
-          ]
-        },
-        {
-          "title": "God sobaki",
-          "director": "Semyon Aranovich",
-          "award": "Oso de Plata · Contribución artística sobresaliente",
-          "aliases": [
-            "The Year of the Dog"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1994,
-      "section": "Sección Oficial · competición",
-      "films": [
-        {
-          "title": "Alciz shurek",
-          "director": "Ermek Shinarbaev",
-          "award": "Mención especial del Jurado",
-          "aliases": [
-            "Tender Heart"
-          ]
-        },
-        {
-          "title": "Antareen",
-          "director": "Mrinal Sen",
-          "award": "En competición",
-          "aliases": [
-            "The Confined"
-          ]
-        },
-        {
-          "title": "Días contados",
-          "director": "Imanol Uribe",
-          "award": "Concha de Oro · Concha de Plata · Mejor actor · Javier Bardem"
-        },
-        {
-          "title": "El detective y la muerte",
-          "director": "Gonzalo Suárez",
-          "award": "Concha de Plata · Mejor actor · Javier Bardem"
-        },
-        {
-          "title": "Fado, majeur et mineur",
-          "director": "Raúl Ruiz",
-          "award": "En competición",
-          "aliases": [
-            "Fado, Major and Minor"
-          ]
-        },
-        {
-          "title": "Hollywood Kid Eu Saengae",
-          "director": "Chung Ji-young",
-          "award": "En competición",
-          "aliases": [
-            "Life and Death of the Hollywood Kid"
-          ]
-        },
-        {
-          "title": "La partie d'échecs",
-          "director": "Yves Hanchar",
-          "award": "En competición",
-          "aliases": [
-            "The Chess Game"
-          ]
-        },
-        {
-          "title": "Mon amie Max",
-          "director": "Michel Brault",
-          "award": "En competición"
-        },
-        {
-          "title": "Paoda Shuangdeng",
-          "director": "He Ping",
-          "award": "Concha de Plata · Mejor actriz · Ning Jing · Mención especial del Jurado",
-          "aliases": [
-            "Red Firecracker, Green Firecracker",
-            "Pólvora roja, pólvora verde"
-          ]
-        },
-        {
-          "title": "Scenes from the New World",
-          "director": "Gordon Eriksen, Heather Johnston",
-          "award": "En competición"
-        },
-        {
-          "title": "Second Best",
-          "director": "Chris Menges",
-          "award": "Premio Especial del Jurado"
-        },
-        {
-          "title": "Shallow Grave",
-          "director": "Danny Boyle",
-          "award": "Concha de Plata · Mejor director",
-          "aliases": [
-            "Tumba abierta"
-          ]
-        },
-        {
-          "title": "The Beans of Egypt, Maine",
-          "director": "Jennifer Warren",
-          "award": "En competición",
-          "aliases": [
-            "La familia Bean"
-          ]
-        },
-        {
-          "title": "Todo es mentira",
-          "director": "Álvaro Fernández Armero",
-          "award": "En competición"
-        },
-        {
-          "title": "Vor lauter Feigheit gibt es kein Erbarmen",
-          "director": "Andreas Gruber",
-          "award": "Premio Especial del Jurado",
-          "aliases": [
-            "The Quality of Mercy"
-          ]
-        },
-        {
-          "title": "Wiederkehr",
-          "director": "Silvana Abbrescia-Rath",
-          "award": "En competición",
-          "aliases": [
-            "Return"
-          ]
+          "title": "Johnny 100 pesos",
+          "aliases": [],
+          "director": "",
+          "nominations": [
+            "Película extranjera de habla hispana"
+          ],
+          "wins": [],
+          "award": "Nominado · 1 candidatura"
         }
       ]
     },
@@ -1316,6 +1432,272 @@
           "award": "Oscar · Cortometraje animado",
           "aliases": [
             "Los pantalones equivocados"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1994,
+      "section": "Sección Oficial · competición",
+      "films": [
+        {
+          "title": "Alciz shurek",
+          "director": "Ermek Shinarbaev",
+          "award": "Mención especial del Jurado",
+          "aliases": [
+            "Tender Heart"
+          ]
+        },
+        {
+          "title": "Antareen",
+          "director": "Mrinal Sen",
+          "award": "En competición",
+          "aliases": [
+            "The Confined"
+          ]
+        },
+        {
+          "title": "Días contados",
+          "director": "Imanol Uribe",
+          "award": "Concha de Oro · Concha de Plata · Mejor actor · Javier Bardem"
+        },
+        {
+          "title": "El detective y la muerte",
+          "director": "Gonzalo Suárez",
+          "award": "Concha de Plata · Mejor actor · Javier Bardem"
+        },
+        {
+          "title": "Fado, majeur et mineur",
+          "director": "Raúl Ruiz",
+          "award": "En competición",
+          "aliases": [
+            "Fado, Major and Minor"
+          ]
+        },
+        {
+          "title": "Hollywood Kid Eu Saengae",
+          "director": "Chung Ji-young",
+          "award": "En competición",
+          "aliases": [
+            "Life and Death of the Hollywood Kid"
+          ]
+        },
+        {
+          "title": "La partie d'échecs",
+          "director": "Yves Hanchar",
+          "award": "En competición",
+          "aliases": [
+            "The Chess Game"
+          ]
+        },
+        {
+          "title": "Mon amie Max",
+          "director": "Michel Brault",
+          "award": "En competición"
+        },
+        {
+          "title": "Paoda Shuangdeng",
+          "director": "He Ping",
+          "award": "Concha de Plata · Mejor actriz · Ning Jing · Mención especial del Jurado",
+          "aliases": [
+            "Red Firecracker, Green Firecracker",
+            "Pólvora roja, pólvora verde"
+          ]
+        },
+        {
+          "title": "Scenes from the New World",
+          "director": "Gordon Eriksen, Heather Johnston",
+          "award": "En competición"
+        },
+        {
+          "title": "Second Best",
+          "director": "Chris Menges",
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Shallow Grave",
+          "director": "Danny Boyle",
+          "award": "Concha de Plata · Mejor director",
+          "aliases": [
+            "Tumba abierta"
+          ]
+        },
+        {
+          "title": "The Beans of Egypt, Maine",
+          "director": "Jennifer Warren",
+          "award": "En competición",
+          "aliases": [
+            "La familia Bean"
+          ]
+        },
+        {
+          "title": "Todo es mentira",
+          "director": "Álvaro Fernández Armero",
+          "award": "En competición"
+        },
+        {
+          "title": "Vor lauter Feigheit gibt es kein Erbarmen",
+          "director": "Andreas Gruber",
+          "award": "Premio Especial del Jurado",
+          "aliases": [
+            "The Quality of Mercy"
+          ]
+        },
+        {
+          "title": "Wiederkehr",
+          "director": "Silvana Abbrescia-Rath",
+          "award": "En competición",
+          "aliases": [
+            "Return"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1994,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "À la folie",
+          "director": "Diane Kurys",
+          "award": "En competición",
+          "aliases": [
+            "6 Days, 6 Nights"
+          ]
+        },
+        {
+          "title": "Dung che sai duk",
+          "director": "Wong Kar-wai",
+          "award": "Premio Osella · Mejor fotografía",
+          "aliases": [
+            "Ashes of Time",
+            "Cenizas del tiempo"
+          ]
+        },
+        {
+          "title": "Pred dozhdot",
+          "director": "Milcho Manchevski",
+          "award": "León de Oro",
+          "aliases": [
+            "Before the Rain",
+            "Antes de la lluvia"
+          ]
+        },
+        {
+          "title": "Il toro",
+          "director": "Carlo Mazzacurati",
+          "award": "León de Plata · Mejor actor de reparto · Roberto Citran",
+          "aliases": [
+            "The Bull"
+          ]
+        },
+        {
+          "title": "Le cri du coeur",
+          "director": "Idrissa Ouedraogo",
+          "award": "En competición",
+          "aliases": [
+            "The Heart's Cry"
+          ]
+        },
+        {
+          "title": "Heavenly Creatures",
+          "director": "Peter Jackson",
+          "award": "León de Plata",
+          "aliases": [
+            "Criaturas celestiales"
+          ]
+        },
+        {
+          "title": "Yangguang canlan de rizi",
+          "director": "Jiang Wen",
+          "award": "Copa Volpi · Mejor actor · Xia Yu",
+          "aliases": [
+            "In the Heat of the Sun",
+            "Días de sol"
+          ]
+        },
+        {
+          "title": "Lamerica",
+          "director": "Gianni Amelio",
+          "award": "Premio Osella · Mejor dirección"
+        },
+        {
+          "title": "Zivot a neobycejna dobrodruzstvi vojaka Ivana Conkina",
+          "director": "Jiří Menzel",
+          "award": "En competición",
+          "aliases": [
+            "Life and Extraordinary Adventures of Private Ivan Chonkin"
+          ]
+        },
+        {
+          "title": "Little Odessa",
+          "director": "James Gray",
+          "award": "León de Plata · Mejor actriz de reparto · Vanessa Redgrave"
+        },
+        {
+          "title": "Bűvös vadász",
+          "director": "Ildikó Enyedi",
+          "award": "En competición",
+          "aliases": [
+            "Magic Hunter"
+          ]
+        },
+        {
+          "title": "Natural Born Killers",
+          "director": "Oliver Stone",
+          "award": "Gran Premio Especial del Jurado",
+          "aliases": [
+            "Asesinos natos"
+          ]
+        },
+        {
+          "title": "Il branco",
+          "director": "Marco Risi",
+          "award": "En competición",
+          "aliases": [
+            "The Pack"
+          ]
+        },
+        {
+          "title": "Pigalle",
+          "director": "Karim Dridi",
+          "award": "En competición"
+        },
+        {
+          "title": "Una sombra ya pronto serás",
+          "director": "Héctor Olivera",
+          "award": "En competición"
+        },
+        {
+          "title": "Somebody to Love",
+          "director": "Alexandre Rockwell",
+          "award": "En competición"
+        },
+        {
+          "title": "La teta y la luna",
+          "director": "Bigas Luna",
+          "award": "Premio Osella · Mejor guion",
+          "aliases": [
+            "The Tit and the Moon"
+          ]
+        },
+        {
+          "title": "Três Irmãos",
+          "director": "Teresa Villaverde",
+          "award": "Copa Volpi · Mejor actriz · Maria de Medeiros",
+          "aliases": [
+            "Two Brothers, My Sister"
+          ]
+        },
+        {
+          "title": "Ai qing wan sui",
+          "director": "Tsai Ming-liang",
+          "award": "León de Oro",
+          "aliases": [
+            "Vive L'Amour",
+            "Vive el amor"
           ]
         }
       ]

@@ -12,6 +12,8 @@ on:
       - 'data/catalog/annual_*_overlay.json'
       - 'data/catalog/festival-owned-*.json'
       - 'data/festivals/festivals.json'
+      - 'data/festivals/years/**'
+      - 'scripts/build-festivals.mjs'
   pull_request:
     branches:
       - main
@@ -23,6 +25,8 @@ on:
       - 'data/catalog/festival-owned-*.json'
       - 'data/catalog/festival-matches.json'
       - 'data/festivals/festivals.json'
+      - 'data/festivals/years/**'
+      - 'scripts/build-festivals.mjs'
 permissions:
   contents: write
 concurrency:
@@ -36,6 +40,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - name: Verify festival artifact comes from annual sources
+        run: node scripts/build-festivals.mjs --check
       - name: Generate festival associations
         env:
           SOURCE_BRANCH: ${{ github.head_ref || github.ref_name }}
@@ -49,6 +55,9 @@ jobs:
             node scripts/build-festival-matches.mjs --years="2010,2024,2025"
           elif [[ "$SOURCE_BRANCH" == "filmoteca-titulos-2000-2009" ]]; then
             node scripts/build-festival-matches.mjs --years="2000,2001,2002,2003,2004,2005,2006,2007,2008,2009" --labels-only
+          elif [[ "$SOURCE_BRANCH" == "filmoteca-fuentes-anuales" ]]; then
+            YEARS=$(node -e 'const fs=require("node:fs");const db=JSON.parse(fs.readFileSync("data/festivals/festivals.json","utf8"));process.stdout.write([...new Set(db.editions.map(e=>e.year))].join(","))')
+            node scripts/build-festival-matches.mjs --years="$YEARS" --labels-only
           else
             node scripts/build-festival-matches.mjs
           fi
