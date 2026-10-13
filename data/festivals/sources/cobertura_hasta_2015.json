@@ -1,0 +1,279 @@
+{
+  "scope": "Años ya construidos, 1984–2015. Presencia de ediciones y secciones principales; no auditoría de películas individuales.",
+  "next": 1988,
+  "missing": [
+    {
+      "year": 1988,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1989,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1990,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1991,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1992,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1993,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1994,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1995,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1996,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1997,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1998,
+      "festival": "BAFTA"
+    },
+    {
+      "year": 1999,
+      "festival": "BAFTA"
+    }
+  ],
+  "years": [
+    {
+      "year": 1984,
+      "editions": 7,
+      "films": 175,
+      "missingEditions": []
+    },
+    {
+      "year": 1985,
+      "editions": 7,
+      "films": 188,
+      "missingEditions": []
+    },
+    {
+      "year": 1986,
+      "editions": 7,
+      "films": 178,
+      "missingEditions": []
+    },
+    {
+      "year": 1987,
+      "editions": 8,
+      "films": 195,
+      "missingEditions": []
+    },
+    {
+      "year": 1988,
+      "editions": 7,
+      "films": 180,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1989,
+      "editions": 7,
+      "films": 172,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1990,
+      "editions": 7,
+      "films": 172,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1991,
+      "editions": 7,
+      "films": 173,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1992,
+      "editions": 7,
+      "films": 167,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1993,
+      "editions": 7,
+      "films": 184,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1994,
+      "editions": 7,
+      "films": 180,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1995,
+      "editions": 7,
+      "films": 183,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1996,
+      "editions": 7,
+      "films": 189,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1997,
+      "editions": 7,
+      "films": 195,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1998,
+      "editions": 7,
+      "films": 199,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 1999,
+      "editions": 7,
+      "films": 188,
+      "missingEditions": [
+        "BAFTA"
+      ]
+    },
+    {
+      "year": 2000,
+      "editions": 8,
+      "films": 238,
+      "missingEditions": []
+    },
+    {
+      "year": 2001,
+      "editions": 8,
+      "films": 231,
+      "missingEditions": []
+    },
+    {
+      "year": 2002,
+      "editions": 8,
+      "films": 239,
+      "missingEditions": []
+    },
+    {
+      "year": 2003,
+      "editions": 8,
+      "films": 242,
+      "missingEditions": []
+    },
+    {
+      "year": 2004,
+      "editions": 8,
+      "films": 239,
+      "missingEditions": []
+    },
+    {
+      "year": 2005,
+      "editions": 8,
+      "films": 252,
+      "missingEditions": []
+    },
+    {
+      "year": 2006,
+      "editions": 8,
+      "films": 252,
+      "missingEditions": []
+    },
+    {
+      "year": 2007,
+      "editions": 8,
+      "films": 250,
+      "missingEditions": []
+    },
+    {
+      "year": 2008,
+      "editions": 8,
+      "films": 245,
+      "missingEditions": []
+    },
+    {
+      "year": 2009,
+      "editions": 8,
+      "films": 236,
+      "missingEditions": []
+    },
+    {
+      "year": 2010,
+      "editions": 8,
+      "films": 248,
+      "missingEditions": []
+    },
+    {
+      "year": 2011,
+      "editions": 8,
+      "films": 236,
+      "missingEditions": []
+    },
+    {
+      "year": 2012,
+      "editions": 8,
+      "films": 244,
+      "missingEditions": []
+    },
+    {
+      "year": 2013,
+      "editions": 8,
+      "films": 236,
+      "missingEditions": []
+    },
+    {
+      "year": 2014,
+      "editions": 8,
+      "films": 255,
+      "missingEditions": []
+    },
+    {
+      "year": 2015,
+      "editions": 8,
+      "films": 256,
+      "missingEditions": []
+    }
+  ],
+  "completedBlock": {
+    "festival": "BAFTA",
+    "year": 1987,
+    "films": 22,
+    "owned": 18,
+    "notLocated": 4
+  }
+}
