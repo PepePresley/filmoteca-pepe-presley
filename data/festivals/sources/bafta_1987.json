@@ -1,0 +1,44 @@
+{
+  "year": 1987,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "scope": "Solo cine; conservación íntegra de las otras siete ediciones de 1987",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1987",
+    "https://www.bafta.org/awards/film/?award-year=1987"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1984.xlsx",
+    "Catalogo_Telegram_1985.xlsx",
+    "Catalogo_Telegram_1986.xlsx",
+    "Catalogo_Telegram_1987.xlsx"
+  ],
+  "counts": {
+    "films": 22,
+    "owned": 18,
+    "notLocated": 4,
+    "categories": 18,
+    "awards": 18,
+    "candidatures": 73
+  },
+  "excluded": [
+    "Categorías de televisión",
+    "Mejor documental de la página FA: no pertenece a Film Awards 1987 del archivo BAFTA",
+    "Animación de programas y especiales televisivos; no asignar la ficha incongruente de Mr. Barrington a Paddington",
+    "Premios honoríficos a personas o instituciones"
+  ],
+  "notes": [
+    "La misión cruza con el largometraje de Roland Joffé; se descarta la ficha de Cuentos asombrosos",
+    "Se conservan las candidaturas por persona (incluidas dos para una película en la misma categoría) y los nombres de premiados. Pestañas con las categorías canónicas de LAB.",
+    "No se modifican maestros ni otros años; no se asignan imágenes nuevas"
+  ],
+  "categoryLabels": {
+    "Mejor actor secundario": "Mejor actor de reparto",
+    "Mejor actriz secundaria": "Mejor actriz de reparto",
+    "Mejor banda sonora": "Mejor música original",
+    "Mejor diseño de vestuario": "Mejor vestuario",
+    "Mejores efectos especiales visuales": "Mejores efectos visuales",
+    "Mejor película en habla no inglesa": "Mejor película de habla no inglesa",
+    "Mejor cortometraje": "Mejor cortometraje británico"
+  }
+}
