@@ -25,13 +25,44 @@ Conserva el orden de películas, todos sus campos y las categorías de premios.
 las pruebas y esta comprobación.
 
 La propiedad procede de los maestros aprobados y de `festival-owned-AAAA.json`.
-`festival-matches.json` continúa generándose mediante su script y workflow;
-no editarlo manualmente. Regenerar las asociaciones una sola vez con el
-alcance del bloque. La migración de fuentes usa `--labels-only` para conservar
-íntegro el mapa aprobado, porque su contenido y sus identidades no cambian.
+`festival-matches.json` es generado; no editarlo manualmente. El alcance se
+calcula comparando los datos actuales con un commit aprobado, sin depender
+del nombre de la rama:
+
+```sh
+node scripts/plan-festival-matches.mjs --base=origin/main --plan-only
+node scripts/plan-festival-matches.mjs --base=origin/main
+```
+
+La primera orden muestra el plan sin escribir. La segunda ejecuta una única
+generación final usando el mapa aprobado del commit base. Conviene terminar
+todos los cambios del bloque antes de ejecutarla.
+
+Los cambios de identidad, aliases, sección o propiedad afectan a sus años de
+edición. Los cambios del catálogo se comparan con las mismas reglas del
+generador: solo afectan a años donde cambia el resultado, incluyendo premios
+del año siguiente, identidades con año desplazado, empates y carátulas de
+fallback. La comparación contempla la sustitución de un año por un maestro
+anual y los overlays históricos. Los metadatos técnicos ajenos al mapa no
+provocan reconstrucciones.
+
+Las etiquetas visibles, premios, categorías y cambios de presentación
+conservan las asociaciones aprobadas mediante `--labels-only`. Los cambios
+de reglas del generador se anuncian con motivo `matching-rules` y requieren
+regenerar todos los años existentes; revisar ese alcance antes de publicarlos.
+La extracción inicial de las reglas solo se considera neutra si conserva
+literalmente el resolver anterior.
+
+CI usa el commit de main de la PR como base, verifica las fuentes anuales,
+ejecuta las pruebas y exige que el mapa generado coincida con el presentado.
+En las ramas de staging existentes usa el commit anterior del push. Un mapa
+modificado a mano no se convierte en la referencia aprobada de su propia PR.
+Si otro commit llega durante la generación en staging, el push falla en vez
+de mezclar resultados de dos estados distintos: repetir sobre el último commit.
 
 ```sh
 node --test scripts/build-festivals.test.mjs
+node --test scripts/plan-festival-matches.test.mjs
 ```
 
 `sources/` conserva la evidencia documental. Los antiguos archivos parciales
