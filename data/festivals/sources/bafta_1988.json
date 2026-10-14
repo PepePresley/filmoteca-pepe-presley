@@ -1,0 +1,37 @@
+{
+  "year": 1988,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1988",
+    "https://www.bafta.org/awards/film/?award-year=1988"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1985.xlsx",
+    "Catalogo_Telegram_1986.xlsx",
+    "Catalogo_Telegram_1987.xlsx",
+    "Catalogo_Telegram_1988.xlsx"
+  ],
+  "counts": {
+    "films": 23,
+    "owned": 20,
+    "notLocated": 3,
+    "categories": 18,
+    "candidatures": 72,
+    "awards": 18
+  },
+  "excluded": [
+    "Televisión, documental de TV y animación de series/especiales de TV",
+    "Premios honoríficos a personas o instituciones"
+  ],
+  "notes": [
+    "Conservar las dos candidaturas a mejor actor de El manantial de las colinas",
+    "La tarjeta combinada FA de David Leland menciona dos películas: solo Si estuvieras aquí gana guion original; Servicios muy personales es nominada, según el archivo oficial BAFTA",
+    "The Artist corresponde a Artisten de Jonas Grimås, no al largometraje homónimo de 2011",
+    "The Short & Curlies se localiza en el maestro de 1987; otros tres cortos quedan sin localizar",
+    "No se asignan imágenes nuevas; reutilizar el catálogo aprobado",
+    "La pequeña Dorrit conserva el año de clasificación del maestro 1988, sin reclasificación automática",
+    "D’après Maria no se tiene confirmada: propiedad autoritativa falsa impide el falso positivo aproximado con Aria",
+    "The Short & Curlies conserva la clasificación ya publicada de 1988, aunque el maestro consultado es 1987"
+  ]
+}
