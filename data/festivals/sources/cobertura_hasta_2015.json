@@ -1,11 +1,7 @@
 {
   "scope": "Años ya construidos, 1984–2015. Presencia de ediciones y secciones principales; no auditoría de películas individuales.",
-  "next": 1989,
+  "next": 1990,
   "missing": [
-    {
-      "year": 1989,
-      "festival": "BAFTA"
-    },
     {
       "year": 1990,
       "festival": "BAFTA"
@@ -80,11 +76,9 @@
     },
     {
       "year": 1989,
-      "editions": 7,
-      "films": 172,
-      "missingEditions": [
-        "BAFTA"
-      ]
+      "editions": 8,
+      "films": 201,
+      "missingEditions": []
     },
     {
       "year": 1990,
@@ -265,12 +259,12 @@
   ],
   "completedBlock": {
     "festival": "BAFTA",
-    "year": 1988,
-    "films": 23,
+    "year": 1989,
+    "films": 29,
+    "candidatures": 76,
+    "awards": 19,
     "owned": 20,
-    "notLocated": 3,
-    "categories": 18,
-    "candidatures": 72,
-    "awards": 18
+    "notLocated": 9,
+    "categories": 19
   }
 }
