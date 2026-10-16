@@ -1,0 +1,36 @@
+{
+  "year": 1992,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1992",
+    "https://www.bafta.org/awards/film/?award-year=1992"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1988.xlsx",
+    "Catalogo_Telegram_1989.xlsx",
+    "Catalogo_Telegram_1990.xlsx",
+    "Catalogo_Telegram_1991.xlsx",
+    "Catalogo_Telegram_1992.xlsx"
+  ],
+  "counts": {
+    "films": 31,
+    "owned": 23,
+    "notLocated": 8,
+    "categories": 19,
+    "candidatures": 76,
+    "awards": 19
+  },
+  "excluded": [
+    "Televisión y premios honoríficos a personas o instituciones"
+  ],
+  "notes": [
+    "El silencio de los corderos: candidatura a guion adaptado de Ted Tally, según BAFTA; la tarjeta combinada FA la reúne bajo Rappeneau/Carrière",
+    "Frankie & Johnny y Frankie y Johnny corresponden a Garry Marshall",
+    "Adam se confirma por título original y director Peter Lord en el maestro, aunque el título ES esté vacío; se reutiliza la ficha existente",
+    "Cortos ausentes en la página FA completados desde BAFTA; conservar el título oficial cuando falta referencia FA",
+    "Los créditos del archivo se conservan en las candidaturas; no se infiere el director a partir del orden de los créditos",
+    "Maestros vigentes de solo lectura; casos inequívocos resueltos en bloque y ausencias restantes pendientes",
+    "Se reutiliza el catálogo aprobado; ninguna imagen nueva ni reclasificación automática"
+  ]
+}
