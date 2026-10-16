@@ -1,0 +1,33 @@
+{
+  "year": 1993,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1993",
+    "https://www.bafta.org/awards/film/?award-year=1993"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1990.xlsx",
+    "Catalogo_Telegram_1991.xlsx",
+    "Catalogo_Telegram_1992.xlsx",
+    "Catalogo_Telegram_1993.xlsx"
+  ],
+  "counts": {
+    "films": 29,
+    "owned": 24,
+    "notLocated": 5,
+    "categories": 20,
+    "candidatures": 79,
+    "awards": 20
+  },
+  "excluded": [
+    "Televisión, honoríficos y reconocimientos a personas o instituciones sin película"
+  ],
+  "notes": [
+    "Miranda Richardson gana actriz de reparto solo por Herida; Juego de lágrimas es nominada, según BAFTA",
+    "La categoría de película británica se conserva y los cortos ausentes de FA se completan desde BAFTA",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por su orden",
+    "Maestros aprobados de solo lectura, variantes claras resueltas en bloque y ausencias pendientes",
+    "Solo cambios de este bloque; catálogo e imágenes existentes reutilizados"
+  ]
+}
