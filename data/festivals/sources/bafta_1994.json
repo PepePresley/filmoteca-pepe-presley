@@ -1,0 +1,35 @@
+{
+  "year": 1994,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1994",
+    "https://www.bafta.org/awards/film/?award-year=1994"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1990.xlsx",
+    "Catalogo_Telegram_1991.xlsx",
+    "Catalogo_Telegram_1992.xlsx",
+    "Catalogo_Telegram_1993.xlsx",
+    "Catalogo_Telegram_1994.xlsx"
+  ],
+  "counts": {
+    "films": 34,
+    "owned": 30,
+    "notLocated": 4,
+    "categories": 21,
+    "candidatures": 83,
+    "awards": 21
+  },
+  "excluded": [
+    "Televisión, honoríficos y reconocimientos a personas o instituciones sin película"
+  ],
+  "notes": [
+    "Anthony Hopkins gana por Lo que queda del día; Tierras de penumbra es nominada, según BAFTA",
+    "Parque Jurásico, El cumpleaños de Bob y El refugio de los ángeles cruzan con sus títulos originales en los maestros",
+    "Se incorpora el premio del público a Jurassic Park, documentado por BAFTA",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por su orden",
+    "Maestros aprobados de solo lectura, variantes claras resueltas en bloque y ausencias pendientes",
+    "Solo cambios de este bloque; catálogo e imágenes existentes reutilizados"
+  ]
+}

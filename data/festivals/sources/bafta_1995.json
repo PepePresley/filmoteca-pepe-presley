@@ -1,0 +1,36 @@
+{
+  "year": 1995,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1995",
+    "https://www.bafta.org/awards/film/?award-year=1995"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1991.xlsx",
+    "Catalogo_Telegram_1992.xlsx",
+    "Catalogo_Telegram_1993.xlsx",
+    "Catalogo_Telegram_1994.xlsx",
+    "Catalogo_Telegram_1995.xlsx"
+  ],
+  "counts": {
+    "films": 35,
+    "owned": 28,
+    "notLocated": 7,
+    "categories": 21,
+    "candidatures": 82,
+    "awards": 21
+  },
+  "excluded": [
+    "Televisión, honoríficos y reconocimientos a personas o instituciones sin película"
+  ],
+  "notes": [
+    "¡Vivir! gana película de habla no inglesa; Belle Époque es nominada, según BAFTA",
+    "Tres colores: Rojo corresponde a guion original, no adaptado, según BAFTA",
+    "Se incorpora el premio del público a Cuatro bodas y un funeral",
+    "The Big Story se confirma por título original y directores en el maestro, aunque el título español esté vacío",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por su orden",
+    "Maestros aprobados de solo lectura, variantes claras resueltas en bloque y ausencias pendientes",
+    "Solo cambios de este bloque; catálogo e imágenes existentes reutilizados"
+  ]
+}
