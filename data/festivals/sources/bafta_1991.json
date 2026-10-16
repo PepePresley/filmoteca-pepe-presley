@@ -1,0 +1,35 @@
+{
+  "year": 1991,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1991",
+    "https://www.bafta.org/awards/film/?award-year=1991"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1987.xlsx",
+    "Catalogo_Telegram_1988.xlsx",
+    "Catalogo_Telegram_1989.xlsx",
+    "Catalogo_Telegram_1990.xlsx",
+    "Catalogo_Telegram_1991.xlsx"
+  ],
+  "counts": {
+    "films": 32,
+    "owned": 26,
+    "notLocated": 6,
+    "categories": 19,
+    "candidatures": 76,
+    "awards": 19
+  },
+  "excluded": [
+    "Televisión y premios honoríficos a personas o instituciones"
+  ],
+  "notes": [
+    "Los Kray (FA) y Los Krays (maestro) corresponden a Peter Medak",
+    "La muerte del estalinismo en Bohemia conserva clasificación 1991 del catálogo/maestro",
+    "Cortos ausentes en la página FA completados desde BAFTA; conservar el título oficial cuando falta referencia FA",
+    "Los créditos del archivo se conservan en las candidaturas; no se infiere el director a partir del orden de los créditos",
+    "Maestros vigentes de solo lectura; casos inequívocos resueltos en bloque y ausencias restantes pendientes",
+    "Se reutiliza el catálogo aprobado; ninguna imagen nueva ni reclasificación automática"
+  ]
+}
