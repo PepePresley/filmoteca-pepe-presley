@@ -1,20 +1,21 @@
 {
   "scope": "Ampliación histórica anterior a 1984, año por año descendiendo.",
-  "lastConstructedYear": 1983,
-  "nextYear": 1982,
+  "lastConstructedYear": 1982,
+  "nextYear": 1981,
   "completedYears": [
-    1983
+    1983,
+    1982
   ],
-  "status": "1983_CONSTRUIDO",
+  "status": "1982_CONSTRUIDO",
   "counts": {
-    "editions": 9,
-    "appearances": 187,
-    "owned": 123,
-    "notLocated": 64
+    "editions": 8,
+    "appearances": 173,
+    "owned": 110,
+    "notLocated": 63
   },
   "notApplicable": [
-    "Goya: no existía en 1983.",
-    "San Sebastián: no se concedió Concha de Oro; edición no competitiva."
+    "Goya: no existía en 1982.",
+    "San Sebastián: edición no competitiva, sin Concha de Oro (1982)."
   ],
   "notes": [
     "Los inventarios cerrados de 1984–2015 y 2016–2026 se conservan.",

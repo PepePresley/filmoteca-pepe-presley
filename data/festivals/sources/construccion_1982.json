@@ -1,0 +1,110 @@
+{
+  "year": 1982,
+  "status": "CONSTRUIDO",
+  "scope": "Familias y secciones principales; las secciones adicionales expresamente limitadas a películas premiadas no representan una selección completa.",
+  "preparationPackage": {
+    "name": "1982_PAQUETE_CONSOLIDADO_PARA_SOL.json",
+    "sha256": "55485b00847de7f66a2764a86f3d92be650315fe70f67b081e9afa38892b13cc",
+    "usedAs": "Preparación reutilizada, contrastada con FA España y salvedades oficiales; cruces GOLD/Telegram antiguos no usados como propiedad."
+  },
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1982",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_1982",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=venice_1982",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=ss_1982",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1982",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1982",
+    "https://asac.labiennale.org/attivita/cinema/annali?anno=1982",
+    "https://www.sansebastianfestival.com/1982/secciones_y_peliculas/8/es",
+    "https://www.oscars.org/oscars/ceremonies/1982",
+    "https://www.bafta.org/awards/film/?award-year=1982",
+    "https://www.festival-cannes.com/en/retrospective/1982/"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1978.xlsx",
+    "Catalogo_Telegram_1979.xlsx",
+    "Catalogo_Telegram_1980.xlsx",
+    "Catalogo_Telegram_1981.xlsx",
+    "Catalogo_Telegram_1982.xlsx",
+    "Catalogo_Telegram_1983.xlsx"
+  ],
+  "mastersModifiedOn": "2026-10-05",
+  "counts": [
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 21,
+      "owned": 8,
+      "notLocated": 13
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 22,
+      "owned": 19,
+      "notLocated": 3
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 16,
+      "owned": 7,
+      "notLocated": 9
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 28,
+      "owned": 15,
+      "notLocated": 13
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial",
+      "films": 19,
+      "owned": 14,
+      "notLocated": 5
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Nuevos Realizadores · película premiada",
+      "films": 1,
+      "owned": 0,
+      "notLocated": 1
+    },
+    {
+      "festival": "Oscar",
+      "section": "54.ª edición · películas de 1981",
+      "films": 42,
+      "owned": 31,
+      "notLocated": 11,
+      "categories": 23,
+      "candidaturesOrSpecialAwards": 101,
+      "awards": 23
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1981",
+      "films": 24,
+      "owned": 16,
+      "notLocated": 8,
+      "categories": 16,
+      "candidaturesOrSpecialAwards": 63,
+      "awards": 16
+    }
+  ],
+  "notes": [
+    "Se reutiliza el paquete de Luna para selecciones, premios y suplementos de Oscar. FilmAffinity España fija los títulos registrados y candidaturas.",
+    "Propiedad contrastada con los maestros aprobados actuales: los candidatos GOLD y Telegram antiguos no acreditan propiedad. Sin cambios de maestros, catálogo, imágenes ni otros años.",
+    "Cannes: 22 largometrajes y los 16 UCR del paquete completo, no la lista preliminar de 11. Se conservan las dos Palmas de Oro compartidas.",
+    "Berlín: Kraftprobe figura en la selección de largometrajes de FA. El origen televisivo no se interpreta como cortometraje.",
+    "Venecia: 28 títulos confirmados en ASAC, sección Cinema 82. Se conserva Oro a El estado de las cosas, premio especial a Imperativo, óperas primas y colaboración artístico-profesional de Mikhail Ulyanov por Vida privada.",
+    "Los premios secundarios del paquete se incorporan solo cuando corresponden a una película identificada en la selección.",
+    "San Sebastián: 19 títulos de Sección Oficial, edición no competitiva. Plata dulce pertenece a Barrios y pueblos y no se incluye en esa sección. E.T. conserva película invitada. Sciopèn se registra aparte como película premiada de Nuevos Realizadores.",
+    "Oscar: 22 categorías competitivas más el premio especial de edición de efectos sonoros para En busca del arca perdida. No se inventan nominados para ese premio especial. Documentales y cortos omitidos en FA completados desde la transcripción de la Academia del paquete.",
+    "BAFTA: 16 categorías de cine, incluidas revelación de papeles cinematográficos, documental y cortos. Televisión excluida. Se conservan candidaturas diferentes por persona.",
+    "Aliases claros resueltos en bloque: The Girl with the Red Hair, Strange Affair, Best Boy e Imperativ. Orden de codirectores y transliteraciones normalizados para el cruce, sin cambiar las identidades consolidadas.",
+    "CONSTRUIDO por método práctico. Las películas sin localizar permanecen pendientes; no es auditoría individual exhaustiva.",
+    "Premio no importado sin resolver sección/identidad: Agoniya · FIPRESCI"
+  ]
+}
