@@ -1,0 +1,116 @@
+{
+  "year": 1983,
+  "status": "CONSTRUIDO",
+  "scope": "Familias y secciones principales aplicables. Incluye únicamente las películas premiadas expresamente identificadas de otras secciones; no reconstruye íntegramente esas otras secciones.",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1983",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_1983",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=venice_1983",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=ss_1983",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1983",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1983",
+    "https://www.festival-cannes.com/en/retrospective/1983/",
+    "https://www.festival-cannes.com/retrospective/1983/palmares/",
+    "https://www.sansebastianfestival.com/1983/secciones_y_peliculas/8/es",
+    "https://www.sansebastianfestival.com/1983/premios_y_jurados/premios/1/76/es",
+    "https://www.oscars.org/oscars/ceremonies/1983",
+    "https://www.bafta.org/awards/film/?award-year=1983",
+    "https://asac.labiennale.org/attivita/cinema/10445"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1928.xlsx",
+    "Catalogo_Telegram_1979.xlsx",
+    "Catalogo_Telegram_1981.xlsx",
+    "Catalogo_Telegram_1982.xlsx",
+    "Catalogo_Telegram_1983.xlsx",
+    "Catalogo_Telegram_1984.xlsx"
+  ],
+  "mastersModifiedOn": "2026-10-05",
+  "counts": [
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial",
+      "films": 25,
+      "owned": 11,
+      "notLocated": 14
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 22,
+      "owned": 19,
+      "notLocated": 3
+    },
+    {
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 16,
+      "owned": 11,
+      "notLocated": 5
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 20,
+      "owned": 12,
+      "notLocated": 8
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · película premiada",
+      "films": 1,
+      "owned": 1,
+      "notLocated": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial",
+      "films": 21,
+      "owned": 12,
+      "notLocated": 9
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Nuevos Realizadores · películas premiadas",
+      "films": 2,
+      "owned": 1,
+      "notLocated": 1
+    },
+    {
+      "festival": "Oscar",
+      "section": "55.ª edición · películas de 1982",
+      "films": 47,
+      "owned": 32,
+      "notLocated": 15,
+      "categories": 24,
+      "candidatures": 109,
+      "awards": 24
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1982",
+      "films": 33,
+      "owned": 24,
+      "notLocated": 9,
+      "categories": 21,
+      "candidatures": 84,
+      "awards": 22
+    }
+  ],
+  "notes": [
+    "FilmAffinity España es la fuente principal. Maestros aprobados en solo lectura; el catálogo ya contiene 1983 y se reutilizan las identidades existentes. No se importa de nuevo el año ni se reclasifican películas.",
+    "Cannes: la retrospectiva oficial completa la selección de 22 largometrajes y los 16 títulos de Un Certain Regard ausentes en FA. No se incluyen cortos de competición ni otras secciones sin reconstruir.",
+    "Cannes: Kharij conserva el Premio del Jurado; El dinero y Nostalgia el Gran Premio del cine de creación compartido, denominación del archivo oficial. Carmen conserva el premio técnico y el de contribución artística.",
+    "San Sebastián fue no competitivo, sin Concha de Oro. Se conserva la Sección Oficial, incluidos inauguración, clausura y otros títulos fuera de concurso expresamente etiquetados.",
+    "San Sebastián: Entre nosotras conserva el Gran Premio de la Crítica Internacional; El arreglo y Brussels by Night comparten el Premio Donostia para Nuevos Realizadores. La sección adicional contiene solo esas películas premiadas.",
+    "El archivo de San Sebastián presenta errores SQL en algunos directores; no se publican esos mensajes ni se inventan datos ausentes.",
+    "Venecia: Fanny y Alexander fue fuera de concurso según ASAC, y conserva FIPRESCI en una sección separada de película premiada. No se atribuye la competición oficial.",
+    "Oscar: se completan documental, cortometraje documental y ficción desde la Academia, sin inferir directores por nombres de productores. 24 categorías y 24 premios.",
+    "BAFTA: solo Film Awards, incluidas Robert Flaherty, Short Film, Short Animation y Most Promising Newcomer to Leading Film Roles. Se conservan 21 categorías y el empate de actriz secundaria.",
+    "Los maestros contienen variantes/fragmentos de El submarino y Pink Floyd: El muro. La propiedad se acredita con los largometrajes y los cruces reutilizan identidades existentes, sin modificar los maestros.",
+    "El muñeco de nieve cruza con The Snowman; El pastor con Le Gardien de chevaux. Cristo se paró en Éboli se confirma en el maestro de 1979 y Y el mundo marcha en el de 1928. Ulysse conserva su clasificación existente aunque el maestro lo incluya en 1986.",
+    "Sin imágenes nuevas; coincidencias claras automatizadas, ausencias pendientes sin investigación individual exhaustiva.",
+    "Falso positivo bloqueado en prueba visual: Carmen de Carlos Saura no se cruza con Carmen de Bizet de Francesco Rosi. La propiedad queda sin acreditar; premios y director de Saura se conservan.",
+    "El arreglo premiado corresponde a José Antonio Zorrilla (España), según el palmarés oficial, y no al homónimo argentino de Fernando Ayala enlazado por FA. Se bloquea la propiedad del homónimo y se conserva la identidad de Zorrilla sin imagen."
+  ]
+}
