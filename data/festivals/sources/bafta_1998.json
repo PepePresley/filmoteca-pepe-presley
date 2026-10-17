@@ -1,0 +1,34 @@
+{
+  "year": 1998,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1998",
+    "https://www.bafta.org/awards/film/?award-year=1998"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1994.xlsx",
+    "Catalogo_Telegram_1995.xlsx",
+    "Catalogo_Telegram_1996.xlsx",
+    "Catalogo_Telegram_1997.xlsx",
+    "Catalogo_Telegram_1998.xlsx"
+  ],
+  "counts": {
+    "films": 28,
+    "owned": 22,
+    "notLocated": 6,
+    "categories": 21,
+    "candidatures": 83,
+    "awards": 21
+  },
+  "excluded": [
+    "Categorías de Television Awards y honoríficos sin película"
+  ],
+  "notes": [
+    "Los Borrowers cruza con The Borrowers/Peter Hewitt y Gasman con el corto de Lynne Ramsay",
+    "Se incorpora el premio del público a Full Monty",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por orden de nombres",
+    "Maestros de solo lectura, coincidencias claras aceptadas y ausencias restantes pendientes",
+    "Sin imágenes nuevas, cambios de catálogo ni revisión de otros años"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "year": 1997,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1997",
+    "https://www.bafta.org/awards/film/?award-year=1997"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1993.xlsx",
+    "Catalogo_Telegram_1994.xlsx",
+    "Catalogo_Telegram_1995.xlsx",
+    "Catalogo_Telegram_1996.xlsx",
+    "Catalogo_Telegram_1997.xlsx"
+  ],
+  "counts": {
+    "films": 35,
+    "owned": 27,
+    "notLocated": 8,
+    "categories": 20,
+    "candidatures": 84,
+    "awards": 20
+  },
+  "excluded": [
+    "Categorías de Television Awards y honoríficos sin película"
+  ],
+  "notes": [
+    "La referencia FA a Testament se desglosa en Joseph y Moses, los dos episodios nominados en Short Animation de Film Awards; no se declara premiada la serie completa",
+    "Las categorías de cortos de Film Awards se conservan aunque alguna producción tenga origen televisivo; no se incorporan categorías de Television Awards",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por orden de nombres",
+    "Maestros de solo lectura, coincidencias claras aceptadas y ausencias restantes pendientes",
+    "Sin imágenes nuevas, cambios de catálogo ni revisión de otros años"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "year": 1996,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1996",
+    "https://www.bafta.org/awards/film/?award-year=1996"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1993.xlsx",
+    "Catalogo_Telegram_1994.xlsx",
+    "Catalogo_Telegram_1995.xlsx",
+    "Catalogo_Telegram_1996.xlsx"
+  ],
+  "counts": {
+    "films": 33,
+    "owned": 26,
+    "notLocated": 7,
+    "categories": 21,
+    "candidatures": 83,
+    "awards": 21
+  },
+  "excluded": [
+    "Categorías de Television Awards y honoríficos sin película"
+  ],
+  "notes": [
+    "Gogs Ogof identifica el corto concreto de BAFTA, no la serie genérica enlazada por FA",
+    "Se incorpora el premio del público a Braveheart",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por orden de nombres",
+    "Maestros de solo lectura, coincidencias claras aceptadas y ausencias restantes pendientes",
+    "Sin imágenes nuevas, cambios de catálogo ni revisión de otros años"
+  ]
+}
