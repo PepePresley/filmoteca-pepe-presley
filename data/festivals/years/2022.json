@@ -1925,6 +1925,748 @@
           "award": "Nominado · 1 candidatura"
         }
       ]
+    },
+    {
+      "festival": "BAFTA",
+      "year": 2022,
+      "section": "Premios de cine · películas de 2021",
+      "films": [
+        {
+          "title": "El poder del perro",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Jane Campion",
+            "Mejor actor · Benedict Cumberbatch",
+            "Mejor actor de reparto · Kodi Smit-McPhee",
+            "Mejor actor de reparto · Jesse Plemons",
+            "Mejor guion adaptado · Jane Campion",
+            "Mejor fotografía · Ari Wegner",
+            "Mejor música original · Jonny Greenwood"
+          ],
+          "wins": [
+            "Mejor película",
+            "Mejor dirección · Jane Campion"
+          ],
+          "director": "Jane Campion",
+          "aliases": [
+            "The Power of the Dog"
+          ],
+          "award": "Ganadora · Mejor película · 2 BAFTA"
+        },
+        {
+          "title": "Belfast",
+          "nominations": [
+            "Mejor película",
+            "Mejor película británica",
+            "Mejor actor de reparto · Ciarán Hinds",
+            "Mejor actriz de reparto · Caitriona Balfe",
+            "Mejor guion original · Kenneth Branagh",
+            "Mejor montaje · Úna Ní Dhonghaíle"
+          ],
+          "wins": [
+            "Mejor película británica"
+          ],
+          "director": "Kenneth Branagh",
+          "aliases": [],
+          "award": "Ganadora · Mejor película británica"
+        },
+        {
+          "title": "No mires arriba",
+          "nominations": [
+            "Mejor película",
+            "Mejor actor · Leonardo DiCaprio",
+            "Mejor guion original · Adam McKay",
+            "Mejor música original · Nicholas Britell"
+          ],
+          "wins": [],
+          "director": "Adam McKay",
+          "aliases": [
+            "Don't Look Up"
+          ],
+          "award": "Nominada · 4 candidaturas"
+        },
+        {
+          "title": "Dune",
+          "nominations": [
+            "Mejor película",
+            "Mejor guion adaptado · Denis Villeneuve",
+            "Mejor fotografía · Greig Fraser",
+            "Mejor montaje · Joe Walker",
+            "Mejor música original · Hans Zimmer",
+            "Mejor reparto (casting)",
+            "Mejor diseño de producción · Patrice Vermette, Zsuzsanna Sipos",
+            "Mejor vestuario · Jacqueline West, Bob Morgan",
+            "Mejor maquillaje y peluquería · Love Larson, Donald Mowat",
+            "Mejor sonido · Mac Ruth, Mark Mangini, Doug Hemphill, Theo Green, Ron Bartlett",
+            "Mejores efectos visuales · Brian Connor, Paul Lambert, Tristan Myles, Gerd Nefzer"
+          ],
+          "wins": [
+            "Mejor fotografía · Greig Fraser",
+            "Mejor música original · Hans Zimmer",
+            "Mejor diseño de producción · Patrice Vermette, Zsuzsanna Sipos",
+            "Mejor sonido · Mac Ruth, Mark Mangini, Doug Hemphill, Theo Green, Ron Bartlett",
+            "Mejores efectos visuales · Brian Connor, Paul Lambert, Tristan Myles, Gerd Nefzer"
+          ],
+          "director": "Denis Villeneuve",
+          "aliases": [],
+          "award": "Ganadora · Mejor fotografía · Greig Fraser · 5 BAFTA"
+        },
+        {
+          "title": "Licorice Pizza",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Paul Thomas Anderson",
+            "Mejor actriz · Alana Haim",
+            "Mejor guion original · Paul Thomas Anderson",
+            "Mejor montaje · Andy Jurgensen"
+          ],
+          "wins": [
+            "Mejor guion original · Paul Thomas Anderson"
+          ],
+          "director": "Paul Thomas Anderson",
+          "aliases": [],
+          "award": "Ganadora · Mejor guion original · Paul Thomas Anderson"
+        },
+        {
+          "title": "Después del amor",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor dirección · Aleem Khan",
+            "Mejor actriz · Joanna Scanlan",
+            "Mejor debut británico · Aleem Khan"
+          ],
+          "wins": [
+            "Mejor actriz · Joanna Scanlan"
+          ],
+          "director": "Aleem Khan",
+          "aliases": [
+            "After Love"
+          ],
+          "award": "Ganadora · Mejor actriz · Joanna Scanlan"
+        },
+        {
+          "title": "Ali y Ava",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor actor · Adeel Akhtar"
+          ],
+          "wins": [],
+          "director": "Clio Barnard",
+          "aliases": [
+            "Ali & Ava"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "Última noche en el Soho",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor sonido · Colin Nicolson, Julian Slater, Tim Cavagin, Dan Morgan"
+          ],
+          "wins": [],
+          "director": "Edgar Wright",
+          "aliases": [
+            "Last Night in Soho"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "Cyrano",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor diseño de producción · Sarah Greenwood, Katie Spencer",
+            "Mejor vestuario · Massimo Cantini Parrini",
+            "Mejor maquillaje y peluquería · Alessandro Bertolazzi, Sian Miller"
+          ],
+          "wins": [],
+          "director": "Joe Wright",
+          "aliases": [],
+          "award": "Nominada · 4 candidaturas"
+        },
+        {
+          "title": "Hierve",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor actor · Stephen Graham",
+            "Mejor reparto (casting)",
+            "Mejor debut británico · James Cummings, Hester Ruoff"
+          ],
+          "wins": [],
+          "director": "Philip Barantini",
+          "aliases": [
+            "Boiling Point"
+          ],
+          "award": "Nominada · 4 candidaturas"
+        },
+        {
+          "title": "La casa Gucci",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor actriz · Lady Gaga",
+            "Mejor maquillaje y peluquería · Frederic Aspiras, Jana Carboni, Giuliano Mariano, Sarah Tanno"
+          ],
+          "wins": [],
+          "director": "Ridley Scott",
+          "aliases": [
+            "House of Gucci"
+          ],
+          "award": "Nominada · 3 candidaturas"
+        },
+        {
+          "title": "Sin tiempo para morir",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor fotografía · Linus Sandgren",
+            "Mejor montaje · Tom Cross, Elliot Graham",
+            "Mejor sonido · James Harrison, Simon Hayes, Paul Massey, Oliver Tarney, Mark Taylor",
+            "Mejores efectos visuales · Mark Bokowski, Chris Corbould, Joel Green, Charlie Noble"
+          ],
+          "wins": [
+            "Mejor montaje · Tom Cross, Elliot Graham"
+          ],
+          "director": "Cary Joji Fukunaga",
+          "aliases": [
+            "No Time to Die"
+          ],
+          "award": "Ganadora · Mejor montaje · Tom Cross, Elliot Graham"
+        },
+        {
+          "title": "Claroscuro",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor actriz · Tessa Thompson",
+            "Mejor actriz de reparto · Ruth Negga",
+            "Mejor debut británico · Rebecca Hall"
+          ],
+          "wins": [],
+          "director": "Rebecca Hall",
+          "aliases": [
+            "Passing"
+          ],
+          "award": "Nominada · 4 candidaturas"
+        },
+        {
+          "title": "Todos hablan de Jamie",
+          "nominations": [
+            "Mejor película británica"
+          ],
+          "wins": [],
+          "director": "Jonathan Butterell",
+          "aliases": [
+            "Everybody's Talking About Jamie"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Drive My Car",
+          "nominations": [
+            "Mejor dirección · Ryûsuke Hamaguchi",
+            "Mejor guion adaptado · Ryûsuke Hamaguchi",
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [
+            "Mejor película de habla no inglesa"
+          ],
+          "director": "Ryûsuke Hamaguchi",
+          "aliases": [],
+          "award": "Ganadora · Mejor película de habla no inglesa"
+        },
+        {
+          "title": "El acontecimiento",
+          "nominations": [
+            "Mejor dirección · Audrey Diwan"
+          ],
+          "wins": [],
+          "director": "Audrey Diwan",
+          "aliases": [
+            "L'Événement"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Titane",
+          "nominations": [
+            "Mejor dirección · Julia Ducournau"
+          ],
+          "wins": [],
+          "director": "Julia Ducournau",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "El método Williams",
+          "nominations": [
+            "Mejor actor · Will Smith",
+            "Mejor actriz de reparto · Aunjanue Ellis-Taylor",
+            "Mejor guion original · Zach Baylin",
+            "Mejor reparto (casting)"
+          ],
+          "wins": [
+            "Mejor actor · Will Smith"
+          ],
+          "director": "Reinaldo Marcus Green",
+          "aliases": [
+            "King Richard"
+          ],
+          "award": "Ganadora · Mejor actor · Will Smith"
+        },
+        {
+          "title": "El canto del cisne",
+          "nominations": [
+            "Mejor actor · Mahershala Ali"
+          ],
+          "wins": [],
+          "director": "Benjamin Cleary",
+          "aliases": [
+            "Swan Song"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "CODA: Los sonidos del silencio",
+          "nominations": [
+            "Mejor actriz · Emilia Jones",
+            "Mejor actor de reparto · Troy Kotsur",
+            "Mejor guion adaptado · Siân Heder"
+          ],
+          "wins": [
+            "Mejor actor de reparto · Troy Kotsur",
+            "Mejor guion adaptado · Siân Heder"
+          ],
+          "director": "Sian Heder",
+          "aliases": [
+            "CODA"
+          ],
+          "award": "Ganadora · Mejor actor de reparto · Troy Kotsur · 2 BAFTA"
+        },
+        {
+          "title": "La peor persona del mundo",
+          "nominations": [
+            "Mejor actriz · Renate Reinsve",
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Joachim Trier",
+          "aliases": [
+            "Verdens verste menneske"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "West Side Story",
+          "nominations": [
+            "Mejor actor de reparto · Mike Faist",
+            "Mejor actriz de reparto · Ariana DeBose",
+            "Mejor reparto (casting)",
+            "Mejor diseño de producción · Adam Stockhausen, Rena DeAngelo",
+            "Mejor sonido · Brian Chumney, Tod Maitland, Andy Nelson, Gary Rydstrom"
+          ],
+          "wins": [
+            "Mejor actriz de reparto · Ariana DeBose",
+            "Mejor reparto (casting)"
+          ],
+          "director": "Steven Spielberg",
+          "aliases": [],
+          "award": "Ganadora · Mejor actriz de reparto · Ariana DeBose · 2 BAFTA"
+        },
+        {
+          "title": "C'mon C'mon. Siempre adelante",
+          "nominations": [
+            "Mejor actor de reparto · Woody Norman"
+          ],
+          "wins": [],
+          "director": "Mike Mills",
+          "aliases": [
+            "C'mon C'mon"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "La hija oscura",
+          "nominations": [
+            "Mejor actriz de reparto · Jessie Buckley",
+            "Mejor guion adaptado · Maggie Gyllenhaal"
+          ],
+          "wins": [],
+          "director": "Maggie Gyllenhaal",
+          "aliases": [
+            "The Lost Daughter"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "Mass",
+          "nominations": [
+            "Mejor actriz de reparto · Ann Dowd"
+          ],
+          "wins": [],
+          "director": "Fran Kranz",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Ser los Ricardo",
+          "nominations": [
+            "Mejor guion original · Aaron Sorkin",
+            "Mejor música original · Daniel Pemberton"
+          ],
+          "wins": [],
+          "director": "Aaron Sorkin",
+          "aliases": [
+            "Being the Ricardos"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "El callejón de las almas perdidas",
+          "nominations": [
+            "Mejor fotografía · Dan Laustsen",
+            "Mejor diseño de producción · Tamara Deverell, Shane Vieau",
+            "Mejor vestuario · Luis Sequeira"
+          ],
+          "wins": [],
+          "director": "Guillermo del Toro",
+          "aliases": [
+            "Nightmare Alley"
+          ],
+          "award": "Nominada · 3 candidaturas"
+        },
+        {
+          "title": "La tragedia de Macbeth",
+          "nominations": [
+            "Mejor fotografía · Bruno Delbonnel"
+          ],
+          "wins": [],
+          "director": "Joel Coen",
+          "aliases": [
+            "Macbeth",
+            "The Tragedy of Macbeth"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Summer of Soul",
+          "nominations": [
+            "Mejor montaje · Joshua L. Pearson",
+            "Mejor documental"
+          ],
+          "wins": [
+            "Mejor documental"
+          ],
+          "director": "Questlove",
+          "aliases": [
+            "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+          ],
+          "award": "Ganadora · Mejor documental"
+        },
+        {
+          "title": "La crónica francesa (del Liberty, Kansas Evening Sun)",
+          "nominations": [
+            "Mejor música original · Alexandre Desplat",
+            "Mejor diseño de producción · Adam Stockhausen, Rena DeAngelo",
+            "Mejor vestuario · Milena Canonero"
+          ],
+          "wins": [],
+          "director": "Wes Anderson",
+          "aliases": [
+            "La crónica francesa",
+            "The French Dispatch of the Liberty, Kansas Evening Sun"
+          ],
+          "award": "Nominada · 3 candidaturas"
+        },
+        {
+          "title": "Fue la mano de Dios",
+          "nominations": [
+            "Mejor reparto (casting)",
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Paolo Sorrentino",
+          "aliases": [
+            "È stata la mano di Dio"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "Cruella",
+          "nominations": [
+            "Mejor vestuario · Jenny Beavan",
+            "Mejor maquillaje y peluquería · Nadia Stacey, Naomi Donne"
+          ],
+          "wins": [
+            "Mejor vestuario · Jenny Beavan"
+          ],
+          "director": "Craig Gillespie",
+          "aliases": [],
+          "award": "Ganadora · Mejor vestuario · Jenny Beavan"
+        },
+        {
+          "title": "Los ojos de Tammy Faye",
+          "nominations": [
+            "Mejor maquillaje y peluquería · Linda Dowds, Stephanie Ingram, Justin Raleigh"
+          ],
+          "wins": [
+            "Mejor maquillaje y peluquería · Linda Dowds, Stephanie Ingram, Justin Raleigh"
+          ],
+          "director": "Michael Showalter",
+          "aliases": [
+            "The Eyes of Tammy Faye"
+          ],
+          "award": "Ganadora · Mejor maquillaje y peluquería · Linda Dowds, Stephanie Ingram, Justin Raleigh"
+        },
+        {
+          "title": "Un lugar tranquilo 2",
+          "nominations": [
+            "Mejor sonido · Erik Aadahl, Michael Barosky, Brandon Proctor, Ethan Van der Ryn"
+          ],
+          "wins": [],
+          "director": "John Krasinski",
+          "aliases": [
+            "A Quiet Place Part II"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Free Guy",
+          "nominations": [
+            "Mejores efectos visuales · Swen Gillberg, Brian Grill, Nikos Kalaitzidis, Daniel Sudick"
+          ],
+          "wins": [],
+          "director": "Shawn Levy",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Cazafantasmas: Más allá",
+          "nominations": [
+            "Mejores efectos visuales · Aharon Bourland, Sheena Duggal, Pier Lefebvre, Alex Ongaro"
+          ],
+          "wins": [],
+          "director": "Jason Reitman",
+          "aliases": [
+            "Ghostbusters: Afterlife"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Matrix Resurrections",
+          "nominations": [
+            "Mejores efectos visuales · Tom Debenham, Hew J Evans, Dan Glass, J. D. Schwaim"
+          ],
+          "wins": [],
+          "director": "Lana Wachowski",
+          "aliases": [
+            "The Matrix Resurrections"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Madres paralelas",
+          "nominations": [
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Pedro Almodóvar",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Petite maman",
+          "nominations": [
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Céline Sciamma",
+          "aliases": [
+            "Petite Maman"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Encanto",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [
+            "Mejor película de animación"
+          ],
+          "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+          "aliases": [],
+          "award": "Ganadora · Mejor película de animación"
+        },
+        {
+          "title": "Flee",
+          "nominations": [
+            "Mejor película de animación",
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Jonas Poher Rasmussen",
+          "aliases": [
+            "Flugt"
+          ],
+          "award": "Nominada · 2 candidaturas"
+        },
+        {
+          "title": "Luca",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [],
+          "director": "Enrico Casarosa",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Los Mitchell contra las máquinas",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [],
+          "director": "Michael Rianda",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Cousteau: Pasado y futuro",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Liz Garbus",
+          "aliases": [
+            "Becoming Cousteau"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Vaca",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Andrea Arnold",
+          "aliases": [
+            "Cow"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Rescate en las profundidades",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
+          "aliases": [
+            "The Rescue"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "The Black Cop (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [
+            "Mejor cortometraje británico"
+          ],
+          "director": "",
+          "award": "Ganadora · Mejor cortometraje británico"
+        },
+        {
+          "title": "Femme (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "The Palace (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Stuffed (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Three Meetings of the Extraordinary Committee (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "No alimentes a las palomas (C)",
+          "nominations": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "wins": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "director": "",
+          "award": "Ganadora · Mejor cortometraje británico de animación"
+        },
+        {
+          "title": "Asuntos del arte (C)",
+          "nominations": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "wins": [],
+          "director": "Joanna Quinn",
+          "aliases": [
+            "Asuntos del arte",
+            "Affairs of the Art"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Night of the Living Dread (C)",
+          "nominations": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Más dura será la caída",
+          "nominations": [
+            "Mejor debut británico · Jeymes Samuel"
+          ],
+          "wins": [
+            "Mejor debut británico · Jeymes Samuel"
+          ],
+          "director": "Jeymes Samuel",
+          "aliases": [
+            "The Harder They Fall"
+          ],
+          "award": "Ganadora · Mejor debut británico · Jeymes Samuel"
+        },
+        {
+          "title": "Keyboard Fantasies",
+          "nominations": [
+            "Mejor debut británico · Posy Dixon, Liv Proctor"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        }
+      ]
     }
   ]
 }

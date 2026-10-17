@@ -1,0 +1,36 @@
+{
+  "year": 2023,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_2023"
+  ],
+  "masters": [
+    "Catalogo_Telegram_2019.xlsx",
+    "Catalogo_Telegram_2020.xlsx",
+    "Catalogo_Telegram_2021.xlsx",
+    "Catalogo_Telegram_2022.xlsx",
+    "Catalogo_Telegram_2023.xlsx"
+  ],
+  "mastersModifiedOn": "2026-10-15",
+  "counts": {
+    "films": 53,
+    "owned": 45,
+    "notLocated": 8,
+    "categories": 24,
+    "candidatures": 127,
+    "awards": 24
+  },
+  "excluded": [
+    "Categorías de televisión, incluida Mejor telefilm y Mejor serie documental",
+    "Rising Star y honoríficos sin película"
+  ],
+  "notes": [
+    "Títulos e identidades de FilmAffinity España; categorías de cine seleccionadas explícitamente",
+    "Maestros aprobados de solo lectura; títulos ES/original y director resuelven cruces inequívocos",
+    "Limbo corresponde a Ben Sharrock, Maestro a Bradley Cooper y Napoleón a Ridley Scott, sin duplicar las variantes del maestro",
+    "Se conservan categorías y candidaturas por persona; los cortos elegibles se mantienen aunque el título FA incluya (TV)",
+    "Frozen II cruza con Frozen 2; se aceptan las transliteraciones equivalentes de directores existentes",
+    "Sin imágenes nuevas, cambios en los maestros ni reclasificación del catálogo"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "scope": "2016–2026: presencia de ediciones y secciones principales; no auditoría de películas individuales.",
+  "status": "COBERTURA_COMPLETA",
+  "closedOn": "2026-10-17",
+  "next": null,
+  "missing": [],
+  "years": [
+    {
+      "year": 2016,
+      "editions": 8,
+      "films": 252,
+      "missingEditions": []
+    },
+    {
+      "year": 2017,
+      "editions": 8,
+      "films": 249,
+      "missingEditions": []
+    },
+    {
+      "year": 2018,
+      "editions": 8,
+      "films": 252,
+      "missingEditions": []
+    },
+    {
+      "year": 2019,
+      "editions": 8,
+      "films": 239,
+      "missingEditions": []
+    },
+    {
+      "year": 2020,
+      "editions": 7,
+      "films": 249,
+      "missingEditions": []
+    },
+    {
+      "year": 2021,
+      "editions": 8,
+      "films": 256,
+      "missingEditions": []
+    },
+    {
+      "year": 2022,
+      "editions": 8,
+      "films": 259,
+      "missingEditions": []
+    },
+    {
+      "year": 2023,
+      "editions": 8,
+      "films": 263,
+      "missingEditions": []
+    },
+    {
+      "year": 2024,
+      "editions": 8,
+      "films": 259,
+      "missingEditions": []
+    },
+    {
+      "year": 2025,
+      "editions": 8,
+      "films": 256,
+      "missingEditions": []
+    },
+    {
+      "year": 2026,
+      "editions": 8,
+      "films": 268,
+      "missingEditions": []
+    }
+  ],
+  "exceptions": [
+    "Cannes 2020 conserva la selección oficial especial de la edición cancelada por la pandemia; no se inventan competición ni Un Certain Regard."
+  ],
+  "completedInThisBlock": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "festivalCompleted": "BAFTA Cine",
+  "authorization": "El usuario pide cerrar los huecos desde 2016; se reanuda ese alcance y se conservan las ediciones ya construidas."
+}

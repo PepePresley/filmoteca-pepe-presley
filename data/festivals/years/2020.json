@@ -1860,6 +1860,631 @@
           "award": "Nominado · 1 candidatura"
         }
       ]
+    },
+    {
+      "festival": "BAFTA",
+      "year": 2020,
+      "section": "Premios de cine · películas de 2019",
+      "films": [
+        {
+          "title": "1917",
+          "nominations": [
+            "Mejor película",
+            "Mejor película británica",
+            "Mejor dirección · Sam Mendes",
+            "Mejor fotografía · Roger Deakins",
+            "Mejor música original · Thomas Newman",
+            "Mejor diseño de producción · Dennis Gassner, Lee Sandales",
+            "Mejor maquillaje y peluquería · Naomi Donne",
+            "Mejor sonido · Scott Millan, Oliver Tarney, Rachael Tate, Mark Taylor, Stuart Wilson",
+            "Mejores efectos visuales · Greg Butler, Guillaume Rocheron, Dominic Tuohy"
+          ],
+          "wins": [
+            "Mejor película",
+            "Mejor película británica",
+            "Mejor dirección · Sam Mendes",
+            "Mejor fotografía · Roger Deakins",
+            "Mejor diseño de producción · Dennis Gassner, Lee Sandales",
+            "Mejor sonido · Scott Millan, Oliver Tarney, Rachael Tate, Mark Taylor, Stuart Wilson",
+            "Mejores efectos visuales · Greg Butler, Guillaume Rocheron, Dominic Tuohy"
+          ],
+          "director": "Sam Mendes",
+          "aliases": [],
+          "award": "Ganadora · Mejor película · 7 BAFTA"
+        },
+        {
+          "title": "El irlandés",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Martin Scorsese",
+            "Mejor actor de reparto · Al Pacino",
+            "Mejor actor de reparto · Joe Pesci",
+            "Mejor guion adaptado · Steven Zaillian",
+            "Mejor fotografía · Rodrigo Prieto",
+            "Mejor montaje · Thelma Schoonmaker",
+            "Mejor diseño de producción · Bob Shaw, Regina Graves",
+            "Mejor vestuario · Christopher Peterson, Sandy Powell",
+            "Mejores efectos visuales · Leandro Estebecorena, Stephane Grabli, Pablo Helman"
+          ],
+          "wins": [],
+          "director": "Martin Scorsese",
+          "aliases": [
+            "The Irishman"
+          ],
+          "award": "Nominada · 10 candidaturas"
+        },
+        {
+          "title": "Joker",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Todd Phillips",
+            "Mejor actor · Joaquin Phoenix",
+            "Mejor guion adaptado · Todd Phillips",
+            "Mejor fotografía · Lawrence Sher",
+            "Mejor montaje · Jeff Groth",
+            "Mejor música original · Hildur Guðnadóttir",
+            "Mejor reparto (casting)",
+            "Mejor diseño de producción · Mark Friedberg, Kris Moran",
+            "Mejor maquillaje y peluquería · Kay Georgiou, Nicki Ledermann",
+            "Mejor sonido · Tod Maitland, Alan Robert Murray, Tom Ozanich, Dean Zupancic"
+          ],
+          "wins": [
+            "Mejor actor · Joaquin Phoenix",
+            "Mejor música original · Hildur Guðnadóttir",
+            "Mejor reparto (casting)"
+          ],
+          "director": "Todd Phillips",
+          "aliases": [],
+          "award": "Ganadora · Mejor actor · Joaquin Phoenix · 3 BAFTA"
+        },
+        {
+          "title": "Érase una vez en... Hollywood",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Quentin Tarantino",
+            "Mejor actor · Leonardo DiCaprio",
+            "Mejor actor de reparto · Brad Pitt",
+            "Mejor actriz de reparto · Margot Robbie",
+            "Mejor guion original · Quentin Tarantino",
+            "Mejor montaje · Fred Raskin",
+            "Mejor reparto (casting)",
+            "Mejor diseño de producción · Barbara Ling, Nancy Haigh",
+            "Mejor vestuario · Arianne Phillips"
+          ],
+          "wins": [
+            "Mejor actor de reparto · Brad Pitt"
+          ],
+          "director": "Quentin Tarantino",
+          "aliases": [
+            "Érase una vez en… Hollywood",
+            "Once Upon a Time... in Hollywood"
+          ],
+          "award": "Ganadora · Mejor actor de reparto · Brad Pitt"
+        },
+        {
+          "title": "Parásitos",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Bong Joon-ho",
+            "Mejor guion original · Bong Joon-ho",
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [
+            "Mejor guion original · Bong Joon-ho",
+            "Mejor película de habla no inglesa"
+          ],
+          "director": "Bong Joon-ho",
+          "aliases": [
+            "기생충"
+          ],
+          "award": "Ganadora · Mejor guion original · Bong Joon-ho · 2 BAFTA"
+        },
+        {
+          "title": "Bait",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor debut británico"
+          ],
+          "wins": [
+            "Mejor debut británico"
+          ],
+          "director": "Mark Jenkin",
+          "aliases": [],
+          "award": "Ganadora · Mejor debut británico"
+        },
+        {
+          "title": "Para Sama",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor película de habla no inglesa",
+            "Mejor documental",
+            "Mejor debut británico"
+          ],
+          "wins": [
+            "Mejor documental"
+          ],
+          "director": "Waad al-Kateab, Edward Watts",
+          "aliases": [],
+          "award": "Ganadora · Mejor documental"
+        },
+        {
+          "title": "Rocketman",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor actor · Taron Egerton",
+            "Mejor maquillaje y peluquería · Lizzie Yianni Georgiou",
+            "Mejor sonido · Matthew Collinge, John Hayes, Mike Prestwood Smith, Danny Sheehan"
+          ],
+          "wins": [],
+          "director": "Dexter Fletcher",
+          "aliases": [],
+          "award": "Nominada · 4 candidaturas"
+        },
+        {
+          "title": "Sorry We Missed You",
+          "nominations": [
+            "Mejor película británica"
+          ],
+          "wins": [],
+          "director": "Ken Loach",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Los dos papas",
+          "nominations": [
+            "Mejor película británica",
+            "Mejor actor · Jonathan Pryce",
+            "Mejor actor de reparto · Anthony Hopkins",
+            "Mejor guion adaptado · Anthony McCarten",
+            "Mejor reparto (casting)"
+          ],
+          "wins": [],
+          "director": "Fernando Meirelles",
+          "aliases": [
+            "Los dos Papas",
+            "The Two Popes"
+          ],
+          "award": "Nominada · 5 candidaturas"
+        },
+        {
+          "title": "Historia de un matrimonio",
+          "nominations": [
+            "Mejor actor · Adam Driver",
+            "Mejor actriz · Scarlett Johansson",
+            "Mejor actriz de reparto · Laura Dern",
+            "Mejor guion original · Noah Baumbach",
+            "Mejor reparto (casting)"
+          ],
+          "wins": [
+            "Mejor actriz de reparto · Laura Dern"
+          ],
+          "director": "Noah Baumbach",
+          "aliases": [
+            "Marriage Story"
+          ],
+          "award": "Ganadora · Mejor actriz de reparto · Laura Dern"
+        },
+        {
+          "title": "Judy",
+          "nominations": [
+            "Mejor actriz · Renée Zellweger",
+            "Mejor vestuario · Jany Temime",
+            "Mejor maquillaje y peluquería · Jeremy Woodhead"
+          ],
+          "wins": [
+            "Mejor actriz · Renée Zellweger"
+          ],
+          "director": "Rupert Goold",
+          "aliases": [],
+          "award": "Ganadora · Mejor actriz · Renée Zellweger"
+        },
+        {
+          "title": "Wild Rose",
+          "nominations": [
+            "Mejor actriz · Jessie Buckley"
+          ],
+          "wins": [],
+          "director": "Tom Harper",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Mujercitas",
+          "nominations": [
+            "Mejor actriz · Saoirse Ronan",
+            "Mejor actriz de reparto · Florence Pugh",
+            "Mejor guion adaptado · Greta Gerwig",
+            "Mejor música original · Alexandre Desplat",
+            "Mejor vestuario · Jacqueline Durran"
+          ],
+          "wins": [
+            "Mejor vestuario · Jacqueline Durran"
+          ],
+          "director": "Greta Gerwig",
+          "aliases": [
+            "Little Women"
+          ],
+          "award": "Ganadora · Mejor vestuario · Jacqueline Durran"
+        },
+        {
+          "title": "El escándalo",
+          "nominations": [
+            "Mejor actriz · Charlize Theron",
+            "Mejor actriz de reparto · Margot Robbie",
+            "Mejor maquillaje y peluquería · Vivian Baker, Kazuhiro Tsuji, Anne Morgan"
+          ],
+          "wins": [
+            "Mejor maquillaje y peluquería · Vivian Baker, Kazuhiro Tsuji, Anne Morgan"
+          ],
+          "director": "Jay Roach",
+          "aliases": [
+            "El escándalo (Bombshell)",
+            "Bombshell"
+          ],
+          "award": "Ganadora · Mejor maquillaje y peluquería · Vivian Baker, Kazuhiro Tsuji, Anne Morgan"
+        },
+        {
+          "title": "Un amigo extraordinario",
+          "nominations": [
+            "Mejor actor de reparto · Tom Hanks"
+          ],
+          "wins": [],
+          "director": "Marielle Heller",
+          "aliases": [
+            "A Beautiful Day in the Neighborhood"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Jojo Rabbit",
+          "nominations": [
+            "Mejor actriz de reparto · Scarlett Johansson",
+            "Mejor guion adaptado · Taika Waititi",
+            "Mejor montaje · Tom Eagles",
+            "Mejor música original · Michael Giacchino",
+            "Mejor diseño de producción · Ra Vincent, Nora Sopková",
+            "Mejor vestuario · Mayes C. Rubeo"
+          ],
+          "wins": [
+            "Mejor guion adaptado · Taika Waititi"
+          ],
+          "director": "Taika Waititi",
+          "aliases": [],
+          "award": "Ganadora · Mejor guion adaptado · Taika Waititi"
+        },
+        {
+          "title": "Súper empollonas",
+          "nominations": [
+            "Mejor guion original · Emily Halpern"
+          ],
+          "wins": [],
+          "director": "Olivia Wilde",
+          "aliases": [
+            "Booksmart"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Puñales por la espalda",
+          "nominations": [
+            "Mejor guion original · Rian Johnson"
+          ],
+          "wins": [],
+          "director": "Rian Johnson",
+          "aliases": [
+            "Knives Out"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Le Mans '66",
+          "nominations": [
+            "Mejor fotografía · Phedon Papamichael",
+            "Mejor montaje · Andrew Buckland",
+            "Mejor sonido · David Giammarco, Paul Massey, Steven A. Morrow, Donald Sylvester"
+          ],
+          "wins": [
+            "Mejor montaje · Andrew Buckland"
+          ],
+          "director": "James Mangold",
+          "aliases": [
+            "Ford v Ferrari"
+          ],
+          "award": "Ganadora · Mejor montaje · Andrew Buckland"
+        },
+        {
+          "title": "El faro",
+          "nominations": [
+            "Mejor fotografía · Jarin Blaschke"
+          ],
+          "wins": [],
+          "director": "Robert Eggers",
+          "aliases": [
+            "The Lighthouse"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Star Wars: El ascenso de Skywalker",
+          "nominations": [
+            "Mejor música original · John Williams",
+            "Mejor sonido · David Acord, Andy Nelson, Christopher Scarabosio, Stuart Wilson, Matthew Wood",
+            "Mejores efectos visuales · Roger Guyett, Paul Kavanagh, Neal Scanlan, Dominic Tuohy"
+          ],
+          "wins": [],
+          "director": "J.J. Abrams",
+          "aliases": [
+            "Star Wars: The Rise of Skywalker"
+          ],
+          "award": "Nominada · 3 candidaturas"
+        },
+        {
+          "title": "La increíble historia de David Copperfield",
+          "nominations": [
+            "Mejor reparto (casting)"
+          ],
+          "wins": [],
+          "director": "Armando Iannucci",
+          "aliases": [
+            "The Personal History of David Copperfield"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Vengadores: Endgame",
+          "nominations": [
+            "Mejores efectos visuales · Dan Deleeuw, Dan Sudick"
+          ],
+          "wins": [],
+          "director": "Anthony Russo, Joe Russo",
+          "aliases": [
+            "Avengers: Endgame"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "El rey león",
+          "nominations": [
+            "Mejores efectos visuales · Andrew R. Jones, Robert Legato, Elliot Newman, Adam Valdez"
+          ],
+          "wins": [],
+          "director": "Jon Favreau",
+          "aliases": [
+            "The Lion King"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "The Farewell",
+          "nominations": [
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Lulu Wang",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Dolor y gloria",
+          "nominations": [
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Pedro Almodóvar",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Retrato de una mujer en llamas",
+          "nominations": [
+            "Mejor película de habla no inglesa"
+          ],
+          "wins": [],
+          "director": "Céline Sciamma",
+          "aliases": [
+            "Portrait de la jeune fille en feu"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Klaus",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [
+            "Mejor película de animación"
+          ],
+          "director": "Sergio Pablos",
+          "aliases": [],
+          "award": "Ganadora · Mejor película de animación"
+        },
+        {
+          "title": "Frozen II",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [],
+          "director": "Chris Buck, Jennifer Lee",
+          "aliases": [
+            "Frozen 2"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "La oveja Shaun. La película: Granjaguedón",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [],
+          "director": "Will Becher, Richard Phelan",
+          "aliases": [
+            "La oveja Shaun, la película Granjaguedón",
+            "A Shaun the Sheep Movie: Farmageddon"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Toy Story 4",
+          "nominations": [
+            "Mejor película de animación"
+          ],
+          "wins": [],
+          "director": "Josh Cooley",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "American Factory",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Steven Bognar, Julia Reichert",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Apolo 11",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Todd Douglas Miller",
+          "aliases": [
+            "Apollo 11"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Diego Maradona",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Asif Kapadia",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "El gran hackeo",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [],
+          "director": "Karim Amer, Jehane Noujaim",
+          "aliases": [
+            "The Great Hack"
+          ],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Learning to Skateboard in a Warzone (If You're a Girl)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [
+            "Mejor cortometraje británico"
+          ],
+          "director": "",
+          "award": "Ganadora · Mejor cortometraje británico"
+        },
+        {
+          "title": "Azaar (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Goldfish (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Kamali (C)",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "The Trap",
+          "nominations": [
+            "Mejor cortometraje británico"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Grandad Was A Romantic (C)",
+          "nominations": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "wins": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "director": "",
+          "award": "Ganadora · Mejor cortometraje británico de animación"
+        },
+        {
+          "title": "In Her Boots (C)",
+          "nominations": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "The Magic Boat (C)",
+          "nominations": [
+            "Mejor cortometraje británico de animación"
+          ],
+          "wins": [],
+          "director": "",
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Maiden",
+          "nominations": [
+            "Mejor debut británico"
+          ],
+          "wins": [],
+          "director": "Alex Holmes",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Only You",
+          "nominations": [
+            "Mejor debut británico"
+          ],
+          "wins": [],
+          "director": "Harry Wootliff",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        },
+        {
+          "title": "Retablo",
+          "nominations": [
+            "Mejor debut británico"
+          ],
+          "wins": [],
+          "director": "Alvaro Delgado Aparicio",
+          "aliases": [],
+          "award": "Nominada · 1 candidaturas"
+        }
+      ]
     }
   ]
 }
