@@ -1,0 +1,38 @@
+{
+  "year": 1999,
+  "festival": "BAFTA",
+  "status": "CONSTRUIDO",
+  "sources": [
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1999",
+    "https://www.bafta.org/awards/film/?award-year=1999"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1995.xlsx",
+    "Catalogo_Telegram_1996.xlsx",
+    "Catalogo_Telegram_1997.xlsx",
+    "Catalogo_Telegram_1998.xlsx",
+    "Catalogo_Telegram_1999.xlsx"
+  ],
+  "counts": {
+    "films": 31,
+    "owned": 25,
+    "notLocated": 6,
+    "categories": 22,
+    "candidatures": 87,
+    "awards": 22
+  },
+  "excluded": [
+    "Categorías de Television Awards y honoríficos sin película"
+  ],
+  "notes": [
+    "Geoffrey Rush gana actor de reparto por Elizabeth; Shakespeare enamorado es nominada",
+    "Sandy Powell gana vestuario por Velvet Goldmine; Shakespeare enamorado es nominada",
+    "Debut británico: se conservan las cuatro candidaturas ligadas a una película concreta, no solo la ganadora de FA",
+    "Los cuentos de Canterbury corresponde a Jonathan Myerson (1998), no a Pasolini; pertenece al premio Short Animation de Film Awards",
+    "Babe: Pig in the City y Humdrum cruzan con sus identidades aprobadas; no reclasificar por la diferencia de año del maestro",
+    "Se incorpora el premio del público a Lock & Stock",
+    "Cortos ausentes en FA completados desde BAFTA; créditos conservados sin inferir directores por orden de nombres",
+    "Maestros de solo lectura, coincidencias claras aceptadas y ausencias restantes pendientes",
+    "Sin imágenes nuevas, cambios de catálogo ni revisión de otros años"
+  ]
+}
