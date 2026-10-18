@@ -6,7 +6,7 @@
     1983,
     1982
   ],
-  "status": "1982_CONSTRUIDO",
+  "status": "1977_1981_CONSTRUIDOS_PARCIALMENTE",
   "counts": {
     "editions": 8,
     "appearances": 173,
@@ -19,6 +19,20 @@
   ],
   "notes": [
     "Los inventarios cerrados de 1984–2015 y 2016–2026 se conservan.",
-    "CONSTRUIDO significa cobertura y cruces por método práctico, no auditoría individual exhaustiva."
-  ]
+    "CONSTRUIDO significa cobertura y cruces por método práctico, no auditoría individual exhaustiva.",
+    "Bloque 1977–1981 incorporado como cobertura parcial desde el paquete preparado; completedYears conserva únicamente 1983 y 1982. No se inicia 1976."
+  ],
+  "partialYears": [
+    1981,
+    1980,
+    1979,
+    1978,
+    1977
+  ],
+  "nextStep": "Completar los bloques pendientes de 1981 y después 1980–1977; no considerar cerrados los cinco años del paquete.",
+  "partialBlockCounts": {
+    "editions": 40,
+    "appearances": 493,
+    "declaredOwned": 244
+  }
 }

@@ -1,0 +1,161 @@
+{
+  "year": 1980,
+  "status": "CONSTRUIDO_PARCIAL",
+  "scope": "Cannes oficial (competición de largometrajes, Un Certain Regard, fuera de concurso y cortometrajes) extraído de la web oficial; faltan secciones/festivales para cubrir el alcance de 1982. San Sebastián: evidencia archivística parcial guardada; selección no integrada. San Sebastián: solo palmarés de películas premiadas integrado; selección completa pendiente. Venecia: se añadieron los premios FilmAffinity de 1980 y tres títulos listados en sus categorías; la selección oficial completa sigue pendiente. Berlín: lista parcial de 19 títulos y palmarés FilmAffinity integrada con IDs; Solo Sunny queda registrado desde categorías de premios aunque no esté en la lista Golden Bear. Propiedad confirmada solo por cruce exacto en maestros accesibles.",
+  "sources": [
+    "https://www.festival-cannes.com/en/retrospective/1980/selection/",
+    "https://www.festival-cannes.com/en/retrospective/1980/palmares/",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1981",
+    "https://www.bafta.org/awards/film/?award-year=1981",
+    "https://www.sansebastianfestival.com/1980/secciones_y_peliculas/8/es",
+    "https://www.sansebastianfestival.com/1980/premios_y_jurados/premios/1/73/es",
+    "https://www.filmaffinity.com/en/award-edition.php?edition-id=venice_1980",
+    "https://www.filmaffinity.com/en/award-edition.php?edition-id=berlin_1980",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1980",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980",
+    "https://www.filmaffinity.com/en/award-edition.php?edition-id=bafta_1980",
+    "https://www.filmaffinity.com/es/film581605.html",
+    "https://www.filmaffinity.com/es/film301380.html",
+    "https://www.imdb.com/title/tt0080482/",
+    "https://www.imdb.com/title/tt0080718/",
+    "https://www.imdb.com/title/tt0079361/",
+    "https://www.imdb.com/title/tt0082600/",
+    "https://www.imdb.com/title/tt0081546/",
+    "https://www.imdb.com/title/tt0079854/",
+    "https://www.imdb.com/title/tt0079944/",
+    "https://www.imdb.com/title/tt0080773/",
+    "https://www.imdb.com/title/tt0079098/",
+    "https://www.imdb.com/title/tt0083933/",
+    "https://www.imdb.com/title/tt0171158/",
+    "https://www.imdb.com/title/tt0080577/",
+    "https://www.imdb.com/title/tt0081106/",
+    "https://www.imdb.com/title/tt0080983/",
+    "https://www.imdb.com/title/tt0204241/",
+    "https://www.imdb.com/title/tt0447372/",
+    "https://www.imdb.com/title/tt0204702/",
+    "https://www.imdb.com/title/tt0081522/",
+    "https://www.imdb.com/title/tt0232652/",
+    "https://www.imdb.com/title/tt0079997/",
+    "https://www.imdb.com/title/tt0354770/",
+    "https://www.imdb.com/title/tt0080123/",
+    "https://www.festival-cannes.com/f/sky-dance/",
+    "https://www.festival-cannes.com/f/la-femme-enfant/",
+    "https://www.festival-cannes.com/f/portrait-of-a-60-perfect-man-billy-wilder/",
+    "https://www.imdb.com/title/tt0187781/",
+    "https://www.labiennale.org/en/history-venice-film-festival"
+  ],
+  "masters": [
+    "Catalogo_Telegram_1978.xlsx",
+    "Catalogo_Telegram_1979.xlsx",
+    "Catalogo_Telegram_1980.xlsx",
+    "Catalogo_Telegram_1981.xlsx",
+    "Catalogo_Telegram_1982.xlsx",
+    "Catalogo_Telegram_1983.xlsx"
+  ],
+  "mastersModifiedOn": "2026-10-05",
+  "counts": [
+    {
+      "year": 1980,
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 23,
+      "declaredOwned": 14
+    },
+    {
+      "year": 1980,
+      "festival": "Cannes",
+      "section": "Un Certain Regard",
+      "films": 14,
+      "declaredOwned": 2
+    },
+    {
+      "year": 1980,
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 9,
+      "declaredOwned": 4
+    },
+    {
+      "year": 1980,
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 12,
+      "declaredOwned": 0
+    },
+    {
+      "year": 1980,
+      "festival": "San Sebastián",
+      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
+      "films": 2,
+      "declaredOwned": 1
+    },
+    {
+      "year": 1980,
+      "festival": "Venecia",
+      "section": "Películas listadas en FilmAffinity · premios (selección parcial)",
+      "films": 3,
+      "declaredOwned": 3
+    },
+    {
+      "year": 1980,
+      "festival": "Berlín",
+      "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)",
+      "films": 20,
+      "declaredOwned": 6
+    }
+  ],
+  "notes": [
+    "No se declara cerrado: quedan bloques aplicables parciales o sin integrar.",
+    "Propiedad: 30 referencias activas a filas de maestro; 10 registros con conflicto/propiedad pendiente.",
+    "Las selecciones y categorías marcadas parciales no certifican exhaustividad. Se conservan las extracciones consultadas en extracciones/."
+  ],
+  "coverageStatus": "partial",
+  "coverage": {
+    "completeBlocks": [],
+    "partialBlocks": [
+      {
+        "festival": "Cannes",
+        "section": "Competición oficial"
+      },
+      {
+        "festival": "Cannes",
+        "section": "Un Certain Regard"
+      },
+      {
+        "festival": "Cannes",
+        "section": "Fuera de concurso · largometrajes"
+      },
+      {
+        "festival": "Cannes",
+        "section": "Competición oficial · cortometrajes"
+      },
+      {
+        "festival": "San Sebastián",
+        "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)"
+      },
+      {
+        "festival": "Venecia",
+        "section": "Películas listadas en FilmAffinity · premios (selección parcial)"
+      },
+      {
+        "festival": "Berlín",
+        "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)"
+      }
+    ],
+    "notHeldBlocks": [],
+    "missingOrUncompiledFestivals": [
+      "Oscar",
+      "BAFTA"
+    ]
+  },
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1977-1981_para_Sol.zip",
+    "sha256": "612a8ad90b52d8997b8dbfb04d322cfbae0baade47b2c87f7dfb1e321dcd8859",
+    "usedAs": "Selecciones, premios, identidades y evidencia de propiedad reutilizados; cobertura parcial explícita, sin reabrir investigación histórica."
+  },
+  "integrationNotes": [
+    "Los bloques ausentes no se consideran completos. La propiedad no acreditada se conserva pendiente.",
+    "Las selecciones vacías se documentan como cobertura pendiente o no celebrada; no se publican como listas de películas."
+  ],
+  "unpublishedEmptySections": []
+}
