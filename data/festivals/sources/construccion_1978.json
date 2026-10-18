@@ -206,7 +206,8 @@
   },
   "integrationNotes": [
     "Los bloques ausentes no se consideran completos. La propiedad no acreditada se conserva pendiente.",
-    "Las selecciones vacías se documentan como cobertura pendiente o no celebrada; no se publican como listas de películas."
+    "Las selecciones vacías se documentan como cobertura pendiente o no celebrada; no se publican como listas de películas.",
+    "Siete puntuaciones extraídas como títulos en el paquete corregidas desde las fichas FilmAffinity España correspondientes; se conserva su identidad y propiedad."
   ],
   "unpublishedEmptySections": [
     {
@@ -216,6 +217,50 @@
       "films": [],
       "coverageStatus": "not_held",
       "notes": "La Biennale indica que el festival no se celebró en 1978."
+    }
+  ],
+  "titleCorrections": [
+    {
+      "filmAffinityId": "273491",
+      "before": "6.4",
+      "after": "Ecce bombo (Traperos)",
+      "source": "https://www.filmaffinity.com/es/film273491.html"
+    },
+    {
+      "filmAffinityId": "642090",
+      "before": "5.7",
+      "after": "Los ojos vendados",
+      "source": "https://www.filmaffinity.com/es/film642090.html"
+    },
+    {
+      "filmAffinityId": "884701",
+      "before": "5.3",
+      "after": "Los restos del naufragio",
+      "source": "https://www.filmaffinity.com/es/film884701.html"
+    },
+    {
+      "filmAffinityId": "240748",
+      "before": "7.4",
+      "after": "Molière",
+      "source": "https://www.filmaffinity.com/es/film240748.html"
+    },
+    {
+      "filmAffinityId": "932922",
+      "before": "6.8",
+      "after": "The Chant of Jimmie Blacksmith",
+      "source": "https://www.filmaffinity.com/es/film932922.html"
+    },
+    {
+      "filmAffinityId": "424486",
+      "before": "6.6",
+      "after": "Koko, le gorille qui parle",
+      "source": "https://www.filmaffinity.com/es/film424486.html"
+    },
+    {
+      "filmAffinityId": "182664",
+      "before": "3.668479103",
+      "after": "Fedora",
+      "source": "https://www.filmaffinity.com/es/film182664.html"
     }
   ]
 }
