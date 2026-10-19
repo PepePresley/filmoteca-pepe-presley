@@ -1,7 +1,7 @@
 {
   "year": 1980,
-  "status": "CONSTRUIDO_PARCIAL",
-  "scope": "Cannes oficial (competición de largometrajes, Un Certain Regard, fuera de concurso y cortometrajes) extraído de la web oficial; faltan secciones/festivales para cubrir el alcance de 1982. San Sebastián: evidencia archivística parcial guardada; selección no integrada. San Sebastián: solo palmarés de películas premiadas integrado; selección completa pendiente. Venecia: se añadieron los premios FilmAffinity de 1980 y tres títulos listados en sus categorías; la selección oficial completa sigue pendiente. Berlín: lista parcial de 19 títulos y palmarés FilmAffinity integrada con IDs; Solo Sunny queda registrado desde categorías de premios aunque no esté en la lista Golden Bear. Propiedad confirmada solo por cruce exacto en maestros accesibles.",
+  "status": "CONSTRUIDO_CON_SALVEDADES",
+  "scope": "Familias principales de 1980 construidas por método práctico: Cannes y UCR conservados, Berlín según FA España y cortos premiados, Cinema 80 y Officina Veneziana con sus programas oficiales ASAC y fuera de concurso, San Sebastián con 24 largometrajes oficiales y Hazal como premiada de Nuevos Realizadores; Oscar y BAFTA conservados. No equivale a reconstrucción de retrospectivas ni a auditoría histórica exhaustiva.",
   "sources": [
     "https://www.festival-cannes.com/en/retrospective/1980/selection/",
     "https://www.festival-cannes.com/en/retrospective/1980/palmares/",
@@ -55,98 +55,122 @@
   "mastersModifiedOn": "2026-10-05",
   "counts": [
     {
-      "year": 1980,
       "festival": "Cannes",
       "section": "Competición oficial",
       "films": 23,
-      "declaredOwned": 14
+      "owned": 14,
+      "notLocated": 9
     },
     {
-      "year": 1980,
       "festival": "Cannes",
       "section": "Un Certain Regard",
       "films": 14,
-      "declaredOwned": 2
+      "owned": 2,
+      "notLocated": 12
     },
     {
-      "year": 1980,
       "festival": "Cannes",
       "section": "Fuera de concurso · largometrajes",
       "films": 9,
-      "declaredOwned": 4
+      "owned": 4,
+      "notLocated": 5
     },
     {
-      "year": 1980,
       "festival": "Cannes",
       "section": "Competición oficial · cortometrajes",
       "films": 12,
-      "declaredOwned": 0
+      "owned": 0,
+      "notLocated": 12
     },
     {
-      "year": 1980,
-      "festival": "San Sebastián",
-      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
-      "films": 2,
-      "declaredOwned": 1
-    },
-    {
-      "year": 1980,
-      "festival": "Venecia",
-      "section": "Películas listadas en FilmAffinity · premios (selección parcial)",
-      "films": 3,
-      "declaredOwned": 3
-    },
-    {
-      "year": 1980,
       "festival": "Berlín",
-      "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)",
+      "section": "Competición oficial",
       "films": 20,
-      "declaredOwned": 6
+      "owned": 13,
+      "notLocated": 7
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes",
+      "films": 2,
+      "owned": 0,
+      "notLocated": 2
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial · Cinema 80",
+      "films": 10,
+      "owned": 9,
+      "notLocated": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cinema 80 · fuera de concurso",
+      "films": 4,
+      "owned": 3,
+      "notLocated": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Officina Veneziana",
+      "films": 18,
+      "owned": 4,
+      "notLocated": 14
+    },
+    {
+      "festival": "Venecia",
+      "section": "Officina Veneziana · fuera de concurso",
+      "films": 9,
+      "owned": 2,
+      "notLocated": 7
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · sin competición",
+      "films": 24,
+      "owned": 16,
+      "notLocated": 8
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Nuevos Realizadores · película premiada",
+      "films": 1,
+      "owned": 0,
+      "notLocated": 1
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "films": 54,
+      "owned": 38,
+      "notLocated": 16
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "films": 19,
+      "owned": 15,
+      "notLocated": 4
     }
   ],
   "notes": [
-    "No se declara cerrado: quedan bloques aplicables parciales o sin integrar.",
-    "Propiedad: 30 referencias activas a filas de maestro; 10 registros con conflicto/propiedad pendiente.",
-    "Las selecciones y categorías marcadas parciales no certifican exhaustividad. Se conservan las extracciones consultadas en extracciones/."
+    "ASAC: Cinema 80 tiene 10 películas; 4 películas situadas en competición por el paquete corresponden a Cinema 80 fuera de concurso.",
+    "ASAC: Officina Veneziana tiene 18 películas y su fuera de concurso 9. Se incorpora Spasatel; Les nouveaux romantiques no se traslada a esta sección sin corroboración.",
+    "Los seis títulos fuera de concurso de la lista secundaria del paquete no se importan como Cinema 80 fuera de concurso: ese programa oficial tiene cuatro títulos distintos.",
+    "San Sebastián: 24 largometrajes, edición no competitiva. El director de orquesta conserva FIPRESCI en su selección; Hazal pasa a Nuevos Realizadores, sin duplicarla en Sección Oficial.",
+    "Berlín: 20 largometrajes de la edición FA más dos cortos premiados identificados en archivo oficial. El programa digital oficial solo indexa 12 fichas y no certifica exhaustividad. Im Herzen des Hurrican permanece como salvedad de sección sin corroboración primaria, no como ausencia confirmada.",
+    "Propiedad cruzada en bloque con maestros aprobados; referencias físicas comprobadas. Alias claros y transliteraciones ya acreditadas se reutilizan. No se investigan todas las ausencias ni se asignan imágenes nuevas.",
+    "Cannes, Oscar y BAFTA permanecen exactamente como estaban publicados.",
+    "Las películas sin propiedad acreditada o sin identificador FA permanecen pendientes; ello no impide la construcción práctica de las familias."
   ],
-  "coverageStatus": "partial",
+  "coverageStatus": "MAIN_FAMILIES_CONSTRUCTED_WITH_DOCUMENTARY_CAVEAT",
   "coverage": {
-    "completeBlocks": [],
-    "partialBlocks": [
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Un Certain Regard"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Fuera de concurso · largometrajes"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial · cortometrajes"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "Venecia",
-        "section": "Películas listadas en FilmAffinity · premios (selección parcial)"
-      },
-      {
-        "festival": "Berlín",
-        "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)"
-      }
-    ],
-    "notHeldBlocks": [],
-    "missingOrUncompiledFestivals": [
-      "Oscar",
-      "BAFTA"
-    ]
+    "Cannes": "Publicado, conservado sin revisión",
+    "Berlín": "20 largometrajes FA y dos cortos premiados; archivo digital primario limitado",
+    "Venecia": "Cinema 80 y Officina Veneziana, incluidos sus programas fuera de concurso, según ASAC",
+    "San Sebastián": "24 largometrajes de Sección Oficial según archivo y Hazal como premiada de Nuevos Realizadores",
+    "Oscar": "Publicado, conservado sin revisión",
+    "BAFTA": "Cine publicado, conservado sin revisión"
   },
   "preparationPackage": {
     "name": "Filmoteca_LAB_1977-1981_para_Sol.zip",
@@ -154,8 +178,7 @@
     "usedAs": "Selecciones, premios, identidades y evidencia de propiedad reutilizados; cobertura parcial explícita, sin reabrir investigación histórica."
   },
   "integrationNotes": [
-    "Los bloques ausentes no se consideran completos. La propiedad no acreditada se conserva pendiente.",
-    "Las selecciones vacías se documentan como cobertura pendiente o no celebrada; no se publican como listas de películas."
+    "Finalización práctica de las familias principales el 20/10/2026. Véanse festivalCompletion y coverage; el estado anterior se conserva en historicalPreparation."
   ],
   "unpublishedEmptySections": [],
   "supplements": {
@@ -200,5 +223,189 @@
       "Los 11 títulos con IMDb alternativo y sin ID FilmAffinity se mantienen sin asignar un ID FA inventado.",
       "Los recuentos de propiedad pendiente no acreditan ausencia de la colección."
     ]
+  },
+  "festivalCompletion": {
+    "date": "2026-10-20",
+    "package": "Filmoteca_LAB_1980_Festivales_suplemento_para_Sol.zip",
+    "packageSha256": "e027dd19923f1420d08c751fb0fec5347211f113d12630ab3d2b1d2f2e99849f",
+    "counts": [
+      {
+        "festival": "Berlín",
+        "section": "Competición oficial",
+        "films": 20,
+        "owned": 13,
+        "notLocated": 7
+      },
+      {
+        "festival": "Berlín",
+        "section": "Competición oficial · cortometrajes",
+        "films": 2,
+        "owned": 0,
+        "notLocated": 2
+      },
+      {
+        "festival": "Venecia",
+        "section": "Competición oficial · Cinema 80",
+        "films": 10,
+        "owned": 9,
+        "notLocated": 1
+      },
+      {
+        "festival": "Venecia",
+        "section": "Cinema 80 · fuera de concurso",
+        "films": 4,
+        "owned": 3,
+        "notLocated": 1
+      },
+      {
+        "festival": "Venecia",
+        "section": "Officina Veneziana",
+        "films": 18,
+        "owned": 4,
+        "notLocated": 14
+      },
+      {
+        "festival": "Venecia",
+        "section": "Officina Veneziana · fuera de concurso",
+        "films": 9,
+        "owned": 2,
+        "notLocated": 7
+      },
+      {
+        "festival": "San Sebastián",
+        "section": "Sección Oficial · sin competición",
+        "films": 24,
+        "owned": 16,
+        "notLocated": 8
+      },
+      {
+        "festival": "San Sebastián",
+        "section": "Nuevos Realizadores · película premiada",
+        "films": 1,
+        "owned": 0,
+        "notLocated": 1
+      }
+    ],
+    "primarySources": [
+      "https://asac.labiennale.org/attivita/cinema/annali?anno=1980",
+      "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1980/o=desc/p=1/rp=40",
+      "https://www.berlinale.de/en/archive/yearbooks/1980.html",
+      "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1980",
+      "https://www.sansebastianfestival.com/1980/secciones_y_peliculas/seccion_oficial/8/es"
+    ],
+    "notes": [
+      "ASAC: Cinema 80 tiene 10 películas; 4 películas situadas en competición por el paquete corresponden a Cinema 80 fuera de concurso.",
+      "ASAC: Officina Veneziana tiene 18 películas y su fuera de concurso 9. Se incorpora Spasatel; Les nouveaux romantiques no se traslada a esta sección sin corroboración.",
+      "Los seis títulos fuera de concurso de la lista secundaria del paquete no se importan como Cinema 80 fuera de concurso: ese programa oficial tiene cuatro títulos distintos.",
+      "San Sebastián: 24 largometrajes, edición no competitiva. El director de orquesta conserva FIPRESCI en su selección; Hazal pasa a Nuevos Realizadores, sin duplicarla en Sección Oficial.",
+      "Berlín: 20 largometrajes de la edición FA más dos cortos premiados identificados en archivo oficial. El programa digital oficial solo indexa 12 fichas y no certifica exhaustividad. Im Herzen des Hurrican permanece como salvedad de sección sin corroboración primaria, no como ausencia confirmada.",
+      "Propiedad cruzada en bloque con maestros aprobados; referencias físicas comprobadas. Alias claros y transliteraciones ya acreditadas se reutilizan. No se investigan todas las ausencias ni se asignan imágenes nuevas.",
+      "Cannes, Oscar y BAFTA permanecen exactamente como estaban publicados.",
+      "Las películas sin propiedad acreditada o sin identificador FA permanecen pendientes; ello no impide la construcción práctica de las familias."
+    ]
+  },
+  "historicalPreparation": {
+    "status": "CONSTRUIDO_PARCIAL",
+    "scope": "Cannes oficial (competición de largometrajes, Un Certain Regard, fuera de concurso y cortometrajes) extraído de la web oficial; faltan secciones/festivales para cubrir el alcance de 1982. San Sebastián: evidencia archivística parcial guardada; selección no integrada. San Sebastián: solo palmarés de películas premiadas integrado; selección completa pendiente. Venecia: se añadieron los premios FilmAffinity de 1980 y tres títulos listados en sus categorías; la selección oficial completa sigue pendiente. Berlín: lista parcial de 19 títulos y palmarés FilmAffinity integrada con IDs; Solo Sunny queda registrado desde categorías de premios aunque no esté en la lista Golden Bear. Propiedad confirmada solo por cruce exacto en maestros accesibles.",
+    "counts": [
+      {
+        "year": 1980,
+        "festival": "Cannes",
+        "section": "Competición oficial",
+        "films": 23,
+        "declaredOwned": 14
+      },
+      {
+        "year": 1980,
+        "festival": "Cannes",
+        "section": "Un Certain Regard",
+        "films": 14,
+        "declaredOwned": 2
+      },
+      {
+        "year": 1980,
+        "festival": "Cannes",
+        "section": "Fuera de concurso · largometrajes",
+        "films": 9,
+        "declaredOwned": 4
+      },
+      {
+        "year": 1980,
+        "festival": "Cannes",
+        "section": "Competición oficial · cortometrajes",
+        "films": 12,
+        "declaredOwned": 0
+      },
+      {
+        "year": 1980,
+        "festival": "San Sebastián",
+        "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
+        "films": 2,
+        "declaredOwned": 1
+      },
+      {
+        "year": 1980,
+        "festival": "Venecia",
+        "section": "Películas listadas en FilmAffinity · premios (selección parcial)",
+        "films": 3,
+        "declaredOwned": 3
+      },
+      {
+        "year": 1980,
+        "festival": "Berlín",
+        "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)",
+        "films": 20,
+        "declaredOwned": 6
+      }
+    ],
+    "notes": [
+      "No se declara cerrado: quedan bloques aplicables parciales o sin integrar.",
+      "Propiedad: 30 referencias activas a filas de maestro; 10 registros con conflicto/propiedad pendiente.",
+      "Las selecciones y categorías marcadas parciales no certifican exhaustividad. Se conservan las extracciones consultadas en extracciones/."
+    ],
+    "coverageStatus": "partial",
+    "coverage": {
+      "completeBlocks": [],
+      "partialBlocks": [
+        {
+          "festival": "Cannes",
+          "section": "Competición oficial"
+        },
+        {
+          "festival": "Cannes",
+          "section": "Un Certain Regard"
+        },
+        {
+          "festival": "Cannes",
+          "section": "Fuera de concurso · largometrajes"
+        },
+        {
+          "festival": "Cannes",
+          "section": "Competición oficial · cortometrajes"
+        },
+        {
+          "festival": "San Sebastián",
+          "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)"
+        },
+        {
+          "festival": "Venecia",
+          "section": "Películas listadas en FilmAffinity · premios (selección parcial)"
+        },
+        {
+          "festival": "Berlín",
+          "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)"
+        }
+      ],
+      "notHeldBlocks": [],
+      "missingOrUncompiledFestivals": [
+        "Oscar",
+        "BAFTA"
+      ]
+    },
+    "preparationPackage": {
+      "name": "Filmoteca_LAB_1977-1981_para_Sol.zip",
+      "sha256": "612a8ad90b52d8997b8dbfb04d322cfbae0baade47b2c87f7dfb1e321dcd8859",
+      "usedAs": "Selecciones, premios, identidades y evidencia de propiedad reutilizados; cobertura parcial explícita, sin reabrir investigación histórica."
+    }
   }
 }

@@ -1,12 +1,13 @@
 {
   "scope": "Ampliación histórica anterior a 1984, año por año descendiendo.",
-  "lastConstructedYear": 1982,
-  "nextYear": 1981,
+  "lastConstructedYear": 1980,
+  "nextYear": 1979,
   "completedYears": [
     1983,
-    1982
+    1982,
+    1980
   ],
-  "status": "1977_1981_CONSTRUIDOS_PARCIALMENTE",
+  "status": "1980_CONSTRUIDO_CON_SALVEDADES",
   "counts": {
     "editions": 8,
     "appearances": 173,
@@ -20,16 +21,16 @@
   "notes": [
     "Los inventarios cerrados de 1984–2015 y 2016–2026 se conservan.",
     "CONSTRUIDO significa cobertura y cruces por método práctico, no auditoría individual exhaustiva.",
-    "Bloque 1977–1981 incorporado como cobertura parcial desde el paquete preparado; completedYears conserva únicamente 1983 y 1982. No se inicia 1976."
+    "Bloque 1977–1981 incorporado como cobertura parcial desde el paquete preparado; completedYears conserva únicamente 1983 y 1982. No se inicia 1976.",
+    "Finalización de festivales 1980 el 20/10/2026: programas principales ASAC y San Sebastián completos según sus archivos; Berlín construido según FA y archivo de premiados con salvedad de cobertura digital."
   ],
   "partialYears": [
     1981,
-    1980,
     1979,
     1978,
     1977
   ],
-  "nextStep": "Completar los bloques pendientes de 1981 y después 1980–1977; no considerar cerrados los cinco años del paquete.",
+  "nextStep": "1980 construido en familias principales por método práctico, con salvedad documental de Berlín. Próximo año descendente: 1979, solo con nueva instrucción.",
   "partialBlockCounts": {
     "editions": 40,
     "appearances": 493,
@@ -44,5 +45,6 @@
     "status": "CONSTRUIDO",
     "date": "2026-10-19",
     "scope": "Solo las dos ediciones; no cierra las selecciones parciales de otros festivales de 1980."
-  }
+  },
+  "completedYearsMeaning": "Familias principales construidas por método práctico; no certifica exhaustividad de todos los programas ni auditoría histórica individual."
 }

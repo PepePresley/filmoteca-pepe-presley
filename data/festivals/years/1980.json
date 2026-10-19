@@ -840,92 +840,9 @@
       ]
     },
     {
-      "festival": "San Sebastián",
-      "year": 1980,
-      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
-      "films": [
-        {
-          "title": "Dyrygent",
-          "director": "Andrzej Wajda",
-          "award": "Premio de la Crítica Internacional (extraoficial)",
-          "nominations": [
-            "Premio de la Crítica Internacional (extraoficial)"
-          ],
-          "wins": [
-            "Premio de la Crítica Internacional (extraoficial)"
-          ],
-          "filmAffinityId": "233574",
-          "aliases": [
-            "El director de orquesta"
-          ]
-        },
-        {
-          "title": "Hazal",
-          "director": "Alí Özgentürk",
-          "award": "Premio Donostia para Nuevos Realizadores (extraoficial)",
-          "nominations": [
-            "Premio Donostia para Nuevos Realizadores (extraoficial)"
-          ],
-          "wins": [
-            "Premio Donostia para Nuevos Realizadores (extraoficial)"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Venecia",
-      "year": 1980,
-      "section": "Películas listadas en FilmAffinity · premios (selección parcial)",
-      "films": [
-        {
-          "title": "Atlantic City",
-          "director": "Louis Malle",
-          "award": "León de Oro (ex aequo)",
-          "nominations": [
-            "León de Oro"
-          ],
-          "wins": [
-            "León de Oro"
-          ],
-          "filmAffinityId": "192129",
-          "aliases": []
-        },
-        {
-          "title": "Gloria",
-          "director": "John Cassavetes",
-          "award": "León de Oro (ex aequo)",
-          "nominations": [
-            "León de Oro"
-          ],
-          "wins": [
-            "León de Oro"
-          ],
-          "filmAffinityId": "378721",
-          "aliases": []
-        },
-        {
-          "title": "Alejandro el Grande (Alejandro Magno)",
-          "director": "Theo Angelopoulos",
-          "award": "Premio FIPRESCI",
-          "nominations": [
-            "León de Oro",
-            "Premio FIPRESCI"
-          ],
-          "wins": [
-            "Premio FIPRESCI"
-          ],
-          "filmAffinityId": "132756",
-          "aliases": [
-            "Alexander the Great",
-            "O Megalexandros"
-          ]
-        }
-      ]
-    },
-    {
       "festival": "Berlín",
       "year": 1980,
-      "section": "Competición oficial · títulos listados por FilmAffinity (cobertura parcial)",
+      "section": "Competición oficial",
       "films": [
         {
           "title": "Heartland",
@@ -940,7 +857,9 @@
             "Premio Interfilm · Otto Dibelius"
           ],
           "filmAffinityId": "185898",
-          "filmaffinityTitle": "Heartland"
+          "filmaffinityTitle": "Heartland",
+          "aliases": [],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Palermo o Wolfsburg",
@@ -953,10 +872,13 @@
             "Oso de Oro"
           ],
           "filmAffinityId": "899430",
-          "filmaffinityTitle": "Palermo o Wolfsburg",
+          "filmaffinityTitle": "Palermo o Wolfsburgo",
           "aliases": [
-            "Palermo or Wolfsburg"
-          ]
+            "Palermo or Wolfsburg",
+            "Palermo o Wolfsburgo",
+            "Palermo oder Wolfsburg"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Confianza (Bizalom)",
@@ -972,20 +894,29 @@
             "Recomendación Interfilm"
           ],
           "filmAffinityId": "689196",
-          "filmaffinityTitle": "Confianza (Bizalom)",
+          "filmaffinityTitle": "Confianza",
           "aliases": [
-            "Confidence"
-          ]
+            "Confidence",
+            "Confianza",
+            "Bizalom"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Good Riddance",
-          "director": null,
+          "director": "Francis Mankiewicz",
           "award": "En competición",
           "nominations": [
             "Oso de Oro"
           ],
           "wins": [],
-          "filmAffinityId": "325836"
+          "filmAffinityId": "325836",
+          "aliases": [
+            "Les Bons débarras",
+            "Les bons débarras"
+          ],
+          "filmaffinityTitle": "Good Riddance",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Un profesor singular",
@@ -1003,7 +934,8 @@
           "aliases": [
             "Seeking Asylum",
             "Chiedo asilo"
-          ]
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "El crimen de Cuenca",
@@ -1014,7 +946,9 @@
           ],
           "wins": [],
           "filmAffinityId": "826874",
-          "filmaffinityTitle": "El crimen de Cuenca"
+          "filmaffinityTitle": "El crimen de Cuenca",
+          "aliases": [],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Alemania madre pálida",
@@ -1029,7 +963,8 @@
           "aliases": [
             "Germany Pale Mother",
             "Deutschland bleiche Mutter"
-          ]
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "El director de orquesta",
@@ -1047,11 +982,12 @@
           "aliases": [
             "The Orchestra Conductor",
             "Dyrygent"
-          ]
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "The Enemy",
-          "director": null,
+          "director": "Zeki Ökten",
           "award": "Mención honorífica · guion · Yilmaz Güney · Premio OCIC",
           "nominations": [
             "Oso de Oro",
@@ -1062,11 +998,16 @@
             "Mención honorífica · guion · Yilmaz Güney",
             "Premio OCIC"
           ],
-          "filmAffinityId": "200920"
+          "filmAffinityId": "200920",
+          "aliases": [
+            "Düsman"
+          ],
+          "filmaffinityTitle": "The Enemy",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "The Raven's Dance",
-          "director": null,
+          "director": "Markku Lehmuskallio",
           "award": "Mención honorífica · Markku Lehmuskallio · Recomendación OCIC",
           "nominations": [
             "Oso de Oro",
@@ -1077,11 +1018,17 @@
             "Mención honorífica · Markku Lehmuskallio",
             "Recomendación OCIC"
           ],
-          "filmAffinityId": "921275"
+          "filmAffinityId": "921275",
+          "aliases": [
+            "Korpinpolska",
+            "La danza del cuervo"
+          ],
+          "filmaffinityTitle": "La danza del cuervo",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Marigolds in August",
-          "director": null,
+          "director": "Ross Devenish",
           "award": "Premio Interfilm · Otto Dibelius",
           "nominations": [
             "Oso de Oro",
@@ -1090,17 +1037,26 @@
           "wins": [
             "Premio Interfilm · Otto Dibelius"
           ],
-          "filmAffinityId": "935581"
+          "filmAffinityId": "935581",
+          "aliases": [],
+          "filmaffinityTitle": "Marigolds in August",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Marmalade Revolution",
-          "director": null,
+          "director": "Erland Josephson",
           "award": "En competición",
           "nominations": [
             "Oso de Oro"
           ],
           "wins": [],
-          "filmAffinityId": "479629"
+          "filmAffinityId": "479629",
+          "aliases": [
+            "Marmeladupproret",
+            "MarmeladUpproret (Marmalade Revolution)"
+          ],
+          "filmaffinityTitle": "MarmeladUpproret (Marmalade Revolution)",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "La muerte en directo",
@@ -1115,7 +1071,8 @@
           "aliases": [
             "Death Watch",
             "La Mort en direct"
-          ]
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Moscú no cree en las lágrimas",
@@ -1128,18 +1085,25 @@
           "filmAffinityId": "405950",
           "filmaffinityTitle": "Moscú no cree en las lágrimas",
           "aliases": [
-            "Moscow Does Not Believe in Tears"
-          ]
+            "Moscow Does Not Believe in Tears",
+            "Москва слезам не верит"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "The Price of Survival",
-          "director": null,
+          "director": "Hans Noever",
           "award": "En competición",
           "nominations": [
             "Oso de Oro"
           ],
           "wins": [],
-          "filmAffinityId": "933846"
+          "filmAffinityId": "933846",
+          "aliases": [
+            "Der Preis fürs Überleben"
+          ],
+          "filmaffinityTitle": "The Price of Survival",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Rude Boy",
@@ -1153,27 +1117,37 @@
             "Mención honorífica · Jack Hazan; David Mingay"
           ],
           "filmAffinityId": "406099",
-          "filmaffinityTitle": "Rude Boy"
+          "filmaffinityTitle": "Rude Boy",
+          "aliases": [],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Transit",
-          "director": null,
+          "director": "Daniel Horowitz; Daniel Wachsmann",
           "award": "En competición",
           "nominations": [
             "Oso de Oro"
           ],
           "wins": [],
-          "filmAffinityId": "827603"
+          "filmAffinityId": "827603",
+          "aliases": [],
+          "filmaffinityTitle": "Transit",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "The Widow Montiel",
-          "director": null,
+          "director": "Miguel Littin",
           "award": "En competición",
           "nominations": [
             "Oso de Oro"
           ],
           "wins": [],
-          "filmAffinityId": "941323"
+          "filmAffinityId": "941323",
+          "aliases": [
+            "La viuda de Montiel"
+          ],
+          "filmaffinityTitle": "La viuda de Montiel",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Le voyage en douce",
@@ -1184,10 +1158,13 @@
           ],
           "wins": [],
           "filmAffinityId": "331746",
-          "filmaffinityTitle": "Le voyage en douce",
+          "filmaffinityTitle": "Le Voyage en douce",
           "aliases": [
-            "Voyage en Douce"
-          ]
+            "Voyage en Douce",
+            "A Sweet Journey",
+            "Le Voyage en douce"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
         },
         {
           "title": "Solo Sunny",
@@ -1203,7 +1180,991 @@
             "Premio FIPRESCI"
           ],
           "filmAffinityId": "717773",
-          "filmaffinityTitle": "Solo Sunny"
+          "filmaffinityTitle": "Solo Sunny",
+          "aliases": [],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1980,
+      "section": "Competición oficial · cortometrajes",
+      "films": [
+        {
+          "title": "Hlavy",
+          "director": "Petr Sís",
+          "award": "Best Short Film",
+          "nominations": [
+            "Best Short Film"
+          ],
+          "wins": [
+            "Best Short Film"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "Rod Gröth",
+          "director": "Jörg Moser-Metius",
+          "award": "Best Directing of a Short Film",
+          "nominations": [
+            "Best Directing of a Short Film"
+          ],
+          "wins": [
+            "Best Directing of a Short Film"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1980,
+      "section": "Competición oficial · Cinema 80",
+      "films": [
+        {
+          "title": "A idade da terra",
+          "director": "Glauber Rocha",
+          "award": "En competición",
+          "nominations": [
+            "León de Oro"
+          ],
+          "wins": [],
+          "filmAffinityId": "450980",
+          "aliases": [
+            "The Age of the Earth",
+            "La edad de la Tierra",
+            "A Idade da Terra"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/72",
+          "filmaffinityTitle": "La edad de la Tierra"
+        },
+        {
+          "title": "Atlantic City",
+          "director": "Louis Malle",
+          "award": "León de Oro (ex aequo)",
+          "nominations": [
+            "León de Oro"
+          ],
+          "wins": [
+            "León de Oro (ex aequo)"
+          ],
+          "filmAffinityId": "192129",
+          "aliases": [
+            "Atlantic City, U.S.A."
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/6",
+          "filmaffinityTitle": "Atlantic City",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
+        },
+        {
+          "title": "Deux lions au soleil",
+          "director": "Claude Faraldo",
+          "award": "En competición",
+          "nominations": [
+            "León de Oro"
+          ],
+          "wins": [],
+          "filmAffinityId": null,
+          "aliases": [
+            "Two Lions in the Sun"
+          ],
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/74"
+        },
+        {
+          "title": "Gloria",
+          "director": "John Cassavetes",
+          "award": "Mención de honor OCIC · León de Oro (ex aequo)",
+          "nominations": [
+            "León de Oro",
+            "Mención de honor OCIC"
+          ],
+          "wins": [
+            "Mención de honor OCIC",
+            "León de Oro (ex aequo)"
+          ],
+          "filmAffinityId": "378721",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/82",
+          "filmaffinityTitle": "Gloria",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
+        },
+        {
+          "title": "Going in Style",
+          "director": "Martin Brest",
+          "award": "Premio Pasinetti · mejor actor · George Burns · Premio Pasinetti · mejor actor · Art Carney · Premio Pasinetti · mejor actor · Lee Strasberg",
+          "nominations": [
+            "León de Oro",
+            "Premio Pasinetti · mejor actor · George Burns",
+            "Premio Pasinetti · mejor actor · Art Carney",
+            "Premio Pasinetti · mejor actor · Lee Strasberg"
+          ],
+          "wins": [
+            "Premio Pasinetti · mejor actor · George Burns",
+            "Premio Pasinetti · mejor actor · Art Carney",
+            "Premio Pasinetti · mejor actor · Lee Strasberg"
+          ],
+          "filmAffinityId": "797394",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/83",
+          "filmaffinityTitle": "Going in Style"
+        },
+        {
+          "title": "La petite sirène",
+          "director": "Roger Andrieux",
+          "award": "En competición",
+          "nominations": [
+            "León de Oro"
+          ],
+          "wins": [],
+          "filmAffinityId": null,
+          "aliases": [
+            "The Little Mermaid"
+          ],
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/75"
+        },
+        {
+          "title": "Melvin and Howard",
+          "director": "Jonathan Demme",
+          "award": "En competición",
+          "nominations": [
+            "León de Oro"
+          ],
+          "wins": [],
+          "filmAffinityId": "607487",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Melvin y Howard"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/84",
+          "filmaffinityTitle": "Melvin y Howard"
+        },
+        {
+          "title": "Alejandro el Grande (Alejandro Magno)",
+          "director": "Theo Angelopoulos",
+          "award": "Premio FIPRESCI · León de Oro",
+          "nominations": [
+            "León de Oro",
+            "Premio FIPRESCI"
+          ],
+          "wins": [
+            "Premio FIPRESCI",
+            "León de Oro"
+          ],
+          "filmAffinityId": "132756",
+          "aliases": [
+            "Alexander the Great",
+            "O Megalexandros",
+            "O Megalèxandros"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/78",
+          "filmaffinityTitle": "Alejandro el Grande (Alejandro Magno)",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION"
+        },
+        {
+          "title": "Story of an Unknown Man",
+          "director": "Vytautas Žalakevičius",
+          "award": "En competición",
+          "nominations": [
+            "León de Oro"
+          ],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Rasskaz o neisvestnom čeloveke"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/81"
+        },
+        {
+          "title": "Richard’s Things",
+          "director": "Anthony Harvey",
+          "award": "Premio Pasinetti · mejor actriz · Liv Ullmann",
+          "nominations": [
+            "León de Oro",
+            "Premio Pasinetti · mejor actriz · Liv Ullmann"
+          ],
+          "wins": [
+            "Premio Pasinetti · mejor actriz · Liv Ullmann"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Richard's Things",
+            "Las cosas de Richard"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/77"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1980,
+      "section": "Cinema 80 · fuera de concurso",
+      "films": [
+        {
+          "title": "Long Days",
+          "director": "Tewfik Saleh",
+          "award": "Fuera de concurso",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "aliases": [
+            "Al-ayyam al-tawila"
+          ],
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/79"
+        },
+        {
+          "title": "Phobia",
+          "director": "John Huston",
+          "award": "Fuera de concurso",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "868994",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/73",
+          "filmaffinityTitle": "Phobia"
+        },
+        {
+          "title": "The Human Factor",
+          "director": "Otto Preminger",
+          "award": "Fuera de concurso",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "114785",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "El factor humano"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/76",
+          "filmaffinityTitle": "El factor humano"
+        },
+        {
+          "title": "Eugenio",
+          "director": "Luigi Comencini",
+          "award": "OCIC Award · UNICEF Award",
+          "nominations": [
+            "OCIC Award",
+            "UNICEF Award"
+          ],
+          "wins": [
+            "OCIC Award",
+            "UNICEF Award"
+          ],
+          "filmAffinityId": null,
+          "aliases": [
+            "Voltati Eugenio",
+            "Eugenio, un niño sin amor"
+          ],
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/6383"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1980,
+      "section": "Officina Veneziana",
+      "films": [
+        {
+          "title": "A Priceless Day",
+          "director": "Péter Gothár",
+          "award": "León de Oro · ópera prima",
+          "nominations": [],
+          "wins": [
+            "León de Oro · ópera prima"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Ajándék ez a nap"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/109"
+        },
+        {
+          "title": "Sons of the Wind",
+          "director": "Brahim Tsaki",
+          "award": "Premio Pasinetti · mejor película",
+          "nominations": [
+            "Premio Pasinetti · mejor película"
+          ],
+          "wins": [
+            "Premio Pasinetti · mejor película"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Les enfants du vent",
+            "Aulad el rih"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/85"
+        },
+        {
+          "title": "That’s Life",
+          "director": "Paul Vecchiali",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "C’est la vie",
+            "C'est la vie!"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/88"
+        },
+        {
+          "title": "Charlotte",
+          "director": "Frans Weisz",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/91"
+        },
+        {
+          "title": "Guns",
+          "director": "Robert Kramer",
+          "award": "Cita especial del jurado",
+          "nominations": [
+            "Cita especial del jurado"
+          ],
+          "wins": [
+            "Cita especial del jurado"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/89"
+        },
+        {
+          "title": "The Other Woman",
+          "director": "Peter Del Monte",
+          "award": "Cita especial del jurado",
+          "nominations": [
+            "Cita especial del jurado"
+          ],
+          "wins": [
+            "Cita especial del jurado"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "L’altra donna",
+            "L'altra donna"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/98"
+        },
+        {
+          "title": "The Uprising",
+          "director": "Peter Lilienthal",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Der Aufstand",
+            "La Insurrección",
+            "La insurrección"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/96"
+        },
+        {
+          "title": "La ragazza di via Mille lire",
+          "director": "Gianni Serra",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "La ragazza di via Millelire"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/99"
+        },
+        {
+          "title": "La répétition générale",
+          "director": "Werner Schroeter",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/93"
+        },
+        {
+          "title": "Love Between the Raindrops",
+          "director": "Karel Kachyna",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "702545",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Lásky mezi kapkami deště",
+            "Láski mezi kapkami děstě",
+            "El amor bajo las gotas de lluvia",
+            "1980"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/86",
+          "filmaffinityTitle": "1980"
+        },
+        {
+          "title": "Lena Rais",
+          "director": "Christian Rischert",
+          "award": "Cita especial del jurado · Mención especial",
+          "nominations": [
+            "Cita especial del jurado"
+          ],
+          "wins": [
+            "Cita especial del jurado",
+            "Mención especial"
+          ],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/94"
+        },
+        {
+          "title": "Masoch",
+          "director": "Franco Brogi Taviani",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/101"
+        },
+        {
+          "title": "Opera prima",
+          "director": "Fernando Trueba",
+          "award": "Premio AGIS",
+          "nominations": [
+            "Premio AGIS"
+          ],
+          "wins": [
+            "Premio AGIS"
+          ],
+          "filmAffinityId": "454983",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Ópera prima"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/108",
+          "filmaffinityTitle": "Ópera prima"
+        },
+        {
+          "title": "Oxalá",
+          "director": "António-Pedro Vasconcelos",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/107"
+        },
+        {
+          "title": "Petrijin venac",
+          "director": "Srdjan Karanovic",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/105"
+        },
+        {
+          "title": "Pilgrim, Farewell",
+          "director": "Michael Roemer",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/111"
+        },
+        {
+          "title": "Spasatel'",
+          "director": "Sergei Solovyov",
+          "wins": [
+            "Mención especial del jurado"
+          ],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/110",
+          "award": "Mención especial del jurado",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Men or Not Men",
+          "director": "Valentino Orsini",
+          "award": "Selección de Officina Veneziana",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Uomini e no"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/102"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1980,
+      "section": "Officina Veneziana · fuera de concurso",
+      "films": [
+        {
+          "title": "Berlin Alexanderplatz",
+          "director": "Rainer Werner Fassbinder",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/90",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Edfou",
+          "director": "Ibrahim El Mougui",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/87",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Gummoving",
+          "director": "Hanna Frenzel",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/92",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Il mistero di Oberwald / The Mystery of Oberwald",
+          "director": "Michelangelo Antonioni",
+          "award": "Fuera de concurso",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "124194",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Il mistero di Oberwald",
+            "El misterio de Oberwald"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/97",
+          "filmaffinityTitle": "El misterio de Oberwald"
+        },
+        {
+          "title": "Kontrakt",
+          "director": "Krzysztof Zanussi",
+          "wins": [],
+          "nominations": [],
+          "aliases": [
+            "The Contract"
+          ],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/106",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Ludwig",
+          "director": "Luchino Visconti",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/100",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Rückwärts",
+          "director": "René Perraudin",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/95",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Vacanze in Val Trebbia",
+          "director": "Marco Bellocchio",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/103",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        },
+        {
+          "title": "Venezia, ultima sera di Carnevale",
+          "director": "Carlo Tuzii",
+          "wins": [],
+          "nominations": [],
+          "aliases": [],
+          "officialSource": "https://asac.labiennale.org/attivita/cinema/104",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1980,
+      "section": "Sección Oficial · sin competición",
+      "films": [
+        {
+          "title": "La banquière",
+          "director": "Francis Girod",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "268501",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "La banquière / The Lady Banker",
+            "The Lady Banker",
+            "La Banquière"
+          ],
+          "filmaffinityTitle": "La Banquière"
+        },
+        {
+          "title": "Atlantic City",
+          "director": "Louis Malle",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "192129",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [],
+          "filmaffinityTitle": "Atlantic City"
+        },
+        {
+          "title": "Bizalom",
+          "director": "István Szabó",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "689196",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Bizalom / Confidence",
+            "Confidence",
+            "Confianza",
+            "Confianza (Bizalom)"
+          ],
+          "filmaffinityTitle": "Confianza (Bizalom)"
+        },
+        {
+          "title": "Bom povo português",
+          "director": "Rui Simões",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Bom povo português / The Good People of Portugal",
+            "The Good People of Portugal",
+            "Bom Povo Português"
+          ]
+        },
+        {
+          "title": "Causa králík",
+          "director": "Jaromil Jireš",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Causa králík / The Rabbit Case",
+            "The Rabbit Case",
+            "Causa Králík"
+          ]
+        },
+        {
+          "title": "Con el culo al aire",
+          "director": "Carles Mira",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "553567",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Con el culo al aire / Caution to the Wind",
+            "Caution to the Wind"
+          ],
+          "filmaffinityTitle": "Con el culo al aire"
+        },
+        {
+          "title": "Dyrygent",
+          "director": "Andrzej Wajda",
+          "award": "Premio de la Crítica Internacional (extraoficial)",
+          "nominations": [
+            "Premio de la Crítica Internacional (extraoficial)"
+          ],
+          "wins": [
+            "Premio de la Crítica Internacional (extraoficial)"
+          ],
+          "filmAffinityId": "233574",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Dyrygent / The Conductor",
+            "The Conductor",
+            "El director de orquesta"
+          ],
+          "filmaffinityTitle": "El director de orquesta"
+        },
+        {
+          "title": "El hombre de moda",
+          "director": "Fernando Méndez-Leite",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "309528",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "El hombre de moda / Man of Fashion",
+            "Man of Fashion"
+          ],
+          "filmaffinityTitle": "El hombre de moda"
+        },
+        {
+          "title": "El nido",
+          "director": "Jaime de Armiñán",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "567167",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [],
+          "filmaffinityTitle": "El nido"
+        },
+        {
+          "title": "Fame",
+          "director": "Alan Parker",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "590855",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Fame / Fama",
+            "Fama"
+          ],
+          "filmaffinityTitle": "Fama"
+        },
+        {
+          "title": "Fontamara",
+          "director": "Carlo Lizzani",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "Gloria",
+          "director": "John Cassavetes",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "378721",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [],
+          "filmaffinityTitle": "Gloria"
+        },
+        {
+          "title": "Il mistero di Oberwald",
+          "director": "Michelangelo Antonioni",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "124194",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Il mistero di Oberwald / The Mystery of Oberwald",
+            "The Mystery of Oberwald",
+            "El misterio de Oberwald"
+          ],
+          "filmaffinityTitle": "El misterio de Oberwald"
+        },
+        {
+          "title": "Întoarcerea lui Vodă Lăpușneanu",
+          "director": "Malvina Ursianu",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "La mano negra",
+          "director": "Fernando Colomo",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "633588",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "La mano negra / The Black Hand",
+            "The Black Hand"
+          ],
+          "filmaffinityTitle": "La mano negra"
+        },
+        {
+          "title": "Manuel",
+          "director": "Alfredo J. Anzola",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "Mon oncle d’Amérique",
+          "director": "Alain Resnais",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "369116",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "Mon oncle d’Amérique / My American Uncle",
+            "My American Uncle",
+            "Mi tío de América",
+            "Mon oncle d'Amérique"
+          ],
+          "filmaffinityTitle": "Mi tío de América"
+        },
+        {
+          "title": "Oficio de tinieblas",
+          "director": "Archibaldo Burns; José Luis Urquieta",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "Phobia",
+          "director": "John Huston",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "868994",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [],
+          "filmaffinityTitle": "Phobia"
+        },
+        {
+          "title": "Prostitute",
+          "director": "Tony Garnett",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "República dos assassinos",
+          "director": "Miguel Faria Jr.",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": []
+        },
+        {
+          "title": "Santa Esperansa",
+          "director": "Sebastián Alarcón",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Santa Esperansa / Santa Esperanza",
+            "Santa Esperanza"
+          ]
+        },
+        {
+          "title": "Spotkanie na Atlantyku",
+          "director": "Jerzy Kawalerowicz",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": null,
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR",
+          "aliases": [
+            "Spotkanie na Atlantyku / Chance Meeting on the Atlantic",
+            "Chance Meeting on the Atlantic"
+          ]
+        },
+        {
+          "title": "The Shining",
+          "director": "Stanley Kubrick",
+          "award": "Selección Oficial · sin competición",
+          "nominations": [],
+          "wins": [],
+          "filmAffinityId": "598422",
+          "identityStatus": "FILMAFFINITY_ID_WITH_OFFICIAL_SELECTION",
+          "aliases": [
+            "The Shining / El resplandor",
+            "El resplandor"
+          ],
+          "filmaffinityTitle": "El resplandor"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1980,
+      "section": "Nuevos Realizadores · película premiada",
+      "films": [
+        {
+          "title": "Hazal",
+          "director": "Alí Özgentürk",
+          "award": "Premio Donostia para Nuevos Realizadores (extraoficial)",
+          "nominations": [
+            "Premio Donostia para Nuevos Realizadores (extraoficial)"
+          ],
+          "wins": [
+            "Premio Donostia para Nuevos Realizadores (extraoficial)"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_SELECTION_TITLE_AND_DIRECTOR"
         }
       ]
     },
