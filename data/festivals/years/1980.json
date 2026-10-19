@@ -1206,6 +1206,2549 @@
           "filmaffinityTitle": "Solo Sunny"
         }
       ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 1980,
+      "section": "52.ª edición · películas de 1979",
+      "films": [
+        {
+          "title": "Kramer contra Kramer",
+          "director": "Robert Benton",
+          "filmAffinityId": "257947",
+          "filmaffinityTitle": "Kramer contra Kramer",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Robert Benton",
+            "Mejor actor principal · Dustin Hoffman",
+            "Mejor actor de reparto · Justin Henry",
+            "Mejor actriz de reparto · Meryl Streep",
+            "Mejor actriz de reparto · Jane Alexander",
+            "Mejor guion adaptado · Robert Benton",
+            "Mejor montaje · Gerald B. Greenberg",
+            "Mejor fotografía · Néstor Almendros"
+          ],
+          "wins": [
+            "Mejor película",
+            "Mejor dirección · Robert Benton",
+            "Mejor actor principal · Dustin Hoffman",
+            "Mejor actriz de reparto · Meryl Streep",
+            "Mejor guion adaptado · Robert Benton"
+          ],
+          "aliases": [
+            "Kramer vs. Kramer"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film257947.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Robert Benton",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor principal",
+              "person": "Dustin Hoffman",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Justin Henry",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Meryl Streep",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Jane Alexander",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion adaptado",
+              "person": "Robert Benton",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Gerald B. Greenberg",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Néstor Almendros",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "All That Jazz (Empieza el espectáculo)",
+          "director": "Bob Fosse",
+          "filmAffinityId": "305371",
+          "filmaffinityTitle": "All That Jazz (Empieza el espectáculo)",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Bob Fosse",
+            "Mejor actor principal · Roy Scheider",
+            "Mejor guion original · Robert Alan Aurthur, Bob Fosse",
+            "Mejor montaje · Alan Heim",
+            "Mejor fotografía · Giuseppe Rotunno",
+            "Mejor adaptación musical · Ralph Burns",
+            "Mejor diseño de producción · Philip Rosenberg, Tony Walton, Edward Stewart, Gary J. Brink",
+            "Mejor vestuario · Albert Wolsky"
+          ],
+          "wins": [
+            "Mejor montaje · Alan Heim",
+            "Mejor adaptación musical · Ralph Burns",
+            "Mejor diseño de producción · Philip Rosenberg, Tony Walton, Edward Stewart, Gary J. Brink",
+            "Mejor vestuario · Albert Wolsky"
+          ],
+          "aliases": [
+            "Empieza el espectáculo",
+            "All That Jazz"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film305371.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Bob Fosse",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor principal",
+              "person": "Roy Scheider",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion original",
+              "person": "Robert Alan Aurthur, Bob Fosse",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Alan Heim",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Giuseppe Rotunno",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor adaptación musical",
+              "person": "Ralph Burns",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Philip Rosenberg, Tony Walton, Edward Stewart, Gary J. Brink",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Albert Wolsky",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Apocalypse Now",
+          "director": "Francis Ford Coppola",
+          "filmAffinityId": "701892",
+          "filmaffinityTitle": "Apocalypse Now",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Francis Ford Coppola",
+            "Mejor actor de reparto · Robert Duvall",
+            "Mejor guion adaptado · Francis Ford Coppola, John Milius",
+            "Mejor montaje · Richard Marks, Walter Murch, Gerald B. Greenberg, Lisa Fruchtman",
+            "Mejor fotografía · Vittorio Storaro",
+            "Mejor diseño de producción · Dean Tavoularis, Angelo P. Graham, George R. Nelson",
+            "Mejor sonido · Walter Murch, Mark Berger, Richard Beggs, Nathan Boxer"
+          ],
+          "wins": [
+            "Mejor fotografía · Vittorio Storaro",
+            "Mejor sonido · Walter Murch, Mark Berger, Richard Beggs, Nathan Boxer"
+          ],
+          "aliases": [],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film701892.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Francis Ford Coppola",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Robert Duvall",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion adaptado",
+              "person": "Francis Ford Coppola, John Milius",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Richard Marks, Walter Murch, Gerald B. Greenberg, Lisa Fruchtman",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Vittorio Storaro",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Dean Tavoularis, Angelo P. Graham, George R. Nelson",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Walter Murch, Mark Berger, Richard Beggs, Nathan Boxer",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El relevo",
+          "director": "Peter Yates",
+          "filmAffinityId": "303738",
+          "filmaffinityTitle": "El relevo",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Peter Yates",
+            "Mejor actriz de reparto · Barbara Barrie",
+            "Mejor guion original · Steve Teisch",
+            "Mejor adaptación musical · Patrick Williams"
+          ],
+          "wins": [
+            "Mejor guion original · Steve Teisch"
+          ],
+          "aliases": [
+            "Breaking Away"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film303738.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Peter Yates",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Barbara Barrie",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion original",
+              "person": "Steve Teisch",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor adaptación musical",
+              "person": "Patrick Williams",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Norma Rae",
+          "director": "Martin Ritt",
+          "filmAffinityId": "511492",
+          "filmaffinityTitle": "Norma Rae",
+          "nominations": [
+            "Mejor película",
+            "Mejor actriz principal · Sally Field",
+            "Mejor guion adaptado · Irving Ravetch, Harriet Frank Jr.",
+            "Mejor canción · David Shire, Norman Gimbel (It Goes Like It Goes)"
+          ],
+          "wins": [
+            "Mejor actriz principal · Sally Field",
+            "Mejor canción · David Shire, Norman Gimbel (It Goes Like It Goes)"
+          ],
+          "aliases": [],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film511492.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actriz principal",
+              "person": "Sally Field",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion adaptado",
+              "person": "Irving Ravetch, Harriet Frank Jr.",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor canción",
+              "person": "David Shire, Norman Gimbel (It Goes Like It Goes)",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Vicios pequeños",
+          "director": "Édouard Molinaro",
+          "filmAffinityId": "514927",
+          "filmaffinityTitle": "Vicios pequeños",
+          "nominations": [
+            "Mejor dirección · Edouard Molinaro",
+            "Mejor guion adaptado · Edouard Molinaro, Francis Veber, Marcello Danon , Jean Poiret",
+            "Mejor vestuario · Piero Tosi, Ambra Danon"
+          ],
+          "wins": [],
+          "aliases": [
+            "Vicios pequeños (La jaula de las locas)",
+            "La Cage aux folles"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film514927.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor dirección",
+              "person": "Edouard Molinaro",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion adaptado",
+              "person": "Edouard Molinaro, Francis Veber, Marcello Danon , Jean Poiret",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Piero Tosi, Ambra Danon",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Capítulo dos",
+          "director": "Robert Moore",
+          "filmAffinityId": "482024",
+          "filmaffinityTitle": "Capítulo dos",
+          "nominations": [
+            "Mejor actriz principal · Marsha Mason"
+          ],
+          "wins": [],
+          "aliases": [
+            "Chapter Two"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film482024.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz principal",
+              "person": "Marsha Mason",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El síndrome de China",
+          "director": "James Bridges",
+          "filmAffinityId": "791779",
+          "filmaffinityTitle": "El síndrome de China",
+          "nominations": [
+            "Mejor actriz principal · Jane Fonda",
+            "Mejor actor principal · Jack Lemmon",
+            "Mejor guion original · Mike Gray, T.S. Cook, James Bridges",
+            "Mejor diseño de producción · George Jenkins, Arthur Jeph Parker"
+          ],
+          "wins": [],
+          "aliases": [
+            "The China Syndrome"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film791779.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz principal",
+              "person": "Jane Fonda",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor principal",
+              "person": "Jack Lemmon",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion original",
+              "person": "Mike Gray, T.S. Cook, James Bridges",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "George Jenkins, Arthur Jeph Parker",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "La rosa",
+          "director": "Mark Rydell",
+          "filmAffinityId": "345249",
+          "filmaffinityTitle": "La rosa",
+          "nominations": [
+            "Mejor actriz principal · Bette Midler",
+            "Mejor actor de reparto · Frederic Forrest",
+            "Mejor montaje · Robert L. Wolfe, Carroll Timothy O'Meara",
+            "Mejor sonido · Theodore Soderberg, Douglas O. Williams, Paul Wells, James E. Webb"
+          ],
+          "wins": [],
+          "aliases": [
+            "La Rosa",
+            "The Rose"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film345249.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz principal",
+              "person": "Bette Midler",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Frederic Forrest",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Robert L. Wolfe, Carroll Timothy O'Meara",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Theodore Soderberg, Douglas O. Williams, Paul Wells, James E. Webb",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Comenzar de nuevo",
+          "director": "Alan J. Pakula",
+          "filmAffinityId": "430567",
+          "filmaffinityTitle": "Comenzar de nuevo",
+          "nominations": [
+            "Mejor actriz principal · Jill Clayburgh",
+            "Mejor actriz de reparto · Candice Bergen"
+          ],
+          "wins": [],
+          "aliases": [
+            "Starting Over"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film430567.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz principal",
+              "person": "Jill Clayburgh",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Candice Bergen",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Justicia para todos",
+          "director": "Norman Jewison",
+          "filmAffinityId": "956275",
+          "filmaffinityTitle": "Justicia para todos",
+          "nominations": [
+            "Mejor actor principal · Al Pacino",
+            "Mejor guion original · Valerie Curtin, Barry Levinson"
+          ],
+          "wins": [],
+          "aliases": [
+            "...And Justice for All"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film956275.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor principal",
+              "person": "Al Pacino",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion original",
+              "person": "Valerie Curtin, Barry Levinson",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Bienvenido, Mr. Chance",
+          "director": "Hal Ashby",
+          "filmAffinityId": "953252",
+          "filmaffinityTitle": "Bienvenido, Mr. Chance",
+          "nominations": [
+            "Mejor actor principal · Peter Sellers",
+            "Mejor actor de reparto · Melvyn Douglas"
+          ],
+          "wins": [
+            "Mejor actor de reparto · Melvyn Douglas"
+          ],
+          "aliases": [
+            "Bienvenido Mr. Chance",
+            "Being There"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film953252.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor principal",
+              "person": "Peter Sellers",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Melvyn Douglas",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El corcel negro",
+          "director": "Carroll Ballard",
+          "filmAffinityId": "400158",
+          "filmaffinityTitle": "El corcel negro",
+          "nominations": [
+            "Mejor actor de reparto · Mickey Rooney",
+            "Mejor montaje · Robert Dalva",
+            "Premio especial · edición de sonido · Alan Splet"
+          ],
+          "wins": [
+            "Premio especial · edición de sonido · Alan Splet"
+          ],
+          "aliases": [
+            "The Black Stallion"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film400158.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Mickey Rooney",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Robert Dalva",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Premio especial · edición de sonido",
+              "person": "Alan Splet",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Manhattan",
+          "director": "Woody Allen",
+          "filmAffinityId": "448855",
+          "filmaffinityTitle": "Manhattan",
+          "nominations": [
+            "Mejor actriz de reparto · Mariel Hemingway",
+            "Mejor guion original · Woody Allen, Marshall Brickman"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film448855.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Mariel Hemingway",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor guion original",
+              "person": "Woody Allen, Marshall Brickman",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El tambor de hojalata",
+          "director": "Volker Schlöndorff",
+          "filmAffinityId": "107852",
+          "filmaffinityTitle": "El tambor de hojalata",
+          "nominations": [
+            "Mejor película internacional"
+          ],
+          "wins": [
+            "Mejor película internacional"
+          ],
+          "aliases": [
+            "Die Blechtrommel"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film107852.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película internacional",
+              "person": null,
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Olvidar Venecia",
+          "director": "Franco Brusati",
+          "filmAffinityId": "875564",
+          "filmaffinityTitle": "Olvidar Venecia",
+          "nominations": [
+            "Mejor película internacional"
+          ],
+          "wins": [],
+          "aliases": [
+            "Dimenticare Venezia"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film875564.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Mamá cumple 100 años",
+          "director": "Carlos Saura",
+          "filmAffinityId": "640136",
+          "filmaffinityTitle": "Mamá cumple 100 años",
+          "nominations": [
+            "Mejor película internacional"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film640136.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Las señoritas de Wilko",
+          "director": "Andrzej Wajda",
+          "filmAffinityId": "644609",
+          "filmaffinityTitle": "Las señoritas de Wilko",
+          "nominations": [
+            "Mejor película internacional"
+          ],
+          "wins": [],
+          "aliases": [
+            "Las señoritas de Wilko"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film644609.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Una vida de mujer",
+          "director": "Claude Sautet",
+          "filmAffinityId": "836902",
+          "filmaffinityTitle": "Una vida de mujer",
+          "nominations": [
+            "Mejor película internacional"
+          ],
+          "wins": [],
+          "aliases": [
+            "Une Histoire Simple"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film836902.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Un pequeño romance",
+          "director": "George Roy Hill",
+          "filmAffinityId": "814237",
+          "filmaffinityTitle": "Un pequeño romance",
+          "nominations": [
+            "Mejor guion adaptado · Allan Burns",
+            "Mejor banda sonora · Georges Delerue"
+          ],
+          "wins": [
+            "Mejor banda sonora · Georges Delerue"
+          ],
+          "aliases": [
+            "A Little Romance"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film814237.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor guion adaptado",
+              "person": "Allan Burns",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor banda sonora",
+              "person": "Georges Delerue",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "1941",
+          "director": "Steven Spielberg",
+          "filmAffinityId": "810245",
+          "filmaffinityTitle": "1941",
+          "nominations": [
+            "Mejor fotografía · William A. Fraker",
+            "Mejor sonido · Robert Knudson, Robert Glass, Don MacDougall, Gene S. Cantamessa",
+            "Mejores efectos visuales · William A. Fraker, A.D. Flowers, Gregory Jein"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film810245.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "William A. Fraker",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Robert Knudson, Robert Glass, Don MacDougall, Gene S. Cantamessa",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejores efectos visuales",
+              "person": "William A. Fraker, A.D. Flowers, Gregory Jein",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El abismo negro",
+          "director": "Gary Nelson",
+          "filmAffinityId": "585696",
+          "filmaffinityTitle": "El abismo negro",
+          "nominations": [
+            "Mejor fotografía · Frank V. Phillips",
+            "Mejores efectos visuales · Peter Ellenshaw, Art Cruickshank, Eustace Lycett, Danny Lee, Harrison Ellenshaw, Joe Hale"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Black Hole"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film585696.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "Frank V. Phillips",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejores efectos visuales",
+              "person": "Peter Ellenshaw, Art Cruickshank, Eustace Lycett, Danny Lee, Harrison Ellenshaw, Joe Hale",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "10, la mujer perfecta",
+          "director": "Blake Edwards",
+          "filmAffinityId": "502576",
+          "filmaffinityTitle": "10, la mujer perfecta",
+          "nominations": [
+            "Mejor banda sonora · Henry Mancini",
+            "Mejor canción · Henry Mancini, Robert Wells (It's Easy to Say)"
+          ],
+          "wins": [],
+          "aliases": [
+            "10. La mujer perfecta",
+            "10"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film502576.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor banda sonora",
+              "person": "Henry Mancini",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor canción",
+              "person": "Henry Mancini, Robert Wells (It's Easy to Say)",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Terror en Amityville",
+          "director": "Stuart Rosenberg",
+          "filmAffinityId": "528018",
+          "filmaffinityTitle": "Terror en Amityville",
+          "nominations": [
+            "Mejor banda sonora · Lalo Schifrin"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Amityville Horror"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film528018.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor banda sonora",
+              "person": "Lalo Schifrin",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Campeón",
+          "director": "Franco Zeffirelli",
+          "filmAffinityId": "500549",
+          "filmaffinityTitle": "Campeón",
+          "nominations": [
+            "Mejor banda sonora · Dave Grusin"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Champ"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film500549.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor banda sonora",
+              "person": "Dave Grusin",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Star Trek: La película",
+          "director": "Robert Wise",
+          "filmAffinityId": "770715",
+          "filmaffinityTitle": "Star Trek: La película",
+          "nominations": [
+            "Mejor banda sonora · Jerry Goldsmith",
+            "Mejor diseño de producción · Harold Michelson, Joseph R. Jennings, Leon Harris, John Vallone, Linda DeScenna",
+            "Mejores efectos visuales · Douglas Trumbull, John Dykstra, Richard Yuricich, Robert Swarthe, David K. Stewart, Grant McCune"
+          ],
+          "wins": [],
+          "aliases": [
+            "Star Trek: The Motion Picture",
+            "Star Trek",
+            "Star Trek, la película"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film770715.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor banda sonora",
+              "person": "Jerry Goldsmith",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Harold Michelson, Joseph R. Jennings, Leon Harris, John Vallone, Linda DeScenna",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejores efectos visuales",
+              "person": "Douglas Trumbull, John Dykstra, Richard Yuricich, Robert Swarthe, David K. Stewart, Grant McCune",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Castillos de hielo",
+          "director": "Donald Wrye",
+          "filmAffinityId": "538759",
+          "filmaffinityTitle": "Castillos de hielo",
+          "nominations": [
+            "Mejor canción · Marvin Hamlisch, Carole Bayer Sager (Through the Eyes of Love)"
+          ],
+          "wins": [],
+          "aliases": [
+            "Ice Castles"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film538759.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor canción",
+              "person": "Marvin Hamlisch, Carole Bayer Sager (Through the Eyes of Love)",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "La película de los Teleñecos",
+          "director": "James Frawley",
+          "filmAffinityId": "822264",
+          "filmaffinityTitle": "La película de los Teleñecos",
+          "nominations": [
+            "Mejor canción · Paul Williams, Kenny Ascher (The Rainbow Connection)",
+            "Mejor adaptación musical · Paul Williams, Kenny Ascher"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Muppet Movie"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film822264.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor canción",
+              "person": "Paul Williams, Kenny Ascher (The Rainbow Connection)",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejor adaptación musical",
+              "person": "Paul Williams, Kenny Ascher",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Promesa de amor",
+          "director": "Don Taylor",
+          "filmAffinityId": "387199",
+          "filmaffinityTitle": "Promesa de amor",
+          "nominations": [
+            "Mejor canción · David Shire, Alan Bergman, Marilyn Bergman (I'll Never Say Goodbye)"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Promise of Love"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film387199.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor canción",
+              "person": "David Shire, Alan Bergman, Marilyn Bergman (I'll Never Say Goodbye)",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Alien, el octavo pasajero",
+          "director": "Ridley Scott",
+          "filmAffinityId": "708792",
+          "filmaffinityTitle": "Alien, el octavo pasajero",
+          "nominations": [
+            "Mejor diseño de producción · Michael Seymour, Leslie Dilley, Roger Christian",
+            "Mejores efectos visuales · H.R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder, Dennis Ayling"
+          ],
+          "wins": [
+            "Mejores efectos visuales · H.R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder, Dennis Ayling"
+          ],
+          "aliases": [
+            "Alien: El octavo pasajero",
+            "Alien"
+          ],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film708792.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Michael Seymour, Leslie Dilley, Roger Christian",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            },
+            {
+              "category": "Mejores efectos visuales",
+              "person": "H.R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder, Dennis Ayling",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Agatha",
+          "director": "Michael Apted",
+          "filmAffinityId": "883492",
+          "filmaffinityTitle": "Agatha",
+          "nominations": [
+            "Mejor vestuario · Shirley Russell"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film883492.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor vestuario",
+              "person": "Shirley Russell",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Los primeros golpes de Butch Cassidy y Sundance",
+          "director": "Richard Lester",
+          "filmAffinityId": "139519",
+          "filmaffinityTitle": "Los primeros golpes de Butch Cassidy y Sundance",
+          "nominations": [
+            "Mejor vestuario · William Ware Theiss"
+          ],
+          "wins": [],
+          "aliases": [
+            "Butch and Sundance: The Early Days"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film139519.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor vestuario",
+              "person": "William Ware Theiss",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Los europeos",
+          "director": "James Ivory",
+          "filmAffinityId": "213752",
+          "filmaffinityTitle": "Los europeos",
+          "nominations": [
+            "Mejor vestuario · Judy Moorcroft"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Europeans"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film213752.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor vestuario",
+              "person": "Judy Moorcroft",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El jinete eléctrico",
+          "director": "Sydney Pollack",
+          "filmAffinityId": "614789",
+          "filmaffinityTitle": "El jinete eléctrico",
+          "nominations": [
+            "Mejor sonido · Arthur Piantadosi, Les Fresholtz, Michael Minkler, Al Overton Jr."
+          ],
+          "wins": [],
+          "aliases": [
+            "The Electric Horseman"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film614789.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor sonido",
+              "person": "Arthur Piantadosi, Les Fresholtz, Michael Minkler, Al Overton Jr.",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Meteoro",
+          "director": "Ronald Neame",
+          "filmAffinityId": "242105",
+          "filmaffinityTitle": "Meteoro",
+          "nominations": [
+            "Mejor sonido · William L. McCaughey, Aaron Rochin, Michael J. Kohut, Jack Solomon"
+          ],
+          "wins": [],
+          "aliases": [
+            "Meteor"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film242105.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor sonido",
+              "person": "William L. McCaughey, Aaron Rochin, Michael J. Kohut, Jack Solomon",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Moonraker",
+          "director": "Lewis Gilbert",
+          "filmAffinityId": "303193",
+          "filmaffinityTitle": "Moonraker",
+          "nominations": [
+            "Mejores efectos visuales · Derek Meddings, Paul Wilson, John Evans"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film303193.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejores efectos visuales",
+              "person": "Derek Meddings, Paul Wilson, John Evans",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Cada niño",
+          "director": "",
+          "filmAffinityId": "833862",
+          "filmaffinityTitle": "Cada niño",
+          "nominations": [
+            "Mejor cortometraje de animación"
+          ],
+          "wins": [
+            "Mejor cortometraje de animación"
+          ],
+          "aliases": [],
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film833862.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de animación",
+              "person": null,
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "Dream Doll",
+          "director": "",
+          "filmAffinityId": "426006",
+          "filmaffinityTitle": "Dream Doll",
+          "nominations": [
+            "Mejor cortometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film426006.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de animación",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "It's So Nice to Have a Wolf Around the House",
+          "director": "Paul Fierlinger",
+          "filmAffinityId": "154691",
+          "filmaffinityTitle": "It's So Nice to Have a Wolf Around the House",
+          "nominations": [
+            "Mejor cortometraje de animación"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film154691.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de animación",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980"
+            }
+          ]
+        },
+        {
+          "title": "El mejor de los muchachos",
+          "director": "Ira Wohl",
+          "filmAffinityId": "715391",
+          "nominations": [
+            "Mejor largometraje documental · Ira Wohl, Producer"
+          ],
+          "wins": [
+            "Mejor largometraje documental · Ira Wohl, Producer"
+          ],
+          "aliases": [
+            "Best Boy"
+          ],
+          "filmaffinityTitle": "El mejor de los muchachos",
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film715391.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor largometraje documental",
+              "person": "Ira Wohl, Producer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Generation on the Wind",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor largometraje documental · David A. Vassar, Producer"
+          ],
+          "wins": [],
+          "aliases": [
+            "Generation On The Wind"
+          ],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Generation on the Wind",
+          "imdbId": "tt0079201",
+          "imdbUrl": "https://www.imdb.com/title/tt0079201/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor largometraje documental",
+              "person": "David A. Vassar, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Going the Distance",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor largometraje documental · Paul Cowan and Jacques Bobet, Producers"
+          ],
+          "wins": [],
+          "aliases": [
+            "Going The Distance"
+          ],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Going the Distance",
+          "imdbId": "tt0079220",
+          "imdbUrl": "https://www.imdb.com/title/tt0079220/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor largometraje documental",
+              "person": "Paul Cowan and Jacques Bobet, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "The Killing Ground",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor largometraje documental · Steve Singer and Tom Priestley, Producers"
+          ],
+          "wins": [],
+          "aliases": [],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "The Killing Ground",
+          "imdbId": "tt0079402",
+          "imdbUrl": "https://www.imdb.com/title/tt0079402/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor largometraje documental",
+              "person": "Steve Singer and Tom Priestley, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "The War at Home",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor largometraje documental · Glenn Silber and Barry Alexander Brown, Producers"
+          ],
+          "wins": [],
+          "aliases": [
+            "The War At Home"
+          ],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "The War at Home",
+          "imdbId": "tt0080118",
+          "imdbUrl": "https://www.imdb.com/title/tt0080118/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor largometraje documental",
+              "person": "Glenn Silber and Barry Alexander Brown, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Paul Robeson: Tribute to an Artist",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje documental · Saul J. Turell, Producer"
+          ],
+          "wins": [
+            "Mejor cortometraje documental · Saul J. Turell, Producer"
+          ],
+          "aliases": [
+            "Paul Robeson: Tribute To An Artist"
+          ],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Ganador · Oscar",
+          "filmaffinityTitle": "Paul Robeson: Tribute to an Artist",
+          "imdbId": "tt0079704",
+          "imdbUrl": "https://www.imdb.com/title/tt0079704/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "Saul J. Turell, Producer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Dae",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje documental · Risto Teofilovski, Producer"
+          ],
+          "wins": [],
+          "aliases": [],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Dae",
+          "imdbId": "tt0079022",
+          "imdbUrl": "https://www.imdb.com/title/tt0079022/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "Risto Teofilovski, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Koryo Celadon",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje documental · Donald A. Connolly and James R. Messenger, Producers"
+          ],
+          "wins": [],
+          "aliases": [],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Koryo Celadon",
+          "imdbId": "tt0079414",
+          "imdbUrl": "https://www.imdb.com/title/tt0079414/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "Donald A. Connolly and James R. Messenger, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Nails (C)",
+          "director": "",
+          "filmAffinityId": "470851",
+          "nominations": [
+            "Mejor cortometraje documental · Phillip Borsos, Producer"
+          ],
+          "wins": [],
+          "aliases": [
+            "Nails"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "award": "Nominado",
+          "filmaffinityTitle": "Nails (C)",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film470851.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "Phillip Borsos, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Remember Me",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje documental · Dick Young, Producer"
+          ],
+          "wins": [],
+          "aliases": [],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Remember Me",
+          "imdbId": "tt0079791",
+          "imdbUrl": "https://www.imdb.com/title/tt0079791/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "Dick Young, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Board and Care (AKA Board & Care) (S)",
+          "director": "",
+          "filmAffinityId": "686640",
+          "nominations": [
+            "Mejor cortometraje de ficción · Sarah Pillsbury and Ron Ellis, Producers"
+          ],
+          "wins": [
+            "Mejor cortometraje de ficción · Sarah Pillsbury and Ron Ellis, Producers"
+          ],
+          "aliases": [
+            "Board And Care"
+          ],
+          "filmaffinityTitle": "Board and Care (AKA Board & Care) (S)",
+          "award": "Ganador · Oscar",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film686640.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Sarah Pillsbury and Ron Ellis, Producers",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Bravery in the Field",
+          "director": "",
+          "filmAffinityId": "892590",
+          "nominations": [
+            "Mejor cortometraje de ficción · Roman Kroitor and Stefan Wodoslawsky, Producers"
+          ],
+          "wins": [],
+          "aliases": [
+            "Bravery In The Field"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "award": "Nominado",
+          "filmaffinityTitle": "Bravery in the Field",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film892590.html",
+          "imdbId": "tt0078900",
+          "imdbUrl": "https://www.imdb.com/title/tt0078900/",
+          "identitySource": "FilmAffinity España; URL facilitada por el usuario",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Roman Kroitor and Stefan Wodoslawsky, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Oh Brother, My Brother",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje de ficción · Carol Lowell and Ross Lowell, Producers"
+          ],
+          "wins": [],
+          "aliases": [],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Oh Brother, My Brother",
+          "imdbId": "tt0079656",
+          "imdbUrl": "https://www.imdb.com/title/tt0079656/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Carol Lowell and Ross Lowell, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "The Solar Film",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje de ficción · Saul Bass and Michael Britton, Producers"
+          ],
+          "wins": [],
+          "aliases": [],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "The Solar Film",
+          "imdbId": "tt0083104",
+          "imdbUrl": "https://www.imdb.com/title/tt0083104/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Saul Bass and Michael Britton, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        },
+        {
+          "title": "Solly’s Diner",
+          "director": "",
+          "filmAffinityId": null,
+          "nominations": [
+            "Mejor cortometraje de ficción · Harry Mathias, Jay Zukerman and Larry Hankin, Producers"
+          ],
+          "wins": [],
+          "aliases": [
+            "Solly's Diner"
+          ],
+          "identityStatus": "ACADEMY_CANDIDACY_WITH_IMDB_FALLBACK",
+          "award": "Nominado",
+          "filmaffinityTitle": "Solly’s Diner",
+          "imdbId": "tt0079923",
+          "imdbUrl": "https://www.imdb.com/title/tt0079923/",
+          "identitySource": "IMDb ficha; sin ficha FilmAffinity España localizada tras búsqueda por título",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Harry Mathias, Jay Zukerman and Larry Hankin, Producers",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1980"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "year": 1980,
+      "section": "Premios de cine · edición 1980",
+      "films": [
+        {
+          "title": "Manhattan",
+          "director": "Woody Allen",
+          "filmAffinityId": "448855",
+          "filmaffinityTitle": "Manhattan",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Woody Allen",
+            "Mejor actor · Woody Allen",
+            "Mejor actriz · Diane Keaton",
+            "Mejor actriz secundaria · Mariel Hemingway",
+            "Mejor actriz secundaria · Meryl Streep",
+            "Mejor guion · Woody Allen, Marshall Brickman",
+            "Mejor fotografía · Gordon Willis",
+            "Mejor montaje · Susan E. Morse",
+            "Mejor sonido · James Sabat, Dan Sable, Jack Higgins"
+          ],
+          "wins": [
+            "Mejor película",
+            "Mejor guion · Woody Allen, Marshall Brickman"
+          ],
+          "aliases": [],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film448855.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Woody Allen",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor",
+              "person": "Woody Allen",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actriz",
+              "person": "Diane Keaton",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actriz secundaria",
+              "person": "Mariel Hemingway",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actriz secundaria",
+              "person": "Meryl Streep",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Woody Allen, Marshall Brickman",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Gordon Willis",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Susan E. Morse",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "James Sabat, Dan Sable, Jack Higgins",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Apocalypse Now",
+          "director": "Francis Ford Coppola",
+          "filmAffinityId": "701892",
+          "filmaffinityTitle": "Apocalypse Now",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Francis Ford Coppola",
+            "Mejor actor · Martin Sheen",
+            "Mejor actor secundario · Robert Duvall",
+            "Mejor fotografía · Vittorio Storaro",
+            "Mejor montaje · Richard Marks, Walter Murch, Gerald B. Greenberg, Lisa Fruchtman",
+            "Mejor sonido · Nathan Boxer, Richard P. Cirincione, Walter Murch",
+            "Mejor diseño de producción · Dean Tavoularis",
+            "Premio Anthony Asquith a la mejor música · Carmine Coppola, Francis Ford Coppola"
+          ],
+          "wins": [
+            "Mejor dirección · Francis Ford Coppola",
+            "Mejor actor secundario · Robert Duvall"
+          ],
+          "aliases": [],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film701892.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Francis Ford Coppola",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor",
+              "person": "Martin Sheen",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor secundario",
+              "person": "Robert Duvall",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Vittorio Storaro",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Richard Marks, Walter Murch, Gerald B. Greenberg, Lisa Fruchtman",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Nathan Boxer, Richard P. Cirincione, Walter Murch",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Dean Tavoularis",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Premio Anthony Asquith a la mejor música",
+              "person": "Carmine Coppola; Francis Ford Coppola",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "El síndrome de China",
+          "director": "James Bridges",
+          "filmAffinityId": "791779",
+          "filmaffinityTitle": "El síndrome de China",
+          "nominations": [
+            "Mejor película",
+            "Mejor actor · Jack Lemmon",
+            "Mejor actriz · Jane Fonda",
+            "Mejor guion · Mike Gray, T.S. Cook, James Bridges"
+          ],
+          "wins": [
+            "Mejor actor · Jack Lemmon",
+            "Mejor actriz · Jane Fonda"
+          ],
+          "aliases": [
+            "The China Syndrome"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film791779.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor",
+              "person": "Jack Lemmon",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actriz",
+              "person": "Jane Fonda",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Mike Gray, T.S. Cook, James Bridges",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "El cazador",
+          "director": "Michael Cimino",
+          "filmAffinityId": "764534",
+          "filmaffinityTitle": "El cazador",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Michael Cimino",
+            "Mejor actor · Robert De Niro",
+            "Mejor actriz · Meryl Streep",
+            "Mejor actor secundario · Christopher Walken",
+            "Mejor guion · Deric Washburn",
+            "Mejor fotografía · Vilmos Zsigmond",
+            "Mejor montaje · Peter Zinner",
+            "Mejor sonido · C. Darin Knight, James J. Klinger, Richard Portman"
+          ],
+          "wins": [
+            "Mejor fotografía · Vilmos Zsigmond",
+            "Mejor montaje · Peter Zinner"
+          ],
+          "aliases": [
+            "The Deer Hunter"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film764534.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Michael Cimino",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor",
+              "person": "Robert De Niro",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actriz",
+              "person": "Meryl Streep",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor secundario",
+              "person": "Christopher Walken",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Deric Washburn",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Vilmos Zsigmond",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Peter Zinner",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "C. Darin Knight, James J. Klinger, Richard Portman",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Yanks",
+          "director": "John Schlesinger",
+          "filmAffinityId": "827823",
+          "filmaffinityTitle": "Yanks",
+          "nominations": [
+            "Mejor dirección · John Schlesinger",
+            "Mejor actriz secundaria · Rachel Roberts",
+            "Mejor guion · Colin Welland, Walter Bernstein",
+            "Mejor fotografía · Dick Bush",
+            "Mejor diseño de producción · Brian Morris",
+            "Mejor diseño de vestuario · Shirley Russell",
+            "Premio Anthony Asquith a la mejor música · Richard Rodney Bennett"
+          ],
+          "wins": [
+            "Mejor actriz secundaria · Rachel Roberts",
+            "Mejor diseño de vestuario · Shirley Russell"
+          ],
+          "aliases": [
+            "Yanquis"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film827823.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor dirección",
+              "person": "John Schlesinger",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actriz secundaria",
+              "person": "Rachel Roberts",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Colin Welland, Walter Bernstein",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Dick Bush",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Brian Morris",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de vestuario",
+              "person": "Shirley Russell",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Premio Anthony Asquith a la mejor música",
+              "person": "Richard Rodney Bennett",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "California Suite",
+          "director": "Herbert Ross",
+          "filmAffinityId": "931711",
+          "filmaffinityTitle": "California Suite",
+          "nominations": [
+            "Mejor actriz · Maggie Smith"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film931711.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz",
+              "person": "Maggie Smith",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Alien, el octavo pasajero",
+          "director": "Ridley Scott",
+          "filmAffinityId": "708792",
+          "filmaffinityTitle": "Alien, el octavo pasajero",
+          "nominations": [
+            "Mejor actor secundario · John Hurt",
+            "Mejor actor o actriz revelación · Sigourney Weaver",
+            "Mejor montaje · Terry Rawlings",
+            "Mejor sonido · Derrick Leather, Jim Shields, Bill Rowe",
+            "Mejor diseño de producción · Michael Seymour",
+            "Mejor diseño de vestuario · John Mollo",
+            "Premio Anthony Asquith a la mejor música · Jerry Goldsmith"
+          ],
+          "wins": [
+            "Mejor sonido · Derrick Leather, Jim Shields, Bill Rowe",
+            "Mejor diseño de producción · Michael Seymour"
+          ],
+          "aliases": [
+            "Alien: El octavo pasajero",
+            "Alien"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film708792.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor secundario",
+              "person": "John Hurt",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor actor o actriz revelación",
+              "person": "Sigourney Weaver",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Terry Rawlings",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Derrick Leather, Jim Shields, Bill Rowe",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Michael Seymour",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de vestuario",
+              "person": "John Mollo",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Premio Anthony Asquith a la mejor música",
+              "person": "Jerry Goldsmith",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Saint Jack, el rey de Singapur",
+          "director": "Peter Bogdanovich",
+          "filmAffinityId": "801816",
+          "filmaffinityTitle": "Saint Jack, el rey de Singapur",
+          "nominations": [
+            "Mejor actor secundario · Denholm Elliott"
+          ],
+          "wins": [],
+          "aliases": [
+            "Saint Jack"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film801816.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor secundario",
+              "person": "Denholm Elliott",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Los europeos",
+          "director": "James Ivory",
+          "filmAffinityId": "213752",
+          "filmaffinityTitle": "Los europeos",
+          "nominations": [
+            "Mejor actriz secundaria · Lisa Eichhorn",
+            "Mejor diseño de producción · Jeremiah Rusconi",
+            "Mejor diseño de vestuario · Judy Moorcroft"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Europeans"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film213752.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actriz secundaria",
+              "person": "Lisa Eichhorn",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Jeremiah Rusconi",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            },
+            {
+              "category": "Mejor diseño de vestuario",
+              "person": "Judy Moorcroft",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "El relevo",
+          "director": "Peter Yates",
+          "filmAffinityId": "303738",
+          "filmaffinityTitle": "El relevo",
+          "nominations": [
+            "Mejor actor o actriz revelación · Dennis Christopher"
+          ],
+          "wins": [
+            "Mejor actor o actriz revelación · Dennis Christopher"
+          ],
+          "aliases": [
+            "Breaking Away"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film303738.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor o actriz revelación",
+              "person": "Dennis Christopher",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "La historia de Buddy Holly",
+          "director": "Steve Rash",
+          "filmAffinityId": "303148",
+          "filmaffinityTitle": "La historia de Buddy Holly",
+          "nominations": [
+            "Mejor actor o actriz revelación · Gary Busey"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Buddy Holly Story"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film303148.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor o actriz revelación",
+              "person": "Gary Busey",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Aquel verano",
+          "director": "",
+          "filmAffinityId": "398903",
+          "filmaffinityTitle": "Aquel verano",
+          "nominations": [
+            "Mejor actor o actriz revelación · Ray Winstone"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film398903.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor actor o actriz revelación",
+              "person": "Ray Winstone",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Agatha",
+          "director": "Michael Apted",
+          "filmAffinityId": "883492",
+          "filmaffinityTitle": "Agatha",
+          "nominations": [
+            "Mejor diseño de vestuario · Shirley Russell"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film883492.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor diseño de vestuario",
+              "person": "Shirley Russell",
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "El árbol de los zuecos",
+          "director": "Ermanno Olmi",
+          "filmAffinityId": "128392",
+          "filmaffinityTitle": "El árbol de los zuecos",
+          "nominations": [
+            "Premio Robert Flaherty · largometraje de contenido documental"
+          ],
+          "wins": [
+            "Premio Robert Flaherty · largometraje de contenido documental"
+          ],
+          "aliases": [
+            "L'albero degli zoccoli"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film128392.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Premio Robert Flaherty · largometraje de contenido documental",
+              "person": null,
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Butch Minds the Baby",
+          "director": "",
+          "filmAffinityId": "626330",
+          "filmaffinityTitle": "Butch Minds the Baby",
+          "nominations": [
+            "Mejor cortometraje"
+          ],
+          "wins": [
+            "Mejor cortometraje"
+          ],
+          "aliases": [],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film626330.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje",
+              "person": null,
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Dilemma",
+          "director": "",
+          "filmAffinityId": "280676",
+          "filmaffinityTitle": "Dilemma",
+          "nominations": [
+            "Mejor cortometraje"
+          ],
+          "wins": [],
+          "aliases": [
+            "Dilemma (S)"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film280676.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Dream Doll",
+          "director": "",
+          "filmAffinityId": "426006",
+          "filmaffinityTitle": "Dream Doll",
+          "nominations": [
+            "Mejor cortometraje"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film426006.html",
+          "identitySource": "FilmAffinity España film-specific edition link / film ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Mr Pascal",
+          "director": "Alison De Vere",
+          "filmAffinityId": "549279",
+          "filmaffinityTitle": "Mr Pascal",
+          "nominations": [
+            "Mejor cortometraje"
+          ],
+          "wins": [],
+          "aliases": [
+            "Mr. Pascal"
+          ],
+          "award": "Nominado",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film549279.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje",
+              "person": null,
+              "winner": false,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        },
+        {
+          "title": "Días del cielo",
+          "director": "Terrence Malick",
+          "filmAffinityId": "676866",
+          "filmaffinityTitle": "Días del cielo",
+          "nominations": [
+            "Premio Anthony Asquith a la mejor música · Ennio Morricone"
+          ],
+          "wins": [
+            "Premio Anthony Asquith a la mejor música · Ennio Morricone"
+          ],
+          "aliases": [
+            "Days of Heaven"
+          ],
+          "award": "Ganador · BAFTA",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film676866.html",
+          "identitySource": "FilmAffinity award-edition movie link / ficha",
+          "identityStatus": "FILMAFFINITY_ID_LINKED_FROM_PREPARATION",
+          "candidacies": [
+            {
+              "category": "Premio Anthony Asquith a la mejor música",
+              "person": "Ennio Morricone",
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

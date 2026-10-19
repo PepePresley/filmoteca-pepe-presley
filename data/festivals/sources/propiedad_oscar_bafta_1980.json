@@ -1,0 +1,1321 @@
+{
+  "base": "891e85afe2a72c70c5863fca78171c92e26e3bf5",
+  "rowConvention": "Fila física XLSX; cabecera = fila 1; lectura por nombre de columna",
+  "masterFiles": [
+    {
+      "file": "Catalogo_Telegram_1978.xlsx",
+      "sha256": "aba4282dc25cca3c37e10d334f0c9dc9369c1c4a745042b73388876a97969f07"
+    },
+    {
+      "file": "Catalogo_Telegram_1979.xlsx",
+      "sha256": "e6b6ea414b606b9d173dbd1943a12620741ffbc557f44591b35b3525f2fed241"
+    },
+    {
+      "file": "Catalogo_Telegram_1980.xlsx",
+      "sha256": "4fc34d0954ae44ad953c2c474a05110aec62392f5089b26a99a15c226fae34c0"
+    },
+    {
+      "file": "Catalogo_Telegram_1981.xlsx",
+      "sha256": "77c4413bb9dc8b07a536bab2815f267a4b4fd48e5708c21e602a8295a077f10d"
+    }
+  ],
+  "validatedReferences": 57,
+  "rows": [
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Kramer contra Kramer",
+      "director": "Robert Benton",
+      "filmAffinityId": "257947",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 7,
+          "titleES": "Kramer contra Kramer",
+          "originalTitle": "Kramer vs. Kramer",
+          "director": "Robert Benton",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "All That Jazz (Empieza el espectáculo)",
+      "director": "Bob Fosse",
+      "filmAffinityId": "305371",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 16,
+          "titleES": "Empieza el espectáculo",
+          "originalTitle": "All That Jazz",
+          "director": "Bob Fosse",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "filmAffinityId": "701892",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 4,
+          "titleES": "Apocalypse Now",
+          "originalTitle": "Apocalypse Now",
+          "director": "Francis Ford Coppola",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El relevo",
+      "director": "Peter Yates",
+      "filmAffinityId": "303738",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 63,
+          "titleES": "El relevo",
+          "originalTitle": "Breaking Away",
+          "director": "Peter Yates",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Norma Rae",
+      "director": "Martin Ritt",
+      "filmAffinityId": "511492",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 61,
+          "titleES": "Norma Rae",
+          "originalTitle": "Norma Rae",
+          "director": "Martin Ritt",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Vicios pequeños",
+      "director": "Édouard Molinaro",
+      "filmAffinityId": "514927",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 57,
+          "titleES": "Vicios pequeños (La jaula de las locas)",
+          "originalTitle": "La Cage aux folles",
+          "director": "Édouard Molinaro",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Capítulo dos",
+      "director": "Robert Moore",
+      "filmAffinityId": "482024",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 390,
+          "titleES": "Capítulo dos",
+          "originalTitle": "Chapter Two",
+          "director": "Robert Moore",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El síndrome de China",
+      "director": "James Bridges",
+      "filmAffinityId": "791779",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 28,
+          "titleES": "El síndrome de China",
+          "originalTitle": "The China Syndrome",
+          "director": "James Bridges",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "La rosa",
+      "director": "Mark Rydell",
+      "filmAffinityId": "345249",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 77,
+          "titleES": "La Rosa",
+          "originalTitle": "The Rose",
+          "director": "Mark Rydell",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Comenzar de nuevo",
+      "director": "Alan J. Pakula",
+      "filmAffinityId": "430567",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 159,
+          "titleES": "Comenzar de nuevo",
+          "originalTitle": "Starting Over",
+          "director": "Alan J. Pakula",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Justicia para todos",
+      "director": "Norman Jewison",
+      "filmAffinityId": "956275",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 33,
+          "titleES": "Justicia para todos",
+          "originalTitle": "...And Justice for All",
+          "director": "Norman Jewison",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Bienvenido, Mr. Chance",
+      "director": "Hal Ashby",
+      "filmAffinityId": "953252",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 21,
+          "titleES": "Bienvenido Mr. Chance",
+          "originalTitle": "Being There",
+          "director": "Hal Ashby",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El corcel negro",
+      "director": "Carroll Ballard",
+      "filmAffinityId": "400158",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 57,
+          "titleES": "El corcel negro",
+          "originalTitle": "The Black Stallion",
+          "director": "Carroll Ballard",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Manhattan",
+      "director": "Woody Allen",
+      "filmAffinityId": "448855",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 6,
+          "titleES": "Manhattan",
+          "originalTitle": "Manhattan",
+          "director": "Woody Allen",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El tambor de hojalata",
+      "director": "Volker Schlöndorff",
+      "filmAffinityId": "107852",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 15,
+          "titleES": "El tambor de hojalata",
+          "originalTitle": "Die Blechtrommel",
+          "director": "Volker Schlöndorff",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Olvidar Venecia",
+      "director": "Franco Brusati",
+      "filmAffinityId": "875564",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 341,
+          "titleES": "Olvidar Venecia",
+          "originalTitle": "Dimenticare Venezia",
+          "director": "Franco Brusati",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Mamá cumple 100 años",
+      "director": "Carlos Saura",
+      "filmAffinityId": "640136",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 37,
+          "titleES": "Mamá cumple 100 años",
+          "originalTitle": "Mamá cumple 100 años",
+          "director": "Carlos Saura",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Las señoritas de Wilko",
+      "director": "Andrzej Wajda",
+      "filmAffinityId": "644609",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 143,
+          "titleES": "Las señoritas de Wilko",
+          "originalTitle": "",
+          "director": "Andrzej Wajda",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Una vida de mujer",
+      "director": "Claude Sautet",
+      "filmAffinityId": "836902",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 124,
+          "titleES": "Una vida de mujer",
+          "originalTitle": "Une Histoire Simple",
+          "director": "Claude Sautet",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Un pequeño romance",
+      "director": "George Roy Hill",
+      "filmAffinityId": "814237",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 101,
+          "titleES": "Un pequeño romance",
+          "originalTitle": "A Little Romance",
+          "director": "George Roy Hill",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "1941",
+      "director": "Steven Spielberg",
+      "filmAffinityId": "810245",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 24,
+          "titleES": "1941",
+          "originalTitle": "1941",
+          "director": "Steven Spielberg",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El abismo negro",
+      "director": "Gary Nelson",
+      "filmAffinityId": "585696",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 45,
+          "titleES": "El abismo negro",
+          "originalTitle": "The Black Hole",
+          "director": "Gary Nelson",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "10, la mujer perfecta",
+      "director": "Blake Edwards",
+      "filmAffinityId": "502576",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 30,
+          "titleES": "10. La mujer perfecta",
+          "originalTitle": "10",
+          "director": "Blake Edwards",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Terror en Amityville",
+      "director": "Stuart Rosenberg",
+      "filmAffinityId": "528018",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 34,
+          "titleES": "Terror en Amityville",
+          "originalTitle": "The Amityville Horror",
+          "director": "Stuart Rosenberg",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Campeón",
+      "director": "Franco Zeffirelli",
+      "filmAffinityId": "500549",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 31,
+          "titleES": "Campeón",
+          "originalTitle": "The Champ",
+          "director": "Franco Zeffirelli",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Star Trek: La película",
+      "director": "Robert Wise",
+      "filmAffinityId": "770715",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 10,
+          "titleES": "Star Trek",
+          "originalTitle": "Star Trek: The Motion Picture",
+          "director": "Robert Wise",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Castillos de hielo",
+      "director": "Donald Wrye",
+      "filmAffinityId": "538759",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 204,
+          "titleES": "Castillos de hielo",
+          "originalTitle": "Ice Castles",
+          "director": "Donald Wrye",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "La película de los Teleñecos",
+      "director": "James Frawley",
+      "filmAffinityId": "822264",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 67,
+          "titleES": "La película de los Teleñecos",
+          "originalTitle": "The Muppet Movie",
+          "director": "James Frawley",
+          "year": 1979
+        },
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 88,
+          "titleES": "La película de los Teleñecos",
+          "originalTitle": "The Muppet Movie",
+          "director": "James Frawley",
+          "year": 1979
+        },
+        {
+          "masterFile": "Catalogo_Telegram_1980.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 467,
+          "titleES": "La película de los Teleñecos",
+          "originalTitle": "The Muppet Movie",
+          "director": "James Frawley",
+          "year": 1980
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Promesa de amor",
+      "director": "Don Taylor",
+      "filmAffinityId": "387199",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 469,
+          "titleES": "Promesa de amor",
+          "originalTitle": "The Promise of Love",
+          "director": "Don Taylor",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Alien, el octavo pasajero",
+      "director": "Ridley Scott",
+      "filmAffinityId": "708792",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 2,
+          "titleES": "Alien: El octavo pasajero",
+          "originalTitle": "Alien",
+          "director": "Ridley Scott",
+          "year": 1979
+        },
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 526,
+          "titleES": "Alien: El octavo pasajero",
+          "originalTitle": "Alien",
+          "director": "Ridley Scott",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Agatha",
+      "director": "Michael Apted",
+      "filmAffinityId": "883492",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 102,
+          "titleES": "Agatha",
+          "originalTitle": "Agatha",
+          "director": "Michael Apted",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Los primeros golpes de Butch Cassidy y Sundance",
+      "director": "Richard Lester",
+      "filmAffinityId": "139519",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 207,
+          "titleES": "Los primeros golpes de Butch Cassidy y Sundance",
+          "originalTitle": "Butch and Sundance: The Early Days",
+          "director": "Richard Lester",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Los europeos",
+      "director": "James Ivory",
+      "filmAffinityId": "213752",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 195,
+          "titleES": "Los europeos",
+          "originalTitle": "The Europeans",
+          "director": "James Ivory",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El jinete eléctrico",
+      "director": "Sydney Pollack",
+      "filmAffinityId": "614789",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 48,
+          "titleES": "El jinete eléctrico",
+          "originalTitle": "The Electric Horseman",
+          "director": "Sydney Pollack",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Meteoro",
+      "director": "Ronald Neame",
+      "filmAffinityId": "242105",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 64,
+          "titleES": "Meteoro",
+          "originalTitle": "Meteor",
+          "director": "Ronald Neame",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Moonraker",
+      "director": "Lewis Gilbert",
+      "filmAffinityId": "303193",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 20,
+          "titleES": "Moonraker",
+          "originalTitle": "Moonraker",
+          "director": "Lewis Gilbert",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Cada niño",
+      "director": "",
+      "filmAffinityId": "833862",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Dream Doll",
+      "director": "",
+      "filmAffinityId": "426006",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "It's So Nice to Have a Wolf Around the House",
+      "director": "Paul Fierlinger",
+      "filmAffinityId": "154691",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 333,
+          "titleES": "It's So Nice to Have a Wolf Around the House",
+          "originalTitle": "It's So Nice to Have a Wolf Around the House",
+          "director": "Paul Fierlinger",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "El mejor de los muchachos",
+      "director": "Ira Wohl",
+      "filmAffinityId": "715391",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 347,
+          "titleES": "Best Boy",
+          "originalTitle": "Best Boy",
+          "director": "Ira Wohl",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Generation on the Wind",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079201",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Going the Distance",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079220",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "The Killing Ground",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079402",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "The War at Home",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0080118",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Paul Robeson: Tribute to an Artist",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079704",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Dae",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079022",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Koryo Celadon",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079414",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Nails (C)",
+      "director": "",
+      "filmAffinityId": "470851",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Remember Me",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079791",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Board and Care (AKA Board & Care) (S)",
+      "director": "",
+      "filmAffinityId": "686640",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Bravery in the Field",
+      "director": "",
+      "filmAffinityId": "892590",
+      "imdbId": "tt0078900",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Oh Brother, My Brother",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079656",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "The Solar Film",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0083104",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "Oscar",
+      "section": "52.ª edición · películas de 1979",
+      "title": "Solly’s Diner",
+      "director": "",
+      "filmAffinityId": null,
+      "imdbId": "tt0079923",
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Manhattan",
+      "director": "Woody Allen",
+      "filmAffinityId": "448855",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 6,
+          "titleES": "Manhattan",
+          "originalTitle": "Manhattan",
+          "director": "Woody Allen",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Apocalypse Now",
+      "director": "Francis Ford Coppola",
+      "filmAffinityId": "701892",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 4,
+          "titleES": "Apocalypse Now",
+          "originalTitle": "Apocalypse Now",
+          "director": "Francis Ford Coppola",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "El síndrome de China",
+      "director": "James Bridges",
+      "filmAffinityId": "791779",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 28,
+          "titleES": "El síndrome de China",
+          "originalTitle": "The China Syndrome",
+          "director": "James Bridges",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "El cazador",
+      "director": "Michael Cimino",
+      "filmAffinityId": "764534",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 4,
+          "titleES": "El cazador",
+          "originalTitle": "The Deer Hunter",
+          "director": "Michael Cimino",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Yanks",
+      "director": "John Schlesinger",
+      "filmAffinityId": "827823",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 83,
+          "titleES": "Yanquis",
+          "originalTitle": "Yanks",
+          "director": "John Schlesinger",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "California Suite",
+      "director": "Herbert Ross",
+      "filmAffinityId": "931711",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 58,
+          "titleES": "California Suite",
+          "originalTitle": "California Suite",
+          "director": "Herbert Ross",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Alien, el octavo pasajero",
+      "director": "Ridley Scott",
+      "filmAffinityId": "708792",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 2,
+          "titleES": "Alien: El octavo pasajero",
+          "originalTitle": "Alien",
+          "director": "Ridley Scott",
+          "year": 1979
+        },
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 526,
+          "titleES": "Alien: El octavo pasajero",
+          "originalTitle": "Alien",
+          "director": "Ridley Scott",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Saint Jack, el rey de Singapur",
+      "director": "Peter Bogdanovich",
+      "filmAffinityId": "801816",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 98,
+          "titleES": "Saint Jack, el rey de Singapur",
+          "originalTitle": "Saint Jack",
+          "director": "Peter Bogdanovich",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Los europeos",
+      "director": "James Ivory",
+      "filmAffinityId": "213752",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 195,
+          "titleES": "Los europeos",
+          "originalTitle": "The Europeans",
+          "director": "James Ivory",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "El relevo",
+      "director": "Peter Yates",
+      "filmAffinityId": "303738",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 63,
+          "titleES": "El relevo",
+          "originalTitle": "Breaking Away",
+          "director": "Peter Yates",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "La historia de Buddy Holly",
+      "director": "Steve Rash",
+      "filmAffinityId": "303148",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 130,
+          "titleES": "La historia de Buddy Holly",
+          "originalTitle": "The Buddy Holly Story",
+          "director": "Steve Rash",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Aquel verano",
+      "director": "",
+      "filmAffinityId": "398903",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Agatha",
+      "director": "Michael Apted",
+      "filmAffinityId": "883492",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 102,
+          "titleES": "Agatha",
+          "originalTitle": "Agatha",
+          "director": "Michael Apted",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "El árbol de los zuecos",
+      "director": "Ermanno Olmi",
+      "filmAffinityId": "128392",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 32,
+          "titleES": "El árbol de los zuecos",
+          "originalTitle": "L'albero degli zoccoli",
+          "director": "Ermanno Olmi",
+          "year": 1978
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Butch Minds the Baby",
+      "director": "",
+      "filmAffinityId": "626330",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Dilemma",
+      "director": "",
+      "filmAffinityId": "280676",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Dream Doll",
+      "director": "",
+      "filmAffinityId": "426006",
+      "imdbId": null,
+      "ownership": "PENDING_NOT_LOCATED",
+      "references": []
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Mr Pascal",
+      "director": "Alison De Vere",
+      "filmAffinityId": "549279",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1979.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 456,
+          "titleES": "Mr. Pascal",
+          "originalTitle": "Mr. Pascal",
+          "director": "Alison De Vere",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · edición 1980",
+      "title": "Días del cielo",
+      "director": "Terrence Malick",
+      "filmAffinityId": "676866",
+      "imdbId": null,
+      "ownership": "CONFIRMED",
+      "references": [
+        {
+          "masterFile": "Catalogo_Telegram_1978.xlsx",
+          "sheet": "Catálogo",
+          "physicalRow": 12,
+          "titleES": "Días del cielo",
+          "originalTitle": "Days of Heaven",
+          "director": "Terrence Malick",
+          "year": 1978
+        }
+      ]
+    }
+  ]
+}
