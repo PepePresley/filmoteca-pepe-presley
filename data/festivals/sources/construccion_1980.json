@@ -157,5 +157,48 @@
     "Los bloques ausentes no se consideran completos. La propiedad no acreditada se conserva pendiente.",
     "Las selecciones vacías se documentan como cobertura pendiente o no celebrada; no se publican como listas de películas."
   ],
-  "unpublishedEmptySections": []
+  "unpublishedEmptySections": [],
+  "supplements": {
+    "scope": "Oscar y BAFTA cine, ceremonia 1980; no cierra la cobertura de los festivales de 1980.",
+    "preparationPackage": {
+      "name": "Filmoteca_LAB_1980_Oscar_BAFTA_para_Sol.zip",
+      "sha256": "6fc7b509f8933270f5d283207b3a25abaddd354c6f490f1aeb622ef6fc67a3b3"
+    },
+    "sources": [
+      "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1980",
+      "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1980",
+      "https://www.oscars.org/oscars/ceremonies/1980",
+      "https://www.bafta.org/awards/film/?award-year=1980"
+    ],
+    "counts": [
+      {
+        "festival": "Oscar",
+        "section": "52.ª edición · películas de 1979",
+        "films": 54,
+        "categories": 23,
+        "candidaturesAndSpecialAwards": 107,
+        "awards": 23,
+        "owned": 38,
+        "notLocated": 16
+      },
+      {
+        "festival": "BAFTA",
+        "section": "Premios de cine · edición 1980",
+        "films": 19,
+        "categories": 16,
+        "candidaturesAndSpecialAwards": 61,
+        "awards": 16,
+        "owned": 15,
+        "notLocated": 4
+      }
+    ],
+    "notes": [
+      "Propiedad del ZIP incompleta; se reutilizan los cruces locales y se revalidan contra filas físicas de los maestros aprobados.",
+      "BAFTA Soundtrack: etiqueta Mejor sonido; tres candidaturas omitidas en el paquete recuperadas desde las capturas oficiales.",
+      "Vestuario BAFTA: Yanquis gana, Agatha nominada; dos candidaturas de actriz secundaria de Manhattan conservadas por persona.",
+      "Oscar: 22 categorías competitivas más premio especial de edición de sonido; adaptación musical conserva su categoría histórica.",
+      "Los 11 títulos con IMDb alternativo y sin ID FilmAffinity se mantienen sin asignar un ID FA inventado.",
+      "Los recuentos de propiedad pendiente no acreditan ausencia de la colección."
+    ]
+  }
 }
