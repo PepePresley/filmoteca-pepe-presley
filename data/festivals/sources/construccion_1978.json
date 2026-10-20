@@ -1,7 +1,7 @@
 {
   "year": 1978,
-  "status": "CONSTRUIDO_PARCIAL",
-  "scope": "Festival de Cannes: selección oficial y premios; faltan Berlín, Venecia, San Sebastián, Oscar y BAFTA para igualar el alcance de los ejemplos 1982. San Sebastián: solo palmarés de películas premiadas integrado; selección completa pendiente. Berlín: se ha añadido el palmarés oficial como cobertura parcial; su selección completa sigue pendiente. San Sebastián: extracto parcial de la Sección Oficial, filas fuera de concurso y cortos; errores SQL y cobertura total pendiente. Venecia: comprobada ausencia de edición competitiva 1977–1978 y naturaleza no competitiva en 1979; programa/selección 1979 pendiente.",
+  "status": "CONSTRUIDO_CON_SALVEDADES",
+  "scope": "Familias principales de 1978 construidas por método práctico. Cannes conservado; Berlín 25 largometrajes y cuatro cortos premiados; San Sebastián 23 largometrajes oficiales y tres cortos en cobertura parcial; Oscar y BAFTA cine incorporados. Venecia no celebrada. No equivale a auditoría histórica exhaustiva.",
   "sources": [
     "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_1978",
     "https://www.festival-cannes.com/en/retrospective/1978/selection/",
@@ -9,7 +9,6 @@
     "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/8/es",
     "https://www.sansebastianfestival.com/1978/premios_y_jurados/premios/1/71/es",
     "https://www.berlinale.de/en/archive/awards-juries/awards.html/y%3D1978/o%3Ddesc/p%3D1/rp%3D40",
-    "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/8/es",
     "https://www.filmaffinity.com/en/award-edition.php?edition-id=venice_1977",
     "https://www.labiennale.org/en/cinema/2018/introduction-paolo-baratta",
     "https://www.labiennale.org/en/history/70s-reforms-1998",
@@ -50,7 +49,11 @@
     "https://www.imdb.com/title/tt0076147/",
     "https://www.imdb.com/title/tt0075647/",
     "https://www.imdb.com/title/tt0261140/",
-    "https://www.labiennale.org/en/history-venice-film-festival"
+    "https://www.labiennale.org/en/history-venice-film-festival",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1978",
+    "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/8/es",
+    "https://www.oscars.org/oscars/ceremonies/1978",
+    "https://www.bafta.org/awards/film/?award-year=1978"
   ],
   "masters": [
     "Catalogo_Telegram_1977.xlsx",
@@ -93,100 +96,64 @@
     },
     {
       "year": 1978,
-      "festival": "San Sebastián",
-      "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)",
-      "films": 1,
+      "festival": "Oscar",
+      "section": "Premios Oscar · 50.ª edición",
+      "films": 49,
+      "declaredOwned": 31
+    },
+    {
+      "year": 1978,
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1977",
+      "films": 31,
+      "declaredOwned": 21
+    },
+    {
+      "year": 1978,
+      "festival": "Berlín",
+      "section": "Competición oficial · largometrajes",
+      "films": 25,
+      "declaredOwned": 10
+    },
+    {
+      "year": 1978,
+      "festival": "Berlín",
+      "section": "Palmarés · cortometrajes",
+      "films": 4,
       "declaredOwned": 1
     },
     {
       "year": 1978,
-      "festival": "Berlín",
-      "section": "Largometrajes · premiados (selección pendiente)",
-      "films": 9,
-      "declaredOwned": 2
-    },
-    {
-      "year": 1978,
-      "festival": "Berlín",
-      "section": "Cortometrajes · premiados (selección pendiente)",
-      "films": 4,
-      "declaredOwned": 0
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 23,
+      "declaredOwned": 11
     },
     {
       "year": 1978,
       "festival": "San Sebastián",
-      "section": "Sección Oficial · largometrajes (extracto parcial, no exhaustivo)",
-      "films": 22,
-      "declaredOwned": 7
-    },
-    {
-      "year": 1978,
-      "festival": "San Sebastián",
-      "section": "Fuera de concurso · listado parcial",
-      "films": 2,
-      "declaredOwned": 0
-    },
-    {
-      "year": 1978,
-      "festival": "San Sebastián",
-      "section": "Cortometrajes · listado parcial (extracto archivístico incompleto)",
-      "films": 2,
-      "declaredOwned": 0
+      "section": "Cortometrajes · selección parcial y palmarés",
+      "films": 3,
+      "declaredOwned": 1
     }
   ],
   "notes": [
-    "No se declara cerrado: quedan bloques aplicables parciales o sin integrar.",
-    "Propiedad: 37 referencias activas a filas de maestro; 12 registros con conflicto/propiedad pendiente.",
-    "Las selecciones y categorías marcadas parciales no certifican exhaustividad. Se conservan las extracciones consultadas en extracciones/."
+    "Cannes se conserva exactamente como estaba publicado, incluidos pendientes previos.",
+    "Berlín: 25 largometrajes de FilmAffinity; se conservan cuatro cortos premiados sin declarar completa la selección de cortometrajes.",
+    "San Sebastián: 23 largometrajes oficiales, incluidos dos fuera de concurso con etiqueta; se elimina el duplicado Olyan mint otthon, conservando su premio y la dirección de Márta Mészáros frente al error SQL del archivo. Tres cortos en cobertura parcial: no se declara exhaustividad.",
+    "Oscar: reutilizada entrega de Luna, 49 películas y 106 candidaturas/premios especiales. Se unifica la categoría de adaptación musical dividida por un paréntesis y se identifica a Ben Burtt en el premio especial de Star Wars. Honoríficos personales separados.",
+    "BAFTA: reutilizada entrega de Luna, 31 películas, 17 categorías y 66 candidaturas. Cine exclusivamente; Soundtrack se etiqueta sonido. Las tarjetas con dos candidaturas personales a una película se conservan. El rótulo de navegación Non Competitive del archivo no se usa para reclasificar los premios de película.",
+    "Cruce masivo con maestros aprobados de 1976–1979 y evidencia por fila física para las propiedades confirmadas; ausencias no investigadas individualmente. Identidades sin ID FA permanecen con título de fuente oficial o referencia IMDb aportada; no se fabrican IDs ni imágenes.",
+    "Venecia no se celebró en 1978, según la continuidad y documentación oficial ya comprobadas."
   ],
-  "coverageStatus": "partial",
+  "coverageStatus": "constructed_with_caveats",
   "coverage": {
-    "completeBlocks": [],
-    "partialBlocks": [
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Un Certain Regard"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Fuera de concurso · largometrajes"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial · cortometrajes"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "Berlín",
-        "section": "Largometrajes · premiados (selección pendiente)"
-      },
-      {
-        "festival": "Berlín",
-        "section": "Cortometrajes · premiados (selección pendiente)"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Sección Oficial · largometrajes (extracto parcial, no exhaustivo)"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Fuera de concurso · listado parcial"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Cortometrajes · listado parcial (extracto archivístico incompleto)"
-      }
+    "constructedMainFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Oscar",
+      "BAFTA"
     ],
     "notHeldBlocks": [
       {
@@ -194,9 +161,10 @@
         "section": "No celebrada"
       }
     ],
-    "missingOrUncompiledFestivals": [
-      "Oscar",
-      "BAFTA"
+    "remainingCaveats": [
+      "Cannes conserva pendientes previos.",
+      "Selecciones de cortometrajes de Berlín y San Sebastián no exhaustivas.",
+      "Identidades sin ID FA o propiedad acreditada permanecen pendientes."
     ]
   },
   "preparationPackage": {
@@ -261,6 +229,17 @@
       "before": "3.668479103",
       "after": "Fedora",
       "source": "https://www.filmaffinity.com/es/film182664.html"
+    }
+  ],
+  "completionDate": "2026-10-20",
+  "supplements": [
+    {
+      "name": "Oscar_1978_preparacion_para_Sol.zip",
+      "sha256": "e712ff50290cb26dde7257f7c2c75bb9ac4f40adff29246779759a25e2b952d0"
+    },
+    {
+      "name": "BAFTA_1978_preparacion_para_Sol.zip",
+      "sha256": "769daf9064975bad6861de218c98143e4a13d922683210dcaf0125d972e750dc"
     }
   ]
 }

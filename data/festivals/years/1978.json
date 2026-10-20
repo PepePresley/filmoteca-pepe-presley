@@ -782,9 +782,3354 @@
       "coverageStatus": "partial"
     },
     {
+      "festival": "Oscar",
+      "year": 1978,
+      "section": "Premios Oscar · 50.ª edición",
+      "films": [
+        {
+          "title": "La chica del adiós",
+          "director": "Herbert Ross",
+          "aliases": [
+            "The Goodbye Girl"
+          ],
+          "nominations": [
+            "Actor protagonista · Richard Dreyfuss",
+            "Actriz protagonista · Marsha Mason",
+            "Actriz de reparto · Quinn Cummings",
+            "Película · Ray Stark",
+            "Guion original · Neil Simon"
+          ],
+          "wins": [
+            "Actor protagonista · Richard Dreyfuss"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Richard Dreyfuss",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Marsha Mason",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Quinn Cummings",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Película",
+              "person": "Ray Stark",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion original",
+              "person": "Neil Simon",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "881594",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film881594.html",
+          "filmaffinityTitle": "La chica del adiós",
+          "award": "Actor protagonista · Richard Dreyfuss",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Annie Hall",
+          "director": "Woody Allen",
+          "aliases": [],
+          "nominations": [
+            "Actor protagonista · Woody Allen",
+            "Actriz protagonista · Diane Keaton",
+            "Dirección · Woody Allen",
+            "Película · Charles H. Joffe",
+            "Guion original · Woody Allen; Marshall Brickman"
+          ],
+          "wins": [
+            "Actriz protagonista · Diane Keaton",
+            "Dirección · Woody Allen",
+            "Película · Charles H. Joffe",
+            "Guion original · Woody Allen; Marshall Brickman"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Woody Allen",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Diane Keaton",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Dirección",
+              "person": "Woody Allen",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Película",
+              "person": "Charles H. Joffe",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion original",
+              "person": "Woody Allen; Marshall Brickman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "487991",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film487991.html",
+          "filmaffinityTitle": "Annie Hall",
+          "award": "Actriz protagonista · Diane Keaton · Dirección · Woody Allen · Película · Charles H. Joffe · Guion original · Woody Allen; Marshall Brickman",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Equus",
+          "director": "Sidney Lumet",
+          "aliases": [],
+          "nominations": [
+            "Actor protagonista · Richard Burton",
+            "Actor de reparto · Peter Firth",
+            "Guion adaptado · Peter Shaffer"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Richard Burton",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actor de reparto",
+              "person": "Peter Firth",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Peter Shaffer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "264099",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film264099.html",
+          "filmaffinityTitle": "Equus",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Una jornada particular",
+          "director": "Ettore Scola",
+          "aliases": [
+            "A Special Day",
+            "Una giornata particolare"
+          ],
+          "nominations": [
+            "Actor protagonista · Marcello Mastroianni",
+            "Película internacional"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Marcello Mastroianni",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "655985",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film655985.html",
+          "filmaffinityTitle": "Una jornada particular",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Fiebre del sábado noche",
+          "director": "John Badham",
+          "aliases": [
+            "Saturday Night Fever"
+          ],
+          "nominations": [
+            "Actor protagonista · John Travolta"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "John Travolta",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "912221",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film912221.html",
+          "filmaffinityTitle": "Fiebre del sábado noche",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Julia",
+          "director": "Fred Zinnemann",
+          "aliases": [],
+          "nominations": [
+            "Actor de reparto · Jason Robards",
+            "Actor de reparto · Maximilian Schell",
+            "Actriz protagonista · Jane Fonda",
+            "Actriz de reparto · Vanessa Redgrave",
+            "Fotografía · Douglas Slocombe",
+            "Vestuario · Anthea Sylbert",
+            "Dirección · Fred Zinnemann",
+            "Montaje · Walter Murch",
+            "Banda sonora · Georges Delerue",
+            "Película · Richard Roth",
+            "Guion adaptado · Alvin Sargent"
+          ],
+          "wins": [
+            "Actor de reparto · Jason Robards",
+            "Actriz de reparto · Vanessa Redgrave",
+            "Guion adaptado · Alvin Sargent"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Jason Robards",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actor de reparto",
+              "person": "Maximilian Schell",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Jane Fonda",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Vanessa Redgrave",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Fotografía",
+              "person": "Douglas Slocombe",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Vestuario",
+              "person": "Anthea Sylbert",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Dirección",
+              "person": "Fred Zinnemann",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Montaje",
+              "person": "Walter Murch",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Banda sonora",
+              "person": "Georges Delerue",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Película",
+              "person": "Richard Roth",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Alvin Sargent",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "610762",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film610762.html",
+          "filmaffinityTitle": "Julia",
+          "award": "Actor de reparto · Jason Robards · Actriz de reparto · Vanessa Redgrave · Guion adaptado · Alvin Sargent",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Paso decisivo",
+          "director": "Herbert Ross",
+          "aliases": [
+            "The Turning Point",
+            "Paso Decisivo"
+          ],
+          "nominations": [
+            "Actor de reparto · Mikhail Baryshnikov",
+            "Actriz protagonista · Anne Bancroft",
+            "Actriz protagonista · Shirley MacLaine",
+            "Actriz de reparto · Leslie Browne",
+            "Diseño de producción · Albert Brenner; Marvin March",
+            "Fotografía · Robert Surtees",
+            "Dirección · Herbert Ross",
+            "Montaje · William Reynolds",
+            "Película · Herbert Ross; Arthur Laurents",
+            "Sonido · Theodore Soderberg; Paul Wells; Douglas O. Williams; Jerry Jost",
+            "Guion original · Arthur Laurents"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Mikhail Baryshnikov",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Anne Bancroft",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Shirley MacLaine",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Leslie Browne",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Diseño de producción",
+              "person": "Albert Brenner; Marvin March",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Fotografía",
+              "person": "Robert Surtees",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Dirección",
+              "person": "Herbert Ross",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Montaje",
+              "person": "William Reynolds",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Película",
+              "person": "Herbert Ross; Arthur Laurents",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Sonido",
+              "person": "Theodore Soderberg; Paul Wells; Douglas O. Williams; Jerry Jost",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion original",
+              "person": "Arthur Laurents",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "857259",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film857259.html",
+          "filmaffinityTitle": "Paso decisivo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+          "director": "George Lucas",
+          "aliases": [
+            "Star Wars",
+            "La guerra de las galaxias"
+          ],
+          "nominations": [
+            "Actor de reparto · Alec Guinness",
+            "Diseño de producción · John Barry; Norman Reynolds; Leslie Dilley; Roger Christian",
+            "Vestuario · John Mollo",
+            "Dirección · George Lucas",
+            "Montaje · Paul Hirsch; Marcia Lucas; Richard Chew",
+            "Banda sonora · John Williams",
+            "Película · Gary Kurtz",
+            "Sonido · Don MacDougall; Ray West; Bob Minkler; Derek Ball",
+            "Premio especial · creación de efectos sonoros · Ben Burtt",
+            "Efectos visuales · John Stears; John Dykstra; Richard Edlund; Grant McCune; Robert Blalack",
+            "Guion original · George Lucas"
+          ],
+          "wins": [
+            "Diseño de producción · John Barry; Norman Reynolds; Leslie Dilley; Roger Christian",
+            "Vestuario · John Mollo",
+            "Montaje · Paul Hirsch; Marcia Lucas; Richard Chew",
+            "Banda sonora · John Williams",
+            "Sonido · Don MacDougall; Ray West; Bob Minkler; Derek Ball",
+            "Premio especial · creación de efectos sonoros · Ben Burtt",
+            "Efectos visuales · John Stears; John Dykstra; Richard Edlund; Grant McCune; Robert Blalack"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Alec Guinness",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Diseño de producción",
+              "person": "John Barry; Norman Reynolds; Leslie Dilley; Roger Christian",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Vestuario",
+              "person": "John Mollo",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Dirección",
+              "person": "George Lucas",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Montaje",
+              "person": "Paul Hirsch; Marcia Lucas; Richard Chew",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Banda sonora",
+              "person": "John Williams",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Película",
+              "person": "Gary Kurtz",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Sonido",
+              "person": "Don MacDougall; Ray West; Bob Minkler; Derek Ball",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Premio especial · creación de efectos sonoros",
+              "person": "Ben Burtt",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Efectos visuales",
+              "person": "John Stears; John Dykstra; Richard Edlund; Grant McCune; Robert Blalack",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion original",
+              "person": "George Lucas",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "712041",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film712041.html",
+          "filmaffinityTitle": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+          "award": "Diseño de producción · John Barry; Norman Reynolds; Leslie Dilley; Roger Christian · Vestuario · John Mollo · Montaje · Paul Hirsch; Marcia Lucas; Richard Chew · Banda sonora · John Williams · Sonido · Don MacDougall; Ray West; Bob Minkler; Derek Ball · Premio especial · creación de efectos sonoros · Ben Burtt · Efectos visuales · John Stears; John Dykstra; Richard Edlund; Grant McCune; Robert Blalack",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Encuentros en la tercera fase",
+          "director": "Steven Spielberg",
+          "aliases": [
+            "Close Encounters of the Third Kind"
+          ],
+          "nominations": [
+            "Actriz de reparto · Melinda Dillon",
+            "Diseño de producción · Joe Alves; Dan Lomino; Phil Abramson",
+            "Fotografía · Vilmos Zsigmond",
+            "Dirección · Steven Spielberg",
+            "Montaje · Michael Kahn",
+            "Banda sonora · John Williams",
+            "Sonido · Robert Knudson; Robert J. Glass; Don MacDougall; Gene S. Cantamessa",
+            "Premio especial · edición de efectos sonoros · Frank E. Warner",
+            "Efectos visuales · Roy Arbogast; Douglas Trumbull; Matthew Yuricich; Gregory Jein; Richard Yuricich"
+          ],
+          "wins": [
+            "Fotografía · Vilmos Zsigmond",
+            "Premio especial · edición de efectos sonoros · Frank E. Warner"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "person": "Melinda Dillon",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Diseño de producción",
+              "person": "Joe Alves; Dan Lomino; Phil Abramson",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Fotografía",
+              "person": "Vilmos Zsigmond",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Dirección",
+              "person": "Steven Spielberg",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Montaje",
+              "person": "Michael Kahn",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Banda sonora",
+              "person": "John Williams",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Sonido",
+              "person": "Robert Knudson; Robert J. Glass; Don MacDougall; Gene S. Cantamessa",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Premio especial · edición de efectos sonoros",
+              "person": "Frank E. Warner",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Efectos visuales",
+              "person": "Roy Arbogast; Douglas Trumbull; Matthew Yuricich; Gregory Jein; Richard Yuricich",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "941282",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film941282.html",
+          "filmaffinityTitle": "Encuentros en la tercera fase",
+          "award": "Fotografía · Vilmos Zsigmond · Premio especial · edición de efectos sonoros · Frank E. Warner",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Buscando al Sr. Goodbar",
+          "director": "Richard Brooks",
+          "aliases": [
+            "Looking for Mr. Goodbar"
+          ],
+          "nominations": [
+            "Actriz de reparto · Tuesday Weld",
+            "Fotografía · William A. Fraker"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "person": "Tuesday Weld",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Fotografía",
+              "person": "William A. Fraker",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "597143",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film597143.html",
+          "filmaffinityTitle": "Buscando al Sr. Goodbar",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Aeropuerto 77",
+          "director": "Jerry Jameson",
+          "aliases": [
+            "Airport '77"
+          ],
+          "nominations": [
+            "Diseño de producción · George C. Webb; Mickey S. Michaels",
+            "Vestuario · Edith Head; Burton Miller"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "person": "George C. Webb; Mickey S. Michaels",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Vestuario",
+              "person": "Edith Head; Burton Miller",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "810385",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film810385.html",
+          "filmaffinityTitle": "Aeropuerto 77",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La espía que me amó",
+          "director": "Lewis Gilbert",
+          "aliases": [
+            "The Spy Who Loved Me"
+          ],
+          "nominations": [
+            "Diseño de producción · Ken Adam; Peter Lamont; Hugh Scaife",
+            "Banda sonora · Marvin Hamlisch",
+            "Canción · Marvin Hamlisch; Carole Bayer Sager"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "person": "Ken Adam; Peter Lamont; Hugh Scaife",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Banda sonora",
+              "person": "Marvin Hamlisch",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Canción",
+              "person": "Marvin Hamlisch; Carole Bayer Sager",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "785986",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film785986.html",
+          "filmaffinityTitle": "La espía que me amó",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La isla del adiós",
+          "director": "Franklin J. Schaffner",
+          "aliases": [
+            "Islands in the Stream"
+          ],
+          "nominations": [
+            "Fotografía · Fred J. Koenekamp"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "person": "Fred J. Koenekamp",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "883766",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film883766.html",
+          "filmaffinityTitle": "La isla del adiós",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Pequeña música nocturna",
+          "director": "Harold Prince",
+          "aliases": [
+            "A Little Night Music"
+          ],
+          "nominations": [
+            "Vestuario · Florence Klotz",
+            "Adaptación musical · Jonathan Tunick"
+          ],
+          "wins": [
+            "Adaptación musical · Jonathan Tunick"
+          ],
+          "candidacies": [
+            {
+              "category": "Vestuario",
+              "person": "Florence Klotz",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Adaptación musical",
+              "person": "Jonathan Tunick",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "370934",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film370934.html",
+          "filmaffinityTitle": "Pequeña música nocturna",
+          "award": "Adaptación musical · Jonathan Tunick",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El otro lado de la medianoche",
+          "director": "Charles Jarrott",
+          "aliases": [
+            "The Other Side of Midnight"
+          ],
+          "nominations": [
+            "Vestuario · Irene Sharaff"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Vestuario",
+              "person": "Irene Sharaff",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "479609",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film479609.html",
+          "filmaffinityTitle": "El otro lado de la medianoche",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+          "director": "John Korty",
+          "aliases": [],
+          "nominations": [
+            "Documental · John Korty; Dan McCann; Warren L. Lockhart"
+          ],
+          "wins": [
+            "Documental · John Korty; Dan McCann; Warren L. Lockhart"
+          ],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "John Korty; Dan McCann; Warren L. Lockhart",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "168174",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film168174.html",
+          "filmaffinityTitle": "Who Are the DeBolts? And Where Did They Get Nineteen Kids?",
+          "award": "Documental · John Korty; Dan McCann; Warren L. Lockhart",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Children of Theatre Street",
+          "director": "Robert Dornhelm",
+          "aliases": [],
+          "nominations": [
+            "Documental · Robert Dornhelm; Earle Mack"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Robert Dornhelm; Earle Mack",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "High Grass Circus",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Documental · Bill Brind; Torben Schioler; Tony Ianzelo"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Bill Brind; Torben Schioler; Tony Ianzelo",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Homage to Chagall--The Colours of Love",
+          "director": "Harry Rasky",
+          "aliases": [],
+          "nominations": [
+            "Documental · Harry Rasky"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Harry Rasky",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Union Maids",
+          "director": "James Klein, Julia Reichert, Miles Mogulescu",
+          "aliases": [],
+          "nominations": [
+            "Documental · James Klein; Julia Reichert; Miles Mogulescu"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "James Klein; Julia Reichert; Miles Mogulescu",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Gravity Is My Enemy",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · John Joseph; Jan Stussy"
+          ],
+          "wins": [
+            "Cortometraje documental · John Joseph; Jan Stussy"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "John Joseph; Jan Stussy",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "Cortometraje documental · John Joseph; Jan Stussy",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Agueda Martinez: Our People, Our Country",
+          "director": "Moctesuma Esparza",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Moctesuma Esparza"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Moctesuma Esparza",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "First Edition",
+          "director": "Helen Whitney, DeWitt L. Sage, Jr.",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Helen Whitney; DeWitt L. Sage, Jr."
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Helen Whitney; DeWitt L. Sage, Jr.",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Of Time, Tombs and Treasure",
+          "director": "James R. Messenger, Paul N. Raimondi",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · James R. Messenger; Paul N. Raimondi"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "James R. Messenger; Paul N. Raimondi",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Shetland Experience",
+          "director": "Douglas Gordon",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Douglas Gordon"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Douglas Gordon",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los caraduras",
+          "director": "Hal Needham",
+          "aliases": [
+            "Smokey and the Bandit"
+          ],
+          "nominations": [
+            "Montaje · Walter Hannemann; Angelo Ross"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Montaje",
+              "person": "Walter Hannemann; Angelo Ross",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "125686",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film125686.html",
+          "filmaffinityTitle": "Los caraduras",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Madame Rosa",
+          "director": "Moshé Mizrahi",
+          "aliases": [
+            "La Vie devant soi"
+          ],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [
+            "Película internacional"
+          ],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "322026",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film322026.html",
+          "filmaffinityTitle": "Madame Rosa",
+          "award": "Película internacional",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Iphigenia (Ifigenia)",
+          "director": "Mihalis Kakogiannis",
+          "aliases": [
+            "Iphigenia"
+          ],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "453999",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film453999.html",
+          "filmaffinityTitle": "Iphigenia (Ifigenia)",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Operación Relámpago",
+          "director": "Menahem Golan",
+          "aliases": [
+            "Operation Thunderbolt",
+            "Operación relámpago",
+            "מבצע יונתן"
+          ],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "911467",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film911467.html",
+          "filmaffinityTitle": "Operación Relámpago",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ese oscuro objeto del deseo",
+          "director": "Luis Buñuel",
+          "aliases": [
+            "That Obscure Object of Desire",
+            "Cet obscur objet du désir"
+          ],
+          "nominations": [
+            "Película internacional",
+            "Guion adaptado · Luis Buñuel; Jean-Claude Carrière"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Luis Buñuel; Jean-Claude Carrière",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "832071",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film832071.html",
+          "filmaffinityTitle": "Ese oscuro objeto del deseo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Mahoma, el mensajero de Dios",
+          "director": "Moustapha Akkad",
+          "aliases": [
+            "The Message"
+          ],
+          "nominations": [
+            "Banda sonora · Maurice Jarre"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "person": "Maurice Jarre",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "214212",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film214212.html",
+          "filmaffinityTitle": "Mahoma, el mensajero de Dios",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Pedro y el dragón Elliot",
+          "director": "Don Chaffey",
+          "aliases": [
+            "Pete's Dragon"
+          ],
+          "nominations": [
+            "Adaptación musical · Al Kasha; Joel Hirschhorn; Irwin Kostal",
+            "Canción · Al Kasha; Joel Hirschhorn"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Al Kasha; Joel Hirschhorn; Irwin Kostal",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Canción",
+              "person": "Al Kasha; Joel Hirschhorn",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "616393",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film616393.html",
+          "filmaffinityTitle": "Pedro y el dragón Elliot",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La zapatilla y la rosa: La historia de Cenicienta",
+          "director": "Bryan Forbes",
+          "aliases": [
+            "The Slipper and the Rose--The Story of Cinderella",
+            "The Slipper and the Rose"
+          ],
+          "nominations": [
+            "Adaptación musical · Richard M. Sherman; Robert B. Sherman; Angela Morley",
+            "Canción · Richard M. Sherman; Robert B. Sherman"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Richard M. Sherman; Robert B. Sherman; Angela Morley",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            },
+            {
+              "category": "Canción",
+              "person": "Richard M. Sherman; Robert B. Sherman",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "548298",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film548298.html",
+          "filmaffinityTitle": "La zapatilla y la rosa: La historia de Cenicienta",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Tú iluminas mi vida",
+          "director": "Joseph Brooks",
+          "aliases": [
+            "You Light Up My Life"
+          ],
+          "nominations": [
+            "Canción · Joseph Brooks"
+          ],
+          "wins": [
+            "Canción · Joseph Brooks"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "Joseph Brooks",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "351988",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film351988.html",
+          "filmaffinityTitle": "Tú iluminas mi vida",
+          "award": "Canción · Joseph Brooks",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los Rescatadores",
+          "director": "Wolfgang Reitherman, John Lounsbery, Art Stevens",
+          "aliases": [
+            "The Rescuers",
+            "Los rescatadores"
+          ],
+          "nominations": [
+            "Canción · Sammy Fain; Carol Connors; Ayn Robbins"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "Sammy Fain; Carol Connors; Ayn Robbins",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "642693",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film642693.html",
+          "filmaffinityTitle": "Los Rescatadores",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El castillo de arena",
+          "director": "Co Hoedeman",
+          "aliases": [
+            "The Sand Castle",
+            "Le château de sable"
+          ],
+          "nominations": [
+            "Cortometraje de animación · Co Hoedeman"
+          ],
+          "wins": [
+            "Cortometraje de animación · Co Hoedeman"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Co Hoedeman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "281175",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film281175.html",
+          "filmaffinityTitle": "El castillo de arena",
+          "award": "Cortometraje de animación · Co Hoedeman",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Bead Game",
+          "director": "Ishu Patel",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de animación · Ishu Patel"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Ishu Patel",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "760160",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film760160.html",
+          "filmaffinityTitle": "The Bead Game",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "A Doonesbury Special",
+          "director": "John Hubley, Faith Hubley",
+          "aliases": [
+            "The Doonesbury Special"
+          ],
+          "nominations": [
+            "Cortometraje de animación · John Hubley; Faith Hubley; Garry Trudeau"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "John Hubley; Faith Hubley; Garry Trudeau",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "300902",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film300902.html",
+          "filmaffinityTitle": "A Doonesbury Special",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Jimmy the C",
+          "director": "James Picker",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de animación · James Picker; Robert Grossman; Craig Whitaker"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "James Picker; Robert Grossman; Craig Whitaker",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "I'll Find a Way (S)",
+          "director": "",
+          "aliases": [
+            "I'll Find a Way"
+          ],
+          "nominations": [
+            "Cortometraje de ficción · Beverly Shaffer; Yuki Yoshida"
+          ],
+          "wins": [
+            "Cortometraje de ficción · Beverly Shaffer; Yuki Yoshida"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Beverly Shaffer; Yuki Yoshida",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "411027",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film411027.html",
+          "filmaffinityTitle": "I'll Find a Way (S)",
+          "award": "Cortometraje de ficción · Beverly Shaffer; Yuki Yoshida",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Absent-Minded Waiter",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · William E. McEuen"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "William E. McEuen",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Floating Free",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Jerry Butts"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Jerry Butts",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Notes on the Popular Arts",
+          "director": "Saul Bass",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Saul Bass"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Saul Bass",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Spaceborne",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Philip Dauber"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Philip Dauber",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Abismo",
+          "director": "Peter Yates",
+          "aliases": [
+            "The Deep"
+          ],
+          "nominations": [
+            "Sonido · Walter Goss; Dick Alexander; Tom Beckert; Robin Gregory"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Sonido",
+              "person": "Walter Goss; Dick Alexander; Tom Beckert; Robin Gregory",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "469294",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film469294.html",
+          "filmaffinityTitle": "Abismo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Carga maldita",
+          "director": "William Friedkin",
+          "aliases": [
+            "Sorcerer"
+          ],
+          "nominations": [
+            "Sonido · Robert Knudson; Robert J. Glass; Richard Tyler; Jean-Louis Ducarme"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Sonido",
+              "person": "Robert Knudson; Robert J. Glass; Richard Tyler; Jean-Louis Ducarme",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "401559",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film401559.html",
+          "filmaffinityTitle": "Carga maldita",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El gato conoce al asesino",
+          "director": "Robert Benton",
+          "aliases": [
+            "The Late Show"
+          ],
+          "nominations": [
+            "Guion original · Robert Benton"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Guion original",
+              "person": "Robert Benton",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "976962",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film976962.html",
+          "filmaffinityTitle": "El gato conoce al asesino",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Nunca te prometí un jardín de rosas",
+          "director": "Anthony Page",
+          "aliases": [
+            "I Never Promised You a Rose Garden"
+          ],
+          "nominations": [
+            "Guion adaptado · Gavin Lambert; Lewis John Carlino"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Guion adaptado",
+              "person": "Gavin Lambert; Lewis John Carlino",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "196233",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film196233.html",
+          "filmaffinityTitle": "Nunca te prometí un jardín de rosas",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "¡Oh, Dios!",
+          "director": "Carl Reiner",
+          "aliases": [
+            "Oh, God!"
+          ],
+          "nominations": [
+            "Guion adaptado · Larry Gelbart"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Guion adaptado",
+              "person": "Larry Gelbart",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1978"
+            }
+          ],
+          "filmAffinityId": "360495",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film360495.html",
+          "filmaffinityTitle": "¡Oh, Dios!",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "year": 1978,
+      "section": "Premios de cine · películas de 1977",
+      "films": [
+        {
+          "title": "Network, un mundo implacable",
+          "director": "Sidney Lumet",
+          "aliases": [
+            "Network"
+          ],
+          "nominations": [
+            "Mejor actor · Peter Finch",
+            "Mejor actor · William Holden",
+            "Mejor actriz · Faye Dunaway",
+            "Mejor dirección · Sidney Lumet",
+            "Mejor película",
+            "Mejor montaje · Alan Heim",
+            "Mejor guion · Paddy Chayefsky",
+            "Mejor sonido · Jack Fitzstephens; Marc M Lamb; Sandford Rackow; James Sabat; Dick Vorisek",
+            "Mejor actor de reparto · Robert Duvall"
+          ],
+          "wins": [
+            "Mejor actor · Peter Finch"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Peter Finch",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actor",
+              "person": "William Holden",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actriz",
+              "person": "Faye Dunaway",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Sidney Lumet",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Alan Heim",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Paddy Chayefsky",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Jack Fitzstephens; Marc M Lamb; Sandford Rackow; James Sabat; Dick Vorisek",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Robert Duvall",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "480193",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film480193.html",
+          "filmaffinityTitle": "Network, un mundo implacable",
+          "award": "Mejor actor · Peter Finch",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Rocky",
+          "director": "John G. Avildsen",
+          "aliases": [],
+          "nominations": [
+            "Mejor actor · Sylvester Stallone",
+            "Mejor dirección · John G Avildsen",
+            "Mejor película",
+            "Mejor montaje · Richard Halsey",
+            "Mejor guion · Sylvester Stallone"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Sylvester Stallone",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "John G Avildsen",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Richard Halsey",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Sylvester Stallone",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "192554",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film192554.html",
+          "filmaffinityTitle": "Rocky",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Annie Hall",
+          "director": "Woody Allen",
+          "aliases": [],
+          "nominations": [
+            "Mejor actor · Woody Allen",
+            "Mejor actriz · Diane Keaton",
+            "Mejor dirección · Woody Allen",
+            "Mejor película · Jack Rollins; Charles H Joffe",
+            "Mejor montaje · Ralph Rosenblum; Wendy Greene Bricmont",
+            "Mejor guion · Woody Allen; Marshall Brickman"
+          ],
+          "wins": [
+            "Mejor actriz · Diane Keaton",
+            "Mejor dirección · Woody Allen",
+            "Mejor película · Jack Rollins; Charles H Joffe",
+            "Mejor montaje · Ralph Rosenblum; Wendy Greene Bricmont",
+            "Mejor guion · Woody Allen; Marshall Brickman"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Woody Allen",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actriz",
+              "person": "Diane Keaton",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Woody Allen",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor película",
+              "person": "Jack Rollins; Charles H Joffe",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Ralph Rosenblum; Wendy Greene Bricmont",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Woody Allen; Marshall Brickman",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "487991",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film487991.html",
+          "filmaffinityTitle": "Annie Hall",
+          "award": "Mejor actriz · Diane Keaton · Mejor dirección · Woody Allen · Mejor película · Jack Rollins; Charles H Joffe · Mejor montaje · Ralph Rosenblum; Wendy Greene Bricmont · Mejor guion · Woody Allen; Marshall Brickman",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Tres mujeres",
+          "director": "Robert Altman",
+          "aliases": [
+            "Three Women",
+            "3 WOMEN",
+            "3 Women"
+          ],
+          "nominations": [
+            "Mejor actriz · Shelley Duvall"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz",
+              "person": "Shelley Duvall",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "335445",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film335445.html",
+          "filmaffinityTitle": "Tres mujeres",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El gato conoce al asesino",
+          "director": "Robert Benton",
+          "aliases": [
+            "The Late Show"
+          ],
+          "nominations": [
+            "Mejor actriz · Lily Tomlin"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz",
+              "person": "Lily Tomlin",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "976962",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film976962.html",
+          "filmaffinityTitle": "El gato conoce al asesino",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Un puente lejano",
+          "director": "Richard Attenborough",
+          "aliases": [
+            "A Bridge Too Far"
+          ],
+          "nominations": [
+            "Mejor música original · John Addison",
+            "Mejor fotografía · Geoffrey Unsworth",
+            "Mejor dirección · Richard Attenborough",
+            "Mejor película",
+            "Mejor montaje · Antony Gibbs",
+            "Mejor diseño de producción · Terence Marsh",
+            "Mejor sonido · Peter Horrocks; Gerry Humphreys; Simon Kaye; Robin O'Donoghue; Les Wiggins",
+            "Mejor actor de reparto · Edward Fox"
+          ],
+          "wins": [
+            "Mejor música original · John Addison",
+            "Mejor fotografía · Geoffrey Unsworth",
+            "Mejor sonido · Peter Horrocks; Gerry Humphreys; Simon Kaye; Robin O'Donoghue; Les Wiggins",
+            "Mejor actor de reparto · Edward Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor música original",
+              "person": "John Addison",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Geoffrey Unsworth",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Richard Attenborough",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Antony Gibbs",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Terence Marsh",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Peter Horrocks; Gerry Humphreys; Simon Kaye; Robin O'Donoghue; Les Wiggins",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Edward Fox",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "159721",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film159721.html",
+          "filmaffinityTitle": "Un puente lejano",
+          "award": "Mejor música original · John Addison · Mejor fotografía · Geoffrey Unsworth · Mejor sonido · Peter Horrocks; Gerry Humphreys; Simon Kaye; Robin O'Donoghue; Les Wiggins · Mejor actor de reparto · Edward Fox",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Equus",
+          "director": "Sidney Lumet",
+          "aliases": [],
+          "nominations": [
+            "Mejor música original · Richard Rodney Bennett",
+            "Mejor guion · Peter Shaffer",
+            "Mejor actor de reparto · Colin Blakely",
+            "Mejor actriz de reparto · Jenny Agutter",
+            "Mejor actriz de reparto · Joan Plowright"
+          ],
+          "wins": [
+            "Mejor actriz de reparto · Jenny Agutter"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor música original",
+              "person": "Richard Rodney Bennett",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Peter Shaffer",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Colin Blakely",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Jenny Agutter",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Joan Plowright",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "264099",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film264099.html",
+          "filmaffinityTitle": "Equus",
+          "award": "Mejor actriz de reparto · Jenny Agutter",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La espía que me amó",
+          "director": "Lewis Gilbert",
+          "aliases": [
+            "The Spy Who Loved Me"
+          ],
+          "nominations": [
+            "Mejor música original · Marvin Hamlisch",
+            "Mejor diseño de producción · Ken Adam"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor música original",
+              "person": "Marvin Hamlisch",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Ken Adam",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "785986",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film785986.html",
+          "filmaffinityTitle": "La espía que me amó",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ha nacido una estrella",
+          "director": "Frank Pierson",
+          "aliases": [
+            "A Star Is Born"
+          ],
+          "nominations": [
+            "Mejor música original · Paul Williams; Barbra Streisand; Kenny Ascher; Rupert Holmes; Leon Russell; Kenny Loggins; Alan Bergman; Marilyn Bergman; Donna Weiss",
+            "Mejor sonido · Bob Glass; Robert Knudson; Marvin I Kosberg; Tom Overton; Joseph Von Stroheim; Dan Wallin"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor música original",
+              "person": "Paul Williams; Barbra Streisand; Kenny Ascher; Rupert Holmes; Leon Russell; Kenny Loggins; Alan Bergman; Marilyn Bergman; Donna Weiss",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Bob Glass; Robert Knudson; Marvin I Kosberg; Tom Overton; Joseph Von Stroheim; Dan Wallin",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "121822",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film121822.html",
+          "filmaffinityTitle": "Ha nacido una estrella",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Abismo",
+          "director": "Peter Yates",
+          "aliases": [
+            "The Deep"
+          ],
+          "nominations": [
+            "Mejor fotografía · Christopher Challis"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "Christopher Challis",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "469294",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film469294.html",
+          "filmaffinityTitle": "Abismo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Casanova",
+          "director": "Federico Fellini",
+          "aliases": [
+            "Fellini's Casanova (Il Casanova Di Federico Fellini)",
+            "Il Casanova di Federico Fellini"
+          ],
+          "nominations": [
+            "Mejor fotografía · Giuseppe Rotunno",
+            "Mejor vestuario · Danilo Donati",
+            "Mejor diseño de producción · Danilo Donati"
+          ],
+          "wins": [
+            "Mejor vestuario · Danilo Donati",
+            "Mejor diseño de producción · Danilo Donati"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "Giuseppe Rotunno",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Danilo Donati",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Danilo Donati",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "701122",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film701122.html",
+          "filmaffinityTitle": "Casanova",
+          "award": "Mejor vestuario · Danilo Donati · Mejor diseño de producción · Danilo Donati",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Valentino",
+          "director": "Ken Russell",
+          "aliases": [],
+          "nominations": [
+            "Mejor fotografía · Peter Suschitzky",
+            "Mejor vestuario · Shirley Russell",
+            "Mejor diseño de producción · Philip Harrison"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "Peter Suschitzky",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Shirley Russell",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Philip Harrison",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "398254",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film398254.html",
+          "filmaffinityTitle": "Valentino",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Joseph Andrews",
+          "director": "Tony Richardson",
+          "aliases": [],
+          "nominations": [
+            "Mejor vestuario · Michael Annals; Patrick Wheatley"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor vestuario",
+              "person": "Michael Annals; Patrick Wheatley",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "465104",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film465104.html",
+          "filmaffinityTitle": "Joseph Andrews",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "New York, New York",
+          "director": "Martin Scorsese",
+          "aliases": [],
+          "nominations": [
+            "Mejor vestuario · Theadora Van Runkle",
+            "Mejor sonido · Kay Rose; Michael Colgan; James Fritch; Lawrence Jost; Richard Portman"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor vestuario",
+              "person": "Theadora Van Runkle",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Kay Rose; Michael Colgan; James Fritch; Lawrence Jost; Richard Portman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "376104",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film376104.html",
+          "filmaffinityTitle": "New York, New York",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Living City",
+          "director": "Phillip De Normanville; Sarah Erulkar",
+          "aliases": [],
+          "nominations": [
+            "Mejor película documental · Peter De Normanville; Sarak Erulkar"
+          ],
+          "wins": [
+            "Mejor película documental · Peter De Normanville; Sarak Erulkar"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor película documental",
+              "person": "Peter De Normanville; Sarak Erulkar",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "imdbId": "tt0215935",
+          "imdbUrl": "https://www.imdb.com/es-es/title/tt0215935/",
+          "award": "Mejor película documental · Peter De Normanville; Sarak Erulkar",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Pipeline Alaska",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película documental · John Armstrong"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película documental",
+              "person": "John Armstrong",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Reflections - Ireland",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película documental · Paddy Carey"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película documental",
+              "person": "Paddy Carey",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "imdbId": "tt0216151",
+          "imdbUrl": "https://www.imdb.com/title/tt0216151/",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Shetland Experience",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película documental · Derek Williams"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película documental",
+              "person": "Derek Williams",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "imdbId": "tt0076700",
+          "imdbUrl": "https://www.imdb.com/title/tt0076700/",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Bead Game",
+          "director": "Ishu Patel",
+          "aliases": [],
+          "nominations": [
+            "Mejor cortometraje de ficción · Ishu Patel"
+          ],
+          "wins": [
+            "Mejor cortometraje de ficción · Ishu Patel"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Ishu Patel",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "760160",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film760160.html",
+          "filmaffinityTitle": "The Bead Game",
+          "award": "Mejor cortometraje de ficción · Ishu Patel",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Chinese Word for Horse (S) (C)",
+          "director": "",
+          "aliases": [
+            "The Chinese Word For Horse"
+          ],
+          "nominations": [
+            "Mejor cortometraje de ficción · Kate Canning"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Kate Canning",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "283861",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film283861.html",
+          "filmaffinityTitle": "The Chinese Word for Horse (S) (C)",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El castillo de arena",
+          "director": "Co Hoedeman",
+          "aliases": [
+            "The Sand Castle",
+            "Le château de sable"
+          ],
+          "nominations": [
+            "Mejor cortometraje de ficción · Co Hoedeman"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje de ficción",
+              "person": "Co Hoedeman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "281175",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film281175.html",
+          "filmaffinityTitle": "El castillo de arena",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La encajera",
+          "director": "Claude Goretta",
+          "aliases": [
+            "The Lacemaker (La Dentellière)",
+            "La Dentellière"
+          ],
+          "nominations": [
+            "Mejor intérprete revelación · Isabelle Huppert"
+          ],
+          "wins": [
+            "Mejor intérprete revelación · Isabelle Huppert"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor intérprete revelación",
+              "person": "Isabelle Huppert",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "746672",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film746672.html",
+          "filmaffinityTitle": "La encajera",
+          "award": "Mejor intérprete revelación · Isabelle Huppert",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Middle Of The World (Le Milieu Du Monde)",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor intérprete revelación · Olimpia Carlisi"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor intérprete revelación",
+              "person": "Olimpia Carlisi",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "449004",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film449004.html",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Historia de un holocausto",
+          "director": "James F. Collier",
+          "aliases": [
+            "The Hiding Place"
+          ],
+          "nominations": [
+            "Mejor intérprete revelación · Jeannette Clift"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor intérprete revelación",
+              "person": "Jeannette Clift",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "271301",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film271301.html",
+          "filmaffinityTitle": "Historia de un holocausto",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Padre patrón (Padre padrone)",
+          "director": "Paolo Taviani, Vittorio Taviani",
+          "aliases": [
+            "Padre Padrone",
+            "PADRE PADRONE",
+            "Padre patrón",
+            "Padre padrone"
+          ],
+          "nominations": [
+            "Mejor intérprete revelación · Saverio Marconi"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor intérprete revelación",
+              "person": "Saverio Marconi",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "325122",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film325122.html",
+          "filmaffinityTitle": "Padre patrón (Padre padrone)",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Path Of The Paddle",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Bill Mason"
+          ],
+          "wins": [
+            "Mejor película especializada · Bill Mason"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Bill Mason",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "award": "Mejor película especializada · Bill Mason",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hazchem",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Roy Pace"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Roy Pace",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "How The Motor Works: Part II - The Carburettor",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · George Seager"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "George Seager",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Front",
+          "director": "Martin Ritt",
+          "aliases": [
+            "La tapadera"
+          ],
+          "nominations": [
+            "Mejor actor de reparto · Zero Mostel"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Zero Mostel",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "176299",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film176299.html",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Welcome to L.A.",
+          "director": "Alan Rudolph",
+          "aliases": [
+            "Bienvenido a Los Ángeles"
+          ],
+          "nominations": [
+            "Mejor actriz de reparto · Geraldine Chaplin"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Geraldine Chaplin",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "746163",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film746163.html",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Próxima parada, Greenwich Village",
+          "director": "Paul Mazursky",
+          "aliases": [
+            "Next Stop, Greenwich Village"
+          ],
+          "nominations": [
+            "Mejor actriz de reparto · Shelley Winters"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Shelley Winters",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1978"
+            }
+          ],
+          "filmAffinityId": "950937",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film950937.html",
+          "filmaffinityTitle": "Próxima parada, Greenwich Village",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1978,
+      "section": "Competición oficial · largometrajes",
+      "films": [
+        {
+          "title": "Las truchas",
+          "director": "José Luis García Sánchez",
+          "filmAffinityId": "607526",
+          "filmaffinityTitle": "Las truchas",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [
+            "Oso de Oro - Mejor película"
+          ],
+          "aliases": [],
+          "award": "Oso de Oro - Mejor película",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Las palabras de Max",
+          "director": "Emilio Martínez Lázaro",
+          "filmAffinityId": "818554",
+          "filmaffinityTitle": "Las palabras de Max",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio OCIC"
+          ],
+          "wins": [
+            "Oso de Oro - Mejor película",
+            "Premio OCIC"
+          ],
+          "aliases": [],
+          "award": "Oso de Oro - Mejor película · Premio OCIC",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ascensor",
+          "director": "Tomás Muñoz",
+          "filmAffinityId": "201822",
+          "filmaffinityTitle": "Ascensor",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [
+            "Oso de Oro - Mejor película"
+          ],
+          "aliases": [],
+          "award": "Oso de Oro - Mejor película",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Fall",
+          "director": "",
+          "filmAffinityId": "710096",
+          "filmaffinityTitle": "The Fall",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Premio Especial del Jurado"
+          ],
+          "wins": [
+            "Oso de Plata - Premio Especial del Jurado"
+          ],
+          "aliases": [],
+          "award": "Oso de Plata - Premio Especial del Jurado",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El brigadista",
+          "director": "Octavio Cortázar",
+          "filmAffinityId": "870323",
+          "filmaffinityTitle": "El brigadista",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Logro individual sobresaliente · Octavio Cortázar (por su primera película)"
+          ],
+          "wins": [
+            "Oso de Plata - Logro individual sobresaliente · Octavio Cortázar (por su primera película)"
+          ],
+          "aliases": [
+            "El Brigadista"
+          ],
+          "award": "Oso de Plata - Logro individual sobresaliente · Octavio Cortázar (por su primera película)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los hermanos Corazón de León",
+          "director": "Olle Hellbom",
+          "filmAffinityId": "239171",
+          "filmaffinityTitle": "Los hermanos Corazón de León",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio OCIC (Recomendación)"
+          ],
+          "wins": [
+            "Premio OCIC (Recomendación)"
+          ],
+          "aliases": [
+            "Bröderna Lejonhjärta"
+          ],
+          "award": "Premio OCIC (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Alemania en Otoño",
+          "director": "Rainer Werner Fassbinder, Beate Mainka-Jellinghaus, Alf Brustellin, Hans Peter Cloos, Alexander Kluge, Maximiliane Mainka, Edgar Reitz, Katja Rupé, Volker Schlöndorff, Peter Schubert, Bernhard Sinkel",
+          "filmAffinityId": "152420",
+          "filmaffinityTitle": "Alemania en Otoño",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Mención de honor"
+          ],
+          "wins": [
+            "Mención de honor"
+          ],
+          "aliases": [
+            "Deutschland im Herbst"
+          ],
+          "award": "Mención de honor",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Moritz",
+          "director": "",
+          "filmAffinityId": "190668",
+          "filmaffinityTitle": "Moritz",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "wins": [
+            "Premio Interfilm (Recomendación)"
+          ],
+          "aliases": [],
+          "award": "Premio Interfilm (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Noche de estreno (Opening Night)",
+          "director": "John Cassavetes",
+          "filmAffinityId": "379275",
+          "filmaffinityTitle": "Noche de estreno (Opening Night)",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Mejor actriz · Gena Rowlands",
+            "Premio Interfilm - Otto Dibelius"
+          ],
+          "wins": [
+            "Oso de Plata - Mejor actriz · Gena Rowlands",
+            "Premio Interfilm - Otto Dibelius"
+          ],
+          "aliases": [
+            "Opening Night",
+            "Noche de estreno"
+          ],
+          "award": "Oso de Plata - Mejor actriz · Gena Rowlands · Premio Interfilm - Otto Dibelius",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Outrageous!",
+          "director": "Richard Benner",
+          "filmAffinityId": "761855",
+          "filmaffinityTitle": "Outrageous!",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Mejor actor · Craig Russell"
+          ],
+          "wins": [
+            "Oso de Plata - Mejor actor · Craig Russell"
+          ],
+          "aliases": [
+            "Outrageous"
+          ],
+          "award": "Oso de Plata - Mejor actor · Craig Russell",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La muerte del presidente",
+          "director": "",
+          "filmAffinityId": "311279",
+          "filmaffinityTitle": "La muerte del presidente",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Logro individual sobresaliente · Jerzy Kawalerowicz (también por toda su obra)"
+          ],
+          "wins": [
+            "Oso de Plata - Logro individual sobresaliente · Jerzy Kawalerowicz (también por toda su obra)"
+          ],
+          "aliases": [],
+          "award": "Oso de Plata - Logro individual sobresaliente · Jerzy Kawalerowicz (también por toda su obra)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ventaja",
+          "director": "",
+          "filmAffinityId": "282832",
+          "filmaffinityTitle": "Ventaja",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Mejor dirección · Georgi Djulgerov"
+          ],
+          "wins": [
+            "Oso de Plata - Mejor dirección · Georgi Djulgerov"
+          ],
+          "aliases": [],
+          "award": "Oso de Plata - Mejor dirección · Georgi Djulgerov",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "My Father's Happy Years",
+          "director": "",
+          "filmAffinityId": "399297",
+          "filmaffinityTitle": "My Father's Happy Years",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "FIPRESCI - Premio Internacional de la Crítica",
+            "Premio OCIC (Recomendación)"
+          ],
+          "wins": [
+            "FIPRESCI - Premio Internacional de la Crítica",
+            "Premio OCIC (Recomendación)"
+          ],
+          "aliases": [],
+          "award": "FIPRESCI - Premio Internacional de la Crítica · Premio OCIC (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Lone Wolf",
+          "director": "",
+          "filmAffinityId": "276553",
+          "filmaffinityTitle": "Lone Wolf",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Closed Circuit",
+          "director": "",
+          "filmAffinityId": "401806",
+          "filmaffinityTitle": "Closed Circuit",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Polo de limón",
+          "director": "",
+          "filmAffinityId": "283077",
+          "filmaffinityTitle": "Polo de limón",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "En una noche repleta de lluvia",
+          "director": "Lina Wertmüller",
+          "filmAffinityId": "631519",
+          "filmaffinityTitle": "En una noche repleta de lluvia",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [
+            "La fine del mondo nel nostro solito letto in una notte piena di pioggia"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Flaming Hearts",
+          "director": "",
+          "filmAffinityId": "708556",
+          "filmaffinityTitle": "Flaming Hearts",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Flores de papel",
+          "director": "",
+          "filmAffinityId": "471988",
+          "filmaffinityTitle": "Flores de papel",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Jörg Ratgeb - Painter",
+          "director": "",
+          "filmAffinityId": "477840",
+          "filmaffinityTitle": "Jörg Ratgeb - Painter",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Dog Who Loved Trains",
+          "director": "",
+          "filmAffinityId": "859930",
+          "filmaffinityTitle": "The Dog Who Loved Trains",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Rheingold",
+          "director": "",
+          "filmAffinityId": "144478",
+          "filmaffinityTitle": "Rheingold",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los jugadores de ajedrez",
+          "director": "Satyajit Ray",
+          "filmAffinityId": "852138",
+          "filmaffinityTitle": "Los jugadores de ajedrez",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [
+            "शतरंज के खिलाड़ी"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Far Road",
+          "director": "",
+          "filmAffinityId": "425717",
+          "filmaffinityTitle": "The Far Road",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "One Page of Love",
+          "director": "",
+          "filmAffinityId": "274753",
+          "filmaffinityTitle": "One Page of Love",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1978,
+      "section": "Palmarés · cortometrajes",
+      "films": [
+        {
+          "title": "Ascensor",
+          "director": "Tomás Muñoz",
+          "award": "Oso de Oro · cortometraje",
+          "nominations": [
+            "Oso de Oro · cortometraje"
+          ],
+          "wins": [
+            "Oso de Oro · cortometraje"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Co jsme udelali slepicim",
+          "director": "Vladimír Jiránek y Josef Hekrdle",
+          "award": "Oso de Oro · cortometraje",
+          "nominations": [
+            "Oso de Oro · cortometraje"
+          ],
+          "wins": [
+            "Oso de Oro · cortometraje"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Contraption",
+          "director": "James Dearden",
+          "award": "Oso de Plata · Premio del Jurado · cortometraje",
+          "nominations": [
+            "Oso de Plata · Premio del Jurado · cortometraje"
+          ],
+          "wins": [
+            "Oso de Plata · Premio del Jurado · cortometraje"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Une vieille soupière",
+          "director": "Michel Longuet",
+          "award": "Oso de Plata · Premio del Jurado · cortometraje",
+          "nominations": [
+            "Oso de Plata · Premio del Jurado · cortometraje"
+          ],
+          "wins": [
+            "Oso de Plata · Premio del Jurado · cortometraje"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
       "festival": "San Sebastián",
       "year": 1978,
-      "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)",
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "Alambrista! / The Illegal",
+          "director": "Robert M. Young",
+          "aliases": [
+            "Alambrista!",
+            "The Illegal",
+            "¡Alambrista!"
+          ],
+          "award": "Concha de Oro",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260007/es",
+          "wins": [
+            "Concha de Oro"
+          ],
+          "nominations": [
+            "Concha de Oro"
+          ],
+          "filmAffinityId": "630987",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El lugar sin límites",
+          "director": "Arturo Ripstein",
+          "aliases": [
+            "El lugar sin límites / The Place Without Limits",
+            "The Place Without Limits"
+          ],
+          "award": "Premio Especial del Jurado",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260015/es",
+          "filmAffinityId": "807959",
+          "filmaffinityTitle": "El lugar sin límites",
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Le dossier 51 / Dossier 51 (El dossier 51)",
+          "director": "Michel Deville",
+          "aliases": [
+            "Le dossier 51",
+            "Dossier 51",
+            "El dossier 51"
+          ],
+          "award": "Concha de Plata",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260009/es",
+          "wins": [
+            "Concha de Plata"
+          ],
+          "nominations": [
+            "Concha de Plata"
+          ],
+          "filmAffinityId": "789746",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Olyan mint otthon / Just Like Home (Como en casa)",
+          "director": "Márta Mészáros",
+          "aliases": [
+            "Olyan mint otthon",
+            "Just Like Home",
+            "Como en casa"
+          ],
+          "award": "Concha de Plata",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260011/es",
+          "wins": [
+            "Concha de Plata"
+          ],
+          "nominations": [
+            "Concha de Plata"
+          ],
+          "filmAffinityId": "702561",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Sonámbulos",
+          "director": "Manuel Gutiérrez Aragón",
+          "aliases": [
+            "Sonámbulos / Somnambulists",
+            "Somnambulists"
+          ],
+          "award": "Concha de Plata · mejor dirección",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260006/es",
+          "filmAffinityId": "608463",
+          "filmaffinityTitle": "Sonámbulos",
+          "wins": [
+            "Concha de Plata · mejor dirección"
+          ],
+          "nominations": [
+            "Concha de Plata · mejor dirección"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "A Wedding (Un día de boda)",
+          "director": "Robert Altman",
+          "aliases": [
+            "A Wedding",
+            "Un día de boda"
+          ],
+          "award": "Premio San Sebastián · mejor interpretación femenina · Carol Burnett",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260008/es",
+          "wins": [
+            "Premio San Sebastián · mejor interpretación femenina · Carol Burnett"
+          ],
+          "nominations": [
+            "Premio San Sebastián · mejor interpretación femenina · Carol Burnett"
+          ],
+          "filmAffinityId": "196905",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El asesino de Pedralbes",
+          "director": "Gonzalo Herralde",
+          "aliases": [
+            "El asesino de Pedralbes / The Murder of Pedralbes",
+            "The Murder of Pedralbes"
+          ],
+          "award": "Perla del Cantábrico · mejor largometraje de habla hispana",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260003/es",
+          "filmAffinityId": "451292",
+          "filmaffinityTitle": "El asesino de Pedralbes",
+          "wins": [
+            "Perla del Cantábrico · mejor largometraje de habla hispana"
+          ],
+          "nominations": [
+            "Perla del Cantábrico · mejor largometraje de habla hispana"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Un hombre llamado Flor de Otoño",
+          "director": "Pedro Olea",
+          "aliases": [
+            "Un hombre llamado Flor de Otoño / A Man Called Autumn Flower",
+            "A Man Called Autumn Flower"
+          ],
+          "award": "Premio San Sebastián · mejor interpretación masculina · José Sacristán",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260004/es",
+          "filmAffinityId": "113587",
+          "filmaffinityTitle": "Un hombre llamado Flor de Otoño",
+          "wins": [
+            "Premio San Sebastián · mejor interpretación masculina · José Sacristán"
+          ],
+          "nominations": [
+            "Premio San Sebastián · mejor interpretación masculina · José Sacristán"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Al servicio de la mujer española / At the Service of Spanish Womanhood",
+          "director": "Jaime de Armiñán",
+          "aliases": [
+            "Al servicio de la mujer española",
+            "At the Service of Spanish Womanhood"
+          ],
+          "award": "Fuera de concurso",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260023/es",
+          "filmAffinityId": "673278",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Convoy",
+          "director": "Sam Peckinpah",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260021/es",
+          "filmAffinityId": "317347",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "En och en / One on One (De uno en uno)",
+          "director": "Ingrid Thulin, Erland Josephson, Sven Nykvist",
+          "aliases": [
+            "En och en",
+            "One on One",
+            "De uno en uno"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260018/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Il ritorno di Casanova",
+          "director": "Pasquale Festa Campanile",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260012/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Interiors (Interiores)",
+          "director": "Woody Allen",
+          "aliases": [
+            "Interiors",
+            "Interiores"
+          ],
+          "award": "Fuera de concurso",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260022/es",
+          "filmAffinityId": "187273",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Jaque a la dama / Check to the Queen",
+          "director": "Francisco  Rodríguez",
+          "aliases": [
+            "Jaque a la dama",
+            "Check to the Queen"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260005/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Les liens de sang / Blood Relatives (Laberinto mortal)",
+          "director": "Claude Chabrol",
+          "aliases": [
+            "Les liens de sang",
+            "Blood Relatives",
+            "Laberinto mortal"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260013/es",
+          "filmAffinityId": "716455",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Pablo",
+          "director": "Víctor Casaus",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260014/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Rekolekcje / Recollections",
+          "director": "Witold Lesczynski",
+          "aliases": [
+            "Rekolekcje",
+            "Recollections"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260016/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Se busca muchacha de buena presencia y motorizado con moto propia",
+          "director": "Alfredo J. Anzola",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260020/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Skytten / The Marksman (El tirador - Violencia antinuclear)",
+          "director": "Tom Hedegaard",
+          "aliases": [
+            "Skytten",
+            "The Marksman",
+            "El tirador - Violencia antinuclear"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260002/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Smyatenie chuvstv (Confusión de sentimientos)",
+          "director": "Pável Arsénov",
+          "aliases": [
+            "Smyatenie chuvstv",
+            "Confusión de sentimientos"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260017/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Stín létajícího ptácka / Shadow of a Flying Bird",
+          "director": "Jaroslav Balík",
+          "aliases": [
+            "Stín létajícího ptácka",
+            "Shadow of a Flying Bird"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260019/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Class of Miss MacMichael (La clase de Miss MacMichael)",
+          "director": "Silvio Narizzano",
+          "aliases": [
+            "The Class of Miss MacMichael",
+            "La clase de Miss MacMichael"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260001/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Utopia",
+          "director": "Iradj Azimi",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1978/secciones_y_peliculas/seccion_oficial/7/260010/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1978,
+      "section": "Cortometrajes · selección parcial y palmarés",
       "films": [
         {
           "title": "La edad del silencio",
@@ -797,438 +4142,18 @@
             "Concha de Oro · cortometraje"
           ],
           "filmaffinityTitle": "La edad del silencio",
-          "filmAffinityId": "529937"
-        }
-      ],
-      "coverageStatus": "partial"
-    },
-    {
-      "festival": "Berlín",
-      "year": 1978,
-      "section": "Largometrajes · premiados (selección pendiente)",
-      "films": [
-        {
-          "title": "Las palabras de Max",
-          "director": "Emilio Martínez Lázaro",
-          "award": "Oso de Oro · largometraje",
-          "nominations": [
-            "Oso de Oro · largometraje"
-          ],
-          "wins": [
-            "Oso de Oro · largometraje"
-          ]
+          "filmAffinityId": "529937",
+          "aliases": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
-        {
-          "title": "Las truchas",
-          "director": "José Luis García Sánchez",
-          "award": "Oso de Oro · largometraje",
-          "nominations": [
-            "Oso de Oro · largometraje"
-          ],
-          "wins": [
-            "Oso de Oro · largometraje"
-          ]
-        },
-        {
-          "title": "A queda",
-          "director": "Ruy Guerra",
-          "award": "Oso de Plata · Premio Especial del Jurado",
-          "nominations": [
-            "Oso de Plata · Premio Especial del Jurado"
-          ],
-          "wins": [
-            "Oso de Plata · Premio Especial del Jurado"
-          ]
-        },
-        {
-          "title": "Avantage",
-          "director": "Georgi Djulgerov",
-          "award": "Oso de Plata · mejor dirección · Georgi Djulgerov",
-          "nominations": [
-            "Oso de Plata · mejor dirección · Georgi Djulgerov"
-          ],
-          "wins": [
-            "Oso de Plata · mejor dirección · Georgi Djulgerov"
-          ]
-        },
-        {
-          "title": "Opening Night",
-          "director": "John Cassavetes",
-          "award": "Oso de Plata · mejor actriz · Gena Rowlands",
-          "nominations": [
-            "Oso de Plata · mejor actriz · Gena Rowlands"
-          ],
-          "wins": [
-            "Oso de Plata · mejor actriz · Gena Rowlands"
-          ]
-        },
-        {
-          "title": "Outrageous",
-          "director": "Richard Benner",
-          "award": "Oso de Plata · mejor actor · Craig Russell",
-          "nominations": [
-            "Oso de Plata · mejor actor · Craig Russell"
-          ],
-          "wins": [
-            "Oso de Plata · mejor actor · Craig Russell"
-          ]
-        },
-        {
-          "title": "Smierc prezydenta",
-          "director": "Jerzy Kawalerowicz",
-          "award": "Oso de Plata · contribución artística destacada · Jerzy Kawalerowicz",
-          "nominations": [
-            "Oso de Plata · contribución artística destacada · Jerzy Kawalerowicz"
-          ],
-          "wins": [
-            "Oso de Plata · contribución artística destacada · Jerzy Kawalerowicz"
-          ]
-        },
-        {
-          "title": "El Brigadista",
-          "director": "Octavio Cortázar",
-          "award": "Oso de Plata · contribución artística destacada · Octavio Cortázar",
-          "nominations": [
-            "Oso de Plata · contribución artística destacada · Octavio Cortázar"
-          ],
-          "wins": [
-            "Oso de Plata · contribución artística destacada · Octavio Cortázar"
-          ]
-        },
-        {
-          "title": "Deutschland im Herbst",
-          "director": "Alf Brustellin y otros",
-          "award": "Reconocimiento especial",
-          "nominations": [
-            "Reconocimiento especial"
-          ],
-          "wins": [
-            "Reconocimiento especial"
-          ]
-        }
-      ],
-      "coverageStatus": "partial"
-    },
-    {
-      "festival": "Berlín",
-      "year": 1978,
-      "section": "Cortometrajes · premiados (selección pendiente)",
-      "films": [
-        {
-          "title": "Ascensor",
-          "director": "Tomás Muñoz",
-          "award": "Oso de Oro · cortometraje",
-          "nominations": [
-            "Oso de Oro · cortometraje"
-          ],
-          "wins": [
-            "Oso de Oro · cortometraje"
-          ]
-        },
-        {
-          "title": "Co jsme udelali slepicim",
-          "director": "Vladimír Jiránek y Josef Hekrdle",
-          "award": "Oso de Oro · cortometraje",
-          "nominations": [
-            "Oso de Oro · cortometraje"
-          ],
-          "wins": [
-            "Oso de Oro · cortometraje"
-          ]
-        },
-        {
-          "title": "The Contraption",
-          "director": "James Dearden",
-          "award": "Oso de Plata · Premio del Jurado · cortometraje",
-          "nominations": [
-            "Oso de Plata · Premio del Jurado · cortometraje"
-          ],
-          "wins": [
-            "Oso de Plata · Premio del Jurado · cortometraje"
-          ]
-        },
-        {
-          "title": "Une vieille soupière",
-          "director": "Michel Longuet",
-          "award": "Oso de Plata · Premio del Jurado · cortometraje",
-          "nominations": [
-            "Oso de Plata · Premio del Jurado · cortometraje"
-          ],
-          "wins": [
-            "Oso de Plata · Premio del Jurado · cortometraje"
-          ]
-        }
-      ],
-      "coverageStatus": "partial"
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1978,
-      "section": "Sección Oficial · largometrajes (extracto parcial, no exhaustivo)",
-      "films": [
-        {
-          "title": "A Wedding",
-          "director": "Robert Altman",
-          "award": "Premio San Sebastián · mejor interpretación femenina · Carol Burnett",
-          "nominations": [
-            "Premio San Sebastián · mejor interpretación femenina · Carol Burnett"
-          ],
-          "wins": [
-            "Premio San Sebastián · mejor interpretación femenina · Carol Burnett"
-          ],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY",
-          "aliases": [
-            "Un día de boda"
-          ]
-        },
-        {
-          "title": "Alambrista!",
-          "director": "Robert M. Young",
-          "award": "Concha de Oro",
-          "nominations": [
-            "Concha de Oro"
-          ],
-          "wins": [
-            "Concha de Oro"
-          ],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY",
-          "aliases": [
-            "¡Alambrista!"
-          ]
-        },
-        {
-          "title": "Convoy",
-          "director": "Sam Peckinpah",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "El asesino de Pedralbes",
-          "director": "Gonzalo Herralde",
-          "award": "Perla del Cantábrico · mejor largometraje de habla hispana",
-          "nominations": [
-            "Perla del Cantábrico · mejor largometraje de habla hispana"
-          ],
-          "wins": [
-            "Perla del Cantábrico · mejor largometraje de habla hispana"
-          ],
-          "filmAffinityId": "451292",
-          "filmaffinityTitle": "El asesino de Pedralbes",
-          "aliases": []
-        },
-        {
-          "title": "El lugar sin límites",
-          "director": "Arturo Ripstein",
-          "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Premio Especial del Jurado"
-          ],
-          "wins": [
-            "Premio Especial del Jurado"
-          ],
-          "filmAffinityId": "807959",
-          "filmaffinityTitle": "El lugar sin límites",
-          "aliases": []
-        },
-        {
-          "title": "En och en",
-          "director": "Erland Josephson; Sven Nykvist; Ingrid Thulin",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Il ritorno di Casanova",
-          "director": "Pasquale Festa Campanile",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Jaque a la dama",
-          "director": "Francisco Rodríguez",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Le dossier 51",
-          "director": "Michel Deville",
-          "award": "Concha de Plata",
-          "nominations": [
-            "Concha de Plata"
-          ],
-          "wins": [
-            "Concha de Plata"
-          ],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY",
-          "aliases": [
-            "El dossier 51"
-          ]
-        },
-        {
-          "title": "Les liens de sang",
-          "director": "Claude Chabrol",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Olyan mint otthon",
-          "director": "",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Pablo",
-          "director": "Víctor Casaus",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Rekolekcje",
-          "director": "Witold Leszczyński",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Se busca muchacha de buena presencia y motorizado con moto propia",
-          "director": "Alfredo J. Anzola",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Skytten",
-          "director": "Tom Hedegaard",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Smyatenie chuvstv",
-          "director": "Pável Arsénov",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Sonámbulos",
-          "director": "Manuel Gutiérrez Aragón",
-          "award": "Concha de Plata · mejor dirección",
-          "nominations": [
-            "Concha de Plata · mejor dirección"
-          ],
-          "wins": [
-            "Concha de Plata · mejor dirección"
-          ],
-          "filmAffinityId": "608463",
-          "filmaffinityTitle": "Sonámbulos",
-          "aliases": []
-        },
-        {
-          "title": "Stín létajícího ptácka",
-          "director": "Jaroslav Balík",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "The Class of Miss MacMichael",
-          "director": "Silvio Narizzano",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Un hombre llamado Flor de Otoño",
-          "director": "Pedro Olea",
-          "award": "Premio San Sebastián · mejor interpretación masculina · José Sacristán",
-          "nominations": [
-            "Premio San Sebastián · mejor interpretación masculina · José Sacristán"
-          ],
-          "wins": [
-            "Premio San Sebastián · mejor interpretación masculina · José Sacristán"
-          ],
-          "filmAffinityId": "113587",
-          "filmaffinityTitle": "Un hombre llamado Flor de Otoño",
-          "aliases": []
-        },
-        {
-          "title": "Utopia",
-          "director": "Iradj Azimi",
-          "award": "En competición",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Olyan mint otthon",
-          "director": "Márta Mészáros",
-          "award": "Concha de Plata",
-          "nominations": [
-            "Concha de Plata"
-          ],
-          "wins": [
-            "Concha de Plata"
-          ]
-        }
-      ],
-      "coverageStatus": "partial"
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1978,
-      "section": "Fuera de concurso · listado parcial",
-      "films": [
-        {
-          "title": "Al servicio de la mujer española",
-          "director": "Jaime de Armiñán",
-          "award": "Fuera de concurso",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        },
-        {
-          "title": "Interiors",
-          "director": "Woody Allen",
-          "award": "Fuera de concurso",
-          "nominations": [],
-          "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
-        }
-      ],
-      "coverageStatus": "partial"
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1978,
-      "section": "Cortometrajes · listado parcial (extracto archivístico incompleto)",
-      "films": [
         {
           "title": "Argeles",
           "director": "",
           "award": "Cortometraje · sección oficial",
           "nominations": [],
           "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "aliases": []
         },
         {
           "title": "Au soir des chasses",
@@ -1236,10 +4161,10 @@
           "award": "Cortometraje · sección oficial",
           "nominations": [],
           "wins": [],
-          "identityStatus": "PENDIENTE_ID_FILMAFFINITY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "aliases": []
         }
-      ],
-      "coverageStatus": "partial"
+      ]
     }
   ],
   "coverageStatus": "partial"
