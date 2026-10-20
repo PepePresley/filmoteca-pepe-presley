@@ -1,7 +1,7 @@
 {
   "year": 1979,
-  "status": "CONSTRUIDO_PARCIAL",
-  "scope": "Festival de Cannes: selección oficial y premios; faltan selección y palmarés completos de Berlín, Venecia, San Sebastián, Oscar y BAFTA para igualar el alcance de los ejemplos 1982. San Sebastián: solo palmarés de películas premiadas integrado; selección completa pendiente. Venecia: comprobada ausencia de edición competitiva 1977–1978 y naturaleza no competitiva en 1979; programa/selección 1979 pendiente.",
+  "status": "CONSTRUIDO_CON_SALVEDADES",
+  "scope": "Familias principales de 1979 construidas por método práctico. Cannes y Berlín preservados; Oscar (51.ª edición), BAFTA cine, programas principales no competitivos de Venecia y Sección Oficial de San Sebastián completados. No equivale a auditoría exhaustiva de identidades, retrospectivas ni programas paralelos.",
   "sources": [
     "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_1979",
     "https://www.festival-cannes.com/en/retrospective/1979/selection/",
@@ -61,7 +61,12 @@
     "https://www.imdb.com/title/tt0079940/",
     "https://www.imdb.com/title/tt0263105/",
     "https://www.imdb.com/title/tt0263249/",
-    "https://www.labiennale.org/en/history-venice-film-festival"
+    "https://www.labiennale.org/en/history-venice-film-festival",
+    "https://www.oscars.org/oscars/ceremonies/1979",
+    "https://www.bafta.org/awards/film/?award-year=1979",
+    "https://asac.labiennale.org/attivita/cinema/annali?anno=1979",
+    "https://fipresci.org/festival/36th-venice-film-festival/",
+    "https://www.filmaffinity.com/es/film231512.html"
   ],
   "masters": [
     "Catalogo_Telegram_1977.xlsx",
@@ -104,20 +109,6 @@
     },
     {
       "year": 1979,
-      "festival": "San Sebastián",
-      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
-      "films": 9,
-      "declaredOwned": 4
-    },
-    {
-      "year": 1979,
-      "festival": "San Sebastián",
-      "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)",
-      "films": 1,
-      "declaredOwned": 0
-    },
-    {
-      "year": 1979,
       "festival": "Berlín",
       "section": "Competición oficial · archivo Berlinale 1979 (25 títulos; pendientes FA/propiedad indicados)",
       "films": 25,
@@ -129,58 +120,82 @@
       "section": "Competición oficial · cortometrajes (archivo Berlinale 1979; pendientes FA/propiedad)",
       "films": 9,
       "declaredOwned": 0
+    },
+    {
+      "year": 1979,
+      "festival": "Oscar",
+      "section": "Premios Oscar · 51.ª edición",
+      "films": 48,
+      "declaredOwned": 33
+    },
+    {
+      "year": 1979,
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1978",
+      "films": 21,
+      "declaredOwned": 15
+    },
+    {
+      "year": 1979,
+      "festival": "Venecia",
+      "section": "Venezia Cinema 79 · no competitiva",
+      "films": 23,
+      "declaredOwned": 12
+    },
+    {
+      "year": 1979,
+      "festival": "Venecia",
+      "section": "Officina Veneziana · no competitiva",
+      "films": 12,
+      "declaredOwned": 1
+    },
+    {
+      "year": 1979,
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 24,
+      "declaredOwned": 11
+    },
+    {
+      "year": 1979,
+      "festival": "San Sebastián",
+      "section": "Nuevos Realizadores · películas premiadas",
+      "films": 2,
+      "declaredOwned": 1
+    },
+    {
+      "year": 1979,
+      "festival": "San Sebastián",
+      "section": "Palmarés · cortometrajes",
+      "films": 1,
+      "declaredOwned": 0
     }
   ],
   "notes": [
-    "No se declara cerrado: quedan bloques aplicables parciales o sin integrar.",
-    "Propiedad: 42 referencias activas a filas de maestro; 3 registros con conflicto/propiedad pendiente.",
-    "Las selecciones y categorías marcadas parciales no certifican exhaustividad. Se conservan las extracciones consultadas en extracciones/."
+    "Propiedad cruzada en bloque con maestros aprobados de 1977–1980; referencias de las nuevas declaraciones comprobadas en filas físicas. No se investigan individualmente las ausencias.",
+    "FilmAffinity no incluye todas las candidaturas documentales y de cortometraje Oscar; completadas desde Academy. Adaptación musical y premio especial de efectos visuales conservan su naturaleza histórica.",
+    "BAFTA incluye solo cine. La tarjeta conjunta de John Williams se separa: gana Star Wars, Encuentros en la tercera fase es candidata. Soundtrack se etiqueta sonido. Se añaden los cuatro cortos documentales de BAFTA.",
+    "Venecia 1979 no fue competitiva: se incorporan 23 títulos de Venezia Cinema 79 y 12 de Officina Veneziana según ASAC. Premios FIPRESCI conservados; no se inventa León de Oro. Retrospectivas y otros talleres quedan fuera de este alcance.",
+    "San Sebastián: 24 largometrajes oficiales, cuatro fuera de concurso con etiqueta; Nuevos Realizadores y corto premiado conservados aparte. No se declara completa la selección de cortometrajes ni Nuevos Realizadores.",
+    "La página oficial de San Sebastián contiene un error SQL que copia el director anterior para La batalla de Chile III: se usa la identidad FilmAffinity de Patricio Guzmán.",
+    "Cannes y Berlín se reutilizan tal como estaban publicados, con sus pendientes y salvedades. No reauditar sin error concreto.",
+    "Los títulos sin ID FA se conservan con identidad de programa/candidatura oficial, sin inventar identificadores ni imágenes."
   ],
-  "coverageStatus": "partial",
+  "coverageStatus": "constructed_with_caveats",
   "coverage": {
-    "completeBlocks": [],
-    "partialBlocks": [
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Un Certain Regard"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Fuera de concurso · largometrajes"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial · cortometrajes"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "Berlín",
-        "section": "Competición oficial · archivo Berlinale 1979 (25 títulos; pendientes FA/propiedad indicados)"
-      },
-      {
-        "festival": "Berlín",
-        "section": "Competición oficial · cortometrajes (archivo Berlinale 1979; pendientes FA/propiedad)"
-      },
-      {
-        "festival": "Venecia",
-        "section": "Programa no competitivo · selección no integrada"
-      }
-    ],
-    "notHeldBlocks": [],
-    "missingOrUncompiledFestivals": [
+    "constructedMainFamilies": [
+      "Cannes",
+      "Berlín",
+      "Venecia",
+      "San Sebastián",
       "Oscar",
       "BAFTA"
+    ],
+    "method": "Construcción práctica; no auditoría exhaustiva",
+    "remainingCaveats": [
+      "Berlín y Cannes conservan sus pendientes documentales de la entrega previa.",
+      "San Sebastián: Nuevos Realizadores y cortometrajes limitados al palmarés ya publicado.",
+      "Venecia: programas principales, no retrospectivas ni todos los laboratorios."
     ]
   },
   "preparationPackage": {
@@ -192,14 +207,5 @@
     "Los bloques ausentes no se consideran completos. La propiedad no acreditada se conserva pendiente.",
     "Las selecciones vacías se documentan como cobertura pendiente o no celebrada; no se publican como listas de películas."
   ],
-  "unpublishedEmptySections": [
-    {
-      "festival": "Venecia",
-      "year": 1979,
-      "section": "Programa no competitivo · selección no integrada",
-      "films": [],
-      "coverageStatus": "partial",
-      "notes": "La página histórica oficial de La Biennale sitúa la abolición de premios hasta 1979. El programa completo de esta actividad no se ha integrado; no se inventan títulos ni premios."
-    }
-  ]
+  "completionDate": "2026-10-20"
 }

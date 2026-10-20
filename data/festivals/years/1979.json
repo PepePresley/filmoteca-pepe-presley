@@ -770,135 +770,6 @@
       ]
     },
     {
-      "festival": "San Sebastián",
-      "year": 1979,
-      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
-      "films": [
-        {
-          "title": "Osenniy marafon",
-          "director": "Georgiy Daneliya",
-          "award": "Concha de Oro",
-          "nominations": [
-            "Concha de Oro"
-          ],
-          "wins": [
-            "Concha de Oro"
-          ]
-        },
-        {
-          "title": "Angi Vera",
-          "director": "Pál Gábor",
-          "award": "Concha de Plata · mejor dirección",
-          "nominations": [
-            "Concha de Plata · mejor dirección"
-          ],
-          "wins": [
-            "Concha de Plata · mejor dirección"
-          ]
-        },
-        {
-          "title": "Alien",
-          "director": "Ridley Scott",
-          "award": "Concha de Plata · mejor fotografía y efectos especiales",
-          "nominations": [
-            "Concha de Plata · mejor fotografía y efectos especiales"
-          ],
-          "wins": [
-            "Concha de Plata · mejor fotografía y efectos especiales"
-          ],
-          "filmAffinityId": "708792",
-          "aliases": [
-            "Alien: El octavo pasajero"
-          ]
-        },
-        {
-          "title": "Il piccolo Archimede",
-          "director": "Gianni Amelio",
-          "award": "Premio San Sebastián · mejor interpretación femenina · Laura Betti",
-          "nominations": [
-            "Premio San Sebastián · mejor interpretación femenina · Laura Betti"
-          ],
-          "wins": [
-            "Premio San Sebastián · mejor interpretación femenina · Laura Betti"
-          ]
-        },
-        {
-          "title": "Prisioneros desaparecidos",
-          "director": "Sergio Castilla",
-          "award": "Premio San Sebastián · mejor interpretación masculina · Nelson Villagra",
-          "nominations": [
-            "Premio San Sebastián · mejor interpretación masculina · Nelson Villagra"
-          ],
-          "wins": [
-            "Premio San Sebastián · mejor interpretación masculina · Nelson Villagra"
-          ]
-        },
-        {
-          "title": "Mamá cumple cien años",
-          "director": "Carlos Saura",
-          "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Premio Especial del Jurado"
-          ],
-          "wins": [
-            "Premio Especial del Jurado"
-          ]
-        },
-        {
-          "title": "El proceso de Burgos",
-          "director": "Imanol Uribe",
-          "award": "Perla del Cantábrico · mejor película de habla hispana",
-          "nominations": [
-            "Perla del Cantábrico · mejor película de habla hispana"
-          ],
-          "wins": [
-            "Perla del Cantábrico · mejor película de habla hispana"
-          ],
-          "filmAffinityId": "435816"
-        },
-        {
-          "title": "Gamín",
-          "director": "Ciro Durán",
-          "award": "Premio Donostia para Nuevos Realizadores (ex aequo)",
-          "nominations": [
-            "Premio Donostia para Nuevos Realizadores (ex aequo)"
-          ],
-          "wins": [
-            "Premio Donostia para Nuevos Realizadores (ex aequo)"
-          ]
-        },
-        {
-          "title": "Un’emozione in più",
-          "director": "Francesco Longo",
-          "award": "Premio Donostia para Nuevos Realizadores (ex aequo)",
-          "nominations": [
-            "Premio Donostia para Nuevos Realizadores (ex aequo)"
-          ],
-          "wins": [
-            "Premio Donostia para Nuevos Realizadores (ex aequo)"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "San Sebastián",
-      "year": 1979,
-      "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)",
-      "films": [
-        {
-          "title": "Ikuska 3",
-          "director": "Antton Merikaetxeberria",
-          "award": "Concha de Oro · cortometraje",
-          "nominations": [
-            "Concha de Oro · cortometraje"
-          ],
-          "wins": [
-            "Concha de Oro · cortometraje"
-          ]
-        }
-      ]
-    },
-    {
       "festival": "Berlín",
       "year": 1979,
       "section": "Competición oficial · archivo Berlinale 1979 (25 títulos; pendientes FA/propiedad indicados)",
@@ -1319,6 +1190,2053 @@
           "identityStatus": "IMDb_EVENT_CONFIRMED_FA_ID_PENDING",
           "imdbEventUrl": "https://www.imdb.com/event/ev0000147/1979/1/",
           "imdbIdentityNote": "IMDb lista The Waltzing Policemen — Kerry Feltham entre cortos Cannes 1979. Sin ID individual; FA España y propiedad pendientes."
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 1979,
+      "section": "Premios Oscar · 51.ª edición",
+      "films": [
+        {
+          "title": "El cazador",
+          "nominations": [
+            "Película",
+            "Dirección · Michael Cimino",
+            "Actor protagonista · Robert De Niro",
+            "Actor de reparto · Christopher Walken",
+            "Actriz de reparto · Meryl Streep",
+            "Guion original · Michael Cimino, Deric Washburn , Louis Garfinkle, Quinn K. Redeker",
+            "Montaje · Peter Zinner",
+            "Fotografía · Vilmos Zsigmond",
+            "Sonido · Richard Portman, William L. McCaughey, Aaron Rochin, C. Darin Knight"
+          ],
+          "wins": [
+            "Película",
+            "Dirección · Michael Cimino",
+            "Actor de reparto · Christopher Walken",
+            "Montaje · Peter Zinner",
+            "Sonido · Richard Portman, William L. McCaughey, Aaron Rochin, C. Darin Knight"
+          ],
+          "filmAffinityId": "764534",
+          "director": "Michael Cimino",
+          "filmaffinityTitle": "El cazador",
+          "aliases": [
+            "The Deer Hunter"
+          ],
+          "award": "Película · Dirección · Michael Cimino · Actor de reparto · Christopher Walken · Montaje · Peter Zinner · Sonido · Richard Portman, William L. McCaughey, Aaron Rochin, C. Darin Knight",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El regreso",
+          "nominations": [
+            "Película",
+            "Dirección · Hal Ashby",
+            "Actriz protagonista · Jane Fonda",
+            "Actor protagonista · Jon Voight",
+            "Actor de reparto · Bruce Dern",
+            "Actriz de reparto · Penelope Milford",
+            "Guion original · Nancy Dowd, Waldo Salt, Robert C. Jones",
+            "Montaje · Don Zimmerman"
+          ],
+          "wins": [
+            "Actriz protagonista · Jane Fonda",
+            "Actor protagonista · Jon Voight",
+            "Guion original · Nancy Dowd, Waldo Salt, Robert C. Jones"
+          ],
+          "filmAffinityId": "163561",
+          "director": "Hal Ashby",
+          "filmaffinityTitle": "El regreso",
+          "aliases": [
+            "Coming Home"
+          ],
+          "award": "Actriz protagonista · Jane Fonda · Actor protagonista · Jon Voight · Guion original · Nancy Dowd, Waldo Salt, Robert C. Jones",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El cielo puede esperar",
+          "nominations": [
+            "Película",
+            "Dirección · Warren Beatty",
+            "Actor protagonista · Warren Beatty",
+            "Actor de reparto · Jack Warden",
+            "Actriz de reparto · Dyan Cannon",
+            "Guion adaptado · Warren Beatty, Elaine May",
+            "Fotografía · William A. Fraker",
+            "Banda sonora · Dave Grusin",
+            "Diseño de producción · Paul Sylbert, Edwin O'Donovan, George Gaines"
+          ],
+          "wins": [
+            "Diseño de producción · Paul Sylbert, Edwin O'Donovan, George Gaines"
+          ],
+          "filmAffinityId": "281963",
+          "director": "Warren Beatty, Buck Henry",
+          "filmaffinityTitle": "El cielo puede esperar",
+          "aliases": [
+            "Heaven Can Wait"
+          ],
+          "award": "Diseño de producción · Paul Sylbert, Edwin O'Donovan, George Gaines",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El expreso de medianoche",
+          "nominations": [
+            "Película",
+            "Dirección · Alan Parker",
+            "Actor de reparto · John Hurt",
+            "Guion adaptado · Oliver Stone",
+            "Montaje · Gerry Hambling",
+            "Banda sonora · Giorgio Moroder"
+          ],
+          "wins": [
+            "Guion adaptado · Oliver Stone",
+            "Banda sonora · Giorgio Moroder"
+          ],
+          "filmAffinityId": "830905",
+          "director": "Alan Parker",
+          "filmaffinityTitle": "El expreso de medianoche",
+          "aliases": [
+            "Midnight Express"
+          ],
+          "award": "Guion adaptado · Oliver Stone · Banda sonora · Giorgio Moroder",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Una mujer descasada",
+          "nominations": [
+            "Película",
+            "Actriz protagonista · Jill Clayburgh",
+            "Guion original · Paul Mazursky"
+          ],
+          "wins": [],
+          "filmAffinityId": "152305",
+          "director": "Paul MAZURSKY",
+          "filmaffinityTitle": "Una mujer descasada",
+          "aliases": [
+            "AN UNMARRIED WOMAN",
+            "An Unmarried Woman"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Interiores",
+          "nominations": [
+            "Dirección · Woody Allen",
+            "Actriz protagonista · Geraldine Page",
+            "Actriz de reparto · Maureen Stapleton",
+            "Guion original · Woody Allen",
+            "Diseño de producción · Mel Bourne, Daniel Robert"
+          ],
+          "wins": [],
+          "filmAffinityId": "187273",
+          "director": "Woody Allen",
+          "filmaffinityTitle": "Interiores",
+          "aliases": [
+            "Interiors"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Sonata de otoño",
+          "nominations": [
+            "Actriz protagonista · Ingrid Bergman",
+            "Guion original · Ingmar Bergman"
+          ],
+          "wins": [],
+          "filmAffinityId": "334801",
+          "director": "Ingmar Bergman",
+          "filmaffinityTitle": "Sonata de otoño",
+          "aliases": [
+            "Höstsonaten"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El próximo año a la misma hora",
+          "nominations": [
+            "Actriz protagonista · Ellen Burstyn",
+            "Guion adaptado · Bernard Slade",
+            "Fotografía · Robert Surtees",
+            "Canción · Marvin Hamlisch, Alan Bergman, Marilyn Bergman (The Last Time I Felt Like This)"
+          ],
+          "wins": [],
+          "filmAffinityId": "704889",
+          "director": "Robert Mulligan",
+          "filmaffinityTitle": "El próximo año a la misma hora",
+          "aliases": [
+            "El próximo año, a la misma hora",
+            "Same Time, Next Year"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los niños del Brasil",
+          "nominations": [
+            "Actor protagonista · Laurence Olivier",
+            "Montaje · Robert Swink",
+            "Banda sonora · Jerry Goldsmith"
+          ],
+          "wins": [],
+          "filmAffinityId": "210289",
+          "director": "Franklin J. Schaffner",
+          "filmaffinityTitle": "Los niños del Brasil",
+          "aliases": [
+            "The Boys from Brazil"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La historia de Buddy Holly",
+          "nominations": [
+            "Actor protagonista · Gary Busey",
+            "Adaptación musical · Joe Renzetti",
+            "Sonido · Tex Rudloff, Joel Fein, Curly Thirlwell, Willie D. Burton"
+          ],
+          "wins": [
+            "Adaptación musical · Joe Renzetti"
+          ],
+          "filmAffinityId": "303148",
+          "director": "Steve Rash",
+          "filmaffinityTitle": "La historia de Buddy Holly",
+          "aliases": [
+            "The Buddy Holly Story"
+          ],
+          "award": "Adaptación musical · Joe Renzetti",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Llega un jinete libre y salvaje",
+          "nominations": [
+            "Actor de reparto · Richard Farnsworth"
+          ],
+          "wins": [],
+          "filmAffinityId": "851644",
+          "director": "Alan J. Pakula",
+          "filmaffinityTitle": "Llega un jinete libre y salvaje",
+          "aliases": [
+            "Comes a Horseman"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "California Suite",
+          "nominations": [
+            "Actriz de reparto · Maggie Smith",
+            "Guion adaptado · Neil Simon",
+            "Diseño de producción · Albert Brenner, Marvin March"
+          ],
+          "wins": [
+            "Actriz de reparto · Maggie Smith"
+          ],
+          "filmAffinityId": "931711",
+          "director": "Herbert Ross",
+          "filmaffinityTitle": "California Suite",
+          "aliases": [],
+          "award": "Actriz de reparto · Maggie Smith",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "¿Quiere ser el amante de mi mujer?",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [
+            "Película internacional"
+          ],
+          "filmAffinityId": "629077",
+          "director": "Bertrand Blier",
+          "filmaffinityTitle": "¿Quiere ser el amante de mi mujer?",
+          "aliases": [
+            "Préparez vos mouchoirs"
+          ],
+          "award": "Película internacional",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "White Bim Black Ear",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "filmAffinityId": "856954",
+          "director": "",
+          "filmaffinityTitle": "White Bim Black Ear",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La celda de cristal",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "filmAffinityId": "178774",
+          "director": "Hans W. Geißendörfer",
+          "filmaffinityTitle": "La celda de cristal",
+          "aliases": [
+            "Die gläserne Zelle"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Húngaros",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "filmAffinityId": "163512",
+          "director": "Zoltán Fábri",
+          "filmaffinityTitle": "Húngaros",
+          "aliases": [
+            "Húngaros"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "¡Que viva Italia!",
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "filmAffinityId": "531948",
+          "director": "Mario Monicelli, Dino Risi, Ettore Scola",
+          "filmaffinityTitle": "¡Que viva Italia!",
+          "aliases": [
+            "I nuovi mostri"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Stony, sangre caliente",
+          "nominations": [
+            "Guion adaptado · Walter Newman"
+          ],
+          "wins": [],
+          "filmAffinityId": "593229",
+          "director": "Robert Mulligan",
+          "filmaffinityTitle": "Stony, sangre caliente",
+          "aliases": [
+            "Bloodbrothers"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Superman",
+          "nominations": [
+            "Montaje · Stuart Baird",
+            "Banda sonora · John Williams",
+            "Sonido · Gordon K. McCallum, Graham V. Hartstone, Nicolas Le Messurier, Roy Charman",
+            "Premio especial · efectos visuales · Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zoran Perisic"
+          ],
+          "wins": [
+            "Premio especial · efectos visuales · Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zoran Perisic"
+          ],
+          "filmAffinityId": "170179",
+          "director": "Richard Donner",
+          "filmaffinityTitle": "Superman",
+          "aliases": [],
+          "award": "Premio especial · efectos visuales · Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zoran Perisic",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Días del cielo",
+          "nominations": [
+            "Fotografía · Néstor Almendros",
+            "Banda sonora · Ennio Morricone",
+            "Vestuario · Patricia Norris",
+            "Sonido · John Wilkinson, Robert W. Glass Jr., John T. Reitz, Barry Thomas"
+          ],
+          "wins": [
+            "Fotografía · Néstor Almendros"
+          ],
+          "filmAffinityId": "676866",
+          "director": "Terrence MALICK",
+          "filmaffinityTitle": "Días del cielo",
+          "aliases": [
+            "DAYS OF HEAVEN",
+            "Days of Heaven"
+          ],
+          "award": "Fotografía · Néstor Almendros",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El mago",
+          "nominations": [
+            "Fotografía · Oswald Morris",
+            "Adaptación musical · Quincy Jones",
+            "Diseño de producción · Tony Walton, Philip Rosenberg, Edward Stewart, Robert Drumheller",
+            "Vestuario · Tony Walton"
+          ],
+          "wins": [],
+          "filmAffinityId": "472801",
+          "director": "Sidney Lumet",
+          "filmaffinityTitle": "El mago",
+          "aliases": [
+            "The Wiz"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Por fin ya es viernes",
+          "nominations": [
+            "Canción · Paul Jabara (Last Dance)"
+          ],
+          "wins": [
+            "Canción · Paul Jabara (Last Dance)"
+          ],
+          "filmAffinityId": "775717",
+          "director": "Robert Klane",
+          "filmaffinityTitle": "Por fin ya es viernes",
+          "aliases": [
+            "Thank God It's Friday"
+          ],
+          "award": "Canción · Paul Jabara (Last Dance)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Juego peligroso",
+          "nominations": [
+            "Canción · Charles Fox, Norman Gimbel (Ready to Take a Chance Again)"
+          ],
+          "wins": [],
+          "filmAffinityId": "491225",
+          "director": "Colin Higgins",
+          "filmaffinityTitle": "Juego peligroso",
+          "aliases": [
+            "Foul Play"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Grease",
+          "nominations": [
+            "Canción · John Farrar (Hopelessly Devoted to You)"
+          ],
+          "wins": [],
+          "filmAffinityId": "442365",
+          "director": "Randal Kleiser",
+          "filmaffinityTitle": "Grease",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La magia de Lassie",
+          "nominations": [
+            "Canción · Richard M. Sherman, Robert B. Sherman (When You're Loved)"
+          ],
+          "wins": [],
+          "filmAffinityId": "377976",
+          "director": "Don Chaffey",
+          "filmaffinityTitle": "La magia de Lassie",
+          "aliases": [
+            "The Magic of Lassie"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La pequeña",
+          "nominations": [
+            "Adaptación musical · Jerry Wexler"
+          ],
+          "wins": [],
+          "filmAffinityId": "198877",
+          "director": "Louis Malle",
+          "filmaffinityTitle": "La pequeña",
+          "aliases": [
+            "Pretty Baby"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El mayor robo del siglo",
+          "nominations": [
+            "Diseño de producción · Dean Tavoularis, Angelo P. Graham, George R. Nelson"
+          ],
+          "wins": [],
+          "filmAffinityId": "146316",
+          "director": "William Friedkin",
+          "filmaffinityTitle": "El mayor robo del siglo",
+          "aliases": [
+            "The Brink's Job"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Muerte en el Nilo",
+          "nominations": [
+            "Vestuario · Anthony Powell"
+          ],
+          "wins": [
+            "Vestuario · Anthony Powell"
+          ],
+          "filmAffinityId": "373869",
+          "director": "John Guillermin",
+          "filmaffinityTitle": "Muerte en el Nilo",
+          "aliases": [
+            "Death on the Nile"
+          ],
+          "award": "Vestuario · Anthony Powell",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Caravanas",
+          "nominations": [
+            "Vestuario · Renié"
+          ],
+          "wins": [],
+          "filmAffinityId": "706652",
+          "director": "James Fargo",
+          "filmaffinityTitle": "Caravanas",
+          "aliases": [
+            "Caravans"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El enjambre",
+          "nominations": [
+            "Vestuario · Paul Zastupnevich"
+          ],
+          "wins": [],
+          "filmAffinityId": "997791",
+          "director": "Irwin Allen",
+          "filmaffinityTitle": "El enjambre",
+          "aliases": [
+            "The Swarm"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Hooper, el increíble",
+          "nominations": [
+            "Sonido · Robert Knudson, Robert Glass, Don MacDougall, Jack Solomon"
+          ],
+          "wins": [],
+          "filmAffinityId": "557824",
+          "director": "Hal Needham",
+          "filmaffinityTitle": "Hooper, el increíble",
+          "aliases": [
+            "Hooper"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Entrega especial",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [
+            "Cortometraje de animación"
+          ],
+          "filmAffinityId": "744596",
+          "director": "",
+          "filmaffinityTitle": "Entrega especial",
+          "aliases": [],
+          "award": "Cortometraje de animación",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Oh My Darling",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "filmAffinityId": "936461",
+          "director": "Børge Ring",
+          "filmaffinityTitle": "Oh My Darling",
+          "aliases": [
+            "Oh My Darling..."
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Rip Van Winkle",
+          "nominations": [
+            "Cortometraje de animación"
+          ],
+          "wins": [],
+          "filmAffinityId": "256669",
+          "director": "Will Vinton",
+          "filmaffinityTitle": "Rip Van Winkle",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Scared Straight!",
+          "nominations": [
+            "Documental"
+          ],
+          "wins": [
+            "Documental"
+          ],
+          "filmAffinityId": "685057",
+          "director": "Arnold Shapiro",
+          "filmaffinityTitle": "Scared Straight!",
+          "aliases": [],
+          "award": "Documental",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Teenage Father",
+          "nominations": [
+            "Cortometraje de ficción"
+          ],
+          "wins": [
+            "Cortometraje de ficción"
+          ],
+          "filmAffinityId": "323460",
+          "director": "",
+          "filmaffinityTitle": "Teenage Father",
+          "aliases": [],
+          "award": "Cortometraje de ficción",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Lovers' Wind",
+          "director": "",
+          "nominations": [
+            "Documental · Albert Lamorisse"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mysterious Castles of Clay",
+          "director": "",
+          "nominations": [
+            "Documental · Alan Root"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Raoni",
+          "director": "",
+          "nominations": [
+            "Documental · Jean-Pierre Dutilleux, Barry Williams, Michel Gast"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "With Babies and Banners: Story of the Women's Emergency Brigade",
+          "director": "",
+          "nominations": [
+            "Documental · Anne Bohlen, Lyn Goldfarb, Lorraine Gray"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Flight of the Gossamer Condor",
+          "director": "",
+          "nominations": [
+            "Cortometraje documental · Jacqueline Phillips Shedd, Ben Shedd"
+          ],
+          "wins": [
+            "Cortometraje documental · Jacqueline Phillips Shedd, Ben Shedd"
+          ],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "Cortometraje documental · Jacqueline Phillips Shedd, Ben Shedd",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Divided Trail: A Native American Odyssey",
+          "director": "",
+          "nominations": [
+            "Cortometraje documental · Jerry Aronson"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "An Encounter with Faces",
+          "director": "",
+          "nominations": [
+            "Cortometraje documental · K.K. Kapil"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Goodnight Miss Ann",
+          "director": "",
+          "nominations": [
+            "Cortometraje documental · August Cinquegrana"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Squires of San Quentin",
+          "director": "",
+          "nominations": [
+            "Cortometraje documental · J. Gary Mitchell"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A Different Approach",
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción · Jim Belcher, Fern Field"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mandy's Grandmother",
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción · Andrew Sugerman"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Strange Fruit",
+          "director": "",
+          "nominations": [
+            "Cortometraje de ficción · Seth Pinsker"
+          ],
+          "wins": [],
+          "identitySource": "https://www.oscars.org/oscars/ceremonies/1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "year": 1979,
+      "section": "Premios de cine · películas de 1978",
+      "films": [
+        {
+          "title": "Julia",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Fred Zinnemann",
+            "Mejor actriz · Jane Fonda",
+            "Mejor actor de reparto · Jason Robards",
+            "Mejor guion · Alvin Sargent",
+            "Mejor fotografía · Douglas Slocombe",
+            "Mejor montaje · Walter Murch",
+            "Mejor diseño de producción · Gene Callahan, Willy Holt, Carmen Dillon",
+            "Mejor vestuario · Anthea Sylbert, Joan Bridge, Annalisa Nasalli-Rocca",
+            "Mejor música original · Georges Delerue"
+          ],
+          "wins": [
+            "Mejor película",
+            "Mejor actriz · Jane Fonda",
+            "Mejor guion · Alvin Sargent",
+            "Mejor fotografía · Douglas Slocombe"
+          ],
+          "filmAffinityId": "610762",
+          "director": "Fred Zinnemann",
+          "filmaffinityTitle": "Julia",
+          "aliases": [],
+          "award": "Mejor película · Mejor actriz · Jane Fonda · Mejor guion · Alvin Sargent · Mejor fotografía · Douglas Slocombe",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El expreso de medianoche",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Alan Parker",
+            "Mejor actor · Brad Davis",
+            "Mejor actor de reparto · John Hurt",
+            "Mejor intérprete revelación · Brad Davis",
+            "Mejor montaje · Gerry Hambling"
+          ],
+          "wins": [
+            "Mejor dirección · Alan Parker",
+            "Mejor actor de reparto · John Hurt",
+            "Mejor montaje · Gerry Hambling"
+          ],
+          "filmAffinityId": "830905",
+          "director": "Alan Parker",
+          "filmaffinityTitle": "El expreso de medianoche",
+          "aliases": [
+            "Midnight Express"
+          ],
+          "award": "Mejor dirección · Alan Parker · Mejor actor de reparto · John Hurt · Mejor montaje · Gerry Hambling",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+          "nominations": [
+            "Mejor película",
+            "Mejor montaje · Paul Hirsch",
+            "Mejor sonido · Sam Shaw, Robert R. Rutledge, Gordon Davidson, Gene Corso, Derek Ball, Don MacDougall, Bob Minkler, Ray West, Michael Minkler, Les Fresholtz, Richard Portman, Ben Burtt",
+            "Mejor diseño de producción · John Barry",
+            "Mejor vestuario · John Mollo",
+            "Mejor música original · John Williams"
+          ],
+          "wins": [
+            "Mejor sonido · Sam Shaw, Robert R. Rutledge, Gordon Davidson, Gene Corso, Derek Ball, Don MacDougall, Bob Minkler, Ray West, Michael Minkler, Les Fresholtz, Richard Portman, Ben Burtt",
+            "Mejor música original · John Williams"
+          ],
+          "filmAffinityId": "712041",
+          "director": "",
+          "filmaffinityTitle": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+          "aliases": [],
+          "award": "Mejor sonido · Sam Shaw, Robert R. Rutledge, Gordon Davidson, Gene Corso, Derek Ball, Don MacDougall, Bob Minkler, Ray West, Michael Minkler, Les Fresholtz, Richard Portman, Ben Burtt · Mejor música original · John Williams",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Encuentros en la tercera fase",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Steven Spielberg",
+            "Mejor actor de reparto · François Truffaut",
+            "Mejor guion · Steven Spielberg",
+            "Mejor fotografía · Vilmos Zsigmond",
+            "Mejor montaje · Michael Kahn",
+            "Mejor sonido · Gene S. Cantamessa, Robert Knudson, Don MacDougall, Robert Glass, Stephen Katz, Frank E. Warner, Richard Oswald, David M. Horton, Sam Gemette, Gary S. Gerlich, Chester Slomka, Neil Burrow",
+            "Mejor diseño de producción · Joe Alves",
+            "Mejor música original · John Williams"
+          ],
+          "wins": [
+            "Mejor diseño de producción · Joe Alves"
+          ],
+          "filmAffinityId": "941282",
+          "director": "Steven Spielberg",
+          "filmaffinityTitle": "Encuentros en la tercera fase",
+          "aliases": [
+            "Close Encounters of the Third Kind"
+          ],
+          "award": "Mejor diseño de producción · Joe Alves",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Un día de boda",
+          "nominations": [
+            "Mejor dirección · Robert Altman",
+            "Mejor guion · John Considine"
+          ],
+          "wins": [],
+          "filmAffinityId": "196905",
+          "director": "Robert Altman",
+          "filmaffinityTitle": "Un día de boda",
+          "aliases": [
+            "A Wedding"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La chica del adiós",
+          "nominations": [
+            "Mejor actor · Richard Dreyfuss",
+            "Mejor actriz · Marsha Mason",
+            "Mejor guion · Neil Simon"
+          ],
+          "wins": [
+            "Mejor actor · Richard Dreyfuss"
+          ],
+          "filmAffinityId": "881594",
+          "director": "Herbert Ross",
+          "filmaffinityTitle": "La chica del adiós",
+          "aliases": [
+            "The Goodbye Girl"
+          ],
+          "award": "Mejor actor · Richard Dreyfuss",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Muerte en el Nilo",
+          "nominations": [
+            "Mejor actor · Peter Ustinov",
+            "Mejor actriz de reparto · Angela Lansbury",
+            "Mejor actriz de reparto · Maggie Smith",
+            "Mejor vestuario · Anthony Powell"
+          ],
+          "wins": [
+            "Mejor vestuario · Anthony Powell"
+          ],
+          "filmAffinityId": "373869",
+          "director": "John Guillermin",
+          "filmaffinityTitle": "Muerte en el Nilo",
+          "aliases": [
+            "Death on the Nile"
+          ],
+          "award": "Mejor vestuario · Anthony Powell",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Magic - El muñeco diabólico",
+          "nominations": [
+            "Mejor actor · Anthony Hopkins"
+          ],
+          "wins": [],
+          "filmAffinityId": "463794",
+          "director": "Richard Attenborough",
+          "filmaffinityTitle": "Magic - El muñeco diabólico",
+          "aliases": [
+            "Magic: El muñeco diabólico",
+            "Magic"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Una mujer descasada",
+          "nominations": [
+            "Mejor actriz · Jill Clayburgh"
+          ],
+          "wins": [],
+          "filmAffinityId": "152305",
+          "director": "Paul MAZURSKY",
+          "filmaffinityTitle": "Una mujer descasada",
+          "aliases": [
+            "AN UNMARRIED WOMAN",
+            "An Unmarried Woman"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Paso decisivo",
+          "nominations": [
+            "Mejor actriz · Anne Bancroft"
+          ],
+          "wins": [],
+          "filmAffinityId": "857259",
+          "director": "Herbert Ross",
+          "filmaffinityTitle": "Paso decisivo",
+          "aliases": [
+            "Paso Decisivo",
+            "The Turning Point"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Superman",
+          "nominations": [
+            "Mejor actor de reparto · Gene Hackman",
+            "Mejor intérprete revelación · Christopher Reeve",
+            "Mejor fotografía · Geoffrey Unsworth",
+            "Mejor sonido · Chris Greenham, Gordon K. McCallum, Peter Pennell, Mike Hopkins, Pat Foster, Stan Fiferman, John Foster, Roy Charman, Norman Bolland, Brian Marshall, Charles Schmitz, Richard Raguse, Chris Large",
+            "Mejor diseño de producción · John Barry"
+          ],
+          "wins": [
+            "Mejor intérprete revelación · Christopher Reeve"
+          ],
+          "filmAffinityId": "170179",
+          "director": "Richard Donner",
+          "filmaffinityTitle": "Superman",
+          "aliases": [],
+          "award": "Mejor intérprete revelación · Christopher Reeve",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Interiores",
+          "nominations": [
+            "Mejor actriz de reparto · Geraldine Page",
+            "Mejor intérprete revelación · Mary Beth Hurt"
+          ],
+          "wins": [
+            "Mejor actriz de reparto · Geraldine Page"
+          ],
+          "filmAffinityId": "187273",
+          "director": "Woody Allen",
+          "filmaffinityTitle": "Interiores",
+          "aliases": [
+            "Interiors"
+          ],
+          "award": "Mejor actriz de reparto · Geraldine Page",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Stevie",
+          "nominations": [
+            "Mejor actriz de reparto · Mona Washbourne"
+          ],
+          "wins": [],
+          "filmAffinityId": "343618",
+          "director": "Robert Enders",
+          "filmaffinityTitle": "Stevie",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Las amigas",
+          "nominations": [
+            "Mejor intérprete revelación · Melanie Mayron"
+          ],
+          "wins": [],
+          "filmAffinityId": "982762",
+          "director": "Claudia Weill",
+          "filmaffinityTitle": "Las amigas",
+          "aliases": [
+            "Girlfriends"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los duelistas",
+          "nominations": [
+            "Mejor fotografía · Frank Tidy",
+            "Mejor vestuario · Tom Rand"
+          ],
+          "wins": [],
+          "filmAffinityId": "875283",
+          "director": "Ridley Scott",
+          "filmaffinityTitle": "Los duelistas",
+          "aliases": [
+            "The Duellists"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Fiebre del sábado noche",
+          "nominations": [
+            "Mejor sonido · Michael Colgan, Les Lazarowitz, John Wilkinson, Robert W. Glass Jr., John T. Reitz",
+            "Mejor música original · Barry Gibb"
+          ],
+          "wins": [],
+          "filmAffinityId": "912221",
+          "director": "John Badham",
+          "filmaffinityTitle": "Fiebre del sábado noche",
+          "aliases": [
+            "Saturday Night Fever"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Silent Witness",
+          "nominations": [
+            "Mejor documental"
+          ],
+          "wins": [
+            "Mejor documental"
+          ],
+          "filmAffinityId": "311742",
+          "director": "",
+          "filmaffinityTitle": "The Silent Witness",
+          "aliases": [],
+          "award": "Mejor documental",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Hokusai: An Animated Sketchbook",
+          "director": "",
+          "nominations": [
+            "Mejor cortometraje documental · Tony White"
+          ],
+          "wins": [
+            "Mejor cortometraje documental · Tony White"
+          ],
+          "identitySource": "https://www.bafta.org/awards/film/?award-year=1979",
+          "aliases": [],
+          "award": "Mejor cortometraje documental · Tony White",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Planet Water",
+          "director": "",
+          "nominations": [
+            "Mejor cortometraje documental · Derek Williams"
+          ],
+          "wins": [],
+          "identitySource": "https://www.bafta.org/awards/film/?award-year=1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sunday Muddy Sunday",
+          "director": "",
+          "nominations": [
+            "Mejor cortometraje documental · Lindsay Dale"
+          ],
+          "wins": [],
+          "identitySource": "https://www.bafta.org/awards/film/?award-year=1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "I'll Find a Way",
+          "director": "",
+          "nominations": [
+            "Mejor cortometraje documental · Beverly Shaffer"
+          ],
+          "wins": [],
+          "identitySource": "https://www.bafta.org/awards/film/?award-year=1979",
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1979,
+      "section": "Venezia Cinema 79 · no competitiva",
+      "films": [
+        {
+          "title": "Le vieil Anaï",
+          "director": "Germaine Dieterlen, Jean Rouch",
+          "aliases": [
+            "Funerailles à Bongo: le vieil Anai - 1849-1971",
+            "Il vecchio Anaï",
+            "The Old Anaï"
+          ],
+          "award": "Premio especial FIPRESCI · Jean Rouch y su obra",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11499",
+          "wins": [
+            "Premio especial FIPRESCI · Jean Rouch y su obra"
+          ],
+          "nominations": [
+            "Premio especial FIPRESCI · Jean Rouch y su obra"
+          ],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Passe Montagne",
+          "director": "Jean-François Stévenin",
+          "aliases": [
+            "Passa montagna",
+            "Mountain Pass"
+          ],
+          "award": "Premio FIPRESCI (ex aequo)",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11500",
+          "wins": [
+            "Premio FIPRESCI (ex aequo)"
+          ],
+          "nominations": [
+            "Premio FIPRESCI (ex aequo)"
+          ],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "al-Nahr",
+          "director": "Faisal Al-Yassiri",
+          "aliases": [
+            "Il fiume",
+            "The River"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11502",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Al-saqqa mat",
+          "director": "Salah Abouseif",
+          "aliases": [
+            "Essakkamat",
+            "La morte del portatore d'acqua",
+            "The Water-Carrier Is Dead"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11526",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Anchieta, José do Brasil",
+          "director": "Paulo César Saraceni",
+          "aliases": [
+            "Josè Anjeta, brasiliano",
+            "Josè Anjeta, brasilian"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11498",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Cinema",
+          "director": "Liana Eliava",
+          "aliases": [],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11530",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El super",
+          "director": "Orlando Jimenez Leal, Leon Ichaso",
+          "aliases": [
+            "Il super",
+            "The Super"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11539",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Escape from Alcatraz",
+          "director": "Don Siegel",
+          "aliases": [
+            "Fuga da Alcatraz",
+            "Fuga de Alcatraz"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11541",
+          "filmAffinityId": "991294",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Il prato",
+          "director": "Vittorio Taviani, Paolo Taviani",
+          "aliases": [
+            "The Meadow",
+            "The Lawn"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11504",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Jelenlét",
+          "director": "Miklós Jancsó",
+          "aliases": [
+            "Jelenlet",
+            "Presenza",
+            "Presence"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11519",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Kôsatsu",
+          "director": "Kaneto Shindô",
+          "aliases": [
+            "Kosatsu",
+            "Strangolamento",
+            "The Strangling",
+            "絞殺"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11501",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La luna",
+          "director": "Bernardo Bertolucci",
+          "aliases": [
+            "The Moon",
+            "La Luna"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11503",
+          "filmAffinityId": "316868",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "More American Graffiti",
+          "director": "Bill L. Norton",
+          "aliases": [
+            "American Graffiti 2",
+            "Ancora Graffiti Americani",
+            "Más American Graffiti"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11551",
+          "filmAffinityId": "121557",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ogro",
+          "director": "Gillo Pontecorvo",
+          "aliases": [
+            "\"Ogro\""
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11505",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Osenniy marafon",
+          "director": "Georgi Daneliya",
+          "aliases": [
+            "Osennij marafon",
+            "Autumn Marathon",
+            "Maratona d'autunno"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11536",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Saint Jack",
+          "director": "Peter Bogdanovich",
+          "aliases": [
+            "San Giacomo",
+            "Saint Jack, el rey de Singapur"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11556",
+          "filmAffinityId": "801816",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Samba le grand",
+          "director": "Moustapha Alassane",
+          "aliases": [
+            "Samba il grande",
+            "Samba the great"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11515",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Soldados",
+          "director": "Alfonso Ungría",
+          "aliases": [
+            "Soldati",
+            "Soldiers"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11524",
+          "filmAffinityId": "253738",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Magician of Lublin",
+          "director": "Menahem Golan",
+          "aliases": [
+            "Magician of Lublin",
+            "Il mago di Lublino",
+            "El mago de Lublin"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11545",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Wanderers",
+          "director": "Philip Kaufman",
+          "aliases": [
+            "The Wanderers - I nuovi guerrieri",
+            "I vagabondi",
+            "Las pandillas del Bronx"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11559",
+          "filmAffinityId": "371610",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Un dramma borghese",
+          "director": "Florestano Vancini",
+          "aliases": [
+            "Mimi",
+            "A Bourgeois Drama",
+            "Un drama burgués"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11507",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Vereda tropical",
+          "director": "Joaquim Pedro de Andrade",
+          "aliases": [
+            "Sentiero tropicale",
+            "Tropical Lane"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11307",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Zemaljski dani teku",
+          "director": "Goran Paskaljevic",
+          "aliases": [
+            "Scorrono i giorni sulla terra",
+            "The Days on Earth Are Flowing",
+            "El fluir de los días terrenales"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11511",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1979,
+      "section": "Officina Veneziana · no competitiva",
+      "films": [
+        {
+          "title": "La Nouba des femmes du mont Chenoua",
+          "director": "Assia Djebar",
+          "aliases": [
+            "La Nouba",
+            "La \"Nouba\" delle donne del monte Chenoua",
+            "The Nouba of the Women of Mount Chenoua"
+          ],
+          "award": "Premio FIPRESCI (ex aequo)",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11562",
+          "wins": [
+            "Premio FIPRESCI (ex aequo)"
+          ],
+          "nominations": [
+            "Premio FIPRESCI (ex aequo)"
+          ],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "¡Que Viva Mexico!",
+          "director": "Eduard Tisse, Grigoriy Aleksandrov, Sergei Michajlovic Eisenstein",
+          "aliases": [
+            "¡Que viva Mexico!",
+            "Viva Messico!"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11605",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A kis Valentinó",
+          "director": "András Jeles",
+          "aliases": [
+            "Il piccolo Valentino",
+            "Little Valentino"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11601",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Four Journeys into Mystic Time",
+          "director": "Shirley Clarke",
+          "aliases": [
+            "Four Journeys Into Mystic Time",
+            "Quattro viaggi nel tempo mistico"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11702",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "France/tour/detour/deux/enfants",
+          "director": "Anne-Marie Miéville, Jean-Luc Godard",
+          "aliases": [
+            "France, tour detour deux enfants",
+            "Francia / tour / deviazione / due / figli",
+            "France / Tour / Detour / Two / Children"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11574",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "I giorni cantati",
+          "director": "Paolo Pietrangeli",
+          "aliases": [
+            "The Days Sung"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11579",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Improvviso",
+          "director": "Edith Bruck",
+          "aliases": [
+            "Sudden"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11582",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "ORG",
+          "director": "Fernando Birri",
+          "aliases": [],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11570",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ratataplan",
+          "director": "Maurizio Nichetti",
+          "aliases": [],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11584",
+          "filmAffinityId": "598212",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Rubinstein à Venise",
+          "director": "François Reichenbach",
+          "aliases": [
+            "Rubinstein a Venezia",
+            "Rubinstein in Venice"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/12716",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Urs Al-Zayn",
+          "director": "Khalid Siddik",
+          "aliases": [
+            "Ors Ezzein",
+            "Le nozze di Zein",
+            "The Wedding of Zein"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11588",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "West Indies ou les nègres marrons de la liberté",
+          "director": "Med Hondo",
+          "aliases": [
+            "West Indies",
+            "I neri castani della libertà",
+            "The Brown Niggers Of Freedom"
+          ],
+          "award": "Selección no competitiva",
+          "identitySource": "https://asac.labiennale.org/attivita/cinema/11595",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1979,
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "Osenniy marafon",
+          "director": "Georgiy Daneliya",
+          "aliases": [
+            "Osenniy marafon / Autumn Marathon (Maratón de otoño)",
+            "Autumn Marathon",
+            "Maratón de otoño"
+          ],
+          "award": "Concha de Oro",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270018/es",
+          "nominations": [
+            "Concha de Oro"
+          ],
+          "wins": [
+            "Concha de Oro"
+          ],
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mamá cumple cien años",
+          "director": "Carlos Saura",
+          "aliases": [
+            "Mamá cumple cien años (Mama turns 100)",
+            "Mama turns 100"
+          ],
+          "award": "Premio Especial del Jurado",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270004/es",
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Alien",
+          "director": "Ridley Scott",
+          "aliases": [
+            "Alien / Alien, el octavo pasajero (Alien, el octavo pasajero)",
+            "Alien, el octavo pasajero",
+            "Alien: El octavo pasajero"
+          ],
+          "award": "Concha de Plata · mejor fotografía y efectos especiales",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270007/es",
+          "nominations": [
+            "Concha de Plata · mejor fotografía y efectos especiales"
+          ],
+          "wins": [
+            "Concha de Plata · mejor fotografía y efectos especiales"
+          ],
+          "filmAffinityId": "708792",
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Angi Vera",
+          "director": "Pál Gábor",
+          "aliases": [],
+          "award": "Concha de Plata · mejor dirección",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270010/es",
+          "nominations": [
+            "Concha de Plata · mejor dirección"
+          ],
+          "wins": [
+            "Concha de Plata · mejor dirección"
+          ],
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Prisioneros desaparecidos",
+          "director": "Sergio Castilla",
+          "aliases": [
+            "De försvunna (Prisioneros desaparecidos)",
+            "De försvunna"
+          ],
+          "award": "Premio San Sebastián · mejor interpretación masculina · Nelson Villagra",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270019/es",
+          "nominations": [
+            "Premio San Sebastián · mejor interpretación masculina · Nelson Villagra"
+          ],
+          "wins": [
+            "Premio San Sebastián · mejor interpretación masculina · Nelson Villagra"
+          ],
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El proceso de Burgos",
+          "director": "Imanol Uribe",
+          "aliases": [
+            "El proceso de Burgos / The Burgos Trial",
+            "The Burgos Trial"
+          ],
+          "award": "Perla del Cantábrico · mejor película de habla hispana",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270005/es",
+          "nominations": [
+            "Perla del Cantábrico · mejor película de habla hispana"
+          ],
+          "wins": [
+            "Perla del Cantábrico · mejor película de habla hispana"
+          ],
+          "filmAffinityId": "435816",
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Il piccolo Archimede",
+          "director": "Gianni Amelio",
+          "aliases": [
+            "Il piccolo Archimede / The Little Archimedes",
+            "The Little Archimedes"
+          ],
+          "award": "Premio San Sebastián · mejor interpretación femenina · Laura Betti",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270012/es",
+          "nominations": [
+            "Premio San Sebastián · mejor interpretación femenina · Laura Betti"
+          ],
+          "wins": [
+            "Premio San Sebastián · mejor interpretación femenina · Laura Betti"
+          ],
+          "competitionStatus": "EN_COMPETICION",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Apocalypse Now",
+          "director": "Francis Ford Coppola",
+          "aliases": [],
+          "award": "Fuera de concurso",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270020/es",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "filmAffinityId": "701892",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Aquella larga noche",
+          "director": "Enrique Pineda Barnet",
+          "aliases": [],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270015/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Companys, procés a Catalunya (Companys, proceso a Cataluña)",
+          "director": "Josep María  Forn",
+          "aliases": [
+            "Companys, procés a Catalunya",
+            "Companys, proceso a Cataluña"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270003/es",
+          "competitionStatus": "EN_COMPETICION",
+          "filmAffinityId": "419209",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Die blinde Eule",
+          "director": "Mansur Madavi",
+          "aliases": [],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270002/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El año de la peste",
+          "director": "Felipe Cazals",
+          "aliases": [],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270016/es",
+          "competitionStatus": "EN_COMPETICION",
+          "filmAffinityId": "710317",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Il prato (El prado)",
+          "director": "Paolo Taviani, Vittorio Taviani",
+          "aliases": [
+            "Il prato",
+            "El prado"
+          ],
+          "award": "Fuera de concurso",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270023/es",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Im Feuer bestanden (Más fuerte que el fuego)",
+          "director": "Walter Heynowski, Gerhard Scheumann",
+          "aliases": [
+            "Im Feuer bestanden",
+            "Más fuerte que el fuego"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270001/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La batalla de Chile (Parte III): El poder popular",
+          "director": "Patricio Guzmán",
+          "aliases": [
+            "La batalla de Chile: La lucha de un pueblo sin armas - Tercera parte: El poder popular / The Battle of Chile: Part III",
+            "La batalla de Chile: La lucha de un pueblo sin armas - Tercera parte: El poder popular",
+            "The Battle of Chile: Part III"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270026/es",
+          "filmAffinityId": "231512",
+          "filmaffinityTitle": "La batalla de Chile (Parte III): El poder popular",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La luna",
+          "director": "Bernardo Bertolucci",
+          "aliases": [
+            "La Luna"
+          ],
+          "award": "Fuera de concurso",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270021/es",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "filmAffinityId": "316868",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La triple muerte del tercer personaje / The Triple Death of the Third Character",
+          "director": "Helvio Soto",
+          "aliases": [
+            "La triple muerte del tercer personaje",
+            "The Triple Death of the Third Character"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270009/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Le rose di Danzica (El águila de dos cabezas)",
+          "director": "Alberto Bevilacqua",
+          "aliases": [
+            "Le rose di Danzica",
+            "El águila de dos cabezas"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270013/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Manhattan",
+          "director": "Woody Allen",
+          "aliases": [],
+          "award": "Fuera de concurso",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270022/es",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "filmAffinityId": "448855",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Running",
+          "director": "Steven H. Stern",
+          "aliases": [],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270014/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Saint Jack (Saint Jack (El rey de Singapur))",
+          "director": "Peter Bogdanovich",
+          "aliases": [
+            "Saint Jack",
+            "El rey de Singapur",
+            "Saint Jack, el rey de Singapur"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270008/es",
+          "competitionStatus": "EN_COMPETICION",
+          "filmAffinityId": "801816",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Salut i força al canut / Catalan Cuckold (Cuernos a la catalana)",
+          "director": "Francesc Bellmunt",
+          "aliases": [
+            "Salut i força al canut",
+            "Catalan Cuckold",
+            "Cuernos a la catalana"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270006/es",
+          "competitionStatus": "EN_COMPETICION",
+          "filmAffinityId": "214101",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Magician of Lublin (El mago de Lublin)",
+          "director": "Menahem Golan",
+          "aliases": [
+            "The Magician of Lublin",
+            "El mago de Lublin"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270011/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Zmory / Nightmares",
+          "director": "Wojciech Marczewski",
+          "aliases": [
+            "Zmory",
+            "Nightmares"
+          ],
+          "award": "En competición",
+          "identitySource": "https://www.sansebastianfestival.com/1979/secciones_y_peliculas/seccion_oficial/7/270017/es",
+          "competitionStatus": "EN_COMPETICION",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1979,
+      "section": "Nuevos Realizadores · películas premiadas",
+      "films": [
+        {
+          "title": "Gamín",
+          "director": "Ciro Durán",
+          "award": "Premio Donostia para Nuevos Realizadores (ex aequo)",
+          "nominations": [
+            "Premio Donostia para Nuevos Realizadores (ex aequo)"
+          ],
+          "wins": [
+            "Premio Donostia para Nuevos Realizadores (ex aequo)"
+          ],
+          "filmAffinityId": "118563",
+          "aliases": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Un’emozione in più",
+          "director": "Francesco Longo",
+          "award": "Premio Donostia para Nuevos Realizadores (ex aequo)",
+          "nominations": [
+            "Premio Donostia para Nuevos Realizadores (ex aequo)"
+          ],
+          "wins": [
+            "Premio Donostia para Nuevos Realizadores (ex aequo)"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1979,
+      "section": "Palmarés · cortometrajes",
+      "films": [
+        {
+          "title": "Ikuska 3",
+          "director": "Antton Merikaetxeberria",
+          "award": "Concha de Oro · cortometraje",
+          "nominations": [
+            "Concha de Oro · cortometraje"
+          ],
+          "wins": [
+            "Concha de Oro · cortometraje"
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
     }
