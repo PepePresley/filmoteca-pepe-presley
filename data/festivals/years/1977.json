@@ -524,67 +524,3197 @@
       "coverageStatus": "partial"
     },
     {
-      "festival": "San Sebastián",
+      "festival": "Oscar",
       "year": 1977,
-      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
+      "section": "Premios Oscar · 49.ª edición",
       "films": [
         {
-          "title": "Neokonchennaya pyesa dlya mekhanicheskogo pianino",
-          "director": "Nikita Mijalkov",
-          "award": "Concha de Oro",
+          "title": "Rocky",
+          "director": "John G. Avildsen",
+          "aliases": [],
           "nominations": [
-            "Concha de Oro"
+            "Película · Irwin Winkler; Robert Chartoff",
+            "Dirección · John G. Avildsen",
+            "Actor protagonista · Sylvester Stallone",
+            "Actor de reparto · Burgess Meredith",
+            "Actor de reparto · Burt Young",
+            "Actriz protagonista · Talia Shire",
+            "Montaje · Richard Halsey; Scott Conrad",
+            "Canción · Bill Conti; Carol Connors; Ayn Robbins",
+            "Sonido · Harry Warren Tetrick; William McCaughey; Lyle Burbridge; Bud Alper",
+            "Guion original · Sylvester Stallone"
           ],
           "wins": [
-            "Concha de Oro"
-          ]
+            "Película · Irwin Winkler; Robert Chartoff",
+            "Dirección · John G. Avildsen",
+            "Montaje · Richard Halsey; Scott Conrad"
+          ],
+          "candidacies": [
+            {
+              "category": "Película",
+              "person": "Irwin Winkler; Robert Chartoff",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Dirección",
+              "person": "John G. Avildsen",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor protagonista",
+              "person": "Sylvester Stallone",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor de reparto",
+              "person": "Burgess Meredith",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor de reparto",
+              "person": "Burt Young",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Talia Shire",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Montaje",
+              "person": "Richard Halsey; Scott Conrad",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Canción",
+              "person": "Bill Conti; Carol Connors; Ayn Robbins",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Sonido",
+              "person": "Harry Warren Tetrick; William McCaughey; Lyle Burbridge; Bud Alper",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion original",
+              "person": "Sylvester Stallone",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "192554",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film192554.html",
+          "filmaffinityTitle": "Rocky",
+          "award": "Película · Irwin Winkler; Robert Chartoff · Dirección · John G. Avildsen · Montaje · Richard Halsey; Scott Conrad",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
-          "title": "La question",
-          "director": "Laurent Heynemann",
-          "award": "Premio Especial del Jurado",
+          "title": "Todos los hombres del presidente",
+          "director": "Alan J. Pakula",
+          "aliases": [
+            "All the President's Men"
+          ],
           "nominations": [
-            "Premio Especial del Jurado"
+            "Película · Walter Coblenz",
+            "Dirección · Alan J. Pakula",
+            "Actor de reparto · Jason Robards",
+            "Actriz de reparto · Jane Alexander",
+            "Diseño de producción · George Jenkins; George Gaines",
+            "Montaje · Robert L. Wolfe",
+            "Sonido · Arthur Piantadosi; Les Fresholtz; Dick Alexander; Jim Webb",
+            "Guion adaptado · William Goldman"
           ],
           "wins": [
-            "Premio Especial del Jurado"
-          ]
+            "Actor de reparto · Jason Robards",
+            "Diseño de producción · George Jenkins; George Gaines",
+            "Sonido · Arthur Piantadosi; Les Fresholtz; Dick Alexander; Jim Webb",
+            "Guion adaptado · William Goldman"
+          ],
+          "candidacies": [
+            {
+              "category": "Película",
+              "person": "Walter Coblenz",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Dirección",
+              "person": "Alan J. Pakula",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor de reparto",
+              "person": "Jason Robards",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Jane Alexander",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Diseño de producción",
+              "person": "George Jenkins; George Gaines",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Montaje",
+              "person": "Robert L. Wolfe",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Sonido",
+              "person": "Arthur Piantadosi; Les Fresholtz; Dick Alexander; Jim Webb",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "William Goldman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "780126",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film780126.html",
+          "filmaffinityTitle": "Todos los hombres del presidente",
+          "award": "Actor de reparto · Jason Robards · Diseño de producción · George Jenkins; George Gaines · Sonido · Arthur Piantadosi; Les Fresholtz; Dick Alexander; Jim Webb · Guion adaptado · William Goldman",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
-          "title": "Der Mädchenkrieg",
-          "director": "Alf Brustellin; Bernhard Sinkel",
-          "award": "Concha de Plata · mejor dirección · Premio San Sebastián · mejor interpretación femenina · Katharina Hunter",
+          "title": "Esta tierra es mi tierra",
+          "director": "Hal ASHBY",
+          "aliases": [
+            "Bound for Glory",
+            "BOUND FOR GLORY"
+          ],
           "nominations": [
-            "Concha de Plata · mejor dirección",
-            "Premio San Sebastián · mejor interpretación femenina · Katharina Hunter"
+            "Película · Robert F. Blumofe; Harold Leventhal",
+            "Fotografía · Haskell Wexler",
+            "Vestuario · William Theiss",
+            "Montaje · Robert C. Jones; Pembroke J. Herring",
+            "Adaptación musical · Leonard Rosenman",
+            "Guion adaptado · Robert Getchell"
           ],
           "wins": [
-            "Concha de Plata · mejor dirección",
-            "Premio San Sebastián · mejor interpretación femenina · Katharina Hunter"
-          ]
+            "Fotografía · Haskell Wexler",
+            "Adaptación musical · Leonard Rosenman"
+          ],
+          "candidacies": [
+            {
+              "category": "Película",
+              "person": "Robert F. Blumofe; Harold Leventhal",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Fotografía",
+              "person": "Haskell Wexler",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Vestuario",
+              "person": "William Theiss",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Montaje",
+              "person": "Robert C. Jones; Pembroke J. Herring",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Adaptación musical",
+              "person": "Leonard Rosenman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Robert Getchell",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "198861",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film198861.html",
+          "filmaffinityTitle": "Esta tierra es mi tierra",
+          "award": "Fotografía · Haskell Wexler · Adaptación musical · Leonard Rosenman",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
-          "title": "A un dios desconocido",
-          "director": "Jaime Chávarri",
-          "award": "Premio San Sebastián · mejor interpretación masculina · Héctor Alterio · Perla del Cantábrico · mejor largometraje de habla hispana",
+          "title": "Network, un mundo implacable",
+          "director": "Sidney Lumet",
+          "aliases": [
+            "Network"
+          ],
           "nominations": [
-            "Premio San Sebastián · mejor interpretación masculina · Héctor Alterio",
-            "Perla del Cantábrico · mejor largometraje de habla hispana"
+            "Película · Howard Gottfried",
+            "Dirección · Sidney Lumet",
+            "Actor protagonista · Peter Finch",
+            "Actor protagonista · William Holden",
+            "Actor de reparto · Ned Beatty",
+            "Actriz protagonista · Faye Dunaway",
+            "Actriz de reparto · Beatrice Straight",
+            "Fotografía · Owen Roizman",
+            "Montaje · Alan Heim",
+            "Guion original · Paddy Chayefsky"
           ],
           "wins": [
-            "Premio San Sebastián · mejor interpretación masculina · Héctor Alterio",
-            "Perla del Cantábrico · mejor largometraje de habla hispana"
+            "Actor protagonista · Peter Finch",
+            "Actriz protagonista · Faye Dunaway",
+            "Actriz de reparto · Beatrice Straight",
+            "Guion original · Paddy Chayefsky"
           ],
-          "filmaffinityTitle": "A un dios desconocido",
-          "filmAffinityId": "424274"
+          "candidacies": [
+            {
+              "category": "Película",
+              "person": "Howard Gottfried",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Dirección",
+              "person": "Sidney Lumet",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor protagonista",
+              "person": "Peter Finch",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor protagonista",
+              "person": "William Holden",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor de reparto",
+              "person": "Ned Beatty",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Faye Dunaway",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Beatrice Straight",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Fotografía",
+              "person": "Owen Roizman",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Montaje",
+              "person": "Alan Heim",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion original",
+              "person": "Paddy Chayefsky",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "480193",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film480193.html",
+          "filmaffinityTitle": "Network, un mundo implacable",
+          "award": "Actor protagonista · Peter Finch · Actriz protagonista · Faye Dunaway · Actriz de reparto · Beatrice Straight · Guion original · Paddy Chayefsky",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Taxi Driver",
+          "director": "Martin Scorsese",
+          "aliases": [],
+          "nominations": [
+            "Película · Michael Phillips; Julia Phillips",
+            "Actor protagonista · Robert De Niro",
+            "Actriz de reparto · Jodie Foster",
+            "Banda sonora · Bernard Herrmann"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Película",
+              "person": "Michael Phillips; Julia Phillips",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor protagonista",
+              "person": "Robert De Niro",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Jodie Foster",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Banda sonora",
+              "person": "Bernard Herrmann",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "396074",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film396074.html",
+          "filmaffinityTitle": "Taxi Driver",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Cara a cara al desnudo",
+          "director": "Ingmar Bergman",
+          "aliases": [
+            "Face to Face",
+            "Ansikte mot ansikte"
+          ],
+          "nominations": [
+            "Dirección · Ingmar Bergman",
+            "Actriz protagonista · Liv Ullmann"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Dirección",
+              "person": "Ingmar Bergman",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Liv Ullmann",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "215230",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film215230.html",
+          "filmaffinityTitle": "Cara a cara al desnudo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Pasqualino: Siete bellezas",
+          "director": "Lina Wertmüller",
+          "aliases": [
+            "Seven Beauties",
+            "Pasqualino. Siete bellezas",
+            "Pasqualino Settebellezze"
+          ],
+          "nominations": [
+            "Dirección · Lina Wertmüller",
+            "Actor protagonista · Giancarlo Giannini",
+            "Película internacional",
+            "Guion original · Lina Wertmüller"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Dirección",
+              "person": "Lina Wertmüller",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actor protagonista",
+              "person": "Giancarlo Giannini",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion original",
+              "person": "Lina Wertmüller",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "601693",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film601693.html",
+          "filmaffinityTitle": "Pasqualino: Siete bellezas",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Marathon Man",
+          "director": "John Schlesinger",
+          "aliases": [],
+          "nominations": [
+            "Actor de reparto · Laurence Olivier"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Laurence Olivier",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "560440",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film560440.html",
+          "filmaffinityTitle": "Marathon Man",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Primo, prima (Cousin, cousine)",
+          "director": "Jean-Charles Tacchella",
+          "aliases": [
+            "Cousin, Cousine",
+            "Primo, prima"
+          ],
+          "nominations": [
+            "Actriz protagonista · Marie-Christine Barrault",
+            "Película internacional",
+            "Guion original · Jean-Charles Tacchella; Daniele Thompson"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "person": "Marie-Christine Barrault",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion original",
+              "person": "Jean-Charles Tacchella; Daniele Thompson",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "287726",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film287726.html",
+          "filmaffinityTitle": "Primo, prima (Cousin, cousine)",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Carrie",
+          "director": "Brian De Palma",
+          "aliases": [],
+          "nominations": [
+            "Actriz protagonista · Sissy Spacek",
+            "Actriz de reparto · Piper Laurie"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "person": "Sissy Spacek",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Piper Laurie",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "283316",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film283316.html",
+          "filmaffinityTitle": "Carrie",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El viaje de los malditos",
+          "director": "Stuart Rosenberg",
+          "aliases": [
+            "Voyage of the Damned"
+          ],
+          "nominations": [
+            "Actriz de reparto · Lee Grant",
+            "Banda sonora · Lalo Schifrin",
+            "Guion adaptado · Steve Shagan; David Butler"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "person": "Lee Grant",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Banda sonora",
+              "person": "Lalo Schifrin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Steve Shagan; David Butler",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "215888",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film215888.html",
+          "filmaffinityTitle": "El viaje de los malditos",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Sara",
+          "director": "",
+          "aliases": [
+            "The Incredible Sarah"
+          ],
+          "nominations": [
+            "Diseño de producción · Elliot Scott; Norman Reynolds; Peter Howitt",
+            "Vestuario · Anthony Mendleson"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "person": "Elliot Scott; Norman Reynolds; Peter Howitt",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Vestuario",
+              "person": "Anthony Mendleson",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "958133",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film958133.html",
+          "filmaffinityTitle": "Sara",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El último magnate",
+          "director": "Elia Kazan",
+          "aliases": [
+            "The Last Tycoon"
+          ],
+          "nominations": [
+            "Diseño de producción · Gene Callahan; Jack Collis; Jerry Wunderlich"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "person": "Gene Callahan; Jack Collis; Jerry Wunderlich",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "564821",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film564821.html",
+          "filmaffinityTitle": "El último magnate",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La fuga de Logan",
+          "director": "Michael Anderson",
+          "aliases": [
+            "Logan's Run"
+          ],
+          "nominations": [
+            "Diseño de producción · Dale Hennesy; Robert de Vestel",
+            "Fotografía · Ernest Laszlo",
+            "Premio especial · efectos visuales · L. B. Abbott; Glen Robinson; Matthew Yuricich"
+          ],
+          "wins": [
+            "Premio especial · efectos visuales · L. B. Abbott; Glen Robinson; Matthew Yuricich"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "person": "Dale Hennesy; Robert de Vestel",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Fotografía",
+              "person": "Ernest Laszlo",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Premio especial · efectos visuales",
+              "person": "L. B. Abbott; Glen Robinson; Matthew Yuricich",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "769382",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film769382.html",
+          "filmaffinityTitle": "La fuga de Logan",
+          "award": "Premio especial · efectos visuales · L. B. Abbott; Glen Robinson; Matthew Yuricich",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El último pistolero",
+          "director": "Don Siegel",
+          "aliases": [
+            "The Shootist"
+          ],
+          "nominations": [
+            "Diseño de producción · Robert F. Boyle; Arthur Jeph Parker"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "person": "Robert F. Boyle; Arthur Jeph Parker",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "297296",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film297296.html",
+          "filmaffinityTitle": "El último pistolero",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "King Kong",
+          "director": "John Guillermin",
+          "aliases": [],
+          "nominations": [
+            "Fotografía · Richard H. Kline",
+            "Sonido · Harry Warren Tetrick; William McCaughey; Aaron Rochin; Jack Solomon",
+            "Premio especial · efectos visuales · Carlo Rambaldi; Glen Robinson; Frank Van der Veer"
+          ],
+          "wins": [
+            "Premio especial · efectos visuales · Carlo Rambaldi; Glen Robinson; Frank Van der Veer"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "person": "Richard H. Kline",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Sonido",
+              "person": "Harry Warren Tetrick; William McCaughey; Aaron Rochin; Jack Solomon",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Premio especial · efectos visuales",
+              "person": "Carlo Rambaldi; Glen Robinson; Frank Van der Veer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "979885",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film979885.html",
+          "filmaffinityTitle": "King Kong",
+          "award": "Premio especial · efectos visuales · Carlo Rambaldi; Glen Robinson; Frank Van der Veer",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ha nacido una estrella",
+          "director": "Frank Pierson",
+          "aliases": [
+            "A Star Is Born"
+          ],
+          "nominations": [
+            "Fotografía · Robert Surtees",
+            "Adaptación musical · Roger Kellaway",
+            "Canción · Barbra Streisand; Paul Williams",
+            "Sonido · Robert Knudson; Dan Wallin; Robert Glass; Tom Overton"
+          ],
+          "wins": [
+            "Canción · Barbra Streisand; Paul Williams"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "person": "Robert Surtees",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Adaptación musical",
+              "person": "Roger Kellaway",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Canción",
+              "person": "Barbra Streisand; Paul Williams",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Sonido",
+              "person": "Robert Knudson; Dan Wallin; Robert Glass; Tom Overton",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "121822",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film121822.html",
+          "filmaffinityTitle": "Ha nacido una estrella",
+          "award": "Canción · Barbra Streisand; Paul Williams",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Casanova",
+          "director": "Federico Fellini",
+          "aliases": [
+            "Fellini's Casanova",
+            "Fellini's Casanova (Il Casanova Di Federico Fellini)",
+            "Il Casanova di Federico Fellini"
+          ],
+          "nominations": [
+            "Vestuario · Danilo Donati",
+            "Guion adaptado · Federico Fellini; Bernardino Zapponi"
+          ],
+          "wins": [
+            "Vestuario · Danilo Donati"
+          ],
+          "candidacies": [
+            {
+              "category": "Vestuario",
+              "person": "Danilo Donati",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Federico Fellini; Bernardino Zapponi",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "701122",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film701122.html",
+          "filmaffinityTitle": "Casanova",
+          "award": "Vestuario · Danilo Donati",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Passover Plot",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Vestuario · Mary Wills"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Vestuario",
+              "person": "Mary Wills",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "679028",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film679028.html",
+          "filmaffinityTitle": "The Passover Plot",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Elemental, doctor Freud",
+          "director": "Herbert Ross",
+          "aliases": [
+            "The Seven-per-cent Solution",
+            "Elemental, Doctor Freud",
+            "The Seven-Per-Cent Solution"
+          ],
+          "nominations": [
+            "Vestuario · Alan Barrett",
+            "Guion adaptado · Nicholas Meyer"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Vestuario",
+              "person": "Alan Barrett",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Guion adaptado",
+              "person": "Nicholas Meyer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "768025",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film768025.html",
+          "filmaffinityTitle": "Elemental, doctor Freud",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Harlan County, U.S.A.",
+          "director": "Barbara Kopple",
+          "aliases": [
+            "Harlan County U.S.A."
+          ],
+          "nominations": [
+            "Documental · Barbara Kopple"
+          ],
+          "wins": [
+            "Documental · Barbara Kopple"
+          ],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Barbara Kopple",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "884250",
+          "filmaffinityTitle": "Harlan County, U.S.A.",
+          "award": "Documental · Barbara Kopple",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Hollywood on Trial",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Documental · James Gutman; David Helpern, Jr."
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "James Gutman; David Helpern, Jr.",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Off the Edge",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Documental · Michael Firth"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Michael Firth",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "People of the Wind",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Documental · Anthony Howarth; David Koff"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Anthony Howarth; David Koff",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Volcano: An Inquiry into the Life and Death of Malcolm Lowry",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Documental · Donald Brittain; Robert Duncan"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Donald Brittain; Robert Duncan",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Number Our Days",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Lynne Littman"
+          ],
+          "wins": [
+            "Cortometraje documental · Lynne Littman"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Lynne Littman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "Cortometraje documental · Lynne Littman",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "American Shoeshine",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Sparky Greene"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Sparky Greene",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Blackwood",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Tony Ianzelo; Andy Thomson"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Tony Ianzelo; Andy Thomson",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The End of the Road",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · John Armstrong"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "John Armstrong",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Universe",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje documental · Lester Novros"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Lester Novros",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Pánico en el estadio",
+          "director": "Larry Peerce",
+          "aliases": [
+            "Two-Minute Warning"
+          ],
+          "nominations": [
+            "Montaje · Eve Newman; Walter Hannemann"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Montaje",
+              "person": "Eve Newman; Walter Hannemann",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "771827",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film771827.html",
+          "filmaffinityTitle": "Pánico en el estadio",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Black and White in Color",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [
+            "Película internacional"
+          ],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "Película internacional",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Jacob, the Liar",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Nights and Days",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Película internacional"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Película internacional",
+              "person": null,
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La profecía",
+          "director": "Richard Donner",
+          "aliases": [
+            "The Omen"
+          ],
+          "nominations": [
+            "Banda sonora · Jerry Goldsmith",
+            "Canción · Jerry Goldsmith"
+          ],
+          "wins": [
+            "Banda sonora · Jerry Goldsmith"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "person": "Jerry Goldsmith",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            },
+            {
+              "category": "Canción",
+              "person": "Jerry Goldsmith",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "874811",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film874811.html",
+          "filmaffinityTitle": "La profecía",
+          "award": "Banda sonora · Jerry Goldsmith",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Fascinación",
+          "director": "Brian De Palma",
+          "aliases": [
+            "Obsession",
+            "Fascinación (Obsession)"
+          ],
+          "nominations": [
+            "Banda sonora · Bernard Herrmann"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "person": "Bernard Herrmann",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "317239",
+          "filmaffinityTitle": "Fascinación",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El fuera de la ley",
+          "director": "Clint Eastwood",
+          "aliases": [
+            "The Outlaw Josey Wales"
+          ],
+          "nominations": [
+            "Banda sonora · Jerry Fielding"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "person": "Jerry Fielding",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "570984",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film570984.html",
+          "filmaffinityTitle": "El fuera de la ley",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Bugsy Malone, nieto de Al Capone",
+          "director": "Alan Parker",
+          "aliases": [
+            "Bugsy Malone"
+          ],
+          "nominations": [
+            "Adaptación musical · Paul Williams"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Paul Williams",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "874286",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film874286.html",
+          "filmaffinityTitle": "Bugsy Malone, nieto de Al Capone",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La pantera rosa ataca de nuevo",
+          "director": "Blake Edwards",
+          "aliases": [
+            "The Pink Panther Strikes Again"
+          ],
+          "nominations": [
+            "Canción · Henry Mancini; Don Black"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "Henry Mancini; Don Black",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "438937",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film438937.html",
+          "filmaffinityTitle": "La pantera rosa ataca de nuevo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Half a House (House Divided)",
+          "director": "",
+          "aliases": [
+            "Half a House"
+          ],
+          "nominations": [
+            "Canción · Sammy Fain; Paul Francis Webster"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "Sammy Fain; Paul Francis Webster",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "220429",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film220429.html",
+          "filmaffinityTitle": "Half a House (House Divided)",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Leisure",
+          "director": "Bruce Petty",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de animación · Suzanne Baker"
+          ],
+          "wins": [
+            "Cortometraje de animación · Suzanne Baker"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Suzanne Baker",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "627144",
+          "filmaffinityTitle": "Leisure",
+          "award": "Cortometraje de animación · Suzanne Baker",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Dedalo",
+          "director": "Manfredo Manfredi",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de animación · Manfredo Manfredi"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Manfredo Manfredi",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "670522",
+          "filmaffinityTitle": "Dedalo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La calle (The Street)",
+          "director": "",
+          "aliases": [
+            "The Street"
+          ],
+          "nominations": [
+            "Cortometraje de animación · Caroline Leaf; Guy Glover"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Caroline Leaf; Guy Glover",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "803645",
+          "filmaffinityTitle": "La calle (The Street)",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "In the Region of Ice",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Andre Guttfreund; Peter Werner"
+          ],
+          "wins": [
+            "Cortometraje de ficción · Andre Guttfreund; Peter Werner"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Andre Guttfreund; Peter Werner",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "Cortometraje de ficción · Andre Guttfreund; Peter Werner",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Kudzu",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Marjorie Anne Short"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Marjorie Anne Short",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Morning Spider",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Julian Chagrin; Claude Chagrin"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Julian Chagrin; Claude Chagrin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Nightlife",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Claire Wilbur; Robin Lehman"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Claire Wilbur; Robin Lehman",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Number One",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Cortometraje de ficción · Dyan Cannon; Vince Cannon"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción",
+              "person": "Dyan Cannon; Vince Cannon",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El expreso de Chicago",
+          "director": "Arthur Hiller",
+          "aliases": [
+            "Silver Streak"
+          ],
+          "nominations": [
+            "Sonido · Donald Mitchell; Douglas Williams; Richard Tyler; Hal Etherington"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Sonido",
+              "person": "Donald Mitchell; Douglas Williams; Richard Tyler; Hal Etherington",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "878361",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film878361.html",
+          "filmaffinityTitle": "El expreso de Chicago",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La tapadera",
+          "director": "Martin Ritt",
+          "aliases": [
+            "The Front"
+          ],
+          "nominations": [
+            "Guion original · Walter Bernstein"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Guion original",
+              "person": "Walter Bernstein",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1977"
+            }
+          ],
+          "filmAffinityId": "176299",
+          "filmaffinityTitle": "La tapadera",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
         }
-      ],
-      "coverageStatus": "partial"
+      ]
+    },
+    {
+      "festival": "BAFTA",
+      "year": 1977,
+      "section": "Premios de cine · películas de 1976",
+      "films": [
+        {
+          "title": "Alguien voló sobre el nido del cuco",
+          "director": "Milos Forman",
+          "aliases": [
+            "One Flew Over The Cuckoo's Nest",
+            "One Flew Over the Cuckoo's Nest"
+          ],
+          "nominations": [
+            "Mejor actor · Jack Nicholson",
+            "Mejor actriz · Louise Fletcher",
+            "Mejor música original · Jack Nitzsche",
+            "Mejor fotografía · Haskell Wexler; Bill Butler; William A Fraker",
+            "Mejor dirección · Milos Forman",
+            "Mejor película · Saul Zaentz; Michael Douglas",
+            "Mejor montaje · Richard Chew; Lynzee Klingman; Sheldon Kahn",
+            "Mejor guion · Lawrence Hauben; Bo Goldman",
+            "Mejor sonido · Mary McGlone; Robert R Rutledge; Veronica Selver; Lawrence Jost; Mark Berger",
+            "Mejor actor de reparto · Brad Dourif"
+          ],
+          "wins": [
+            "Mejor actor · Jack Nicholson",
+            "Mejor actriz · Louise Fletcher",
+            "Mejor dirección · Milos Forman",
+            "Mejor película · Saul Zaentz; Michael Douglas",
+            "Mejor montaje · Richard Chew; Lynzee Klingman; Sheldon Kahn",
+            "Mejor actor de reparto · Brad Dourif"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Jack Nicholson",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actriz",
+              "person": "Louise Fletcher",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor música original",
+              "person": "Jack Nitzsche",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Haskell Wexler; Bill Butler; William A Fraker",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Milos Forman",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor película",
+              "person": "Saul Zaentz; Michael Douglas",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Richard Chew; Lynzee Klingman; Sheldon Kahn",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Lawrence Hauben; Bo Goldman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Mary McGlone; Robert R Rutledge; Veronica Selver; Lawrence Jost; Mark Berger",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Brad Dourif",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "371621",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film371621.html",
+          "filmaffinityTitle": "Alguien voló sobre el nido del cuco",
+          "award": "Mejor actor · Jack Nicholson · Mejor actriz · Louise Fletcher · Mejor dirección · Milos Forman · Mejor película · Saul Zaentz; Michael Douglas · Mejor montaje · Richard Chew; Lynzee Klingman; Sheldon Kahn · Mejor actor de reparto · Brad Dourif",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Taxi Driver",
+          "director": "Martin Scorsese",
+          "aliases": [],
+          "nominations": [
+            "Mejor actor · Robert De Niro",
+            "Mejor música original · Bernard Herrmann",
+            "Mejor dirección · Martin Scorsese",
+            "Mejor película",
+            "Mejor montaje · Marcia Lucas; Tom Rolf; Melvin Shapiro",
+            "Mejor intérprete revelación · Jodie Foster",
+            "Mejor actriz de reparto · Jodie Foster"
+          ],
+          "wins": [
+            "Mejor música original · Bernard Herrmann",
+            "Mejor intérprete revelación · Jodie Foster",
+            "Mejor actriz de reparto · Jodie Foster"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Robert De Niro",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor música original",
+              "person": "Bernard Herrmann",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Martin Scorsese",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Marcia Lucas; Tom Rolf; Melvin Shapiro",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor intérprete revelación",
+              "person": "Jodie Foster",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Most Promising Newcomer To Leading Film Roles|Jodie Foster",
+              "associatedFilms": [
+                "Bugsy Malone",
+                "Taxi Driver"
+              ]
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Jodie Foster",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Supporting Actress|Jodie Foster",
+              "associatedFilms": [
+                "Bugsy Malone",
+                "Taxi Driver"
+              ]
+            }
+          ],
+          "filmAffinityId": "396074",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film396074.html",
+          "filmaffinityTitle": "Taxi Driver",
+          "award": "Mejor música original · Bernard Herrmann · Mejor intérprete revelación · Jodie Foster · Mejor actriz de reparto · Jodie Foster",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Todos los hombres del presidente",
+          "director": "Alan J. Pakula",
+          "aliases": [
+            "All The President's Men",
+            "All the President's Men"
+          ],
+          "nominations": [
+            "Mejor actor · Dustin Hoffman",
+            "Mejor fotografía · Gordon Willis",
+            "Mejor dirección · Alan J Pakula",
+            "Mejor película",
+            "Mejor montaje · Robert L Wolfe",
+            "Mejor diseño de producción · George Jenkins",
+            "Mejor guion · William Goldman",
+            "Mejor sonido · Milton C Burrow; Jim Webb; Les Fresholtz; Art Piantadosi; Dick Alexander",
+            "Mejor actor de reparto · Jason Robards",
+            "Mejor actor de reparto · Martin Balsam"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Dustin Hoffman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Actor|Dustin Hoffman",
+              "associatedFilms": [
+                "All The President's Men",
+                "Marathon Man"
+              ]
+            },
+            {
+              "category": "Mejor fotografía",
+              "person": "Gordon Willis",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Alan J Pakula",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor montaje",
+              "person": "Robert L Wolfe",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "George Jenkins",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "William Goldman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Milton C Burrow; Jim Webb; Les Fresholtz; Art Piantadosi; Dick Alexander",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Jason Robards",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Martin Balsam",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "780126",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film780126.html",
+          "filmaffinityTitle": "Todos los hombres del presidente",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Marathon Man",
+          "director": "John Schlesinger",
+          "aliases": [],
+          "nominations": [
+            "Mejor montaje · Jim Clark",
+            "Mejor actor · Dustin Hoffman"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor montaje",
+              "person": "Jim Clark",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actor",
+              "person": "Dustin Hoffman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Actor|Dustin Hoffman",
+              "associatedFilms": [
+                "All The President's Men",
+                "Marathon Man"
+              ]
+            }
+          ],
+          "filmAffinityId": "560440",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film560440.html",
+          "filmaffinityTitle": "Marathon Man",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La pareja chiflada",
+          "director": "Herbert Ross",
+          "aliases": [
+            "The Sunshine Boys"
+          ],
+          "nominations": [
+            "Mejor actor · Walter Matthau",
+            "Mejor guion · Neil Simon"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Walter Matthau",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Actor|Walter Matthau",
+              "associatedFilms": [
+                "The Sunshine Boys",
+                "The Bad News Bears"
+              ]
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Neil Simon",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "432669",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film432669.html",
+          "filmaffinityTitle": "La pareja chiflada",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Cara a cara al desnudo",
+          "director": "Ingmar Bergman",
+          "aliases": [
+            "Face To Face",
+            "Ansikte mot ansikte"
+          ],
+          "nominations": [
+            "Mejor actriz · Liv Ullman"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz",
+              "person": "Liv Ullman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "215230",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film215230.html",
+          "filmaffinityTitle": "Cara a cara al desnudo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El último pistolero",
+          "director": "Don Siegel",
+          "aliases": [
+            "The Shootist"
+          ],
+          "nominations": [
+            "Mejor actriz · Lauren Bacall"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz",
+              "person": "Lauren Bacall",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "297296",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film297296.html",
+          "filmaffinityTitle": "El último pistolero",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El Ritz",
+          "director": "Richard Lester",
+          "aliases": [
+            "The Ritz"
+          ],
+          "nominations": [
+            "Mejor actriz · Rita Moreno"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz",
+              "person": "Rita Moreno",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "409219",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film409219.html",
+          "filmaffinityTitle": "El Ritz",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Bugsy Malone, nieto de Al Capone",
+          "director": "Alan Parker",
+          "aliases": [
+            "Bugsy Malone"
+          ],
+          "nominations": [
+            "Mejor música original · Paul Williams",
+            "Mejor vestuario · Monica Howe",
+            "Mejor dirección · Alan Parker",
+            "Mejor película",
+            "Mejor intérprete revelación · Jodie Foster",
+            "Mejor diseño de producción · Geoffrey Kirkland",
+            "Mejor guion · Alan Parker",
+            "Mejor sonido · Les Wiggins; Clive Winter; Ken Barker",
+            "Mejor actriz de reparto · Jodie Foster"
+          ],
+          "wins": [
+            "Mejor intérprete revelación · Jodie Foster",
+            "Mejor diseño de producción · Geoffrey Kirkland",
+            "Mejor guion · Alan Parker",
+            "Mejor sonido · Les Wiggins; Clive Winter; Ken Barker",
+            "Mejor actriz de reparto · Jodie Foster"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor música original",
+              "person": "Paul Williams",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Monica Howe",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor dirección",
+              "person": "Alan Parker",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor película",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor intérprete revelación",
+              "person": "Jodie Foster",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Most Promising Newcomer To Leading Film Roles|Jodie Foster",
+              "associatedFilms": [
+                "Bugsy Malone",
+                "Taxi Driver"
+              ]
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Geoffrey Kirkland",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor guion",
+              "person": "Alan Parker",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Les Wiggins; Clive Winter; Ken Barker",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Jodie Foster",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Supporting Actress|Jodie Foster",
+              "associatedFilms": [
+                "Bugsy Malone",
+                "Taxi Driver"
+              ]
+            }
+          ],
+          "filmAffinityId": "874286",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film874286.html",
+          "filmaffinityTitle": "Bugsy Malone, nieto de Al Capone",
+          "award": "Mejor intérprete revelación · Jodie Foster · Mejor diseño de producción · Geoffrey Kirkland · Mejor guion · Alan Parker · Mejor sonido · Les Wiggins; Clive Winter; Ken Barker · Mejor actriz de reparto · Jodie Foster",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La zapatilla y la rosa: La historia de Cenicienta",
+          "director": "Bryan Forbes",
+          "aliases": [
+            "The Slipper And The Rose",
+            "The Slipper and the Rose--The Story of Cinderella",
+            "The Slipper and the Rose"
+          ],
+          "nominations": [
+            "Mejor música original · Richard M Sherman; Robert B Sherman",
+            "Mejor vestuario · Julie Harris",
+            "Mejor diseño de producción · Raymond Simm",
+            "Mejor actor de reparto · Michael Hordern",
+            "Mejor actriz de reparto · Annette Crosbie"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor música original",
+              "person": "Richard M Sherman; Robert B Sherman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Julie Harris",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Raymond Simm",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actor de reparto",
+              "person": "Michael Hordern",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Annette Crosbie",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "548298",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film548298.html",
+          "filmaffinityTitle": "La zapatilla y la rosa: La historia de Cenicienta",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Picnic en Hanging Rock",
+          "director": "Peter Weir",
+          "aliases": [
+            "Picnic At Hanging Rock",
+            "Picnic at Hanging Rock"
+          ],
+          "nominations": [
+            "Mejor fotografía · Russell Boyd",
+            "Mejor vestuario · Judy Dorsman",
+            "Mejor sonido · Greg Bell; Dan Connelly"
+          ],
+          "wins": [
+            "Mejor fotografía · Russell Boyd"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "Russell Boyd",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor vestuario",
+              "person": "Judy Dorsman",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            },
+            {
+              "category": "Mejor sonido",
+              "person": "Greg Bell; Dan Connelly",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "213266",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film213266.html",
+          "filmaffinityTitle": "Picnic en Hanging Rock",
+          "award": "Mejor fotografía · Russell Boyd",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Ases del cielo",
+          "director": "Jack Gold",
+          "aliases": [
+            "Aces High"
+          ],
+          "nominations": [
+            "Mejor fotografía · Gerry Fisher; Peter Allwork"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor fotografía",
+              "person": "Gerry Fisher; Peter Allwork",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "854475",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film854475.html",
+          "filmaffinityTitle": "Ases del cielo",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La marquesa de O",
+          "director": "Éric Rohmer",
+          "aliases": [
+            "The Marquise Of O (Die Marquise Von O)",
+            "Die Marquise von O..."
+          ],
+          "nominations": [
+            "Mejor vestuario · Moidele Bickel"
+          ],
+          "wins": [
+            "Mejor vestuario · Moidele Bickel"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor vestuario",
+              "person": "Moidele Bickel",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "351185",
+          "filmaffinityTitle": "La marquesa de O",
+          "award": "Mejor vestuario · Moidele Bickel",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "King Kong",
+          "director": "John Guillermin",
+          "aliases": [],
+          "nominations": [
+            "Mejor diseño de producción · Mario Chiari; Dale Hennesy"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor diseño de producción",
+              "person": "Mario Chiari; Dale Hennesy",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "979885",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film979885.html",
+          "filmaffinityTitle": "King Kong",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los Canadienses",
+          "director": "",
+          "aliases": [
+            "The Canadians (Los Canadienses)"
+          ],
+          "nominations": [
+            "Mejor documental · Albert Kish"
+          ],
+          "wins": [
+            "Mejor documental · Albert Kish"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor documental",
+              "person": "Albert Kish",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "407957",
+          "filmaffinityTitle": "Los Canadienses",
+          "award": "Mejor documental · Albert Kish",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "White Rock",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor documental · Tony Maylam"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor documental",
+              "person": "Tony Maylam",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "541925",
+          "filmaffinityTitle": "White Rock",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The End Of The Road",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor cortometraje documental · John Amstrong"
+          ],
+          "wins": [
+            "Mejor cortometraje documental · John Amstrong"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "John Amstrong",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "Mejor cortometraje documental · John Amstrong",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Energy In Perspective",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor cortometraje documental · Peter De Normanville"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "Peter De Normanville",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Speed Sailors",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor cortometraje documental · John Spencer"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor cortometraje documental",
+              "person": "John Spencer",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hydraulics",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Anthony Searle"
+          ],
+          "wins": [
+            "Mejor película especializada · Anthony Searle"
+          ],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Anthony Searle",
+              "winner": true,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "Mejor película especializada · Anthony Searle",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "For The Want Of A Nail",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Joe Mendoza"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Joe Mendoza",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Let's Sleep On It",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Christopher Ralling"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Christopher Ralling",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Proteins",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Lawrence Crabb"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Lawrence Crabb",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Slender Chance",
+          "director": "",
+          "aliases": [],
+          "nominations": [
+            "Mejor película especializada · Michael Crosfield"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor película especializada",
+              "person": "Michael Crosfield",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Regreso al hogar",
+          "director": "",
+          "aliases": [
+            "The Homecoming"
+          ],
+          "nominations": [
+            "Mejor actriz de reparto · Vivien Merchant"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Vivien Merchant",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "439632",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film439632.html",
+          "filmaffinityTitle": "Regreso al hogar",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La profecía",
+          "director": "Richard Donner",
+          "aliases": [
+            "The Omen"
+          ],
+          "nominations": [
+            "Mejor actriz de reparto · Billie Whitelaw"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actriz de reparto",
+              "person": "Billie Whitelaw",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977"
+            }
+          ],
+          "filmAffinityId": "874811",
+          "filmAffinityUrl": "https://www.filmaffinity.com/es/film874811.html",
+          "filmaffinityTitle": "La profecía",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los picarones",
+          "director": "Michael Ritchie",
+          "aliases": [
+            "The Bad News Bears"
+          ],
+          "nominations": [
+            "Mejor actor · Walter Matthau"
+          ],
+          "wins": [],
+          "candidacies": [
+            {
+              "category": "Mejor actor",
+              "person": "Walter Matthau",
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/?award-year=1977",
+              "sharedCandidacyId": "BAFTA|1977|Actor|Walter Matthau",
+              "associatedFilms": [
+                "The Sunshine Boys",
+                "The Bad News Bears"
+              ]
+            }
+          ],
+          "filmAffinityId": "157722",
+          "filmaffinityTitle": "Los picarones",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        }
+      ]
+    },
+    {
+      "festival": "Berlín",
+      "year": 1977,
+      "section": "Competición oficial · largometrajes",
+      "films": [
+        {
+          "title": "La ascensión",
+          "director": "Larisa Shepitko",
+          "filmAffinityId": "792232",
+          "filmaffinityTitle": "La ascensión",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "FIPRESCI - Premio Internacional de la Crítica (Mención de honor)",
+            "Premio OCIC",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "wins": [
+            "Oso de Oro - Mejor película",
+            "FIPRESCI - Premio Internacional de la Crítica (Mención de honor)",
+            "Premio OCIC",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "aliases": [
+            "The Ascent",
+            "Восхождение"
+          ],
+          "award": "Oso de Oro - Mejor película · FIPRESCI - Premio Internacional de la Crítica (Mención de honor) · Premio OCIC · Premio Interfilm (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El diablo probablemente",
+          "director": "Robert Bresson",
+          "filmAffinityId": "699895",
+          "filmaffinityTitle": "El diablo probablemente",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Premio Especial del Jurado",
+            "Premio OCIC (Recomendación)",
+            "Premio Interfilm"
+          ],
+          "wins": [
+            "Oso de Plata - Premio Especial del Jurado",
+            "Premio OCIC (Recomendación)",
+            "Premio Interfilm"
+          ],
+          "aliases": [
+            "The Devil, Probably",
+            "Le Diable probablement"
+          ],
+          "award": "Oso de Plata - Premio Especial del Jurado · Premio OCIC (Recomendación) · Premio Interfilm",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Los albañiles",
+          "director": "Jorge Fons",
+          "filmAffinityId": "920793",
+          "filmaffinityTitle": "Los albañiles",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata"
+          ],
+          "wins": [
+            "Oso de Plata"
+          ],
+          "aliases": [
+            "The Bricklayers"
+          ],
+          "award": "Oso de Plata",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El anacoreta",
+          "director": "Juan Estelrich",
+          "filmAffinityId": "777844",
+          "filmaffinityTitle": "El anacoreta",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Mejor actor · Fernando Fernán Gómez"
+          ],
+          "wins": [
+            "Oso de Plata - Mejor actor · Fernando Fernán Gómez"
+          ],
+          "aliases": [
+            "The Anchorite"
+          ],
+          "award": "Oso de Plata - Mejor actor · Fernando Fernán Gómez",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Al otro lado de la noticia",
+          "director": "Joan Micklin Silver",
+          "filmAffinityId": "576811",
+          "filmaffinityTitle": "Al otro lado de la noticia",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio Interfilm - Otto Dibelius"
+          ],
+          "wins": [
+            "Premio Interfilm - Otto Dibelius"
+          ],
+          "aliases": [
+            "Between the Lines"
+          ],
+          "award": "Premio Interfilm - Otto Dibelius",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Camada negra",
+          "director": "Manuel Gutiérrez Aragón",
+          "filmAffinityId": "269330",
+          "filmaffinityTitle": "Camada negra",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Mejor dirección · Manuel Gutiérrez Aragón"
+          ],
+          "wins": [
+            "Oso de Plata - Mejor dirección · Manuel Gutiérrez Aragón"
+          ],
+          "aliases": [
+            "Black Litter"
+          ],
+          "award": "Oso de Plata - Mejor dirección · Manuel Gutiérrez Aragón",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Cyclops",
+          "director": "",
+          "filmAffinityId": "333499",
+          "filmaffinityTitle": "Cyclops",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "wins": [
+            "Premio Interfilm (Recomendación)"
+          ],
+          "aliases": [],
+          "award": "Premio Interfilm (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Day for My Love",
+          "director": "",
+          "filmAffinityId": "181357",
+          "filmaffinityTitle": "Day for My Love",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio OCIC (Recomendación)"
+          ],
+          "wins": [
+            "Premio OCIC (Recomendación)"
+          ],
+          "aliases": [],
+          "award": "Premio OCIC (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "A Strange Role",
+          "director": "",
+          "filmAffinityId": "938461",
+          "filmaffinityTitle": "A Strange Role",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata",
+            "Premio OCIC (Recomendación)",
+            "Premio CIDALC",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "wins": [
+            "Oso de Plata",
+            "Premio CIDALC",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "aliases": [],
+          "award": "Oso de Plata · Premio CIDALC · Premio Interfilm (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El gato conoce al asesino",
+          "director": "Robert Benton",
+          "filmAffinityId": "976962",
+          "filmaffinityTitle": "El gato conoce al asesino",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Oso de Plata - Mejor actriz · Lily Tomlin"
+          ],
+          "wins": [
+            "Oso de Plata - Mejor actriz · Lily Tomlin"
+          ],
+          "aliases": [
+            "The Late Show"
+          ],
+          "award": "Oso de Plata - Mejor actriz · Lily Tomlin",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Mamá, estoy vivo",
+          "director": "",
+          "filmAffinityId": "968968",
+          "filmaffinityTitle": "Mamá, estoy vivo",
+          "nominations": [
+            "Oso de Oro - Mejor película",
+            "Premio Interfilm (Recomendación)"
+          ],
+          "wins": [
+            "Premio Interfilm (Recomendación)"
+          ],
+          "aliases": [],
+          "award": "Premio Interfilm (Recomendación)",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La noche de las elecciones",
+          "director": "Bruce Beresford",
+          "filmAffinityId": "452319",
+          "filmaffinityTitle": "La noche de las elecciones",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [
+            "Don's Party"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Die Eroberung der Zitadelle",
+          "director": "",
+          "filmAffinityId": "640495",
+          "filmaffinityTitle": "Die Eroberung der Zitadelle",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Grete Minde",
+          "director": "",
+          "filmAffinityId": "871723",
+          "filmaffinityTitle": "Grete Minde",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El amante del amor",
+          "director": "François Truffaut",
+          "filmAffinityId": "469064",
+          "filmaffinityTitle": "El amante del amor",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [
+            "L'Homme qui aimait les femmes"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Así empezó Hollywood",
+          "director": "Peter Bogdanovich",
+          "filmAffinityId": "772504",
+          "filmaffinityTitle": "Así empezó Hollywood",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [
+            "Nickelodeon"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Pigs Have Wings",
+          "director": "",
+          "filmAffinityId": "883491",
+          "filmaffinityTitle": "Pigs Have Wings",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "A Sentimental Story",
+          "director": "",
+          "filmAffinityId": "956807",
+          "filmaffinityTitle": "A Sentimental Story",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La tienda de los milagros",
+          "director": "",
+          "filmAffinityId": "925435",
+          "filmaffinityTitle": "La tienda de los milagros",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Widowhood of Karolina Zasler",
+          "director": "",
+          "filmAffinityId": "612100",
+          "filmaffinityTitle": "The Widowhood of Karolina Zasler",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "The Expulsion from Paradise",
+          "director": "",
+          "filmAffinityId": "674227",
+          "filmaffinityTitle": "The Expulsion from Paradise",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El quinto sello",
+          "director": "Fábri Zoltán",
+          "filmAffinityId": "994690",
+          "filmaffinityTitle": "El quinto sello",
+          "nominations": [
+            "Oso de Oro - Mejor película"
+          ],
+          "wins": [],
+          "aliases": [
+            "Az ötödik pecsét"
+          ],
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        }
+      ]
     },
     {
       "festival": "San Sebastián",
       "year": 1977,
-      "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)",
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "Neokonchennaya pyesa dlya mekhanicheskogo pianino (Pieza inacabada para piano mecánico)",
+          "director": "Nikita Mikhalkov",
+          "aliases": [
+            "Neokonchennaya pyesa dlya mekhanicheskogo pianino",
+            "Pieza inacabada para piano mecánico"
+          ],
+          "award": "Concha de Oro",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250017/es",
+          "wins": [
+            "Concha de Oro"
+          ],
+          "nominations": [
+            "Concha de Oro"
+          ],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La question (La tortura)",
+          "director": "Laurent Heynemann",
+          "aliases": [
+            "La question",
+            "La tortura"
+          ],
+          "award": "Premio Especial del Jurado",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250013/es",
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Der Mädchenkrieg / Maiden's War (La guerra de las muchachas)",
+          "director": "Alf Brustellin, Bernhard Sinkel",
+          "aliases": [
+            "Der Mädchenkrieg",
+            "Maiden's War",
+            "La guerra de las muchachas"
+          ],
+          "award": "Concha de Plata · mejor dirección · Premio San Sebastián · mejor interpretación femenina · Katharina Hunter",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250002/es",
+          "wins": [
+            "Concha de Plata · mejor dirección",
+            "Premio San Sebastián · mejor interpretación femenina · Katharina Hunter"
+          ],
+          "nominations": [
+            "Concha de Plata · mejor dirección",
+            "Premio San Sebastián · mejor interpretación femenina · Katharina Hunter"
+          ],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A un dios desconocido",
+          "director": "Jaime Chávarri",
+          "aliases": [
+            "A un dios desconocido / To an Unknown God",
+            "To an Unknown God"
+          ],
+          "award": "Premio San Sebastián · mejor interpretación masculina · Héctor Alterio · Perla del Cantábrico · mejor largometraje de habla hispana",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250008/es",
+          "filmAffinityId": "424274",
+          "filmaffinityTitle": "A un dios desconocido",
+          "wins": [
+            "Premio San Sebastián · mejor interpretación masculina · Héctor Alterio",
+            "Perla del Cantábrico · mejor largometraje de habla hispana"
+          ],
+          "nominations": [
+            "Premio San Sebastián · mejor interpretación masculina · Héctor Alterio",
+            "Perla del Cantábrico · mejor largometraje de habla hispana"
+          ],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Bobby Deerfield (Un instante, una vida)",
+          "director": "Sidney Pollack",
+          "aliases": [
+            "Bobby Deerfield",
+            "Un instante, una vida"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250011/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Break of Day (Amanecer)",
+          "director": "Ken Hannam",
+          "aliases": [
+            "Break of Day",
+            "Amanecer"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250004/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ese oscuro objeto del deseo",
+          "director": "Luis Buñuel",
+          "aliases": [
+            "Cet obscur objet du désir (Ese oscuro objeto del deseo)",
+            "Cet obscur objet du désir"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250020/es",
+          "filmAffinityId": "832071",
+          "filmaffinityTitle": "Ese oscuro objeto del deseo",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Crecer de golpe / Growing Up Suddenly",
+          "director": "Sergio Renán",
+          "aliases": [
+            "Crecer de golpe",
+            "Growing Up Suddenly"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250003/es",
+          "filmAffinityId": "207849",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El perro / A Dog Called... Vengeance",
+          "director": "Antonio Isasi-Isasmendi",
+          "aliases": [
+            "El perro",
+            "A Dog Called... Vengeance",
+            "El Perro"
+          ],
+          "award": "Fuera de concurso",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250022/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Full Circle (Escalofrío)",
+          "director": "Richard Loncraine",
+          "aliases": [
+            "Full Circle",
+            "Escalofrío",
+            "Círculo de la muerte"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250006/es",
+          "filmAffinityId": "440368",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Heinrich",
+          "director": "Helma Sanders-Brahms",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250001/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hemat i natten / Homeward in the Night",
+          "director": "Jon Lindström",
+          "aliases": [
+            "Hemat i natten",
+            "Homeward in the Night"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250018/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Il gabbiano (La Gaviota)",
+          "director": "Marco Bellochio",
+          "aliases": [
+            "Il gabbiano",
+            "La Gaviota"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250014/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La guerra de papá / Daddy's War",
+          "director": "Antonio Mercero",
+          "aliases": [
+            "La guerra de papá",
+            "Daddy's War"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250009/es",
+          "filmAffinityId": "367270",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "La tierra y el cielo / The Earth and the Sky",
+          "director": "Manuel Octavio Gómez",
+          "aliases": [
+            "La tierra y el cielo",
+            "The Earth and the Sky"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250015/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mi hija Hildegart",
+          "director": "Fernando Fernán Gómez",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250010/es",
+          "filmAffinityId": "393557",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Paixão e Sombras",
+          "director": "Walter Hugo Khouri",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250005/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Pedro Páramo",
+          "director": "José Bolaños",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250016/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Se llamaba SN",
+          "director": "Luis Correa",
+          "aliases": [],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250019/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+          "director": "George Lucas",
+          "aliases": [
+            "Star Wars [Star Wars: Episode IV - A New Hope] / La guerra de las galaxias [Star Wars: Episodio IV - Una nueva esperanza]",
+            "Star Wars [Star Wars: Episode IV - A New Hope]",
+            "La guerra de las galaxias [Star Wars: Episodio IV - Una nueva esperanza]",
+            "Star Wars / La guerra de las galaxias",
+            "Star Wars",
+            "La guerra de las galaxias"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250012/es",
+          "filmAffinityId": "712041",
+          "filmaffinityTitle": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Tanase scatiu / A Summer Tale",
+          "director": "Dan Pita",
+          "aliases": [
+            "Tanase scatiu",
+            "A Summer Tale"
+          ],
+          "award": "En competición",
+          "competitionStatus": "EN_COMPETICION",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250007/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Disappearance (La desaparición)",
+          "director": "Stuart Cooper",
+          "aliases": [
+            "The Disappearance",
+            "La desaparición"
+          ],
+          "award": "Fuera de concurso",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250021/es",
+          "filmAffinityId": "723252",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "Violanta",
+          "director": "Daniel Schmid",
+          "aliases": [],
+          "award": "Fuera de concurso",
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "identitySource": "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/7/250023/es",
+          "wins": [],
+          "nominations": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "San Sebastián",
+      "year": 1977,
+      "section": "Palmarés · cortometrajes",
       "films": [
         {
           "title": "Expediente",
@@ -595,242 +3725,11 @@
           ],
           "wins": [
             "Concha de Oro · cortometraje"
-          ]
+          ],
+          "aliases": [],
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
-      ],
-      "coverageStatus": "partial"
-    },
-    {
-      "festival": "Berlín",
-      "year": 1977,
-      "section": "Palmarés FilmAffinity España · largometrajes (cobertura parcial; selección oficial pendiente)",
-      "films": [
-        {
-          "title": "La ascensión",
-          "director": "Larisa Shepitko",
-          "award": "Oso de Oro · Mejor película · FIPRESCI · Mención de honor · Premio OCIC · Premio Interfilm (Recomendación)",
-          "nominations": [
-            "Oso de Oro",
-            "Mención honorífica FIPRESCI",
-            "Premio OCIC",
-            "Recomendación Interfilm",
-            "Oso de Oro · Mejor película",
-            "FIPRESCI · Mención de honor",
-            "Premio Interfilm (Recomendación)"
-          ],
-          "wins": [
-            "Oso de Oro · Mejor película",
-            "FIPRESCI · Mención de honor",
-            "Premio OCIC",
-            "Premio Interfilm (Recomendación)"
-          ],
-          "filmaffinityTitle": "La ascensión",
-          "filmAffinityId": "792232",
-          "aliases": [
-            "The Ascent"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "Los albañiles",
-          "director": "Jorge Fons",
-          "award": "Oso de Plata (ex aequo)",
-          "nominations": [
-            "Oso de Plata",
-            "Oso de Oro · Mejor película",
-            "Oso de Plata (ex aequo)"
-          ],
-          "wins": [
-            "Oso de Plata (ex aequo)"
-          ],
-          "filmaffinityTitle": "Los albañiles",
-          "filmAffinityId": "920793",
-          "aliases": [
-            "The Bricklayers"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "El anacoreta",
-          "director": "Juan Estelrich",
-          "award": "Oso de Plata · Oso de Plata · Mejor actor · Fernando Fernán Gómez",
-          "nominations": [
-            "Oso de Plata · mejor actor · Fernando Fernán Gómez",
-            "Oso de Oro · Mejor película",
-            "Oso de Plata",
-            "Oso de Plata · Mejor actor · Fernando Fernán Gómez"
-          ],
-          "wins": [
-            "Oso de Plata",
-            "Oso de Plata · Mejor actor · Fernando Fernán Gómez"
-          ],
-          "filmaffinityTitle": "El anacoreta",
-          "filmAffinityId": "777844",
-          "aliases": [
-            "The Anchorite"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "Camada negra",
-          "director": "Manuel Gutiérrez Aragón",
-          "award": "Oso de Plata · Mejor dirección · Manuel Gutiérrez Aragón",
-          "nominations": [
-            "Oso de Plata · mejor dirección · Manuel Gutiérrez Aragón",
-            "Oso de Oro · Mejor película",
-            "Oso de Plata · Mejor dirección · Manuel Gutiérrez Aragón"
-          ],
-          "wins": [
-            "Oso de Plata · Mejor dirección · Manuel Gutiérrez Aragón"
-          ],
-          "filmaffinityTitle": "Camada negra",
-          "filmAffinityId": "269330",
-          "aliases": [
-            "Black Litter"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "El gato conoce al asesino",
-          "director": "Robert Benton",
-          "award": "Oso de Plata · Mejor actriz · Lily Tomlin",
-          "nominations": [
-            "Oso de Plata · mejor actriz · Lily Tomlin",
-            "Oso de Oro · Mejor película",
-            "Oso de Plata · Mejor actriz · Lily Tomlin"
-          ],
-          "wins": [
-            "Oso de Plata · Mejor actriz · Lily Tomlin"
-          ],
-          "filmaffinityTitle": "El gato conoce al asesino",
-          "filmAffinityId": "976962",
-          "aliases": [
-            "The Late Show"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "Al otro lado de la noticia",
-          "director": "Joan Micklin Silver",
-          "award": "Premio Interfilm · Otto Dibelius",
-          "nominations": [
-            "Premio Interfilm · Otto Dibelius",
-            "Oso de Oro · Mejor película"
-          ],
-          "wins": [
-            "Premio Interfilm · Otto Dibelius"
-          ],
-          "filmaffinityTitle": "Al otro lado de la noticia",
-          "filmAffinityId": "576811",
-          "aliases": [
-            "Between the Lines"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "El diablo probablemente",
-          "director": "Robert Bresson",
-          "award": "Oso de Plata · Premio Especial del Jurado · Premio OCIC (Recomendación) · Premio Interfilm",
-          "nominations": [
-            "Oso de Plata · Premio Especial del Jurado · Recomendación OCIC · Premio Interfilm",
-            "Oso de Oro · Mejor película",
-            "Oso de Plata · Premio Especial del Jurado",
-            "Premio OCIC (Recomendación)",
-            "Premio Interfilm"
-          ],
-          "wins": [
-            "Oso de Plata · Premio Especial del Jurado",
-            "Premio OCIC (Recomendación)",
-            "Premio Interfilm"
-          ],
-          "filmaffinityTitle": "El diablo probablemente",
-          "filmAffinityId": "699895",
-          "aliases": [
-            "The Devil, Probably"
-          ],
-          "awardSource": "FilmAffinity España · edición Berlín 1977",
-          "identityStatus": "FA_CONFIRMED_BY_EDITION; PROPERTY_PENDING"
-        },
-        {
-          "title": "A Strange Role",
-          "director": null,
-          "award": "Oso de Plata (ex aequo) · Premio C.I.D.A.L.C. · Premio Interfilm (Recomendación)",
-          "nominations": [
-            "Oso de Oro · Mejor película",
-            "Oso de Plata (ex aequo)",
-            "Premio C.I.D.A.L.C.",
-            "Premio Interfilm (Recomendación)"
-          ],
-          "wins": [
-            "Oso de Plata (ex aequo)",
-            "Premio C.I.D.A.L.C.",
-            "Premio Interfilm (Recomendación)"
-          ],
-          "sourceTitle": "A STRANGE ROLE",
-          "filmAffinityId": "938461",
-          "identityStatus": "FA_ID_LINKED_FROM_AWARD_EDITION; DIRECTOR_AND_PROPERTY_PENDING",
-          "identityNote": "Entrada adicional de premios enlazada por FilmAffinity; sección de programa, dirección y propiedad pendientes de cotejo.",
-          "awardSource": "FilmAffinity España · edición Berlín 1977"
-        },
-        {
-          "title": "Day for My Love",
-          "director": null,
-          "award": "Premio OCIC (Recomendación)",
-          "nominations": [
-            "Oso de Oro · Mejor película",
-            "Premio OCIC (Recomendación)"
-          ],
-          "wins": [
-            "Premio OCIC (Recomendación)"
-          ],
-          "sourceTitle": "DAY FOR MY LOVE",
-          "filmAffinityId": "181357",
-          "identityStatus": "FA_ID_LINKED_FROM_AWARD_EDITION; DIRECTOR_AND_PROPERTY_PENDING",
-          "identityNote": "Entrada adicional de premios enlazada por FilmAffinity; sección de programa, dirección y propiedad pendientes de cotejo.",
-          "awardSource": "FilmAffinity España · edición Berlín 1977"
-        },
-        {
-          "title": "Mamá, estoy vivo",
-          "director": null,
-          "award": "Premio Interfilm (Recomendación)",
-          "nominations": [
-            "Oso de Oro · Mejor película",
-            "Premio Interfilm (Recomendación)"
-          ],
-          "wins": [
-            "Premio Interfilm (Recomendación)"
-          ],
-          "sourceTitle": "MAMÁ, ESTOY VIVO",
-          "filmAffinityId": "968968",
-          "identityStatus": "FA_ID_LINKED_FROM_AWARD_EDITION; DIRECTOR_AND_PROPERTY_PENDING",
-          "identityNote": "Entrada adicional de premios enlazada por FilmAffinity; sección de programa, dirección y propiedad pendientes de cotejo.",
-          "awardSource": "FilmAffinity España · edición Berlín 1977"
-        },
-        {
-          "title": "Cyclops",
-          "director": null,
-          "award": "Premio Interfilm (Recomendación)",
-          "nominations": [
-            "Oso de Oro · Mejor película",
-            "Premio Interfilm (Recomendación)"
-          ],
-          "wins": [
-            "Premio Interfilm (Recomendación)"
-          ],
-          "sourceTitle": "CYCLOPS",
-          "filmAffinityId": "333499",
-          "identityStatus": "FA_ID_LINKED_FROM_AWARD_EDITION; DIRECTOR_AND_PROPERTY_PENDING",
-          "identityNote": "Entrada adicional de premios enlazada por FilmAffinity; sección de programa, dirección y propiedad pendientes de cotejo.",
-          "awardSource": "FilmAffinity España · edición Berlín 1977"
-        }
-      ],
-      "coverageStatus": "partial"
+      ]
     }
   ],
   "coverageStatus": "partial"
