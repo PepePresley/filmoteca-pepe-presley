@@ -1,7 +1,7 @@
 {
   "year": 1977,
-  "status": "CONSTRUIDO_PARCIAL",
-  "scope": "Festival de Cannes: selección oficial y premios; faltan Berlín, Venecia, San Sebastián, Oscar y BAFTA para igualar el alcance de los ejemplos 1982. San Sebastián: solo palmarés de películas premiadas integrado; selección completa pendiente. Berlín: se integró un extracto parcial del palmarés FilmAffinity España; identidad FA cotejada en cinco títulos. Propiedad pendiente de contrastar contra maestros. Venecia: comprobada ausencia de edición competitiva 1977–1978 y naturaleza no competitiva en 1979; programa/selección 1979 pendiente.",
+  "status": "CONSTRUIDO_CON_SALVEDADES",
+  "scope": "Familias principales de 1977 construidas por método práctico: Cannes conservado; Oscar y BAFTA cine integrados desde paquetes de Luna; Berlín 22 largometrajes de FilmAffinity; San Sebastián 23 largometrajes oficiales y corto premiado. Venecia no celebrada; Un Certain Regard y Goya no aplicables. No equivale a auditoría histórica exhaustiva.",
   "sources": [
     "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_1977",
     "https://www.festival-cannes.com/en/retrospective/1977/selection/",
@@ -45,7 +45,11 @@
     "https://www.festival-cannes.com/en/retrospective/1977/",
     "https://www.festival-cannes.com/f/la-bible/",
     "https://www.imdb.com/title/tt0075749/",
-    "https://www.labiennale.org/en/history-venice-film-festival"
+    "https://www.labiennale.org/en/history-venice-film-festival",
+    "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1977",
+    "https://www.sansebastianfestival.com/1977/secciones_y_peliculas/seccion_oficial/8/es",
+    "https://www.oscars.org/oscars/ceremonies/1977",
+    "https://www.bafta.org/awards/film/?award-year=1977"
   ],
   "masters": [
     "Catalogo_Telegram_1977.xlsx",
@@ -81,68 +85,69 @@
     },
     {
       "year": 1977,
-      "festival": "San Sebastián",
-      "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)",
-      "films": 4,
-      "declaredOwned": 1
+      "festival": "Oscar",
+      "section": "Premios Oscar · 49.ª edición",
+      "films": 50,
+      "declaredOwned": 29
     },
     {
       "year": 1977,
-      "festival": "San Sebastián",
-      "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)",
-      "films": 1,
-      "declaredOwned": 0
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1976",
+      "films": 27,
+      "declaredOwned": 16
     },
     {
       "year": 1977,
       "festival": "Berlín",
-      "section": "Palmarés FilmAffinity España · largometrajes (cobertura parcial; selección oficial pendiente)",
-      "films": 11,
+      "section": "Competición oficial · largometrajes",
+      "films": 22,
+      "declaredOwned": 9
+    },
+    {
+      "year": 1977,
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 23,
+      "declaredOwned": 10
+    },
+    {
+      "year": 1977,
+      "festival": "San Sebastián",
+      "section": "Palmarés · cortometrajes",
+      "films": 1,
       "declaredOwned": 0
     }
   ],
   "notes": [
-    "No se declara cerrado: quedan bloques aplicables parciales o sin integrar.",
-    "Propiedad: 20 referencias activas a filas de maestro; 0 registros con conflicto/propiedad pendiente.",
-    "Las selecciones y categorías marcadas parciales no certifican exhaustividad. Se conservan las extracciones consultadas en extracciones/."
+    "Cannes conservado exactamente, sin reauditar sus pendientes anteriores. Un Certain Regard no se añade antes de su primera edición.",
+    "Oscar: 50 películas, 22 categorías y 103 candidaturas/premios especiales, incluidos los dos premios especiales de efectos visuales. Se reutiliza el paquete de Luna.",
+    "BAFTA: 63 candidaturas personales/de categoría y 17 premios distintos, representados en 27 películas y 67 apariciones de candidatura. Las candidaturas compartidas de Dustin Hoffman, Walter Matthau y Jodie Foster se muestran en cada película y conservan sharedCandidacyId; 19 apariciones de premio no significan 19 premios distintos. The Bad News Bears se añade por la candidatura conjunta de Matthau.",
+    "Identidades recuperadas en bloque mediante FA España, IDs ya publicados, título original/aliases de maestros y coincidencias inequívocas de persona/categoría de la edición FA. No se inventan IDs ni se investigan individualmente todas las ausencias.",
+    "Berlín: 22 largometrajes de la edición FilmAffinity. No se declara completa la cobertura de cortos o programas paralelos.",
+    "San Sebastián: 23 largometrajes oficiales, tres fuera de concurso con su etiqueta y premios publicados conservados; cortometrajes limitados al palmarés anterior.",
+    "Propiedad acreditada únicamente mediante maestros aprobados leídos sin modificación; cada declaración nueva tiene evidencia de fila física. Las no localizadas quedan pendientes, no como ausencias acreditadas.",
+    "Venecia no celebrada según la documentación y continuidad ya comprobadas. No se añaden ediciones vacías. Sin cambios de catálogo, overlays ni interfaz."
   ],
-  "coverageStatus": "partial",
+  "coverageStatus": "constructed_with_caveats",
   "coverage": {
-    "completeBlocks": [],
-    "partialBlocks": [
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Fuera de concurso · largometrajes"
-      },
-      {
-        "festival": "Cannes",
-        "section": "Competición oficial · cortometrajes"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · largometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "San Sebastián",
-        "section": "Películas premiadas · cortometrajes (palmarés; selección incompleta)"
-      },
-      {
-        "festival": "Berlín",
-        "section": "Palmarés FilmAffinity España · largometrajes (cobertura parcial; selección oficial pendiente)"
-      },
-      {
-        "festival": "Venecia",
-        "section": "Programa no competitivo · selección no integrada"
-      }
-    ],
-    "notHeldBlocks": [],
-    "missingOrUncompiledFestivals": [
+    "constructedMainFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
       "Oscar",
       "BAFTA"
+    ],
+    "notHeldBlocks": [
+      {
+        "festival": "Venecia",
+        "section": "No celebrada"
+      }
+    ],
+    "remainingCaveats": [
+      "Cannes conserva pendientes previos.",
+      "Berlín y San Sebastián no tienen selección exhaustiva de cortometrajes.",
+      "Identidades sin FilmAffinity o propiedad acreditada siguen pendientes."
     ]
   },
   "preparationPackage": {
@@ -162,6 +167,51 @@
       "films": [],
       "coverageStatus": "partial",
       "notes": "La Biennale describe 1977 como un evento centrado en el cine de Europa del Este dentro del proyecto de disenso cultural. No se integran selección ni premios competitivos."
+    }
+  ],
+  "completionDate": "2026-10-21",
+  "supplements": [
+    {
+      "name": "Oscar_1977_preparacion_para_Sol.zip",
+      "sha256": "c9cfb0883a3aa404960f878e575c9fcaff602088e8336be8cf15afeb74ea5792"
+    },
+    {
+      "name": "BAFTA_1977_preparacion_para_Sol.zip",
+      "sha256": "39382d64eb8824cf518d0fe67bb03c63efa12b547b89f154dcc68ed7e59280a0"
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1977|Actor|Dustin Hoffman",
+      "films": [
+        "All The President's Men",
+        "Marathon Man"
+      ],
+      "winner": false
+    },
+    {
+      "id": "BAFTA|1977|Actor|Walter Matthau",
+      "films": [
+        "The Sunshine Boys",
+        "The Bad News Bears"
+      ],
+      "winner": false
+    },
+    {
+      "id": "BAFTA|1977|Most Promising Newcomer To Leading Film Roles|Jodie Foster",
+      "films": [
+        "Bugsy Malone",
+        "Taxi Driver"
+      ],
+      "winner": true
+    },
+    {
+      "id": "BAFTA|1977|Supporting Actress|Jodie Foster",
+      "films": [
+        "Bugsy Malone",
+        "Taxi Driver"
+      ],
+      "winner": true
     }
   ]
 }
