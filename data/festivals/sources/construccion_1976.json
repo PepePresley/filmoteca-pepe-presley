@@ -1,0 +1,294 @@
+{
+  "year": 1976,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-21",
+  "scope": "Paquete 1976 integrado con Cannes, Berlín, San Sebastián, Oscar y BAFTA cine. Venecia tuvo actividad de formato distinto: programa pendiente, no se marca como no celebrada. No se declara cerrado el año ni auditadas todas las identidades.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1976_para_Sol.zip",
+    "sha256": "47b3f4becf05d2e15d81cad85e627b0de90cf9e7bc10df1534d0bb5f7e5e4981"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 20,
+      "declaredOwned": 15,
+      "withFA": 5,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 5,
+      "declaredOwned": 4,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 10,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · largometrajes",
+      "films": 26,
+      "declaredOwned": 10,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Berlín",
+      "section": "Fuera de concurso",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Berlín",
+      "section": "Forum · películas premiadas (selección parcial)",
+      "films": 3,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Berlín",
+      "section": "Premios independientes · sección pendiente de acreditar",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 22,
+      "declaredOwned": 13,
+      "withFA": 2,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 2,
+      "declaredOwned": 2,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Palmarés · cortometrajes",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 48.ª edición",
+      "films": 55,
+      "declaredOwned": 34,
+      "withFA": 25,
+      "candidacyAppearances": 104
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1975",
+      "films": 31,
+      "declaredOwned": 18,
+      "withFA": 6,
+      "candidacyAppearances": 71
+    }
+  ],
+  "sources": {
+    "year": 1976,
+    "extractionsDirectory": "extracciones/",
+    "capturePolicy": "All new saved extracts are structured transcriptions; no original screenshots or HTML captures are claimed.",
+    "sources": [
+      {
+        "name": "Cannes Official Selection archive 1976",
+        "url": "https://www.festival-cannes.com/en/retrospective/1976/",
+        "coverage": "20 feature competition; 5 out of competition; 10 short-film competition",
+        "savedExtraction": "extracciones/cannes_1976_transcripcion.json",
+        "kind": "official page transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "Cannes awards archive 1976",
+        "url": "https://www.festival-cannes.com/en/retrospective/1976/awards/",
+        "coverage": "Feature and short awards",
+        "savedExtraction": "extracciones/cannes_1976_transcripcion.json",
+        "kind": "official page transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "Berlinale programme archive 1976",
+        "url": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1976/o=desc/p=1/rp=40",
+        "coverage": "Official archive attempted; inaccessible. Competition list retained as secondary transcription citing official archive.",
+        "savedExtraction": "extracciones/berlin_1976_transcripcion.json",
+        "kind": "official url unavailable + secondary transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "Berlinale awards archive 1976",
+        "url": "https://www.berlinale.de/en/archive/awards-juries/awards.html/y=1976/o=desc/p=1/rp=40",
+        "coverage": "Official archive attempted; inaccessible. Jury awards transcribed from article citing archived official pages.",
+        "savedExtraction": "extracciones/berlin_1976_transcripcion.json",
+        "kind": "official url unavailable + secondary transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "INTERFILM 26th Berlinale",
+        "url": "https://www.inter-film.org/festivals/berlinale-international-film-festival-berlin/26th-international-film-festival-berlin",
+        "coverage": "Competition/Forum labels and Interfilm awardees",
+        "savedExtraction": "extracciones/berlin_1976_transcripcion.json",
+        "kind": "awarding-body page transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "FIPRESCI 26th Berlinale",
+        "url": "https://fipresci.org/festival/26th-berlinale-berlin-international-film-festival/",
+        "coverage": "Awarded films; section unspecified on this page",
+        "savedExtraction": "extracciones/berlin_1976_transcripcion.json",
+        "kind": "awarding-body page transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "San Sebastián archive 1976, Official Section",
+        "url": "https://www.sansebastianfestival.com/1976/sections_and_films/official_section/8/in",
+        "coverage": "Official-section films and status labels",
+        "savedExtraction": "extracciones/sansebastian_1976_transcripcion.json",
+        "kind": "official archive page transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "San Sebastián awards 1976",
+        "url": "https://www.sansebastianfestival.com/1976/premios_y_jurados/premios/1/69/es",
+        "coverage": "Official award winners",
+        "savedExtraction": "extracciones/sansebastian_1976_transcripcion.json",
+        "kind": "official archive page transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "Venice Biennale festival history",
+        "url": "https://www.labiennale.org/en/history-venice-film-festival",
+        "coverage": "Activity and format in 1974–1976",
+        "savedExtraction": "extracciones/venecia_1976_transcripcion.json",
+        "kind": "official history transcription",
+        "originalCapture": false
+      },
+      {
+        "name": "FilmAffinity España — Cría cuervos...",
+        "url": "https://www.filmaffinity.com/es/film641823.html",
+        "coverage": "Identidad y título FA verificados para esta película; no se investigaron individualmente todos los IDs ausentes.",
+        "savedExtraction": "extracciones/cannes_1976_transcripcion.json",
+        "kind": "FilmAffinity España page transcription",
+        "originalCapture": false
+      }
+    ]
+  },
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Oscar",
+      "BAFTA"
+    ],
+    "pendingFamilies": [
+      "Venecia"
+    ],
+    "partialBlocks": [
+      "Berlín · Forum y premios independientes",
+      "San Sebastián · cortometrajes"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Formato y candidaturas de Oscar/BAFTA reutilizados del paquete de Luna. Cruce automático contra maestros aprobados 1974–1977 y reutilización de IDs ya publicados; no investigación individual de todas las ausencias.",
+    "BAFTA: candidaturas compartidas de Al Pacino y Gene Hackman en actor y John Williams en música conservadas en cada película, con sharedCandidacyId. Los recuentos por película no son recuentos de premios distintos.",
+    "Los títulos con propiedad acreditada usan el título registrado FA cuando consta o el título ES del maestro aprobado; los títulos no resueltos conservan la identidad de la fuente. No se inventan IDs ni carátulas.",
+    "Berlín: competición transcrita de fuente secundaria que cita el archivo oficial no accesible. Noce i dnie en competición con premio a mejor actriz; Forum parcial y sección de dos premiadas independientes aún pendiente de acreditar.",
+    "San Sebastián: 22 largometrajes en competición, Face to Face y película de clausura fuera de concurso, más Ouverture 2012 como corto premiado. No se declara completa la selección de cortometrajes.",
+    "Venecia: la historia oficial acredita actividad en 1974–1976; falta reconstruir el programa. Se conserva la edición vacía del paquete solo como evidencia de pendiente, sin publicarla como sección con cero películas.",
+    "Una regeneración prevista limitada a [1976]. Años anteriores publicados, catálogo, overlays, maestros e interfaces fuera del alcance."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1976|Mejor actor|Al Pacino",
+      "category": "Mejor actor",
+      "person": "Al Pacino",
+      "winner": true,
+      "films": [
+        "El padrino II",
+        "Tarde de perros"
+      ]
+    },
+    {
+      "id": "BAFTA|1976|Mejor música original|John Williams",
+      "category": "Mejor música original",
+      "person": "John Williams",
+      "winner": true,
+      "films": [
+        "Tiburón",
+        "El coloso en llamas"
+      ]
+    },
+    {
+      "id": "BAFTA|1976|Mejor actor|Gene Hackman",
+      "category": "Mejor actor",
+      "person": "Gene Hackman",
+      "winner": false,
+      "films": [
+        "Contacto en Francia II",
+        "La noche se mueve"
+      ]
+    }
+  ],
+  "unpublishedPendingProgramme": {
+    "festival": "Venecia",
+    "year": 1976,
+    "section": "Actividad de 1974–1976 en formato distinto; programa de 1976 no reconstruido (pendiente)",
+    "films": []
+  },
+  "packageDoubts": [
+    {
+      "block": "Cannes · identidades FilmAffinity",
+      "question": "Solo se verificó individualmente Cría cuervos... (FilmAffinity España 641823). Los otros 34 títulos de Cannes (20 largometrajes en competición, 5 fuera de concurso y 9 cortos) conservan la identidad de la fuente oficial y filmAffinityId vacío.",
+      "impact": "Selección y palmarés acreditados; queda incompleta la capa de IDs/título registrado FA. No se investigaron uno a uno por el límite indicado."
+    },
+    {
+      "block": "Berlín Forum",
+      "question": "La selección completa del Forum 1976 no se pudo reconstruir con fuentes accesibles; solo constan los títulos acreditados en la sección de premios/interfilm.",
+      "impact": "Programa parcial; no se presenta como selección completa."
+    },
+    {
+      "block": "Berlín Trains",
+      "question": "La transcripción disponible da el título “Trains” y director Caleb Deschanel, sin título original ni ficha identificable en esta comprobación.",
+      "impact": "Registro se conserva con identidad y filmAffinityId pendientes."
+    },
+    {
+      "block": "Berlín archivo oficial",
+      "question": "El archivo oficial de programa y premios respondió con error de acceso; la lista competitiva viene de transcripción secundaria que cita el archivo Berlinale.",
+      "impact": "Cotejo oficial archivístico pendiente."
+    },
+    {
+      "block": "San Sebastián cortometrajes",
+      "question": "Se acredita Ouverture 2012 como ganadora del premio al cortometraje, pero no se recuperó una lista completa de cortos.",
+      "impact": "Bloque de cortos parcial."
+    },
+    {
+      "block": "Venecia",
+      "question": "La historia oficial acredita la actividad y su formato distinto en 1974–1976, pero no ofrece la lista de películas de 1976.",
+      "impact": "Programa pendiente."
+    }
+  ]
+}
