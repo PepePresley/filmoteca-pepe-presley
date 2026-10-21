@@ -1,0 +1,513 @@
+{
+  "year": 1973,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-21",
+  "scope": "Paquete 1973 integrado con Cannes, Berlín, San Sebastián, Oscar y BAFTA cine. Venecia no tuvo edición oficial de la Mostra según publicación institucional; Giornate del Cinema Italiano paralelas fuera de alcance. No se declara cerrado el año ni auditadas todas las identidades.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1973_para_Sol.zip",
+    "sha256": "01964d15fbe20b614f5419cf0d58e00c946169324989f3ec1dbf944c87440317"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 24,
+      "declaredOwned": 19,
+      "withFA": 0,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 14,
+      "declaredOwned": 8,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 7,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · largometrajes",
+      "films": 23,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Berlín",
+      "section": "Fuera de concurso",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 15,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 4,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Selección y palmarés · cortometrajes",
+      "films": 10,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Informativa",
+      "films": 10,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Proyecciones especiales",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 45.ª edición",
+      "films": 48,
+      "declaredOwned": 27,
+      "withFA": 0,
+      "candidacyAppearances": 100
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1972",
+      "films": 32,
+      "declaredOwned": 20,
+      "withFA": 0,
+      "candidacyAppearances": 74
+    }
+  ],
+  "sources": [
+    {
+      "id": "cannes-selection",
+      "festival": "Cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1973/selection/",
+      "kind": "archivo oficial; transcripción del lector web",
+      "coverage": "Competición de largometrajes, fuera de concurso y competición de cortos transcritos completos según página visible. Perspectivas Cinéma français no se incorpora como sección pedida adicional.",
+      "localExtractions": [
+        "extracciones/cannes_selection_1973_transcripcion.json"
+      ]
+    },
+    {
+      "id": "cannes-awards",
+      "festival": "Cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1973/awards/",
+      "kind": "archivo oficial; transcripción del buscador web",
+      "coverage": "Premios de largometrajes y cortos visibles transcritos.",
+      "localExtractions": [
+        "extracciones/cannes_awards_1973_transcripcion.json"
+      ]
+    },
+    {
+      "id": "ssiff-programme",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1973/secciones_y_peliculas/8/es",
+      "kind": "archivo oficial; transcripción parcial del lector web",
+      "coverage": "Transcritas filas visibles de Sección Oficial (incluyendo etiquetas concretas), 10 cortos, retrospectiva Mamoulian e informativa; la página declara 54 películas totales y el lector no expone con certeza todas las filas. Premio de la Concha de Oro confirmado en ficha individual.",
+      "localExtractions": [
+        "extracciones/ssiff_1973_transcripcion_parcial.json"
+      ]
+    },
+    {
+      "id": "berlin-attempt",
+      "festival": "Berlín",
+      "url": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1973/o=desc/p=1/rp=40",
+      "kind": "intento de archivo oficial inaccesible",
+      "coverage": "No selection extracted.",
+      "localExtractions": [
+        "extracciones/berlinale_1973_access_attempt.json"
+      ]
+    },
+    {
+      "id": "oscars",
+      "festival": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1973",
+      "kind": "Academy oficial y FilmAffinity España; transcripciones consultadas",
+      "coverage": "Transcritas las 22 categorías competitivas de cine y las candidaturas por película/persona desde Academy; FilmAffinity España consultada como fuente primaria de título y resultados generales. IDs FA no verificados individualmente.",
+      "localExtractions": [
+        "extracciones/oscars_1973_official_page.json"
+      ]
+    },
+    {
+      "id": "bafta-film",
+      "festival": "BAFTA",
+      "url": "https://www.bafta.org/awards/film/?award-year=1973",
+      "kind": "archivo oficial Film; consulta y transcripción parcial",
+      "coverage": "17 categorías de Film transcritas a registros agrupados por película, incluyendo categorías de cine corto y candidaturas personales. Queda pendiente confirmar si hubo Fellowship para esta edición.",
+      "localExtractions": [
+        "extracciones/bafta_film_1973_official_page.json"
+      ]
+    },
+    {
+      "id": "venice-history",
+      "festival": "Venecia",
+      "url": "https://static.labiennale.org/files/labiennale/Documenti/the-disquieted-muses-c.pdf",
+      "kind": "publicación institucional oficial de La Biennale; extracto hallado en búsqueda web",
+      "coverage": "La publicación institucional de la Biennale indica que la Mostra no se celebró en 1973 y que las Giornate del Cinema Italiano fueron una actividad paralela. Se documenta el hecho; no se incorpora esa programación paralela como selección oficial.",
+      "localExtractions": [
+        "extracciones/venice_history_1973_search.json"
+      ]
+    },
+    {
+      "id": "ssiff-oro-spirit-beehive",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1973/secciones_y_peliculas/seccion_oficial/7/210005/es",
+      "kind": "archivo oficial; ficha individual",
+      "coverage": "El espíritu de la colmena: Concha de Oro a la mejor película.",
+      "localExtractions": [
+        "extracciones/ssiff_1973_transcripcion_parcial.json"
+      ]
+    },
+    {
+      "id": "ssiff-awards",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1973/premios_y_jurados/premios/1/66/es",
+      "kind": "archivo oficial; resultado de búsqueda y transcripción",
+      "coverage": "Palmarés oficial de largometraje y corto. Conchas, premio del jurado y premios interpretativos ex-aequo ligados a sus películas.",
+      "localExtractions": [
+        "extracciones/ssiff_awards_1973_transcripcion.json"
+      ]
+    },
+    {
+      "id": "berlin-secondary",
+      "festival": "Berlín",
+      "url": "https://en.wikipedia.org/wiki/23rd_Berlin_International_Film_Festival",
+      "kind": "fuente secundaria (transcripción); contrastada con listas secundarias multilingües y citas a Berlinale",
+      "coverage": "23 títulos en competición y dos fuera de concurso, con palmarés del jurado y FIPRESCI según las listas secundarias. Hay discrepancias entre versiones sobre la extensión de la competición; archivo oficial no accesible. Cortos sin reconstruir.",
+      "localExtractions": [
+        "extracciones/berlin_1973_secondary_transcripcion.json"
+      ]
+    },
+    {
+      "id": "oscars-filmaffinity-edition",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1973",
+      "kind": "FilmAffinity España; resultado de búsqueda indexado",
+      "coverage": "Identifica 45.ª edición (ceremonia 1973, películas 1972), principales categorías y títulos españoles visibles. No permite en esta extracción validar todos los IDs ni el texto íntegro de cada ficha.",
+      "localExtractions": [
+        "extracciones/oscars_1973_official_page.json"
+      ]
+    },
+    {
+      "id": "bafta-fellowship",
+      "festival": "BAFTA",
+      "url": "https://www.bafta.org/awards/full-list-of-bafta-fellows/",
+      "kind": "archivo oficial BAFTA",
+      "coverage": "Lista oficial de fellowships: 1973 Grace Wyndham Goldie. Se conserva fuera de categorías Film y se indica en la nota que el resultado Television la ubica en su ceremonia.",
+      "localExtractions": [
+        "extracciones/bafta_film_1973_official_page.json"
+      ]
+    },
+    {
+      "id": "oscars-filmaffinity-edition",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1973",
+      "kind": "FilmAffinity España; resultado de búsqueda indexado",
+      "coverage": "Identifica 45.ª edición (ceremonia 1973, películas 1972), principales categorías y títulos españoles visibles. No permite en esta extracción validar todos los IDs ni el texto íntegro de cada ficha.",
+      "localExtractions": [
+        "extracciones/oscars_1973_official_page.json"
+      ]
+    },
+    {
+      "id": "bafta-fellowship",
+      "festival": "BAFTA",
+      "url": "https://www.bafta.org/awards/full-list-of-bafta-fellows/",
+      "kind": "archivo oficial BAFTA",
+      "coverage": "Lista oficial de fellowships: 1973 Grace Wyndham Goldie. Se conserva fuera de categorías Film y se indica en la nota que el resultado Television la ubica en su ceremonia.",
+      "localExtractions": [
+        "extracciones/bafta_film_1973_official_page.json"
+      ]
+    }
+  ],
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Oscar",
+      "BAFTA"
+    ],
+    "pendingFamilies": [],
+    "partialBlocks": [
+      "Berlín · archivo oficial y cortometrajes",
+      "San Sebastián · retrospectiva Mamoulian pendiente de cruce de propiedad"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Cruce automatizado contra maestros aprobados 1971–1974; referencia por maestro, hoja y fila física. Título FA cuando consta o título ES del maestro. Identidades sin ID no se presentan como verificadas en FilmAffinity. Sin investigación individual de ausencias ni imágenes inventadas.",
+    "BAFTA: solo categorías Film. Cabaret/Alice’s Adventures In Wonderland es un premio conjunto de fotografía, no una película: se separa y consolida en las dos fichas existentes. Se conservan seis candidaturas conjuntas de actor, fotografía y vestuario según archivo oficial: https://www.bafta.org/awards/film/?award-year=1973 .",
+    "Los Oscar de John Williams y Richard Portman en distintas películas son nominaciones separadas; se eliminan los sharedCandidacyId incorrectos del paquete. El empate BAFTA de guion conserva dos premios distintos, sin ID de candidatura conjunta.",
+    "Berlín: 23 películas de competición y dos fuera de concurso según reconstrucción secundaria; fuentes discrepantes sobre amplitud de la selección. Se conserva como parcial y pendiente de cotejo oficial y de cortometrajes.",
+    "San Sebastián: integradas competición (15 largometrajes), fuera de concurso (4), cortos (10), Informativa (10) y una proyección especial. Las catorce películas de la retrospectiva Mamoulian se conservan en evidencia, pendientes de cruce contra sus maestros históricos; no se declara publicada la totalidad de 54 películas. Se evita duplicar los dos archivos equivalentes de fuera de concurso.",
+    "Venecia: publicación institucional de La Biennale indica que la Mostra no se celebró en 1973. Las Giornate del Cinema Italiano fueron paralelas y no se publican como selección oficial.",
+    "La lista de dudas del paquete contiene pendientes antiguos de Oscar, BAFTA y San Sebastián que sus JSON finales ya amplían; se conserva como evidencia histórica, no como descripción vigente de esas transcripciones. Se mantiene el cotejo de Berlín y las identidades no verificadas como pendientes.",
+    "Asociaciones regeneradas solo para 1973; años anteriores, catálogo, maestros e interfaces preservados."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA1973-ACTOR-GENE-HACKMAN",
+      "category": "Mejor actor",
+      "person": "Gene Hackman",
+      "winner": true,
+      "films": [
+        "French Connection. Contra el imperio de la droga",
+        "La aventura del Poseidón"
+      ]
+    },
+    {
+      "id": "BAFTA1973-COSTUME-ANTHONY-MENDLESON",
+      "category": "Mejor vestuario",
+      "person": "Anthony Mendleson",
+      "winner": true,
+      "films": [
+        "El joven Winston",
+        "Macbeth: un hombre frente al rey",
+        "Las aventuras de Alicia"
+      ]
+    },
+    {
+      "id": "BAFTA1973-ACTOR-MARLON-BRANDO",
+      "category": "Mejor actor",
+      "person": "Marlon Brando",
+      "winner": false,
+      "films": [
+        "Los últimos juegos prohibidos",
+        "El padrino"
+      ]
+    },
+    {
+      "id": "BAFTA1973-ACTOR-GEORGE-SCOTT",
+      "category": "Mejor actor",
+      "person": "George C. Scott",
+      "winner": false,
+      "films": [
+        "El detective y la doctora",
+        "Anatomía de un hospital"
+      ]
+    },
+    {
+      "id": "BAFTA1973-CINEMATOGRAPHY-GEOFFREY-UNSWORTH",
+      "category": "Mejor fotografía",
+      "person": "Geoffrey Unsworth",
+      "winner": true,
+      "films": [
+        "Cabaret",
+        "Las aventuras de Alicia"
+      ]
+    },
+    {
+      "id": "BAFTA1973-CINEMATOGRAPHY-VILMOS-ZSIGMOND",
+      "category": "Mejor fotografía",
+      "person": "Vilmos Zsigmond",
+      "winner": false,
+      "films": [
+        "McCabe And Mrs Miller",
+        "Imágenes",
+        "Defensa"
+      ]
+    }
+  ],
+  "veniceStatus": {
+    "festival": "Venecia",
+    "year": 1973,
+    "section": "No edición oficial de la Mostra en 1973; Giornate del Cinema Italiano paralelas (programa fuera de alcance)",
+    "films": []
+  },
+  "unpublishedRetrospective": {
+    "festival": "San Sebastián",
+    "year": 1973,
+    "section": "Retrospectiva: Rouben Mamoulian",
+    "films": [
+      {
+        "title": "Applause (Aplauso)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Becky Sharp (La feria de la vanidad)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Blood and Sand (Sangre y arena)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "City Streets (Las calles de la ciudad)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Dr. Jekyll and Mr. Hyde (El hombre y el monstruo)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Golden Boy (Sueño dorado)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "High, Wide and Handsome (La furia del oro negro)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Love Me Tonight (Ámame esta noche)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Queen Christina (La reina Cristina de Suecia)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Rings on Her Fingers (Anillos en sus dedos)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "Silk Stockings (La bella de Moscú)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "The Gay Desperado (El alegre bandolero)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "The Mark of Zorro (El signo del Zorro)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      },
+      {
+        "title": "The Song of Songs (El cantar de los cantares)",
+        "director": "Rouben Mamoulian",
+        "filmAffinityId": null,
+        "aliases": [],
+        "nominations": [],
+        "wins": [],
+        "candidacies": []
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "festival": "Berlín",
+      "question": "¿Puede recuperarse el archivo del programa 1973 para confirmar selección, competición y premios?",
+      "status": "pendiente por inaccesibilidad de fuente oficial."
+    },
+    {
+      "festival": "San Sebastián",
+      "question": "¿Cuáles son las 34 filas restantes del archivo (total 54), su sección y las películas premiadas?",
+      "status": "pendiente; lectura parcial."
+    },
+    {
+      "festival": "Oscar",
+      "question": "Falta transcribir categorías y candidaturas completas de la 45.ª edición.",
+      "status": "pendiente."
+    },
+    {
+      "festival": "BAFTA",
+      "question": "Falta transcribir las 17 categorías Film con nominados/ganadores y Fellowship como premio personal.",
+      "status": "pendiente."
+    },
+    {
+      "festival": "FilmAffinity",
+      "question": "Los IDs no se cotejaron en esta preparación; todos permanecen null.",
+      "status": "pendiente; no se inventaron IDs."
+    },
+    {
+      "festival": "Venecia",
+      "question": "¿Se quiere documentar aparte el programa de las Giornate del Cinema Italiano de 1973, actividad paralela a la Mostra?",
+      "status": "La Mostra oficial no se celebró; no se incorpora la actividad paralela como sección oficial."
+    }
+  ]
+}
