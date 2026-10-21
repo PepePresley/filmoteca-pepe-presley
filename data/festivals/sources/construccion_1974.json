@@ -1,0 +1,361 @@
+{
+  "year": 1974,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-21",
+  "scope": "Paquete 1974 integrado con Cannes, Berlín, San Sebastián, Oscar y BAFTA cine. Venecia tuvo actividad de formato distinto: programa pendiente, no se marca como no celebrada. No se declara cerrado el año ni auditadas todas las identidades.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1974_para_Sol.zip",
+    "sha256": "d1d29b81a378e38739ce20ce4b4369b7b347b8294258e4d44aea313507de4468"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 26,
+      "declaredOwned": 16,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 14,
+      "declaredOwned": 7,
+      "withFA": 2,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 10,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · largometrajes",
+      "films": 24,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Berlín",
+      "section": "Fuera de concurso",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 20,
+      "declaredOwned": 12,
+      "withFA": 1,
+      "candidacyAppearances": 9
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 2,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Selección y palmarés · cortometrajes (parcial)",
+      "films": 25,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 46.ª edición",
+      "films": 46,
+      "declaredOwned": 28,
+      "withFA": 1,
+      "candidacyAppearances": 99
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1973",
+      "films": 40,
+      "declaredOwned": 19,
+      "withFA": 3,
+      "candidacyAppearances": 75
+    }
+  ],
+  "sources": [
+    {
+      "id": "cannes-selection",
+      "festival": "Cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1974/selection/",
+      "kind": "official archive",
+      "coverage": "Official archive. Complete visible lists transcribed into separate competition, out-of-competition and short-film JSON extracts; separate Perspectives Cinéma français excluded per requested scope.",
+      "note": "The three requested sections have been transcribed into the corresponding JSONs; the additional Perspectives section was not part of the requested output.",
+      "localExtractions": [
+        "extracciones/cannes_competition_1974_rendered_transcription.json",
+        "extracciones/cannes_out_of_competition_1974_rendered_transcription.json",
+        "extracciones/cannes_shorts_1974_rendered_transcription.json"
+      ]
+    },
+    {
+      "id": "cannes-awards",
+      "festival": "Cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1974/awards/",
+      "kind": "official archive",
+      "coverage": "Feature and short award recipients; winners attached to film records.",
+      "localExtractions": [
+        "extracciones/cannes_1974_awards_rendered_transcription.json"
+      ]
+    },
+    {
+      "id": "berlin-secondary",
+      "festival": "Berlín",
+      "url": "https://en.wikipedia.org/wiki/24th_Berlin_International_Film_Festival",
+      "kind": "secondary transcription",
+      "coverage": "Competition list, one out-of-competition film, official jury prizes and FIPRESCI.",
+      "note": "Page cites Berlinale archive records. Direct official programme archive was inaccessible through the browser tool; not represented as direct official extraction.",
+      "localExtractions": [
+        "extracciones/berlin_1974_secondary_rendered_transcription.json"
+      ]
+    },
+    {
+      "id": "berlin-archive-attempt",
+      "festival": "Berlín",
+      "url": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1974/o=desc/p=1/rp=40",
+      "kind": "official archive attempt",
+      "coverage": "Access attempt only; browser reader returned inaccessible URL.",
+      "localExtractions": [
+        "extracciones/berlinale_archive_attempt.json"
+      ]
+    },
+    {
+      "id": "ssiff-programme",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1974/secciones_y_peliculas/8/es",
+      "kind": "official archive",
+      "coverage": "Official archive says 86 total films. Extracts include visible official features, out-of-competition and 26 transcribed shorts; SQL errors affect some rows and full short completeness is not established.",
+      "localExtractions": [
+        "extracciones/sansebastian_1974_features_rendered_transcription.json",
+        "extracciones/sansebastian_1974_out_of_competition_rendered_transcription.json",
+        "extracciones/sansebastian_1974_shorts_rendered_transcription.json"
+      ]
+    },
+    {
+      "id": "ssiff-awards",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1974/premios_y_jurados/premios/1/67/es",
+      "kind": "official archive",
+      "coverage": "Official prizes transcribed and attached to corresponding film/person records.",
+      "localExtractions": [
+        "extracciones/sansebastian_awards_1974.json"
+      ]
+    },
+    {
+      "id": "oscars",
+      "festival": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1974",
+      "kind": "official archive",
+      "coverage": "46th Academy Awards, 2 April 1974, films released in 1973; all competitive cinematic categories and nominees/winners.",
+      "localExtractions": [
+        "extracciones/oscars_1974_rendered_transcription.json"
+      ]
+    },
+    {
+      "id": "bafta",
+      "festival": "BAFTA",
+      "url": "https://www.bafta.org/awards/film/?award-year=1974",
+      "kind": "official Film awards page",
+      "coverage": "Film category nominees/winners, excluding Television; Fellowship separated.",
+      "localExtractions": [
+        "extracciones/bafta_film_1974_rendered_transcription.json"
+      ]
+    },
+    {
+      "id": "venice",
+      "festival": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "kind": "official history",
+      "coverage": "Confirms activity and programme format 1974–1976, not titles of the programme.",
+      "localExtractions": [
+        "extracciones/venice_history_1974.json"
+      ]
+    },
+    {
+      "id": "filmAffinity-oscar",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1974",
+      "kind": "FilmAffinity España edition page",
+      "coverage": "Edition identity and summary of major awards, ceremony 1974/movies 1973.",
+      "note": "Does not replace the Academy complete nominations transcript.",
+      "localExtractions": [
+        "extracciones/filmaffinity_oscar_1974.json"
+      ]
+    },
+    {
+      "id": "fa-607949",
+      "festival": "identidad",
+      "url": "https://www.filmaffinity.com/es/film607949.html",
+      "kind": "FilmAffinity España ficha directa",
+      "coverage": "Verified registered title, original title, year and director for Amenaza en la sombra; used as identity authority.",
+      "localExtractions": [
+        "extracciones/filmaffinity_607949.json"
+      ]
+    },
+    {
+      "id": "fa-113826",
+      "festival": "identidad",
+      "url": "https://www.filmaffinity.com/es/film113826.html",
+      "kind": "FilmAffinity España ficha directa",
+      "coverage": "Verified registered title, original title, year and director for La noche americana; used as identity authority.",
+      "localExtractions": [
+        "extracciones/filmaffinity_113826.json"
+      ]
+    },
+    {
+      "id": "fa-752069",
+      "festival": "identidad",
+      "url": "https://www.filmaffinity.com/es/movie-awards.php?movie-id=752069",
+      "kind": "FilmAffinity España award/search transcription (direct film URL throttled)",
+      "coverage": "Verified registered title, original title, year and director for Malas tierras; used as identity authority.",
+      "localExtractions": [
+        "extracciones/filmaffinity_752069.json"
+      ]
+    }
+  ],
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Oscar",
+      "BAFTA"
+    ],
+    "pendingFamilies": [
+      "Venecia"
+    ],
+    "partialBlocks": [
+      "Berlín · archivo oficial y cortometrajes",
+      "San Sebastián · cortometrajes"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Cruce por bloque contra maestros aprobados 1972–1975; evidencia por hoja y fila física. Título registrado FA cuando consta, o título ES del maestro. Sin investigación individual de ausencias ni IDs o carátulas inventados.",
+    "Cannes: Lancelot du lac permanece fuera de concurso según selección oficial, conservando el FIPRESCI asociado. El encabezado del palmarés no se usa para inferir que compitió. Gran Premio Internacional del Festival conserva su denominación histórica de 1974.",
+    "Berlín: 24 películas de competición y una fuera de concurso reconstruidas mediante fuente secundaria; cotejo oficial y programa de cortometrajes pendientes.",
+    "San Sebastián: veinte largometrajes de competición, dos fuera de concurso y 25 cortometrajes de lista parcial. La doble etiqueta de Concha de Oro de Malas tierras se consolida en una sola candidatura equivalente.",
+    "BAFTA: únicamente categorías Film, cuatro candidaturas personales compartidas conservadas. Las etiquetas conjuntas de Charley Varrick y Pete n Tillie se eliminan como aliases de identidad y se conservan como asociaciones de candidatura. Casa de muñecas se identifica con Patrick Garland por la candidatura de Denholm Elliott: https://www.filmaffinity.com/es/filmimages.php?movie_id=220987 .",
+    "Venecia: actividad documentada en 1974–1976; programa de 1974 pendiente. Edición vacía no publicada, sin considerarla no celebrada.",
+    "Una regeneración de asociaciones limitada a 1974. Otros años, catálogo, maestros e interfaces preservados.",
+    "Consolidada Amenaza en la sombra / Don’t Look Now, duplicada en el paquete BAFTA bajo títulos distintos; se conservan las siete candidaturas en una sola ficha.",
+    "Eliminada también la etiqueta conjunta de las dos películas de Stéphane Audran de aliases de identidad; su candidatura compartida se conserva. Las identidades no cruzadas quedan pendientes."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA1974-ACTOR-WALTER-MATTHAU",
+      "category": "Mejor actor",
+      "person": "Walter Matthau",
+      "winner": true,
+      "films": [
+        "La gran estafa",
+        "Risas y lágrimas"
+      ]
+    },
+    {
+      "id": "BAFTA1974-ACTOR-DONALD-SUTHERLAND",
+      "category": "Mejor actor",
+      "person": "Donald Sutherland",
+      "winner": false,
+      "films": [
+        "Amenaza en la sombra",
+        "Material americano"
+      ]
+    },
+    {
+      "id": "BAFTA1974-CINEMATOGRAPHY-DOUGLAS-SLOCOMBE",
+      "category": "Mejor fotografía",
+      "person": "Douglas Slocombe",
+      "winner": false,
+      "films": [
+        "Jesucristo Superstar",
+        "Viajes con mi tía"
+      ]
+    },
+    {
+      "id": "BAFTA1974-ACTRESS-STEPHANE-AUDRAN",
+      "category": "Mejor actriz",
+      "person": "Stéphane Audran",
+      "winner": true,
+      "films": [
+        "The Discreet Charm of the Bourgeoisie",
+        "Just Before Nightfall"
+      ]
+    }
+  ],
+  "unpublishedPendingProgramme": {
+    "festival": "Venecia",
+    "year": 1974,
+    "section": "Programa histórico 1974 · reconstrucción pendiente",
+    "films": []
+  },
+  "packageDoubts": [
+    {
+      "id": "cannes-lancelot-section",
+      "festival": "Cannes",
+      "question": "La selección oficial de 1974 clasifica Lancelot du lac fuera de concurso, mientras el palmarés renderizado coloca su premio FIPRESCI bajo el encabezado “In Competition”. ¿Se conserva como fuera de concurso con el premio de la crítica, o se debe excluir el premio de la ficha de sección?",
+      "evidence": [
+        "https://www.festival-cannes.com/en/retrospective/1974/selection/",
+        "https://www.festival-cannes.com/en/retrospective/1974/awards/"
+      ],
+      "currentHandling": "Película en fuera de concurso según página de selección; FIPRESCI conservado como premio asociado, sin inferir que compitiera."
+    },
+    {
+      "id": "berlin-source",
+      "festival": "Berlín",
+      "question": "El archivo oficial de programa no se pudo abrir. La competición de 24 títulos y la lista fuera de concurso proceden de una transcripción secundaria con referencias a Berlinale. No se acredita por esa fuente un programa separado de cortos.",
+      "evidence": [
+        "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1974/o=desc/p=1/rp=40",
+        "https://en.wikipedia.org/wiki/24th_Berlin_International_Film_Festival"
+      ],
+      "currentHandling": "Datos incluidos como reconstrucción parcial secundaria, no como transcripción oficial."
+    },
+    {
+      "id": "san-sebastian-shorts",
+      "festival": "San Sebastián",
+      "question": "La página oficial indica 86 películas en total. La transcripción actual contiene 25 cortos legibles, pero errores SQL interrumpen filas y no se certifica que sea la lista completa.",
+      "evidence": [
+        "https://www.sansebastianfestival.com/1974/secciones_y_peliculas/8/es"
+      ],
+      "currentHandling": "Cortos visibles incluidos; bloque marcado parcial."
+    },
+    {
+      "id": "venice-programme",
+      "festival": "Venecia",
+      "question": "Está acreditada una edición activa en 1974, pero la historia oficial no enumera el programa ni permite determinar aquí su formato competitivo.",
+      "evidence": [
+        "https://www.labiennale.org/en/history-venice-film-festival"
+      ],
+      "currentHandling": "JSON de selección vacío y bloque pendiente; no se marca como no celebrado."
+    },
+    {
+      "id": "filmAffinity-identities",
+      "festival": "general",
+      "question": "En las 209 apariciones de películas, 6 filas tienen ID asignado (5 IDs distintos): dos reutilizados por coincidencia exacta en paquetes anteriores y tres con evidencia FilmAffinity España consultada. Las otras 203 apariciones conservan ID null y título de la fuente; su título registrado en FA sigue pendiente de cotejo.",
+      "evidence": [
+        "https://www.filmaffinity.com/es/film607949.html",
+        "https://www.filmaffinity.com/es/film113826.html",
+        "https://www.filmaffinity.com/es/movie-awards.php?movie-id=752069"
+      ],
+      "currentHandling": "No se asignan IDs por semejanza. La comprobación individual de todas las ausencias queda pendiente."
+    }
+  ]
+}
