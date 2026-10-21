@@ -1,0 +1,301 @@
+{
+  "year": 1975,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-21",
+  "scope": "Paquete 1975 integrado con Cannes, Berlín, San Sebastián, Oscar y BAFTA cine. Venecia tuvo actividad de formato distinto: programa pendiente, no se marca como no celebrada. No se declara cerrado el año ni auditadas todas las identidades.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1975_para_Sol.zip",
+    "sha256": "bb592c42e2a3078590fba26b333f20e04f400997b925548678b358d7e50bc4b2"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 22,
+      "declaredOwned": 17,
+      "withFA": 1,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 3,
+      "declaredOwned": 3,
+      "withFA": 2,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 6,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · largometrajes",
+      "films": 25,
+      "declaredOwned": 8,
+      "withFA": 1,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Berlín",
+      "section": "Fuera de concurso",
+      "films": 2,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Berlín",
+      "section": "Forum · películas premiadas (selección parcial)",
+      "films": 3,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 22,
+      "declaredOwned": 16,
+      "withFA": 2,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 2,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Selección y palmarés · cortometrajes (parcial)",
+      "films": 12,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 47.ª edición",
+      "films": 50,
+      "declaredOwned": 34,
+      "withFA": 1,
+      "candidacyAppearances": 104
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1974",
+      "films": 35,
+      "declaredOwned": 22,
+      "withFA": 0,
+      "candidacyAppearances": 75
+    }
+  ],
+  "sources": {
+    "year": 1975,
+    "capturePolicy": "Saved files are text/structured transcriptions or fetch status records, not original screenshots/captures. No screenshot is represented as a source capture.",
+    "sources": [
+      {
+        "name": "BAFTA 1975 Film Awards results",
+        "url": "https://www.bafta.org/awards/film/?award-year=1975",
+        "usedFor": "Official winners and nominees across all film categories; full page response timed out but search index rendered the structured results."
+      },
+      {
+        "name": "BAFTA Fellowship 1975",
+        "url": "https://www.bafta.org/awards/full-list-of-bafta-fellows/",
+        "usedFor": "Confirms Jacques Cousteau Fellowship, listed as a personal honor."
+      },
+      {
+        "name": "FilmAffinity Spain — Oscar 1975 (47th edition)",
+        "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1975",
+        "usedFor": "Spanish title identity, category display, award winner summary; incomplete category details supplemented from Academy."
+      },
+      {
+        "name": "Academy — 47th Oscars ceremony",
+        "url": "https://www.oscars.org/oscars/ceremonies/1975",
+        "usedFor": "All Oscar film nominees, winning status, creator names, personal awards."
+      },
+      {
+        "name": "FilmAffinity — BAFTA 1975 (English mirror of edition page)",
+        "url": "https://www.filmaffinity.com/en/award-edition.php?edition-id=bafta_1975",
+        "usedFor": "Film categories/nominations; television ignored."
+      },
+      {
+        "name": "FilmAffinity — Berlinale 1975",
+        "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1975",
+        "usedFor": "Award winners/nominee counts and alternate prize evidence."
+      },
+      {
+        "name": "Berlinale — 1975 Archive programme",
+        "url": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1975/o=desc/p=1/rp=40",
+        "usedFor": "Attempted primary programme fetch; inaccessible in this session."
+      },
+      {
+        "name": "Berlinale — 1975 Archive awards",
+        "url": "https://www.berlinale.de/en/archive/awards-juries/awards.html/y=1975/o=desc/p=1/rp=40",
+        "usedFor": "Attempted primary awards fetch; 503 in this session."
+      },
+      {
+        "name": "Berlinale — Chronicle 1975",
+        "url": "https://www.berlinale.de/de/archiv/chroniken/1975.html",
+        "usedFor": "Official chronology, event dates/context."
+      },
+      {
+        "name": "Berlinale 1975 historic programme transcription (secondary)",
+        "url": "https://en.wikipedia.org/wiki/25th_Berlin_International_Film_Festival",
+        "usedFor": "Competition/out-of-competition reconstruction only; requires official archive audit."
+      },
+      {
+        "name": "FilmAffinity — San Sebastián 1975",
+        "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=ss_1975",
+        "usedFor": "Palmarés summary; no full selection."
+      },
+      {
+        "name": "San Sebastián — 23rd edition film list",
+        "url": "https://www.sansebastianfestival.com/1975/secciones_y_peliculas/8/es",
+        "usedFor": "Official section, title, director, out-of-competition label; output has SQL error in later rows."
+      },
+      {
+        "name": "San Sebastián — official awards 1975",
+        "url": "https://www.sansebastianfestival.com/1975/premios_y_jurados/premios/1/68/es",
+        "usedFor": "Official awards and film/person associations, including short-film Golden Shell."
+      },
+      {
+        "name": "La Biennale di Venezia — Festival history",
+        "url": "https://www.labiennale.org/en/history-venice-film-festival",
+        "usedFor": "Confirms 1974–1976 alternative festival activity; no complete film programme list."
+      },
+      {
+        "name": "FilmAffinity — Cannes 1975 edition",
+        "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=cannes_1975",
+        "usedFor": "Cross-check award summary (page content extraction was not retained separately in this session)."
+      },
+      {
+        "name": "Festival de Cannes — selection 1975",
+        "url": "https://www.festival-cannes.com/en/retrospective/1975/selection/",
+        "usedFor": "Official competition, out-of-competition feature and short selection."
+      },
+      {
+        "name": "Festival de Cannes — awards 1975",
+        "url": "https://www.festival-cannes.com/en/retrospective/1975/awards/",
+        "usedFor": "Official feature and short prizes."
+      }
+    ]
+  },
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Oscar",
+      "BAFTA"
+    ],
+    "pendingFamilies": [
+      "Venecia"
+    ],
+    "partialBlocks": [
+      "Berlín · archivo oficial y Forum",
+      "San Sebastián · cortometrajes"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Paquete de Luna integrado en bloque con cruce contra maestros aprobados 1973–1976. Propiedad acreditada por fila física. No se investigan individualmente las ausencias inequívocas ni se inventan IDs o carátulas.",
+    "BAFTA: se publican exclusivamente candidaturas de las categorías oficiales Film. The Autobiography of Miss Jane Pittman se conserva porque el archivo oficial la incluye en Film/Actress y United Nations Award de 1975, aunque su origen es televisivo; no se incorporan categorías BAFTA Television. Fuente: https://www.bafta.org/awards/film/?award-year=1975",
+    "Las cuatro candidaturas personales compartidas de Jack Nicholson, Robert Towne, Sidney Lumet y Geoffrey Unsworth conservan sharedCandidacyId; apariciones por película no equivalen a premios distintos.",
+    "Berlín: reconstrucción secundaria; etiquetas y asociaciones del Premio Especial del Jurado y contribución artística pendientes de cotejo oficial. Se conserva la transcripción del paquete sin declarar resuelta esta discrepancia. Forum parcial.",
+    "San Sebastián: 22 largometrajes de competición, dos fuera de concurso y doce cortometrajes de una relación parcial. No se declara completa la selección de 70 películas del archivo.",
+    "Venecia: actividad documentada en 1974–1976; programa de 1975 pendiente. No se publica la edición vacía ni se considera no celebrada.",
+    "Una regeneración limitada a 1975; años anteriores, catálogo, maestros e interfaces fuera del alcance.",
+    "Corrección al integrar: El último deber comparte también el BAFTA de guion ganado por Robert Towne con Chinatown. El JSON por película del paquete lo marcaba como no ganador, en contradicción con su tabla de candidaturas compartidas y el archivo oficial: https://www.bafta.org/awards/film/screenplay/"
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1975|Direction|Sidney Lumet",
+      "category": "Mejor dirección",
+      "person": "Sidney Lumet",
+      "winner": false,
+      "films": [
+        "Asesinato en el Orient Express",
+        "Serpico"
+      ]
+    },
+    {
+      "id": "BAFTA|1975|Cinematography|Geoffrey Unsworth",
+      "category": "Mejor fotografía",
+      "person": "Geoffrey Unsworth",
+      "winner": false,
+      "films": [
+        "Asesinato en el Orient Express",
+        "Zardoz"
+      ]
+    },
+    {
+      "id": "BAFTA|1975|Actor|Jack Nicholson",
+      "category": "Mejor actor",
+      "person": "Jack Nicholson",
+      "winner": true,
+      "films": [
+        "Chinatown",
+        "El último deber"
+      ]
+    },
+    {
+      "id": "BAFTA|1975|Screenplay|Robert Towne",
+      "category": "Mejor guion",
+      "person": "Robert Towne",
+      "winner": true,
+      "films": [
+        "Chinatown",
+        "El último deber"
+      ]
+    }
+  ],
+  "unpublishedPendingProgramme": {
+    "festival": "Venecia",
+    "year": 1975,
+    "section": "Actividad de festival documentada; programa de películas pendiente de reconstrucción fiable",
+    "films": []
+  },
+  "packageDoubts": [
+    {
+      "block": "Oscar 1975",
+      "issue": "FilmAffinity Spain IDs/registered titles are not established for every Academy nominee. The package preserves known local crosswalks and leaves unresolved IDs null; no individual missing-title research was done.",
+      "status": "partial identity resolution"
+    },
+    {
+      "block": "BAFTA 1975",
+      "issue": "Film categories and winners were completed from the BAFTA official 1975 results accessed through the official search index and cross-checked against FilmAffinity. FilmAffinity Spain IDs/titles remain unresolved for some films; the direct BAFTA result page timed out, so the saved extract is a transcription of the rendered indexed result, not a raw capture.",
+      "status": "identity gaps only"
+    },
+    {
+      "block": "Berlín 1975",
+      "issue": "Official archive programme and awards pages were unavailable. The competition/out-of-competition list was reconstructed from secondary history; Berlinale/FA differ in some prize labels/film associations (notably The Common Man/Overlord and the wording of the artistic contribution prize). Forum programme is not complete.",
+      "status": "partial; not closed"
+    },
+    {
+      "block": "San Sebastián 1975",
+      "issue": "Official archive page states 70 films and suffers a SQL error mid-list. 22 feature entries, two clearly out of competition and 12 shorts are transcribed; short list is partial. Awards and film associations are checked against official awards page.",
+      "status": "partial; not closed"
+    },
+    {
+      "block": "Venecia 1975",
+      "issue": "La Biennale confirms activity/program proposals and retrospectives in 1974–1976 but the 1975 film programme could not be reliably reconstructed.",
+      "status": "programme pending"
+    },
+    {
+      "block": "Identities",
+      "issue": "FA IDs are retained only when matched in the locally available prior preparation packages; titles with null IDs are unresolved/uncrosswalked and should not be treated as verified FilmAffinity identities.",
+      "status": "partial"
+    }
+  ]
+}
