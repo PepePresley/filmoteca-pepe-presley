@@ -10,7 +10,7 @@
     1978,
     1977
   ],
-  "status": "1976_INTEGRADO_CON_BLOQUES_PENDIENTES",
+  "status": "1975_INTEGRADO_CON_BLOQUES_PENDIENTES",
   "counts": {
     "editions": 8,
     "appearances": 157,
@@ -28,13 +28,15 @@
     "20/10/2026: completadas familias principales 1979; Cannes y Berlín preservados, detalles de cobertura en construccion_1979.json.",
     "20/10/2026: completadas familias principales de 1978; Cannes preservado y Venecia no celebrada. Los cortos de Berlín/San Sebastián siguen en cobertura parcial.",
     "21/10/2026: completadas familias principales de 1977; Cannes preservado, Venecia no celebrada y cortos no exhaustivos. Candidaturas compartidas BAFTA enlazadas en sus distintas películas.",
-    "21/10/2026: paquete 1976 integrado con sus bloques pendientes explícitos; no se añade 1976 a completedYears. Los años ya publicados permanecen intactos."
+    "21/10/2026: paquete 1976 integrado con sus bloques pendientes explícitos; no se añade 1976 a completedYears. Los años ya publicados permanecen intactos.",
+    "21/10/2026: paquete 1975 integrado con sus bloques pendientes explícitos; no se añade 1975 a completedYears. Los años ya publicados permanecen intactos."
   ],
   "partialYears": [
     1981,
-    1976
+    1976,
+    1975
   ],
-  "nextStep": "1976 integrado con Venecia pendiente, Forum/premios independientes de Berlín y cortos de San Sebastián parciales. No iniciar 1975 ni nuevas investigaciones sin instrucción.",
+  "nextStep": "1975 integrado con Venecia pendiente y cobertura parcial de Berlín y cortos de San Sebastián. No iniciar 1974 ni nuevas investigaciones sin instrucción.",
   "partialBlockCounts": {
     "editions": 40,
     "appearances": 493,
@@ -51,5 +53,5 @@
     "scope": "Solo las dos ediciones; no cierra las selecciones parciales de otros festivales de 1980."
   },
   "completedYearsMeaning": "Familias principales construidas por método práctico; no certifica exhaustividad de todos los programas ni auditoría histórica individual.",
-  "lastIntegratedYear": 1976
+  "lastIntegratedYear": 1975
 }
