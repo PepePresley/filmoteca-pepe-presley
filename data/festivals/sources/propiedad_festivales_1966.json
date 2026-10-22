@@ -2244,39 +2244,55 @@
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
-      "title": "La batalla de Argel",
-      "director": "Gillo Pontecorvo",
+      "section": "Competición oficial",
+      "title": "Al azar, Baltasar",
+      "director": "Robert Bresson",
       "ownership": "CONFIRMED",
       "reference": {
         "masterFile": "Catalogo_Telegram_1966.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 14,
-        "titleES": "La batalla de Argel",
-        "originalTitle": "La battaglia di Algeri",
-        "director": "Gillo Pontecorvo",
+        "physicalRow": 23,
+        "titleES": "Al azar, Baltasar",
+        "originalTitle": "Au hasard Balthazar",
+        "director": "Robert Bresson",
         "year": 1966
       }
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
-      "title": "La busca",
-      "director": "Angelino Fons",
+      "section": "Competición oficial",
+      "title": "Una muchacha sin historia",
+      "director": "Alexander Kluge",
       "ownership": "CONFIRMED",
       "reference": {
         "masterFile": "Catalogo_Telegram_1966.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 77,
-        "titleES": "La busca",
-        "originalTitle": "La busca",
-        "director": "Angelino Fons",
+        "physicalRow": 207,
+        "titleES": "Una muchacha sin historia",
+        "originalTitle": "Abschied von gestern",
+        "director": "Alexander Kluge",
         "year": 1966
       }
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "section": "Competición oficial",
+      "title": "Los Ángeles del Infierno",
+      "director": "Roger Corman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 75,
+        "titleES": "Los Ángeles del Infierno",
+        "originalTitle": "The Wild Angels",
+        "director": "Roger Corman",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
       "title": "Un hombre dividido",
       "director": "Vittorio De Seta",
       "ownership": "CONFIRMED",
@@ -2292,9 +2308,297 @@
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
-      "title": "Le premier Maître",
-      "director": "Andrei Konchalovsky",
+      "section": "Competición oficial",
+      "title": "Chappaqua",
+      "director": "Conrad Rooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 398,
+        "titleES": "Chappaqua",
+        "originalTitle": "Chappaqua",
+        "director": "Conrad Rooks",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Las criaturas",
+      "director": "Agnès Varda",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 254,
+        "titleES": "Las criaturas",
+        "originalTitle": "Les Créatures",
+        "director": "Agnès Varda",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "El engaño",
+      "director": "Roger Vadim",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 268,
+        "titleES": "El engaño",
+        "originalTitle": "La Curée",
+        "director": "Roger Vadim",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Comédie",
+      "director": "Jean-Marie Serreau; Jean Ravel; Marin Karmitz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Fahrenheit 451",
+      "director": "François Truffaut",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "Fahrenheit 451",
+        "originalTitle": "Fahrenheit 451",
+        "director": "François Truffaut",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Atithi",
+      "director": "Tapan Sinha",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "La batalla de Argel",
+      "director": "Gillo Pontecorvo",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 14,
+        "titleES": "La batalla de Argel",
+        "originalTitle": "La battaglia di Algeri",
+        "director": "Gillo Pontecorvo",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "La busca",
+      "director": "Angelino Fons",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 77,
+        "titleES": "La busca",
+        "originalTitle": "La busca",
+        "director": "Angelino Fons",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Campanadas a medianoche",
+      "director": "Orson Welles",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1965.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 11,
+        "titleES": "Campanadas a medianoche",
+        "originalTitle": "Campanadas a medianoche",
+        "director": "Orson Welles",
+        "year": 1965
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Nattlek",
+      "director": "Mai Zetterling",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 250,
+        "titleES": "Nattlek",
+        "originalTitle": "Nattlek",
+        "director": "Mai Zetterling",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Pervyy uchitel",
+      "director": "Andrey Konchalovskiy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "La prise du pouvoir par Louis XIV",
+      "director": "Roberto Rossellini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Francesco d'Assisi",
+      "director": "Liliana Cavani",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Buster Keaton está de vuelta",
+      "director": "John Spotton",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1965.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 317,
+        "titleES": "Buster Keaton está de vuelta",
+        "originalTitle": null,
+        "director": "John Spotton",
+        "year": 1965
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Het afscheid",
+      "director": "Roland Verhavert",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "A grande cidade",
+      "director": "Carlos Diegues",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "El coraje cotidiano",
+      "director": "Evald Schorm",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1964.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 216,
+        "titleES": "El coraje cotidiano",
+        "originalTitle": null,
+        "director": "Evald Schorm",
+        "year": 1965
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Tanin no kao",
+      "director": "Hiroshi Teshigahara",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "I Was Happy Here",
+      "director": "Desmond Davis",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Callejón sin salida",
+      "director": "Roman Polanski",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "Callejón sin salida",
+        "originalTitle": "Cul-de-sac",
+        "director": "Roman Polanski",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Sticenik",
+      "director": "Vladan Slijepcevic",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "La soldadera",
+      "director": "José Bolaños",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 231,
+        "titleES": "La soldadera",
+        "originalTitle": "La soldadera",
+        "director": "José Bolaños",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Cambiar de vida",
+      "director": "Paulo Rocha",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1966.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 112,
+        "titleES": "Cambiar de vida",
+        "originalTitle": "Mudar de Vida",
+        "director": "Paulo Rocha",
+        "year": 1966
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "The Drifter",
+      "director": "Alex Matter",
       "ownership": "PENDING",
       "reference": null
     }

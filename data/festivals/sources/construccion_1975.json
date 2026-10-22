@@ -297,5 +297,27 @@
       "issue": "FA IDs are retained only when matched in the locally available prior preparation packages; titles with null IDs are unresolved/uncrosswalked and should not be treated as verified FilmAffinity identities.",
       "status": "partial"
     }
-  ]
+  ],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1975.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Propuestas de nuevos filmes · manifestaciones cinematográficas",
+          "films": 32,
+          "declaredOwned": 13
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1975.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }

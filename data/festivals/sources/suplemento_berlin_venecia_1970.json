@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "films": 17,
+      "declaredOwned": 7
+    },
+    {
+      "festival": "Venecia",
+      "section": "Proyecciones especiales · edición no competitiva",
+      "films": 3,
+      "declaredOwned": 1
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 45,
+    "title": "31. Mostra Internazionale d'Arte Cinematografica",
+    "sections": [
+      {
+        "name": "Film Invitati",
+        "films": 17
+      },
+      {
+        "name": "Proiezioni Speciali",
+        "films": 3
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 30
+  },
+  "asacAnnualSha256": "99e6b24c075bd1f6e0825ab3f29464b7c3b25eb3221c7eea05c16dd729a85133",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1352,
+        "persona": "Orson  Welles",
+        "anno_opera": null,
+        "titolo": "Omaggio a un Maestro del cinema",
+        "id_persona": 357299,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      }
+    ],
+    "otherSections": [
+      {
+        "name": "Fuori programma",
+        "films": 2
+      },
+      {
+        "name": "21. Mostra Internazionale del Film Documentario e del Cortometraggio - Film di Animazione",
+        "films": 5
+      },
+      {
+        "name": "21. Mostra Internazionale del Film Documentario e del Cortometraggio - Film di Documentazione Sociale",
+        "films": 9
+      },
+      {
+        "name": "21. Mostra Internazionale del Film Documentario e del Cortometraggio - Fuori Programma",
+        "films": 4
+      },
+      {
+        "name": "21. Mostra Internazionale del Film Documentario e del Cortometraggio - Teledocumentari",
+        "films": 3
+      },
+      {
+        "name": "21. Mostra Internazionale del Film Documentario e del Cortometraggio - Vari",
+        "films": 11
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - La Lezione di Grierson",
+        "films": 3
+      },
+      {
+        "name": "22. Mostra Internazionale del Film per Ragazzi",
+        "films": 41
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull’Arte - Grafica",
+        "films": 6
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull’Arte - Interpreti della Realtà",
+        "films": 14
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Le Origini",
+        "films": 3
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Lindsay Anderson",
+        "films": 5
+      },
+      {
+        "name": "Retrospettiva - Harry Langdon",
+        "films": 20
+      },
+      {
+        "name": "21. Mostra Internazionale del Film Documentario e del Cortometraggio - Cortometraggi a Soggetto",
+        "films": 5
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Dal Free Cinema alla Tv",
+        "films": 8
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Lungometraggi di Guerra",
+        "films": 3
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull’Arte - Divulgazione",
+        "films": 6
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Paul Rotha",
+        "films": 4
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Ricerche e Sperimentazioni",
+        "films": 5
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull’Arte - Dal Futurismo all’Arte Cinetica",
+        "films": 3
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull’Arte - L’Artista, l’Uomo",
+        "films": 8
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull’Arte - Momenti della Storia dell’Arte",
+        "films": 5
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Humphrey Jennings",
+        "films": 11
+      },
+      {
+        "name": "Rassegna Internazionale del Film Africano e Arabo",
+        "films": 34
+      },
+      {
+        "name": "La Resistenza nel Cinema Italiano",
+        "films": 12
+      },
+      {
+        "name": "Cinema Underground",
+        "films": 47
+      },
+      {
+        "name": "9. Mostra Internazionale del Film sull'Arte - Personale di Paul Haesarts",
+        "films": 12
+      },
+      {
+        "name": "Sezione Speciale: Il Documentario Britannico \"Dalle Origini ad Oggi\" - Il Free Cinema",
+        "films": 4
+      }
+    ]
+  }
+}

@@ -280,5 +280,33 @@
       "question": "La ficha retrospectiva actual relaciona una mención UCC con UCCELLACCI E UCCELLINI, pero la etiqueta retrospectiva no prueba que existiera una sección UCC en 1966; se conserva como duda y no como sección independiente."
     }
   ],
-  "unpublishedIdentityEvidence": []
+  "unpublishedIdentityEvidence": [],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1966.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Competición oficial",
+          "films": 15,
+          "declaredOwned": 12
+        },
+        {
+          "festival": "Venecia",
+          "section": "Fuera de concurso",
+          "films": 13,
+          "declaredOwned": 5
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1966.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }

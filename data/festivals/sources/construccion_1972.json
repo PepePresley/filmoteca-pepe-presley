@@ -587,5 +587,64 @@
         "status": "actividad paralela en el centro histórico; contra-festival organizado por ANAC/AACI; no equivale a la selección oficial de la Mostra"
       }
     ]
+  },
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1972.json",
+      "families": [
+        "Berlín",
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Venezia Critici · edición no competitiva",
+          "films": 14,
+          "declaredOwned": 2
+        },
+        {
+          "festival": "Venecia",
+          "section": "Informativa Critici · edición no competitiva",
+          "films": 8,
+          "declaredOwned": 1
+        },
+        {
+          "festival": "Venecia",
+          "section": "Venezia 33 · edición no competitiva",
+          "films": 28,
+          "declaredOwned": 12
+        },
+        {
+          "festival": "Venecia",
+          "section": "Venezia Giovani · edición no competitiva",
+          "films": 14,
+          "declaredOwned": 2
+        },
+        {
+          "festival": "Berlín",
+          "section": "Competición oficial · largometrajes",
+          "films": 23,
+          "declaredOwned": 9
+        },
+        {
+          "festival": "Berlín",
+          "section": "Competición oficial · cortometrajes (selección documentada)",
+          "films": 4,
+          "declaredOwned": 1
+        },
+        {
+          "festival": "Berlín",
+          "section": "Forum · películas premiadas (selección parcial)",
+          "films": 10,
+          "declaredOwned": 4
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1972.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
   }
 }

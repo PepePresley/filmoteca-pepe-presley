@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Berlín",
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Venezia Critici · edición no competitiva",
+      "films": 14,
+      "declaredOwned": 2
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa Critici · edición no competitiva",
+      "films": 8,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Venezia 33 · edición no competitiva",
+      "films": 28,
+      "declaredOwned": 12
+    },
+    {
+      "festival": "Venecia",
+      "section": "Venezia Giovani · edición no competitiva",
+      "films": 14,
+      "declaredOwned": 2
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · largometrajes",
+      "films": 23,
+      "declaredOwned": 9
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes (selección documentada)",
+      "films": 4,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Berlín",
+      "section": "Forum · películas premiadas (selección parcial)",
+      "films": 10,
+      "declaredOwned": 4
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 47,
+    "title": "33. Mostra Internazionale d'Arte Cinematografica di Venezia",
+    "sections": [
+      {
+        "name": "Venezia Critici",
+        "films": 14
+      },
+      {
+        "name": "Informativa Critici",
+        "films": 8
+      },
+      {
+        "name": "Venezia 33",
+        "films": 28
+      },
+      {
+        "name": "Venezia Giovani",
+        "films": 14
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 24
+  },
+  "asacAnnualSha256": "0c1e361566ff4dd4cd7144246626a9c6cc29c4562633dc978dc8b28fdbf7aa10",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1356,
+        "persona": "Anatoli  Golovnya",
+        "anno_opera": null,
+        "titolo": "Omaggio",
+        "id_persona": 239140,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      },
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1356,
+        "persona": "Billy  Wilder",
+        "anno_opera": null,
+        "titolo": "Omaggio",
+        "id_persona": 282767,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      },
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1356,
+        "persona": "Charles  Chaplin",
+        "anno_opera": null,
+        "titolo": "Omaggio",
+        "id_persona": 369555,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      }
+    ],
+    "otherSections": [
+      {
+        "name": "Cinema Italiano e Stampa Estera",
+        "films": 6
+      },
+      {
+        "name": "Giornata del Film Africano – Cortometraggi Senegalesi",
+        "films": 7
+      },
+      {
+        "name": "Giornata del Film della Repubblica Democratica Tedesca",
+        "films": 3
+      },
+      {
+        "name": "Il tutto Chaplin 1914-1966",
+        "films": 73
+      },
+      {
+        "name": "Mae West 1932-1943",
+        "films": 10
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Documentari di Carattere Vario",
+        "films": 12
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Documentari sullo Sport",
+        "films": 7
+      },
+      {
+        "name": "Giornata del Film Iraniano",
+        "films": 2
+      },
+      {
+        "name": "Giornata del Film Sovietico",
+        "films": 3
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Disegno Animato",
+        "films": 20
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Documentari a Soggetto",
+        "films": 6
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Documentari d’Arte",
+        "films": 9
+      },
+      {
+        "name": "23. Mostra Internazionale del Film Documentario e del Cortometraggio",
+        "films": 84
+      },
+      {
+        "name": "Venezia Genti – 1. Festival Internazionale del Film Etnografico e Sociologico",
+        "films": 57
+      },
+      {
+        "name": "Giornata del Film Africano",
+        "films": 5
+      },
+      {
+        "name": "Giornata del Film Indiano",
+        "films": 2
+      },
+      {
+        "name": "24. Mostra Internazionale del Film per Ragazzi",
+        "films": 39
+      },
+      {
+        "name": "Documenti del Nostro Tempo",
+        "films": 7
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Documentari Grotteschi",
+        "films": 7
+      },
+      {
+        "name": "Retrospettiva Il Documentario Jugoslavo – Documentari Sociali",
+        "films": 10
+      }
+    ]
+  },
+  "berlin": {
+    "featureCompetitionCount": 23,
+    "documentedShorts": 4,
+    "forumAwardedFilms": 10,
+    "status": "Largometrajes cotejados con FilmAffinity; cortos documentados y Forum parciales. Catálogo oficial Berlinale no accesible.",
+    "sources": [
+      "https://www.filmaffinity.com/es/award-edition.php?edition-id=berlin_1972",
+      "https://www.inter-film.org/festivals/berlinale-international-film-festival-berlin/22nd-international-film-festival-berlin",
+      "https://fipresci.org/awards/1972/",
+      "https://en.wikipedia.org/wiki/22nd_Berlin_International_Film_Festival"
+    ]
+  }
+}

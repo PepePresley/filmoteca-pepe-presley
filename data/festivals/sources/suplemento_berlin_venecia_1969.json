@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "films": 26,
+      "declaredOwned": 10
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "films": 13,
+      "declaredOwned": 6
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 44,
+    "title": "30. Mostra Internazionale d'Arte Cinematografica di Venezia",
+    "sections": [
+      {
+        "name": "Film Invitati",
+        "films": 26
+      },
+      {
+        "name": "Informativa",
+        "films": 13
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 24
+  },
+  "asacAnnualSha256": "90877b41ae69725b1e550a7cf1eb88aaf36a95660a2f1db81288059345dd26d6",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1352,
+        "persona": "Luis  Buñuel",
+        "anno_opera": null,
+        "titolo": "Omaggio a un Maestro del cinema",
+        "id_persona": 224864,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      }
+    ],
+    "otherSections": [
+      {
+        "name": "20. Mostra Internazionale del Film Documentario",
+        "films": 0
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Lungometraggi - Documentazione Sociale",
+        "films": 2
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Cortometraggi e Mediometraggi - Animazione",
+        "films": 4
+      },
+      {
+        "name": "Rassegna Internazionale del Film Africano",
+        "films": 10
+      },
+      {
+        "name": "Retrospettiva - Alfred Hitchcock, periodo inglese (1925-1939)",
+        "films": 24
+      },
+      {
+        "name": "Retrospettiva - Il Film Sovietico per Ragazzi",
+        "films": 19
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Lungometraggi - Vari",
+        "films": 5
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Cortometraggi e Mediometraggi - Teledocumentari",
+        "films": 2
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi",
+        "films": 1
+      },
+      {
+        "name": "Tendenze del Cinema Italiano 1969",
+        "films": 7
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria Telefilm per ragazzi",
+        "films": 3
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria per educatori",
+        "films": 6
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria III - Film per l'adolescenza - Gruppo A - Film a carattere ricreativo",
+        "films": 6
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Lungometraggi - Film Sperimentali",
+        "films": 3
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Cortometraggi e Mediometraggi - Film sperimentali",
+        "films": 6
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Cortometraggi e Mediometraggi - Documentazione Sociale",
+        "films": 7
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Cortometraggi e Mediometraggi - Cortometraggi a Soggetto",
+        "films": 6
+      },
+      {
+        "name": "20. Mostra Internazionale del Film Documentario - Cortometraggi e Mediometraggi - Vari",
+        "films": 12
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria I - Film per l'infanzia - Gruppo A - Film a carattere ricreativo",
+        "films": 9
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria II - Film per la fanciullezza - Gruppo A - Film a carattere ricreativo",
+        "films": 7
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria II - Film per la fanciullezza - Gruppo B - Film a carattere educativo e didattico",
+        "films": 4
+      },
+      {
+        "name": "21. Mostra Internazionale del Film per Ragazzi - Categoria III - Film per l'adolescenza - Gruppo B - Film a carattere educativo e didattico",
+        "films": 2
+      }
+    ]
+  }
+}

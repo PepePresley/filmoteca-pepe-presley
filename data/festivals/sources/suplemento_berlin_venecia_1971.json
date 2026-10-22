@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Homenaje a Ingmar Bergman · edición no competitiva",
+      "films": 1,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Homenaje a John Ford · edición no competitiva",
+      "films": 1,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Homenaje a Marcel Carné · edición no competitiva",
+      "films": 1,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Homenaje a Dylan Thomas · edición no competitiva",
+      "films": 1,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "films": 33,
+      "declaredOwned": 11
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "films": 4,
+      "declaredOwned": 2
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 46,
+    "title": "32. Mostra Internazionale d'Arte Cinematografica",
+    "sections": [
+      {
+        "name": "Omaggio a Ingmar Bergman",
+        "films": 1
+      },
+      {
+        "name": "Omaggio a John Ford",
+        "films": 1
+      },
+      {
+        "name": "Omaggio a Marcel Carné",
+        "films": 1
+      },
+      {
+        "name": "Film Selezionati - Omaggio a Dylan Thomas",
+        "films": 1
+      },
+      {
+        "name": "Film Selezionati",
+        "films": 33
+      },
+      {
+        "name": "Informativa",
+        "films": 4
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 25
+  },
+  "asacAnnualSha256": "044139e4544daac496a8534f42058b24ffbb44ee64ec50c74fc8b58519e289b7",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1352,
+        "persona": "Ingmar  Bergman",
+        "anno_opera": null,
+        "titolo": "Omaggio a un Maestro del cinema",
+        "id_persona": 322000,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      },
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1352,
+        "persona": "John  Ford",
+        "anno_opera": null,
+        "titolo": "Omaggio a un Maestro del cinema",
+        "id_persona": 331287,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      },
+      {
+        "id_opera": null,
+        "opera": null,
+        "id": 1352,
+        "persona": "Marcel  Carné",
+        "anno_opera": null,
+        "titolo": "Omaggio a un Maestro del cinema",
+        "id_persona": 304907,
+        "is_premio_persona": true,
+        "produzione_opera": null,
+        "ordine": 6,
+        "regia_opera": null
+      }
+    ],
+    "otherSections": [
+      {
+        "name": "22. Mostra Internazionale del Film Documentario - Film di Animazione",
+        "films": 4
+      },
+      {
+        "name": "22. Mostra Internazionale del Film Documentario - Vari",
+        "films": 22
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - Primi personaggi e prime stars",
+        "films": 18
+      },
+      {
+        "name": "Retrospettiva - Max Reinhardt e il film tedesco (1913-1926)",
+        "films": 17
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - La tematica del movimento - Victorin Jasset",
+        "films": 0
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - Il testamento della scuola primitiva",
+        "films": 1
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - La tematica del movimento",
+        "films": 3
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - Le \"Superproduzioni\" del cinema primitivo",
+        "films": 22
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - Prime affermazioni della sintassi cinematografica",
+        "films": 13
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - Il problema del silenzio (1897-1908)",
+        "films": 13
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - La tematica del movimento - Léonce Perret",
+        "films": 0
+      },
+      {
+        "name": "Fuori Programma",
+        "films": 0
+      },
+      {
+        "name": "Il Film Etnografico e Sociologico",
+        "films": 16
+      },
+      {
+        "name": "22. Mostra Internazionale del Film Documentario - Cortometraggi a Soggetto",
+        "films": 4
+      },
+      {
+        "name": "22. Mostra Internazionale del Film Documentario - Film di Documentazione Sociale",
+        "films": 3
+      },
+      {
+        "name": "The Free Cinema: U.S.A.",
+        "films": 15
+      },
+      {
+        "name": "Sezione Speciale - Il Documentario Belga",
+        "films": 49
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - La fotografia animata, e la prima scuola documentaria",
+        "films": 57
+      },
+      {
+        "name": "Retrospettiva: I Primitivi Francesi (1895-1915) - Gli inizi dello spettacolo cinematografico (1896-1902)",
+        "films": 51
+      }
+    ]
+  }
+}

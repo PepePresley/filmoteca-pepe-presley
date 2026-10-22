@@ -260,5 +260,33 @@
       "question": "Se confirma la edición y parte del palmarés, pero no se reconstruyó selección completa ni secciones."
     }
   ],
-  "unpublishedIdentityEvidence": []
+  "unpublishedIdentityEvidence": [],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1967.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Competición oficial",
+          "films": 15,
+          "declaredOwned": 10
+        },
+        {
+          "festival": "Venecia",
+          "section": "Fuera de concurso",
+          "films": 12,
+          "declaredOwned": 4
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1967.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }

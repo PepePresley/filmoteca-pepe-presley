@@ -2212,11 +2212,307 @@
     },
     {
       "festival": "Venecia",
-      "section": "Informativa · edición no competitiva",
-      "title": "The Axe",
-      "director": "Mircea Muresan",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Satiricón",
+      "director": "Federico Fellini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "Satiricón",
+        "originalTitle": "Fellini – satyricon",
+        "director": "Federico Fellini",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Pocilga",
+      "director": "Pier Paolo Pasolini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 42,
+        "titleES": "Pocilga",
+        "originalTitle": "Porcile",
+        "director": "Pier Paolo Pasolini",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Sirokkó",
+      "director": "Miklós Jancsó",
       "ownership": "PENDING",
       "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Syuzhet dlya nebolshogo rasskaza",
+      "director": "Sergei Iosifovič Yutkevich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Tiltott terület",
+      "director": "Pál Gábor",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Shonen",
+      "director": "Nagisa Oshima",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Zaseda",
+      "director": "Živojin Pavlović",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 212,
+        "titleES": "Zaseda",
+        "originalTitle": "Zaseda",
+        "director": "Živojin Pavlović",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Prologue",
+      "director": "Robin Spry",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Dnevnje zvedij",
+      "director": "Igor Talankin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Genii",
+      "director": "Stefan Uher",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Children's Games",
+      "director": "Walter Welebit",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Benito Cereno",
+      "director": "Serge Roullet",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Cardillac",
+      "director": "Edgar Reitz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 491,
+        "titleES": "Cardillac",
+        "originalTitle": "Cardillac",
+        "director": "Edgar Reitz",
+        "year": 1970
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Cest a sláva",
+      "director": "Hynek Bocan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Del amor y otras soledades",
+      "director": "Basilio Martín Patino",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 299,
+        "titleES": "Del amor y otras soledades",
+        "originalTitle": "Del amor y otras soledades",
+        "director": "Basilio Martín Patino",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Dogadjaj",
+      "director": "Vatroslav Mimica",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Fadern",
+      "director": "Alf Sjöberg",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Os herdeiros",
+      "director": "Carlos Diegues",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Paulina s'en va",
+      "director": "André Téchiné",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Sierra Maestra",
+      "director": "Ansano Giannarelli",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Bajo el signo del escorpión",
+      "director": "Vittorio Taviani; Paolo Taviani",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 543,
+        "titleES": "Bajo el signo del escorpión",
+        "originalTitle": null,
+        "director": "Paolo Taviani, Vittorio Taviani",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Dulces cazadores",
+      "director": "Ruy Guerra",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1970.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 250,
+        "titleES": "Dulces cazadores",
+        "originalTitle": "Ternos Caçadores",
+        "director": "Ruy Guerra",
+        "year": 1970
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Two Gentlemen Sharing",
+      "director": "Ted Kotcheff",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "Yawar mallku",
+      "director": "Jorge Sanjinés",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 84,
+        "titleES": "Yawar mallku",
+        "originalTitle": "Yawar mallku",
+        "director": "Jorge Sanjinés",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "La primera carga al machete",
+      "director": "Manuel Octavio Gómez",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 238,
+        "titleES": "La primera carga al machete",
+        "originalTitle": "La primera carga al machete",
+        "director": "Manuel Octavio Gómez",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Películas invitadas · edición no competitiva",
+      "title": "La novia del pirata",
+      "director": "Nelly Kaplan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 195,
+        "titleES": "La novia del pirata",
+        "originalTitle": "La Fiancée du pirate",
+        "director": "Nelly Kaplan",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Baltagul",
+      "director": "Mircea Muresan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 518,
+        "titleES": "Baltagul",
+        "originalTitle": "Baltagul",
+        "director": "Mircea Mureșan",
+        "year": 1969
+      }
     },
     {
       "festival": "Venecia",
@@ -2229,18 +2525,34 @@
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
-      "title": "Double Suicide",
-      "director": "Masahiro Shinoda",
-      "ownership": "PENDING",
-      "reference": null
+      "title": "I cannibali",
+      "director": "Liliana Cavani",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1970.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 414,
+        "titleES": "I cannibali",
+        "originalTitle": "I cannibali",
+        "director": "Liliana Cavani",
+        "year": 1969
+      }
     },
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
-      "title": "A Gentle Woman",
+      "title": "Una mujer dulce",
       "director": "Robert Bresson",
-      "ownership": "PENDING",
-      "reference": null
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 58,
+        "titleES": "Una mujer dulce",
+        "originalTitle": "Une femme douce",
+        "director": "Robert Bresson",
+        "year": 1969
+      }
     },
     {
       "festival": "Venecia",
@@ -2261,16 +2573,32 @@
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
-      "title": "Glory Day",
-      "director": "Edoardo Bruno",
-      "ownership": "PENDING",
-      "reference": null
+      "title": "Historia de una chica sola",
+      "director": "Jorge Grau",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1972.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 293,
+        "titleES": "Historia de una chica sola",
+        "originalTitle": "Historia de una chica sola",
+        "director": "Jorge Grau",
+        "year": 1971
+      }
     },
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
       "title": "L'indiscret",
       "director": "François Reichenbach",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Una macchia rosa",
+      "director": "Enzo Muzii",
       "ownership": "PENDING",
       "reference": null
     },
@@ -2293,264 +2621,32 @@
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
-      "title": "Rose Spot",
-      "director": "Enzo Muzii",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Informativa · edición no competitiva",
       "title": "Salesman",
-      "director": "Albert Maysles; David Maysles; Charlotte Zwerin",
-      "ownership": "CONFIRMED",
-      "reference": {
-        "masterFile": "Catalogo_Telegram_1969.xlsx",
-        "sheet": "Catálogo",
-        "physicalRow": 89,
-        "titleES": "Salesman",
-        "originalTitle": "Salesman",
-        "director": "David Maysles, Charlotte Zwerin, Albert Maysles",
-        "year": 1969
-      }
-    },
-    {
-      "festival": "Venecia",
-      "section": "Informativa · edición no competitiva",
-      "title": "Story of a Girl Alone",
-      "director": "Jorge Grau",
+      "director": "Albert Maysles; David Maysles",
       "ownership": "PENDING",
       "reference": null
     },
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
-      "title": "The Year of the Cannibals",
-      "director": "Liliana Cavani",
+      "title": "Shinjû: ten no Amijima",
+      "director": "Masahiro Shinoda",
       "ownership": "PENDING",
       "reference": null
     },
     {
       "festival": "Venecia",
       "section": "Informativa · edición no competitiva",
-      "title": "A Woman’s Case",
-      "director": "Jacques Katmor",
+      "title": "La sua giornata di gloria",
+      "director": "Edoardo Bruno",
       "ownership": "PENDING",
       "reference": null
     },
     {
       "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "The Ambush",
-      "director": "Živojin Pavlović",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Benito Cereno",
-      "director": "Serge Roullet",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Boy",
-      "director": "Nagisa Ōshima",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Cardillac",
-      "director": "Edgar Reitz",
-      "ownership": "CONFIRMED",
-      "reference": {
-        "masterFile": "Catalogo_Telegram_1969.xlsx",
-        "sheet": "Catálogo",
-        "physicalRow": 491,
-        "titleES": "Cardillac",
-        "originalTitle": "Cardillac",
-        "director": "Edgar Reitz",
-        "year": 1970
-      }
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Children’s Games",
-      "director": "Walter Welebit",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Day Stars",
-      "director": "Igor Talankin",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "An Event",
-      "director": "Vatroslav Mimica",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "The Father",
-      "director": "Alf Sjöberg",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Satiricón",
-      "director": "Federico Fellini",
-      "ownership": "CONFIRMED",
-      "reference": {
-        "masterFile": "Catalogo_Telegram_1969.xlsx",
-        "sheet": "Catálogo",
-        "physicalRow": 19,
-        "titleES": "Satiricón",
-        "originalTitle": "Fellini – satyricon",
-        "director": "Federico Fellini",
-        "year": 1969
-      }
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "The First Charge of the Machete",
-      "director": "Manuel Octavio Gómez",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Forbidden Ground",
-      "director": "Pál Gábor",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Génius",
-      "director": "Štefan Uher",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "The Heirs",
-      "director": "Carlos Diegues",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Honor and Glory",
-      "director": "Hynek Bočan",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Love and Other Solitudes",
-      "director": "Basilio Martín Patino",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Paulina Is Leaving",
-      "director": "André Téchiné",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Pigsty",
-      "director": "Pier Paolo Pasolini",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Prologue",
-      "director": "Robin Spry",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Sierra Maestra",
-      "director": "Ansano Giannarelli",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Subject for a Short Story",
-      "director": "Sergei Yutkevich",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Sweet Hunters",
-      "director": "Ruy Guerra",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Two Gentlemen Sharing",
-      "director": "Ted Kotcheff",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Blood of the Condor",
-      "director": "Jorge Sanjinés",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "Under the Sign of Scorpio",
-      "director": "Paolo and Vittorio Taviani",
-      "ownership": "PENDING",
-      "reference": null
-    },
-    {
-      "festival": "Venecia",
-      "section": "Selección principal · edición no competitiva",
-      "title": "A Very Curious Girl",
-      "director": "Nelly Kaplan",
+      "section": "Informativa · edición no competitiva",
+      "title": "Mikreh Isha",
+      "director": "Jacques Mory-Katmor",
       "ownership": "PENDING",
       "reference": null
     }

@@ -4166,76 +4166,595 @@
     {
       "festival": "Venecia",
       "year": 1967,
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "section": "Competición oficial",
       "films": [
         {
           "title": "Bella de día",
           "director": "Luis Buñuel",
           "aliases": [
-            "Belle de jour"
-          ],
-          "nominations": [
-            "León de Oro · Luis Buñuel"
+            "Belle de Jour",
+            "Belle de jour",
+            "Bella di giorno"
           ],
           "wins": [
+            "León de Oro",
+            "León de Oro · Luis Buñuel"
+          ],
+          "nominations": [
+            "León de Oro",
             "León de Oro · Luis Buñuel"
           ],
           "candidacies": [
             {
               "category": "León de Oro",
-              "person": "Luis Buñuel",
+              "person": null,
               "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1967 · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1967 · https://www.bafta.org/awards/film/?award-year=1967 · https://www.festival-cannes.com/en/retrospective/1967/selection/ · https://www.festival-cannes.com/en/retrospective/1967/palmares/ · https://www.sansebastianfestival.com/1967/sections_and_films/8/in · https://www.sansebastianfestival.com/1967/premios_y_jurados/premios/1/60/es · https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_de_1967 · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479738 · https://asac.labiennale.org/attivita/cinema/6216 · https://www.labiennale.org/en/history-venice-film-festival · https://www.labiennale.org/en/history/post-war-period-and-60s"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1967"
             }
           ],
-          "award": "León de Oro · Luis Buñuel",
+          "asacId": 4,
+          "asacProgrammeTitle": "Belle de Jour",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/4",
+          "sourceDuration": "98 minuti",
           "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "award": "León de Oro · León de Oro · Luis Buñuel",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         },
         {
-          "title": "Alba",
-          "director": "Rados Novaković",
-          "aliases": [],
-          "nominations": [
-            "Copa Volpi · mejor actor · Ljubiša Samardžić"
+          "title": "China esta cerca",
+          "director": "Marco Bellocchio",
+          "aliases": [
+            "La Cina è vicina"
           ],
           "wins": [
-            "Copa Volpi · mejor actor · Ljubiša Samardžić"
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio Especial del Jurado",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1967"
+            }
+          ],
+          "asacId": 6216,
+          "asacProgrammeTitle": "La Cina è vicina",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6216",
+          "sourceDuration": "103 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Premio Especial del Jurado",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "La chinoise",
+          "director": "Jean-Luc Godard",
+          "aliases": [
+            "La Chinoise",
+            "La cinese"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio Especial del Jurado",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1967"
+            }
+          ],
+          "asacId": 6638,
+          "asacProgrammeTitle": "La Chinoise",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6638",
+          "sourceDuration": "97 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Premio Especial del Jurado",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Jutro",
+          "director": "Mladomir 'Purisa' Djordjevic",
+          "aliases": [
+            "Jutro l'alba di un giorno",
+            "Alba"
+          ],
+          "wins": [
+            "Copa Volpi · mejor actor"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actor"
           ],
           "candidacies": [
             {
               "category": "Copa Volpi · mejor actor",
-              "person": "Ljubiša Samardžić",
+              "person": "Ljubisa  Samardzic",
               "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1967 · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1967 · https://www.bafta.org/awards/film/?award-year=1967 · https://www.festival-cannes.com/en/retrospective/1967/selection/ · https://www.festival-cannes.com/en/retrospective/1967/palmares/ · https://www.sansebastianfestival.com/1967/sections_and_films/8/in · https://www.sansebastianfestival.com/1967/premios_y_jurados/premios/1/60/es · https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_de_1967 · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479738 · https://asac.labiennale.org/attivita/cinema/6216 · https://www.labiennale.org/en/history-venice-film-festival · https://www.labiennale.org/en/history/post-war-period-and-60s"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1967"
             }
           ],
-          "award": "Copa Volpi · mejor actor · Ljubiša Samardžić",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "asacId": 6466,
+          "asacProgrammeTitle": "Jutro",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6466",
+          "sourceDuration": "80 minuti",
+          "award": "Copa Volpi · mejor actor",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         },
         {
           "title": "Dutchman",
           "director": "Anthony Harvey",
-          "aliases": [],
-          "nominations": [
-            "Copa Volpi · mejor actriz · Shirley Knight"
+          "aliases": [
+            "Il treno fantasma",
+            "L'olandese"
           ],
           "wins": [
+            "Copa Volpi · mejor actriz",
+            "Copa Volpi · mejor actriz · Shirley Knight"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actriz",
             "Copa Volpi · mejor actriz · Shirley Knight"
           ],
           "candidacies": [
             {
               "category": "Copa Volpi · mejor actriz",
-              "person": "Shirley Knight",
+              "person": "Shirley  Knight",
               "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1967 · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1967 · https://www.bafta.org/awards/film/?award-year=1967 · https://www.festival-cannes.com/en/retrospective/1967/selection/ · https://www.festival-cannes.com/en/retrospective/1967/palmares/ · https://www.sansebastianfestival.com/1967/sections_and_films/8/in · https://www.sansebastianfestival.com/1967/premios_y_jurados/premios/1/60/es · https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_de_1967 · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479738 · https://asac.labiennale.org/attivita/cinema/6216 · https://www.labiennale.org/en/history-venice-film-festival · https://www.labiennale.org/en/history/post-war-period-and-60s"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1967"
             }
           ],
-          "award": "Copa Volpi · mejor actriz · Shirley Knight",
+          "asacId": 9346,
+          "asacProgrammeTitle": "Dutchman",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9346",
+          "sourceDuration": "55 minuti",
           "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "award": "Copa Volpi · mejor actriz · Copa Volpi · mejor actriz · Shirley Knight",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Mahlzeiten",
+          "director": "Edgar Reitz",
+          "aliases": [
+            "Insaziabile",
+            "L'insaziabile"
+          ],
+          "wins": [
+            "Premio opera prima"
+          ],
+          "nominations": [
+            "Premio opera prima"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio opera prima",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1967"
+            }
+          ],
+          "asacId": 9349,
+          "asacProgrammeTitle": "Mahlzeiten",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9349",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Premio opera prima",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "El Extranjero",
+          "director": "Luchino Visconti",
+          "aliases": [
+            "Lo straniero"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 5061,
+          "asacProgrammeTitle": "Lo straniero",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/5061",
+          "sourceDuration": "105 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Noc nevěsti",
+          "director": "Karel Kachyna",
+          "aliases": [
+            "Noc nevesti",
+            "La notte della monaca"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6347,
+          "asacProgrammeTitle": "Noc nevěsti",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6347",
+          "sourceDuration": "95 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "O salto",
+          "director": "Christian de Chalonge",
+          "aliases": [
+            "Il salto"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6422,
+          "asacProgrammeTitle": "O salto",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6422",
+          "sourceDuration": "92 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Utószezon",
+          "director": "Zoltán Fábri",
+          "aliases": [
+            "Fine stagione"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6553,
+          "asacProgrammeTitle": "Utószezon",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6553",
+          "sourceDuration": "130 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Oi voskoi",
+          "director": "Nikos Papatakis",
+          "aliases": [
+            "Les pâtres du desordre",
+            "I pastori del disordine"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6675,
+          "asacProgrammeTitle": "Oi voskoi",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6675",
+          "sourceDuration": "130 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Il padre di famiglia",
+          "director": "Nanni Loy",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9350,
+          "asacProgrammeTitle": "Il padre di famiglia",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9350",
+          "sourceDuration": "110 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "A las nueve cada noche",
+          "director": "Jack Clayton",
+          "aliases": [
+            "Our mother's house",
+            "Tutte le sere alle nove",
+            "La casa di nostra madre",
+            "Our Mother's House"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9352,
+          "asacProgrammeTitle": "Our mother's house",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9352",
+          "sourceDuration": "105 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Edipo, el hijo de la fortuna",
+          "director": "Pier Paolo Pasolini",
+          "aliases": [
+            "Edipo Re",
+            "Edipo re"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9355,
+          "asacProgrammeTitle": "Edipo Re",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9355",
+          "sourceDuration": "110 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "El subversivo",
+          "director": "Vittorio Taviani; Paolo Taviani",
+          "aliases": [
+            "I sovversivi"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9522,
+          "asacProgrammeTitle": "I sovversivi",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9522",
+          "sourceDuration": "96 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         }
-      ]
+      ],
+      "originalSection": "In Concorso"
+    },
+    {
+      "festival": "Venecia",
+      "year": 1967,
+      "section": "Fuera de concurso",
+      "films": [
+        {
+          "title": "Con el corazón en la garganta",
+          "director": "Tinto Brass",
+          "aliases": [
+            "Col cuore in gola"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1510,
+          "asacProgrammeTitle": "Col cuore in gola",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/1510",
+          "sourceDuration": "107 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Mouchette",
+          "director": "Robert Bresson",
+          "aliases": [
+            "Mouchette: Tutta la vita in una notte"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6311,
+          "asacProgrammeTitle": "Mouchette",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6311",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Festival",
+          "director": "Murray Lerner",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6519,
+          "asacProgrammeTitle": "Festival",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6519",
+          "sourceDuration": "96 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Desert people",
+          "director": "Ian Dunlop",
+          "aliases": [
+            "Gente nel deserto"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6532,
+          "asacProgrammeTitle": "Desert people",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6532",
+          "sourceDuration": "52 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Spur eines Mädchens",
+          "director": "Gustav Ehmck",
+          "aliases": [
+            "La traccia di una ragazza"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6539,
+          "asacProgrammeTitle": "Spur eines Mädchens",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6539",
+          "sourceDuration": "80 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Egy szerelem harom ejszakaja",
+          "director": "György Révész",
+          "aliases": [
+            "Tre notti d'un amore"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6776,
+          "asacProgrammeTitle": "Egy szerelem harom ejszakaja",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6776",
+          "sourceDuration": "100 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Le mur",
+          "director": "Serge Roullet",
+          "aliases": [
+            "La rivolta",
+            "Il muro"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6799,
+          "asacProgrammeTitle": "Le mur",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/6799",
+          "sourceDuration": "90 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Jaguar",
+          "director": "Jean Rouch",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9513,
+          "asacProgrammeTitle": "Jaguar",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9513",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Ciao",
+          "director": "David Tucker",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9514,
+          "asacProgrammeTitle": "Ciao",
+          "asacYear": null,
+          "source": "https://asac.labiennale.org/attivita/cinema/9514",
+          "sourceDuration": "93 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Tätowierung",
+          "director": "Johannes Schaaf",
+          "aliases": [
+            "Il tatuaggio",
+            "Tatuaggio"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9516,
+          "asacProgrammeTitle": "Tätowierung",
+          "asacYear": null,
+          "source": "https://asac.labiennale.org/attivita/cinema/9516",
+          "sourceDuration": "100 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Otklonenie",
+          "director": "Todor Stoyanov; Grisha Ostrovski",
+          "aliases": [
+            "Deviazione"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9517,
+          "asacProgrammeTitle": "Otklonenie",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/9517",
+          "sourceDuration": "90 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Mexico-Mexico",
+          "director": "François Reichenbach",
+          "aliases": [
+            "Soy Mexico",
+            "Sono il Messico"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9520,
+          "asacProgrammeTitle": "Mexico-Mexico",
+          "asacYear": null,
+          "source": "https://asac.labiennale.org/attivita/cinema/9520",
+          "sourceDuration": "90 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        }
+      ],
+      "originalSection": "Fuori Concorso"
     }
   ]
 }

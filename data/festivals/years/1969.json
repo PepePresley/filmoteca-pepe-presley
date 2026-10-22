@@ -4033,87 +4033,681 @@
     {
       "festival": "Venecia",
       "year": 1969,
+      "section": "Películas invitadas · edición no competitiva",
+      "films": [
+        {
+          "title": "Satiricón",
+          "director": "Federico Fellini",
+          "aliases": [
+            "Fellini Satyricon",
+            "Fellini's Satyricon",
+            "The Degenerates",
+            "Fellini – satyricon"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 5,
+          "asacProgrammeTitle": "Fellini Satyricon",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/5",
+          "sourceDuration": "130 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Pocilga",
+          "director": "Pier Paolo Pasolini",
+          "aliases": [
+            "Porcile",
+            "Pigsty",
+            "Pigpen"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 59,
+          "asacProgrammeTitle": "Porcile",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/59",
+          "sourceDuration": "98 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Sirokkó",
+          "director": "Miklós Jancsó",
+          "aliases": [
+            "Sirocco d'hiver",
+            "Scirocco d'inverno",
+            "Winter Wind"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6325,
+          "asacProgrammeTitle": "Sirokkó",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6325",
+          "sourceDuration": "79 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Syuzhet dlya nebolshogo rasskaza",
+          "director": "Sergei Iosifovič Yutkevich",
+          "aliases": [
+            "Sjuget dlja nebolsovo rasskaza",
+            "-Chekhov's Love",
+            "Breve storia di un piccolo racconto",
+            "Subject for a Short Story"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6332,
+          "asacProgrammeTitle": "Syuzhet dlya nebolshogo rasskaza",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6332",
+          "sourceDuration": "80 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Tiltott terület",
+          "director": "Pál Gábor",
+          "aliases": [
+            "Zona vietata",
+            "Forbidden Ground"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6614,
+          "asacProgrammeTitle": "Tiltott terület",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6614",
+          "sourceDuration": "83 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Shonen",
+          "director": "Nagisa Oshima",
+          "aliases": [
+            "Shônen",
+            "Il bambino",
+            "Boy",
+            "Il ragazzo"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6668,
+          "asacProgrammeTitle": "Shonen",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6668",
+          "sourceDuration": "97 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Zaseda",
+          "director": "Živojin Pavlović",
+          "aliases": [
+            "L'imboscata",
+            "The Ambush"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6680,
+          "asacProgrammeTitle": "Zaseda",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6680",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Prologue",
+          "director": "Robin Spry",
+          "aliases": [
+            "Prologo"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6923,
+          "asacProgrammeTitle": "Prologue",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6923",
+          "sourceDuration": "85 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Dnevnje zvedij",
+          "director": "Igor Talankin",
+          "aliases": [
+            "Stelle di giorno"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6949,
+          "asacProgrammeTitle": "Dnevnje zvedij",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6949",
+          "sourceDuration": "105 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Genii",
+          "director": "Stefan Uher",
+          "aliases": [
+            "Genius",
+            "I diavoli"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6988,
+          "asacProgrammeTitle": "Genii",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/6988",
+          "sourceDuration": "81 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Children's Games",
+          "director": "Walter Welebit",
+          "aliases": [
+            "Giochi di bambini"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 7012,
+          "asacProgrammeTitle": "Children's Games",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/7012",
+          "sourceDuration": "90 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Benito Cereno",
+          "director": "Serge Roullet",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10026,
+          "asacProgrammeTitle": "Benito Cereno",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10026",
+          "sourceDuration": "90 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Cardillac",
+          "director": "Edgar Reitz",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10027,
+          "asacProgrammeTitle": "Cardillac",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10027",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Cest a sláva",
+          "director": "Hynek Bocan",
+          "aliases": [
+            "Onore e gloria",
+            "Honor and Glory"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10028,
+          "asacProgrammeTitle": "Cest a sláva",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10028",
+          "sourceDuration": "90 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Del amor y otras soledades",
+          "director": "Basilio Martín Patino",
+          "aliases": [
+            "Love and Other Solitudes",
+            "Dell'amore e di altri sentimenti"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10032,
+          "asacProgrammeTitle": "Del amor y otras soledades",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10032",
+          "sourceDuration": "101 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Dogadjaj",
+          "director": "Vatroslav Mimica",
+          "aliases": [
+            "Dogadaj",
+            "An Event",
+            "Un avvenimento"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10034,
+          "asacProgrammeTitle": "Dogadjaj",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10034",
+          "sourceDuration": "90 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Fadern",
+          "director": "Alf Sjöberg",
+          "aliases": [
+            "The Father",
+            "Dream of a Father",
+            "Il padre"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10036,
+          "asacProgrammeTitle": "Fadern",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10036",
+          "sourceDuration": "90 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Os herdeiros",
+          "director": "Carlos Diegues",
+          "aliases": [
+            "The Inheritors",
+            "Gli ereditieri",
+            "The Heirs"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10042,
+          "asacProgrammeTitle": "Os herdeiros",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10042",
+          "sourceDuration": "110 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Paulina s'en va",
+          "director": "André Téchiné",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10043,
+          "asacProgrammeTitle": "Paulina s'en va",
+          "asacYear": null,
+          "source": "https://asac.labiennale.org/attivita/cinema/10043",
+          "sourceDuration": "86 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Sierra Maestra",
+          "director": "Ansano Giannarelli",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10047,
+          "asacProgrammeTitle": "Sierra Maestra",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10047",
+          "sourceDuration": "110 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Bajo el signo del escorpión",
+          "director": "Vittorio Taviani; Paolo Taviani",
+          "aliases": [
+            "Sotto il segno dello scorpione",
+            "Under the Sign of Scorpio"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10049,
+          "asacProgrammeTitle": "Sotto il segno dello scorpione",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10049",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Dulces cazadores",
+          "director": "Ruy Guerra",
+          "aliases": [
+            "Ternos Caçadores",
+            "Sweet Hunters",
+            "Dolci cacciatori"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10051,
+          "asacProgrammeTitle": "Ternos Caçadores",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10051",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Two Gentlemen Sharing",
+          "director": "Ted Kotcheff",
+          "aliases": [
+            "Due signori in coabitazione"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10053,
+          "asacProgrammeTitle": "Two Gentlemen Sharing",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10053",
+          "sourceDuration": "102 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Yawar mallku",
+          "director": "Jorge Sanjinés",
+          "aliases": [
+            "Jawar mallku",
+            "Sangue di condor",
+            "Blood of the Condor"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10055,
+          "asacProgrammeTitle": "Yawar mallku",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10055",
+          "sourceDuration": "80 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "La primera carga al machete",
+          "director": "Manuel Octavio Gómez",
+          "aliases": [
+            "La prima carica al machete"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10357,
+          "asacProgrammeTitle": "La primera carga al machete",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10357",
+          "sourceDuration": "80 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "La novia del pirata",
+          "director": "Nelly Kaplan",
+          "aliases": [
+            "La fiancée du pirate",
+            "Alla bella Serafina piaceva far l'amore sera e mattina",
+            "Dirty Mary",
+            "A Very Curious Girl",
+            "La fidanzata del pirata",
+            "The Pirate's Fiancée",
+            "La Fiancée du pirate"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 11918,
+          "asacProgrammeTitle": "La fiancée du pirate",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/11918",
+          "sourceDuration": "105 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        }
+      ],
+      "originalSection": "Film Invitati"
+    },
+    {
+      "festival": "Venecia",
+      "year": 1969,
       "section": "Informativa · edición no competitiva",
       "films": [
         {
-          "title": "The Axe",
+          "title": "Baltagul",
           "director": "Mircea Muresan",
-          "aliases": [],
-          "nominations": [],
+          "aliases": [
+            "La Mazza",
+            "La scure",
+            "The Hatchet"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10057,
+          "asacProgrammeTitle": "Baltagul",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10057",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
           "title": "Bhuvan Shome",
           "director": "Mrinal Sen",
-          "aliases": [],
-          "nominations": [],
+          "aliases": [
+            "Signor Shome",
+            "Mr. Shome"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10059,
+          "asacProgrammeTitle": "Bhuvan Shome",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10059",
+          "sourceDuration": "99 minuti",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
-          "title": "Double Suicide",
-          "director": "Masahiro Shinoda",
-          "aliases": [],
-          "nominations": [],
+          "title": "I cannibali",
+          "director": "Liliana Cavani",
+          "aliases": [
+            "The Year of the Cannibals",
+            "The Cannibals"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10061,
+          "asacProgrammeTitle": "I cannibali",
+          "asacYear": 1970,
+          "source": "https://asac.labiennale.org/attivita/cinema/10061",
+          "sourceDuration": "85 minuti",
+          "titleSource": "Maestro aprobado · título ES",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
-          "title": "A Gentle Woman",
+          "title": "Una mujer dulce",
           "director": "Robert Bresson",
-          "aliases": [],
-          "nominations": [],
+          "aliases": [
+            "Une femme douce",
+            "Così bella così dolce",
+            "A Gentle Creature",
+            "Una donna dolce",
+            "A Gentle Woman"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10062,
+          "asacProgrammeTitle": "Une femme douce",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10062",
+          "sourceDuration": "87 minuti",
+          "titleSource": "Maestro aprobado · título ES",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
           "title": "The Gladiators",
           "director": "Peter Watkins",
           "aliases": [
-            "Gladiatorerna"
+            "Gladiatorerna",
+            "I gladiatori"
           ],
-          "nominations": [],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
+          "asacId": 10063,
+          "asacProgrammeTitle": "Gladiatorerna",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10063",
+          "sourceDuration": "95 minuti",
           "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
-          "title": "Glory Day",
-          "director": "Edoardo Bruno",
-          "aliases": [],
-          "nominations": [],
+          "title": "Historia de una chica sola",
+          "director": "Jorge Grau",
+          "aliases": [
+            "La storia di una ragazza sola",
+            "The story of a lonely girl"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10065,
+          "asacProgrammeTitle": "Historia de una chica sola",
+          "asacYear": null,
+          "source": "https://asac.labiennale.org/attivita/cinema/10065",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
           "title": "L'indiscret",
           "director": "François Reichenbach",
-          "aliases": [],
-          "nominations": [],
+          "aliases": [
+            "L'indiscreto",
+            "The Indiscreet One"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10066,
+          "asacProgrammeTitle": "L'indiscret",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10066",
+          "sourceDuration": "90 minuti",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
+        },
+        {
+          "title": "Una macchia rosa",
+          "director": "Enzo Muzii",
+          "aliases": [
+            "Rose Spot",
+            "A Pink Stain"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10067,
+          "asacProgrammeTitle": "Una macchia rosa",
+          "asacYear": 1970,
+          "source": "https://asac.labiennale.org/attivita/cinema/10067",
+          "sourceDuration": "90 minuti",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
           "title": "Macunaíma",
@@ -4121,358 +4715,98 @@
           "aliases": [
             "Macunaima"
           ],
-          "nominations": [],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
+          "asacId": 10068,
+          "asacProgrammeTitle": "Macunaíma",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10068",
+          "sourceDuration": "100 minuti",
           "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Rose Spot",
-          "director": "Enzo Muzii",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
           "title": "Salesman",
-          "director": "Albert Maysles; David Maysles; Charlotte Zwerin",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Story of a Girl Alone",
-          "director": "Jorge Grau",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "The Year of the Cannibals",
-          "director": "Liliana Cavani",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "A Woman’s Case",
-          "director": "Jacques Katmor",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        }
-      ]
-    },
-    {
-      "festival": "Venecia",
-      "year": 1969,
-      "section": "Selección principal · edición no competitiva",
-      "films": [
-        {
-          "title": "The Ambush",
-          "director": "Živojin Pavlović",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Benito Cereno",
-          "director": "Serge Roullet",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Boy",
-          "director": "Nagisa Ōshima",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Cardillac",
-          "director": "Edgar Reitz",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Children’s Games",
-          "director": "Walter Welebit",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Day Stars",
-          "director": "Igor Talankin",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "An Event",
-          "director": "Vatroslav Mimica",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "The Father",
-          "director": "Alf Sjöberg",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Satiricón",
-          "director": "Federico Fellini",
+          "director": "Albert Maysles; David Maysles",
           "aliases": [
-            "Fellini Satyricon",
-            "Fellini – satyricon"
+            "Venditore"
           ],
-          "nominations": [],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10069,
+          "asacProgrammeTitle": "Salesman",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10069",
+          "sourceDuration": "90 minuti",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
-          "title": "The First Charge of the Machete",
-          "director": "Manuel Octavio Gómez",
-          "aliases": [],
-          "nominations": [],
+          "title": "Shinjû: ten no Amijima",
+          "director": "Masahiro Shinoda",
+          "aliases": [
+            "Shinju Tenno Amishima",
+            "Double Suicide",
+            "La punizione del cielo a Amijima",
+            "The punishment of the sky at Amijima"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10070,
+          "asacProgrammeTitle": "Shinjû: ten no Amijima",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10070",
+          "sourceDuration": "102 minuti",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
-          "title": "Forbidden Ground",
-          "director": "Pál Gábor",
-          "aliases": [],
-          "nominations": [],
+          "title": "La sua giornata di gloria",
+          "director": "Edoardo Bruno",
+          "aliases": [
+            "Glory Day",
+            "His Day of Glory"
+          ],
           "wins": [],
+          "nominations": [],
           "candidacies": [],
+          "asacId": 10071,
+          "asacProgrammeTitle": "La sua giornata di gloria",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10071",
+          "sourceDuration": "83 minuti",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         },
         {
-          "title": "Génius",
-          "director": "Štefan Uher",
-          "aliases": [],
-          "nominations": [],
+          "title": "Mikreh Isha",
+          "director": "Jacques Mory-Katmor",
+          "aliases": [
+            "A Woman's Case",
+            "Il caso di una donna"
+          ],
           "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "The Heirs",
-          "director": "Carlos Diegues",
-          "aliases": [],
           "nominations": [],
-          "wins": [],
           "candidacies": [],
+          "asacId": 10072,
+          "asacProgrammeTitle": "Mikreh Isha",
+          "asacYear": 1969,
+          "source": "https://asac.labiennale.org/attivita/cinema/10072",
+          "sourceDuration": "84 minuti",
           "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Honor and Glory",
-          "director": "Hynek Bočan",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Love and Other Solitudes",
-          "director": "Basilio Martín Patino",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Paulina Is Leaving",
-          "director": "André Téchiné",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Pigsty",
-          "director": "Pier Paolo Pasolini",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Prologue",
-          "director": "Robin Spry",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Sierra Maestra",
-          "director": "Ansano Giannarelli",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Subject for a Short Story",
-          "director": "Sergei Yutkevich",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Sweet Hunters",
-          "director": "Ruy Guerra",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Two Gentlemen Sharing",
-          "director": "Ted Kotcheff",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Blood of the Condor",
-          "director": "Jorge Sanjinés",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Under the Sign of Scorpio",
-          "director": "Paolo and Vittorio Taviani",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "A Very Curious Girl",
-          "director": "Nelly Kaplan",
-          "aliases": [],
-          "nominations": [],
-          "wins": [],
-          "candidacies": [],
-          "award": "Selección · edición no competitiva",
-          "competitionStatus": "NO_COMPETITIVA",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "NO_COMPETITIVA"
         }
-      ]
+      ],
+      "originalSection": "Informativa"
     }
   ]
 }
