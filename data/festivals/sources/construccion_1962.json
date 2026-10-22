@@ -17,16 +17,16 @@
       "candidacyAppearances": 54
     },
     {
-      "festival": "Berlinale",
-      "section": "Selección principal",
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
       "films": 29,
       "declaredOwned": 3,
       "withFA": 0,
       "candidacyAppearances": 5
     },
     {
-      "festival": "Berlinale",
-      "section": "Competición oficial · cortometrajes",
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
       "films": 8,
       "declaredOwned": 1,
       "withFA": 0,
@@ -211,7 +211,8 @@
     "Una regeneración limitada al bloque1960–1964; otros años, maestros, catálogo e interfaces preservados.",
     "Venecia: la cobertura varía por año;1964 incorpora listas ASAC transcritas,1963 selecciones reconstruidas y1962 cotejo parcial;1961–1960 conservan únicamente palmarés. No se consideran programas completos.",
     "Normalizadas las etiquetas de familia y secciones del paquete; separadas óperas primas, documentales/cortos y fuera de concurso. En San Sebastián, las películas identificadas fuera de concurso se retiran de la lista competitiva y conservan sus premios.",
-    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia."
+    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia.",
+    "La etiqueta de origen Berlinale se normaliza a la familia Berlín; no crea un festival distinto."
   ],
   "sharedCandidacies": [],
   "packageCoverage": {

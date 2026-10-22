@@ -459,7 +459,7 @@
             }
           ],
           "award": "Film From Any Source · Mejor actor extranjero · Paul Newman",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "El buscavidas",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -521,7 +521,7 @@
             }
           ],
           "award": "Selección · cobertura parcial",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "¿Vencedores o vencidos? (El juicio de Núremberg)",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -855,9 +855,9 @@
       ]
     },
     {
-      "festival": "Berlinale",
+      "festival": "Berlín",
       "year": 1962,
-      "section": "Selección principal",
+      "section": "Selección competitiva · reconstrucción parcial",
       "films": [
         {
           "title": "Esa clase de amor",
@@ -879,6 +879,86 @@
           ],
           "award": "Oso de Oro",
           "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Salvatore Giuliano",
+          "director": "Francesco Rosi",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Oso de Plata · mejor dirección"
+          ],
+          "candidacies": [
+            {
+              "category": "Oso de Plata · mejor dirección",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
+            }
+          ],
+          "award": "Oso de Plata · mejor dirección",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Un optimista de vacaciones",
+          "director": "Henry Koster",
+          "aliases": [
+            "Mr. Hobbs Takes a Vacation"
+          ],
+          "nominations": [],
+          "wins": [
+            "Oso de Plata · mejor actor"
+          ],
+          "candidacies": [
+            {
+              "category": "Oso de Plata · mejor actor",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
+            }
+          ],
+          "award": "Oso de Plata · mejor actor",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "No Exit",
+          "director": "Tad Danielewski",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Oso de Plata · mejor actriz"
+          ],
+          "candidacies": [
+            {
+              "category": "Oso de Plata · mejor actriz",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
+            }
+          ],
+          "award": "Oso de Plata · mejor actriz",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "To the Last Day",
+          "director": "Shin Sang-ok",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Silver Bear — Extraordinary Jury Prize"
+          ],
+          "candidacies": [
+            {
+              "category": "Silver Bear — Extraordinary Jury Prize",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
+            }
+          ],
+          "award": "Silver Bear — Extraordinary Jury Prize",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
         {
@@ -992,47 +1072,6 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
         {
-          "title": "Un optimista de vacaciones",
-          "director": "Henry Koster",
-          "aliases": [
-            "Mr. Hobbs Takes a Vacation"
-          ],
-          "nominations": [],
-          "wins": [
-            "Oso de Plata · mejor actor"
-          ],
-          "candidacies": [
-            {
-              "category": "Oso de Plata · mejor actor",
-              "person": null,
-              "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
-            }
-          ],
-          "award": "Oso de Plata · mejor actor",
-          "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "No Exit",
-          "director": "Tad Danielewski",
-          "aliases": [],
-          "nominations": [],
-          "wins": [
-            "Oso de Plata · mejor actriz"
-          ],
-          "candidacies": [
-            {
-              "category": "Oso de Plata · mejor actriz",
-              "person": null,
-              "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
-            }
-          ],
-          "award": "Oso de Plata · mejor actriz",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
           "title": "Out of the Tiger's Mouth",
           "director": "Tim Whelan, Jr.",
           "aliases": [],
@@ -1070,26 +1109,6 @@
           "wins": [],
           "candidacies": [],
           "award": "Selección · cobertura parcial",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
-          "title": "Salvatore Giuliano",
-          "director": "Francesco Rosi",
-          "aliases": [],
-          "nominations": [],
-          "wins": [
-            "Oso de Plata · mejor dirección"
-          ],
-          "candidacies": [
-            {
-              "category": "Oso de Plata · mejor dirección",
-              "person": null,
-              "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
-            }
-          ],
-          "award": "Oso de Plata · mejor dirección",
-          "titleSource": "Maestro aprobado · título ES",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
         {
@@ -1143,25 +1162,6 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
         {
-          "title": "To the Last Day",
-          "director": "Shin Sang-ok",
-          "aliases": [],
-          "nominations": [],
-          "wins": [
-            "Silver Bear — Extraordinary Jury Prize"
-          ],
-          "candidacies": [
-            {
-              "category": "Silver Bear — Extraordinary Jury Prize",
-              "person": null,
-              "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1962 · https://www.bafta.org/awards/film/?award-year=1962 · https://www.festival-cannes.com/retrospective/1962/selection/ · https://www.festival-cannes.com/retrospective/1962/palmares/ · https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival · https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es · https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in · https://asac.labiennale.org/attivita/cinema/annali?anno=1962 · https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival · https://www.filmaffinity.com/es/film858378.html · https://www.filmaffinity.com/es/film192148.html · https://www.filmaffinity.com/es/film978617.html · https://www.filmaffinity.com/es/film687189.html · https://www.filmaffinity.com/es/film716669.html · https://www.filmaffinity.com/es/film462819.html · https://www.filmaffinity.com/es/film557040.html"
-            }
-          ],
-          "award": "Silver Bear — Extraordinary Jury Prize",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
-        },
-        {
           "title": "Under the Same Skin",
           "director": "Daniel Tinayre",
           "aliases": [],
@@ -1204,9 +1204,9 @@
       ]
     },
     {
-      "festival": "Berlinale",
+      "festival": "Berlín",
       "year": 1962,
-      "section": "Competición oficial · cortometrajes",
+      "section": "Competición oficial · cortometrajes y documentales",
       "films": [
         {
           "title": "The Ancestors",
@@ -1691,7 +1691,7 @@
             }
           ],
           "award": "Prix de la meilleure comédie",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "Divorcio a la italiana",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -1805,7 +1805,7 @@
             }
           ],
           "award": "Prix spécial du Jury (Ex-Aequo)",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "El eclipse",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -2196,7 +2196,8 @@
           "filmAffinityId": "192148",
           "aliases": [
             "¿Vencedores o vencidos? (El juicio de Nuremberg)",
-            "Judgment at Nuremberg"
+            "Judgment at Nuremberg",
+            "Judgment At Nuremberg"
           ],
           "nominations": [
             "Actor protagonista · Maximilian Schell",
@@ -2284,7 +2285,7 @@
             }
           ],
           "award": "Actor protagonista · Maximilian Schell · Guion adaptado · Abby Mann",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "¿Vencedores o vencidos? (El juicio de Núremberg)",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -2414,7 +2415,7 @@
             }
           ],
           "award": "Diseño de producción · blanco y negro · Art Direction: Harry Horner; Set Decoration: Gene Callahan · Fotografía · blanco y negro · Eugen Shuftan",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "El buscavidas",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -2540,7 +2541,7 @@
             }
           ],
           "award": "Actor de reparto · George Chakiris · Actriz de reparto · Rita Moreno · Diseño de producción · color · Art Direction: Boris Leven; Set Decoration: Victor A. Gangelin · Fotografía · color · Daniel L. Fapp · Vestuario · color · Irene Sharaff · Dirección · Robert Wise, Jerome Robbins · Montaje · Thomas Stanford · Music (Scoring of a Musical Picture) · Saul Chaplin, Johnny Green, Sid Ramin, Irwin Kostal · Best Motion Picture · Robert Wise, Producer · Sonido · Todd-AO Sound Department, Fred Hynes; Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "West Side Story",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -2651,7 +2652,7 @@
             }
           ],
           "award": "Music (Music Score of a Dramatic or Comedy Picture) · Henry Mancini · Canción · “Moon River”; music Henry Mancini, lyrics Johnny Mercer",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "Desayuno con diamantes",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -4194,7 +4195,7 @@
             }
           ],
           "award": "Premio San Sebastián · mejor actriz · Anne Bancroft",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "El milagro de Ana Sullivan",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         },
         {
@@ -4601,7 +4602,7 @@
           "candidacies": [],
           "award": "Fuera de concurso",
           "competitionStatus": "FUERA_DE_CONCURSO",
-          "titleSource": "Maestro aprobado · título ES",
+          "filmaffinityTitle": "West Side Story",
           "identityStatus": "FILMAFFINITY_ID_LINKED"
         }
       ]
