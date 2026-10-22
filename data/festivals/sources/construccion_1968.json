@@ -1,0 +1,282 @@
+{
+  "year": 1968,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1968; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1968_para_Sol.zip",
+    "sha256": "c0d69fac552b5b11607e24ea7a0d181f45b1a530ffef14efbaca4d1ea8cdf8e9"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1967",
+      "films": 39,
+      "declaredOwned": 21,
+      "withFA": 0,
+      "candidacyAppearances": 68
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 20,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 10
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Berlín",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes · selección anunciada, competición cancelada",
+      "films": 11,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · selección anunciada, competición cancelada",
+      "films": 27,
+      "declaredOwned": 16,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada · selección anunciada, competición cancelada",
+      "films": 4,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 40.ª edición",
+      "films": 47,
+      "declaredOwned": 27,
+      "withFA": 0,
+      "candidacyAppearances": 106
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 14,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 5,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 14,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    }
+  ],
+  "sources": [
+    {
+      "file": "extracciones/cannes_1968_selection_transcription.json",
+      "captureType": "structured transcription from official retrospective page",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1968/selection/"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/cannes_1968_cancellation_transcription.json",
+      "captureType": "official notice transcription",
+      "urls": [
+        "https://www.festival-cannes.com/en/medialibrary/after-the-resignation-of-four-members-of-the-jury-the-festival-decides-to-continue-with-the-screenings-but-to-cancel-the-competition/"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/oscars_1968_academy_transcription.json",
+      "captureType": "structured transcription from official Academy archive",
+      "urls": [
+        "https://www.oscars.org/oscars/ceremonies/1968/B"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/filmaffinity_oscar_1968_index.json",
+      "captureType": "search-result extraction, not page screenshot",
+      "urls": [
+        "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1968"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/bafta_film_1968_transcription.json",
+      "captureType": "structured transcription from official BAFTA Film archive",
+      "urls": [
+        "https://www.bafta.org/awards/film/?award-year=1968"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/sansebastian_1968_programme_transcription.json",
+      "captureType": "partial structured transcription from official festival archive",
+      "urls": [
+        "https://www.sansebastianfestival.com/1968/sections_and_films/8/in"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/sansebastian_1968_awards_transcription.json",
+      "captureType": "structured transcription from official festival archive",
+      "urls": [
+        "https://www.sansebastianfestival.com/1968/awards_and_jury_members/awards/1/61/in"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/berlinale_1968_awards_transcription.json",
+      "captureType": "secondary-source transcription, corroborated against FilmAffinity award-edition index; official archive URL inaccessible during retrieval",
+      "urls": [
+        "https://www.filmaffinity.com/en/award-edition.php?edition-id=berlin_1968"
+      ],
+      "retrieved": "2026-10-22"
+    },
+    {
+      "file": "extracciones/venecia_1968_activity_transcription.json",
+      "captureType": "official archive existence plus secondary historical context",
+      "urls": [
+        "https://asac.labiennale.org/collezioni/fototeca/fascicoli/479911",
+        "https://asac.labiennale.org/attivita/cinema/10143",
+        "https://www.labiennale.org/en/history-venice-film-festival",
+        "https://www.raicultura.it/cinema/articoli/2019/08/La-Mostra-comera-1968-9ba8d272-c375-4c31-bc5a-7033ffaccd57.html"
+      ],
+      "retrieved": "2026-10-22"
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1963–1970, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1965–1969; otros años, maestros, catálogo e interfaces preservados.",
+    "Cannes: selección anunciada, competición y premios cancelados. No se asigna palmarés ni se afirma que todos los títulos se proyectaran. Venecia: programa pendiente; no se publica una sección vacía ni se considera no celebrada."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA1968-BritishActor-DirkBogarde",
+      "category": "Mejor actor británico",
+      "person": "Dirk Bogarde",
+      "winner": false,
+      "films": [
+        "Accidente",
+        "A las nueve cada noche"
+      ]
+    },
+    {
+      "id": "BAFTA1968-Newcomer-FayeDunaway",
+      "category": "Mejor intérprete revelación",
+      "person": "Faye Dunaway",
+      "winner": true,
+      "films": [
+        "Bonnie y Clyde",
+        "La noche deseada"
+      ]
+    },
+    {
+      "id": "BAFTA1968-ForeignActress-BibiAndersson",
+      "category": "Mejor actriz extranjera",
+      "person": "Bibi Andersson",
+      "winner": false,
+      "films": [
+        "My Sister, My Love",
+        "Persona"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1968,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Oscar",
+        "status": "parcial",
+        "coverage": "40.ª ceremonia; candidaturas competitivas cinematográficas transcritas de la Academy, con premios personales aparte.",
+        "remaining": "Cruzar los títulos e IDs con FilmAffinity España; cotejo de transcripción y créditos de equipos."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "parcial",
+        "coverage": "Todas las categorías Film visibles en el archivo oficial BAFTA (16 categorías); televisión excluida; Fellowship/personales fuera del archivo de películas.",
+        "remaining": "Cruzar títulos e IDs con FilmAffinity España; verificar si hubo premios personales/Fellowship en la edición."
+      },
+      {
+        "festival": "Cannes",
+        "status": "parcial",
+        "coverage": "Selección retrospectiva oficial: 27 largometrajes anunciados para competición, cuatro fuera de concurso y once cortos; premios no asignados porque se canceló la competición.",
+        "remaining": "Confirmar títulos FilmAffinity registrados; revisar efecto de retiradas de películas y orden real de proyecciones durante los días finales."
+      },
+      {
+        "festival": "Berlín",
+        "status": "parcial",
+        "coverage": "Edición celebrada; selección parcial reconstruida desde referencia secundaria y premios archivados por FilmAffinity/secundarias.",
+        "remaining": "La lista completa de competición, cortos y premios requiere archivo oficial; el endpoint oficial devolvió 503."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "parcial",
+        "coverage": "Sección oficial de largometrajes identificada, con cinco entradas marcadas fuera de concurso separadas; premios oficiales unidos a sus películas; cortos parciales.",
+        "remaining": "El archivo declara 84 películas; la extracción oficial falló en varias filas y hay otras secciones/programas sin reconstruir."
+      },
+      {
+        "festival": "Venecia",
+        "status": "pendiente",
+        "coverage": "La 29.ª Mostra se celebró; ASAC acredita actividad y existen referencias históricas a protestas y retirada de películas.",
+        "remaining": "Programa y estructura de secciones de 1968 sin reconstrucción fiable; no hay palmarés competitivo oficial."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "FA-IDENTITY-1968",
+      "question": "No se verificó ficha ni título registrado individualmente en FilmAffinity España. Los IDs están en null; confirmar si Sol desea incorporar este paquete con IDs pendientes o completar el cruce FA en bloque."
+    },
+    {
+      "id": "BERLINALE-SELECTION-1968",
+      "question": "¿Usar el catálogo histórico oficial de Berlinale cuando vuelva a estar accesible para completar selección/shorts, o mantener solo el bloque parcial secundario?"
+    },
+    {
+      "id": "VENICE-PROGRAMME-1968",
+      "question": "¿Se debe reconstruir el programa completo a partir del catálogo ASAC impreso/digital, incluyendo los títulos retirados, antes de integrar Venecia?"
+    },
+    {
+      "id": "SANSEBASTIAN-ARCHIVE-1968",
+      "question": "El archivo oficial declara 84 películas pero entrega errores SQL en filas de cortos; hace falta una extracción estable del inventario completo y sus otros programas."
+    },
+    {
+      "id": "CANNES-1968-RETRACTIONS",
+      "question": "El archivo retrospectivo conserva selección anunciada, pero algunas películas fueron retiradas durante la crisis de mayo; hace falta confirmar retiradas/proyecciones canceladas para un registro de exhibición efectiva."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

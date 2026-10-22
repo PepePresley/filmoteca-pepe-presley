@@ -1,0 +1,436 @@
+{
+  "year": 1965,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1965; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1965_para_Sol.zip",
+    "sha256": "21abcaf627f9ba4c83e440a731d326222bdf4dda9be7474962ae7560f896e2f1"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1964",
+      "films": 42,
+      "declaredOwned": 29,
+      "withFA": 4,
+      "candidacyAppearances": 76
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 18,
+      "declaredOwned": 11,
+      "withFA": 1,
+      "candidacyAppearances": 15
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes",
+      "films": 4,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Berlín",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 20,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 26,
+      "declaredOwned": 15,
+      "withFA": 1,
+      "candidacyAppearances": 14
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 6,
+      "declaredOwned": 2,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 37.ª edición",
+      "films": 57,
+      "declaredOwned": 36,
+      "withFA": 9,
+      "candidacyAppearances": 121
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 25,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 5,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 15,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 12,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 14,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Premios independientes · selección parcial",
+      "films": 5,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "films": 26,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 29
+    }
+  ],
+  "sources": [
+    {
+      "file": "extracciones/oscars_1965_academy_transcription.json",
+      "type": "transcripción estructurada directa de la página oficial",
+      "urls": [
+        "https://www.oscars.org/oscars/ceremonies/1965"
+      ]
+    },
+    {
+      "file": "extracciones/bafta_film_1965_official_transcription.json",
+      "type": "transcripción estructurada directa del archivo oficial Film",
+      "urls": [
+        "https://www.bafta.org/awards/film/?award-year=1965"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1965_selection_transcription.json",
+      "type": "transcripción estructurada directa de retrospectiva oficial; no captura",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1965/"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1965_awards_transcription.json",
+      "type": "transcripción estructurada directa de retrospectiva oficial; no captura",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1965/awards/"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1965_archive_transcription.json",
+      "type": "transcripción parcial de archivo oficial; 96 registros totales, errores SQL impiden completar todos los campos",
+      "urls": [
+        "https://www.sansebastianfestival.com/1965/secciones_y_peliculas/8/es"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1965_awards_transcription.json",
+      "type": "transcripción estructurada directa de la página oficial",
+      "urls": [
+        "https://www.sansebastianfestival.com/1965/awards_and_jury_members/awards/1/58/in"
+      ]
+    },
+    {
+      "file": "extracciones/venice_1965_official_transcription.json",
+      "type": "transcripción de historia oficial de La Biennale y fichas oficiales ASAC",
+      "urls": [
+        "https://www.labiennale.org/en/history-venice-film-festival",
+        "https://asac.labiennale.org/attivita/cinema/56"
+      ]
+    },
+    {
+      "file": "extracciones/filmaffinity_1965_identity_check.json",
+      "type": "verificación parcial de títulos, IDs y directores de FilmAffinity España; incluye fichas individuales y enlaces de índice diferenciados",
+      "urls": [
+        "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1965",
+        "https://www.filmaffinity.com/es/film317417.html",
+        "https://www.filmaffinity.com/es/film213137.html",
+        "https://www.filmaffinity.com/es/film633298.html",
+        "https://www.filmaffinity.com/es/film526690.html",
+        "https://www.filmaffinity.com/es/film855881.html",
+        "https://www.filmaffinity.com/es/film479847.html",
+        "https://www.filmaffinity.com/es/film891194.html",
+        "https://www.filmaffinity.com/es/film957823.html",
+        "https://www.filmaffinity.com/es/film568154.html",
+        "https://www.filmaffinity.com/es/film782276.html",
+        "https://www.filmaffinity.com/es/film522114.html"
+      ]
+    },
+    {
+      "file": "extracciones/berlinale_1965_secondary_transcription.json",
+      "type": "transcripción secundaria estructurada de premios y lista de competición; contraste con archivo oficial pendiente",
+      "urls": [
+        "https://www.kinoafisha.info/en/awards/berlinale/events/berlinale-1965/",
+        "https://www.berlinale.de/en/archive/awards-juries/awards.html/y=1965/o=desc/p=1/rp=40"
+      ]
+    },
+    {
+      "file": "extracciones/berlinale_1965_user_document_transcription.txt",
+      "type": "transcripción directa de DOCX aportado por el usuario; procedencia primaria no indicada y no es captura",
+      "urls": [],
+      "original_file": "extracciones/Berlinale 1965 - Seccion Oficial a Concurso.docx"
+    },
+    {
+      "file": "extracciones/berlinale_1965_user_pdf_transcription.txt",
+      "type": "transcripción de PDF aportado por el usuario; coincide con DOCX anterior; el metadato indica render de Google Docs, sin procedencia bibliográfica",
+      "urls": [],
+      "original_file": "extracciones/Berlinale 1965 - Seccion Oficial a Concurso.pdf"
+    },
+    {
+      "file": "extracciones/berlinale_1965_wikipedia_transcription.json",
+      "type": "transcripción estructurada directa de fuente secundaria; cita el Programme 1965 y PRIZES & HONOURS 1965 oficiales archivados, no recuperados directamente en esta revisión",
+      "urls": [
+        "https://en.wikipedia.org/wiki/15th_Berlin_International_Film_Festival"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1965_official_archive_transcription.json",
+      "type": "transcripción estructurada parcial del archivo oficial; la web declara 96 títulos, algunos créditos devuelven errores SQL",
+      "urls": [
+        "https://www.sansebastianfestival.com/1965/secciones_y_peliculas/8/es"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1965_wikipedia_transcription.json",
+      "type": "transcripción secundaria; tabla con recuento interno inconsistente (declara 16, lista 15)",
+      "urls": [
+        "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_San_Sebasti%C3%A1n_1965"
+      ]
+    },
+    {
+      "file": "extracciones/venecia_1965_wikipedia_transcription.json",
+      "type": "transcripción secundaria; lista 12 títulos en competición y 14 fuera de competición, y premios principales e independientes; cita ficha ASAC oficial",
+      "urls": [
+        "https://en.wikipedia.org/wiki/26th_Venice_International_Film_Festival"
+      ]
+    },
+    {
+      "file": "extracciones/venecia_1965_asac_access.json",
+      "type": "registro de acceso verificado en pestaña del usuario; ASAC cargó y mostró secciones y premios",
+      "urls": [
+        "https://asac.labiennale.org/attivita/cinema/annali?anno=1965"
+      ]
+    },
+    {
+      "file": "extracciones/venecia_1965_asac_transcription.json",
+      "type": "transcripción manual directa del registro anual oficial ASAC desde la pestaña abierta por el usuario; no es captura",
+      "urls": [
+        "https://asac.labiennale.org/attivita/cinema/annali?anno=1965"
+      ]
+    },
+    {
+      "file": "extracciones/svenskfilmdatabas_modiga_mindre_man_transcription.json",
+      "type": "transcripción directa de ficha oficial del Svenska Filminstitutet, consultada en la pestaña abierta por el usuario; no es captura",
+      "urls": [
+        "https://www.svenskfilmdatabas.se/sv/item/?type=film&itemid=4796"
+      ]
+    },
+    {
+      "file": "extracciones/berlin_90_degrees_user_clarification.json",
+      "type": "síntesis de fuentes secundarias aportadas por el usuario; no es extracción directa",
+      "urls": [
+        "https://en.wikipedia.org/wiki/90_Degrees_in_the_Shade",
+        "https://baike.baidu.com/es/item/90%20Grados%20en%20la%20Sombra/2763677",
+        "https://letterboxd.com/film/90-in-the-shade/",
+        "https://en.wikipedia.org/wiki/15th_Berlin_International_Film_Festival",
+        "https://www.imdb.com/event/ev0000091/1965/1/"
+      ]
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1963–1970, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1965–1969; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: las selecciones principal y fuera de concurso se apoyan en ASAC oficial. El episodio infantil Spionernas skräck, de Modiga mindre män, se conserva sin publicar para evitar cruzarlo con la compilación cinematográfica posterior de1968. Premios de programas paralelos conservados separadamente."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA-1965-BRITISH-ACTOR-RICHARD-ATTENBOROUGH",
+      "category": "Mejor actor británico",
+      "person": "Richard Attenborough",
+      "winner": true,
+      "films": [
+        "Cañones en Batasi",
+        "Plan siniestro"
+      ]
+    },
+    {
+      "id": "BAFTA-1965-FOREIGN-ACTRESS-SHIRLEY-MACLAINE",
+      "category": "Mejor actriz extranjera",
+      "person": "Shirley MacLaine",
+      "winner": false,
+      "films": [
+        "Irma la dulce",
+        "Ella y sus maridos"
+      ]
+    },
+    {
+      "id": "BAFTA-1965-BRITISH-ACTOR-PETER-SELLERS",
+      "category": "Mejor actor británico",
+      "person": "Peter Sellers",
+      "winner": false,
+      "films": [
+        "¿Teléfono rojo? Volamos hacia Moscú",
+        "La pantera rosa"
+      ]
+    },
+    {
+      "id": "BAFTA|1965|Mejor vestuario británico · color|Anthony Mendleson",
+      "category": "Mejor vestuario británico · color",
+      "person": "Anthony Mendleson",
+      "winner": false,
+      "films": [
+        "Los invasores",
+        "El Rolls Royce amarillo"
+      ]
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar",
+      "status": "complete",
+      "coverage": "37th ceremony; competitive film categories per Academy official page; Honorary Award split out."
+    },
+    {
+      "block": "BAFTA Film",
+      "status": "complete",
+      "coverage": "All categories on official 1965 Film page; excludes Television."
+    },
+    {
+      "block": "Cannes feature competition",
+      "status": "complete",
+      "coverage": "26 feature titles and award associations from official retrospective."
+    },
+    {
+      "block": "Cannes short competition",
+      "status": "complete",
+      "coverage": "20 short-film titles and listed prizes from official retrospective."
+    },
+    {
+      "block": "Cannes out of competition",
+      "status": "complete",
+      "coverage": "6 titles from official retrospective."
+    },
+    {
+      "block": "Berlín",
+      "status": "partial",
+      "coverage": "La lista principal de 18 largometrajes y 4 cortos coincide entre el documento del usuario y la página secundaria de la edición. 90 Degrees in the Shade queda separada fuera de competición y con su premio UNICRIT, según fuentes secundarias aportadas por el usuario. Se conserva el carácter parcial porque no se recuperó directamente el programa oficial archivado ni se han comprobado otros programas relevantes."
+    },
+    {
+      "block": "San Sebastián",
+      "status": "partial",
+      "coverage": "Archivo oficial indica 96 registros y deja recuperar 15 largometrajes de competición, 25 cortos a concurso y 3 largometrajes + 2 cortos fuera de concurso; varios campos fallan con SQL. Wikipedia declara 16 títulos oficiales pero su tabla visible lista 15, y solo 3 películas + 1 corto fuera de concurso. Se corrigieron dos personas del palmarés con la página oficial. La cobertura de la selección completa y el recuento del programa requieren revisión."
+    },
+    {
+      "block": "Venecia",
+      "status": "partial",
+      "coverage": "ASAC oficial confirma 12 títulos en In Concorso y 14 en Fuori Concorso. La ficha oficial de Svensk Filmdatabas resuelve Modiga mindre män: recibió el premio especial del jurado en el festival infantil por el episodio “Spionernas skräck”; se conserva en un archivo de programa infantil separado y no en competición principal. Los demás programas paralelos (documentales, cine para jóvenes y retrospectivas) siguen sin extracción título a título."
+    },
+    {
+      "block": "FilmAffinity identities",
+      "status": "partial",
+      "coverage": "11 identidades confirmadas; resto null y no investigado individualmente."
+    }
+  ],
+  "packageDoubts": [
+    {
+      "id": "FA-1965-IDENTITIES",
+      "question": "Verificación parcial: 11 identidades principales se confirmaron desde páginas o enlaces de FilmAffinity España. El resto permanece con ID null; no se hizo búsqueda individual de todas las películas."
+    },
+    {
+      "id": "SSIFF-1965-SELECTION",
+      "question": "El archivo oficial reporta 96 registros, deja visibles 15 largometrajes de competición, 25 cortos a concurso y 3 largometrajes + 2 cortos fuera de concurso, pero algunos créditos dan errores SQL. La página de Wikipedia declara 16 títulos oficiales y su tabla muestra 15; además no incluye cortos. Confirmar el programa oficial completo y reconciliar la diferencia de recuento."
+    },
+    {
+      "id": "VENICE-1965-SELECTION",
+      "question": "La sección de Modiga mindre män queda aclarada: la ficha oficial de Svensk Filmdatabas la sitúa en el festival infantil de Venecia (barnfilmfestivalen), donde el primer episodio “Spionernas skräck” ganó el premio especial del jurado. Se añadió en archivo separado de programa infantil; no pertenece a In Concorso/Fuori Concorso. Resta extraer título por título los demás programas paralelos ASAC (documentales, cine para jóvenes y retrospectiva), así como verificar las fuentes secundarias de premios independientes."
+    },
+    {
+      "id": "BERLIN-1965-PROGRAMME",
+      "question": "La clasificación de 90 Degrees in the Shade queda resuelta: selección oficial fuera de competición y premio UNICRIT, según las fuentes secundarias aportadas por el usuario (véase transcripción de procedencia). La lista principal de 18 largometrajes y 4 cortos coincide entre el PDF/DOCX del usuario y la página de la edición. Queda pendiente solo el contraste directo con el programa oficial archivado y comprobar si otros programas paralelos relevantes deben añadirse."
+    },
+    {
+      "id": "VENICE-1965-ASAC-AWARDS",
+      "question": "Los premios institucionales están transcritos del panel ASAC y la ficha oficial sueca confirma que el premio especial a Modiga mindre män fue por el primer episodio, “Spionernas skräck”, dentro del festival infantil. Confirmar si los premios independientes FIPRESCI, OCIC, UNICRIT y San Michele están completos; la afirmación secundaria de Silver Medal para Daylight Robbery no aparece en ASAC, que registra cuatro premios de interpretación infantil."
+    }
+  ],
+  "unpublishedIdentityEvidence": [
+    {
+      "file": "venecia_otros_programas_1965.json",
+      "reason": "Identidad de episodio infantil, distinta de la compilación cinematográfica posterior.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1965,
+        "section": "Programa infantil (festival de cine infantil; “barnfilmfestivalen” según Svensk Filmdatabas)",
+        "films": [
+          {
+            "title": "Modiga mindre män",
+            "director": "Leif Krantz",
+            "filmAffinityId": null,
+            "aliases": [
+              "Spionernas skräck (primer episodio de la serie televisiva; recibió el premio de 1965)"
+            ],
+            "nominations": [
+              "Premio especial del jurado (festival infantil de Venecia)"
+            ],
+            "wins": [
+              "Premio especial del jurado (festival infantil de Venecia)"
+            ],
+            "candidacies": [
+              {
+                "category": "Premio especial del jurado (festival infantil de Venecia)",
+                "person": "Leif Krantz",
+                "winner": true,
+                "note": "Reconocimiento otorgado al primer episodio, “Spionernas skräck”, no a la versión cinematográfica de tres episodios estrenada en Suecia en 1968."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
