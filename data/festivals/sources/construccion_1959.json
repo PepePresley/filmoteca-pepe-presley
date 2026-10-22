@@ -1,0 +1,3861 @@
+{
+  "year": 1959,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1959 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1959_para_Sol.zip",
+    "sha256": "c817eaed5cec9c39e2c6cbd4b4909c3240ba7094cbbba00bb77e541b64cedbbd"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "films": 44,
+      "declaredOwned": 26,
+      "withFA": 0,
+      "candidacyAppearances": 76
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 12,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 9
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 28,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 27,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 34
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 29,
+      "declaredOwned": 13,
+      "withFA": 0,
+      "candidacyAppearances": 39
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "films": 53,
+      "declaredOwned": 30,
+      "withFA": 0,
+      "candidacyAppearances": 109
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 12,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 12
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 21,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 27
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 15,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 20
+    }
+  ],
+  "sources": [
+    {
+      "id": "sansebastian_1959_visible_transcription",
+      "url": "https://www.sansebastianfestival.com/1959/secciones_y_peliculas/8/es",
+      "evidenceFile": "extracciones/sansebastian_1959_visible_transcription.json",
+      "type": "official page transcription / visible records only"
+    },
+    {
+      "id": "venezia_asac_1959_browser_transcription",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959",
+      "evidenceFile": "extracciones/venezia_asac_1959_browser_transcription.json",
+      "type": "official ASAC visible browser transcription of expanded program sections and awards; not API response or screenshot"
+    },
+    {
+      "id": "bafta_1959_official_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1959",
+      "evidenceFile": "extracciones/bafta_1959_official_transcription.json",
+      "type": "official BAFTA Film Awards page transcription; 11 categories and 75 candidate entries; no screenshot"
+    },
+    {
+      "id": "oscars_1959_official_page_transcription",
+      "url": "https://www.oscars.org/oscars/ceremonies/1959/D",
+      "evidenceFile": "extracciones/oscars_1959_official_page_note.json",
+      "type": "official Academy ceremony page transcription; 23 competitive categories, complete candidate rows; no screenshot"
+    },
+    {
+      "id": "venezia_asac_1959_main_selection",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959",
+      "evidenceFile": "extracciones/venezia_asac_1959_browser_transcription.json",
+      "type": "official ASAC visible browser transcription of expanded program sections and awards; not API response or screenshot"
+    },
+    {
+      "id": "venezia_asac_1959_schede_regia",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959",
+      "evidenceFile": "extracciones/venezia_asac_1959_schede_regia.json",
+      "type": "official ASAC film cards and annual awards transcriptions; no screenshot"
+    },
+    {
+      "id": "venezia_asac_1959_schede_regia",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959",
+      "evidenceFile": "extracciones/venezia_asac_1959_schede_regia.json",
+      "type": "official ASAC film cards and annual awards transcriptions; no screenshot"
+    },
+    {
+      "id": "venezia_asac_1959_schede_regia",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959",
+      "evidenceFile": "extracciones/venezia_asac_1959_schede_regia.json",
+      "type": "official ASAC film cards / award list transcriptions; no screenshot"
+    },
+    {
+      "id": "venezia_asac_1959_schede_regia",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959",
+      "evidenceFile": "extracciones/venezia_asac_1959_schede_regia.json",
+      "type": "official ASAC film cards / award list transcriptions; no screenshot"
+    },
+    {
+      "id": "berlinale_1959_sections_secondary_transcription",
+      "url": "https://en.wikipedia.org/wiki/9th_Berlin_International_Film_Festival",
+      "evidenceFile": "extracciones/berlinale_1959_sections_transcription.json",
+      "type": "Transcripción secundaria de las tablas de secciones oficiales; la página cita el programa Berlinale de 1959, cuya recuperación directa falló."
+    },
+    {
+      "id": "berlinale_1959_official_awards_archive",
+      "url": "https://web.archive.org/web/20140501205105/http://www.berlinale.de/en/archiv/jahresarchive/1959/03_preistr_ger_1959/03_Preistraeger_1959.html",
+      "evidenceFile": "extracciones/berlinale_1959_sections_transcription.json",
+      "type": "Archivo oficial Berlinale preservado en Internet Archive; extracción textual consultada",
+      "note": "El archivo oficial confirma premios principales de largos y cortos/documentales. Premios independientes se conservan como transcripción secundaria."
+    },
+    {
+      "id": "berlinale_1959_contemporary_press",
+      "url": "https://www.zeit.de/1959/28/filmpreise-in-berlin",
+      "evidenceFile": "extracciones/berlinale_1959_awards_secondary_transcription.json",
+      "type": "Transcripción secundaria contemporánea conservada como contraste; no sustituye el archivo oficial."
+    },
+    {
+      "id": "cannes_1959_selection_transcription",
+      "url": "https://www.festival-cannes.com/en/retrospective/1959/selection/",
+      "evidenceFile": "extracciones/cannes_1959_selection_transcription.json",
+      "type": "Transcripción de retrospectiva oficial; no captura",
+      "note": "29 largometrajes y 27 cortometrajes en competición. La página no presenta una sección separada fuera de concurso."
+    },
+    {
+      "id": "cannes_1959_awards_transcription",
+      "url": "https://www.festival-cannes.com/en/retrospective/1959/awards/",
+      "evidenceFile": "extracciones/cannes_1959_awards_transcription.json",
+      "type": "Transcripción de palmarès oficial; no captura",
+      "note": "Premios de largos/cortos; La Mer et les jours permanece sin sección acreditada."
+    },
+    {
+      "id": "directores_pendientes_1959_asac",
+      "url": "https://asac.labiennale.org/api/ricerca-semplice",
+      "evidenceFile": "extracciones/directores_pendientes_1959_asac.json",
+      "type": "ASAC cinema records batch response; director extracted only from credits with ruolo=Regia"
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears.",
+    "Informativa y los siete programas documentales/cortos de Venecia,181entradas, aplazados expresamente: se conserva su evidencia sin incorporarlos a la selección principal. Los seis directores pendientes de la selección principal sí están completados y cotejados con ASAC.",
+    "Vértigo de Oscar1959 se identifica como la película1958 de Alfred Hitchcock; no se cruza con el homónimo1946 de Antonio Momplet.",
+    "El resto es silencio se enlaza mediante el alias acreditado Lo demás es silencio del catálogo existente, concordante en título original, director, año y nombre de archivo; se conservan ambos títulos sin modificar catálogo ni maestro."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "bafta-1959-foreign-actor-curt-jurgens",
+      "category": "Mejor actor extranjero",
+      "person": "Curt Jurgens",
+      "winner": false,
+      "films": [
+        "El albergue de la sexta felicidad",
+        "Duelo en el Atlántico"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1959,
+    "blocks": [
+      {
+        "block": "Cannes — competición largometrajes",
+        "status": "completo",
+        "detail": "29 largometrajes de la selección oficial. Premios de largometraje asociados; IDs FilmAffinity no comprobados."
+      },
+      {
+        "block": "Cannes — competición cortometrajes",
+        "status": "completo",
+        "detail": "27 cortometrajes de la retrospectiva oficial con premios asociados cuando constan; no se inventan candidaturas para los no premiados."
+      },
+      {
+        "block": "Cannes — fuera de concurso",
+        "status": "pendiente",
+        "detail": "La retrospectiva oficial consultada no enumera una sección separada fuera de concurso; esto no demuestra que no existieran proyecciones fuera de concurso."
+      },
+      {
+        "block": "Berlín — competición",
+        "status": "parcial",
+        "detail": "Sección oficial reconstruida con 28 largometrajes; lista transcrita de fuente secundaria que cita el programa oficial Berlinale."
+      },
+      {
+        "block": "Berlín — premios",
+        "status": "parcial",
+        "detail": "Premios principales cotejados con el archivo oficial Berlinale preservado en Internet Archive; premios independientes transcritos de fuente secundaria. La selección permanece parcial por falta de cotejo directo del programa."
+      },
+      {
+        "block": "San Sebastián — largometrajes",
+        "status": "parcial",
+        "detail": "22 títulos visibles en el JSON de largometrajes; el archivo declara 106 películas y presenta errores SQL, así que la selección sigue parcial."
+      },
+      {
+        "block": "San Sebastián — cortometrajes",
+        "status": "parcial",
+        "detail": "12 entradas visibles; faltan títulos por errores SQL."
+      },
+      {
+        "block": "San Sebastián — fuera de concurso",
+        "status": "parcial",
+        "detail": "Dos películas explícitamente etiquetadas en las filas visibles; podría haber más."
+      },
+      {
+        "block": "Venecia — competición",
+        "status": "parcial",
+        "detail": "15 títulos de Film in Concorso y premios principales recuperados de ASAC. Los seis directores previamente pendientes ya se completaron desde créditos ASAC con ruolo=Regia; FilmAffinity no comprobado."
+      },
+      {
+        "block": "Venecia — fuera de concurso",
+        "status": "completo",
+        "detail": "ASAC registra Some Like It Hot como única película Fuori Concorso; director identificado en ficha ASAC. FilmAffinity sin comprobar."
+      },
+      {
+        "block": "Venecia — Informativa",
+        "status": "completo",
+        "detail": "45 títulos transcritos de la sección Informativa expandida en el archivo ASAC. Director y FilmAffinity no verificados."
+      },
+      {
+        "block": "Venecia — programas documental/cortometraje",
+        "status": "parcial",
+        "detail": "Transcritas las listas de siete categorías oficiales del archivo ASAC (136 entradas de categoría). Quedan el programa infantil, retrospectivas y otros programas laterales. No se mapearon directores ni FilmAffinity."
+      },
+      {
+        "block": "Oscar — ceremonia 1959",
+        "status": "completo",
+        "detail": "23 categorías competitivas cinematográficas, candidaturas completas y ganadores transcritos de la página oficial de la Academia. Premios personales separados. FilmAffinity no comprobado."
+      },
+      {
+        "block": "BAFTA — cine 1959",
+        "status": "completo",
+        "detail": "Once categorías Film completas según el archivo oficial, 75 entradas de candidatura; la candidatura de Curt Jurgens cubre dos películas y está enlazada. Special Award institucional separado. FilmAffinity no verificado."
+      },
+      {
+        "block": "FilmAffinity España",
+        "status": "pendiente",
+        "detail": "No se verificaron títulos registrados ni IDs; no se inventan."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "block": "Berlín",
+      "question": "La selección (28 largometrajes y 12 documentales/cortos) está reconstruida desde una transcripción secundaria; el programa original no se pudo cotejar directamente.",
+      "status": "pendiente",
+      "impact": "La selección sigue parcial. Los premios principales sí están cotejados con el archivo oficial preservado en Internet Archive; los independientes proceden de fuente secundaria."
+    },
+    {
+      "block": "San Sebastián",
+      "question": "Completar las 106 películas y clasificar todas las secciones; la página oficial muestra errores SQL en filas.",
+      "status": "pendiente"
+    },
+    {
+      "block": "Venecia",
+      "question": "Revisar los seis directores aún no asignados en Film in Concorso, verificar FilmAffinity, y decidir si se incorporan el programa infantil y las retrospectivas/otros programas laterales; las siete listas documentales/cortos transcritas siguen sin directores.",
+      "status": "pendiente"
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "Verificar título registrado e ID para las identidades del paquete, sin búsquedas individuales por ahora.",
+      "status": "pendiente"
+    },
+    {
+      "scope": "Berlín",
+      "question": "La selección (28 largometrajes y 12 documentales/cortos) está reconstruida desde una transcripción secundaria; el programa original no se pudo cotejar directamente.",
+      "impact": "La selección sigue parcial. Los premios principales sí están cotejados con el archivo oficial preservado en Internet Archive; los independientes proceden de fuente secundaria.",
+      "status": "pendiente"
+    },
+    {
+      "block": "Cannes — fuera de concurso",
+      "question": "La retrospectiva oficial consultada solo lista dos secciones en competición y no da una lista separada de títulos fuera de concurso.",
+      "impact": "No se infiere que no hubiera proyecciones fuera de concurso; bloque permanece pendiente."
+    }
+  ],
+  "unpublishedIdentityEvidence": [
+    {
+      "file": "venecia_doc_animacion_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+        "films": [
+          {
+            "title": "Doktor Faust",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Eine Stadt feiert Geburtstag",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Moonbird",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Myszka i kotek",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Pan prokouk detektivem",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Stolac",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Energy Picture",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Story of the Motor Car Engine",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tucet mých tatínku",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Voyage en Boscavie",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a disegni e pupazzi animati",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_doc_culturali_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+        "films": [
+          {
+            "title": "A propos d'architecture",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "American at Work - The Newspaper Film",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "André Masson et les quatre éléments",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Antarctic Crossing",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Appalachian Spring",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Art of the Mayas",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Arte preistorica del Sahara",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Au service de l'agriculture",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Berlino anno dieci",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Bhutan",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Borromini",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Bridge of Music",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Chaim Soutine",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Chimici della natura",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Christine Swane - portrætskitse af en malerinde",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Concierto en El Prado",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Conquest",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Corrida interdite",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Des hommes dans le ciel",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "El Greco",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "El yugo",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Fabricaçao de carrageus",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Fibers and Civilization",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Fuji",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Gli atomi ci aiutano",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Hannah Means Grace",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Il pittore Andrej Rublëv",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "In memoriam: El valle de los caídos",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La belle saison est proche",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La costruzione dell'acquedotto Ischia-Procida",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La guepe maçonne",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Le Roi Soleil",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Les disastres de la guerre",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Makers, Motifs & Materials",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Meet Mr. Lincoln",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Miniatures persanes",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Miserere di Georges Rouault",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "New Guinea Patrol",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Paese d'America",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Pitture paesane svedesi",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Putevi",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Reclining Figure",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Rockets Roar",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Spacerek staromiejski",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Symphony Across the Land",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Hidden World",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Immortal Land",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Road from M.I.S.",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Seven Bridges of Königsberg",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Times of Teddy Roosvelt",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The World of Rubens",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Un autre monde",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Villes-lumières",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Waters of Affliction",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "XX secolo",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film documentari a carattere culturale e informativo generale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_doc_film_soggetto_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+        "films": [
+          {
+            "title": "Armer kleiner Zirkus",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Charley Russell's Friends",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Csata utan",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Der ewige kreis",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Dharti ki jhankar",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Die Küste der Fischer",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Epouvantails",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Histoire d'un poisson rouge",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Il pianto delle zitelle",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Il tempo si è fermato",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "L'indimenticabile '59",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La cage",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La mer et les jours",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Le seigneur Julius",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Maly reportaz spod bieguna",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Motýli tady neziji",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "My Own Yard to Play In",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Ninth Annual Darlington Southern 500",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Pavucina",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Polowanie",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Power Among Men",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Supersonic Thunderbirds",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tanzende Hände",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Great Expedition",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tu es Pierre",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Two Men of Fiji",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "U.S.S. Nautilus - Operation \"Sunshine\"",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film a soggetto",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_doc_scientifici_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+        "films": [
+          {
+            "title": "A New Chapter",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Ad occhi chiusi",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "After Mastectomy",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Alcoholism",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Bronchial Carcinoma",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Congestive Heart Failure",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Dynamics of Phagocytosis",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Fire and Explosion Hazards from Flammable Anesthetics",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La funzione del labirinto nel volo spaziale",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La storia di una fiala",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Out Among the Stars",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Pohyb a căs",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Portal Decompression",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Psychiatric Nursing",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Routine Pelvic Exanimation and Cytologyc Method",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Solidarietà",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Celestial Mechanics",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Human Cell and the Cytotechnologist",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Time and Space",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Urinary Calculi",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di medicina e chirurgia e sezione scientifica",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_doc_sociale_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+        "films": [
+          {
+            "title": "Ad ogni uomo un soldo",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Beyond the Valley",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "City out of Time",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Desert Conquest",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Housing Adventure in Chile",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Huta 59",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Muži nad zení",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Non basta soltanto l'alfabeto",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Spalle alla città",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Speaking of Words",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "We Are the Lambeth Boys",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di documentazione sociale",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_doc_sperimentali_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia",
+        "films": [
+          {
+            "title": "Le stade",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Short and Suite",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tanz der Elektronen",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Variazioni elettroniche",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film sperimentali e d'avanguardia",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_doc_turismo_folklore_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+        "films": [
+          {
+            "title": "Costarica país de las carretas pintadas",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Couleurs de Tunisie",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Coupe des Alpes: The Story of the 1958 Alpine Rally",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Ferhat",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Islands Under the Wind",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Skyscraper",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Transcontinental",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Vacances au paradis",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Valley of Light - Yosemite",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: 10. Mostra Internazionale del Film Documentario e del Cortometraggio — Film di turismo e di folklore",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "file": "venecia_informativa_1959.json",
+      "reason": "Programa secundario aplazado explícitamente; direcciones e identidades pendientes.",
+      "edition": {
+        "festival": "Venecia",
+        "year": 1959,
+        "section": "Informativa — programma ufficiale ASAC; lista visibile transcrita",
+        "films": [
+          {
+            "title": "Akiket a pacsirta elkísér",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Ana Hurra",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Araya",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Bari Theke Paliye",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Campo arado",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Cetiri Kilometra Na Sat",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Come Back, Africa",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "En la ardiente oscuridad",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Fanfare",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Hadaka no taishô",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Hiroshima, mon amour",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Il giorno di San Bonifacio",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Il tempo si è fermato",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Il ventesimo apprendista",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "In famiglia",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Jago hua savera",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Jazz on a Summer's Day",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Kiku to Isamu",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "La encrucijada",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Les quatre cents coups",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Los desarraigados",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Male dramaty",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Menschen im Netz",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Nazarín",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "North by Northwest",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Orfeu negro",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Osma vrata",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Paradies und Feuerofen",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Pervyy den mira",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Pet z miliónu",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Popiól i diament",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Rasskazy o Lenine",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Sed de amor",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Sen noci svatojanske",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Shinel",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Sterne",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Diary of Anne Frank",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "The Savage Eye",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tiga dara",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tiger Bay",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Tu es Pierre",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Un eroe del nostro tempo",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Una canzone stravecchia",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Viaggio a Mosca",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          },
+          {
+            "title": "Vlak bez voznog reda",
+            "director": null,
+            "aliases": [],
+            "filmAffinityId": null,
+            "filmaffinityTitle": null,
+            "wins": [],
+            "nominations": [
+              "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita"
+            ],
+            "candidacies": [
+              {
+                "category": "Selection: Informativa — programma ufficiale ASAC; lista visibile transcrita",
+                "person": null,
+                "winner": false,
+                "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1959"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

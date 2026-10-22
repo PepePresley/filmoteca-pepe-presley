@@ -1,0 +1,322 @@
+{
+  "year": 1958,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1958 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1958_para_Sol.zip",
+    "sha256": "2728b117f2528165a8c0fbf2a336df2d0d810711c18e39e704164f33f0574d70"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1957",
+      "films": 54,
+      "declaredOwned": 23,
+      "withFA": 0,
+      "candidacyAppearances": 73
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 26,
+      "declaredOwned": 5,
+      "withFA": 0,
+      "candidacyAppearances": 35
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 7,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 12
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 24,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 26,
+      "declaredOwned": 11,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 30.ª edición",
+      "films": 46,
+      "declaredOwned": 31,
+      "withFA": 0,
+      "candidacyAppearances": 95
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 15,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 4,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 20,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 14,
+      "declaredOwned": 6,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscars_1958_official_transcription",
+      "url": "https://www.oscars.org/oscars/ceremonies/1958/T",
+      "evidenceFile": "extracciones/oscars_1958_official_transcription.json",
+      "type": "official page transcription; not screenshot"
+    },
+    {
+      "id": "bafta_1958_official_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1958",
+      "evidenceFile": "extracciones/bafta_1958_official_transcription.json",
+      "type": "official BAFTA Film page transcription; not screenshot"
+    },
+    {
+      "id": "cannes_1958_selection_transcription",
+      "url": "https://www.festival-cannes.com/retrospective/1958/selection/",
+      "evidenceFile": "extracciones/cannes_1958_selection_transcription.json",
+      "type": "official Cannes page transcription; not screenshot"
+    },
+    {
+      "id": "sansebastian_1958_visible_transcription",
+      "url": "https://www.sansebastianfestival.com/1958/secciones_y_peliculas/8/es",
+      "evidenceFile": "extracciones/sansebastian_1958_visible_transcription.json",
+      "type": "official visible-page transcription; not screenshot"
+    },
+    {
+      "id": "sansebastian_1958_awards_transcription",
+      "url": "https://www.sansebastianfestival.com/1958/premios_y_jurados/premios/1/51/es",
+      "evidenceFile": "extracciones/sansebastian_1958_awards_transcription.json",
+      "type": "official awards page transcription; not screenshot"
+    },
+    {
+      "id": "berlin_1958_secondary_transcription",
+      "url": "https://en.wikipedia.org/wiki/8th_Berlin_International_Film_Festival",
+      "evidenceFile": "extracciones/berlin_1958_secondary_transcription.json",
+      "type": "secondary Wikipedia transcription referring to Berlinale archive; not official extraction"
+    },
+    {
+      "id": "venice_asac_1958_browser_transcription",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1958",
+      "evidenceFile": "extracciones/venice_asac_1958_browser_transcription.json",
+      "type": "official ASAC browser transcription; not API response or screenshot"
+    },
+    {
+      "id": "cannes_1958_awards_transcription",
+      "url": "https://www.festival-cannes.com/en/retrospective/1958/awards/",
+      "evidenceFile": "extracciones/cannes_1958_awards_transcription.json",
+      "type": "official Cannes awards page transcription; not screenshot"
+    },
+    {
+      "id": "berlin_1958_official_prizes_archive",
+      "url": "https://web.archive.org/web/20131015121020/http://www.berlinale.de/en/archiv/jahresarchive/1958/03_preistr_ger_1958/03_Preistraeger_1958.html",
+      "evidenceFile": "extracciones/berlin_1958_official_awards_archive.json",
+      "type": "Transcripción del archivo oficial Berlinale preservado en Internet Archive; no captura"
+    },
+    {
+      "id": "berlin_1958_independent_awards",
+      "url": "https://en.wikipedia.org/wiki/8th_Berlin_International_Film_Festival",
+      "evidenceFile": "extracciones/berlin_1958_independent_awards.json",
+      "type": "Transcripción secundaria de premios independientes; no captura"
+    },
+    {
+      "id": "asac_1958_annual_response",
+      "url": "https://asac.labiennale.org/api/ricerca-semplice",
+      "evidenceFile": "extracciones/asac_1958_annual_response.json",
+      "type": "Preserved original ASAC annual API response; used to identify exact Fuori Concorso section and film IDs"
+    },
+    {
+      "id": "asac_1958_fuori_concorso",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1958",
+      "evidenceFile": "extracciones/asac_1958_fuori_concorso_transcription.json",
+      "type": "Transcription of exact Fuori Concorso entries in the preserved annual response; not a screenshot"
+    },
+    {
+      "id": "director_asac_5012",
+      "url": "https://asac.labiennale.org/attivita/cinema/5012",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "venecia_1958_fuori_directors",
+      "url": "multiple; see directorSourceUrl per film in extraction",
+      "evidenceFile": "extracciones/venecia_1958_fuori_directors_transcription.json",
+      "type": "Transcription of director credits from the sources cited per film; source types distinguished in extraction"
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1958|Mejor guion británico|William Rose; John Eldridge",
+      "category": "Mejor guion británico",
+      "person": "William Rose; John Eldridge",
+      "winner": false,
+      "films": [
+        "The Man In The Sky",
+        "The Smallest Show on Earth"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1958,
+    "blocks": [
+      {
+        "block": "Oscar — categorías cinematográficas",
+        "status": "completo",
+        "detail": "20 categorías competitivas y candidaturas principales de la ceremonia; premio personal separado."
+      },
+      {
+        "block": "BAFTA — Film",
+        "status": "completo",
+        "detail": "12 categorías Film transcritas, incluida British Screenplay, Special Award y United Nations Award. Se agruparon títulos con sus candidaturas individuales; IDs FA no comprobados."
+      },
+      {
+        "block": "Cannes — largos",
+        "status": "completo",
+        "detail": "26 películas de competición oficial transcritas."
+      },
+      {
+        "block": "Cannes — cortos",
+        "status": "completo",
+        "detail": "24 títulos listados por la página oficial y los premios ex aequo del palmarés oficial asociados a sus películas."
+      },
+      {
+        "block": "Cannes — fuera de concurso",
+        "status": "completo",
+        "detail": "Gigi, título indicado hors compétition."
+      },
+      {
+        "block": "Berlín — largos",
+        "status": "parcial",
+        "detail": "26 películas de la sección principal reconstruidas desde la tabla secundaria que cita el programa oficial; cinco premios principales verificados con el archivo oficial y premios independientes identificados aparte."
+      },
+      {
+        "block": "Berlín — documentales/cortos",
+        "status": "parcial",
+        "detail": "Siete títulos en competición; cinco premios principales verificados con el archivo oficial Berlinale preservado en Internet Archive."
+      },
+      {
+        "block": "San Sebastián — largometrajes",
+        "status": "parcial",
+        "detail": "Filas visibles; el archivo dice que son 91 películas en total y presenta errores SQL."
+      },
+      {
+        "block": "San Sebastián — cortos",
+        "status": "parcial",
+        "detail": "Filas visibles; cobertura incompleta."
+      },
+      {
+        "block": "San Sebastián — fuera de concurso",
+        "status": "parcial",
+        "detail": "Cuatro películas explícitamente señaladas, no se garantiza lista completa."
+      },
+      {
+        "block": "Venecia — selección principal",
+        "status": "parcial",
+        "detail": "14 títulos de la sección principal ASAC; secciones laterales no completas."
+      },
+      {
+        "block": "Venecia — programas adicionales",
+        "status": "parcial",
+        "detail": "Premios de programas paralelos identificados; no hay listas completas."
+      },
+      {
+        "block": "FilmAffinity España",
+        "status": "pendiente",
+        "detail": "No se verificaron títulos FA ni IDs; todos quedan null."
+      },
+      {
+        "block": "Venecia — fuera de concurso",
+        "status": "parcial",
+        "detail": "2 títulos; los títulos e IDs vienen de la sección exacta Fuori Concorso del registro anual ASAC. Directores pendientes: Eisenstein's Mexican Project."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "bafta-film-identity",
+      "question": "Los títulos BAFTA se conservan como los registra el archivo BAFTA; no se cotejaron con FilmAffinity España.",
+      "impact": "IDs y títulos registrados FA pendientes."
+    },
+    {
+      "id": "berlin-official-check",
+      "question": "Cotejo directo del programa de Berlín 1958: la lista de selección procede de una transcripción secundaria, pues la página oficial de programa no se pudo recuperar.",
+      "impact": "La selección sigue parcial; los premios principales ya están contrastados con el archivo oficial preservado en Internet Archive."
+    },
+    {
+      "id": "san-sebastian-sql",
+      "question": "La web oficial informa 91 películas; filas incompletas por error SQL impiden recuperar toda la selección.",
+      "impact": "Selecciones y cortometrajes incompletos."
+    },
+    {
+      "id": "venice-programmes",
+      "question": "Faltan listas completas de programas paralelos ASAC.",
+      "impact": "Cobertura Venecia parcial."
+    },
+    {
+      "id": "film-affinity",
+      "question": "No se consultaron fichas FilmAffinity España.",
+      "impact": "IDs y títulos registrados no verificados."
+    },
+    {
+      "scope": "Berlín",
+      "question": "La lista de 26 largometrajes y 7 documentales/cortos procede de la transcripción secundaria que cita el programa oficial; la página del programa no se pudo recuperar directamente.",
+      "impact": "Selección reconstruida, cotejo directo del programa pendiente. Premios principales contrastados con el archivo oficial Berlinale preservado en Internet Archive; independientes en fuente secundaria."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

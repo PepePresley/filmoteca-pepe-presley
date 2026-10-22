@@ -1,0 +1,286 @@
+{
+  "year": 1956,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1956 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1956_para_Sol.zip",
+    "sha256": "5f69b4d88028c1620d895e3c29c44673a81506d3beea880b120e4007940cbcd0"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1955",
+      "films": 43,
+      "declaredOwned": 27,
+      "withFA": 0,
+      "candidacyAppearances": 74
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 14,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 14
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 13,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 15
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 38,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 39,
+      "declaredOwned": 16,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 28.ª edición",
+      "films": 55,
+      "declaredOwned": 33,
+      "withFA": 0,
+      "candidacyAppearances": 121
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios asociados a películas · especiales y honoríficos",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 15,
+      "declaredOwned": 6,
+      "withFA": 0,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 15,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscars_1956_official_transcription",
+      "url": "https://www.oscars.org/oscars/ceremonies/embed/1956",
+      "evidenceFile": "extracciones/oscars_1956_official_transcription.json",
+      "type": "Transcripción de archivo oficial Academy, no captura"
+    },
+    {
+      "id": "bafta_1956_film_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1956",
+      "evidenceFile": "extracciones/bafta_1956_film_transcription.json",
+      "type": "Transcripción del archivo oficial BAFTA Film, no captura"
+    },
+    {
+      "id": "cannes_1956_selection_transcription",
+      "url": "https://www.festival-cannes.com/retrospective/1956/",
+      "evidenceFile": "extracciones/cannes_1956_selection_transcription.json",
+      "type": "Transcripción del archivo oficial Festival de Cannes, no captura"
+    },
+    {
+      "id": "cannes_1956_awards_transcription",
+      "url": "https://www.festival-cannes.com/retrospective/1956/palmares/",
+      "evidenceFile": "extracciones/cannes_1956_awards_transcription.json",
+      "type": "Transcripción del palmarès oficial, no captura"
+    },
+    {
+      "id": "berlin_1956_secondary_transcription",
+      "url": "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_1956",
+      "evidenceFile": "extracciones/berlin_1956_secondary_transcription.json",
+      "type": "Transcripción secundaria (Wikipedia ES), cotejo oficial pendiente"
+    },
+    {
+      "id": "sansebastian_1956_official_films_transcription",
+      "url": "https://www.sansebastianfestival.com/1956/sections_and_films/8/es",
+      "evidenceFile": "extracciones/sansebastian_1956_official_films_transcription.json",
+      "type": "Transcripción del archivo oficial, no captura"
+    },
+    {
+      "id": "sansebastian_1956_awards_transcription",
+      "url": "https://www.sansebastianfestival.com/1956/awards_and_jury_members/awards/1/49/in",
+      "evidenceFile": "extracciones/sansebastian_1956_awards_transcription.json",
+      "type": "Transcripción del archivo oficial, no captura"
+    },
+    {
+      "id": "venezia_asac_1956_browser_transcription",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1956",
+      "evidenceFile": "extracciones/venezia_asac_1956_browser_transcription.json",
+      "type": "Transcripción manual de navegador ASAC, no respuesta API ni captura"
+    },
+    {
+      "id": "venezia_golden_lion_official_transcription",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venezia_golden_lion_official_transcription.json",
+      "type": "Transcripción de historia oficial La Biennale, no captura"
+    },
+    {
+      "id": "oscars_1956_personal_awards_check",
+      "url": "https://www.oscars.org/oscars/ceremonies/1956/memorable-moment",
+      "evidenceFile": "extracciones/oscar_1956_memorable_moments.json",
+      "type": "Transcripción de fuente oficial Academy; no captura",
+      "note": "La fuente identifica el premio especial a Samurai, The Legend of Musashi y no lista premios personales distintos para la edición."
+    },
+    {
+      "source": "Archivio Storico ASAC — Biennale di Venezia",
+      "url": "https://asac.labiennale.org/api/ricerca-semplice",
+      "evidence": "extracciones/asac_regia_audit_1956.json",
+      "originalResponse": "extracciones/asac_cinema_batch_1956_1957_original.json",
+      "type": "POST batch API official response; extraction of exact Regia credits from persona_istituzione.",
+      "usedFor": "ASAC IDs and director credits for 6 Venice films in 1956/1957."
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears.",
+    "Completados y cotejados en ASAC los cuatro directores principales y los dos de fuera de concurso que estaban pendientes."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1956|Mejor guion británico|RC Sherriff",
+      "category": "Mejor guion británico",
+      "person": "RC Sherriff",
+      "winner": false,
+      "films": [
+        "The Night My Number Came Up",
+        "Los destructores de diques"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1956,
+    "blocks": [
+      {
+        "block": "Oscar — categorías competitivas",
+        "status": "parcial",
+        "detail": "Se transcribieron candidaturas y ganadores de 26 categorías competitivas desde la Academia; hace falta cotejo final persona por persona."
+      },
+      {
+        "block": "Oscar — premio especial asociado a película",
+        "status": "parcial",
+        "detail": "Honorary Foreign Language Film Award asociado a Samurai, The Legend of Musashi; fuente oficial consultada. La página de la edición no lista otros premios personales.",
+        "missing": []
+      },
+      {
+        "block": "BAFTA — Film",
+        "status": "parcial",
+        "detail": "12 categorías Film transcritas; el archivo marca dos títulos bajo Special Award como “Non Competitive”; se conservan sin atribuir ese rótulo como persona."
+      },
+      {
+        "block": "Cannes — competición largometrajes",
+        "status": "parcial",
+        "detail": "39 títulos del archivo oficial y premios principales asociados; quedan pendientes títulos FA verificados."
+      },
+      {
+        "block": "Cannes — competición cortometrajes",
+        "status": "parcial",
+        "detail": "38 títulos y palmarès principal del archivo oficial; posible omisión de premios secundarios/menções."
+      },
+      {
+        "block": "Berlín — largometrajes",
+        "status": "parcial",
+        "detail": "14 títulos de competición principal y premios reconstruidos desde fuentes secundarias; falta cotejo integral con el archivo oficial."
+      },
+      {
+        "block": "Berlín — documentales y cortometrajes",
+        "status": "parcial",
+        "detail": "13 títulos transcritos de competición documental/cortometraje; falta cotejo oficial y la clasificación de algunos premios."
+      },
+      {
+        "block": "San Sebastián — Sección Oficial largometrajes",
+        "status": "parcial",
+        "detail": "15 largometrajes visibles; archivo informa 44 películas totales. Premios descritos como no oficiales por la cabecera de edición, aunque el módulo los rotula “Official awards - FIAPF”."
+      },
+      {
+        "block": "San Sebastián — cortometrajes",
+        "status": "parcial",
+        "detail": "Se identificó el cortometraje ganador; falta recuperar la selección completa."
+      },
+      {
+        "block": "Venecia — programa nacional principal",
+        "status": "parcial",
+        "detail": "Los 15 títulos de la sección nacional se conservan; los 4 directores pendientes se completaron mediante créditos Regia del API oficial ASAC (IDs y filas verificadas en extracciones/asac_regia_audit_1956.json). Quedan pendientes otros programas y el cotejo completo de secciones."
+      },
+      {
+        "block": "Venecia — fuera de concurso",
+        "status": "parcial",
+        "detail": "Bus Stop y Veliki i mali son los dos registros Fuori Concorso del anuario ASAC; ambos directores se completaron con Regia del API oficial (extracciones/asac_regia_audit_1956.json). No representa la cobertura de otros programas paralelos."
+      },
+      {
+        "block": "FilmAffinity España",
+        "status": "pendiente",
+        "detail": "Títulos registrados e IDs FA no verificados; todos los IDs y filmaffinityTitle quedan null."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "film-affinity-identities",
+      "question": "No se verificaron títulos registrados ni IDs FilmAffinity España.",
+      "impact": "Todos los IDs y títulos FA permanecen null."
+    },
+    {
+      "id": "bafta-special-award",
+      "question": "BAFTA lista Mr Mensah Builds A House y The Steps Of Age como nominees de Special Award, pero ambos llevan la nota “Non Competitive”; se preserva esa clasificación y no se atribuye a persona.",
+      "impact": "La semántica de esas tres entradas especiales no equivale a categorías ordinarias."
+    },
+    {
+      "id": "berlin-official-selection",
+      "question": "Cotejar las listas y el palmarès transcritos desde fuentes secundarias con el archivo oficial; la ruta oficial consultada devolvió 503.",
+      "impact": "Berlín continúa parcial."
+    },
+    {
+      "id": "san-sebastian-short-and-programme",
+      "question": "El archivo informa 44 películas; solo se reconstruyeron los 15 largometrajes visibles y el corto premiado. La misma página llama no oficiales a los premios y después rotula el módulo “Official awards - FIAPF”.",
+      "impact": "Selección y carácter oficial de premios incompletos/contradictorios."
+    },
+    {
+      "id": "venice-programmes",
+      "question": "ASAC confirma que hay programas paralelos y retrospectivas además de la sección nacional y Fuori Concorso; no se han reconstruido todos.",
+      "impact": "Cobertura de otros programas de Venecia parcial; los 6 directores de los dos bloques preparados ya están verificados."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

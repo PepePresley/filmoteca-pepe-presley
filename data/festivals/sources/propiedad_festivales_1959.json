@@ -1,0 +1,2710 @@
+{
+  "scope": "Propiedad acreditada del bloque1959",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "The Little Island",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "The Juggler Of Our Lady",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Le merle",
+      "director": "Norman McLaren",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 256,
+        "titleES": "Le merle",
+        "originalTitle": "Le merle",
+        "director": "Norman McLaren",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "La Llave",
+      "director": "Carol Reed",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 181,
+        "titleES": "La Llave",
+        "originalTitle": "The Key",
+        "director": "Carol Reed",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Comando de la muerte",
+      "director": "Guy Green",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 209,
+        "titleES": "Comando de la muerte",
+        "originalTitle": "Sea of Sand",
+        "director": "Guy Green",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Un lugar en la cumbre",
+      "director": "Jack Clayton",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 37,
+        "titleES": "Un lugar en la cumbre",
+        "originalTitle": "Room at the Top",
+        "director": "Jack Clayton",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Harry Black",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Fugitivos del desierto",
+      "director": "J. Lee Thompson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 105,
+        "titleES": "Fugitivos del desierto",
+        "originalTitle": "Ice Cold in Alex",
+        "director": "J. Lee Thompson",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Tom Thumb",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Orden de ejecución",
+      "director": "Anthony Asquith",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 110,
+        "titleES": "Orden de ejecución",
+        "originalTitle": null,
+        "director": "Anthony Asquith",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "The Unvanquished (Aparajito)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Agente secreto SZ",
+      "director": "Lewis Gilbert",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 231,
+        "titleES": "Agente secreto SZ",
+        "originalTitle": "Carve Her Name with Pride",
+        "director": "Lewis Gilbert",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Indiscreta",
+      "director": "Stanley Donen",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 24,
+        "titleES": "Indiscreta",
+        "originalTitle": "Indiscreet",
+        "director": "Stanley Donen",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Barrio peligroso",
+      "director": "Basil Dearden",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 171,
+        "titleES": "Barrio peligroso",
+        "originalTitle": "Violent Playground",
+        "director": "Basil Dearden",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Buenos días, tristeza",
+      "director": "Otto Preminger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 28,
+        "titleES": "Buenos días, tristeza",
+        "originalTitle": "Bonjour Tristesse",
+        "director": "Otto Preminger",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "A Cry From The Streets",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "El albergue de la sexta felicidad",
+      "director": "Mark Robson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 50,
+        "titleES": "El albergue de la sexta felicidad",
+        "originalTitle": "The Inn of the Sixth Happiness",
+        "director": "Mark Robson",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "The Man Upstairs",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "La última noche del Titanic",
+      "director": "Roy Ward Baker",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 36,
+        "titleES": "La última noche del Titanic",
+        "originalTitle": "A Night to Remember",
+        "director": "Roy Ward Baker",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Glass (Glas)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "The Forerunner",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Jabulani Afrika",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "LS Lowry",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Secrets Of The Reef",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Wonders Of Chicago",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "El baile de los malditos",
+      "director": "Edward Dmytryk",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "El baile de los malditos",
+        "originalTitle": "The Young Lions",
+        "director": "Edward Dmytryk",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Fugitivos",
+      "director": "Stanley Kramer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 34,
+        "titleES": "Fugitivos",
+        "originalTitle": "The Defiant Ones",
+        "director": "Stanley Kramer",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Más fuerte que la vida",
+      "director": "Martin Ritt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 146,
+        "titleES": "Más fuerte que la vida",
+        "originalTitle": "No Down Payment",
+        "director": "Martin Ritt",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Furia en el valle",
+      "director": "George Marshall",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 62,
+        "titleES": "Furia en el valle",
+        "originalTitle": "The Sheepman",
+        "director": "George Marshall",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Fresas salvajes",
+      "director": "Ingmar Bergman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Fresas salvajes",
+        "originalTitle": "Smultronstället",
+        "director": "Ingmar Bergman",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Las noches de Cabiria",
+      "director": "Federico Fellini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 11,
+        "titleES": "Las noches de Cabiria",
+        "originalTitle": "Le notti di Cabiria",
+        "director": "Federico Fellini",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "La gata sobre el tejado de zinc",
+      "director": "Richard Brooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "La gata sobre el tejado de zinc",
+        "originalTitle": "Cat on a Hot Tin Roof",
+        "director": "Richard Brooks",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "The Cranes Are Flying (Letyat Zhuravli)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Duelo en el Atlántico",
+      "director": "Dick Powell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "Duelo en el Atlántico",
+        "originalTitle": "The Enemy Below",
+        "director": "Dick Powell",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Testigo de cargo",
+      "director": "Billy Wilder",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 5,
+        "titleES": "Testigo de cargo",
+        "originalTitle": "Witness for the Prosecution",
+        "director": "Billy Wilder",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "El último hurra",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 26,
+        "titleES": "El último hurra",
+        "originalTitle": "The Last Hurrah",
+        "director": "John Ford",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Viento Salvaje",
+      "director": "George Cukor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 152,
+        "titleES": "Viento Salvaje",
+        "originalTitle": "Wild Is the Wind",
+        "director": "George Cukor",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Camp On Blood Island",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "El botín de la muerte",
+      "director": "Seth Holt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 109,
+        "titleES": "El botín de la muerte",
+        "originalTitle": "Nowhere to Go",
+        "director": "Seth Holt",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "What Lola Wants",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Sayonara",
+      "director": "Joshua Logan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1957.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 39,
+        "titleES": "Sayonara",
+        "originalTitle": "Sayonara",
+        "director": "Joshua Logan",
+        "year": 1957
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "Canal (Kanal)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "People Like Maria",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1958",
+      "title": "El soldado desconocido",
+      "director": "Edvin Laine",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1955.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 104,
+        "titleES": "El soldado desconocido",
+        "originalTitle": "Tuntematon sotilas",
+        "director": "Edvin Laine",
+        "year": 1955
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Anneaux d'or",
+      "director": "René Vautier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Das Knalleidoskop",
+      "director": "Herbert Hunger",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Gloria della Marciana",
+      "director": "Emilio Marsili",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Horse on Holiday",
+      "director": "Astrid Henning-Jensen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "I ditteri",
+      "director": "Alberto Ancilotto",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Paradise and Fire Oven",
+      "director": "Herbert Viktor",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Power Among Men",
+      "director": "Alexander Hammid; Gian Luigi Polidoro; V. R. Sarma",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Praise the Sea",
+      "director": "Herman van der Horst",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Radha and Krishna",
+      "director": "J. S. Bhownagary",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Stars at Noon",
+      "director": "Jacques Ertaud; Marcel Ichac",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Tierra mágica",
+      "director": "Massimo Dallamano; Vittorio Valentini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "White Wilderness",
+      "director": "James Algar",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "And That on Monday Morning",
+      "director": "Luigi Comencini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Arquímedes, el vagabundo",
+      "director": "Gilles Grangier",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 175,
+        "titleES": "Arquímedes, el vagabundo",
+        "originalTitle": "Archimède le clochard",
+        "director": "Gilles Grangier",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Ask Any Girl",
+      "director": "Charles Walters",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Astero",
+      "director": "Dinos Dimopoulos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Bell Tower: Missing Another Dawn",
+      "director": "Ju-nam Yang",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Flor de mayo",
+      "director": "Roberto Gavaldón",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 245,
+        "titleES": "Flor de mayo",
+        "originalTitle": "Flor de mayo",
+        "director": "Roberto Gavaldón",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Broken Spell",
+      "director": "Siamak Yasemi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Defeated Victor",
+      "director": "Paolo Heusch",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Hassan and Nayima",
+      "director": "Henry Barakat",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Hidden Fortress",
+      "director": "Akira Kurosawa",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Home Is the Hero",
+      "director": "Fielder Cook",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "La caída",
+      "director": "Leopoldo Torre Nilsson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 104,
+        "titleES": "La caída",
+        "originalTitle": "La caída",
+        "director": "Leopoldo Torre Nilsson",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Los primos",
+      "director": "Claude Chabrol",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 73,
+        "titleES": "Los primos",
+        "originalTitle": "Les Cousins",
+        "director": "Claude Chabrol",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Master and His Servants",
+      "director": "Arne Skouen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Naked Sun",
+      "director": "Miyoji Ieki",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Panoptikum 59",
+      "director": "Walter Kolm-Veltée",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Phantom Carriage",
+      "director": "Arne Mattsson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Poet and the Little Mother",
+      "director": "Erik Balling",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Rest Is Silence",
+      "director": "Helmut Käutner",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Sagar Sangamey",
+      "director": "Debaki Bose",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "El asedio de Pinchgut",
+      "director": "Harry Watt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 239,
+        "titleES": "El asedio de Pinchgut",
+        "originalTitle": null,
+        "director": "Harry Watt",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Sven Tuuva the Hero",
+      "director": "Edvin Laine",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Diez fusiles esperan",
+      "director": "José Luis Sáenz de Heredia",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 235,
+        "titleES": "Diez fusiles esperan",
+        "originalTitle": "Diez fusiles esperan",
+        "director": "José Luis Sáenz de Heredia",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "That Kind of Woman",
+      "director": "Sidney Lumet",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Three Loves in Rio",
+      "director": "Carlos Hugo Christensen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "La bahía del tigre",
+      "director": "J. Lee Thompson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 86,
+        "titleES": "La bahía del tigre",
+        "originalTitle": "Tiger Bay",
+        "director": "J. Lee Thompson",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Village on the River",
+      "director": "Fons Rademakers",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Wolves of the Deep",
+      "director": "Silvio Amadio",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "A TELHETETLEN MEHECSKE",
+      "director": "Gyula Macskássy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "CINÉMATOGRAPHIER OU LA PRÉHISTOIRE DU CINEMA",
+      "director": "Emile Degelin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "CORRIDA INTERDITE",
+      "director": "Denys Colomb Daunant",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "DECA SA GRANICE",
+      "director": "Purisa Djordjevic",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "EINE STADT FEIERT GEBURTSTAG",
+      "director": "Ferdinand Khittl",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "ESPANA 1.800",
+      "director": "Jesús Fernández Santos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "FARTSFEBER",
+      "director": "Finn Carlsby",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "HISTOIRE D’UN POISSON ROUGE",
+      "director": "Edmond Séchan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "HSI YU CHI",
+      "director": "Tei Yang",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LA MER ET LES JOURS",
+      "director": "Alain Kaminker; Raymond Vogel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LA PRIMERA FUNDACION DE BUENOS AIRES",
+      "director": "Fernando Birri",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LE PETIT PECHEUR DE LA MER DE CHINE",
+      "director": "Serge Hanin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LE SEIGNEUR JULIUS",
+      "director": "Khaled Abdul Wahab",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LIGEUD AD LUFTVEJEN",
+      "director": "Henning Carlsen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "MOTYLI ZDE NEZIJI",
+      "director": "Miro Bernat",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "NEOBJKNOVENNIE VSTRETCHI",
+      "director": "Archa Ovanessova",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "NEW YORK, NEW YORK",
+      "director": "Francis Thompson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "PAESE D’AMERICA",
+      "director": "Gian Luigi Polidoro",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "PECHEURS DE SOZOPOL",
+      "director": "Nikolay Borovishki",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "SEE PAKISTAN",
+      "director": "W. J. Moylan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "SINN IM SINNLOSEN",
+      "director": "Bernhard von Peithner-Lichtenfels",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "TAJ MAHAL",
+      "director": "Shri Mushir Ahmed",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "TEN MEN IN A BOAT",
+      "director": "Sydney Latter",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "THE FOX HAS FOUR EYES",
+      "director": "Jamie Uys",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "THE LIVING STONE",
+      "director": "John Feeney",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "TUSSENSPEL BIJ KAARSLICHT",
+      "director": "Charles Huguenot van der Linden",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "ZMIANA WARTY (THE CHANGING OF THE GUARD)",
+      "director": "Włodzimierz Haupe; Halina Bielińska",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Araya",
+      "director": "Margot Benacerraf",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 92,
+        "titleES": "Araya",
+        "originalTitle": "Araya",
+        "director": "Margot Benacerraf",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Impulso criminal",
+      "director": "Richard Fleischer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 32,
+        "titleES": "Impulso criminal",
+        "originalTitle": "Compulsion",
+        "director": "Richard Fleischer",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "DIE HALBZARTE",
+      "director": "Rolf Thiele",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "FANFARA",
+      "director": "Bert Haanstra",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "FRÖKEN APRIL",
+      "director": "Göran Gentele",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "HELDEN",
+      "director": "Franz Peter Wirth",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Hiroshima, mon amour",
+      "director": "Alain Resnais",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "Hiroshima, mon amour",
+        "originalTitle": "Hiroshima mon amour",
+        "director": "Alain Resnais",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "KRIEGSGERICHT",
+      "director": "Kurt Meisel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "La cucaracha",
+      "director": "Ismael Rodríguez",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 161,
+        "titleES": "La cucaracha",
+        "originalTitle": "La Cucaracha",
+        "director": "Ismael Rodríguez",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "LAJWANTI",
+      "director": "Narendra Suri",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Los cuatrocientos golpes",
+      "director": "François Truffaut",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 5,
+        "titleES": "Los cuatrocientos golpes",
+        "originalTitle": "Les Quatre Cents Coups",
+        "director": "François Truffaut",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "LUNA DE MIEL",
+      "director": "Michael Powell",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "MATOMENO ILIOVASILEMMA",
+      "director": "Andrea Labrinos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "En mitad de la noche",
+      "director": "Delbert Mann",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 158,
+        "titleES": "En mitad de la noche",
+        "originalTitle": "Middle of the Night",
+        "director": "Delbert Mann",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Nazarín",
+      "director": "Luis Buñuel",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 20,
+        "titleES": "Nazarín",
+        "originalTitle": "Nazarín",
+        "director": "Luis Buñuel",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Orfeo negro",
+      "director": "Marcel Camus",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 33,
+        "titleES": "Orfeo negro",
+        "originalTitle": "Orfeu Negro",
+        "director": "Marcel Camus",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "OTCIJ DOM",
+      "director": "Lev Aleksandrovic Kulidzhanov",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "POLICARPO UFFICIALE DI SCRITTURA",
+      "director": "Mario Soldati",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "RAPSÓDIA PORTUGUESA",
+      "director": "João Mendes",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Un lugar en la cumbre",
+      "director": "Jack Clayton",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 37,
+        "titleES": "Un lugar en la cumbre",
+        "originalTitle": "Room at the Top",
+        "director": "Jack Clayton",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El sueño de una noche de verano",
+      "director": "Jiří Trnka",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 138,
+        "titleES": "El sueño de una noche de verano",
+        "originalTitle": "Sen noci svatojánské",
+        "director": "Jiří Trnka",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "SHIRASAGI",
+      "director": "Teinosuke Kinugasa",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "STERNE",
+      "director": "Konrad Wolf",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "TANG FU YU SHENG NU",
+      "director": "Shen Tien",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El diario de Ana Frank",
+      "director": "George Stevens",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 30,
+        "titleES": "El diario de Ana Frank",
+        "originalTitle": "The Diary of Anne Frank",
+        "director": "George Stevens",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "TOUHA",
+      "director": "Vojtěch Jasný",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "VLAK BEZ VOZNOG REDA",
+      "director": "Veljko Bulajić",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Zafra",
+      "director": "Lucas Demare",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 198,
+        "titleES": "Zafra",
+        "originalTitle": "Zafra",
+        "director": "Lucas Demare",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Sweet Ana (Dulce Ana)",
+      "director": "Zoltán Fábri",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 92,
+        "titleES": "Sweet Ana (Dulce Ana)",
+        "originalTitle": "Édes Anna",
+        "director": "Fábri Zoltán",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Mesas separadas",
+      "director": "Delbert Mann",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "Mesas separadas",
+        "originalTitle": "Separate Tables",
+        "director": "Delbert Mann",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Fugitivos",
+      "director": "Stanley Kramer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 34,
+        "titleES": "Fugitivos",
+        "originalTitle": "The Defiant Ones",
+        "director": "Stanley Kramer",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "La gata sobre el tejado de zinc",
+      "director": "Richard Brooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "La gata sobre el tejado de zinc",
+        "originalTitle": "Cat on a Hot Tin Roof",
+        "director": "Richard Brooks",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "El viejo y el mar",
+      "director": "John Sturges",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 33,
+        "titleES": "El viejo y el mar",
+        "originalTitle": "The Old Man and the Sea",
+        "director": "John Sturges",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Horizontes de grandeza",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 6,
+        "titleES": "Horizontes de grandeza",
+        "originalTitle": "The Big Country",
+        "director": "William Wyler",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Los hermanos Karamazov",
+      "director": "Richard Brooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 44,
+        "titleES": "Los hermanos Karamazov",
+        "originalTitle": "The Brothers Karamazov",
+        "director": "Richard Brooks",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Como un torrente",
+      "director": "Vincente Minnelli",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Como un torrente",
+        "originalTitle": "Some Came Running",
+        "director": "Vincente Minnelli",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Enséñame a querer",
+      "director": "George Seaton",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 133,
+        "titleES": "Enséñame a querer",
+        "originalTitle": "Teacher's Pet",
+        "director": "George Seaton",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "¡Quiero vivir!",
+      "director": "Robert Wise",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 35,
+        "titleES": "¡Quiero vivir!",
+        "originalTitle": "I Want to Live!",
+        "director": "Robert Wise",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Tía y mamá",
+      "director": "Morton DaCosta",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 142,
+        "titleES": "Tía y mamá",
+        "originalTitle": "Auntie Mame",
+        "director": "Morton DaCosta",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Corazones solitarios",
+      "director": "Vincent J. Donehue",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 237,
+        "titleES": "Corazones solitarios",
+        "originalTitle": "Lonelyhearts",
+        "director": "Vincent J. Donehue",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Gigi",
+      "director": "Vincente Minnelli",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Gigi",
+        "originalTitle": "Gigi",
+        "director": "Vincente Minnelli",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Me enamoré de una bruja",
+      "director": "Richard Quine",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 18,
+        "titleES": "Me enamoré de una bruja",
+        "originalTitle": "Bell, Book and Candle",
+        "director": "Richard Quine",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "A Certain Smile",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Vértigo",
+      "director": "Alfred Hitchcock",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "Vértigo",
+        "originalTitle": "Vertigo",
+        "director": "Alfred Hitchcock",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Deseo bajo los olmos",
+      "director": "Delbert Mann",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 126,
+        "titleES": "Deseo bajo los olmos",
+        "originalTitle": "Desire Under the Elms",
+        "director": "Delbert Mann",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "El baile de los malditos",
+      "director": "Edward Dmytryk",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "El baile de los malditos",
+        "originalTitle": "The Young Lions",
+        "director": "Edward Dmytryk",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Al sur del Pacífico",
+      "director": "Joshua Logan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 232,
+        "titleES": "Al sur del Pacífico",
+        "originalTitle": "South Pacific",
+        "director": "Joshua Logan",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Los bucaneros",
+      "director": "Anthony Quinn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 245,
+        "titleES": "Los bucaneros",
+        "originalTitle": "The Buccaneer",
+        "director": "Anthony Quinn",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "El albergue de la sexta felicidad",
+      "director": "Mark Robson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 50,
+        "titleES": "El albergue de la sexta felicidad",
+        "originalTitle": "The Inn of the Sixth Happiness",
+        "director": "Mark Robson",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "White Wilderness",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Antarctic Crossing",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "The Hidden World",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Psychiatric Nursing",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Ama Girls",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Employees Only",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Journey into Spring",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "The Living Stone",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Overture",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Cowboy",
+      "director": "Delmer Daves",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 59,
+        "titleES": "Cowboy",
+        "originalTitle": "Cowboy",
+        "director": "Delmer Daves",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "My Uncle",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Arms and the Man",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "La venganza",
+      "director": "Juan Antonio Bardem",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 49,
+        "titleES": "La venganza",
+        "originalTitle": "La venganza",
+        "director": "Juan Antonio Bardem",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "The Road a Year Long",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "The Usual Unidentified Thieves",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "The Bolshoi Ballet",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Damn Yankees",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Mardi Gras",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Cintia",
+      "director": "Melville Shavelson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 64,
+        "titleES": "Cintia",
+        "originalTitle": "Houseboat",
+        "director": "Melville Shavelson",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Nací para ti",
+      "director": "Irving Rapper",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 254,
+        "titleES": "Nací para ti",
+        "originalTitle": "Marjorie Morningstar",
+        "director": "Irving Rapper",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Bugs y los caballeros",
+      "director": "Friz Freleng",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 80,
+        "titleES": "Bugs y los caballeros",
+        "originalTitle": "Knighty Knight Bugs",
+        "director": "Friz Freleng",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Paul Bunyan",
+      "director": "Les Clark",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 301,
+        "titleES": "Paul Bunyan",
+        "originalTitle": "Paul Bunyan",
+        "director": "Les Clark",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Sidney’s Family Tree",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Grand Canyon",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "The Kiss",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Snows of Aorangi",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "T Is for Tumbleweed",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Tiempo de amar, tiempo de morir",
+      "director": "Douglas Sirk",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 25,
+        "titleES": "Tiempo de amar, tiempo de morir",
+        "originalTitle": "A Time to Love and a Time to Die",
+        "director": "Douglas Sirk",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "tom thumb",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "El último torpedo",
+      "director": "Joseph Pevney",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 75,
+        "titleES": "El último torpedo",
+        "originalTitle": "Torpedo Run",
+        "director": "Joseph Pevney",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Un genio anda suelto",
+      "director": "Ronald Neame",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 250,
+        "titleES": "Un genio anda suelto",
+        "originalTitle": "The Horse's Mouth",
+        "director": "Ronald Neame",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "La Diosa",
+      "director": "John Cromwell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 243,
+        "titleES": "La Diosa",
+        "originalTitle": "The Goddess",
+        "director": "John Cromwell",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 31.ª edición",
+      "title": "Furia en el valle",
+      "director": "George Marshall",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 62,
+        "titleES": "Furia en el valle",
+        "originalTitle": "The Sheepman",
+        "director": "George Marshall",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Abseits",
+      "director": "Wolf Hart",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Albo rybka (Pescado o…)",
+      "director": "Halina Bielińska; Włodzimierz Haupe",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Bakhara Nangal",
+      "director": "N. S. Thapa",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Ballada egy lányról / Ballade d’une jeune fille",
+      "director": "Tamás Banovich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Cordillera Blanca 6162",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Costa Brava",
+      "director": "Jorge Grau",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "El cuaderno",
+      "director": "Dino Minitti",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Helwan",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Lettera da El Alamein / Letter from El Alamein",
+      "director": "Enrico Fulchignoni",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Los primeros",
+      "director": "Jorge Ruiz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Mérida, geografía celeste",
+      "director": "Pedro Fuenmayor",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Nagi The Painter",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "El resto es silencio",
+      "director": "Helmut Käutner",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 182,
+        "titleES": "El resto es silencio",
+        "originalTitle": null,
+        "director": "Helmut Käutner",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Die feuerrote Baronesse (La Gestapo en acción)",
+      "director": "Rudolf Jugert",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "800 leguas por el Amazonas",
+      "director": "Emilio Gómez Muriel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "A Luz Vem do Alto (La luz viene de lo alto)",
+      "director": "Henrique Campos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Akiket a pacsirta elkísér (Por quién cantan las alondras)",
+      "director": "László Ranódy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Ari no machi no Maria / Ragpicker’s Angel (El ángel de los traperos)",
+      "director": "Heinosuke Gosho",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Bein el atlal (Entre las ruinas)",
+      "director": "Ezz El Dine Zulficar",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Caín adolescente",
+      "director": "Román Chalbaud",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Dagli Appennini alle Ande",
+      "director": "Folco Quilici",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Insaan Jaag Utha (El despertar de una nación)",
+      "director": "Shakti Samanta",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Maigret en el caso de la condesa",
+      "director": "Jean Delannoy",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 128,
+        "titleES": "Maigret en el caso de la condesa",
+        "originalTitle": "Maigret et l'Affaire Saint-Fiacre",
+        "director": "Jean Delannoy",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Malkata (La pequeña)",
+      "director": "Nikolai Korabov",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Con la muerte en los talones",
+      "director": "Alfred Hitchcock",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Con la muerte en los talones",
+        "originalTitle": "North by Northwest",
+        "director": "Alfred Hitchcock",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Procesado 1040",
+      "director": "Rubén W. Cavallotti",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Salto a la gloria",
+      "director": "León Klimovsky",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 229,
+        "titleES": "Salto a la gloria",
+        "originalTitle": "Salto a la gloria",
+        "director": "León Klimovsky",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Sam (Solo)",
+      "director": "Vladimir Pogačić",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Crimen al atardecer",
+      "director": "Basil Dearden",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 115,
+        "titleES": "Crimen al atardecer",
+        "originalTitle": "Sapphire",
+        "director": "Basil Dearden",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Luces de rebeldía",
+      "director": "Michael Anderson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 127,
+        "titleES": "Luces de rebeldía",
+        "originalTitle": "Shake Hands with the Devil",
+        "director": "Michael Anderson",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Smrt v sedle (Muerte a caballo)",
+      "director": "Jindřich Polák",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Historia de una monja",
+      "director": "Fred Zinnemann",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 28,
+        "titleES": "Historia de una monja",
+        "originalTitle": "The Nun's Story",
+        "director": "Fred Zinnemann",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Tutti innamorati (Papá se ha enamorado)",
+      "director": "Giuseppe Orlandini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Verbrechen nach Schulschluss (Camino del pecado)",
+      "director": "Alfred Vohrer",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "El atentado",
+      "director": "Jerzy Passendorfer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 135,
+        "titleES": "El atentado",
+        "originalTitle": "Zamach",
+        "director": "Jerzy Passendorfer",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Con faldas y a lo loco",
+      "director": "Billy Wilder",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "Con faldas y a lo loco",
+        "originalTitle": "Some Like It Hot",
+        "director": "Billy Wilder",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Una doble vida",
+      "director": "Claude Chabrol",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 169,
+        "titleES": "Una doble vida",
+        "originalTitle": "À double tour",
+        "director": "Claude Chabrol",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Álmatlan évek",
+      "director": "Félix Máriássy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Anatomía de un asesinato",
+      "director": "Otto Preminger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Anatomía de un asesinato",
+        "originalTitle": "Anatomy of a Murder",
+        "director": "Otto Preminger",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "El rostro",
+      "director": "Ingmar Bergman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1958.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "El rostro",
+        "originalTitle": "Ansiktet",
+        "director": "Ingmar Bergman",
+        "year": 1958
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Enjo",
+      "director": "Kon Ichikawa",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Esterina",
+      "director": "Carlo Lizzani",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Stalingrado: Batalla en el Infierno",
+      "director": "Frank Wisbar",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 131,
+        "titleES": "Stalingrado: Batalla en el Infierno",
+        "originalTitle": "Hunde, wollt ihr ewig leben",
+        "director": "Frank Wisbar",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "El general de la Rovere",
+      "director": "Roberto Rossellini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 34,
+        "titleES": "El general de la Rovere",
+        "originalTitle": "Il generale Della Rovere",
+        "director": "Roberto Rossellini",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "La gran guerra",
+      "director": "Mario Monicelli",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 40,
+        "titleES": "La gran guerra",
+        "originalTitle": "La grande guerra",
+        "director": "Mario Monicelli",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "La nuit des espions",
+      "director": "Robert Hossein",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "El testamento del Doctor Cordelier",
+      "director": "Jean Renoir",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 75,
+        "titleES": "El testamento del Doctor Cordelier",
+        "originalTitle": "Le Testament du docteur Cordelier",
+        "director": "Jean Renoir",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Tren de noche",
+      "director": "Jerzy Kawalerowicz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 105,
+        "titleES": "Tren de noche",
+        "originalTitle": "Pociąg",
+        "director": "Jerzy Kawalerowicz",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Sonatas (Las aventuras del marqués de Bradomin)",
+      "director": "Juan Antonio Bardem",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1959.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 301,
+        "titleES": "Sonatas (Las aventuras del marqués de Bradomin)",
+        "originalTitle": "Sonatas",
+        "director": "Juan Antonio Bardem",
+        "year": 1959
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "The Boy and the Bridge",
+      "director": "Kevin McClory",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "V tvoikh rukakh zhizn",
+      "director": "Nikolaj Rozantsev",
+      "ownership": "PENDING",
+      "reference": null
+    }
+  ]
+}

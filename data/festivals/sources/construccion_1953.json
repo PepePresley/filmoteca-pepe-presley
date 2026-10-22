@@ -1,0 +1,249 @@
+{
+  "year": 1953,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1953 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1953_para_Sol.zip",
+    "sha256": "bb6ad16296b588b554911514ce3b56d10520b07afce90bca095fcb74e8b64f31"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1952",
+      "films": 51,
+      "declaredOwned": 21,
+      "withFA": 0,
+      "candidacyAppearances": 75
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 14,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 44,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 35,
+      "declaredOwned": 16,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 25.ª edición",
+      "films": 60,
+      "declaredOwned": 37,
+      "withFA": 1,
+      "candidacyAppearances": 121
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios asociados a películas · especiales y honoríficos",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes · edición no competitiva",
+      "films": 3,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes · edición no competitiva",
+      "films": 25,
+      "declaredOwned": 17,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 29,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 12
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/embed/1953",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "oscar_special",
+      "url": "https://www.oscars.org/oscars/ceremonies/1953/memorable-moments",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_special_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/awards/film/?award-year=1953",
+      "type": "oficial",
+      "evidence": "extracciones/bafta_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "cannes",
+      "url": "https://www.festival-cannes.com/retrospective/1953/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_selection_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "cannes_awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1953/awards/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_awards_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "berlin",
+      "url": "https://en.wikipedia.org/wiki/3rd_Berlin_International_Film_Festival",
+      "type": "secundaria",
+      "evidence": "extracciones/berlin_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "ss",
+      "url": "https://www.sansebastianfestival.com/1953/secciones_y_peliculas/8/es",
+      "type": "oficial",
+      "evidence": "extracciones/san_sebastian_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "ss_awards",
+      "url": "https://www.sansebastianfestival.com/1953/premios_y_jurados/premios/1/46/es",
+      "type": "oficial",
+      "evidence": "extracciones/san_sebastian_awards_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "venice",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1953",
+      "type": "oficial",
+      "evidence": "extracciones/venice_asac_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    },
+    {
+      "id": "venice_secondary",
+      "url": "https://en.wikipedia.org/wiki/14th_Venice_International_Film_Festival",
+      "type": "secundaria",
+      "evidence": "extracciones/venice_secondary_1953.json",
+      "note": "Transcripción estructurada; no captura original."
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears.",
+    "San Sebastián conserva etiqueta de edición no competitiva y premios históricos documentados; no se inventa Concha de Oro ni competición internacional.",
+    "El retorno de Don Camilo se distingue de Don Camilo1952 por su título original Le retour de Don Camillo y director Julien Duvivier; se retira como alias el paréntesis genérico que confundía ambas películas."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": [
+    {
+      "block": "Oscar ceremony 1953",
+      "status": "partial",
+      "coverage": "25 competitive film categories assembled from Academy archive.",
+      "missing": [
+        "Some artist/director credits and category items require line-by-line verification against full archive; special awards separated."
+      ]
+    },
+    {
+      "block": "BAFTA Film 1953",
+      "status": "complete",
+      "coverage": "All categories and nominees in official BAFTA Film archive transcription.",
+      "missing": []
+    },
+    {
+      "block": "Cannes features 1953",
+      "status": "complete",
+      "coverage": "35 feature films, official retrospective, official awards attached.",
+      "missing": [
+        "No distinct out-of-competition list on the retrospective page."
+      ]
+    },
+    {
+      "block": "Cannes shorts 1953",
+      "status": "complete",
+      "coverage": "44 short films, official retrospective and listed awards.",
+      "missing": []
+    },
+    {
+      "block": "Berlin 1953",
+      "status": "partial",
+      "coverage": "14 competition films; audience awards transcribed from a secondary page linked to Berlinale archival sources.",
+      "missing": [
+        "Direct official archive text cotejo remains pending."
+      ]
+    },
+    {
+      "block": "San Sebastián 1953",
+      "status": "partial",
+      "coverage": "25 feature and 3 short entries transcribed from official programme result list; official awards attached to Spanish titles.",
+      "missing": [
+        "Three short-film director credits unreadable due source SQL errors."
+      ]
+    },
+    {
+      "block": "Venice 1953",
+      "status": "partial",
+      "coverage": "29 main competition films and awards from a secondary transcription citing ASAC.",
+      "missing": [
+        "Direct item-by-item ASAC cotejo pending; annual page content loads dynamically."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "scope": "FilmAffinity",
+      "question": "FilmAffinity IDs and registered Spanish titles were not individually checked; IDs and filmaffinityTitle remain null.",
+      "impact": "Historic titles/credits prepared but identity enrichment remains."
+    },
+    {
+      "scope": "San Sebastián",
+      "question": "The official 1953 archive lists 28 programme records; extraction gives 25 feature and 3 short entries, including El pájaro perdido with director unreadable.",
+      "impact": "Film count reconciles; verify missing/garbled credits in archive."
+    },
+    {
+      "scope": "San Sebastián shorts",
+      "question": "Archive SQL errors obscure directors for some short-film records.",
+      "impact": "Titles retained, director null where unreadable."
+    },
+    {
+      "scope": "Venice",
+      "question": "ASAC annual interface provides no text table in browser extraction.",
+      "impact": "Secondary programme transcript needs archival cotejo."
+    },
+    {
+      "scope": "Oscar",
+      "question": "Several non-winning production credits/categories need a careful final Academy line check.",
+      "impact": "Oscar marked partial rather than complete."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

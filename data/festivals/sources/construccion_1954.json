@@ -1,0 +1,332 @@
+{
+  "year": 1954,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1954 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1954_para_Sol.zip",
+    "sha256": "f4153ef815a7459b77ddcb2a904e2edade06a7e908e37ed0c82a06ddb4bc6e07"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1953",
+      "films": 43,
+      "declaredOwned": 18,
+      "withFA": 0,
+      "candidacyAppearances": 70
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 14,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 56,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 43,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 26.ª edición",
+      "films": 66,
+      "declaredOwned": 45,
+      "withFA": 0,
+      "candidacyAppearances": 122
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes · edición no competitiva",
+      "films": 7,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes · edición no competitiva",
+      "films": 16,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 31,
+      "declaredOwned": 18,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 10,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1954/L",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_1954_transcripcion.json",
+      "note": "Transcripción estructurada de categorías y candidaturas en la base oficial de la Academy."
+    },
+    {
+      "id": "oscar_honors",
+      "url": "https://www.oscars.org/oscars/ceremonies/1954/memorable-moments",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_1954_transcripcion.json",
+      "note": "Registro oficial de los premios honoríficos y Thalberg, separado de candidaturas a películas."
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/awards/film/?award-year=1954",
+      "type": "oficial",
+      "evidence": "extracciones/bafta_1954_transcripcion.json",
+      "note": "Transcripción estructurada de la sección Film del archivo oficial. La propia ficha clasifica algunas categorías como Non Competitive."
+    },
+    {
+      "id": "cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1954/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_1954_seleccion.json",
+      "note": "Selección oficial retrospectiva; titles and credits are transcription, not screenshot."
+    },
+    {
+      "id": "cannes_awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1954/awards/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_1954_premios.json",
+      "note": "Palmarès oficial retrospectivo."
+    },
+    {
+      "id": "berlin",
+      "url": "https://en.wikipedia.org/wiki/4th_Berlin_International_Film_Festival",
+      "type": "secundaria (Wikipedia; resume fuentes archivísticas Berlinale)",
+      "evidence": "extracciones/berlin_1954_transcripcion.json",
+      "note": "Selección y premios por voto del público, no jurado oficial; la página oficial de archivo no se pudo recuperar como texto en esta consulta."
+    },
+    {
+      "id": "san_sebastian_films",
+      "url": "https://www.sansebastianfestival.com/1954/secciones_y_peliculas/8/es",
+      "type": "oficial",
+      "evidence": "extracciones/san_sebastian_1954_programa.json",
+      "note": "Archivo oficial: devuelve 23 resultados, pero contiene mensajes de error SQL en varios créditos; los cortos con director ilegible quedan null."
+    },
+    {
+      "id": "san_sebastian_awards",
+      "url": "https://www.sansebastianfestival.com/1954/premios_y_jurados/premios/1/47/es",
+      "type": "oficial",
+      "evidence": "extracciones/san_sebastian_1954_premios.json",
+      "note": "El archivo indica edición no competitiva FIAPF categoría B, premios solo a películas españolas."
+    },
+    {
+      "id": "venice_asac",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1954",
+      "type": "oficial (consulta anual con contenido dinámico)",
+      "evidence": "extracciones/venezia_1954_asac_estado.json",
+      "note": "La página ASAC abre pero el contenido carga por JavaScript y no proporciona el listado en la extracción consultada."
+    },
+    {
+      "id": "venice_secondary",
+      "url": "https://en.wikipedia.org/wiki/15th_Venice_International_Film_Festival",
+      "type": "secundaria (Wikipedia, con referencias ASAC)",
+      "evidence": "extracciones/venezia_1954_transcripcion_secundaria.json",
+      "note": "Selección principal y premios; pendiente cotejo entrada por entrada con ASAC."
+    },
+    {
+      "id": "asac_1954_annual_response",
+      "url": "https://asac.labiennale.org/api/ricerca-semplice",
+      "evidenceFile": "extracciones/asac_1954_annual_response.json",
+      "type": "Preserved original ASAC annual API response; used to identify exact Fuori Concorso section and film IDs"
+    },
+    {
+      "id": "asac_1954_fuori_concorso",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1954",
+      "evidenceFile": "extracciones/asac_1954_fuori_concorso_transcription.json",
+      "type": "Transcription of exact Fuori Concorso entries in the preserved annual response; not a screenshot"
+    },
+    {
+      "id": "director_asac_3946",
+      "url": "https://filmbladet.se/filmer/unsterblicher-mozart",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_3947",
+      "url": "https://cinema-austriaco.org/en/2026/07/22/die-junge-stadt/",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_3952",
+      "url": "https://fondazionecsc.b-cdn.net/wp-content/uploads/2020/04/Cinema_1954_141.pdf",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_4124",
+      "url": "https://www.fondazionecsc.b-cdn.net/wp-content/uploads/2020/04/Cinema_1954_141.pdf",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_4186",
+      "url": "https://asac.labiennale.org/attivita/cinema/4186",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_4210",
+      "url": "https://fondazionecsc.b-cdn.net/wp-content/uploads/2020/04/Cinema_1954_141.pdf",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_4359",
+      "url": "https://fondazionecsc.b-cdn.net/wp-content/uploads/2020/04/Cinema_1954_141.pdf",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_6901",
+      "url": "https://www.fondazionecsc.it/archivio-cinematografico/",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_376801",
+      "url": "https://www.fondazionecsc.it/archivio-cinematografico/",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "director_asac_376802",
+      "url": "https://www.fondazionecsc.it/archivio-cinematografico/",
+      "evidenceFile": null,
+      "type": "Secondary or film-record source for director; section membership/title/ASAC ID separately verified in original annual response"
+    },
+    {
+      "id": "venecia_1954_fuori_directors",
+      "url": "multiple; see directorSourceUrl per film in extraction",
+      "evidenceFile": "extracciones/venecia_1954_fuori_directors_transcription.json",
+      "type": "Transcription of director credits from the sources cited per film; source types distinguished in extraction"
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears.",
+    "San Sebastián conserva etiqueta de edición no competitiva y premios históricos documentados; no se inventa Concha de Oro ni competición internacional."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1954",
+      "status": "completo",
+      "coverage": "20 categorías cinematográficas competitivas transcritas de la Academy; Irving G. Thalberg aparte.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA Film 1954",
+      "status": "parcial",
+      "coverage": "10 categorías archivísticas transcritas; Television excluida.",
+      "missing": [
+        "Certificate of Merit: registro de Erich von Stroheim ambiguo; excluido de la sección de películas y señalado aparte."
+      ]
+    },
+    {
+      "block": "Cannes 1954 — largometrajes",
+      "status": "completo",
+      "coverage": "43 títulos de la lista retrospectiva oficial; palmarès asociado donde la página lista premio.",
+      "missing": [
+        "No se identificó un listado diferenciado de fuera de concurso; no se creó sección."
+      ]
+    },
+    {
+      "block": "Cannes 1954 — cortometrajes",
+      "status": "completo",
+      "coverage": "56 títulos de la lista retrospectiva oficial; premios asociados para las cinco categorías listadas.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1954 — competición principal",
+      "status": "parcial",
+      "coverage": "14 títulos y premios por voto del público según transcripción secundaria referenciada a Berlinale.",
+      "missing": [
+        "Cotejo directo de la lista con el archivo oficial de Berlinale."
+      ]
+    },
+    {
+      "block": "San Sebastián 1954 — largometrajes",
+      "status": "completo",
+      "coverage": "16 películas oficiales de 23 registros de programa. Festival no competitivo; premios españoles asociados en las fichas correspondientes.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1954 — cortometrajes",
+      "status": "parcial",
+      "coverage": "7 cortometrajes del archivo oficial.",
+      "missing": [
+        "Créditos de dirección ilegibles para Acrobacias aereas, Nicolas Maquiavelo y Nodos 2 y 3 en color por errores SQL del archivo."
+      ]
+    },
+    {
+      "block": "Venecia 1954 — competición principal",
+      "status": "parcial",
+      "coverage": "31 títulos y premios transcritos de fuente secundaria; ASAC confirma que existe página anual pero no entrega el listado al extractor.",
+      "missing": [
+        "Cotejo de selección, directores y premios con los registros ASAC originales; revisar el premio actoral compartido entre dos películas."
+      ]
+    },
+    {
+      "block": "Venecia — fuera de concurso",
+      "status": "completo",
+      "detail": "10 títulos; los títulos e IDs vienen de la sección exacta Fuori Concorso del registro anual ASAC. Directores completos según fuentes citadas por ficha."
+    }
+  ],
+  "packageDoubts": [
+    {
+      "scope": "Identidad FilmAffinity España",
+      "question": "No se verificaron individualmente los IDs ni títulos registrados en FilmAffinity España para la mayor parte de las películas; todos los filmAffinityId y filmaffinityTitle permanecen null.",
+      "impact": "Los paquetes sirven para cobertura histórica y premios, pero requieren enriquecimiento de identidad antes de importar definitivamente."
+    },
+    {
+      "scope": "BAFTA Certificate Of Merit",
+      "question": "¿El registro «Erich von Stroheim» representa la película/tema o a la persona? La base oficial lo presenta como entidad y destinatario ambiguos.",
+      "impact": "No fue convertido en una ficha de película."
+    },
+    {
+      "scope": "Venecia 1954",
+      "question": "La ficha de premio de Jean Gabin se asocia en la transcripción secundaria a Touchez Pas au Grisbi y The Air of Paris, pero la lista de competición transcrita no incluye The Air of Paris.",
+      "impact": "Se conserva el título como premio en el registro de la candidatura; debe verificarse en ASAC antes de darlo por cerrado."
+    },
+    {
+      "scope": "San Sebastián 1954 cortometrajes",
+      "question": "Tres registros oficiales tienen errores SQL que impiden leer la dirección.",
+      "impact": "Películas conservadas con director null."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}
