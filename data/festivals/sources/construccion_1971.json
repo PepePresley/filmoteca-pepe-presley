@@ -1,0 +1,554 @@
+{
+  "year": 1971,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete 1971; no se declara cerrado ni auditado exhaustivamente.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1971_para_Sol.zip",
+    "sha256": "d96dd4421da9a7b8e6d7f8aa9cec5c6450bb63fe170ed3bce2aaf9c5fa7c10d0"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 26,
+      "declaredOwned": 15,
+      "withFA": 0,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 8,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 15,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · largometrajes y cortometrajes",
+      "films": 26,
+      "declaredOwned": 11,
+      "withFA": 0,
+      "candidacyAppearances": 10
+    },
+    {
+      "festival": "Berlín",
+      "section": "Forum (reconstrucción secundaria)",
+      "films": 29,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 15,
+      "declaredOwned": 10,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 6,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Selección y palmarés · cortometrajes",
+      "films": 13,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Informativa",
+      "films": 6,
+      "declaredOwned": 5,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "films": 20,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "films": 4,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Proyecciones especiales · edición no competitiva",
+      "films": 4,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Premios independientes · edición no competitiva",
+      "films": 6,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 43.ª edición",
+      "films": 49,
+      "declaredOwned": 35,
+      "withFA": 7,
+      "candidacyAppearances": 103
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1970",
+      "films": 36,
+      "declaredOwned": 20,
+      "withFA": 0,
+      "candidacyAppearances": 78
+    }
+  ],
+  "sources": [
+    {
+      "file": "extracciones/cannes_1971_selection_transcription.json",
+      "festival": "Cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1971/selection/",
+      "kind": "transcripción oficial; no captura",
+      "coverage": "Selección visible completa: 26 largometrajes de competición, ocho fuera de concurso y 15 cortometrajes."
+    },
+    {
+      "file": "extracciones/cannes_1971_awards_transcription.json",
+      "festival": "Cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1971/awards/",
+      "kind": "transcripción oficial; no captura",
+      "coverage": "Premios renderizados transcritos. La mención ubicada bajo Un Certain Regard se separa como duda."
+    },
+    {
+      "file": "extracciones/filmaffinity_oscar_1971_transcription.json",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1971",
+      "kind": "transcripción de FilmAffinity España; no captura",
+      "coverage": "Año, títulos españoles registrados y estructura de edición. IDs no verificados quedan null."
+    },
+    {
+      "file": "extracciones/oscars_1971_transcription.json",
+      "festival": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1971",
+      "kind": "transcripción oficial de Academy; no captura",
+      "coverage": "22 categorías de cine, nominados y ganadores."
+    },
+    {
+      "file": "extracciones/bafta_film_1971_transcription.json",
+      "festival": "BAFTA",
+      "url": "https://www.bafta.org/awards/film/?award-year=1971",
+      "kind": "transcripción oficial de BAFTA Film; no captura",
+      "coverage": "Categorías Film y candidaturas; Fellowship se separa; Television excluida."
+    },
+    {
+      "file": "extracciones/sansebastian_1971_programme_transcription.json",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1971/secciones_y_peliculas/8/es",
+      "kind": "transcripción de archivo oficial; no captura",
+      "coverage": "58 registros distribuidos entre Sección Oficial, cortos, retrospectiva e informativa."
+    },
+    {
+      "file": "extracciones/sansebastian_1971_awards_transcription.json",
+      "festival": "San Sebastián",
+      "url": "https://www.sansebastianfestival.com/1971/premios_y_jurados/premios/1/64/es",
+      "kind": "transcripción de archivo oficial; no captura",
+      "coverage": "Premios oficiales transcritos."
+    },
+    {
+      "file": "extracciones/berlinale_1971_secondary_transcription.json",
+      "festival": "Berlín",
+      "url": "https://en.wikipedia.org/wiki/21st_Berlin_International_Film_Festival",
+      "kind": "transcripción secundaria; no captura",
+      "coverage": "Competition, Young Filmmakers Forum y premios; requiere cotejo con la ruta oficial histórica."
+    },
+    {
+      "file": "extracciones/berlinale_1971_official_access.json",
+      "festival": "Berlín",
+      "url": "https://www.berlinale.de/en/archiv/jahresarchive/1971/01_jahresblatt_1971/01_Jahresblatt_1971.html",
+      "kind": "intento de acceso oficial",
+      "coverage": "La ruta histórica oficial devolvió cache miss; no se presenta como leída."
+    },
+    {
+      "file": "extracciones/venice_1971_history_transcription.json",
+      "festival": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "kind": "transcripción institucional oficial; no captura",
+      "coverage": "Edición no competitiva, año, tres premios personales y primera exhibición china; no equivale a lectura del catálogo de la selección."
+    },
+    {
+      "file": "extracciones/venice_1971_secondary_programme_transcription.json",
+      "festival": "Venecia",
+      "url": "https://en.wikipedia.org/wiki/32nd_Venice_International_Film_Festival",
+      "kind": "transcripción secundaria; no captura",
+      "coverage": "20 títulos de selección principal, cuatro de Informativa y cuatro proyecciones especiales; premios paralelos segregados. Pendiente contraste ASAC."
+    },
+    {
+      "file": "extracciones/filmaffinity_oscar_1971_verified_movie_cards.json",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1971",
+      "kind": "transcripción de fichas enlazadas de FilmAffinity España; no captura",
+      "coverage": "Siete identidades con título/ID verificados; los demás IDs permanecen null."
+    }
+  ],
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Venecia",
+      "Oscar",
+      "BAFTA"
+    ],
+    "partialBlocks": [
+      "Berlín · cotejo oficial",
+      "Venecia · cotejo ASAC",
+      "San Sebastián · retrospectiva King Vidor",
+      "Cannes · mención anacrónica de Szerelem"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Cruce automático por bloque contra maestros aprobados 1969–1973 con evidencia de hoja y fila física. Título FA cuando consta o título ES del maestro. Sin IDs ni imágenes inventados; pendientes de identidad explícitos.",
+    "Créditos de equipo consolidados en una candidatura por película/categoría; candidaturas BAFTA conjuntas entre películas conservadas. Ninguna candidatura Oscar se comparte entre películas solo por coincidir persona.",
+    "Programas históricos de San Sebastián conservados en evidencia, pendientes de cruce contra sus maestros: no se declara integrado el total del programa fuente.",
+    "Otros años, catálogo, maestros e interfaces preservados; una regeneración del bloque limitada a 1971 y 1972.",
+    "Berlín: competición mixta de largos y cortos y Forum reconstruidos mediante fuente secundaria; cotejo oficial pendiente. No se etiquetan todos como largometrajes.",
+    "Venecia: edición no competitiva con selección principal, Informativa, especiales y premios independientes separados según fuente secundaria; cotejo ASAC pendiente. Los premios independientes no son un palmarés competitivo de la Mostra.",
+    "Cannes: no se crea Un Certain Regard en 1971; mención anacrónicamente rotulada en el archivo actual queda documentada como duda.",
+    "Correcciones BAFTA según archivo oficial https://www.bafta.org/awards/film/?award-year=1971 : Paul Newman nominado, no ganador de actor; M*A*S*H no candidato al documental Robert Flaherty; el único documental premiado es Sad Song Of Yellow Skin, acreditado a National Film Board Of Canada. Se eliminan de esa candidatura los técnicos de sonido erróneamente arrastrados del paquete."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "shared-1971-bafta-actor-robert-redford",
+      "category": "Mejor actor",
+      "person": "Robert Redford",
+      "winner": true,
+      "films": [
+        "Dos hombres y un destino",
+        "El valle del fugitivo",
+        "El descenso de la muerte"
+      ]
+    },
+    {
+      "id": "shared-1971-bafta-actress-katharine-ross",
+      "category": "Mejor actriz",
+      "person": "Katharine Ross",
+      "winner": true,
+      "films": [
+        "Dos hombres y un destino",
+        "El valle del fugitivo"
+      ]
+    },
+    {
+      "id": "shared-1971-bafta-actor-elliott-gould",
+      "category": "Mejor actor",
+      "person": "Elliott Gould",
+      "winner": false,
+      "films": [
+        "Bob And Carol And Ted And Alice",
+        "M.A.S.H."
+      ]
+    },
+    {
+      "id": "shared-1971-bafta-actress-goldie-hawn",
+      "category": "Mejor actriz",
+      "person": "Goldie Hawn",
+      "winner": false,
+      "films": [
+        "Flor de cactus",
+        "Hay una chica en mi sopa"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1971,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Cannes",
+        "status": "selección y palmarés transcritos; identidad FA parcial",
+        "selectionCoverage": "26 largos en competición, 8 fuera de concurso y 15 cortos en competición; premios oficiales asociados. No se añade selección Un Certain Regard.",
+        "remaining": "Verificar títulos/IDs FilmAffinity; resolver la etiqueta anacrónica «Mention Spéciale - Un Certain Regard» sin incorporarla como sección."
+      },
+      {
+        "festival": "Berlín",
+        "status": "parcial",
+        "selectionCoverage": "26 Competition y 29 Young Filmmakers Forum transcritos desde fuente secundaria que cita el archivo oficial; premios incluidos desde esa misma vía secundaria.",
+        "remaining": "Cotejar selection y palmarés con el archivo oficial histórico; no se accedió a la ruta oficial en esta consulta."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "selección de archivo completa; identidad FA parcial",
+        "selectionCoverage": "58 registros: 15 largos a concurso; 6 largometrajes fuera de concurso/funciones especiales; 13 cortos en competición; 1 corto fuera de concurso; 17 retrospectiva King Vidor; 6 Informativa. Premios oficiales asociados.",
+        "remaining": "Verificar títulos registrados e IDs FilmAffinity. El desglose suma los 58 registros anunciados por el archivo."
+      },
+      {
+        "festival": "Venecia",
+        "status": "programa reconstruido parcialmente desde fuente secundaria; formato y tres premios personales confirmados oficialmente",
+        "selectionCoverage": "32.ª Mostra no competitiva: 20 títulos en selección principal, 4 Informativa y 4 proyecciones especiales/homenajes; premios paralelos en archivo separado.",
+        "remaining": "Cotejar la transcripción de selección y premios paralelos con el catálogo/registro ASAC para considerarla completa."
+      },
+      {
+        "festival": "Oscar",
+        "status": "candidaturas completas; identidad FA parcial",
+        "selectionCoverage": "43.ª ceremonia de 1971, películas de 1970; 22 categorías competitivas de cine y todos los nominados/ganadores. Premios honoríficos y personales separados. Siete IDs/títulos FilmAffinity verificados mediante fichas enlazadas; resto no verificado.",
+        "remaining": "Completar de forma selectiva títulos/IDs FA faltantes; quedan null los no verificados."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "categorías Film completas; identidad FA parcial",
+        "selectionCoverage": "19 categorías Film, nominaciones y ganadores transcritos. Fellowship separado. Television excluida.",
+        "remaining": "Verificar títulos registrados e IDs FilmAffinity; no se investigaron ausencias individualmente."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "festival": "Berlín",
+      "issue": "La ruta histórica oficial enlazada en el artículo secundario devolvió cache miss.",
+      "actionNeeded": "Revisar selección y premios contra un ejemplar accesible del archivo Berlinale antes de considerar cerrado el bloque."
+    },
+    {
+      "festival": "Cannes",
+      "issue": "La retrospectiva oficial actual rotula dos intérpretes de Szerelem bajo «Mention Spéciale - Un Certain Regard», aunque esa sección no formaba parte de 1971.",
+      "actionNeeded": "Confirmar si la página refleja una mención posterior o un rótulo retrospectivo incorrecto. La entrada se mantiene fuera de los JSON de selección."
+    },
+    {
+      "festival": "Venecia",
+      "issue": "Se añadió una reconstrucción secundaria de la selección principal, Informativa, homenajes y premios paralelos; aún no se cotejó con el catálogo/registro ASAC.",
+      "actionNeeded": "¿Tienes enlace o PDF del catálogo de la 32.ª Mostra? Si no, el bloque queda parcial y la transcripción secundaria claramente etiquetada."
+    },
+    {
+      "festival": "Cannes",
+      "issue": "La retrospectiva oficial actual rotula dos intérpretes de Szerelem bajo «Mention Spéciale - Un Certain Regard», aunque esa sección no formaba parte de 1971.",
+      "actionNeeded": "Confirmar si el rótulo es retrospectivo/anacrónico; la mención sigue fuera del palmarés integrado."
+    },
+    {
+      "festival": "FilmAffinity",
+      "issue": "Se verificaron siete identidades FilmAffinity para Oscar; faltan IDs FA en otras obras.",
+      "actionNeeded": "Si Sol necesita que las identidades queden exhaustivas, pasar a revisión de títulos faltantes por bloques, nunca asignar por semejanza."
+    }
+  ],
+  "unpublishedHistoricalProgrammes": [
+    {
+      "file": "san_sebastian_retrospectiva_king_vidor_1971.json",
+      "edition": {
+        "festival": "San Sebastián",
+        "year": 1971,
+        "section": "Retrospectiva · King Vidor",
+        "films": [
+          {
+            "title": "H.M. Pulham, Esq. (Cenizas de amor)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Hallelujah (Aleluya)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "La Bohème (Vida bohemia)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Man Without a Star (La pradera sin ley)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Northwest Passage (Book I -- Rogers' Rangers) (Paso al noroeste)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Our Daily Bread (El pan nuestro de cada día)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Peg o' My Heart (Tin-Tin de mi corazón)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Show People (Espejismos)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Solomon and Sheba (Salomón y la reina de Saba)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Stella Dallas",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Street Scene (La calle)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Big Parade (El gran desfile)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Citadel (La ciudadela)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Crowd (Y el mundo marcha)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Jack-Knife Man",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Patsy (La que paga el pato)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "War and Peace (Guerra y paz)",
+            "director": "King Vidor",
+            "filmAffinityId": null,
+            "aliases": [],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          }
+        ]
+      },
+      "reason": "Programa histórico conservado; cruce de propiedad contra maestros históricos pendiente."
+    }
+  ],
+  "veniceStatus": {
+    "festival": "Venecia",
+    "year": 1971,
+    "edition": "32.ª Mostra",
+    "status": "programa reconstruido parcialmente desde fuente secundaria; no cerrado",
+    "facts": [
+      "La Biennale confirma edición 1971 no competitiva (1969–1972).",
+      "La historia oficial enumera tres Golden Lion for Career Achievement de 1971: John Ford, Marcel Carné e Ingmar Bergman.",
+      "La fuente institucional señala la primera proyección de una película china: Hung sik laung dje ching.",
+      "Una transcripción secundaria de la edición organiza selección principal, Informativa y proyecciones especiales; debe contrastarse con el registro ASAC."
+    ],
+    "films": [],
+    "note": "No se etiqueta competición. Los premios paralelos no se presentan como palmarés oficial competitivo.",
+    "sections": [
+      "venecia_seleccion_principal_1971.json",
+      "venecia_informativa_1971.json",
+      "venecia_proyecciones_especiales_1971.json",
+      "venecia_premios_independientes_1971.json"
+    ]
+  }
+}

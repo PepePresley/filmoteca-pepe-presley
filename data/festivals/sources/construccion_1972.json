@@ -1,0 +1,591 @@
+{
+  "year": 1972,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete 1972; no se declara cerrado ni auditado exhaustivamente.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1972_para_Sol.zip",
+    "sha256": "6d7dbc4cb8fb3570c05ad5e624944c19fe26f02ec31fb08df62db162c19fee99"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 25,
+      "declaredOwned": 21,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 20,
+      "declaredOwned": 6,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 14,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición · cortometraje documentado (selección parcial)",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 16,
+      "declaredOwned": 6,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Selección y palmarés · cortometrajes",
+      "films": 10,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Informativa",
+      "films": 5,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 44.ª edición",
+      "films": 49,
+      "declaredOwned": 31,
+      "withFA": 4,
+      "candidacyAppearances": 103
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1971",
+      "films": 30,
+      "declaredOwned": 18,
+      "withFA": 1,
+      "candidacyAppearances": 69
+    }
+  ],
+  "sources": [
+    {
+      "file": "extracciones/cannes_1972_selection_transcription.json",
+      "url": "https://www.festival-cannes.com/en/retrospective/1972/selection/",
+      "kind": "official rendered-page transcription",
+      "coverage": "Complete visible lists transcribed: 25 feature competition, 20 out-of-competition and 14 short-film competition titles.",
+      "transcribedDataFiles": [
+        "cannes_competicion_largometrajes_1972.json",
+        "cannes_fuera_de_concurso_1972.json",
+        "cannes_cortometrajes_1972.json"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1972_awards_transcription.json",
+      "url": "https://www.festival-cannes.com/en/retrospective/1972/awards/",
+      "kind": "official rendered-page transcription",
+      "coverage": "Official feature and short award recipients transcribed."
+    },
+    {
+      "file": "extracciones/bafta_film_1972_transcription.json",
+      "url": "https://www.bafta.org/awards/film/?award-year=1972",
+      "kind": "official search/rendered text transcription",
+      "coverage": "Film results categories transcribed from official results; Fellowship held separately. Television excluded.",
+      "transcribedDataFiles": [
+        "bafta_film_1972.json"
+      ]
+    },
+    {
+      "file": "extracciones/oscars_1972_transcription.json",
+      "url": "https://www.oscars.org/oscars/ceremonies/1972",
+      "kind": "official rendered-page partial transcription",
+      "coverage": "22 categorías cinematográficas competitivas transcritas/cotejadas entre FilmAffinity España y Academia; 44.ª edición, películas de 1971.",
+      "transcribedDataFiles": [
+        "oscar_ceremonia_1972.json"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1972_programme_transcription.json",
+      "url": "https://www.sansebastianfestival.com/1972/secciones_y_peliculas/8/es",
+      "kind": "official rendered-page partial transcription",
+      "coverage": "Archivo anuncia 53 registros; las extracciones finales cubren 16 largometrajes competitivos, una clausura fuera de concurso, 10 cortos, 14 títulos de retrospectiva Howard Hawks, cinco Informativa y siete Infantil.",
+      "transcribedDataFiles": [
+        "san_sebastian_seccion_oficial_1972.json",
+        "san_sebastian_fuera_de_concurso_1972.json",
+        "san_sebastian_cortometrajes_1972.json",
+        "san_sebastian_retrospectiva_howard_hawks_1972.json",
+        "san_sebastian_informativa_1972.json",
+        "san_sebastian_infantil_1972.json"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1972_awards_transcription.json",
+      "url": "https://www.sansebastianfestival.com/1972/awards_and_jury_members/awards/1/65/in",
+      "kind": "official archive transcription",
+      "coverage": "Official awards transcribed, including feature and short award recipients, joint actor award and jury mention.",
+      "transcribedDataFiles": [
+        "san_sebastian_seccion_oficial_1972.json",
+        "san_sebastian_cortometrajes_1972.json"
+      ]
+    },
+    {
+      "file": "extracciones/berlinale_1972_programme_transcription.json",
+      "url": "https://www.berlinale.de/en/1972/programme/19720009.html",
+      "kind": "official individual programme record transcription",
+      "coverage": "One official record confirms Der selbstsüchtige Riese / The Selfish Giant, Competition, 1972; full archive inaccessible.",
+      "transcribedDataFiles": [
+        "berlin_competicion_1972.json"
+      ]
+    },
+    {
+      "file": "extracciones/berlinale_archive_access_attempt.json",
+      "url": "https://www.berlinale.de/en/archive/programme/programme-archive.html/y=1972/o=desc/p=1/rp=40",
+      "kind": "official archive access attempt",
+      "coverage": "Browser returned inaccessible URL; no complete list extracted."
+    },
+    {
+      "file": "extracciones/venice_history_transcription.json",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "kind": "official institutional history transcription",
+      "coverage": "Confirms 1969–1972 editions were non-competitive; Charlie Chaplin received Career Golden Lion in 1972; parallel Giornate separately noted."
+    },
+    {
+      "file": "extracciones/venice_asac_poster_record.json",
+      "url": "https://asac.labiennale.org/collezioni/manifesti/44014",
+      "kind": "official ASAC archive record transcription",
+      "coverage": "33rd Mostra, Venezia Giovani, 21 August–3 September 1972."
+    },
+    {
+      "file": "extracciones/venice_giornate_history_transcription.json",
+      "url": "https://static.labiennale.org/files/labiennale/Documenti/the-disquieted-muses-c.pdf",
+      "kind": "official Biennale history publication transcription",
+      "coverage": "Documents Giornate del Cinema Italiano opening 1 September 1972, organized as alternative activity in Venice."
+    },
+    {
+      "id": "oscars-filmaffinity",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1972",
+      "kind": "FilmAffinity España award edition transcription from search index",
+      "coverage": "Confirms 44th edition, 1972 ceremony, films of 1971; categories, winners and nominee listings transcribed and compared with the Academy source. FilmAffinity Spanish titles are used where directly evidenced.",
+      "localExtractions": [
+        "extracciones/filmaffinity_oscar_1972_transcription.json"
+      ]
+    },
+    {
+      "id": "bafta-filmaffinity",
+      "festival": "BAFTA",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=bafta_1972",
+      "kind": "FilmAffinity España award edition rendered transcription",
+      "coverage": "Cross-check of BAFTA film awards edition and directly linked Spanish FA titles/IDs for 15 films; official BAFTA remains the category/candidacy source. Television awards visible in the FA page were excluded.",
+      "localExtractions": [
+        "extracciones/filmaffinity_bafta_1972_transcription.json"
+      ]
+    },
+    {
+      "id": "filmaffinity-oscar-identities",
+      "festival": "Oscar",
+      "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1972",
+      "kind": "FilmAffinity España rendered records and linked film pages",
+      "coverage": "Four additional Oscar candidate identities verified by FilmAffinity Spanish title, record and exact linked film ID.",
+      "localExtractions": [
+        "extracciones/filmaffinity_oscar_identities_1972.json"
+      ]
+    }
+  ],
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Oscar",
+      "BAFTA"
+    ],
+    "partialBlocks": [
+      "Berlín · selección completa y palmarés",
+      "Venecia · programa",
+      "San Sebastián · retrospectiva Howard Hawks e Infantil"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Cruce automático por bloque contra maestros aprobados 1969–1973 con evidencia de hoja y fila física. Título FA cuando consta o título ES del maestro. Sin IDs ni imágenes inventados; pendientes de identidad explícitos.",
+    "Créditos de equipo consolidados en una candidatura por película/categoría; candidaturas BAFTA conjuntas entre películas conservadas. Ninguna candidatura Oscar se comparte entre películas solo por coincidir persona.",
+    "Programas históricos de San Sebastián conservados en evidencia, pendientes de cruce contra sus maestros: no se declara integrado el total del programa fuente.",
+    "Otros años, catálogo, maestros e interfaces preservados; una regeneración del bloque limitada a 1971 y 1972.",
+    "Berlín: solo se incorpora el cortometraje Der selbstsüchtige Riese acreditado directamente por el archivo oficial. Selección completa y palmarés pendientes; no se presenta como competición de largometrajes completa.",
+    "Venecia: edición no competitiva y actividad paralela documentadas; programa pendiente. No se publica una edición vacía ni se afirma que no se celebrara."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": {
+    "year": 1972,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Cannes",
+        "status": "parcial",
+        "selectionCoverage": "Selección oficial transcrita desde el archivo oficial: 25 largometrajes en competición, 20 fuera de concurso y 14 cortos en competición; premios oficiales transcritos y asociados.",
+        "identityCoverage": "FA IDs sin verificar: todos; se conservan títulos y directores del archivo oficial.",
+        "remaining": "Completar cruce FilmAffinity España y validar títulos registrados/IDs; revisar el emparejamiento entre el título oficial de selección y los registros FA."
+      },
+      {
+        "festival": "Berlín",
+        "status": "pendiente/parcial",
+        "selectionCoverage": "Solo una ficha oficial individual confirma The Selfish Giant / Der selbstsüchtige Riese en Competition 1972. No hay selección ni palmarés completos.",
+        "identityCoverage": "FA IDs sin verificar.",
+        "remaining": "Recuperar selección oficial, cortos/fuera de concurso cuando existan y premios; el archivo principal no fue accesible."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "selección oficial completa; identidades FA parciales",
+        "selectionCoverage": "Archivo oficial: 53 registros representados. Desglose: 16 largometrajes a concurso, una clausura fuera de concurso, 10 cortometrajes, 14 Retrospectiva Howard Hawks, cinco Informativa y siete Infantil. Palmarés oficial integrado.",
+        "identityCoverage": "FA IDs sin verificar.",
+        "remaining": "La extracción de secciones está completa; quedan IDs y títulos FilmAffinity por verificar."
+      },
+      {
+        "festival": "Venecia",
+        "status": "parcial; actividad confirmada, programa pendiente",
+        "selectionCoverage": "La Mostra de 1972 fue no competitiva, edición 33, y el archivo oficial registra el programa Venezia Giovani; hubo además Giornate del Cinema Italiano como actividad paralela.",
+        "identityCoverage": "No se incorporan películas porque no se reconstruyó una lista fiable.",
+        "remaining": "Reconstruir un programa oficial identificable y decidir su esquema; no se equipara no competitiva con festival no celebrado."
+      },
+      {
+        "festival": "Oscar",
+        "status": "parcial por identidad; candidaturas completas",
+        "selectionCoverage": "22 categorías competitivas cinematográficas en JSON, agrupadas por película, candidaturas y ganadores cotejados entre FilmAffinity España y Academy. El honorífico personal está separado.",
+        "identityCoverage": "FA IDs sin verificar.",
+        "remaining": "Completar títulos registrados/IDs FilmAffinity de películas sin enlace directo. No se investigaron ausencias una por una."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "parcial",
+        "selectionCoverage": "Se transcribieron todas las categorías Film visibles (18) con nominadas y ganadores agrupados por película; Fellowship separado. Televisión excluida.",
+        "identityCoverage": "FA IDs sin verificar.",
+        "remaining": "Revisar el mapeo de títulos registrados FA y normalización de algunas variantes; comprobar que categoría Person nominee list completeness matches current official database."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "festival": "Berlín",
+      "issue": "La lista del archivo Berlinale no pudo abrirse. Fuentes secundarias discrepan en el número de películas de competición; solo The Selfish Giant tiene ficha oficial directa en el material conservado.",
+      "actionNeeded": "Recuperar el programa oficial de 1972 y cotejar selección y palmarés antes de integrar."
+    },
+    {
+      "festival": "Venecia",
+      "issue": "Confirmadas la Mostra no competitiva y las Giornate del Cinema Italiano, pero la selección de títulos no quedó reconstruida.",
+      "actionNeeded": "Consultar ASAC/La Biennale para definir qué proyecciones pertenecen al programa de la Mostra y cuáles a la actividad paralela."
+    },
+    {
+      "festival": "FilmAffinity",
+      "issue": "Se verificaron 19 IDs directos de FilmAffinity en Oscar/BAFTA mediante páginas o enlaces de FilmAffinity; las restantes identidades no se han investigado individualmente.",
+      "actionNeeded": "Resolver solo los cruces pendientes mediante títulos/dirección inequívocos; no asignar IDs por semejanza."
+    },
+    {
+      "festival": "San Sebastián",
+      "issue": "El archivo contiene 53 filas pero su conteo se reparte en secciones principales y programas paralelos; la totalidad ahora está transcrita en seis JSON de sección.",
+      "actionNeeded": "Ninguna sobre cobertura de programa; pendientes solo títulos/IDs FA."
+    }
+  ],
+  "unpublishedHistoricalProgrammes": [
+    {
+      "file": "san_sebastian_retrospectiva_howard_hawks_1972.json",
+      "edition": {
+        "festival": "San Sebastián",
+        "year": 1972,
+        "section": "Retrospectiva: Howard Hawks",
+        "films": [
+          {
+            "title": "A Girl in Every Port",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Una novia en cada puerto"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Fig Leaves",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Hojas de parra",
+              "Su majestad la mujer"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Gentlemen Prefer Blondes",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Los caballeros las prefieren rubias"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "His Girl Friday",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Luna nueva",
+              "La dama del viernes"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Monkey Business",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Me siento rejuvenecer"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Paid to Love",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Érase una vez un príncipe",
+              "Pagado para amar"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Red River",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Río Rojo"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Scarface",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Scarface, el terror del hampa"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Big Sky",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Río de sangre"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Criminal Code",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "El código penal",
+              "El código criminal"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Crowd Roars",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "Avidez de tragedia",
+              "Ruge la muchedumbre"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Dawn Patrol",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "La escuadrilla del amanecer"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Road to Glory",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "El camino de la gloria"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Twentieth Century",
+            "director": "Howard Hawks",
+            "filmAffinityId": null,
+            "aliases": [
+              "La comedia de la vida",
+              "Tren de lujo"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          }
+        ]
+      },
+      "reason": "Programa histórico conservado; cruce de propiedad contra maestros históricos pendiente."
+    },
+    {
+      "file": "san_sebastian_infantil_1972.json",
+      "edition": {
+        "festival": "San Sebastián",
+        "year": 1972,
+        "section": "Infantil",
+        "films": [
+          {
+            "title": "A varázsló",
+            "director": "György Palásthy",
+            "filmAffinityId": null,
+            "aliases": [
+              "Chili Chala, el mago"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Abel, twój brat",
+            "director": "Janusz Nasfeter",
+            "filmAffinityId": null,
+            "aliases": [
+              "Abel, tu hermano"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Bogáncs",
+            "director": "Tamás Fejér",
+            "filmAffinityId": null,
+            "aliases": [
+              "Boganos, perro pastor"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Csutak és a szürke ló",
+            "director": "Zoltán Várkonyi",
+            "filmAffinityId": null,
+            "aliases": [
+              "César y el caballo gris"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Ivana v útoku",
+            "director": "Josef Pinkava",
+            "filmAffinityId": null,
+            "aliases": [
+              "Ivana al ataque"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "The Magnificent Six and ½: When Knights Were Bold",
+            "director": "Harry Booth",
+            "filmAffinityId": null,
+            "aliases": [
+              "Los seis magníficos y medio"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          },
+          {
+            "title": "Vildmarkssommar",
+            "director": "Bertil Haglund; Lars V. Werner",
+            "filmAffinityId": null,
+            "aliases": [
+              "Verano salvaje"
+            ],
+            "nominations": [],
+            "wins": [],
+            "candidacies": []
+          }
+        ]
+      },
+      "reason": "Programa histórico conservado; cruce de propiedad contra maestros históricos pendiente."
+    }
+  ],
+  "veniceStatus": {
+    "festival": "Venecia",
+    "year": 1972,
+    "status": "actividad confirmada; programa pendiente",
+    "evidence": [
+      {
+        "event": "33. Mostra Internazionale d’Arte Cinematografica / Venezia Giovani",
+        "dates": "21 agosto–3 septiembre 1972",
+        "status": "edición oficial de festival; no competitiva 1969–1972; no hay selección fiable reconstruida en este paquete"
+      },
+      {
+        "event": "Giornate del Cinema Italiano",
+        "dates": "desde 1 septiembre 1972",
+        "status": "actividad paralela en el centro histórico; contra-festival organizado por ANAC/AACI; no equivale a la selección oficial de la Mostra"
+      }
+    ]
+  }
+}
