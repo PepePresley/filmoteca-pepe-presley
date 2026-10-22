@@ -1,0 +1,456 @@
+{
+  "year": 1955,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1955 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1955_para_Sol.zip",
+    "sha256": "319332c4c1e636ac80a0bacd12e075cfdfe5739164453acf150848a591b73007"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1954",
+      "films": 44,
+      "declaredOwned": 24,
+      "withFA": 0,
+      "candidacyAppearances": 79
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 12,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 9
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 45,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 33,
+      "declaredOwned": 13,
+      "withFA": 0,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 27.ª edición",
+      "films": 54,
+      "declaredOwned": 34,
+      "withFA": 0,
+      "candidacyAppearances": 120
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios asociados a películas · especiales y honoríficos",
+      "films": 2,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 10,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 5,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Retrospectiva española · selección documentada",
+      "films": 6,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 8,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 35,
+      "declaredOwned": 15,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 3,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscar_1955_academy_transcription",
+      "url": "https://www.oscars.org/oscars/ceremonies/1955",
+      "evidenceFile": "extracciones/oscar_1955_academy_transcription.json",
+      "type": "Transcripción estructurada de fuente oficial Academy; no captura"
+    },
+    {
+      "id": "bafta_1955_film_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1955",
+      "evidenceFile": "extracciones/bafta_1955_film_transcription.json",
+      "type": "Transcripción estructurada del archivo oficial BAFTA Film; resultado indexado; no captura"
+    },
+    {
+      "id": "cannes_1955_official_selection",
+      "url": "https://www.festival-cannes.com/retrospective/1955/",
+      "evidenceFile": "extracciones/cannes_1955_official_selection.json",
+      "type": "Transcripción estructurada del archivo oficial Cannes; no captura"
+    },
+    {
+      "id": "cannes_1955_official_awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1955/awards/",
+      "evidenceFile": "extracciones/cannes_1955_official_awards.json",
+      "type": "Transcripción del palmarès oficial Cannes; no captura"
+    },
+    {
+      "id": "berlin_1955_secondary",
+      "url": "https://en.wikipedia.org/wiki/5th_Berlin_International_Film_Festival",
+      "evidenceFile": "extracciones/berlin_1955_secondary.json",
+      "type": "Transcripción secundaria Wikipedia, contrastada con referencias archivísticas citadas; no captura"
+    },
+    {
+      "id": "sansebastian_1955_official_programme",
+      "url": "https://www.sansebastianfestival.com/1955/sections_and_films/8/in",
+      "evidenceFile": "extracciones/sansebastian_1955_official_programme.json",
+      "type": "Transcripción de archivo oficial San Sebastián; no captura"
+    },
+    {
+      "id": "sansebastian_1955_official_awards",
+      "url": "https://www.sansebastianfestival.com/1955/awards_and_jury_members/awards/1/48/in",
+      "evidenceFile": "extracciones/sansebastian_1955_official_awards.json",
+      "type": "Transcripción de archivo oficial San Sebastián; no captura"
+    },
+    {
+      "id": "venezia_1955_secondary_programme",
+      "url": "https://en.wikipedia.org/wiki/16th_Venice_International_Film_Festival",
+      "evidenceFile": "extracciones/venezia_1955_secondary_programme.json",
+      "type": "Transcripción secundaria de programa con referencias a ASAC; ASAC consultado pero visor no expuso las filas; no captura"
+    },
+    {
+      "id": "venezia_1955_biennale_history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venezia_1955_biennale_history.json",
+      "type": "Transcripción de la historia oficial de La Biennale; no captura"
+    },
+    {
+      "id": "oscar_1955_personal_honors",
+      "url": "https://www.oscars.org/oscars/ceremonies/1955/memorable-moments",
+      "evidenceFile": "extracciones/oscar_1955_premios_personales.json",
+      "type": "Transcripción estructurada de página oficial Academy; no captura",
+      "note": "Cinco destinatarios personales de Honorary Awards; Jon Whiteley y Vincent Winter fueron reconocidos por actuaciones en The Little Kidnappers. Premios vinculados a películas conservados por separado."
+    },
+    {
+      "id": "bafta_1955_documentary_indexed_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1955",
+      "evidenceFile": "extracciones/bafta_1955_documentary_indexed_transcription.json",
+      "type": "Transcription of official indexed search result, not direct page capture"
+    },
+    {
+      "id": "bafta_1955_official_indexed_full_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1955",
+      "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json",
+      "type": "Full structured transcription of official indexed results, not direct page capture"
+    },
+    {
+      "id": "bafta_1955_category_control",
+      "url": "https://www.bafta.org/awards/film/?award-year=1955",
+      "evidenceFile": "bafta_categorias_control_1955.json",
+      "type": "Official category counts vs counts recalculated from final JSON"
+    },
+    {
+      "source": "BAFTA oficial",
+      "url": "https://www.bafta.org/awards/film/?award-year=1955",
+      "evidence": "extracciones/bafta_1955_official_indexed_full_transcription.json",
+      "type": "Transcripción estructurada del resultado indexado, no captura directa.",
+      "usedFor": "control categoría por categoría y corrección Documentaries / Film From Any Source / United Nations Award."
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears.",
+    "BAFTA: corregida íntegramente la categoría Documentary y restauradas las candidaturas Film From Any Source mal desplazadas; tabla de control de12categorías y transcripción oficial conservadas."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": {
+    "year": 1955,
+    "blocks": [
+      {
+        "block": "Oscar — categorías competitivas",
+        "status": "completo",
+        "detail": "26 categorías de 27.ª edición transcritas del archivo Academy; película elegible 1954."
+      },
+      {
+        "block": "Oscar — premios honoríficos y personales",
+        "status": "completo",
+        "detail": "Dos premios honoríficos vinculados a películas y cinco destinatarios personales transcritos de la página oficial Academy; se mantienen separados."
+      },
+      {
+        "block": "BAFTA — Film",
+        "status": "completo",
+        "detail": "12 categorías Film cotejadas categoría por categoría contra resultados oficiales BAFTA indexados; entradas, ganadores y créditos agrupados por película. Control en bafta_categorias_control_1955.json. Las identidades FilmAffinity quedan pendientes en un bloque aparte."
+      },
+      {
+        "block": "Cannes — largometrajes en competición",
+        "status": "completo",
+        "detail": "33 títulos de la retrospectiva oficial con sus premios listados."
+      },
+      {
+        "block": "Cannes — cortometrajes en competición",
+        "status": "completo",
+        "detail": "45 títulos del archivo oficial; premios principales asociados."
+      },
+      {
+        "block": "Cannes — fuera de concurso",
+        "status": "completo",
+        "detail": "Dos títulos indicados por la retrospectiva oficial."
+      },
+      {
+        "block": "Berlín — competición y premios",
+        "status": "parcial",
+        "detail": "12 títulos y premios por voto del público transcritos de fuente secundaria; cotejo directo del archivo oficial pendiente."
+      },
+      {
+        "block": "San Sebastián — largometrajes en competición",
+        "status": "parcial",
+        "detail": "8 títulos competitivos visibles; el archivo informa 29 títulos totales."
+      },
+      {
+        "block": "San Sebastián — fuera de concurso",
+        "status": "parcial",
+        "detail": "5 largos marcados Not in competition por el archivo oficial."
+      },
+      {
+        "block": "San Sebastián — cortometrajes",
+        "status": "parcial",
+        "detail": "10 cortos de competición; uno con error SQL y sin director; falta contrastar el total y su premio."
+      },
+      {
+        "block": "San Sebastián — retrospectiva española",
+        "status": "parcial",
+        "detail": "6 registros de retrospectiva identificados; el archivo comunica 29 títulos totales y falta resolver un registro SQL."
+      },
+      {
+        "block": "Venecia — competición principal",
+        "status": "parcial",
+        "detail": "35 películas transcritas de fuente secundaria que cita ASAC; archivo ASAC consultado pero no mostró datos por fallo de carga."
+      },
+      {
+        "block": "Venecia — fuera de concurso",
+        "status": "parcial",
+        "detail": "3 títulos transcritos de fuente secundaria; falta cotejo directo de ASAC."
+      },
+      {
+        "block": "FilmAffinity España",
+        "status": "pendiente",
+        "detail": "No se verificaron títulos registrados ni IDs FA; campos quedan null."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "film-affinity-identities",
+      "question": "No se verificaron fichas, títulos registrados ni IDs FilmAffinity España.",
+      "impact": "filmAffinityId y filmaffinityTitle quedan null; no es cierre de identidad."
+    },
+    {
+      "id": "berlin-official-crosscheck",
+      "question": "El programa y premios de Berlín proceden de una transcripción secundaria; el archivo oficial no abrió en esta consulta.",
+      "impact": "Bloque Berlín parcial."
+    },
+    {
+      "id": "san-sebastian-coverage",
+      "question": "San Sebastián indica 29 títulos. Se ven 8 largometrajes en competición, 5 fuera de concurso, 10 cortos y 6 retrospectivas (29 total), pero una fila corta tiene SQL error y podría esconder créditos.",
+      "impact": "Identidad/director de Fure in Dulshan y premio corto por cotejar."
+    },
+    {
+      "id": "venice-asac-details",
+      "question": "El visor ASAC anual de 1955 queda en “caricamento in corso”; programa/palmarès se transcribieron de fuente secundaria que cita ASAC.",
+      "impact": "Venecia parcial; cotejo de programa y premios incompleto."
+    },
+    {
+      "id": "venice-shared-volpi",
+      "question": "La página histórica oficial enumera a Curd Jürgens ex aequo por dos películas; confirmar si deben modelarse como una misma candidatura de premio o dos desempeños premiados.",
+      "impact": "La relación compartida queda explícita y revisable."
+    }
+  ],
+  "unpublishedIdentityEvidence": [],
+  "baftaCategoryControl": {
+    "source": "https://www.bafta.org/awards/film/?award-year=1955",
+    "sourceType": "Control calculado desde candidacies del JSON final frente a transcripción indexada del archivo oficial BAFTA; no captura directa.",
+    "categories": [
+      {
+        "categoryOfficial": "Animated Film",
+        "officialEntries": 4,
+        "transcribedEntries": 4,
+        "status": "coincide",
+        "officialWinners": "Song Of The Prairie (Arie Prerie)",
+        "winnersInFinalJson": [
+          "Song Of The Prairie (Arie Prerie) — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Actor",
+        "officialEntries": 6,
+        "transcribedEntries": 6,
+        "status": "coincide",
+        "officialWinners": "Kenneth More — Doctor In The House",
+        "winnersInFinalJson": [
+          "Doctor In The House — Kenneth More"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Actress",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "Yvonne Mitchell — The Divided Heart",
+        "winnersInFinalJson": [
+          "The Divided Heart — Yvonne Mitchell"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Film",
+        "officialEntries": 9,
+        "transcribedEntries": 9,
+        "status": "coincide",
+        "officialWinners": "Hobson's Choice",
+        "winnersInFinalJson": [
+          "Hobson’s Choice — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Screenplay",
+        "officialEntries": 8,
+        "transcribedEntries": 8,
+        "status": "coincide",
+        "officialWinners": "The Young Lovers — George Tabori; Robin Estridge",
+        "winnersInFinalJson": [
+          "The Young Lovers — George Tabori; Robin Estridge"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "Documentary",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "The Great Adventure (Det Stora Äventyret)",
+        "winnersInFinalJson": [
+          "The Great Adventure (Det Stora Äventyret) — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "Film From Any Source",
+        "officialEntries": 21,
+        "transcribedEntries": 21,
+        "status": "coincide",
+        "officialWinners": "Wages Of Fear (Le Salaire De La Peur)",
+        "winnersInFinalJson": [
+          "Wages Of Fear (Le Salaire De La Peur) — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "Foreign Actor",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "Marlon Brando — On The Waterfront",
+        "winnersInFinalJson": [
+          "On The Waterfront — Marlon Brando"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "Foreign Actress",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "Cornell Borchers — The Divided Heart",
+        "winnersInFinalJson": [
+          "The Divided Heart — Cornell Borchers"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "Most Promising Newcomer To Film",
+        "officialEntries": 3,
+        "transcribedEntries": 3,
+        "status": "coincide",
+        "officialWinners": "David Kossoff — The Young Lovers",
+        "winnersInFinalJson": [
+          "The Young Lovers — David Kossoff"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "Special Award",
+        "officialEntries": 6,
+        "transcribedEntries": 6,
+        "status": "coincide",
+        "officialWinners": "Time Out Of War",
+        "winnersInFinalJson": [
+          "Time Out Of War — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      },
+      {
+        "categoryOfficial": "United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter",
+        "officialEntries": 2,
+        "transcribedEntries": 2,
+        "status": "coincide",
+        "officialWinners": "The Divided Heart",
+        "winnersInFinalJson": [
+          "The Divided Heart — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1955_official_indexed_full_transcription.json"
+      }
+    ],
+    "allCountsMatch": true
+  }
+}

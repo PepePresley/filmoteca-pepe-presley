@@ -1,0 +1,472 @@
+{
+  "year": 1957,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "scope": "Integración del paquete1957 revisado; cobertura parcial, sin cierre exhaustivo.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1957_para_Sol.zip",
+    "sha256": "62f8b947d9fe6adaeea923c658661e5c35125cd5bfaf346aa73e6a117d4b59a0"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1956",
+      "films": 51,
+      "declaredOwned": 27,
+      "withFA": 0,
+      "candidacyAppearances": 84
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 26,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 11,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 29,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 31,
+      "declaredOwned": 12,
+      "withFA": 0,
+      "candidacyAppearances": 10
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 29.ª edición",
+      "films": 58,
+      "declaredOwned": 31,
+      "withFA": 0,
+      "candidacyAppearances": 124
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 17,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 3,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 11,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 25,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Venecia",
+      "section": "Premios independientes · selección parcial",
+      "films": 13,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 13
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscars_1957_official_transcription",
+      "url": "https://www.oscars.org/oscars/ceremonies/1957",
+      "evidenceFile": "extracciones/oscars_1957_official_transcription.json",
+      "type": "Official Academy page transcription, not screenshot"
+    },
+    {
+      "id": "bafta_1957_film_transcription",
+      "url": "https://www.bafta.org/awards/film/?award-year=1957",
+      "evidenceFile": "extracciones/bafta_1957_film_transcription.json",
+      "type": "Official BAFTA Film archive transcription, not screenshot"
+    },
+    {
+      "id": "cannes_1957_selection_transcription",
+      "url": "https://www.festival-cannes.com/en/retrospective/1957/selection/",
+      "evidenceFile": "extracciones/cannes_1957_selection_transcription.json",
+      "type": "Official Festival de Cannes page transcription, not screenshot"
+    },
+    {
+      "id": "cannes_1957_awards_transcription",
+      "url": "https://www.festival-cannes.com/en/retrospective/1957/awards/",
+      "evidenceFile": "extracciones/cannes_1957_awards_transcription.json",
+      "type": "Official awards page transcription, not screenshot"
+    },
+    {
+      "id": "sansebastian_1957_visible_transcription",
+      "url": "https://www.sansebastianfestival.com/1957/secciones_y_peliculas/8/es",
+      "evidenceFile": "extracciones/sansebastian_1957_visible_transcription.json",
+      "type": "Official visible page transcription, not screenshot"
+    },
+    {
+      "id": "sansebastian_1957_awards_transcription",
+      "url": "https://www.sansebastianfestival.com/1957/premios_y_jurados/premios/1/50/es",
+      "evidenceFile": "extracciones/sansebastian_1957_awards_transcription.json",
+      "type": "Official awards page transcription, not screenshot"
+    },
+    {
+      "id": "berlin_1957_secondary_transcription",
+      "url": "https://en.wikipedia.org/wiki/7th_Berlin_International_Film_Festival",
+      "evidenceFile": "extracciones/berlin_1957_secondary_transcription.json",
+      "type": "Secondary Wikipedia transcription, not official archive extraction"
+    },
+    {
+      "id": "venezia_asac_1957_browser_transcription",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1957",
+      "evidenceFile": "extracciones/venezia_asac_1957_browser_transcription.json",
+      "type": "Official ASAC archive browser transcription; not API response or screenshot"
+    },
+    {
+      "source": "BAFTA oficial",
+      "url": "https://www.bafta.org/awards/film/?award-year=1957",
+      "evidence": "extracciones/bafta_1957_official_indexed_control_transcription.json",
+      "type": "Transcripción estructurada del resultado indexado, no captura directa.",
+      "usedFor": "control de categorías/entradas, cotejo de premios y créditos BAFTA."
+    },
+    {
+      "source": "Archivio Storico ASAC — Biennale di Venezia",
+      "url": "https://asac.labiennale.org/api/ricerca-semplice",
+      "evidence": "extracciones/asac_regia_audit_1957.json",
+      "originalResponse": "extracciones/asac_cinema_batch_1956_1957_original.json",
+      "type": "POST batch API official response; extraction of exact Regia credits from persona_istituzione.",
+      "usedFor": "ASAC IDs and director credits for 25 Venice films in 1956/1957."
+    }
+  ],
+  "notes": [
+    "Integración en bloque tras las tres revisiones de los paquetes de Luna; se reutiliza evidencia conservada. No es auditoría exhaustiva de cada identidad o candidatura.",
+    "Cruces contra maestros aprobados1945–1961, restringidos hasta dos años después de cada edición, con hoja y fila física. Título de FilmAffinity cuando está acreditado; en su defecto, título ES del maestro o título de fuente. No se inventan IDs, imágenes ni propiedad.",
+    "BAFTA exclusivamente cine, con categorías británicas/extranjeras y candidaturas compartidas. Oscar conserva las distinciones históricas de categorías y los premios especiales/honoríficos asociados a películas van separados de la competición.",
+    "Se distinguen selecciones parciales, palmarés sin programa completo, retrospectivas y fuera de concurso. Los premios personales permanecen en la evidencia del paquete; no se convierten en películas.",
+    "Orden por importancia del premio antes de generar el mapa. Regeneración limitada a1950–1959; otros años, catálogo, maestros e interfaces preservados.",
+    "Los huecos de Berlín/San Sebastián y programas secundarios de Venecia permanecen explícitos. No se añaden estos años a completedYears.",
+    "Los25directores de Venecia se completaron por consulta ASAC en lote y se comprobaron contra la respuesta original. BAFTA conserva el cotejo de12categorías; cuatro filas residuales sin candidaturas se conservan como evidencia sin publicar como participaciones. Cabiria queda fuera de concurso y conserva el premio a Giulietta Masina."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": {
+    "year": 1957,
+    "blocks": [
+      {
+        "block": "Oscar — cine",
+        "status": "completo",
+        "detail": "27 categorías competitivas transcritas desde la Academia; honoríficos personales separados."
+      },
+      {
+        "block": "BAFTA — Film",
+        "status": "completo",
+        "detail": "12 categorías cotejadas contra resultados oficiales BAFTA indexados; recuentos y ganadores calculados desde el JSON final. Se corrigieron entradas por persona y categoría; ver bafta_categorias_control_1957.json. Identidad FilmAffinity sigue fuera de este bloque."
+      },
+      {
+        "block": "Cannes — largometrajes",
+        "status": "completo",
+        "detail": "31 largometrajes listados como competición por archivo oficial; ganadores asociados."
+      },
+      {
+        "block": "Cannes — cortometrajes",
+        "status": "completo",
+        "detail": "29 cortos listados; premios oficiales asociados."
+      },
+      {
+        "block": "Cannes — fuera de concurso",
+        "status": "completo",
+        "detail": "Around the World in 80 Days explícitamente hors compétition."
+      },
+      {
+        "block": "Berlín — competición principal",
+        "status": "parcial",
+        "detail": "26 títulos y premios de fuente secundaria; pendiente cotejo oficial."
+      },
+      {
+        "block": "Berlín — documentales y cortos",
+        "status": "parcial",
+        "detail": "11 títulos y premios de fuente secundaria."
+      },
+      {
+        "block": "San Sebastián — largometrajes",
+        "status": "parcial",
+        "detail": "11 películas en el bloque competitivo tras reclasificar Las noches de Cabiria como fuera de concurso según la clasificación expresa; cobertura restante parcial por filas SQL."
+      },
+      {
+        "block": "San Sebastián — cortometrajes",
+        "status": "parcial",
+        "detail": "17 títulos visibles; hay filas con error y varios marcados fuera de concurso."
+      },
+      {
+        "block": "San Sebastián — fuera de concurso",
+        "status": "parcial",
+        "detail": "Tres largometrajes explícitamente fuera de concurso; Las noches de Cabiria trasladada desde sección oficial y su premio Zulueta a Giulietta Masina conservado."
+      },
+      {
+        "block": "Venecia — selección principal",
+        "status": "parcial",
+        "detail": "Los 25 títulos de las secciones nacionales conservan sus títulos y ahora incluyen IDs ASAC y directores extraídos del crédito exacto Regia en una consulta por lote al índice cinema (extracciones/asac_regia_audit_1957.json). La cobertura de programas paralelos sigue parcial."
+      },
+      {
+        "block": "Venecia — secciones paralelas",
+        "status": "parcial",
+        "detail": "Ganadores ASAC transcritos, pero no todas las listas completas de programas."
+      },
+      {
+        "block": "FilmAffinity España",
+        "status": "pendiente",
+        "detail": "No se verificaron títulos registrados ni IDs FA."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "berlin-official",
+      "question": "Verificar selección de Berlín 1957 con el archivo oficial; el listado utilizado es secundario.",
+      "impact": "Cotejo de las selecciones y premios de Berlín."
+    },
+    {
+      "id": "ss-sql-errors",
+      "question": "El archivo de San Sebastián declara 35 películas, pero el extracto tiene filas SQL defectuosas y el premio de cortos no está asociado a todas las identidades.",
+      "impact": "Posibles omisiones y clasificación parciales."
+    },
+    {
+      "id": "venice-full-list",
+      "question": "ASAC muestra varios programas paralelos; la selección principal de 25 títulos y sus directores ya se cotejaron, pero no todas las listas paralelas.",
+      "impact": "Cobertura de programas paralelos de Venecia parcial."
+    },
+    {
+      "id": "fa-ids",
+      "question": "No se comprobaron fichas FilmAffinity España.",
+      "impact": "IDs y títulos FA a null."
+    }
+  ],
+  "unpublishedIdentityEvidence": [
+    {
+      "file": "bafta_cine_1957.json",
+      "reason": "Fila residual sin candidaturas tras cotejo de categorías BAFTA; no se publica como participación.",
+      "film": {
+        "title": "On Such A Night",
+        "director": "",
+        "aliases": [],
+        "filmAffinityId": null,
+        "filmaffinityTitle": null,
+        "wins": [],
+        "nominations": [],
+        "candidacies": []
+      }
+    },
+    {
+      "file": "bafta_cine_1957.json",
+      "reason": "Fila residual sin candidaturas tras cotejo de categorías BAFTA; no se publica como participación.",
+      "film": {
+        "title": "The Bespoke Overcoat",
+        "director": "",
+        "aliases": [],
+        "filmAffinityId": null,
+        "filmaffinityTitle": null,
+        "wins": [],
+        "nominations": [],
+        "candidacies": []
+      }
+    },
+    {
+      "file": "bafta_cine_1957.json",
+      "reason": "Fila residual sin candidaturas tras cotejo de categorías BAFTA; no se publica como participación.",
+      "film": {
+        "title": "The Brave One",
+        "director": "",
+        "aliases": [],
+        "filmAffinityId": null,
+        "filmaffinityTitle": null,
+        "wins": [],
+        "nominations": [],
+        "candidacies": []
+      }
+    },
+    {
+      "file": "bafta_cine_1957.json",
+      "reason": "Fila residual sin candidaturas tras cotejo de categorías BAFTA; no se publica como participación.",
+      "film": {
+        "title": "The Little Island",
+        "director": "",
+        "aliases": [],
+        "filmAffinityId": null,
+        "filmaffinityTitle": null,
+        "wins": [],
+        "nominations": [],
+        "candidacies": []
+      }
+    }
+  ],
+  "baftaCategoryControl": {
+    "source": "https://www.bafta.org/awards/film/?award-year=1957",
+    "sourceType": "Control calculado desde candidacies del JSON final frente a transcripción indexada del archivo oficial.",
+    "categories": [
+      {
+        "categoryOfficial": "Animated Film",
+        "officialEntries": 7,
+        "transcribedEntries": 7,
+        "status": "coincide",
+        "officialWinners": "Gerald McBoing Boing On Planet Moo",
+        "winnersInFinalJson": [
+          "Gerald McBoing Boing On Planet Moo — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Actor",
+        "officialEntries": 3,
+        "transcribedEntries": 3,
+        "status": "coincide",
+        "officialWinners": "Peter Finch — A Town Like Alice",
+        "winnersInFinalJson": [
+          "A Town Like Alice — Peter Finch"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Actress",
+        "officialEntries": 3,
+        "transcribedEntries": 3,
+        "status": "coincide",
+        "officialWinners": "Virginia McKenna — A Town Like Alice",
+        "winnersInFinalJson": [
+          "A Town Like Alice — Virginia McKenna"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Film",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "Reach For The Sky",
+        "winnersInFinalJson": [
+          "Reach For The Sky — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "British Screenplay",
+        "officialEntries": 9,
+        "transcribedEntries": 9,
+        "status": "coincide",
+        "officialWinners": "The Man Who Never Was — Nigel Balchin",
+        "winnersInFinalJson": [
+          "The Man Who Never Was — Nigel Balchin"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "Documentary",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "On The Bowery",
+        "winnersInFinalJson": [
+          "On The Bowery — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "Film From Any Source",
+        "officialEntries": 19,
+        "transcribedEntries": 19,
+        "status": "coincide",
+        "officialWinners": "Gervaise",
+        "winnersInFinalJson": [
+          "Gervaise — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "Foreign Actor",
+        "officialEntries": 8,
+        "transcribedEntries": 8,
+        "status": "coincide",
+        "officialWinners": "François Périer — Gervaise",
+        "winnersInFinalJson": [
+          "Gervaise — François Périer"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "Foreign Actress",
+        "officialEntries": 10,
+        "transcribedEntries": 10,
+        "status": "coincide",
+        "officialWinners": "Anna Magnani — The Rose Tattoo",
+        "winnersInFinalJson": [
+          "The Rose Tattoo — Anna Magnani"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "Most Promising Newcomer To Film",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "Eli Wallach — Baby Doll",
+        "winnersInFinalJson": [
+          "Baby Doll — Eli Wallach"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "Special Award",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "The Red Balloon (Le Ballon Rouge)",
+        "winnersInFinalJson": [
+          "The Red Balloon (Le Ballon Rouge) — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      },
+      {
+        "categoryOfficial": "United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter",
+        "officialEntries": 5,
+        "transcribedEntries": 5,
+        "status": "coincide",
+        "officialWinners": "Race For Life",
+        "winnersInFinalJson": [
+          "Race For Life — (sin crédito personal)"
+        ],
+        "evidenceFile": "extracciones/bafta_1957_official_indexed_control_transcription.json"
+      }
+    ],
+    "allCountsMatch": true
+  }
+}
