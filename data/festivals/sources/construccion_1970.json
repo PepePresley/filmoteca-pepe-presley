@@ -1,0 +1,357 @@
+{
+  "year": 1970,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Paquete de 1970 integrado en modo rápido; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1970_para_Sol.zip",
+    "sha256": "5a7918351ce6ed55f89273e490a1113e2c12f7792bf9b0768c407e1903161913"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 25,
+      "declaredOwned": 20,
+      "withFA": 0,
+      "candidacyAppearances": 9
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 8,
+      "declaredOwned": 6,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 12,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección programada · competición interrumpida",
+      "films": 27,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 17,
+      "declaredOwned": 12,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · largometrajes",
+      "films": 2,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Selección y palmarés · cortometrajes",
+      "films": 17,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "films": 16,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Proyecciones especiales · edición no competitiva",
+      "films": 3,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 42.ª edición",
+      "films": 45,
+      "declaredOwned": 30,
+      "withFA": 0,
+      "candidacyAppearances": 103
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1969",
+      "films": 32,
+      "declaredOwned": 19,
+      "withFA": 0,
+      "candidacyAppearances": 77
+    }
+  ],
+  "sources": {
+    "year": 1970,
+    "sources": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/1970/T",
+        "type": "official Academy archive",
+        "extraction": "extracciones/oscars_1970_academy_transcription.json",
+        "captureType": "structured transcription from rendered archive; not an original screenshot"
+      },
+      {
+        "url": "https://www.bafta.org/awards/film/?award-year=1970",
+        "type": "official BAFTA Film archive",
+        "extraction": "extracciones/bafta_film_1970_transcription.json",
+        "captureType": "structured transcription from search-index rendering; not direct-page capture"
+      },
+      {
+        "url": "https://www.festival-cannes.com/en/retrospective/1970/selection/",
+        "type": "official Festival de Cannes retrospective archive",
+        "extraction": "extracciones/cannes_1970_selection_transcription.json",
+        "captureType": "structured transcription of rendered page; not screenshot"
+      },
+      {
+        "url": "https://www.festival-cannes.com/en/retrospective/1970/awards/",
+        "type": "official Festival de Cannes retrospective archive",
+        "extraction": "extracciones/cannes_1970_awards_transcription.json",
+        "captureType": "structured transcription of rendered page; not screenshot"
+      },
+      {
+        "url": "https://www.sansebastianfestival.com/1970/secciones_y_peliculas/8/es",
+        "type": "official San Sebastián archive",
+        "extraction": "extracciones/sansebastian_1970_archive_transcription.json",
+        "captureType": "structured transcription of rendered page; not screenshot"
+      },
+      {
+        "url": "https://www.sansebastianfestival.com/1970/premios_y_jurados/premios/1/63/es",
+        "type": "official San Sebastián archive",
+        "extraction": "extracciones/sansebastian_1970_awards_transcription.json",
+        "captureType": "structured transcription of rendered page; not screenshot"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/20th_Berlin_International_Film_Festival",
+        "type": "secondary reference, cross-checked with official Berlinale programme note at https://www.berlinale.de/en/2020/programme/202012781.html",
+        "extraction": "extracciones/berlinale_1970_secondary_transcription.json",
+        "captureType": "structured transcription; not screenshot"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/31st_Venice_International_Film_Festival",
+        "type": "secondary selection list; historical format verified from official La Biennale history",
+        "extraction": "extracciones/venice_1970_secondary_transcription.json",
+        "captureType": "structured transcription; not screenshot"
+      },
+      {
+        "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1970",
+        "type": "FilmAffinity España award edition",
+        "extraction": "extracciones/filmaffinity_oscar_1970_index.json",
+        "captureType": "search-rendered extraction; not direct page capture"
+      }
+    ],
+    "limitations": [
+      "FA España is prioritized but individual movie identities/IDs have not been matched; all IDs remain null pending validation.",
+      "BAFTA categories were taken from search-index rendering of the official archive; Fellowship not verified.",
+      "Berlinale scheduled competition is from secondary archive listing; official Berlinale note corroborates controversy/interruption/no prizes but not complete title list.",
+      "Venice main selection is secondary and remains partial pending ASAC verification.",
+      "San Sebastián archive reports 71 total films; this package covers main feature and short program plus out-of-competition labels, not all retrospectives/informative/children sections."
+    ]
+  },
+  "coverage": {
+    "integratedFamilies": [
+      "Cannes",
+      "Berlín",
+      "San Sebastián",
+      "Venecia",
+      "Oscar",
+      "BAFTA"
+    ],
+    "partialBlocks": [
+      "Berlín · confirmación de proyecciones efectivas antes de interrupción",
+      "Venecia · cotejo de programa con ASAC",
+      "San Sebastián · otros programas del archivo de 71 registros",
+      "Identidades FA no verificadas"
+    ],
+    "notApplicable": [
+      "Un Certain Regard: todavía no existía.",
+      "Goya: todavía no existía."
+    ]
+  },
+  "notes": [
+    "Cruce en bloque contra maestros aprobados 1968–1971, con evidencia por hoja y fila física. Títulos FA cuando constan o títulos ES del maestro; identidades sin ID no se presentan como verificadas en FilmAffinity. Sin investigación individual de todas las ausencias ni imágenes inventadas.",
+    "Berlín: selección programada de una competición interrumpida, sin premios. No se afirma que todas las películas llegaran a proyectarse.",
+    "Venecia: edición no competitiva; selección principal y especiales de fuente secundaria, pendientes de cotejo ASAC. No se publica un palmarés competitivo.",
+    "San Sebastián: competición oficial, cortometrajes y fuera de concurso explícito; otros programas de sus 71 registros pendientes, sin declarar completa la cobertura.",
+    "BAFTA Film exclusivamente. Se añade la victoria conjunta de Dustin Hoffman por John and Mary, omitida en el paquete, conservando la asociación con Midnight Cowboy. Fuente oficial: https://www.bafta.org/awards/film/?award-year=1970 . Siete candidaturas conjuntas entre películas conservadas.",
+    "Créditos de equipo conservados sin multiplicar la candidatura; premios personales separados en el paquete, no convertidos en películas.",
+    "Una regeneración limitada a 1970. Años anteriores, maestros, catálogo e interfaces preservados."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1970|Mejor actor|Dustin Hoffman",
+      "category": "Mejor actor",
+      "person": "Dustin Hoffman",
+      "winner": true,
+      "films": [
+        "Cowboy de medianoche",
+        "John y Mary"
+      ]
+    },
+    {
+      "id": "BAFTA1970-cinematography-billy-williams",
+      "category": "Mejor fotografía",
+      "person": "Billy Williams",
+      "winner": false,
+      "films": [
+        "Mujeres enamoradas",
+        "El mago"
+      ]
+    },
+    {
+      "id": "BAFTA1970-soundtrack-terry-rawlings",
+      "category": "Mejor sonido",
+      "person": "Terry Rawlings",
+      "winner": false,
+      "films": [
+        "Mujeres enamoradas",
+        "Isadora"
+      ]
+    },
+    {
+      "id": "BAFTA1970-actor-walter-matthau",
+      "category": "Mejor actor",
+      "person": "Walter Matthau",
+      "winner": false,
+      "films": [
+        "The Secret Life of an American Wife",
+        "Hello, Dolly!"
+      ]
+    },
+    {
+      "id": "BAFTA1970-actress-mia-farrow",
+      "category": "Mejor actriz",
+      "person": "Mia Farrow",
+      "winner": false,
+      "films": [
+        "Ceremonia secreta",
+        "La semilla del diablo",
+        "John y Mary"
+      ]
+    },
+    {
+      "id": "BAFTA1970-actress-barbra-streisand",
+      "category": "Mejor actriz",
+      "person": "Barbra Streisand",
+      "winner": false,
+      "films": [
+        "Una chica divertida (Funny Girl)",
+        "Hello, Dolly!"
+      ]
+    },
+    {
+      "id": "BAFTA1970-cinematography-harry-stradling",
+      "category": "Mejor fotografía",
+      "person": "Harry Stradling",
+      "winner": false,
+      "films": [
+        "Una chica divertida (Funny Girl)",
+        "Hello, Dolly!"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1970,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Oscar",
+        "status": "parcial",
+        "coverage": "22 competitive film categories transcribed from Academy archive; personal Cary Grant Honorary Award and George Jessel Jean Hersholt award separated.",
+        "remaining": "Verify against FilmAffinity Spain all registered titles and IDs; check the treatment of award teams and title variants."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "parcial",
+        "coverage": "17 Film categories from official BAFTA archive search rendering, with candidates and winners. Television excluded.",
+        "remaining": "Verify every title/ID through FilmAffinity Spain; establish 1970 Fellowship recipient and confirm if this year has personal awards beyond listed Film categories."
+      },
+      {
+        "festival": "Cannes",
+        "status": "parcial",
+        "coverage": "25 feature competition, 8 out of competition, 12 short competition from official selection archive; displayed awards associated.",
+        "remaining": "FilmAffinity identity/ID check; review official awards transcription against all retrospective archive awards and aliases."
+      },
+      {
+        "festival": "Berlín",
+        "status": "parcial",
+        "coverage": "27 scheduled competition entries from secondary year page; interruption and absence of prizes corroborated by official Berlinale feature.",
+        "remaining": "Find or export complete official 1970 archive programme; confirm which entries screened before termination and section placement."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "parcial",
+        "coverage": "17 official-section features, 2 explicit out-of-competition features and 17 shorts transcribed; awards assigned from official awards page.",
+        "remaining": "Archive count is 71; additional informational/retrospective/children blocks omitted. One short record Linea della ricerca has a source database error and director unknown. Verify FilmAffinity identities."
+      },
+      {
+        "festival": "Venecia",
+        "status": "parcial",
+        "coverage": "Non-competitive format confirmed officially; 16 main selection and 3 special screenings transcribed from a secondary ASAC-citing page.",
+        "remaining": "Reconstruct/verify full selection directly against ASAC archive. No competitive awards inferred; FilmAffinity identities pending."
+      }
+    ]
+  },
+  "packageDoubts": {
+    "year": 1970,
+    "items": [
+      {
+        "id": "FA-identities",
+        "question": "The festival and award records have null FilmAffinity IDs because individual Spanish FilmAffinity cards were not safely verified.",
+        "impact": "Titles currently reflect source/archive spellings and may not match the exact FA registered title.",
+        "needed": "Batch-match source titles/directors to FilmAffinity Spain and record IDs, especially award records."
+      },
+      {
+        "id": "berlinale-screening-status",
+        "question": "Which listed 1970 Berlinale competition films were actually screened before the competition was cancelled?",
+        "impact": "27 entries represent the scheduled competition; no assertion is made about completed screenings.",
+        "needed": "Official Berlinale programme/archive or contemporary catalogue."
+      },
+      {
+        "id": "ssiff-short-linea",
+        "question": "The official San Sebastián archive has a broken database row for “Linea della ricerca”. What is its director and full title, if recoverable?",
+        "impact": "Director is null; film remains in the short competition list.",
+        "needed": "A functioning official film record or 1970 catalogue."
+      },
+      {
+        "id": "venice-list",
+        "question": "Can the 16 main selection films and three special screenings be confirmed against the official ASAC entry for the 31st Mostra?",
+        "impact": "Current selection transcription is secondary; non-competitive status itself is officially established.",
+        "needed": "ASAC official 1970 programme export/catalogue."
+      },
+      {
+        "id": "bafta-fellowship",
+        "question": "Was a BAFTA Fellowship or personal award presented in 1970, and who received it?",
+        "impact": "BAFTA Fellowship is not included in Film candidacies; recipient currently unverified.",
+        "needed": "Official BAFTA Fellowship archive for 1970."
+      },
+      {
+        "id": "ssiff-coverage",
+        "question": "Which of the other 71 archive films were Informativa, retrospectives, children’s or additional programs?",
+        "impact": "The package intentionally focuses on the main competitive and explicit out-of-competition blocks.",
+        "needed": "Decide whether those secondary blocks are required for import."
+      }
+    ]
+  },
+  "veniceStatus": {
+    "festival": "Venecia",
+    "year": 1970,
+    "section": "Estado histórico",
+    "films": []
+  }
+}
