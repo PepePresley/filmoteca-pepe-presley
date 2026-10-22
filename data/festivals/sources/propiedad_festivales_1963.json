@@ -1,0 +1,3030 @@
+{
+  "scope": "Propiedad acreditada del bloque1963",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Apple",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Four Line Conics",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Travelling Tune",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Lawrence de Arabia",
+      "director": "David Lean",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Lawrence de Arabia",
+        "originalTitle": "Lawrence of Arabia",
+        "director": "David Lean",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Esa clase de amor",
+      "director": "John Schlesinger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 119,
+        "titleES": "Esa clase de amor",
+        "originalTitle": "A Kind of Loving",
+        "director": "John Schlesinger",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Lolita",
+      "director": "Stanley Kubrick",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Lolita",
+        "originalTitle": "Lolita",
+        "director": "Stanley Kubrick",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Escándalo en las aulas",
+      "director": "Peter Glenville",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 157,
+        "titleES": "Escándalo en las aulas",
+        "originalTitle": null,
+        "director": "Peter Glenville",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Juego para dos",
+      "director": "Sidney Gilliat",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 286,
+        "titleES": "Juego para dos",
+        "originalTitle": "Only Two Can Play",
+        "director": "Sidney Gilliat",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "El tribunal de la comedia",
+      "director": "James Hill",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 284,
+        "titleES": "El tribunal de la comedia",
+        "originalTitle": "The Dock Brief",
+        "director": "James Hill",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "La habitación en forma de L",
+      "director": "Bryan Forbes",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 160,
+        "titleES": "La habitación en forma de L",
+        "originalTitle": "The L-Shaped Room",
+        "director": "Bryan Forbes",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Wild And The Willing",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Vida para Ruth",
+      "director": "Basil Dearden",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 109,
+        "titleES": "Vida para Ruth",
+        "originalTitle": "Life for Ruth",
+        "director": "Basil Dearden",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "La fragata infernal",
+      "director": "Peter Ustinov",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 50,
+        "titleES": "La fragata infernal",
+        "originalTitle": "Billy Budd",
+        "director": "Peter Ustinov",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Tiara Tahiti",
+      "director": "Ted Kotcheff",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 428,
+        "titleES": "Tiara Tahiti",
+        "originalTitle": "Tiara Tahiti",
+        "director": "Ted Kotcheff",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "El mayor mujeriego",
+      "director": "John Guillermin",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 386,
+        "titleES": "El mayor mujeriego",
+        "originalTitle": "Waltz of the Toreadors",
+        "director": "John Guillermin",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "El cabo atrapado",
+      "director": "Jean Renoir",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 113,
+        "titleES": "El cabo atrapado",
+        "originalTitle": "Le Caporal épinglé",
+        "director": "Jean Renoir",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "West Side Story",
+      "director": "Robert Wise, Jerome Robbins",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1961.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "West Side Story",
+        "originalTitle": "West Side Story",
+        "director": "Robert Wise, Jerome Robbins",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Una larga ausencia",
+      "director": "Henri Colpi",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1961.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 123,
+        "titleES": "Una larga ausencia",
+        "originalTitle": "Une aussi longue absence",
+        "director": "Henri Colpi",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Lola",
+      "director": "Jacques Demy",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1961.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 48,
+        "titleES": "Lola",
+        "originalTitle": "Lola",
+        "director": "Jacques Demy",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "El mensajero del miedo",
+      "director": "John Frankenheimer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 32,
+        "titleES": "El mensajero del miedo",
+        "originalTitle": "The Manchurian Candidate",
+        "director": "John Frankenheimer",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "El milagro de Ana Sullivan",
+      "director": "Arthur Penn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "El milagro de Ana Sullivan",
+        "originalTitle": "The Miracle Worker",
+        "director": "Arthur Penn",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Fedra",
+      "director": "Jules Dassin",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 158,
+        "titleES": "Fedra",
+        "originalTitle": "Phaedra",
+        "director": "Jules Dassin",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "No matarás",
+      "director": "Claude Autant-Lara",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1961.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 361,
+        "titleES": "No matarás",
+        "originalTitle": null,
+        "director": "Claude Autant-Lara",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Como en un espejo",
+      "director": "Ingmar Bergman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1961.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 24,
+        "titleES": "Como en un espejo",
+        "originalTitle": "Såsom i en spegel",
+        "director": "Ingmar Bergman",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Island",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Jules y Jim",
+      "director": "François Truffaut",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 12,
+        "titleES": "Jules y Jim",
+        "originalTitle": "Jules et Jim",
+        "director": "François Truffaut",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Lady With The Little Dog",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Last Year At Marienbad",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Birdman Of Alcatraz",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "The Long Absence",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Leon Morin, Priest",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Accattone, un muchacho de Roma",
+      "director": "Pier Paolo Pasolini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1961.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 29,
+        "titleES": "Accattone, un muchacho de Roma",
+        "originalTitle": "Accattone",
+        "director": "Pier Paolo Pasolini",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Los valientes andan solos",
+      "director": "David Miller",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 40,
+        "titleES": "Los valientes andan solos",
+        "originalTitle": "Lonely are the Brave",
+        "director": "David Miller",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Luz en la ciudad",
+      "director": "Guy Green",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 248,
+        "titleES": "Luz en la ciudad",
+        "originalTitle": "Light in the Piazza",
+        "director": "Guy Green",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Advise And Consent",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Dulce pájaro de juventud",
+      "director": "Richard Brooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Dulce pájaro de juventud",
+        "originalTitle": "Sweet Bird of Youth",
+        "director": "Richard Brooks",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Splendour In The Grass",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "La soledad del corredor de fondo",
+      "director": "Tony Richardson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 26,
+        "titleES": "La soledad del corredor de fondo",
+        "originalTitle": "The Loneliness of the Long Distance Runner",
+        "director": "Tony Richardson",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Live Now, Pay Later",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Guns In The Afternoon",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "El incidente del puente del Búho",
+      "director": "Robert Enrico",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 105,
+        "titleES": "El incidente del puente del Búho",
+        "originalTitle": "La Rivière du hibou",
+        "director": "Robert Enrico",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Lonely Boy",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Pan",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Zoo",
+      "director": "Bert Haanstra",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 153,
+        "titleES": "Zoo",
+        "originalTitle": "Zoo",
+        "director": "Bert Haanstra",
+        "year": 1961
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "What's The Time?",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Proa al cielo",
+      "director": "Lewis Gilbert",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1956.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 178,
+        "titleES": "Proa al cielo",
+        "originalTitle": "Reach for the Sky",
+        "director": "Lewis Gilbert",
+        "year": 1956
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "title": "Food Or Famine",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Bushido, Samurai Saga",
+      "director": "Tadashi Imai",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Caretaker",
+      "director": "Clive Donner",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 196,
+        "titleES": "The Caretaker",
+        "originalTitle": "The Caretaker",
+        "director": "Clive Donner",
+        "year": 1964
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Cellar",
+      "director": "Natan Gross",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Country Doctor",
+      "director": "Jorge Brum do Canto",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Chased by the Dogs",
+      "director": "Kamal El Sheikh",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Freud, pasión secreta",
+      "director": "John Huston",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 49,
+        "titleES": "Freud, pasión secreta",
+        "originalTitle": "Freud: The Secret Passion",
+        "director": "John Huston",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Un drôle de paroissien",
+      "director": "Jean-Pierre Mocky",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 327,
+        "titleES": "Un drôle de paroissien",
+        "originalTitle": "Un drôle de paroissien",
+        "director": "Jean-Pierre Mocky",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "L'Immortelle",
+      "director": "Alain Robbe-Grillet",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 119,
+        "titleES": "L'Immortelle",
+        "originalTitle": "L'Immortelle",
+        "director": "Alain Robbe-Grillet",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Los inocentes",
+      "director": "Juan Antonio Bardem",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 160,
+        "titleES": "Los inocentes",
+        "originalTitle": "Los inocentes",
+        "director": "Juan Antonio Bardem",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Los lirios del valle",
+      "director": "Ralph Nelson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 54,
+        "titleES": "Los lirios del valle",
+        "originalTitle": "Lilies of the Field",
+        "director": "Ralph Nelson",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Life and Death in Flanders",
+      "director": "Emile Degelin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Man and Beast",
+      "director": "Edwin Zbonek",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Memorial Gate for Virtuous Women",
+      "director": "Shin Sang-ok",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Mistress",
+      "director": "Vilgot Sjöman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "The Reunion",
+      "director": "Damiano Damiani",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Sahib Bibi Aur Ghulam",
+      "director": "Abrar Alvi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Stop Train 349",
+      "director": "Rolf Hädrich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "El pretendiente",
+      "director": "Pierre Étaix",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 118,
+        "titleES": "El pretendiente",
+        "originalTitle": "Le soupirant",
+        "director": "Pierre Étaix",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "La terraza",
+      "director": "Leopoldo Torre Nilsson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 216,
+        "titleES": "La terraza",
+        "originalTitle": "La terraza",
+        "director": "Leopoldo Torre Nilsson",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "To Bed or Not to Bed",
+      "director": "Gian Luigi Polidoro",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Yksityisalue",
+      "director": "Maunu Kurkvaara",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Young Aphrodites",
+      "director": "Nikos Koundouros",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Bowspelement",
+      "director": "Charles Huguenot van der Linden",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Flaming Poppies",
+      "director": "Hushang Shafti",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Garrincha - Alegría del Pueblo",
+      "director": "Joaquim Pedro de Andrade",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 446,
+        "titleES": "Garrincha - Alegría del Pueblo",
+        "originalTitle": "Garrincha, Alegria do Povo",
+        "director": "Joaquim Pedro de Andrade",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "River of Ocean",
+      "director": "Peter Baylis",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "The Home-Made Car",
+      "director": "James Hill",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "Merci, Monsieur Schmitz",
+      "director": "Alain Champeaux and Pierre Vetrine",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "The Marketplace",
+      "director": "Errko Kivikoski",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "title": "You Must Choose Life",
+      "director": "Erwin Leiser",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "A FLEUR D’EAU",
+      "director": "Alex Seiler",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "BOUKET ZVEZDI",
+      "director": "Radka Batchvarova",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "CITIZENS OF TOMORROW",
+      "director": "Jamie Uys",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "DAS GRABMAL DES KAISERS",
+      "director": "Istvan V. Szots",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "DI DOMENICA",
+      "director": "Luigi Bazzoni",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "GEEL",
+      "director": "Costia De Renesse",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "GESCHWINDIGKEIT",
+      "director": "Edgar Reitz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "IMAGES DU CIEL – ÉGYPTE O ÉGYPTE",
+      "director": "Jacques Brissot",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LA FERRIERA ABBANDONATA",
+      "director": "Aglauco Casadio",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LE HARICOT",
+      "director": "Edmond Séchan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "MOJ STAN",
+      "director": "Zvonimir Berkovic",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "NAKYMATON KASI",
+      "director": "Veronica Leo",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "OSLO",
+      "director": "Jørgen Roos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "PLAYA INSOLITA",
+      "director": "Javier Aguirre",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "SOUS LE SIGNE DE NEPTUNE",
+      "director": "A.F. Sulk",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "TARJETAS POSTALES",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "THE CRITIC",
+      "director": "Ernest Pintoff",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "THE KING’S BREAKFAST",
+      "director": "Wendy Toye",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "THE RIDE",
+      "director": "Gerald Potterton",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "TOI",
+      "director": "István Szabó",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "UN PRINCE BELGE DE L’EUROPE, CHARLES JOSEPH DE LIGNE",
+      "director": "Jacques Kupissonoff",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "ZEILEN",
+      "director": "Hattum Hoving",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "ZELEZNICARI",
+      "director": "Evald Schorm",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Als twee druppels water",
+      "director": "Fons Rademakers",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 372,
+        "titleES": "Als twee druppels water",
+        "originalTitle": "Als twee druppels water",
+        "director": "Fons Rademakers",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "ALVORADA – AUFBRUCH IN BRASILIEN",
+      "director": "Hugo Niebeling",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El gato de Cassandra",
+      "director": "Vojtech Jasný",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 150,
+        "titleES": "El gato de Cassandra",
+        "originalTitle": "Až přijde kocour",
+        "director": "Vojtěch Jasný",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "La muerte juega a carambolas",
+      "director": "Marcel Bluwal",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 360,
+        "titleES": "La muerte juega a carambolas",
+        "originalTitle": null,
+        "director": "Marcel Bluwal",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "CODINE",
+      "director": "Henri Colpi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El buen amor",
+      "director": "Francisco Regueiro",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 75,
+        "titleES": "El buen amor",
+        "originalTitle": "El buen amor",
+        "director": "Francisco Regueiro",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El otro Cristóbal",
+      "director": "Armand Gatti",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 501,
+        "titleES": "El otro Cristóbal",
+        "originalTitle": "El otro Cristóbal",
+        "director": "Armand Gatti",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "I fidanzati",
+      "director": "Ermanno Olmi",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 99,
+        "titleES": "I fidanzati",
+        "originalTitle": "I fidanzati",
+        "director": "Ermanno Olmi",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El gatopardo",
+      "director": "Luchino Visconti",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "El gatopardo",
+        "originalTitle": "Il gattopardo",
+        "director": "Luchino Visconti",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "JAK BYC KOCHANA",
+      "director": "Wojciech Jerzy Has",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "KERTES HAZAK UTCAJA",
+      "director": "Tamás Fejér",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "L’APE REGINA",
+      "director": "Marco Ferreri",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "La Cage",
+      "director": "Robert Darène",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 359,
+        "titleES": "La Cage",
+        "originalTitle": "La Cage",
+        "director": "Robert Darène",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "LA REINE DIABOLIQUE",
+      "director": "Li Han-hsiang",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "LE RAT D’AMÉRIQUE",
+      "director": "Jean-Gabriel Albicocco",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "LES ABYSSES",
+      "director": "Nico Papatakis",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El señor de las moscas",
+      "director": "Peter Brook",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 24,
+        "titleES": "El señor de las moscas",
+        "originalTitle": "Lord of the Flies",
+        "director": "Peter Brook",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Los venerables todos",
+      "director": "Manuel Antín",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 187,
+        "titleES": "Los venerables todos",
+        "originalTitle": "Los venerables todos",
+        "director": "Manuel Antín",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "OPTIMISTITCHESKAIA TRAGUEDIA",
+      "director": "Samson Samsonov",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "OURANOS",
+      "director": "Takis Kanellopoulos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "POUR LA SUITE DU MONDE",
+      "director": "Michel Brault and Pierre Perrault",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "SEPPUKU",
+      "director": "Masaki Kobayashi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El ingenuo salvaje",
+      "director": "Lindsay Anderson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 53,
+        "titleES": "El ingenuo salvaje",
+        "originalTitle": "This Sporting Life",
+        "director": "Lindsay Anderson",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Matar a un ruiseñor",
+      "director": "Robert Mulligan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "Matar a un ruiseñor",
+        "originalTitle": "To Kill a Mockingbird",
+        "director": "Robert Mulligan",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "TUTUNE",
+      "director": "Nicolas Korabov",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "¿Qué fue de Baby Jane?",
+      "director": "Robert Aldrich",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "¿Qué fue de Baby Jane?",
+        "originalTitle": "What Ever Happened to Baby Jane?",
+        "director": "Robert Aldrich",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Fellini, ocho y medio",
+      "director": "Federico Fellini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Fellini, ocho y medio",
+        "originalTitle": "8½",
+        "director": "Federico Fellini",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Los pájaros",
+      "director": "Alfred Hitchcock",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Los pájaros",
+        "originalTitle": "The Birds",
+        "director": "Alfred Hitchcock",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Matar a un ruiseñor",
+      "director": "Robert Mulligan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "Matar a un ruiseñor",
+        "originalTitle": "To Kill a Mockingbird",
+        "director": "Robert Mulligan",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "El hombre de Alcatraz",
+      "director": "John Frankenheimer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 18,
+        "titleES": "El hombre de Alcatraz",
+        "originalTitle": "Birdman of Alcatraz",
+        "director": "John Frankenheimer",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Días de vino y rosas",
+      "director": "Blake Edwards",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Días de vino y rosas",
+        "originalTitle": "Days of Wine and Roses",
+        "director": "Blake Edwards",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Divorce--Italian Style",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Lawrence de Arabia",
+      "director": "David Lean",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Lawrence de Arabia",
+        "originalTitle": "Lawrence of Arabia",
+        "director": "David Lean",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Dulce pájaro de juventud",
+      "director": "Richard Brooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Dulce pájaro de juventud",
+        "originalTitle": "Sweet Bird of Youth",
+        "director": "Richard Brooks",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "¿Qué fue de Baby Jane?",
+      "director": "Robert Aldrich",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "¿Qué fue de Baby Jane?",
+        "originalTitle": "What Ever Happened to Baby Jane?",
+        "director": "Robert Aldrich",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "La fragata infernal",
+      "director": "Peter Ustinov",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 50,
+        "titleES": "La fragata infernal",
+        "originalTitle": "Billy Budd",
+        "director": "Peter Ustinov",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "El milagro de Ana Sullivan",
+      "director": "Arthur Penn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "El milagro de Ana Sullivan",
+        "originalTitle": "The Miracle Worker",
+        "director": "Arthur Penn",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Larga jornada hacia la noche",
+      "director": "Sidney Lumet",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 71,
+        "titleES": "Larga jornada hacia la noche",
+        "originalTitle": "Long Day's Journey Into Night",
+        "director": "Sidney Lumet",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "El mensajero del miedo",
+      "director": "John Frankenheimer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 32,
+        "titleES": "El mensajero del miedo",
+        "originalTitle": "The Manchurian Candidate",
+        "director": "John Frankenheimer",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "El día más largo",
+      "director": "Ken Annakin, Bernhard Wicki, Andrew Marton",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "El día más largo",
+        "originalTitle": "The Longest Day",
+        "director": "Ken Annakin, Bernhard Wicki, Andrew Marton",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Reajuste matrimonial",
+      "director": "George Roy Hill",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 295,
+        "titleES": "Reajuste matrimonial",
+        "originalTitle": "Period of Adjustment",
+        "director": "George Roy Hill",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Aventura en Roma",
+      "director": "Melville Shavelson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 371,
+        "titleES": "Aventura en Roma",
+        "originalTitle": "The Pigeon That Took Rome",
+        "director": "Melville Shavelson",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Meredith Willson's The Music Man",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Rebelión a bordo",
+      "director": "Lewis Milestone",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "Rebelión a bordo",
+        "originalTitle": "Mutiny on the Bounty",
+        "director": "Lewis Milestone",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Suave como visón",
+      "director": "Delbert Mann",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 53,
+        "titleES": "Suave como visón",
+        "originalTitle": "That Touch of Mink",
+        "director": "Delbert Mann",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "El maravilloso mundo de los hermanos Grimm",
+      "director": "George Pal, Henry Levin",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 78,
+        "titleES": "El maravilloso mundo de los hermanos Grimm",
+        "originalTitle": "The Wonderful World of the Brothers Grimm",
+        "director": "George Pal, Henry Levin",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Cualquier día en cualquier esquina",
+      "director": "Robert Wise",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 66,
+        "titleES": "Cualquier día en cualquier esquina",
+        "originalTitle": "Two for the Seesaw",
+        "director": "Robert Wise",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "La reina del Vaudeville",
+      "director": "Mervyn LeRoy",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 192,
+        "titleES": "La reina del Vaudeville",
+        "originalTitle": "Gypsy",
+        "director": "Mervyn LeRoy",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Hatari!",
+      "director": "Howard Hawks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 25,
+        "titleES": "Hatari!",
+        "originalTitle": "Hatari!",
+        "director": "Howard Hawks",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "El hombre que mató a Liberty Valance",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "El hombre que mató a Liberty Valance",
+        "originalTitle": "The Man Who Shot Liberty Valance",
+        "director": "John Ford",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Fedra",
+      "director": "Jules Dassin",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 158,
+        "titleES": "Fedra",
+        "originalTitle": "Phaedra",
+        "director": "Jules Dassin",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Los conflictos de papá",
+      "director": "James Neilson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 289,
+        "titleES": "Los conflictos de papá",
+        "originalTitle": "Bon Voyage!",
+        "director": "James Neilson",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Mi dulce geisha",
+      "director": "Jack Cardiff",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 194,
+        "titleES": "Mi dulce geisha",
+        "originalTitle": "My Geisha",
+        "director": "Jack Cardiff",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Elisa",
+      "director": "Frank Perry",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 156,
+        "titleES": "Elisa",
+        "originalTitle": "David and Lisa",
+        "director": "Frank Perry",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Black Fox",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Alvorada (Brazil's Changing Face)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Dylan Thomas",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "The John Glenn Story",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "The Road to the Wall",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Sundays and Cybele",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Electra",
+      "director": "Μιχάλης Κακογιάννης",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 155,
+        "titleES": "Electra",
+        "originalTitle": "Ηλέκτρα",
+        "director": "Μιχάλης Κακογιάννης",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "The Four Days of Naples",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Keeper of Promises (The Given Word)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Tlayucan",
+      "director": "Luis Alcoriza",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 108,
+        "titleES": "Tlayucan",
+        "originalTitle": "Tlayucan",
+        "director": "Luis Alcoriza",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Freud",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Taras Bulba",
+      "director": "J. Lee Thompson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 48,
+        "titleES": "Taras Bulba",
+        "originalTitle": "Taras Bulba",
+        "director": "J. Lee Thompson",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Jumbo, la sensación del circo",
+      "director": "Charles Walters",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 343,
+        "titleES": "Jumbo, la sensación del circo",
+        "originalTitle": "Billy Rose's Jumbo",
+        "director": "Charles Walters",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Gigot",
+      "director": "Gene Kelly",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 267,
+        "titleES": "Gigot",
+        "originalTitle": "Gigot",
+        "director": "Gene Kelly",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Suave es la noche",
+      "director": "Henry King",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 199,
+        "titleES": "Suave es la noche",
+        "originalTitle": "Tender Is the Night",
+        "director": "Henry King",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "La gata negra",
+      "director": "Edward Dmytryk",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 58,
+        "titleES": "La gata negra",
+        "originalTitle": "Walk on the Wild Side",
+        "director": "Edward Dmytryk",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "The Hole",
+      "director": "John Hubley",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 299,
+        "titleES": "The Hole",
+        "originalTitle": "The Hole",
+        "director": "John Hubley",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Icarus Montgolfier Wright",
+      "director": "Osmond Evans",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 340,
+        "titleES": "Icarus Montgolfier Wright",
+        "originalTitle": "Icarus Montgolfier Wright",
+        "director": "Osmond Evans",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Now Hear This",
+      "director": "Chuck Jones",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 249,
+        "titleES": "Now Hear This",
+        "originalTitle": "Now Hear This",
+        "director": "Chuck Jones",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Self Defense... for Cowards",
+      "director": "Gene Deitch",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 354,
+        "titleES": "Self Defense... for Cowards",
+        "originalTitle": "Self Defense... for Cowards",
+        "director": "Gene Deitch",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Symposium on Popular Songs",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Heureux anniversaire",
+      "director": "Pierre Étaix, Jean-Claude Carrière",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 179,
+        "titleES": "Heureux anniversaire",
+        "originalTitle": "Heureux anniversaire",
+        "director": "Pierre Étaix, Jean-Claude Carrière",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Big City Blues",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "The Cadillac",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "The Cliff Dwellers",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Pan",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Lolita",
+      "director": "Stanley Kubrick",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Lolita",
+        "originalTitle": "Lolita",
+        "director": "Stanley Kubrick",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Last Year at Marienbad",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "title": "Through a Glass Darkly",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Bratilavskite gobleni",
+      "director": "Nikola Minchev",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Chlapi z Gaderskej doliny",
+      "director": "Ladislav Kudelka",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Dixie Paradis",
+      "director": "Gordon Hitchens",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Grabado argentino",
+      "director": "Simón Feldman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "La chanson du jardinier fou",
+      "director": "Jacques Espagne and François Lecat",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "La contrebasse",
+      "director": "Maurice Fasquel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "La suerte",
+      "director": "Mario Camus",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 551,
+        "titleES": "La suerte",
+        "originalTitle": "La suerte",
+        "director": "Mario Camus",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Paul-Émile Borduas: 1905–1960",
+      "director": "Jacques Godbout",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Plakate, Parolen, Signale",
+      "director": "Haro Senft",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Primavara obisnuita",
+      "director": "Dumitru Done and Sergiu Nicolaescu",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Rapsodia en Bogotá",
+      "director": "José María Arzuaga",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 194,
+        "titleES": "Rapsodia en Bogotá",
+        "originalTitle": "Rapsodia en Bogotá",
+        "director": "José María Arzuaga",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Rodeo du feu",
+      "director": "Philippe Brunet",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Schwarze schwester / New Orleans",
+      "director": "Karl Schedereit",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Seguir andando",
+      "director": "Fernando Ezequiel Solanas",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Tiempo abierto",
+      "director": "Javier Aguirre",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Bestemming toekomst",
+      "director": "Jan Schefer",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Camino Real. El Fray Junipero Serra",
+      "director": "Jaime Prades",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Cualquiera tiempo pasado",
+      "director": "José Luis Pomarón",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Jet",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Le haricot",
+      "director": "Edmond Séchan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Tennis in Wollendung",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Vizcaya cuatro",
+      "director": "Javier Aguirre",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "title": "Zeilen",
+      "director": "Hattum Hoving",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "El tejedor de milagros",
+      "director": "Francisco del Villar",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Le avventure di topo Gigio",
+      "director": "Federico Caldura",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "El día y la hora",
+      "director": "René Clément",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 296,
+        "titleES": "El día y la hora",
+        "originalTitle": "Le Jour et l'heure",
+        "director": "René Clément",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Una storia milanese",
+      "director": "Eriprando Visconti",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "¿Qué fue de Baby Jane?",
+      "director": "Robert Aldrich",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "¿Qué fue de Baby Jane?",
+        "originalTitle": "What Ever Happened to Baby Jane?",
+        "director": "Robert Aldrich",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Otto e mezzo 8-1/2",
+      "director": "Federico Fellini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Au coeur de la vie",
+      "director": "Robert Enrico",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Chronique d'un été (Paris 1960)",
+      "director": "Edgar Morin and Jean Rouch",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Das Feuerschiff",
+      "director": "Ladislao Vajda",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Días de vino y rosas",
+      "director": "Blake Edwards",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Días de vino y rosas",
+        "originalTitle": "Days of Wine and Roses",
+        "director": "Blake Edwards",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Del rosa... al amarillo",
+      "director": "Manuel Summers",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 40,
+        "titleES": "Del rosa... al amarillo",
+        "originalTitle": "Del rosa... al amarillo",
+        "director": "Manuel Summers",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Dime with a Halo",
+      "director": "Boris Sagal",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Sibila",
+      "director": "Serge Bourguignon",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 107,
+        "titleES": "Sibila",
+        "originalTitle": "Cybèle ou les dimanches de ville d'Avray",
+        "director": "Serge Bourguignon",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Los inconstantes",
+      "director": "Rodolfo Kuhn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 408,
+        "titleES": "Los inconstantes",
+        "originalTitle": "Los inconstantes",
+        "director": "Rodolfo Kuhn",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Los viciosos",
+      "director": "Enrique Carreras",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "El poder de la mafia",
+      "director": "Alberto Lattuada",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 83,
+        "titleES": "El poder de la mafia",
+        "originalTitle": "Mafioso",
+        "director": "Alberto Lattuada",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Sono yo wa wasurenai",
+      "director": "Kôzaburô Yoshimura",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "La habitación en forma de L",
+      "director": "Bryan Forbes",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1962.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 160,
+        "titleES": "La habitación en forma de L",
+        "originalTitle": "The L-Shaped Room",
+        "director": "Bryan Forbes",
+        "year": 1962
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Un ratón en la luna",
+      "director": "Richard Lester",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 287,
+        "titleES": "Un ratón en la luna",
+        "originalTitle": "The Mouse on the Moon",
+        "director": "Richard Lester",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Cariño amargo (Pasiones en conflicto)",
+      "director": "George Roy Hill",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 199,
+        "titleES": "Cariño amargo (Pasiones en conflicto)",
+        "originalTitle": "Toys in the Attic",
+        "director": "George Roy Hill",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "title": "The War Game",
+      "director": "Mai Zetterling",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "The Chair",
+      "director": "Robert Drew",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Laugh with Max Linder",
+      "director": "Maud Linder",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Mysteries of Rome",
+      "director": "Gianni Bisiach and Libero Bizzarri",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Pour la suite du monde",
+      "director": "Pierre Perrault, Marcel Carrière and Michel Brault",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Primary",
+      "director": "Richard Leacock",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Rose et Landry",
+      "director": "Pierre Perrault, Marcel Carrière and Michel Brault",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Billy, el embustero",
+      "director": "John Schlesinger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 76,
+        "titleES": "Billy, el embustero",
+        "originalTitle": "Billy Liar",
+        "director": "John Schlesinger",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "The Cool World",
+      "director": "Shirley Clarke",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1964.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 101,
+        "titleES": "The Cool World",
+        "originalTitle": "The Cool World",
+        "director": "Shirley Clarke",
+        "year": 1964
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "El verdugo",
+      "director": "Luis García Berlanga",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "El verdugo",
+        "originalTitle": "El verdugo",
+        "director": "Luis García Berlanga",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "El fuego fatuo",
+      "director": "Louis Malle",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 28,
+        "titleES": "El fuego fatuo",
+        "originalTitle": "Le Feu follet",
+        "director": "Louis Malle",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "The Great Road",
+      "director": "Yuri Ozerov",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Zlaté kapradí",
+      "director": "Jiří Weiss",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 129,
+        "titleES": "Zlaté kapradí",
+        "originalTitle": "Zlaté kapradí",
+        "director": "Jiří Weiss",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Las manos sobre la ciudad",
+      "director": "Francesco Rosi",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 66,
+        "titleES": "Las manos sobre la ciudad",
+        "originalTitle": "Le mani sulla città",
+        "director": "Francesco Rosi",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "High and Low",
+      "director": "Akira Kurosawa",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Hud, el más salvaje entre mil",
+      "director": "Martin Ritt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Hud, el más salvaje entre mil",
+        "originalTitle": "Hud",
+        "director": "Martin Ritt",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Introduction to Life",
+      "director": "Igor Talankin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Pensión a la italiana",
+      "director": "Renato Castellani",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 560,
+        "titleES": "Pensión a la italiana",
+        "originalTitle": null,
+        "director": "Renato Castellani",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Muriel (El tiempo de un retorno)",
+      "director": "Alain Resnais",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 63,
+        "titleES": "Muriel (El tiempo de un retorno)",
+        "originalTitle": "Muriel, ou le Temps d'un retour",
+        "director": "Alain Resnais",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Ningen",
+      "director": "Kaneto Shindô",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Nunca pasa nada",
+      "director": "Juan Antonio Bardem",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 46,
+        "titleES": "Nunca pasa nada",
+        "originalTitle": "Nunca pasa nada",
+        "director": "Juan Antonio Bardem",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Fogosa criatura del planeta Ultra",
+      "director": "Ugo Gregoretti",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 302,
+        "titleES": "Fogosa criatura del planeta Ultra",
+        "originalTitle": "Omicron",
+        "director": "Ugo Gregoretti",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "El sirviente",
+      "director": "Joseph Losey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 18,
+        "titleES": "El sirviente",
+        "originalTitle": "The Servant",
+        "director": "Joseph Losey",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Silence",
+      "director": "Kazimierz Kutz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Sweet and Sour",
+      "director": "Jacques Baratier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "title": "Tom Jones",
+      "director": "Tony Richardson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 32,
+        "titleES": "Tom Jones",
+        "originalTitle": "Tom Jones",
+        "director": "Tony Richardson",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "La belle vie",
+      "director": "Robert Enrico",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "Chi lavora è perduto",
+      "director": "Tinto Brass",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 169,
+        "titleES": "Chi lavora è perduto",
+        "originalTitle": "Chi lavora è perduto",
+        "director": "Tinto Brass",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "El Demonio",
+      "director": "Brunello Rondi",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1963.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 116,
+        "titleES": "El Demonio",
+        "originalTitle": "Il demonio",
+        "director": "Brunello Rondi",
+        "year": 1963
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "Greenwich Village Story",
+      "director": "Jack O'Connell",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "Le Joli Mai",
+      "director": "Chris Marker and Pierre Lhomme",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "A Sentimental Attempt",
+      "director": "Pasquale Festa Campanile and Massimo Franciosa",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "Stories in the Sand",
+      "director": "Riccardo Fellini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "A Sunday in September",
+      "director": "Jörn Donner",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "title": "The Terrorist",
+      "director": "Gianfranco De Bosio",
+      "ownership": "PENDING",
+      "reference": null
+    }
+  ]
+}

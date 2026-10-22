@@ -1,0 +1,325 @@
+{
+  "year": 1962,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1962; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1962_para_Sol.zip",
+    "sha256": "61ab9e700340ccd89899fa0d6a952c6cc403eb5b7d7e358ca4f52d2a562fe775"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1961",
+      "films": 31,
+      "declaredOwned": 19,
+      "withFA": 2,
+      "candidacyAppearances": 54
+    },
+    {
+      "festival": "Berlinale",
+      "section": "Selección principal",
+      "films": 29,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Berlinale",
+      "section": "Competición oficial · cortometrajes",
+      "films": 8,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 27,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 35,
+      "declaredOwned": 20,
+      "withFA": 2,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 34.ª edición",
+      "films": 54,
+      "declaredOwned": 34,
+      "withFA": 4,
+      "candidacyAppearances": 119
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 26,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 14,
+      "declaredOwned": 10,
+      "withFA": 1,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 14,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Premios independientes · selección parcial",
+      "films": 6,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    }
+  ],
+  "sources": [
+    {
+      "id": "academy-1962",
+      "title": "The 34th Academy Awards | 1962",
+      "url": "https://www.oscars.org/oscars/ceremonies/1962",
+      "sourceType": "Official Academy archive",
+      "extraction": "extracciones/oscars_1962_academy_transcription.json",
+      "scope": "All 25 competitive film categories transcribed from the official page; personal honours and film-specific special award separated."
+    },
+    {
+      "id": "bafta-1962",
+      "title": "BAFTA Film Awards 1962 results",
+      "url": "https://www.bafta.org/awards/film/?award-year=1962",
+      "sourceType": "Official BAFTA Film archive",
+      "extraction": "extracciones/bafta_film_1962_transcription.json",
+      "scope": "12 Film categories, television excluded."
+    },
+    {
+      "id": "cannes-selection-1962",
+      "title": "Cannes official retrospective 1962 — selection",
+      "url": "https://www.festival-cannes.com/retrospective/1962/selection/",
+      "sourceType": "Official Festival de Cannes archive",
+      "extraction": "extracciones/cannes_1962_official_transcription.json",
+      "scope": "Feature competition, short competition, out-of-competition selection."
+    },
+    {
+      "id": "cannes-palmares-1962",
+      "title": "Cannes official retrospective 1962 — awards",
+      "url": "https://www.festival-cannes.com/retrospective/1962/palmares/",
+      "sourceType": "Official Festival de Cannes archive",
+      "extraction": "extracciones/cannes_1962_official_transcription.json",
+      "scope": "Awards recorded; modern UCR-labelled archive artifacts excluded as anachronistic."
+    },
+    {
+      "id": "berlin-1962-secondary",
+      "title": "12th Berlin International Film Festival",
+      "url": "https://en.wikipedia.org/wiki/12th_Berlin_International_Film_Festival",
+      "sourceType": "Secondary; Wikipedia transcription, official archive cited but not directly extracted",
+      "extraction": "extracciones/berlinale_1962_secondary_transcription.json",
+      "scope": "Main competition, documentary/short competition and awards."
+    },
+    {
+      "id": "sansebastian-films-1962",
+      "title": "San Sebastián 1962 sections and films",
+      "url": "https://www.sansebastianfestival.com/1962/secciones_y_peliculas/8/es",
+      "sourceType": "Official San Sebastián archive transcription",
+      "extraction": "extracciones/sansebastian_1962_official_transcription.json",
+      "scope": "14 feature entries and 26 visible shorts; archive reports 95 total records and some rows fail with SQL errors."
+    },
+    {
+      "id": "sansebastian-awards-1962",
+      "title": "San Sebastián 1962 awards",
+      "url": "https://www.sansebastianfestival.com/1962/awards_and_jury_members/awards/1/55/in",
+      "sourceType": "Official San Sebastián archive transcription",
+      "extraction": "extracciones/sansebastian_1962_official_transcription.json",
+      "scope": "Official FIAPF awards and short film mentions."
+    },
+    {
+      "id": "venice-asac-1962",
+      "title": "23. Mostra Internazionale del Cinema",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1962",
+      "sourceType": "Official ASAC year page; title/date accessible but programme remained loading",
+      "extraction": "extracciones/venezia_1962_asac_secondary_transcription.json",
+      "scope": "Official edition presence confirmed; selection and awards roster transcribed from secondary history."
+    },
+    {
+      "id": "venice-secondary-1962",
+      "title": "23rd Venice International Film Festival",
+      "url": "https://en.wikipedia.org/wiki/23rd_Venice_International_Film_Festival",
+      "sourceType": "Secondary source",
+      "extraction": "extracciones/venezia_1962_asac_secondary_transcription.json",
+      "scope": "Competition roster, one out-of-competition title and official/parallel awards."
+    },
+    {
+      "id": "filmaffinity-identities-1962",
+      "title": "FilmAffinity España — identidades verificadas",
+      "url": [
+        "https://www.filmaffinity.com/es/film858378.html",
+        "https://www.filmaffinity.com/es/film192148.html",
+        "https://www.filmaffinity.com/es/film978617.html",
+        "https://www.filmaffinity.com/es/film687189.html",
+        "https://www.filmaffinity.com/es/film716669.html",
+        "https://www.filmaffinity.com/es/film462819.html",
+        "https://www.filmaffinity.com/es/film557040.html"
+      ],
+      "sourceType": "FilmAffinity España, primary identity reference",
+      "extraction": "extracciones/filmaffinity_identidades_confirmadas_1962.json",
+      "scope": "Siete fichas verificadas inicialmente, más El eclipse; resto null."
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1955–1966, limitados a la ventana temporal del bloque, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1960–1964; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: la cobertura varía por año;1964 incorpora listas ASAC transcritas,1963 selecciones reconstruidas y1962 cotejo parcial;1961–1960 conservan únicamente palmarés. No se consideran programas completos.",
+    "Normalizadas las etiquetas de familia y secciones del paquete; separadas óperas primas, documentales/cortos y fuera de concurso. En San Sebastián, las películas identificadas fuera de concurso se retiran de la lista competitiva y conservan sus premios.",
+    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": {
+    "year": 1962,
+    "overallStatus": "partial",
+    "blocks": [
+      {
+        "file": "bafta_film_1962.json",
+        "status": "complete",
+        "reason": "Transcripción completa de las categorías cinematográficas desde fuente oficial."
+      },
+      {
+        "file": "berlin_competicion_1962.json",
+        "status": "partial",
+        "reason": "Fuente secundaria; no se verificó directamente el programa oficial."
+      },
+      {
+        "file": "berlin_documentary_short_competition_1962.json",
+        "status": "partial",
+        "reason": "Fuente secundaria; no se verificó directamente el programa oficial."
+      },
+      {
+        "file": "cannes_competicion_cortometrajes_1962.json",
+        "status": "complete",
+        "reason": "Roster transcrito desde el archivo oficial del festival."
+      },
+      {
+        "file": "cannes_competicion_largometrajes_1962.json",
+        "status": "complete",
+        "reason": "Roster transcrito desde el archivo oficial del festival."
+      },
+      {
+        "file": "cannes_fuera_de_concurso_1962.json",
+        "status": "complete",
+        "reason": "Roster transcrito desde el archivo oficial del festival."
+      },
+      {
+        "file": "oscar_ceremonia_1962.json",
+        "status": "complete",
+        "reason": "Transcripción completa de las categorías cinematográficas desde fuente oficial."
+      },
+      {
+        "file": "san_sebastian_cortometrajes_1962.json",
+        "status": "partial",
+        "reason": "Archivo oficial informa 95 registros; transcripción solo de las filas visibles/legibles y contiene errores SQL."
+      },
+      {
+        "file": "san_sebastian_fuera_de_concurso_1962.json",
+        "status": "partial",
+        "reason": "Archivo oficial informa 95 registros; transcripción solo de las filas visibles/legibles y contiene errores SQL."
+      },
+      {
+        "file": "san_sebastian_seccion_oficial_1962.json",
+        "status": "partial",
+        "reason": "Archivo oficial informa 95 registros; transcripción solo de las filas visibles/legibles y contiene errores SQL."
+      },
+      {
+        "file": "venecia_competicion_1962.json",
+        "status": "partial",
+        "reason": "ASAC confirma actividad, pero la lista/programa completa no cargó; se usa transcripción secundaria."
+      },
+      {
+        "file": "venecia_fuori_concorso_1962.json",
+        "status": "partial",
+        "reason": "ASAC confirma actividad, pero la lista/programa completa no cargó; se usa transcripción secundaria."
+      },
+      {
+        "file": "venecia_premios_paralelos_1962.json",
+        "status": "partial",
+        "reason": "ASAC confirma actividad, pero la lista/programa completa no cargó; se usa transcripción secundaria."
+      }
+    ],
+    "reason": "Berlín, San Sebastián y Venecia conservan limitaciones de fuente o cobertura."
+  },
+  "packageDoubts": {
+    "year": 1962,
+    "openQuestions": [
+      {
+        "block": "Berlín",
+        "issue": "La selección y premios se basan en transcripción secundaria; el enlace al archivo oficial no se pudo extraer directamente.",
+        "status": "pendiente"
+      },
+      {
+        "block": "San Sebastián",
+        "issue": "El archivo oficial indica 95 películas, pero la transcripción expone solo las filas legibles y muestra errores SQL en otras. Cortometrajes/otros programas incompletos.",
+        "status": "pendiente"
+      },
+      {
+        "block": "San Sebastián — fuera de concurso",
+        "issue": "La película de clausura Un coeur gros comme ça está identificada explícitamente; no se obtuvo una lista completa de otros pases fuera de concurso.",
+        "status": "parcial"
+      },
+      {
+        "block": "Venecia",
+        "issue": "ASAC 1962 estuvo accesible por año, pero su módulo de selección quedó cargando. La selección citada procede de fuente secundaria; los programas paralelos no están completos.",
+        "status": "pendiente"
+      },
+      {
+        "block": "FilmAffinity",
+        "issue": "No se verificaron IDs FilmAffinity de forma sistemática; IDs restantes quedan null.",
+        "status": "pendiente"
+      },
+      {
+        "block": "Cannes palmarès",
+        "issue": "La página retrospectiva actual asocia el rótulo “Un Certain Regard” a entradas de 1962, aunque esa sección no corresponde históricamente a la edición. Esas entradas se excluyeron; revisar palmarès no competitivo si Sol requiere el detalle íntegro.",
+        "status": "documentado"
+      }
+    ]
+  },
+  "unpublishedIdentityEvidence": []
+}

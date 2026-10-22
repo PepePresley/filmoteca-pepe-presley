@@ -1,0 +1,321 @@
+{
+  "year": 1964,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1964; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1964_para_Sol.zip",
+    "sha256": "a9675e58f574bef2bea41d9f9907f9f72b70b76335de9999dd4f7cc76de7a493"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1963",
+      "films": 32,
+      "declaredOwned": 28,
+      "withFA": 0,
+      "candidacyAppearances": 64
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 22,
+      "declaredOwned": 7,
+      "withFA": 1,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 10,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 22,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 25,
+      "declaredOwned": 18,
+      "withFA": 2,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 3,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 36.ª edición",
+      "films": 57,
+      "declaredOwned": 33,
+      "withFA": 0,
+      "candidacyAppearances": 122
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 18,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 3,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 17,
+      "declaredOwned": 10,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 12,
+      "declaredOwned": 8,
+      "withFA": 1,
+      "candidacyAppearances": 6
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscars-1964",
+      "title": "36th Academy Awards official ceremony archive",
+      "url": "https://www.oscars.org/oscars/ceremonies/1964",
+      "sourceType": "official archive transcription",
+      "scope": "Competitive film categories and Thalberg personal award",
+      "note": "Año de ceremonia 1964; ceremony recognizes primarily films released in 1963."
+    },
+    {
+      "id": "bafta-film-1964",
+      "title": "BAFTA Film Awards 1964 official results",
+      "url": "https://www.bafta.org/awards/film/?award-year=1964",
+      "sourceType": "official archive transcription",
+      "scope": "12 Film categories; Television excluded."
+    },
+    {
+      "id": "cannes-1964",
+      "title": "Festival de Cannes retrospective 1964: official selection",
+      "url": "https://www.festival-cannes.com/en/retrospective/1964/",
+      "sourceType": "official archive page transcription",
+      "scope": "25 competition features, 3 out of competition, 22 short-film competition."
+    },
+    {
+      "id": "cannes-awards-1964",
+      "title": "Festival de Cannes retrospective 1964: awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1964/awards/",
+      "sourceType": "official archive page transcription",
+      "scope": "Awards and award recipients; short prizes ex-aequo preserved."
+    },
+    {
+      "id": "berlinale-1964",
+      "title": "14th Berlin International Film Festival",
+      "url": "https://en.wikipedia.org/wiki/14th_Berlin_International_Film_Festival",
+      "sourceType": "secondary source transcription",
+      "scope": "22 main competition features; 10 documentary/short competition titles and awards. Official programme/prizes links in bibliography.",
+      "note": "Official 1964 Berlinale archive page returned HTTP 503 during retrieval; selection remains secondary pending primary-source verification."
+    },
+    {
+      "id": "berlinale-official-1964",
+      "title": "Official Berlinale 1964 archive programme",
+      "url": "https://www.berlinale.de/en/archiv/jahresarchive/1964/02_programm_1964/02_Programm_1964.html",
+      "sourceType": "official archive URL checked",
+      "scope": "Not retrieved; HTTP 503."
+    },
+    {
+      "id": "ssiff-programme-1964",
+      "title": "San Sebastián official archive: Sections and films 1964",
+      "url": "https://www.sansebastianfestival.com/1964/secciones_y_peliculas/8/es",
+      "sourceType": "official archive transcription",
+      "scope": "Official page reports 78 titles; selection page has SQL errors after some records. Features/shorts here are a verified visible extract; information and retrospectives not included."
+    },
+    {
+      "id": "ssiff-awards-1964",
+      "title": "San Sebastián official archive: Awards 1964",
+      "url": "https://www.sansebastianfestival.com/1964/awards_and_jury_members/awards/1/57/in",
+      "sourceType": "official archive transcription",
+      "scope": "FIAPF official awards; ex-aequo acting prize preserved."
+    },
+    {
+      "id": "venice-asac-1964",
+      "title": "ASAC annals: 25th Venice International Film Festival",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1964",
+      "sourceType": "official ASAC page transcription via browser UI",
+      "scope": "In Concorso list (12 feature films), Fuori Concorso list (2), main awards tab. Other concurrent documentary, art, and children’s programmes excluded from this main-program package and noted as pending classification."
+    },
+    {
+      "id": "venice-history-1964",
+      "title": "La Biennale history of Venice Film Festival",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "sourceType": "official historical summary",
+      "scope": "Confirms 1964 main award association for Il deserto rosso."
+    },
+    {
+      "id": "identity-reuse-1965-1969",
+      "sourceType": "FilmAffinity España records previously verified in adjacent-year packages",
+      "urls": [],
+      "files": [
+        "outputs/Filmoteca_LAB_1965_para_Sol.zip",
+        "outputs/Filmoteca_LAB_1966_para_Sol.zip",
+        "outputs/Filmoteca_LAB_1967_para_Sol.zip",
+        "outputs/Filmoteca_LAB_1968_para_Sol.zip",
+        "outputs/Filmoteca_LAB_1969_para_Sol.zip"
+      ],
+      "extraction": "extracciones/film_affinity_neighbor_packages_and_corrections_1964.json",
+      "method": "Reused only where title or alias and director matched exactly.",
+      "limitations": "Does not verify unmatching identities; their IDs remain null."
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1955–1966, limitados a la ventana temporal del bloque, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1960–1964; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: la cobertura varía por año;1964 incorpora listas ASAC transcritas,1963 selecciones reconstruidas y1962 cotejo parcial;1961–1960 conservan únicamente palmarés. No se consideran programas completos.",
+    "Normalizadas las etiquetas de familia y secciones del paquete; separadas óperas primas, documentales/cortos y fuera de concurso. En San Sebastián, las películas identificadas fuera de concurso se retiran de la lista competitiva y conservan sus premios.",
+    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": [
+    {
+      "block": "Oscar ceremony 1964",
+      "status": "partial",
+      "covered": "Las 26 categorías competitivas cinematográficas y el premio Thalberg personal fueron transcritos del archivo oficial; candidaturas agrupadas por película y personas.",
+      "missing": "La cobertura de candidaturas está extraída; queda pendiente verificar en FilmAffinity las identidades/IDs de las películas que siguen con null."
+    },
+    {
+      "block": "BAFTA Film 1964",
+      "status": "partial",
+      "covered": "Las 13 categorías del archivo Film fueron transcritas; Television está excluida.",
+      "missing": "La cobertura de candidaturas está extraída; queda pendiente verificar en FilmAffinity las identidades/IDs de las películas que siguen con null."
+    },
+    {
+      "block": "Cannes 1964 feature competition",
+      "status": "partial",
+      "covered": "Feature selection and attached prizes from Cannes retrospective.",
+      "missing": "Selection/award matching requires final archival cross-check; 25 feature entries minus the corrected short-film misclassification."
+    },
+    {
+      "block": "Cannes 1964 short competition",
+      "status": "partial",
+      "covered": "Short-film selection and documented awards.",
+      "missing": "Identity IDs remain unverified for most entries."
+    },
+    {
+      "block": "Cannes 1964 out of competition",
+      "status": "partial",
+      "covered": "Three titles captured from retrospective.",
+      "missing": "No independent full list cross-check in current extraction."
+    },
+    {
+      "block": "Berlin 1964 feature competition and awards",
+      "status": "partial",
+      "covered": "22 feature titles and principal awards transcribed from secondary historical page.",
+      "missing": "Official Berlinale archive URL failed (503); independent awards and full classification not exhaustively reconstructed."
+    },
+    {
+      "block": "Berlin 1964 short competition and awards",
+      "status": "partial",
+      "covered": "10 short/documentary titles and visible awards transcribed from secondary source.",
+      "missing": "Official primary verification and complete independent-prize mapping."
+    },
+    {
+      "block": "San Sebastián 1964 official features",
+      "status": "partial",
+      "covered": "Visible official archive list, excluding Beckett which is out of competition; principal awards included.",
+      "missing": "Official film listing reports more records than were legible due to SQL errors; full feature selection not recovered."
+    },
+    {
+      "block": "San Sebastián 1964 short films",
+      "status": "partial",
+      "covered": "Visible short-film records and official ex-aequo Golden Shell winners.",
+      "missing": "Official listing is incomplete/partly unreadable (SQL errors); full short selection not recovered."
+    },
+    {
+      "block": "San Sebastián 1964 out of competition",
+      "status": "partial",
+      "covered": "Three explicitly identified titles.",
+      "missing": "Completeness of the out-of-competition list not independently established."
+    },
+    {
+      "block": "Venice 1964 principal selection",
+      "status": "partial",
+      "covered": "12 ASAC In Concorso films and 2 Fuori Concorso titles transcribed from ASAC annals.",
+      "missing": "Other festival programmes and some awards cannot be reliably allocated; Kradetzat na praskovi director not captured; FilmAffinity IDs mostly unverified."
+    },
+    {
+      "block": "Venice 1964 parallel programmes and awards",
+      "status": "pending",
+      "covered": "Existence of additional ASAC programmes and prizes noted.",
+      "missing": "Complete programme and film-to-award mapping outside principal selection."
+    }
+  ],
+  "packageDoubts": [
+    {
+      "id": "ids-filmaffinity-no-resueltos",
+      "scope": "All sections",
+      "question": "What are the FilmAffinity Spain registered titles and IDs for films still left with filmAffinityId=null?",
+      "reason": "No exact title/alias plus director match in adjacent-year verified records; no individual lookup was undertaken for every absence."
+    },
+    {
+      "id": "berlin-official-source",
+      "scope": "Berlín 1964",
+      "question": "Can an official Berlinale archive page/list be supplied or accessed to confirm selection and independent prizes?",
+      "reason": "The official archive programme URL returned HTTP 503; current full-list transcription is secondary."
+    },
+    {
+      "id": "ssiff-selection-truncated",
+      "scope": "San Sebastián 1964",
+      "question": "Can the unreadable rows in the official archive listing be recovered?",
+      "reason": "Official listing reports 78 films but many rows failed to render due to SQL errors; the extracted official-selection lists are partial."
+    },
+    {
+      "id": "venice-parallel-programmes",
+      "scope": "Venecia 1964",
+      "question": "Which titles and prizes belong to the additional ASAC programme categories outside In Concorso and Fuori Concorso?",
+      "reason": "ASAC shows parallel programme and prize entries, but matching them to reliable section lists was not completed."
+    },
+    {
+      "id": "venice-kadet-director",
+      "scope": "Venecia 1964",
+      "question": "Who directed Kradetzat na praskovi (The Peach Thief) as listed in the ASAC 1964 entry?",
+      "reason": "Director field was not visible in captured ASAC transcription; left null rather than infer."
+    },
+    {
+      "id": "oscar-bafta-identity-audit",
+      "scope": "Oscar and BAFTA",
+      "question": "Can the unresolved FA title/ID identities be verified in batches against FilmAffinity Spain?",
+      "reason": "Ceremony-level transcriptions are prepared, but IDs are null unless reused from an exact title/alias plus director match in prior verified packages."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

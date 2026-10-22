@@ -1,0 +1,269 @@
+{
+  "year": 1960,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1960; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1960_para_Sol.zip",
+    "sha256": "1ebcc3ac83cb7a2964a8b79ac17537ff2f4a5532821818dcba27a45d702a740b"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1959",
+      "films": 43,
+      "declaredOwned": 28,
+      "withFA": 0,
+      "candidacyAppearances": 74
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 32,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 29,
+      "declaredOwned": 12,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 32.ª edición",
+      "films": 49,
+      "declaredOwned": 24,
+      "withFA": 0,
+      "candidacyAppearances": 116
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 18,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 8,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 15,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 10
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "films": 4,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscars",
+      "url": "https://www.oscars.org/oscars/ceremonies/1960",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/awards/film/?award-year=1960",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "cannes_selection",
+      "url": "https://www.festival-cannes.com/en/retrospective/1960/",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "cannes_awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1960/awards/",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "ss_selection",
+      "url": "https://www.sansebastianfestival.com/1960/secciones_y_peliculas/8/es",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "ss_awards",
+      "url": "https://www.sansebastianfestival.com/1960/premios_y_jurados/premios/1/54/es",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "berlin",
+      "url": "https://en.wikipedia.org/wiki/10th_Berlin_International_Film_Festival",
+      "kind": "secundaria",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "venice_asac",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1960",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "venice_history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "kind": "oficial",
+      "recordType": "transcripción o extracto de texto consultado; no captura de pantalla"
+    },
+    {
+      "id": "venice_janus_corroboration",
+      "url": "https://www.janusfilms.com/films/1134",
+      "kind": "secundaria — distribuidor",
+      "recordType": "página consultada/transcrita; no captura",
+      "purpose": "Corroborar identidad de Tunes of Glory y John Mills en la atribución de la Coppa Volpi 1960."
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1955–1966, limitados a la ventana temporal del bloque, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1960–1964; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: la cobertura varía por año;1964 incorpora listas ASAC transcritas,1963 selecciones reconstruidas y1962 cotejo parcial;1961–1960 conservan únicamente palmarés. No se consideran programas completos.",
+    "Normalizadas las etiquetas de familia y secciones del paquete; separadas óperas primas, documentales/cortos y fuera de concurso. En San Sebastián, las películas identificadas fuera de concurso se retiran de la lista competitiva y conservan sus premios.",
+    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1960|Mejor película británica|J. Lee Thompson",
+      "category": "Mejor película británica",
+      "person": "J. Lee Thompson",
+      "winner": false,
+      "films": [
+        "La India en llamas",
+        "La bahía del tigre"
+      ]
+    },
+    {
+      "id": "BAFTA|1960|Film From Any Source|J. Lee Thompson",
+      "category": "Film From Any Source",
+      "person": "J. Lee Thompson",
+      "winner": false,
+      "films": [
+        "La India en llamas",
+        "La bahía del tigre"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1960,
+    "blocks": [
+      {
+        "block": "Oscar",
+        "status": "completo",
+        "detail": "25 categorías competitivas de cine y candidaturas/ganadores transcritos del archivo oficial; premios personales separados. Identidades/IDs FilmAffinity pendientes."
+      },
+      {
+        "block": "BAFTA Film",
+        "status": "completo",
+        "detail": "13 categorías Film del archivo oficial, candidaturas y ganadores; excluida Television. Identidades/IDs FA pendientes."
+      },
+      {
+        "block": "Cannes competición largometrajes",
+        "status": "completo",
+        "detail": "29 películas listadas en el archivo oficial; premios transcritos."
+      },
+      {
+        "block": "Cannes fuera de concurso",
+        "status": "completo",
+        "detail": "Ben-Hur y Orient Occident expresamente identificadas."
+      },
+      {
+        "block": "Cannes cortometrajes",
+        "status": "completo",
+        "detail": "32 cortos del archivo de selección; premios principales y menciones listados."
+      },
+      {
+        "block": "Berlín competición",
+        "status": "pendiente",
+        "detail": "Solo se acredita el Oso de Oro mediante fuente secundaria; la lista oficial no se recuperó (endpoint 503)."
+      },
+      {
+        "block": "San Sebastián largometrajes",
+        "status": "parcial",
+        "detail": "23 filas transcritas; el archivo declara 139 títulos y muestra fallos SQL; selección restante/clasificaciones no cerradas."
+      },
+      {
+        "block": "San Sebastián cortometrajes",
+        "status": "parcial",
+        "detail": "18 filas visibles; archivo parcial con fallos SQL."
+      },
+      {
+        "block": "San Sebastián fuera de concurso",
+        "status": "parcial",
+        "detail": "Solo renglones explícitamente marcados en fragmento consultado."
+      },
+      {
+        "block": "Venecia selección",
+        "status": "pendiente",
+        "detail": "Edición 1960 acreditada por archivo histórico oficial, que confirma el León de Oro; ASAC anual no mostró la selección legible."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "Q1",
+      "block": "FilmAffinity",
+      "question": "IDs y títulos FilmAffinity España de 1960 no se han verificado; se conservan títulos de fuente y los IDs están null.",
+      "status": "pendiente"
+    },
+    {
+      "id": "Q2",
+      "block": "Berlín",
+      "question": "Recuperar/cotejar la lista oficial de competición, cortos/documentales y premios. La página oficial de archivo devolvió 503; se incluyó solo el ganador respaldado.",
+      "status": "pendiente"
+    },
+    {
+      "id": "Q3",
+      "block": "San Sebastián",
+      "question": "El archivo registra 139 películas, pero la extracción visible falla con errores SQL. Quedan selecciones y clasificación fuera de concurso incompletas.",
+      "status": "pendiente"
+    },
+    {
+      "id": "Q4",
+      "block": "Venecia",
+      "question": "ASAC 1960 no expuso el programa; se necesitan sus filas para reconstruir la selección. Los premios no equivalen a selección.",
+      "status": "pendiente"
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}
