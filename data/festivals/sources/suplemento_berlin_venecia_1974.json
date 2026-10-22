@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Propuestas de nuevos filmes · manifestaciones cinematográficas",
+      "films": 14,
+      "declaredOwned": 2
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 48,
+    "title": "Manifestazioni cinematografiche",
+    "sections": [
+      {
+        "name": "Proposte di Nuovi Film",
+        "films": 14
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 16
+  },
+  "asacAnnualSha256": "2aa946fe21008d45f186f5599c7efb01323bae227771ce10ec6e31bfb9bdf8cc",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [],
+    "otherSections": [
+      {
+        "name": "Film Conoscenza e Dibattito - Fuori programma",
+        "films": 4
+      },
+      {
+        "name": "Fuori Programma",
+        "films": 3
+      },
+      {
+        "name": "Cinema, Industria e cultura",
+        "films": 7
+      },
+      {
+        "name": "Il Telefilm - Antologia breve del telefilm tedesco occidentale",
+        "films": 7
+      },
+      {
+        "name": "Donna e Cinema",
+        "films": 17
+      },
+      {
+        "name": "Cinema comunicazione intervento",
+        "films": 6
+      },
+      {
+        "name": "Cinema comunicazione intervento - Videotape",
+        "films": 7
+      },
+      {
+        "name": "Personale di Paul Vecchiali",
+        "films": 4
+      },
+      {
+        "name": "Cinema Cooperativo",
+        "films": 9
+      },
+      {
+        "name": "Cinema Svizzero Oggi",
+        "films": 23
+      },
+      {
+        "name": "Personale di Michelangelo Antonioni",
+        "films": 0
+      },
+      {
+        "name": "Film Conoscenza e Dibattito",
+        "films": 14
+      },
+      {
+        "name": "Luis Buñuel : 8 films",
+        "films": 10
+      },
+      {
+        "name": "Testimonianze Cinematografiche sul Cile",
+        "films": 52
+      },
+      {
+        "name": "Cronaca sul Fascismo",
+        "films": 33
+      }
+    ]
+  }
+}

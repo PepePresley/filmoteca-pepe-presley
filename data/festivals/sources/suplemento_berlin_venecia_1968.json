@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "films": 2,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 27,
+      "declaredOwned": 15
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa",
+      "films": 2,
+      "declaredOwned": 1
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 43,
+    "title": "29. Mostra Internazionale d'Arte Cinematografica di Venezia",
+    "sections": [
+      {
+        "name": "Fuori Concorso",
+        "films": 2
+      },
+      {
+        "name": "In Concorso",
+        "films": 27
+      },
+      {
+        "name": "Informativa",
+        "films": 2
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 28
+  },
+  "asacAnnualSha256": "24e7e68119d3f3f7cfc9ed61ea3e7563ec864b23ae0da41d708cdbf686c8c179",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [],
+    "otherSections": [
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film per l'infanzia - Gruppo A - Film a carattere ricreativo",
+        "films": 19
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Telefilm per ragazzi o sui ragazzi",
+        "films": 1
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film per l'infanzia - Gruppo B - Film a carattere educativo o didattico",
+        "films": 5
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Telefilm sui giovani",
+        "films": 1
+      },
+      {
+        "name": "8. Mostra Internazionale del Film sull'Arte - Fuori Concorso",
+        "films": 5
+      },
+      {
+        "name": "Retrospettiva - I primitivi italiani, americani e francesi",
+        "films": 34
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film per la fanciullezza - Gruppo A - Film a carattere ricreativo",
+        "films": 9
+      },
+      {
+        "name": "19. Mostra Internazionale del Film Documentario - Documentari",
+        "films": 25
+      },
+      {
+        "name": "Omaggio a Jean Renoir",
+        "films": 18
+      },
+      {
+        "name": "19. Mostra Internazionale del Film Documentario",
+        "films": 1
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi",
+        "films": 0
+      },
+      {
+        "name": "8. Mostra Internazionale del Film sull'Arte",
+        "films": 0
+      },
+      {
+        "name": "Omaggio a Antonio Pietrangeli",
+        "films": 4
+      },
+      {
+        "name": "19. Mostra Internazionale del Film Documentario - Teledocumentari",
+        "films": 10
+      },
+      {
+        "name": "19. Mostra Internazionale del Film Documentario - Animazione",
+        "films": 3
+      },
+      {
+        "name": "19. Mostra Internazionale del Film Documentario - Cortometraggi",
+        "films": 16
+      },
+      {
+        "name": "19. Mostra Internazionale del Film Documentario - Sperimentali",
+        "films": 1
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film per la fanciullezza - Gruppo B - Film a carattere educativo o didattico",
+        "films": 3
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film per l'adolescenza - Gruppo B - Film a carattere educativo o didattico",
+        "films": 1
+      },
+      {
+        "name": "8. Mostra Internazionale del Film sull'Arte - Film sulla pittura",
+        "films": 12
+      },
+      {
+        "name": "8. Mostra Internazionale del Film sull'Arte - Film sulla scultura",
+        "films": 4
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film per l'adolescenza - Gruppo A - Film a carattere ricreativo",
+        "films": 4
+      },
+      {
+        "name": "20. Mostra Internazionale del Film per Ragazzi - Film sui ragazzi e sui giovani di carattere problematico e di ricerca educativa",
+        "films": 6
+      },
+      {
+        "name": "8. Mostra Internazionale del Film sull'Arte - Film sull'architettura e urbanistica",
+        "films": 6
+      },
+      {
+        "name": "8. Mostra Internazionale del Film sull'Arte - Film di carattere biografico",
+        "films": 6
+      }
+    ]
+  }
+}

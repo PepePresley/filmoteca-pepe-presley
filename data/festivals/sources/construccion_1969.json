@@ -307,5 +307,33 @@
       }
     ]
   },
-  "unpublishedIdentityEvidence": []
+  "unpublishedIdentityEvidence": [],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1969.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Películas invitadas · edición no competitiva",
+          "films": 26,
+          "declaredOwned": 10
+        },
+        {
+          "festival": "Venecia",
+          "section": "Informativa · edición no competitiva",
+          "films": 13,
+          "declaredOwned": 6
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1969.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }

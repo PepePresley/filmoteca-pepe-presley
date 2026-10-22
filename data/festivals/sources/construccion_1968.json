@@ -278,5 +278,39 @@
       "question": "El archivo retrospectivo conserva selección anunciada, pero algunas películas fueron retiradas durante la crisis de mayo; hace falta confirmar retiradas/proyecciones canceladas para un registro de exhibición efectiva."
     }
   ],
-  "unpublishedIdentityEvidence": []
+  "unpublishedIdentityEvidence": [],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1968.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Fuera de concurso",
+          "films": 2,
+          "declaredOwned": 1
+        },
+        {
+          "festival": "Venecia",
+          "section": "Competición oficial",
+          "films": 27,
+          "declaredOwned": 15
+        },
+        {
+          "festival": "Venecia",
+          "section": "Informativa",
+          "films": 2,
+          "declaredOwned": 1
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1968.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }

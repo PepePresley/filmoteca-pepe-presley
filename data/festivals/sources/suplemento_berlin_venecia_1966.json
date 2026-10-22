@@ -1,0 +1,220 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 15,
+      "declaredOwned": 12
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "films": 13,
+      "declaredOwned": 5
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 40,
+    "title": "27. Mostra Internazionale d'Arte Cinematografica di Venezia",
+    "sections": [
+      {
+        "name": "In Concorso",
+        "films": 15
+      },
+      {
+        "name": "Fuori Concorso",
+        "films": 13
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 36
+  },
+  "asacAnnualSha256": "d26c69a0cc703533330157bd0a7f575a3ac95d7e724454d8eedff87200ed5c35",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [],
+    "otherSections": [
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 1 - Documentari - Gruppo B - Film sportivi e turistici",
+        "films": 1
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 1 - Documentari - Gruppo D - Film culturali ed educativi",
+        "films": 10
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 3 - Teledocumentari - Teledocumentari di montaggio",
+        "films": 4
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film In Concorso",
+        "films": 0
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Sezione Culturale - Personale di Herbert Seggelke",
+        "films": 5
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film Sperimentali",
+        "films": 2
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Sezione Culturale",
+        "films": 0
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film Sperimentali - Personale di Bruno Munari",
+        "films": 6
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi",
+        "films": 0
+      },
+      {
+        "name": "Retrospettiva America allo specchio: \"The Roaring Twenties\"",
+        "films": 32
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Fuori Concorso",
+        "films": 1
+      },
+      {
+        "name": "Informativa",
+        "films": 0
+      },
+      {
+        "name": "Informativa - Fuori Concorso",
+        "films": 0
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario",
+        "films": 1
+      },
+      {
+        "name": "Il cinema di Godard",
+        "films": 2
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film In Concorso - Categoria A - Film sulla pittura",
+        "films": 11
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film In Concorso - Categoria B - Film sulla scultura",
+        "films": 1
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film In Concorso - Categoria C - Film sull'architettura ed urbanistica",
+        "films": 3
+      },
+      {
+        "name": "7. Mostra Internazionale del Film sull'Arte - Film In Concorso - Categoria D - Film di carattere biografico",
+        "films": 4
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 1 - Film per l'infanzia - Gruppo A - Film a carattere ricreativo",
+        "films": 8
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 1 - Film per l'infanzia - Gruppo B - Film a carattere educativo o didattico",
+        "films": 2
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 2 - Film per la fanciullezza - Gruppo A - Film a carattere ricreativo",
+        "films": 7
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 2 - Film per la fanciullezza - Gruppo B - Film a carattere educativo o didattico",
+        "films": 4
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 3 - Film per l'adolescenza - Gruppo A - Film a carattere ricreativo",
+        "films": 8
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 3 - Film per l'adolescenza - Gruppo B - Film a carattere educativo o didattico",
+        "films": 1
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 4 - Film a soggetto della normale produzione adatti ai ragazzi",
+        "films": 2
+      },
+      {
+        "name": "18. Mostra Internazionale del Film per Ragazzi - Categoria 5 - Programmi televisivi per ragazzi",
+        "films": 1
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 1 - Documentari - Gruppo A - Film geografici, etnografici e di folklore",
+        "films": 5
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 1 - Documentari - Gruppo C - Film di divulgazione e di informazione tecnica e scientifica",
+        "films": 7
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 1 - Documentari - Gruppo E - Film di vita contemporanea e di documentazione sociale",
+        "films": 16
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 3 - Teledocumentari - Teledocumentari realizzati in presa diretta",
+        "films": 4
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 2 - Corto e medio metraggi a soggetto - Gruppo A - Sperimentali",
+        "films": 7
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 2 - Corto e medio metraggi a soggetto - Gruppo B - Narrativi",
+        "films": 9
+      },
+      {
+        "name": "17. Mostra Internazionale del Film Documentario - Categoria 2 - Corto e medio metraggi a soggetto - Gruppo C - Animazione",
+        "films": 9
+      }
+    ]
+  },
+  "identityCorrection": {
+    "year": 1966,
+    "supersededEvidence": [
+      {
+        "festival": "Venecia",
+        "year": 1966,
+        "section": "Palmarés documentado · fuera de los programas recuperados",
+        "films": [
+          {
+            "title": "Le premier Maître",
+            "director": "Andrei Konchalovsky",
+            "aliases": [],
+            "nominations": [
+              "Copa Volpi · mejor actriz · Natalia Arinbasarova"
+            ],
+            "wins": [
+              "Copa Volpi · mejor actriz · Natalia Arinbasarova"
+            ],
+            "candidacies": [
+              {
+                "category": "Copa Volpi · mejor actriz",
+                "person": "Natalia Arinbasarova",
+                "winner": true,
+                "source": "https://www.oscars.org/oscars/ceremonies/1966/S · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.bafta.org/awards/film/?award-year=1966 · https://www.festival-cannes.com/en/retrospective/1966/ · https://www.festival-cannes.com/en/retrospective/1966/awards/ · https://de.wikipedia.org/wiki/Internationale_Filmfestspiele_Berlin_1966 · https://www.sansebastianfestival.com/1966/sections_and_films/8/in · https://www.labiennale.org/en/history-venice-film-festival · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479541 · https://www.sansebastianfestival.com/1966/awards_and_jury_members/awards/1/59/in · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.filmaffinity.com/es/film926968.html · https://www.filmaffinity.com/es/film957921.html · https://www.filmaffinity.com/es/film757557.html · https://www.filmaffinity.com/es/film399542.html · https://www.filmaffinity.com/es/film948200.html · https://www.filmaffinity.com/es/film927339.html"
+              }
+            ],
+            "award": "Copa Volpi · mejor actriz · Natalia Arinbasarova",
+            "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+            "competitionStatus": "SELECCION_DOCUMENTADA"
+          }
+        ]
+      }
+    ],
+    "resolution": "Le premier Maître es Pervyy uchitel, Andrey Konchalovskiy, ya presente y premiada en la competición ASAC."
+  }
+}

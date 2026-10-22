@@ -3916,6 +3916,678 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1968,
+      "section": "Fuera de concurso",
+      "films": [
+        {
+          "title": "La fiesta y los invitados",
+          "director": "Jan Nemec",
+          "aliases": [
+            "O slavnosti a hostech",
+            "La festa e gli invitati"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10159,
+          "asacProgrammeTitle": "O slavnosti a hostech",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/10159",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Sul davanti fioriva una magnolia",
+          "director": "Paolo Breccia",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10161,
+          "asacProgrammeTitle": "Sul davanti fioriva una magnolia",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10161",
+          "sourceDuration": "110 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        }
+      ],
+      "originalSection": "Fuori Concorso"
+    },
+    {
+      "festival": "Venecia",
+      "year": 1968,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "Artistas bajo la lona del circo. Perplejos",
+          "director": "Alexander Kluge",
+          "aliases": [
+            "Die artisten in der zirkuskuppel: ratlos",
+            "Artisti sotto la tenda del circo: perplessi",
+            "Die Artisten in der Zirkuskuppel: Ratlos"
+          ],
+          "wins": [
+            "León de Oro"
+          ],
+          "nominations": [
+            "León de Oro"
+          ],
+          "candidacies": [
+            {
+              "category": "León de Oro",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1968"
+            }
+          ],
+          "asacId": 5294,
+          "asacProgrammeTitle": "Die artisten in der zirkuskuppel: ratlos",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/5294",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "León de Oro",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Nuestra Señora de los turcos",
+          "director": "Carmelo Bene",
+          "aliases": [
+            "Nostra Signora dei Turchi"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio Especial del Jurado",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1968"
+            }
+          ],
+          "asacId": 1534,
+          "asacProgrammeTitle": "Nostra Signora dei Turchi",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/1534",
+          "sourceDuration": "120 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Premio Especial del Jurado",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Le Socrate",
+          "director": "Robert Lapoujade",
+          "aliases": [
+            "Il Socrate"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio Especial del Jurado",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1968"
+            }
+          ],
+          "asacId": 6506,
+          "asacProgrammeTitle": "Le Socrate",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6506",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Premio Especial del Jurado",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Teorema",
+          "director": "Pier Paolo Pasolini",
+          "aliases": [],
+          "wins": [
+            "Copa Volpi · mejor actriz"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actriz"
+          ],
+          "candidacies": [
+            {
+              "category": "Copa Volpi · mejor actriz",
+              "person": "Laura  Betti",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1968"
+            }
+          ],
+          "asacId": 58,
+          "asacProgrammeTitle": "Teorema",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/58",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Copa Volpi · mejor actriz",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Rostros",
+          "director": "John Cassavetes",
+          "aliases": [
+            "Faces",
+            "Volti"
+          ],
+          "wins": [
+            "Copa Volpi · mejor actor"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actor"
+          ],
+          "candidacies": [
+            {
+              "category": "Copa Volpi · mejor actor",
+              "person": "John  Marley",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1968"
+            }
+          ],
+          "asacId": 10127,
+          "asacProgrammeTitle": "Faces",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10127",
+          "sourceDuration": "140 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Copa Volpi · mejor actor",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Galileo",
+          "director": "Liliana Cavani",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6364,
+          "asacProgrammeTitle": "Galileo",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6364",
+          "sourceDuration": "110 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Zbehovia a pútnici",
+          "director": "Juraj Jakubisko",
+          "aliases": [
+            "Zbehove",
+            "Il disertore e i nomadi",
+            "I disertori"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6765,
+          "asacProgrammeTitle": "Zbehovia a pútnici",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6765",
+          "sourceDuration": "60 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Diario di una schizofrenica",
+          "director": "Nelo Risi",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6782,
+          "asacProgrammeTitle": "Diario di una schizofrenica",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6782",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Stress-es tres-tres",
+          "director": "Carlos Saura",
+          "aliases": [
+            "Stress es tres tres",
+            "Lo stress è tre, Tre",
+            "Stress al limite"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6873,
+          "asacProgrammeTitle": "Stress-es tres-tres",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6873",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Wild in the streets",
+          "director": "Barry Shears",
+          "aliases": [
+            "Quattordici o guerra",
+            "Selvaggi per le strade"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6899,
+          "asacProgrammeTitle": "Wild in the streets",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6899",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Me and my brother",
+          "director": "Robert Frank",
+          "aliases": [
+            "Io e mio fratello"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10031,
+          "asacProgrammeTitle": "Me and my brother",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10031",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Ballade pour un chien",
+          "director": "Gérard Vergez",
+          "aliases": [
+            "Ballata per un cane"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10115,
+          "asacProgrammeTitle": "Ballade pour un chien",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/10115",
+          "sourceDuration": "100 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Silencio y grito",
+          "director": "Miklós Jancsó",
+          "aliases": [
+            "Csend és kiáltás",
+            "Il silenzio e il grido",
+            "Silenzio e grido"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10117,
+          "asacProgrammeTitle": "Csend és kiáltás",
+          "asacYear": 1967,
+          "source": "https://asac.labiennale.org/attivita/cinema/10117",
+          "sourceDuration": "80 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Das Schloß",
+          "director": "Rudolf Noelte",
+          "aliases": [
+            "Das Schloss",
+            "Il castello"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10118,
+          "asacProgrammeTitle": "Das Schloß",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10118",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Después del diluvio",
+          "director": "Jacinto Esteva",
+          "aliases": [
+            "Dopo il diluvio"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10122,
+          "asacProgrammeTitle": "Después del diluvio",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10122",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "La espuma de los días",
+          "director": "Charles Belmont",
+          "aliases": [
+            "L'écume des jours",
+            "La schiuma dei giorni"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10125,
+          "asacProgrammeTitle": "L'écume des jours",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10125",
+          "sourceDuration": "110 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "La infancia desnuda",
+          "director": "Maurice Pialat",
+          "aliases": [
+            "L'enfance nue",
+            "L'infanzia nuda",
+            "L'Enfance nue"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10126,
+          "asacProgrammeTitle": "L'enfance nue",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10126",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Falak",
+          "director": "András Kovács",
+          "aliases": [
+            "I muri"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10130,
+          "asacProgrammeTitle": "Falak",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10130",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Kierion",
+          "director": "Dimos Theos",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10132,
+          "asacProgrammeTitle": "Kierion",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10132",
+          "sourceDuration": "110 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Monterey Pop",
+          "director": "D.A. Pennebaker",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10136,
+          "asacProgrammeTitle": "Monterey Pop",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10136",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Partner",
+          "director": "Bernardo Bertolucci",
+          "aliases": [
+            "Il sosia"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10138,
+          "asacProgrammeTitle": "Partner",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10138",
+          "sourceDuration": "105 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Podne",
+          "director": "Mladomir 'Purisa' Djordjevic",
+          "aliases": [
+            "Podne 1948",
+            "Mezzogiorno 1948"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10141,
+          "asacProgrammeTitle": "Podne",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10141",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Fuoco!",
+          "director": "Gian Vittorio Baldi",
+          "aliases": [
+            "Fuoco"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10143,
+          "asacProgrammeTitle": "Fuoco",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10143",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Sept jours ailleurs",
+          "director": "Marin Karmitz",
+          "aliases": [
+            "Sette giorni altrove"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10145,
+          "asacProgrammeTitle": "Sept jours ailleurs",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10145",
+          "sourceDuration": "100 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Summit",
+          "director": "Giorgio Bontempi",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10149,
+          "asacProgrammeTitle": "Summit",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10149",
+          "sourceDuration": "100 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Tell me lies",
+          "director": "Peter Brook",
+          "aliases": [
+            "Tell me lies - A story about London",
+            "Raccontami bugie"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10152,
+          "asacProgrammeTitle": "Tell me lies",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10152",
+          "sourceDuration": "90 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Wheel of ashes",
+          "director": "Peter Emmanuel Goldman",
+          "aliases": [
+            "Ruota di cenere"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10155,
+          "asacProgrammeTitle": "Wheel of ashes",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10155",
+          "sourceDuration": "100 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        }
+      ],
+      "originalSection": "In Concorso"
+    },
+    {
+      "festival": "Venecia",
+      "year": 1968,
+      "section": "Informativa",
+      "films": [
+        {
+          "title": "Het compromis",
+          "director": "Philo Bregstein",
+          "aliases": [
+            "Il compromesso",
+            "Het compromis - Il compromesso",
+            "The Compromise"
+          ],
+          "wins": [
+            "Premio opera prima \"Colomba d'oro della città di Venezia\""
+          ],
+          "nominations": [
+            "Premio opera prima \"Colomba d'oro della città di Venezia\""
+          ],
+          "candidacies": [
+            {
+              "category": "Premio opera prima \"Colomba d'oro della città di Venezia\"",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1968"
+            }
+          ],
+          "asacId": 6309,
+          "asacProgrammeTitle": "Het compromis",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/6309",
+          "sourceDuration": "84 minuti",
+          "award": "Premio opera prima \"Colomba d'oro della città di Venezia\"",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "El giro",
+          "director": "Ousmane Sembene",
+          "aliases": [
+            "Mandabi",
+            "Manda bi - Le Mandat",
+            "Il vaglia",
+            "The Money Order"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 10624,
+          "asacProgrammeTitle": "Mandabi",
+          "asacYear": 1968,
+          "source": "https://asac.labiennale.org/attivita/cinema/10624",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        }
+      ],
+      "originalSection": "Informativa"
     }
   ]
 }

@@ -4217,105 +4217,660 @@
     {
       "festival": "Venecia",
       "year": 1966,
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "section": "Competición oficial",
       "films": [
         {
           "title": "La batalla de Argel",
           "director": "Gillo Pontecorvo",
-          "filmAffinityId": "757557",
           "aliases": [
-            "La battaglia di Algeri"
-          ],
-          "nominations": [
-            "León de Oro · Gillo Pontecorvo"
+            "La battaglia di Algeri",
+            "The Battle of Algiers"
           ],
           "wins": [
+            "León de Oro",
+            "León de Oro · Gillo Pontecorvo"
+          ],
+          "nominations": [
+            "León de Oro",
             "León de Oro · Gillo Pontecorvo"
           ],
           "candidacies": [
             {
               "category": "León de Oro",
-              "person": "Gillo Pontecorvo",
+              "person": null,
               "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1966/S · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.bafta.org/awards/film/?award-year=1966 · https://www.festival-cannes.com/en/retrospective/1966/ · https://www.festival-cannes.com/en/retrospective/1966/awards/ · https://de.wikipedia.org/wiki/Internationale_Filmfestspiele_Berlin_1966 · https://www.sansebastianfestival.com/1966/sections_and_films/8/in · https://www.labiennale.org/en/history-venice-film-festival · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479541 · https://www.sansebastianfestival.com/1966/awards_and_jury_members/awards/1/59/in · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.filmaffinity.com/es/film926968.html · https://www.filmaffinity.com/es/film957921.html · https://www.filmaffinity.com/es/film757557.html · https://www.filmaffinity.com/es/film399542.html · https://www.filmaffinity.com/es/film948200.html · https://www.filmaffinity.com/es/film927339.html"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1966"
             }
           ],
-          "award": "León de Oro · Gillo Pontecorvo",
-          "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "FILMAFFINITY_ID_LINKED"
+          "asacId": 9090,
+          "asacProgrammeTitle": "La battaglia di Algeri",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9090",
+          "sourceDuration": "121 minuti",
+          "filmAffinityId": "757557",
+          "filmaffinityTitle": "La batalla de Argel",
+          "award": "León de Oro · León de Oro · Gillo Pontecorvo",
+          "identityStatus": "FILMAFFINITY_ID_LINKED",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         },
         {
-          "title": "La busca",
-          "director": "Angelino Fons",
+          "title": "Una muchacha sin historia",
+          "director": "Alexander Kluge",
           "aliases": [
-            "La Busca"
-          ],
-          "nominations": [
-            "Copa Volpi · mejor actor · Jacques Perrin"
+            "Abschied von gestern - (Anita G.)",
+            "Abschied von gestern",
+            "La ragazza senza storia",
+            "Yesterday Girl",
+            "Addio a ieri",
+            "Una ragazza senza storia"
           ],
           "wins": [
-            "Copa Volpi · mejor actor · Jacques Perrin"
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
           ],
           "candidacies": [
             {
-              "category": "Copa Volpi · mejor actor",
-              "person": "Jacques Perrin",
+              "category": "Premio Especial del Jurado",
+              "person": null,
               "winner": true,
-              "sharedCandidacyId": "Venice1966-CoppaVolpiActor-JacquesPerrin",
-              "source": "https://www.oscars.org/oscars/ceremonies/1966/S · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.bafta.org/awards/film/?award-year=1966 · https://www.festival-cannes.com/en/retrospective/1966/ · https://www.festival-cannes.com/en/retrospective/1966/awards/ · https://de.wikipedia.org/wiki/Internationale_Filmfestspiele_Berlin_1966 · https://www.sansebastianfestival.com/1966/sections_and_films/8/in · https://www.labiennale.org/en/history-venice-film-festival · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479541 · https://www.sansebastianfestival.com/1966/awards_and_jury_members/awards/1/59/in · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.filmaffinity.com/es/film926968.html · https://www.filmaffinity.com/es/film957921.html · https://www.filmaffinity.com/es/film757557.html · https://www.filmaffinity.com/es/film399542.html · https://www.filmaffinity.com/es/film948200.html · https://www.filmaffinity.com/es/film927339.html"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1966"
             }
           ],
-          "award": "Copa Volpi · mejor actor · Jacques Perrin",
+          "asacId": 6376,
+          "asacProgrammeTitle": "Abschied von gestern - (Anita G.)",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/6376",
+          "sourceDuration": "84 minuti",
           "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "award": "Premio Especial del Jurado",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Chappaqua",
+          "director": "Conrad Rooks",
+          "aliases": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [
+            "Premio Especial del Jurado"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio Especial del Jurado",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1966"
+            }
+          ],
+          "asacId": 6793,
+          "asacProgrammeTitle": "Chappaqua",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/6793",
+          "sourceDuration": "92 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Premio Especial del Jurado",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         },
         {
           "title": "Un hombre dividido",
           "director": "Vittorio De Seta",
           "aliases": [
-            "Un uomo a metà"
-          ],
-          "nominations": [
-            "Copa Volpi · mejor actor · Jacques Perrin"
+            "Un uomo a metà",
+            "Half a Man"
           ],
           "wins": [
+            "Copa Volpi · mejor actor",
+            "Copa Volpi · mejor actor · Jacques Perrin"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actor",
             "Copa Volpi · mejor actor · Jacques Perrin"
           ],
           "candidacies": [
             {
               "category": "Copa Volpi · mejor actor",
-              "person": "Jacques Perrin",
+              "person": "Jacques  Perrin",
               "winner": true,
-              "sharedCandidacyId": "Venice1966-CoppaVolpiActor-JacquesPerrin",
-              "source": "https://www.oscars.org/oscars/ceremonies/1966/S · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.bafta.org/awards/film/?award-year=1966 · https://www.festival-cannes.com/en/retrospective/1966/ · https://www.festival-cannes.com/en/retrospective/1966/awards/ · https://de.wikipedia.org/wiki/Internationale_Filmfestspiele_Berlin_1966 · https://www.sansebastianfestival.com/1966/sections_and_films/8/in · https://www.labiennale.org/en/history-venice-film-festival · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479541 · https://www.sansebastianfestival.com/1966/awards_and_jury_members/awards/1/59/in · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.filmaffinity.com/es/film926968.html · https://www.filmaffinity.com/es/film957921.html · https://www.filmaffinity.com/es/film757557.html · https://www.filmaffinity.com/es/film399542.html · https://www.filmaffinity.com/es/film948200.html · https://www.filmaffinity.com/es/film927339.html"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1966"
             }
           ],
-          "award": "Copa Volpi · mejor actor · Jacques Perrin",
+          "asacId": 6453,
+          "asacProgrammeTitle": "Un uomo a metà",
+          "asacYear": 1965,
+          "source": "https://asac.labiennale.org/attivita/cinema/6453",
           "titleSource": "Maestro aprobado · título ES",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "award": "Copa Volpi · mejor actor · Copa Volpi · mejor actor · Jacques Perrin",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         },
         {
-          "title": "Le premier Maître",
-          "director": "Andrei Konchalovsky",
-          "aliases": [],
-          "nominations": [
-            "Copa Volpi · mejor actriz · Natalia Arinbasarova"
+          "title": "La busca",
+          "director": "Angelino Fons",
+          "aliases": [
+            "La ricerca",
+            "The Search"
           ],
           "wins": [
-            "Copa Volpi · mejor actriz · Natalia Arinbasarova"
+            "Copa Volpi · mejor actor",
+            "Copa Volpi · mejor actor · Jacques Perrin"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actor",
+            "Copa Volpi · mejor actor · Jacques Perrin"
+          ],
+          "candidacies": [
+            {
+              "category": "Copa Volpi · mejor actor",
+              "person": "Jacques  Perrin",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1966"
+            }
+          ],
+          "asacId": 9531,
+          "asacProgrammeTitle": "La busca",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9531",
+          "sourceDuration": "100 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Copa Volpi · mejor actor · Copa Volpi · mejor actor · Jacques Perrin",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Pervyy uchitel",
+          "director": "Andrey Konchalovskiy",
+          "aliases": [
+            "Pervij učitel",
+            "Il primo maestro",
+            "The First Teacher"
+          ],
+          "wins": [
+            "Copa Volpi · mejor actriz"
+          ],
+          "nominations": [
+            "Copa Volpi · mejor actriz"
           ],
           "candidacies": [
             {
               "category": "Copa Volpi · mejor actriz",
-              "person": "Natalia Arinbasarova",
+              "person": "Natalya  Arinbasarova",
               "winner": true,
-              "source": "https://www.oscars.org/oscars/ceremonies/1966/S · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.bafta.org/awards/film/?award-year=1966 · https://www.festival-cannes.com/en/retrospective/1966/ · https://www.festival-cannes.com/en/retrospective/1966/awards/ · https://de.wikipedia.org/wiki/Internationale_Filmfestspiele_Berlin_1966 · https://www.sansebastianfestival.com/1966/sections_and_films/8/in · https://www.labiennale.org/en/history-venice-film-festival · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479541 · https://www.sansebastianfestival.com/1966/awards_and_jury_members/awards/1/59/in · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966 · https://www.filmaffinity.com/es/film926968.html · https://www.filmaffinity.com/es/film957921.html · https://www.filmaffinity.com/es/film757557.html · https://www.filmaffinity.com/es/film399542.html · https://www.filmaffinity.com/es/film948200.html · https://www.filmaffinity.com/es/film927339.html"
+              "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1966"
             }
           ],
-          "award": "Copa Volpi · mejor actriz · Natalia Arinbasarova",
-          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+          "asacId": 9535,
+          "asacProgrammeTitle": "Pervyy uchitel",
+          "asacYear": 1965,
+          "source": "https://asac.labiennale.org/attivita/cinema/9535",
+          "sourceDuration": "98 minuti",
+          "award": "Copa Volpi · mejor actriz",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Al azar, Baltasar",
+          "director": "Robert Bresson",
+          "aliases": [
+            "Au Hasard Balthazar",
+            "Au Hasard, Balthazar",
+            "Balthazar",
+            "Alla ventura, Balthazar",
+            "Randomly Balthazar",
+            "Au hasard Balthazar"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6310,
+          "asacProgrammeTitle": "Au Hasard Balthazar",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/6310",
+          "sourceDuration": "105 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Los Ángeles del Infierno",
+          "director": "Roger Corman",
+          "aliases": [
+            "The Wild Angels",
+            "I selvaggi",
+            "Gli angeli selvaggi"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6386,
+          "asacProgrammeTitle": "The Wild Angels",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/6386",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Las criaturas",
+          "director": "Agnès Varda",
+          "aliases": [
+            "Les créatures",
+            "The Creatures",
+            "Le creature",
+            "Les Créatures"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9062,
+          "asacProgrammeTitle": "Les créatures",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9062",
+          "sourceDuration": "99 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "El engaño",
+          "director": "Roger Vadim",
+          "aliases": [
+            "La curée",
+            "La calda preda",
+            "The Game Is Over",
+            "Tears of Rapture",
+            "La preda",
+            "The prey",
+            "La Curée"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9063,
+          "asacProgrammeTitle": "La curée",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9063",
+          "sourceDuration": "98 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Comédie",
+          "director": "Jean-Marie Serreau; Jean Ravel; Marin Karmitz",
+          "aliases": [
+            "Comedie",
+            "Commedia",
+            "Comedy"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9068,
+          "asacProgrammeTitle": "Comédie",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9068",
+          "sourceDuration": "20 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Fahrenheit 451",
+          "director": "François Truffaut",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9085,
+          "asacProgrammeTitle": "Fahrenheit 451",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9085",
+          "sourceDuration": "112 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Atithi",
+          "director": "Tapan Sinha",
+          "aliases": [
+            "Il fuggiasco",
+            "The Runaway"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9087,
+          "asacProgrammeTitle": "Atithi",
+          "asacYear": 1965,
+          "source": "https://asac.labiennale.org/attivita/cinema/9087",
+          "sourceDuration": "110 minuti",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Campanadas a medianoche",
+          "director": "Orson Welles",
+          "aliases": [
+            "Campanadas de medianoche",
+            "Falstaff"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9533,
+          "asacProgrammeTitle": "Campanadas a medianoche",
+          "asacYear": 1965,
+          "source": "https://asac.labiennale.org/attivita/cinema/9533",
+          "sourceDuration": "119 minuti",
+          "filmAffinityId": "926968",
+          "filmaffinityTitle": "Campanadas a medianoche",
+          "award": "En competición",
+          "identityStatus": "FILMAFFINITY_ID_LINKED",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
+        },
+        {
+          "title": "Nattlek",
+          "director": "Mai Zetterling",
+          "aliases": [
+            "Natt lek",
+            "Giochi di notte",
+            "Night Games"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9534,
+          "asacProgrammeTitle": "Nattlek",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9534",
+          "sourceDuration": "105 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "En competición",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "SELECCION_DOCUMENTADA"
         }
-      ]
+      ],
+      "originalSection": "In Concorso"
+    },
+    {
+      "festival": "Venecia",
+      "year": 1966,
+      "section": "Fuera de concurso",
+      "films": [
+        {
+          "title": "La prise du pouvoir par Louis XIV",
+          "director": "Roberto Rossellini",
+          "aliases": [
+            "La presa del potere da parte di Luigi XIV",
+            "The Taking of Power by Louis XIV",
+            "The Rise of Louis XIV"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 5503,
+          "asacProgrammeTitle": "La prise du pouvoir par Louis XIV",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/5503",
+          "sourceDuration": "90 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Francesco d'Assisi",
+          "director": "Liliana Cavani",
+          "aliases": [
+            "Francesco di Assisi",
+            "Francis of Assisi"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6362,
+          "asacProgrammeTitle": "Francesco d'Assisi",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/6362",
+          "sourceDuration": "134 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Buster Keaton está de vuelta",
+          "director": "John Spotton",
+          "aliases": [
+            "Buster Keaton Rides Again",
+            "Buster Keaton corre ancora"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 6922,
+          "asacProgrammeTitle": "Buster Keaton Rides Again",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/6922",
+          "sourceDuration": "55 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Het afscheid",
+          "director": "Roland Verhavert",
+          "aliases": [
+            "Gli addii",
+            "Farewells"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9057,
+          "asacProgrammeTitle": "Het afscheid",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9057",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "A grande cidade",
+          "director": "Carlos Diegues",
+          "aliases": [
+            "The Big City",
+            "A Grande Cidade ou As Aventuras e Desventuras de Luzia e Seus 3 Amigos Chegados de Longe",
+            "La grande città"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9059,
+          "asacProgrammeTitle": "A grande cidade",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9059",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "El coraje cotidiano",
+          "director": "Evald Schorm",
+          "aliases": [
+            "Kazdy den odvahu",
+            "Každý den odvahu",
+            "Il coraggio quotidiano",
+            "Courage for Every Day",
+            "Everyday Courage"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9060,
+          "asacProgrammeTitle": "Kazdy den odvahu",
+          "asacYear": 1964,
+          "source": "https://asac.labiennale.org/attivita/cinema/9060",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Tanin no kao",
+          "director": "Hiroshi Teshigahara",
+          "aliases": [
+            "Il volto di un altro",
+            "The Face of Another",
+            "Stranger's Face"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9075,
+          "asacProgrammeTitle": "Tanin no kao",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9075",
+          "sourceDuration": "100 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "I Was Happy Here",
+          "director": "Desmond Davis",
+          "aliases": [
+            "Time Lost and Time Remembered",
+            "Ero felice qui"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9082,
+          "asacProgrammeTitle": "I Was Happy Here",
+          "asacYear": 1965,
+          "source": "https://asac.labiennale.org/attivita/cinema/9082",
+          "sourceDuration": "91 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Callejón sin salida",
+          "director": "Roman Polanski",
+          "aliases": [
+            "Cul-de-sac",
+            "Cul de sac",
+            "Cul-De-Sac",
+            "Vicolo cieco",
+            "Dead-end"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9083,
+          "asacProgrammeTitle": "Cul-de-sac",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9083",
+          "sourceDuration": "111 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Sticenik",
+          "director": "Vladan Slijepcevic",
+          "aliases": [
+            "Štićenik",
+            "Il carrierista",
+            "The Climber"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9094,
+          "asacProgrammeTitle": "Sticenik",
+          "asacYear": null,
+          "source": "https://asac.labiennale.org/attivita/cinema/9094",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "La soldadera",
+          "director": "José Bolaños",
+          "aliases": [
+            "La soldatessa",
+            "The Female Soldier"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9097,
+          "asacProgrammeTitle": "La soldadera",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9097",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "Cambiar de vida",
+          "director": "Paulo Rocha",
+          "aliases": [
+            "Mudar de vida",
+            "Cambiare vita",
+            "Change One's Life",
+            "Mudar de Vida"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9530,
+          "asacProgrammeTitle": "Mudar de vida",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9530",
+          "sourceDuration": "90 minuti",
+          "titleSource": "Maestro aprobado · título ES",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        },
+        {
+          "title": "The Drifter",
+          "director": "Alex Matter",
+          "aliases": [
+            "Lo sbandato"
+          ],
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 9536,
+          "asacProgrammeTitle": "The Drifter",
+          "asacYear": 1966,
+          "source": "https://asac.labiennale.org/attivita/cinema/9536",
+          "sourceDuration": "85 minuti",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "competitionStatus": "FUERA_DE_CONCURSO"
+        }
+      ],
+      "originalSection": "Fuori Concorso"
     }
   ]
 }

@@ -1,0 +1,184 @@
+{
+  "date": "2026-10-22",
+  "families": [
+    "Venecia"
+  ],
+  "status": "PROGRAMAS_PRINCIPALES_RECUPERADOS_CON_OTROS_BLOQUES_PENDIENTES",
+  "counts": [
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "films": 15,
+      "declaredOwned": 10
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "films": 12,
+      "declaredOwned": 4
+    }
+  ],
+  "asacCoverage": {
+    "asacRecord": 41,
+    "title": "28. Mostra Internazionale d'Arte Cinematografica di Venezia",
+    "sections": [
+      {
+        "name": "In Concorso",
+        "films": 15
+      },
+      {
+        "name": "Fuori Concorso",
+        "films": 12
+      }
+    ],
+    "missingFilmRecords": [],
+    "asacTotalSections": 27
+  },
+  "asacAnnualSha256": "11a210ac7ea3fafe2c0e1ad0b14e7c729099db36a0e737b86a033f82c7fe6379",
+  "asacFilmResponseSha256": "14a8985ecba8398114df6111b9f8068d30ec4962e7e303958b31bcf83e758931",
+  "sources": [
+    "https://asac.labiennale.org/",
+    "https://asac.labiennale.org/api/ricerca-semplice"
+  ],
+  "method": "Consulta pública ASAC annali_cinema por año y cinema por ID; dirección tomada exclusivamente de créditos Regia. Programas retrospectivos y paralelos no importados indiscriminadamente. Premios personales separados. Evidencia histórica anterior conservada; las notas anteriores sobre falta de cotejo ASAC quedan sustituidas solo para las secciones aquí enumeradas.",
+  "unintegratedProgrammes": {
+    "personalRecognitions": [],
+    "otherSections": [
+      {
+        "name": "Il Cinema nel movimento espressionista tedesco e la figura di Carl Mayer",
+        "films": 21
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario",
+        "films": 9
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film per la fanciullezza - Gruppo A - Film a carattere ricreativo",
+        "films": 12
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film a soggetto della normale produzione",
+        "films": 5
+      },
+      {
+        "name": "Informativa",
+        "films": 0
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi",
+        "films": 0
+      },
+      {
+        "name": "Omaggio a Walt Disney",
+        "films": 21
+      },
+      {
+        "name": "Retrospettiva Western: le origini",
+        "films": 52
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film per l'adolescenza - Gruppo A - Film a carattere ricreativo",
+        "films": 2
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo B - Film sportivi e turistici",
+        "films": 7
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo A - Film geografici, etnografici e di folklore",
+        "films": 11
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo C - Film scientifici di ricerca e di informazione",
+        "films": 7
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo D - Film culturali ed educativi",
+        "films": 11
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo E - Film di vita contemporanea e di documentazione sociale",
+        "films": 21
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo F - Film sull'arte",
+        "films": 12
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Documentari - Gruppo G - Film di medicina e chirurgia",
+        "films": 5
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Cortometraggi e mediometraggi a soggetto - Gruppo A - Sperimentali",
+        "films": 6
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Cortometraggi e mediometraggi a soggetto - Gruppo B - Narrativi",
+        "films": 11
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Cortometraggi e mediometraggi a soggetto - Gruppo C - Animazione",
+        "films": 4
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Teledocumentari - Gruppo A - Teledocumentari di montaggio",
+        "films": 0
+      },
+      {
+        "name": "18. Mostra Internazionale del Film Documentario - Teledocumentari - Gruppo B - Documentari d'attualità realizzati appositamente per la televisione",
+        "films": 7
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film per l'infanzia - Gruppo A - Film a carattere ricreativo",
+        "films": 7
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film per l'infanzia - Gruppo B - Film a carattere educativo o didattico",
+        "films": 2
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film per la fanciullezza - Gruppo B - Film a carattere educativo o didattico",
+        "films": 8
+      },
+      {
+        "name": "19. Mostra Internazionale del Film per Ragazzi - Film per l'adolescenza - Gruppo B - Film a carattere educativo o didattico",
+        "films": 4
+      }
+    ]
+  },
+  "identityCorrection": {
+    "year": 1967,
+    "supersededEvidence": [
+      {
+        "festival": "Venecia",
+        "year": 1967,
+        "section": "Palmarés documentado · fuera de los programas recuperados",
+        "films": [
+          {
+            "title": "Alba",
+            "director": "Rados Novaković",
+            "aliases": [],
+            "nominations": [
+              "Copa Volpi · mejor actor · Ljubiša Samardžić"
+            ],
+            "wins": [
+              "Copa Volpi · mejor actor · Ljubiša Samardžić"
+            ],
+            "candidacies": [
+              {
+                "category": "Copa Volpi · mejor actor",
+                "person": "Ljubiša Samardžić",
+                "winner": true,
+                "source": "https://www.oscars.org/oscars/ceremonies/1967 · https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1967 · https://www.bafta.org/awards/film/?award-year=1967 · https://www.festival-cannes.com/en/retrospective/1967/selection/ · https://www.festival-cannes.com/en/retrospective/1967/palmares/ · https://www.sansebastianfestival.com/1967/sections_and_films/8/in · https://www.sansebastianfestival.com/1967/premios_y_jurados/premios/1/60/es · https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_de_1967 · https://asac.labiennale.org/collezioni/fototeca/fascicoli/479738 · https://asac.labiennale.org/attivita/cinema/6216 · https://www.labiennale.org/en/history-venice-film-festival · https://www.labiennale.org/en/history/post-war-period-and-60s"
+              }
+            ],
+            "award": "Copa Volpi · mejor actor · Ljubiša Samardžić",
+            "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+            "competitionStatus": "SELECCION_DOCUMENTADA"
+          }
+        ]
+      }
+    ],
+    "resolution": "El premio masculino corresponde a Jutro, de Mladomir Purisa Djordjevic, según ASAC. La atribución previa Alba/Rados Novaković no se publica como otra película premiada."
+  }
+}

@@ -357,5 +357,27 @@
       ],
       "currentHandling": "No se asignan IDs por semejanza. La comprobación individual de todas las ausencias queda pendiente."
     }
-  ]
+  ],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1974.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Propuestas de nuevos filmes · manifestaciones cinematográficas",
+          "films": 14,
+          "declaredOwned": 2
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1974.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }

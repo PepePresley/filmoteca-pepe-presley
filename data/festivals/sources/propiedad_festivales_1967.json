@@ -2196,7 +2196,7 @@
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "section": "Competición oficial",
       "title": "Bella de día",
       "director": "Luis Buñuel",
       "ownership": "CONFIRMED",
@@ -2212,15 +2212,103 @@
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
-      "title": "Alba",
-      "director": "Rados Novaković",
+      "section": "Competición oficial",
+      "title": "El Extranjero",
+      "director": "Luchino Visconti",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 61,
+        "titleES": "El Extranjero",
+        "originalTitle": "Lo straniero",
+        "director": "Luchino Visconti",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "China esta cerca",
+      "director": "Marco Bellocchio",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 185,
+        "titleES": "China esta cerca",
+        "originalTitle": "La Cina è vicina",
+        "director": "Marco Bellocchio",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Noc nevěsti",
+      "director": "Karel Kachyna",
       "ownership": "PENDING",
       "reference": null
     },
     {
       "festival": "Venecia",
-      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "section": "Competición oficial",
+      "title": "O salto",
+      "director": "Christian de Chalonge",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Jutro",
+      "director": "Mladomir 'Purisa' Djordjevic",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Utószezon",
+      "director": "Zoltán Fábri",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 633,
+        "titleES": "Utószezon",
+        "originalTitle": "Utószezon",
+        "director": "Fábri Zoltán",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "La chinoise",
+      "director": "Jean-Luc Godard",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 29,
+        "titleES": "La chinoise",
+        "originalTitle": "La Chinoise",
+        "director": "Jean-Luc Godard",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Oi voskoi",
+      "director": "Nikos Papatakis",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
       "title": "Dutchman",
       "director": "Anthony Harvey",
       "ownership": "CONFIRMED",
@@ -2233,6 +2321,206 @@
         "director": "Anthony Harvey",
         "year": 1967
       }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Mahlzeiten",
+      "director": "Edgar Reitz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 406,
+        "titleES": "Mahlzeiten",
+        "originalTitle": "Mahlzeiten",
+        "director": "Edgar Reitz",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Il padre di famiglia",
+      "director": "Nanni Loy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "A las nueve cada noche",
+      "director": "Jack Clayton",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 40,
+        "titleES": "A las nueve cada noche",
+        "originalTitle": "Our Mother's House",
+        "director": "Jack Clayton",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "Edipo, el hijo de la fortuna",
+      "director": "Pier Paolo Pasolini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 38,
+        "titleES": "Edipo, el hijo de la fortuna",
+        "originalTitle": "Edipo re",
+        "director": "Pier Paolo Pasolini",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Competición oficial",
+      "title": "El subversivo",
+      "director": "Vittorio Taviani; Paolo Taviani",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 279,
+        "titleES": "El subversivo",
+        "originalTitle": "I sovversivi",
+        "director": "Paolo Taviani, Vittorio Taviani",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Con el corazón en la garganta",
+      "director": "Tinto Brass",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 373,
+        "titleES": "Con el corazón en la garganta",
+        "originalTitle": "Col cuore in gola",
+        "director": "Tinto Brass",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Mouchette",
+      "director": "Robert Bresson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 26,
+        "titleES": "Mouchette",
+        "originalTitle": "Mouchette",
+        "director": "Robert Bresson",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Festival",
+      "director": "Murray Lerner",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 126,
+        "titleES": "Festival",
+        "originalTitle": "Festival",
+        "director": "Murray Lerner",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Desert people",
+      "director": "Ian Dunlop",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Spur eines Mädchens",
+      "director": "Gustav Ehmck",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Egy szerelem harom ejszakaja",
+      "director": "György Révész",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Le mur",
+      "director": "Serge Roullet",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Jaguar",
+      "director": "Jean Rouch",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 108,
+        "titleES": "Jaguar",
+        "originalTitle": "Jaguar",
+        "director": "Jean Rouch",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Ciao",
+      "director": "David Tucker",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Tätowierung",
+      "director": "Johannes Schaaf",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Otklonenie",
+      "director": "Todor Stoyanov; Grisha Ostrovski",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso",
+      "title": "Mexico-Mexico",
+      "director": "François Reichenbach",
+      "ownership": "PENDING",
+      "reference": null
     }
   ]
 }

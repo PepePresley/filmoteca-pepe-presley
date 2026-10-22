@@ -290,5 +290,27 @@
       "question": "La historia oficial acredita la actividad y su formato distinto en 1974–1976, pero no ofrece la lista de películas de 1976.",
       "impact": "Programa pendiente."
     }
-  ]
+  ],
+  "supplements": [
+    {
+      "date": "2026-10-22",
+      "source": "suplemento_berlin_venecia_1976.json",
+      "families": [
+        "Venecia"
+      ],
+      "counts": [
+        {
+          "festival": "Venecia",
+          "section": "Propuestas de nuevos filmes · manifestaciones cinematográficas",
+          "films": 53,
+          "declaredOwned": 8
+        }
+      ]
+    }
+  ],
+  "latestCoverage": {
+    "status": "CON_BLOQUES_PENDIENTES",
+    "supplement": "suplemento_berlin_venecia_1976.json",
+    "note": "Las notas y coberturas previas se conservan como historial. Este suplemento sustituye las dudas de programa ASAC exclusivamente en las secciones enumeradas."
+  }
 }
