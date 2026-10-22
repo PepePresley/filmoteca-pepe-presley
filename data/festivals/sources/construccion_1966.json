@@ -1,0 +1,284 @@
+{
+  "year": 1966,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1966; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1966_para_Sol.zip",
+    "sha256": "14db6086e6fd180b1e564b5c3970fbb4f9c49e5a6b28540c5fef5da639babd8a"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1965",
+      "films": 42,
+      "declaredOwned": 24,
+      "withFA": 9,
+      "candidacyAppearances": 75
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 15,
+      "declaredOwned": 2,
+      "withFA": 1,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 15,
+      "declaredOwned": 3,
+      "withFA": 1,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 26,
+      "declaredOwned": 20,
+      "withFA": 2,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 38.ª edición",
+      "films": 55,
+      "declaredOwned": 40,
+      "withFA": 42,
+      "candidacyAppearances": 122
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 8,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 4,
+      "declaredOwned": 3,
+      "withFA": 1,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 16,
+      "declaredOwned": 7,
+      "withFA": 3,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "films": 4,
+      "declaredOwned": 3,
+      "withFA": 1,
+      "candidacyAppearances": 4
+    }
+  ],
+  "sources": [
+    {
+      "file": "extracciones/oscars_1966_academy_transcription.json",
+      "type": "transcripción estructurada de fuente oficial",
+      "urls": [
+        "https://www.oscars.org/oscars/ceremonies/1966/S"
+      ]
+    },
+    {
+      "file": "extracciones/oscars_1966_filmaffinity_crosscheck.json",
+      "type": "extracto de índice FilmAffinity España; no captura de fichas individuales",
+      "urls": [
+        "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966"
+      ]
+    },
+    {
+      "file": "extracciones/bafta_film_1966_transcription.json",
+      "type": "transcripción estructurada del archivo oficial Film",
+      "urls": [
+        "https://www.bafta.org/awards/film/?award-year=1966"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1966_selection_transcription.json",
+      "type": "transcripción estructurada de retrospectiva oficial",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1966/"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1966_awards_transcription.json",
+      "type": "transcripción estructurada de palmarès oficial (resultados indexados)",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1966/awards/"
+      ]
+    },
+    {
+      "file": "extracciones/berlinale_1966_secondary_transcription.json",
+      "type": "transcripción secundaria de artículo enciclopédico con enlaces al archivo oficial",
+      "urls": [
+        "https://de.wikipedia.org/wiki/Internationale_Filmfestspiele_Berlin_1966"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1966_programme_transcription.json",
+      "type": "transcripción parcial de archivo oficial",
+      "urls": [
+        "https://www.sansebastianfestival.com/1966/sections_and_films/8/in"
+      ]
+    },
+    {
+      "file": "extracciones/venice_1966_history_transcription.json",
+      "type": "transcripción de historia oficial Biennale y registro ASAC",
+      "urls": [
+        "https://www.labiennale.org/en/history-venice-film-festival",
+        "https://asac.labiennale.org/collezioni/fototeca/fascicoli/479541"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1966_awards_transcription.json",
+      "type": "transcripción estructurada del archivo oficial",
+      "urls": [
+        "https://www.sansebastianfestival.com/1966/awards_and_jury_members/awards/1/59/in"
+      ]
+    },
+    {
+      "file": "extracciones/filmaffinity_1966_identity_links.json",
+      "type": "índice de identidades enlazadas de FilmAffinity España más fichas individuales consultadas para los seis registros indicados",
+      "urls": [
+        "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1966",
+        "https://www.filmaffinity.com/es/film926968.html",
+        "https://www.filmaffinity.com/es/film957921.html",
+        "https://www.filmaffinity.com/es/film757557.html",
+        "https://www.filmaffinity.com/es/film399542.html",
+        "https://www.filmaffinity.com/es/film948200.html",
+        "https://www.filmaffinity.com/es/film927339.html"
+      ]
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1963–1970, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1965–1969; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: solo palmarés recuperado, sin afirmar reconstruida la selección completa.",
+    "Homónimo resuelto: Hamlet (Gamlet) de BAFTA es la versión de Grigori Kozintsev, FilmAffinity362294. No se fuerza la propiedad de las otras versiones presentes en maestros. Fuente: https://www.filmaffinity.com/es/filmimages.php?movie_id=362294 ."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA|1966|Mejor vestuario británico · color|Margaret Furse",
+      "category": "Mejor vestuario británico · color",
+      "person": "Margaret Furse",
+      "winner": false,
+      "films": [
+        "El soñador rebelde",
+        "El nuevo caso del inspector Clouseau"
+      ]
+    },
+    {
+      "id": "BAFTA1966-ForeignActor-LeeMarvin",
+      "category": "Mejor actor extranjero",
+      "person": "Lee Marvin",
+      "winner": true,
+      "films": [
+        "La ingenua explosiva",
+        "Código del hampa"
+      ]
+    },
+    {
+      "id": "BAFTA1966-ForeignActor-JackLemmon",
+      "category": "Mejor actor extranjero",
+      "person": "Jack Lemmon",
+      "winner": false,
+      "films": [
+        "Good Neighbour Sam",
+        "Cómo matar a la propia esposa"
+      ]
+    },
+    {
+      "id": "BAFTA1966-BritishActress-JulieAndrews",
+      "category": "Mejor actriz británica",
+      "person": "Julie Andrews",
+      "winner": false,
+      "films": [
+        "The Americanisation Of Emily",
+        "Sonrisas y lágrimas"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1966,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Oscar",
+        "status": "parcial",
+        "coverage": "38.ª ceremonia; todas las categorías competitivas cinematográficas transcritas desde Academy; honoríficos separados.",
+        "remaining": "IDs y títulos FA no verificados individualmente; revisar dos rótulos técnicos del archivo y personas/categorías contra Academy."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "parcial",
+        "coverage": "17 categorías Film transcritas del archivo oficial; televisión excluida.",
+        "remaining": "IDs FilmAffinity pendientes; revisar atribución de las películas compartidas Foreign Actor."
+      },
+      {
+        "festival": "Cannes",
+        "status": "parcial",
+        "coverage": "Selección oficial retrospectiva: 25 largometrajes y 15 cortos; palmarès recuperado.",
+        "remaining": "Sección fuera de concurso no reconstruida; verificar etiqueta histórica de mención UCCELLACCI E UCCELLINI y FilmAffinity."
+      },
+      {
+        "festival": "Berlín",
+        "status": "parcial",
+        "coverage": "15 títulos de competición y premios principales de transcripción secundaria.",
+        "remaining": "Falta contraste con fuente primaria del archivo Berlinale."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "parcial",
+        "coverage": "Archivo oficial declara 75 películas; largometrajes y cortos parciales, premios oficiales integrados (incluida Concha de Oro de corto), y OOC explícito separado.",
+        "remaining": "Faltan títulos de la Sección Oficial, cortos y programas informativos/retrospectivos; selección sigue incompleta."
+      },
+      {
+        "festival": "Venecia",
+        "status": "parcial",
+        "coverage": "27.ª Mostra confirmada; Golden Lion y Coppa Volpi recuperados.",
+        "remaining": "Programa completo y otras categorías no reconstruidos."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "FA-IDENTITY-1966",
+      "question": "Verificación parcial realizada. Se asignaron IDs desde enlaces de películas del índice FilmAffinity España de los Oscar 1966 y desde seis fichas individuales consultadas; las identidades festivaleras restantes sin coincidencia inequívoca continúan con filmAffinityId null y no se investigaron una por una.",
+      "resolvedInPart": "extracciones/filmaffinity_1966_identity_links.json"
+    },
+    {
+      "id": "CANNES-OOC",
+      "question": "No se reconstruyó un bloque fuera de concurso fiable; el archivo de Cannes mostrado recupera competición, no un programa OOC diferenciado."
+    },
+    {
+      "id": "BERLIN-PRIMARY",
+      "question": "Competición y premios se basan en transcripción secundaria; pendiente contraste primario con el archivo oficial."
+    },
+    {
+      "id": "SANSEBASTIAN-PROGRAMME",
+      "question": "El archivo oficial informa 75 películas en distintos programas; la extracción no cubre todo el inventario ni todos los premios."
+    },
+    {
+      "id": "VENICE-PROGRAMME",
+      "question": "La edición y premios están documentados, pero falta el programa/selección completo."
+    },
+    {
+      "id": "CANNES-1966-MENTION",
+      "question": "La ficha retrospectiva actual relaciona una mención UCC con UCCELLACCI E UCCELLINI, pero la etiqueta retrospectiva no prueba que existiera una sección UCC en 1966; se conserva como duda y no como sección independiente."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

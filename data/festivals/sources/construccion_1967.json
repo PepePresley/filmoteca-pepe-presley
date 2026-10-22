@@ -1,0 +1,264 @@
+{
+  "year": 1967,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1967; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1967_para_Sol.zip",
+    "sha256": "d436856a8a25ad819e4e5f94b86f29131f2937b4219aade0f2ea140876b02f45"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1966",
+      "films": 38,
+      "declaredOwned": 27,
+      "withFA": 0,
+      "candidacyAppearances": 75
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 22,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 12
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 16,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 24,
+      "declaredOwned": 15,
+      "withFA": 0,
+      "candidacyAppearances": 12
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 7,
+      "declaredOwned": 4,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 39.ª edición",
+      "films": 51,
+      "declaredOwned": 28,
+      "withFA": 0,
+      "candidacyAppearances": 117
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 8,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 17,
+      "declaredOwned": 9,
+      "withFA": 0,
+      "candidacyAppearances": 7
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "films": 3,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    }
+  ],
+  "sources": [
+    {
+      "file": "extracciones/oscars_1967_academy_transcription.json",
+      "captureType": "structured transcription",
+      "urls": [
+        "https://www.oscars.org/oscars/ceremonies/1967"
+      ]
+    },
+    {
+      "file": "extracciones/filmaffinity_oscar_1967_index.json",
+      "captureType": "web search extraction (not page screenshot)",
+      "urls": [
+        "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1967"
+      ]
+    },
+    {
+      "file": "extracciones/bafta_film_1967_transcription.json",
+      "captureType": "structured transcription from official Film awards archive",
+      "urls": [
+        "https://www.bafta.org/awards/film/?award-year=1967"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1967_selection_transcription.json",
+      "captureType": "structured transcription from official retrospective",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1967/selection/"
+      ]
+    },
+    {
+      "file": "extracciones/cannes_1967_palmares_transcription.json",
+      "captureType": "structured transcription from official retrospective",
+      "urls": [
+        "https://www.festival-cannes.com/en/retrospective/1967/palmares/"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1967_programme_transcription.json",
+      "captureType": "partial structured transcription from official festival archive",
+      "urls": [
+        "https://www.sansebastianfestival.com/1967/sections_and_films/8/in"
+      ]
+    },
+    {
+      "file": "extracciones/sansebastian_1967_awards_transcription.json",
+      "captureType": "structured transcription from official festival archive",
+      "urls": [
+        "https://www.sansebastianfestival.com/1967/premios_y_jurados/premios/1/60/es"
+      ]
+    },
+    {
+      "file": "extracciones/berlinale_1967_secondary_transcription.json",
+      "captureType": "secondary transcription citing official Berlinale program/awards archive",
+      "urls": [
+        "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_de_1967"
+      ]
+    },
+    {
+      "file": "extracciones/venice_1967_activity_transcription.json",
+      "captureType": "official archive and secondary history extraction",
+      "urls": [
+        "https://asac.labiennale.org/collezioni/fototeca/fascicoli/479738",
+        "https://asac.labiennale.org/attivita/cinema/6216",
+        "https://www.labiennale.org/en/history-venice-film-festival",
+        "https://www.labiennale.org/en/history/post-war-period-and-60s"
+      ]
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1963–1970, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1965–1969; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: solo palmarés recuperado, sin afirmar reconstruida la selección completa."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA1967-BritishActor-RichardBurton",
+      "category": "Mejor actor británico",
+      "person": "Richard Burton",
+      "winner": true,
+      "films": [
+        "El espía que surgió del frío",
+        "¿Quién teme a Virginia Woolf?"
+      ]
+    },
+    {
+      "id": "BAFTA1967-BritishActor-RalphRichardson",
+      "category": "Mejor actor británico",
+      "person": "Ralph Richardson",
+      "winner": false,
+      "films": [
+        "La caja de las sorpresas",
+        "Doctor Zhivago",
+        "Kartum"
+      ]
+    },
+    {
+      "id": "BAFTA1967-BritishActress-JulieChristie",
+      "category": "Mejor actriz británica",
+      "person": "Julie Christie",
+      "winner": false,
+      "films": [
+        "Doctor Zhivago",
+        "Fahrenheit 451"
+      ]
+    },
+    {
+      "id": "BAFTA|1967|Mejor montaje británico|Freddie Wilson",
+      "category": "Mejor montaje británico",
+      "person": "Freddie Wilson",
+      "winner": false,
+      "films": [
+        "Conspiración en Berlín",
+        "Arabesco"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1967,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Oscar",
+        "status": "parcial",
+        "coverage": "39.ª ceremonia, candidaturas competitivas de cine en todas las categorías; premios personales aparte.",
+        "remaining": "Títulos registrados e IDs FilmAffinity sin verificación individual; cotejo final de créditos y categorías de ramas técnicas."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "parcial",
+        "coverage": "Todas las categorías Film disponibles en el archivo oficial transcritas, excluida televisión.",
+        "remaining": "Cruce de título/ID individual FilmAffinity; confirmar si hay Fellowship o premio personal no representado en Film."
+      },
+      {
+        "festival": "Cannes",
+        "status": "parcial",
+        "coverage": "Selección oficial retrospectiva: 24 largometrajes, 7 fuera de concurso, 16 cortos; palmarés oficial incorporado.",
+        "remaining": "Verificar títulos registrados/IDs FilmAffinity y auditar que cada premio/persona quede anclado al registro correcto."
+      },
+      {
+        "festival": "Berlín",
+        "status": "parcial",
+        "coverage": "22 películas de competición y premios principales reconstruidos de fuente secundaria citando referencias oficiales.",
+        "remaining": "Validación primaria pendiente porque la consulta al endpoint oficial dio 503; identidad FA pendiente."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "parcial",
+        "coverage": "Sección oficial de largometrajes y premios oficiales; algunos cortos identificados; 3 películas expresamente fuera de concurso separadas.",
+        "remaining": "Archivo declara 48 películas y presenta errores SQL en filas; faltan cortos y otros programas."
+      },
+      {
+        "festival": "Venecia",
+        "status": "parcial",
+        "coverage": "28.ª Mostra celebrada; premios oficiales históricos recuperados, incluido León de Oro.",
+        "remaining": "Programa y selecciones completas sin transcribir desde ASAC."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "FA-IDENTITY-1967",
+      "question": "Los filmAffinityId son null: falta verificar título registrado, ID y URL de cada película en FilmAffinity España."
+    },
+    {
+      "id": "BERLINALE-PRIMARY",
+      "question": "La lista de Berlín y sus premios procede de transcripción secundaria; cotejar el catálogo/archivo oficial cuando el endpoint esté disponible."
+    },
+    {
+      "id": "SANSEBASTIAN-FULL",
+      "question": "El archivo oficial declara 48 películas; la extracción tiene errores SQL en varias filas y no cubre todos los cortos/programas."
+    },
+    {
+      "id": "VENICE-PROGRAMME",
+      "question": "Se confirma la edición y parte del palmarés, pero no se reconstruyó selección completa ni secciones."
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

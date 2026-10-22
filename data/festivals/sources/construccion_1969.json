@@ -1,0 +1,311 @@
+{
+  "year": 1969,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1969; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1969_para_Sol.zip",
+    "sha256": "e8e7a97ce8f7bf6e7fb78391950ba7fac0068709583ff9657650224f0dff3437"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "films": 31,
+      "declaredOwned": 16,
+      "withFA": 0,
+      "candidacyAppearances": 75
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 24,
+      "declaredOwned": 3,
+      "withFA": 1,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Berlín",
+      "section": "Premios independientes · selección parcial",
+      "films": 4,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 14,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 27,
+      "declaredOwned": 21,
+      "withFA": 0,
+      "candidacyAppearances": 9
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 6,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "films": 51,
+      "declaredOwned": 31,
+      "withFA": 0,
+      "candidacyAppearances": 104
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 15,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 1
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 17,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "films": 13,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "films": 25,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    }
+  ],
+  "sources": {
+    "year": 1969,
+    "sources": [
+      {
+        "url": "https://www.oscars.org/oscars/ceremonies/embed/1969",
+        "type": "Academy official award archive",
+        "captureType": "structured transcription of rendered official page; not screenshot",
+        "file": "extracciones/oscars_1969_academy_transcription.json"
+      },
+      {
+        "url": "https://www.bafta.org/awards/film/?award-year=1969",
+        "type": "BAFTA official Film archive",
+        "captureType": "structured transcription of rendered official page; not screenshot",
+        "file": "extracciones/bafta_film_1969_transcription.json"
+      },
+      {
+        "url": "https://www.festival-cannes.com/en/retrospective/1969/selection/",
+        "type": "Festival de Cannes official archive",
+        "captureType": "structured transcription; not screenshot",
+        "file": "extracciones/cannes_1969_selection_transcription.json"
+      },
+      {
+        "url": "https://www.festival-cannes.com/en/retrospective/1969/awards/",
+        "type": "Festival de Cannes official archive",
+        "captureType": "structured transcription; not screenshot",
+        "file": "extracciones/cannes_1969_awards_transcription.json"
+      },
+      {
+        "url": "https://www.sansebastianfestival.com/1969/secciones_y_peliculas/8/es",
+        "type": "San Sebastián official archive",
+        "captureType": "structured transcription; not screenshot",
+        "file": "extracciones/sansebastian_1969_programme_transcription.json"
+      },
+      {
+        "url": "https://www.sansebastianfestival.com/1969/premios_y_jurados/premios/1/62/es",
+        "type": "San Sebastián official archive",
+        "captureType": "structured transcription; not screenshot",
+        "file": "extracciones/sansebastian_1969_awards_transcription.json"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/19th_Berlin_International_Film_Festival",
+        "type": "secondary summary citing Berlinale archived PROGRAMME 1969 and PRIZES & HONOURS 1969",
+        "captureType": "structured transcription; not screenshot",
+        "file": "extracciones/berlinale_1969_secondary_transcription.json"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/30th_Venice_International_Film_Festival",
+        "type": "secondary selection listing; non-competitive format verified by La Biennale official history",
+        "captureType": "structured transcription; not screenshot",
+        "file": "extracciones/venice_1969_secondary_transcription.json"
+      },
+      {
+        "url": "https://www.filmaffinity.com/es/award-edition.php?edition-id=academy_awards_1969",
+        "type": "FilmAffinity España award edition",
+        "captureType": "search-rendered extraction, not direct page capture",
+        "file": "extracciones/filmaffinity_oscar_1969_index.json"
+      },
+      {
+        "file": "extracciones/berlinale_1969_spanish_wikipedia_transcription.json",
+        "type": "transcripción de fuente secundaria con 24 títulos; cita el programa y premios oficiales Berlinale, cuyo enlace directo devolvió 503",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Festival_Internacional_de_Cine_de_Berl%C3%ADn_de_1969",
+          "https://www.berlinale.de/en/archiv/jahresarchive/1969/01_jahresblatt_1969/01_Jahresblatt_1969.html",
+          "https://www.berlinale.de/en/archiv/jahresarchive/1969/02_programm_1969/02_Programm_1969.html",
+          "https://www.berlinale.de/en/archiv/jahresarchive/1969/03_preise_1969/03_Preises_1969.html"
+        ]
+      },
+      {
+        "url": "https://www.bafta.org/awards/film/fellowship/",
+        "type": "archivo oficial BAFTA Film Fellowship; se verifica que la serie empieza en 1971",
+        "file": "extracciones/bafta_fellowship_archive_check_1969.json"
+      },
+      {
+        "url": "https://www.imdb.com/es-es/title/tt0064874/",
+        "type": "IMDb, referencia alternativa proporcionada por el usuario; consulta directa 403",
+        "file": "extracciones/imdb_early_works_1969_identity.json"
+      },
+      {
+        "id": "fa-aido-835454",
+        "title": "FilmAffinity: Aido (ID 835454)",
+        "url": "https://www.filmaffinity.com/us/movie-awards.php?movie-id=835454",
+        "sourceType": "FilmAffinity search-index extraction",
+        "accessNote": "La ficha española directa no fue recuperable en la consulta; el resultado indexado de FilmAffinity identifica Aido, 1969, Japón, dirección Susumu Hani, y su candidatura a Berlín 1969. ID tomado del parámetro movie-id de la URL oficial de FilmAffinity. URL estándar española consignada: https://www.filmaffinity.com/es/film835454.html.",
+        "transcription": {
+          "title": "Aido",
+          "year": 1969,
+          "country": "Japan",
+          "director": "Susumu Hani",
+          "festival": "19th Berlin International Film Festival 1969",
+          "candidacy": "Golden Bear - Best Picture",
+          "result": "nomination"
+        }
+      }
+    ],
+    "limitations": [
+      "FilmAffinity Spain identity/title/ID matching is not completed; null IDs indicate unverified, not absent.",
+      "Berlinale competition selection is secondary, even though the historical festival/award summary is cross-referenced to archived official programme and prizes pages.",
+      "Venice programme selection is secondary; official La Biennale confirms non-competitive period.",
+      "San Sebastián archive lists 91 films; only core competition/out-of-competition/short blocks included; other programs remain pending."
+    ]
+  },
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1963–1970, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1965–1969; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: edición no competitiva; selección e Informativa de fuente secundaria, pendientes de cotejo ASAC. Berlín: 24títulos concordantes en dos fuentes secundarias; falta acceso directo al catálogo oficial."
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "BAFTA1969-Actress-Katharine-Hepburn",
+      "category": "Mejor actriz",
+      "person": "Katharine Hepburn",
+      "winner": true,
+      "films": [
+        "Adivina quién viene esta noche",
+        "El león en invierno"
+      ]
+    },
+    {
+      "id": "BAFTA1969-Supporting-Actress-Billie-Whitelaw",
+      "category": "Mejor actriz de reparto",
+      "person": "Billie Whitelaw",
+      "winner": true,
+      "films": [
+        "Nervios rotos",
+        "La máscara y el rostro"
+      ]
+    }
+  ],
+  "packageCoverage": {
+    "year": 1969,
+    "overallStatus": "parcial; no cerrado",
+    "blocks": [
+      {
+        "festival": "Oscar",
+        "status": "parcial",
+        "coverage": "41st ceremony: competitive film categories transcribed from official Academy archive; special film awards and Martha Raye humanitarian award separated.",
+        "remaining": "FilmAffinity Spain title and ID verification; check award-team candidate credit grouping."
+      },
+      {
+        "festival": "BAFTA",
+        "status": "parcial",
+        "coverage": "Film archive categories and candidacies transcribed, TV excluded; multi-film person entries separated and linked.",
+        "remaining": "FilmAffinity identity matching; la consulta al archivo oficial de Fellowship confirma que no se concedió en 1969 (la serie empieza en 1971)."
+      },
+      {
+        "festival": "Cannes",
+        "status": "parcial",
+        "coverage": "27 feature competition, 6 out-of-competition and 14 short competition records plus retrospective awards.",
+        "remaining": "FilmAffinity registered-title/ID matching and review of title variants."
+      },
+      {
+        "festival": "Berlín",
+        "status": "parcial",
+        "coverage": "La selección de 24 títulos coincide entre la transcripción inglesa y la española de Wikipedia, ambas citan el programa oficial de 1969. El enlace directo al catálogo oficial devuelve 503, por lo que la selección está completa según fuentes secundarias concordantes, pendiente solo de verificación primaria.",
+        "remaining": "Verify the competition list against the original official 1969 programme; FilmAffinity identities pending."
+      },
+      {
+        "festival": "San Sebastián",
+        "status": "parcial",
+        "coverage": "17th edition; core official feature list, 2 explicit out-of-competition entries, short competition and official awards.",
+        "remaining": "Archive contains 91 records; informative, retrospectives and additional programmes not transcribed. FilmAffinity matches pending."
+      },
+      {
+        "festival": "Venecia",
+        "status": "parcial",
+        "coverage": "31? No: 30th edition occurred; non-competitive status confirmed officially; main selection and Informativa transcribed from secondary summary.",
+        "remaining": "Direct ASAC programme verification and FilmAffinity identity matching."
+      }
+    ]
+  },
+  "packageDoubts": {
+    "year": 1969,
+    "items": [
+      {
+        "id": "fa-identities",
+        "question": "Quedan identidades FilmAffinity por cotejar por lotes. Early Works/Rani radovi no tiene ficha FA según el usuario y conserva IMDb tt0064874; Aido ya queda identificado como FilmAffinity 835454.",
+        "impact": "La referencia FA de Aido queda resuelta; las demás identidades aún requieren cotejo por lotes.",
+        "needed": "Continuar el cotejo por lotes de títulos y directores con FilmAffinity España; solicitar al usuario enlaces solo para casos concretos sin coincidencia fiable."
+      },
+      {
+        "id": "berlinale-programme",
+        "question": "La discrepancia de lista queda resuelta en cuanto al recuento y los títulos: la página española y la inglesa enumeran los mismos 24 títulos que el paquete. La página española cita el programa oficial archivado, pero su enlace directo devuelve 503, así que no se verificó de primera mano el catálogo primario.",
+        "impact": "No hay discrepancia entre las dos transcripciones secundarias y la selección actual. La limitación restante es solo el acceso directo al catálogo oficial.",
+        "needed": "Ninguna acción del usuario por ahora; si el archivo oficial vuelve a estar accesible, cotejarlo como verificación primaria."
+      },
+      {
+        "id": "venice-asac",
+        "question": "Does the 25-title main selection and 13-title Informativa list match ASAC’s 30th Mostra archive?",
+        "impact": "No competitive prizes are asserted, but the programme list is secondary.",
+        "needed": "ASAC official programme export/catalogue."
+      },
+      {
+        "id": "ssiff-other-programs",
+        "question": "Should the remaining San Sebastián archive records (informative, Spanish cinema, retrospectives and other themed screenings) be included?",
+        "impact": "The archive has 91 records; current package focuses on main competition and shorts.",
+        "needed": "Scope decision or more program extraction."
+      }
+    ]
+  },
+  "unpublishedIdentityEvidence": []
+}

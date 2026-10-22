@@ -1,0 +1,2558 @@
+{
+  "scope": "Propiedad acreditada del bloque1969",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Adivina quién viene esta noche",
+      "director": "Stanley Kramer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 6,
+        "titleES": "Adivina quién viene esta noche",
+        "originalTitle": "Guess Who's Coming to Dinner",
+        "director": "Stanley Kramer",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "La última carga",
+      "director": "Tony Richardson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 60,
+        "titleES": "La última carga",
+        "originalTitle": "The Charge of the Light Brigade",
+        "director": "Tony Richardson",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Oliver",
+      "director": "Carol Reed",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "Oliver",
+        "originalTitle": "Oliver!",
+        "director": "Carol Reed",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "The Bofors Gun",
+      "director": "Jack Gold",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "El león en invierno",
+      "director": "Anthony Harvey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 23,
+        "titleES": "El león en invierno",
+        "originalTitle": "The Lion in Winter",
+        "director": "Anthony Harvey",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Raquel, Raquel",
+      "director": "Paul Newman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 62,
+        "titleES": "Raquel, Raquel",
+        "originalTitle": "Rachel, Rachel",
+        "director": "Paul Newman",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "El graduado",
+      "director": "Mike Nichols",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "El graduado",
+        "originalTitle": "The Graduate",
+        "director": "Mike Nichols",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Bella de día",
+      "director": "Luis Buñuel",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 12,
+        "titleES": "Bella de día",
+        "originalTitle": "Belle de jour",
+        "director": "Luis Buñuel",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Pas de Deux",
+      "director": "Norman McLaren",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 184,
+        "titleES": "Pas de Deux",
+        "originalTitle": "Pas de Deux",
+        "director": "Norman McLaren",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "The Hand",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "The House That Jack Built",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "The Question",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Romeo y Julieta",
+      "director": "Franco Zeffirelli",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Romeo y Julieta",
+        "originalTitle": "Romeo and Juliet",
+        "director": "Franco Zeffirelli",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Vivir para vivir",
+      "director": "Claude Lelouch",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 271,
+        "titleES": "Vivir para vivir",
+        "originalTitle": "Vivre pour vivre",
+        "director": "Claude Lelouch",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "2001: Una odisea del espacio",
+      "director": "Stanley Kubrick",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "2001: Una odisea del espacio",
+        "originalTitle": "2001: A Space Odyssey",
+        "director": "Stanley Kubrick",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Elvira Madigan",
+      "director": "Bo Widerberg",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 191,
+        "titleES": "Elvira Madigan",
+        "originalTitle": "Elvira Madigan",
+        "director": "Bo Widerberg",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "If...",
+      "director": "Lindsay Anderson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Closely Observed Trains",
+      "director": "Jiří Menzel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "In Need of Special Care",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "A Plague on Your Children",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Inside North Vietnam",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Music!",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "The Threat in the Water",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Carbon",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Genetics and Plant Breeding",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "The Kurer Anchor System",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Así no se trata a una dama",
+      "director": "Jack Smight",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 222,
+        "titleES": "Así no se trata a una dama",
+        "originalTitle": "No Way to Treat a Lady",
+        "director": "Jack Smight",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Nervios rotos",
+      "director": "Roy Boulting",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 194,
+        "titleES": "Nervios rotos",
+        "originalTitle": "Twisted Nerve",
+        "director": "Roy Boulting",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "La máscara y el rostro",
+      "director": "Albert Finney",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 383,
+        "titleES": "La máscara y el rostro",
+        "originalTitle": "Charlie Bubbles",
+        "director": "Albert Finney",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "La muerte llama a la puerta",
+      "director": "Curtis Harrington",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 254,
+        "titleES": "La muerte llama a la puerta",
+        "originalTitle": "Games",
+        "director": "Curtis Harrington",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1968",
+      "title": "Interlude",
+      "director": "Kevin Billington",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Aido",
+      "director": "Susumu Hani",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "A Quiet Place in the Country",
+      "director": "Elio Petri",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "A Touch of Love",
+      "director": "Waris Hussein",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Ballad of Carl-Henning",
+      "director": "Sven and Lene Grønlykke",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "La sala de estar con cama",
+      "director": "Richard Lester",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 240,
+        "titleES": "La sala de estar con cama",
+        "originalTitle": "The Bed Sitting Room",
+        "director": "Richard Lester",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Brazil Year 2000",
+      "director": "Walter Lima Jr.",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Coup de Grâce",
+      "director": "Ricardo Becher",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Early Works",
+      "director": "Želimir Žilnik",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Erotissimo",
+      "director": "Gérard Pirès",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Goopy Gyne Bagha Byne",
+      "director": "Satyajit Ray",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Gravitation",
+      "director": "Branko Ivanda",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Saludos",
+      "director": "Brian De Palma",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 66,
+        "titleES": "Saludos",
+        "originalTitle": "Greetings",
+        "director": "Brian De Palma",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "I'm an Elephant, Madame",
+      "director": "Peter Zadek",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "His Day of Glory",
+      "director": "Edoardo Bruno",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Honeycomb",
+      "director": "Carlos Saura",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Joy of Learning",
+      "director": "Jean-Luc Godard",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Love and Anger",
+      "director": "Carlo Lizzani; Pier Paolo Pasolini; Bernardo Bertolucci; Jean-Luc Godard; Marco Bellocchio",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Love Is Colder Than Death",
+      "director": "Rainer Werner Fassbinder",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Made in Sweden",
+      "director": "Johan Bergenstråhle",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Cowboy de medianoche",
+      "director": "John Schlesinger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Cowboy de medianoche",
+        "originalTitle": "Midnight Cowboy",
+        "director": "John Schlesinger",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Presadjivanje Osecanja",
+      "director": "Dejan Djurković",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "Three into Two Won't Go",
+      "director": "Peter Hall",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "To See Or Not To See",
+      "director": "Břetislav Pojar",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "title": "We Are All Demons",
+      "director": "Henning Carlsen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Berlín",
+      "section": "Premios independientes · selección parcial",
+      "title": "La vía láctea",
+      "director": "Luis Buñuel",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "La vía láctea",
+        "originalTitle": "La Voie lactée",
+        "director": "Luis Buñuel",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Premios independientes · selección parcial",
+      "title": "Cowboy de medianoche",
+      "director": "John Schlesinger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Cowboy de medianoche",
+        "originalTitle": "Midnight Cowboy",
+        "director": "John Schlesinger",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Premios independientes · selección parcial",
+      "title": "La sala de estar con cama",
+      "director": "Richard Lester",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 240,
+        "titleES": "La sala de estar con cama",
+        "originalTitle": "The Bed Sitting Room",
+        "director": "Richard Lester",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Berlín",
+      "section": "Premios independientes · selección parcial",
+      "title": "Erotissimo",
+      "director": "Gérard Pirès",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "CANTECELE RENASTERII",
+      "director": "Burt Young",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "DAS VERRÄTERISCHE HERTZ",
+      "director": "Paul Anczykowski",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "EL TRUNFO DE LA MUERTE",
+      "director": "José María Gutiérrez Santos",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Goldframe",
+      "director": "Raoul Servais",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 548,
+        "titleES": "Goldframe",
+        "originalTitle": "Goldframe",
+        "director": "Raoul Servais",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "L’HOMME AUX CHATS",
+      "director": "Henri Glaeser",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LA PINCE À ONGLES",
+      "director": "Jean-Claude Carrière",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "LE BALLET DES JACUNGOS",
+      "director": "Jean Manzon",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "MOC OSUDU",
+      "director": "Jiri Brnecka",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "NIEBIESKA KULA",
+      "director": "Treat Williams",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "RED ARROWS",
+      "director": "John Edwards",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "SHORT SEVEN",
+      "director": "Franco Ferrini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "SU SAMBENE NON EST ABA",
+      "director": "Luigi Gonzo; Manfredo Manfredi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "TOCCATA",
+      "director": "Herman van der Horst",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "title": "WORLD OF MAN",
+      "director": "Michael Collyer; Albert Fischer",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Ådalen 31",
+      "director": "Bo Widerberg",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 144,
+        "titleES": "Ådalen 31",
+        "originalTitle": "Ådalen 31",
+        "director": "Bo Widerberg",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "ANTONIO-DAS-MORTES",
+      "director": "Glauber Rocha",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "BICE SKORO PROPAST SVETA",
+      "director": "Aleksandar Petrovic",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Calcutta",
+      "director": "Louis Malle",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 147,
+        "titleES": "Calcutta",
+        "originalTitle": "Calcutta",
+        "director": "Louis Malle",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Dillinger ha muerto",
+      "director": "Marco Ferreri",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 388,
+        "titleES": "Dillinger ha muerto",
+        "originalTitle": "Dillinger è morto",
+        "director": "Marco Ferreri",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Don't Let the Angels Fall",
+      "director": "George Kaczender",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 382,
+        "titleES": "Don't Let the Angels Fall",
+        "originalTitle": "Don't Let the Angels Fall",
+        "director": "George Kaczender",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Easy Rider (Buscando mi destino)",
+      "director": "Dennis Hopper",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "Easy Rider (Buscando mi destino)",
+        "originalTitle": "Easy Rider",
+        "director": "Dennis Hopper",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "España otra vez",
+      "director": "Jaime Camino",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 305,
+        "titleES": "España otra vez",
+        "originalTitle": "España otra vez",
+        "director": "Jaime Camino",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El fin de un sacerdote",
+      "director": "Evald Schorm",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 390,
+        "titleES": "El fin de un sacerdote",
+        "originalTitle": "Farářův konec",
+        "director": "Evald Schorm",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "La confrontación",
+      "director": "Miklós Jancsó",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 186,
+        "titleES": "La confrontación",
+        "originalTitle": "Fényes szelek",
+        "director": "Miklós Jancsó",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Flashback",
+      "director": "Raffaele Andreassi",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 401,
+        "titleES": "Flashback",
+        "originalTitle": "Flashback",
+        "director": "Raffaele Andreassi",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Las Vegas, 1970",
+      "director": "Giuliano Montaldo",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 242,
+        "titleES": "Las Vegas, 1970",
+        "originalTitle": "Gli intoccabili",
+        "director": "Giuliano Montaldo",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "IF",
+      "director": "Lindsay Anderson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Isadora",
+      "director": "Karel Reisz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 73,
+        "titleES": "Isadora",
+        "originalTitle": "Isadora",
+        "director": "Karel Reisz",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "LE GRAND AMOUR",
+      "director": "Pierre Etaix",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Mi noche con Maud",
+      "director": "Eric Rohmer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 15,
+        "titleES": "Mi noche con Maud",
+        "originalTitle": "Ma nuit chez Maud",
+        "director": "Éric Rohmer",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Manden der tænkte ting",
+      "director": "Jens Ravn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 157,
+        "titleES": "Manden der tænkte ting",
+        "originalTitle": "Manden der tænkte ting",
+        "director": "Jens Ravn",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "MATZOR",
+      "director": "Gilberto Tofano",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Supongamos que una noche, cenando...",
+      "director": "Giuseppe Patroni Griffi",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 319,
+        "titleES": "Supongamos que una noche, cenando...",
+        "originalTitle": "Metti, una sera a cena",
+        "director": "Giuseppe Patroni Griffi",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "El rebelde",
+      "director": "Volker Schlöndorff",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 197,
+        "titleES": "El rebelde",
+        "originalTitle": "Michael Kohlhaas - Der Rebell",
+        "director": "Volker Schlöndorff",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "NIHON NO SEISHUN",
+      "director": "Masaki Kobayashi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Cazando moscas",
+      "director": "Andrzej Wajda",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 379,
+        "titleES": "Cazando moscas",
+        "originalTitle": null,
+        "director": "Andrzej Wajda",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Slaves",
+      "director": "Herbert J. Biberman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 432,
+        "titleES": "Slaves",
+        "originalTitle": "Slaves",
+        "director": "Herbert J. Biberman",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Una cita",
+      "director": "Sidney Lumet",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 324,
+        "titleES": "Una cita",
+        "originalTitle": "The Appointment",
+        "director": "Sidney Lumet",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Los mejores años de Miss Brodie",
+      "director": "Ronald Neame",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 113,
+        "titleES": "Los mejores años de Miss Brodie",
+        "originalTitle": "The Prime of Miss Jean Brodie",
+        "director": "Ronald Neame",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "A todos mis buenos paisanos",
+      "director": "Vojtech Jasny",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 200,
+        "titleES": "A todos mis buenos paisanos",
+        "originalTitle": null,
+        "director": "Vojtěch Jasný",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "title": "Z",
+      "director": "Costa-Gavras",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Z",
+        "originalTitle": "Z",
+        "director": "Costa-Gavras",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "ANDREI ROUBLEV",
+      "director": "Andrei Tarkovsky",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "ET L’ANGLETERRE SERA DÉTRUITE",
+      "director": "Janos Veiczi",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "L’AMOUR DE LA VIE",
+      "director": "François Reichenbach",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "LES DÉSERTEURS ET LES NOMADES",
+      "director": "Juraj Jakubisko",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Noches en la ciudad",
+      "director": "Bob Fosse",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 53,
+        "titleES": "Noches en la ciudad",
+        "originalTitle": "Sweet Charity",
+        "director": "Bob Fosse",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Aquel día frío en el parque",
+      "director": "Robert Altman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 146,
+        "titleES": "Aquel día frío en el parque",
+        "originalTitle": "That Cold Day in the Park",
+        "director": "Robert Altman",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Charly",
+      "director": "Ralph Nelson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 86,
+        "titleES": "Charly",
+        "originalTitle": "Charly",
+        "director": "Ralph Nelson",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El corazón es un cazador solitario",
+      "director": "Robert Ellis Miller",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 150,
+        "titleES": "El corazón es un cazador solitario",
+        "originalTitle": "The Heart Is a Lonely Hunter",
+        "director": "Robert Ellis Miller",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El hombre de Kiev",
+      "director": "John Frankenheimer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 85,
+        "titleES": "El hombre de Kiev",
+        "originalTitle": "The Fixer",
+        "director": "John Frankenheimer",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Oliver",
+      "director": "Carol Reed",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "Oliver",
+        "originalTitle": "Oliver!",
+        "director": "Carol Reed",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El león en invierno",
+      "director": "Anthony Harvey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 23,
+        "titleES": "El león en invierno",
+        "originalTitle": "The Lion in Winter",
+        "director": "Anthony Harvey",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Una historia de tres extraños",
+      "director": "Ulu Grosbard",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 254,
+        "titleES": "Una historia de tres extraños",
+        "originalTitle": "The Subject Was Roses",
+        "director": "Ulu Grosbard",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Rostros",
+      "director": "John Cassavetes",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 26,
+        "titleES": "Rostros",
+        "originalTitle": "Faces",
+        "director": "John Cassavetes",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Star!",
+      "director": "Robert Wise",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 237,
+        "titleES": "Star!",
+        "originalTitle": "Star!",
+        "director": "Robert Wise",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Los productores",
+      "director": "Mel Brooks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 27,
+        "titleES": "Los productores",
+        "originalTitle": "The Producers",
+        "director": "Mel Brooks",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Una chica divertida (Funny Girl)",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 33,
+        "titleES": "Una chica divertida (Funny Girl)",
+        "originalTitle": "Funny Girl",
+        "director": "William Wyler",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Isadora",
+      "director": "Karel Reisz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 73,
+        "titleES": "Isadora",
+        "originalTitle": "Isadora",
+        "director": "Karel Reisz",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Raquel, Raquel",
+      "director": "Paul Newman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 62,
+        "titleES": "Raquel, Raquel",
+        "originalTitle": "Rachel, Rachel",
+        "director": "Paul Newman",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "La semilla del diablo",
+      "director": "Roman Polanski",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "La semilla del diablo",
+        "originalTitle": "Rosemary's Baby",
+        "director": "Roman Polanski",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Las sandalias del pescador",
+      "director": "Michael Anderson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 21,
+        "titleES": "Las sandalias del pescador",
+        "originalTitle": "The Shoes of the Fisherman",
+        "director": "Michael Anderson",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "2001: Una odisea del espacio",
+      "director": "Stanley Kubrick",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "2001: Una odisea del espacio",
+        "originalTitle": "2001: A Space Odyssey",
+        "director": "Stanley Kubrick",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "War and Peace",
+      "director": "Sergei Bondarchuk",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Romeo y Julieta",
+      "director": "Franco Zeffirelli",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Romeo y Julieta",
+        "originalTitle": "Romeo and Juliet",
+        "director": "Franco Zeffirelli",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Estación polar Cebra",
+      "director": "John Sturges",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 38,
+        "titleES": "Estación polar Cebra",
+        "originalTitle": "Ice Station Zebra",
+        "director": "John Sturges",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El planeta de los simios",
+      "director": "Franklin J. Schaffner",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "El planeta de los simios",
+        "originalTitle": "Planet of the Apes",
+        "director": "Franklin J. Schaffner",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Battle of Algiers",
+      "director": "Gillo Pontecorvo",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Journey into Self",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "A Few Notes on Our Food Problem",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Legendary Champions",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Other Voices",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Why Man Creates",
+      "director": "Saul Bass",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 143,
+        "titleES": "Why Man Creates",
+        "originalTitle": "Why Man Creates",
+        "director": "Saul Bass",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The House That Ananda Built",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Revolving Door",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "A Space to Grow",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "A Way Out of the Wilderness",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Bullitt",
+      "director": "Peter Yates",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "Bullitt",
+        "originalTitle": "Bullitt",
+        "director": "Peter Yates",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "La extraña pareja",
+      "director": "Gene Saks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "La extraña pareja",
+        "originalTitle": "The Odd Couple",
+        "director": "Gene Saks",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El presidente",
+      "director": "Barry Shear",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 320,
+        "titleES": "El presidente",
+        "originalTitle": "Wild in the Streets",
+        "director": "Barry Shear",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Boys of Paul Street",
+      "director": "Zoltán Fábri",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Firemen’s Ball",
+      "director": "Miloš Forman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Girl with the Pistol",
+      "director": "Mario Monicelli",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Stolen Kisses",
+      "director": "François Truffaut",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "La zorra",
+      "director": "Mark Rydell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1967.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 257,
+        "titleES": "La zorra",
+        "originalTitle": "The Fox",
+        "director": "Mark Rydell",
+        "year": 1967
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El caso de Thomas Crown",
+      "director": "Norman Jewison",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "El caso de Thomas Crown",
+        "originalTitle": "The Thomas Crown Affair",
+        "director": "Norman Jewison",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "El valle del arco iris",
+      "director": "Francis Ford Coppola",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 323,
+        "titleES": "El valle del arco iris",
+        "originalTitle": "Finian's Rainbow",
+        "director": "Francis Ford Coppola",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Young Girls of Rochefort",
+      "director": "Jacques Demy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Chitty Chitty Bang Bang",
+      "director": "Ken Hughes",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 15,
+        "titleES": "Chitty Chitty Bang Bang",
+        "originalTitle": "Chitty Chitty Bang Bang",
+        "director": "Ken Hughes",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Un hombre para Ivy",
+      "director": "Daniel Mann",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 428,
+        "titleES": "Un hombre para Ivy",
+        "originalTitle": "For Love of Ivy",
+        "director": "Daniel Mann",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Winnie the Pooh y el bosque encantado",
+      "director": "Wolfgang Reitherman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 81,
+        "titleES": "Winnie the Pooh y el bosque encantado",
+        "originalTitle": "Winnie the Pooh and the Blustery Day",
+        "director": "Wolfgang Reitherman",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The House That Jack Built",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Magic Pear Tree",
+      "director": "Charles Swenson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 426,
+        "titleES": "The Magic Pear Tree",
+        "originalTitle": "The Magic Pear Tree",
+        "director": "Charles Swenson",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Windy Day",
+      "director": "Faith Hubley, John Hubley",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 430,
+        "titleES": "Windy Day",
+        "originalTitle": "Windy Day",
+        "director": "Faith Hubley, John Hubley",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Robert Kennedy Remembered",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "The Dove",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Duo",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Prelude",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 41.ª edición",
+      "title": "Un Cerebro Millonario",
+      "director": "Eric Till",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 338,
+        "titleES": "Un Cerebro Millonario",
+        "originalTitle": "Hot Millions",
+        "director": "Eric Till",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Au champ de vapeur",
+      "director": "Louis Roger",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Capricho",
+      "director": "Christian Anwander",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Colecção Calouste Gulbenkian - Museu de Oeiras",
+      "director": "Francisco Saalfeld",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Fado: Lisboa 68",
+      "director": "António de Macedo",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Gli uccelli del cielo",
+      "director": "Elio Piccon",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Kutije / The Boxes",
+      "director": "Pavao Štalter",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Les bicyclettes de Belsize",
+      "director": "Douglas Hickox",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Miradas",
+      "director": "Jesús Almendros",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Mister X",
+      "director": "Rupert van der Linden",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Mozda Diogen",
+      "director": "Nedeljko Dragic",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Obri",
+      "director": "Gene Deitch",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Open Forum",
+      "director": "Donovan Winter",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Rezerwat",
+      "director": "Kazimierz Urbański",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "The Big Save",
+      "director": "Motti Eidels",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "title": "Voici",
+      "director": "Giuseppe Taffarel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "Bratya Karamazovy (Los hermanos Karamazov)",
+      "director": "Ivan Pyryev",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "title": "El león en invierno",
+      "director": "Anthony Harvey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1968.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 23,
+        "titleES": "El león en invierno",
+        "originalTitle": "The Lion in Winter",
+        "director": "Anthony Harvey",
+        "year": 1968
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Changes (Pecados de juventud)",
+      "director": "Hall Bartlett",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Las crueles",
+      "director": "Vicente Aranda",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 310,
+        "titleES": "Las crueles",
+        "originalTitle": "Las crueles",
+        "director": "Vicente Aranda",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Imam dvije mame i dva tate (Padre y madre / Tengo dos papás y dos mamás)",
+      "director": "Kresimir Golik",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "L'amante di Gramigna",
+      "director": "Carlo Lizzani",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 403,
+        "titleES": "L'amante di Gramigna",
+        "originalTitle": "L'amante di Gramigna",
+        "director": "Carlo Lizzani",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Laughter in the Dark (Risa en la oscuridad)",
+      "director": "Tony Richardson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Los desafíos",
+      "director": "José Luis Egea; Víctor Erice; Claudio Guerín",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Pierre et Paul",
+      "director": "René Allio",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Samotnosc we dwoje (Dos en soledad)",
+      "director": "Stanislaw Rózewicz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Scarabea - wieviel Erde braucht der Mensch? (Scarabea)",
+      "director": "Hans-Jürgen Syberberg",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Sziget a szárazföldön",
+      "director": "Judit Elek",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 435,
+        "titleES": "Sziget a szárazföldön",
+        "originalTitle": "Sziget a szárazföldön",
+        "director": "Judit Elek",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Un trabajo en Italia",
+      "director": "Peter Collinson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "Un trabajo en Italia",
+        "originalTitle": "The Italian Job",
+        "director": "Peter Collinson",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "The Lost Man (El hombre perdido)",
+      "director": "Robert Alan Arthur",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Llueve sobre mi corazón",
+      "director": "Francis Ford Coppola",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 41,
+        "titleES": "Llueve sobre mi corazón",
+        "originalTitle": "The Rain People",
+        "director": "Francis Ford Coppola",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Una macchia rosa",
+      "director": "Enzo Muzii",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Una mujer dulce",
+      "director": "Robert Bresson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 58,
+        "titleES": "Una mujer dulce",
+        "originalTitle": "Une femme douce",
+        "director": "Robert Bresson",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "La broma",
+      "director": "Jaromil Jires",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 153,
+        "titleES": "La broma",
+        "originalTitle": "Žert",
+        "director": "Jaromil Jireš",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "title": "Zhuravushka (Cigüeñita)",
+      "director": "Nikolay Moskalenko",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "The Axe",
+      "director": "Mircea Muresan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Bhuvan Shome",
+      "director": "Mrinal Sen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Double Suicide",
+      "director": "Masahiro Shinoda",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "A Gentle Woman",
+      "director": "Robert Bresson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "The Gladiators",
+      "director": "Peter Watkins",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 192,
+        "titleES": "The Gladiators",
+        "originalTitle": "Gladiatorerna",
+        "director": "Peter Watkins",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Glory Day",
+      "director": "Edoardo Bruno",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "L'indiscret",
+      "director": "François Reichenbach",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Macunaíma",
+      "director": "Joaquim Pedro de Andrade",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 244,
+        "titleES": "Macunaíma",
+        "originalTitle": "Macunaíma",
+        "director": "Joaquim Pedro de Andrade",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Rose Spot",
+      "director": "Enzo Muzii",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Salesman",
+      "director": "Albert Maysles; David Maysles; Charlotte Zwerin",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 89,
+        "titleES": "Salesman",
+        "originalTitle": "Salesman",
+        "director": "David Maysles, Charlotte Zwerin, Albert Maysles",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "Story of a Girl Alone",
+      "director": "Jorge Grau",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "The Year of the Cannibals",
+      "director": "Liliana Cavani",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Informativa · edición no competitiva",
+      "title": "A Woman’s Case",
+      "director": "Jacques Katmor",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "The Ambush",
+      "director": "Živojin Pavlović",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Benito Cereno",
+      "director": "Serge Roullet",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Boy",
+      "director": "Nagisa Ōshima",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Cardillac",
+      "director": "Edgar Reitz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 491,
+        "titleES": "Cardillac",
+        "originalTitle": "Cardillac",
+        "director": "Edgar Reitz",
+        "year": 1970
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Children’s Games",
+      "director": "Walter Welebit",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Day Stars",
+      "director": "Igor Talankin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "An Event",
+      "director": "Vatroslav Mimica",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "The Father",
+      "director": "Alf Sjöberg",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Satiricón",
+      "director": "Federico Fellini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1969.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "Satiricón",
+        "originalTitle": "Fellini – satyricon",
+        "director": "Federico Fellini",
+        "year": 1969
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "The First Charge of the Machete",
+      "director": "Manuel Octavio Gómez",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Forbidden Ground",
+      "director": "Pál Gábor",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Génius",
+      "director": "Štefan Uher",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "The Heirs",
+      "director": "Carlos Diegues",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Honor and Glory",
+      "director": "Hynek Bočan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Love and Other Solitudes",
+      "director": "Basilio Martín Patino",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Paulina Is Leaving",
+      "director": "André Téchiné",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Pigsty",
+      "director": "Pier Paolo Pasolini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Prologue",
+      "director": "Robin Spry",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Sierra Maestra",
+      "director": "Ansano Giannarelli",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Subject for a Short Story",
+      "director": "Sergei Yutkevich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Sweet Hunters",
+      "director": "Ruy Guerra",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Two Gentlemen Sharing",
+      "director": "Ted Kotcheff",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Blood of the Condor",
+      "director": "Jorge Sanjinés",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "Under the Sign of Scorpio",
+      "director": "Paolo and Vittorio Taviani",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal · edición no competitiva",
+      "title": "A Very Curious Girl",
+      "director": "Nelly Kaplan",
+      "ownership": "PENDING",
+      "reference": null
+    }
+  ]
+}

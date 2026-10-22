@@ -10,7 +10,7 @@
     1978,
     1977
   ],
-  "status": "1970_INTEGRADO_CON_BLOQUES_PENDIENTES",
+  "status": "1965_1969_INTEGRADOS_CON_BLOQUES_PENDIENTES",
   "counts": {
     "editions": 8,
     "appearances": 157,
@@ -33,7 +33,8 @@
     "21/10/2026: paquete 1974 integrado con sus bloques pendientes explícitos; no se añade 1974 a completedYears. Los años ya publicados permanecen intactos.",
     "21/10/2026: paquete 1973 integrado con sus bloques pendientes explícitos; no se añade 1973 a completedYears. Los años ya publicados permanecen intactos.",
     "22/10/2026: integrados 1972 y 1971 en bloque; propiedad acreditada, fuentes parciales y programas históricos pendientes explícitos. No añadidos a completedYears.",
-    "22/10/2026: integrado1970 en modo rápido; no añadido a completedYears. Años anteriores intactos."
+    "22/10/2026: integrado1970 en modo rápido; no añadido a completedYears. Años anteriores intactos.",
+    "22/10/2026: integrados1969–1965 en bloque; propiedad acreditada y límites de cobertura explícitos; no añadidos a completedYears."
   ],
   "partialYears": [
     1981,
@@ -43,9 +44,14 @@
     1973,
     1972,
     1971,
-    1970
+    1970,
+    1969,
+    1968,
+    1967,
+    1966,
+    1965
   ],
-  "nextStep": "1970 integrado con pendientes de cobertura y cotejo explícitos. No iniciar1969 sin instrucción.",
+  "nextStep": "1969–1965 integrados con pendientes explícitos. No iniciar1964 sin instrucción.",
   "partialBlockCounts": {
     "editions": 40,
     "appearances": 493,
@@ -62,5 +68,5 @@
     "scope": "Solo las dos ediciones; no cierra las selecciones parciales de otros festivales de 1980."
   },
   "completedYearsMeaning": "Familias principales construidas por método práctico; no certifica exhaustividad de todos los programas ni auditoría histórica individual.",
-  "lastIntegratedYear": 1970
+  "lastIntegratedYear": 1965
 }
