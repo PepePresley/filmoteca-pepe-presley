@@ -1,0 +1,266 @@
+{
+  "year": 1961,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1961; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1961_para_Sol.zip",
+    "sha256": "908f0bda737953322a1c3721db10699b1592e05ff2a9f98ca45e2745b4f52584"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1960",
+      "films": 38,
+      "declaredOwned": 27,
+      "withFA": 0,
+      "candidacyAppearances": 74
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 27,
+      "declaredOwned": 7,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 9,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 28,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 4
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 32,
+      "declaredOwned": 14,
+      "withFA": 0,
+      "candidacyAppearances": 10
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 1,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 33.ª edición",
+      "films": 55,
+      "declaredOwned": 40,
+      "withFA": 0,
+      "candidacyAppearances": 118
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 22,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 10,
+      "declaredOwned": 3,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 14,
+      "declaredOwned": 6,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "films": 8,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    }
+  ],
+  "sources": [
+    {
+      "id": "academy",
+      "url": "https://www.oscars.org/oscars/ceremonies/1961",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/awards/film/?award-year=1961",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "cannes",
+      "url": "https://www.festival-cannes.com/en/retrospective/1961/selection/",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "cannes_awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1961/awards/",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "ss",
+      "url": "https://www.sansebastianfestival.com/1961/secciones_y_peliculas/8/es",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "ss_awards",
+      "url": "https://www.sansebastianfestival.com/1961/premios_y_jurados/premios/1/54/es",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "berlin",
+      "url": "https://en.wikipedia.org/wiki/11th_Berlin_International_Film_Festival",
+      "kind": "secundaria",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "venice",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1961",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "venice_history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "kind": "página oficial",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    },
+    {
+      "id": "venice_awards_secondary",
+      "url": "https://www.mymovies.it/premi/venezia/?anno=1961",
+      "kind": "secundaria",
+      "capture": "transcripción/extracto de texto del navegador; no captura de pantalla"
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1955–1966, limitados a la ventana temporal del bloque, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1960–1964; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: la cobertura varía por año;1964 incorpora listas ASAC transcritas,1963 selecciones reconstruidas y1962 cotejo parcial;1961–1960 conservan únicamente palmarés. No se consideran programas completos.",
+    "Normalizadas las etiquetas de familia y secciones del paquete; separadas óperas primas, documentales/cortos y fuera de concurso. En San Sebastián, las películas identificadas fuera de concurso se retiran de la lista competitiva y conservan sus premios.",
+    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": {
+    "year": 1961,
+    "blocks": [
+      {
+        "block": "Oscar — categorías competitivas",
+        "status": "parcial",
+        "detail": "Incluye las candidaturas y ganadores transcritos de 25 categorías; no se han localizado verificaciones FilmAffinity y quedan IDs null."
+      },
+      {
+        "block": "BAFTA Film",
+        "status": "parcial",
+        "detail": "12 categorías del archivo oficial Film, con todas las candidaturas y 12 ganadores; Television excluida. Los IDs FilmAffinity quedan sin verificar (null), por lo que el bloque no sirve aún como identidad FA final."
+      },
+      {
+        "block": "Cannes largometrajes competición",
+        "status": "completo",
+        "detail": "32 títulos de la selección oficial; premios registrados."
+      },
+      {
+        "block": "Cannes fuera de concurso",
+        "status": "completo",
+        "detail": "Exodus, única película listada como Hors Compétition."
+      },
+      {
+        "block": "Cannes cortometrajes",
+        "status": "completo",
+        "detail": "28 cortos de la selección oficial; dos premios de cortometraje registrados."
+      },
+      {
+        "block": "Berlín competición principal",
+        "status": "parcial",
+        "detail": "27 títulos y premios desde fuente secundaria; cotejo oficial pendiente."
+      },
+      {
+        "block": "Berlín cortos/documentales",
+        "status": "parcial",
+        "detail": "9 títulos de fuente secundaria; palmarés/alcance necesita cotejo."
+      },
+      {
+        "block": "San Sebastián largometrajes",
+        "status": "parcial",
+        "detail": "19 títulos del extracto de 141 títulos; página arroja error SQL."
+      },
+      {
+        "block": "San Sebastián cortos",
+        "status": "parcial",
+        "detail": "22 entradas observadas; extracto incompleto."
+      },
+      {
+        "block": "San Sebastián fuera de concurso",
+        "status": "parcial",
+        "detail": "Marcas explícitas recogidas en extracto parcial."
+      },
+      {
+        "block": "Venecia programa",
+        "status": "pendiente",
+        "detail": "Edición acreditada, pero ASAC no expuso filas extraíbles; solo premios secundarios, sin alegar selección."
+      }
+    ]
+  },
+  "packageDoubts": [
+    {
+      "id": "D01",
+      "block": "FilmAffinity",
+      "question": "No hay IDs FilmAffinity España 1961 verificados en estas extracciones; todos quedan null.",
+      "status": "pendiente"
+    },
+    {
+      "id": "D02",
+      "block": "Berlín",
+      "question": "Verificar contra la página oficial las 27 películas de competición y los 9 cortos/documentales; página oficial devolvió 503.",
+      "status": "pendiente"
+    },
+    {
+      "id": "D03",
+      "block": "San Sebastián",
+      "question": "El archivo indica 141 películas, pero el render tuvo errores SQL y la selección listada es parcial. Faltan registros para cerrar largometrajes, cortos y OOC.",
+      "status": "pendiente"
+    },
+    {
+      "id": "D04",
+      "block": "Venecia",
+      "question": "La página ASAC de 1961 no expuso programa/selección; se necesita volcado legible para reconstruirlo.",
+      "status": "pendiente"
+    },
+    {
+      "id": "D05",
+      "block": "Oscar",
+      "question": "Los equipos/entidades de departamentos están conservados juntos como cadenas en person; confirmar que el importador acepta este formato.",
+      "status": "pendiente"
+    }
+  ],
+  "unpublishedIdentityEvidence": []
+}

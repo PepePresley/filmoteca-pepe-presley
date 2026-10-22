@@ -1,0 +1,381 @@
+{
+  "year": 1963,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-22",
+  "scope": "Integración rápida del paquete1963; no se declara cerrado ni exhaustivamente auditado.",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1963_para_Sol.zip",
+    "sha256": "cb081604a896490960c7f0399cfd26e3c11eea86baa69a14ef27dc99f5eba660"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Premios de cine · películas de 1962",
+      "films": 47,
+      "declaredOwned": 29,
+      "withFA": 2,
+      "candidacyAppearances": 71
+    },
+    {
+      "festival": "Berlín",
+      "section": "Selección competitiva · reconstrucción parcial",
+      "films": 22,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Berlín",
+      "section": "Competición oficial · cortometrajes y documentales",
+      "films": 8,
+      "declaredOwned": 1,
+      "withFA": 0,
+      "candidacyAppearances": 5
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · cortometrajes",
+      "films": 23,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial",
+      "films": 26,
+      "declaredOwned": 13,
+      "withFA": 1,
+      "candidacyAppearances": 11
+    },
+    {
+      "festival": "Cannes",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 2,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 35.ª edición",
+      "films": 55,
+      "declaredOwned": 37,
+      "withFA": 4,
+      "candidacyAppearances": 117
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Competición oficial · cortometrajes",
+      "films": 15,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 3
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · cortometrajes (selección documentada)",
+      "films": 8,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 6,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "San Sebastián",
+      "section": "Sección Oficial · largometrajes",
+      "films": 14,
+      "declaredOwned": 8,
+      "withFA": 0,
+      "candidacyAppearances": 6
+    },
+    {
+      "festival": "Venecia",
+      "section": "Palmarés recuperado · sección pendiente de acreditar",
+      "films": 1,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · selección documentada",
+      "films": 6,
+      "declaredOwned": 0,
+      "withFA": 0,
+      "candidacyAppearances": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Selección principal",
+      "films": 19,
+      "declaredOwned": 13,
+      "withFA": 0,
+      "candidacyAppearances": 8
+    },
+    {
+      "festival": "Venecia",
+      "section": "Ópera prima · selección documentada",
+      "films": 9,
+      "declaredOwned": 2,
+      "withFA": 0,
+      "candidacyAppearances": 2
+    }
+  ],
+  "sources": [
+    {
+      "id": "oscars-1963",
+      "title": "The 35th Academy Awards | 1963",
+      "url": "https://www.oscars.org/oscars/ceremonies/1963",
+      "sourceType": "Official Academy archive",
+      "extraction": "extracciones/oscars_1963_academy_transcription.json",
+      "scope": "All 24 competitive film categories and the Jean Hersholt Humanitarian Award."
+    },
+    {
+      "id": "bafta-1963",
+      "title": "BAFTA Film Awards 1963 results",
+      "url": "https://www.bafta.org/awards/film/?award-year=1963",
+      "sourceType": "Official BAFTA Film archive",
+      "extraction": "extracciones/bafta_film_1963_transcription.json",
+      "scope": "12 Film categories. Television excluded."
+    },
+    {
+      "id": "cannes-1963-selection",
+      "title": "Festival de Cannes retrospective 1963 selection",
+      "url": "https://www.festival-cannes.com/en/retrospective/1963/",
+      "sourceType": "Official Cannes archive",
+      "extraction": "extracciones/cannes_1963_official_transcription.json",
+      "scope": "26 feature films, 23 short films and 2 out-of-competition features."
+    },
+    {
+      "id": "cannes-1963-awards",
+      "title": "Festival de Cannes 1963 awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1963/palmares/",
+      "sourceType": "Official Cannes archive",
+      "extraction": "extracciones/cannes_1963_official_transcription.json",
+      "scope": "Feature and short film prize winners, ex-aequo awards preserved."
+    },
+    {
+      "id": "berlin-1963",
+      "title": "13th Berlin International Film Festival",
+      "url": "https://en.wikipedia.org/wiki/13th_Berlin_International_Film_Festival",
+      "sourceType": "Secondary source (Wikipedia; cites archival Berlinale documents)",
+      "extraction": "extracciones/berlinale_1963_secondary_transcription.json",
+      "scope": "22 main competition features, 8 documentary/short competition films and cited prizes; not primary-source verified."
+    },
+    {
+      "id": "berlin-1963-primary",
+      "title": "Berlinale archive programme/prizes 1963",
+      "url": "https://www.berlinale.de/en/archiv/jahresarchive/1963/02_programm_1963/02_Programm_1963.html",
+      "sourceType": "Official archive URLs cited in secondary source; inaccessible in this retrieval",
+      "scope": "Pending primary verification."
+    },
+    {
+      "id": "ssiff-1963-films",
+      "title": "San Sebastián 1963 sections and films",
+      "url": "https://www.sansebastianfestival.com/1963/sections_y_peliculas/8/es",
+      "alternateUrl": "https://www.sansebastianfestival.com/1963/sections_and_films/8/in",
+      "sourceType": "Official festival archive transcription (visible rows; partial)",
+      "extraction": "extracciones/sansebastian_1963_official_visible_transcription.json",
+      "scope": "Official page reports 96 films; visible feature/short rows extracted; SQL errors leave omissions."
+    },
+    {
+      "id": "ssiff-1963-awards",
+      "title": "San Sebastián 1963 awards",
+      "url": "https://www.sansebastianfestival.com/1963/premios_y_jurados/premios/1/56/es",
+      "sourceType": "Official festival archive",
+      "extraction": "extracciones/sansebastian_1963_official_visible_transcription.json",
+      "scope": "Festival prizes and award recipients."
+    },
+    {
+      "id": "venice-1963-asac",
+      "title": "ASAC annals 24th Mostra, 1963",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1963",
+      "sourceType": "Official ASAC UI transcription",
+      "extraction": "extracciones/venice_1963_asac_awards_and_secondary_selection.json",
+      "scope": "Edition metadata, sections and core awards from UI; parallel programme classification incomplete."
+    },
+    {
+      "id": "venice-1963-selection-secondary",
+      "title": "24th Venice International Film Festival",
+      "url": "https://en.wikipedia.org/wiki/24th_Venice_International_Film_Festival",
+      "sourceType": "Secondary source transcription; article cites ASAC selection",
+      "extraction": "extracciones/venice_1963_asac_awards_and_secondary_selection.json",
+      "scope": "In competition, First Work and out-of-competition rosters."
+    },
+    {
+      "id": "venice-history",
+      "title": "History of the Venice Film Festival",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "sourceType": "Official La Biennale historical summary",
+      "scope": "Confirms 1963 Coppa Volpi awards: Albert Finney and Delphine Seyrig."
+    },
+    {
+      "source": "FilmAffinity España",
+      "purpose": "Verificación de cuatro identidades reutilizadas en candidaturas/películas de 1962 presentadas en las ediciones de 1963.",
+      "extraction": "extracciones/filmaffinity_identidades_confirmadas_1963.json",
+      "records": [
+        {
+          "title": "Lawrence de Arabia",
+          "filmAffinityId": "953245",
+          "url": "https://www.filmaffinity.com/es/film953245.html",
+          "director": "David Lean"
+        },
+        {
+          "title": "El milagro de Ana Sullivan",
+          "filmAffinityId": "462819",
+          "url": "https://www.filmaffinity.com/es/film462819.html",
+          "director": "Arthur Penn"
+        },
+        {
+          "title": "Matar a un ruiseñor",
+          "filmAffinityId": "513636",
+          "url": "https://www.filmaffinity.com/es/film513636.html",
+          "director": "Robert Mulligan"
+        },
+        {
+          "title": "Días de vino y rosas",
+          "filmAffinityId": "409543",
+          "url": "https://www.filmaffinity.com/es/film409543.html",
+          "director": "Blake Edwards"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Integración por bloques y cruce contra maestros aprobados1955–1966, limitados a la ventana temporal del bloque, con evidencia por hoja y fila física. Título FA cuando consta o título ES del maestro; pendientes de identidad explícitos, sin IDs ni imágenes inventados.",
+    "BAFTA exclusivamente cine: se conservan categorías históricas británicas/extranjeras y de color/blanco y negro en sus pestañas, sin fusionarlas. Créditos de equipo y candidaturas conjuntas conservados.",
+    "Palmarés suministrado aparte se asocia por título, aliases y director a las selecciones documentadas; premios sin sección acreditada se presentan separadamente. No equivalen a reconstrucción completa del programa.",
+    "Programas incompletos de Berlín y San Sebastián permanecen como tales; no se declaran completos por sumar únicamente las filas disponibles. No se crea Un Certain Regard antes de su existencia.",
+    "Una regeneración limitada al bloque1960–1964; otros años, maestros, catálogo e interfaces preservados.",
+    "Venecia: la cobertura varía por año;1964 incorpora listas ASAC transcritas,1963 selecciones reconstruidas y1962 cotejo parcial;1961–1960 conservan únicamente palmarés. No se consideran programas completos.",
+    "Normalizadas las etiquetas de familia y secciones del paquete; separadas óperas primas, documentales/cortos y fuera de concurso. En San Sebastián, las películas identificadas fuera de concurso se retiran de la lista competitiva y conservan sus premios.",
+    "Propiedad e identidad se cruzan en bloque; los homónimos Lola y Cleopatra se restringen a la ventana temporal pertinente para evitar versiones posteriores. No se añaden IDs o imágenes sin evidencia."
+  ],
+  "sharedCandidacies": [],
+  "packageCoverage": {
+    "year": 1963,
+    "blocks": [
+      {
+        "file": "bafta_film_1963.json",
+        "status": "complete",
+        "knownLimitations": "Categorías Film de la edición transcritas desde BAFTA; Television excluida."
+      },
+      {
+        "file": "berlin_competicion_1963.json",
+        "status": "partial",
+        "knownLimitations": "Cobertura reconstruida desde fuentes secundarias; el archivo oficial consultado no pudo verificarse directamente."
+      },
+      {
+        "file": "berlin_documentary_short_competition_1963.json",
+        "status": "partial",
+        "knownLimitations": "Cobertura reconstruida desde fuentes secundarias; el archivo oficial consultado no pudo verificarse directamente."
+      },
+      {
+        "file": "cannes_competicion_cortometrajes_1963.json",
+        "status": "complete",
+        "knownLimitations": "Selección y palmarés de las secciones indicadas transcritos desde el archivo oficial consultado."
+      },
+      {
+        "file": "cannes_competicion_largometrajes_1963.json",
+        "status": "complete",
+        "knownLimitations": "Selección y palmarés de las secciones indicadas transcritos desde el archivo oficial consultado."
+      },
+      {
+        "file": "cannes_fuera_de_concurso_1963.json",
+        "status": "complete",
+        "knownLimitations": "Selección y palmarés de las secciones indicadas transcritos desde el archivo oficial consultado."
+      },
+      {
+        "file": "oscar_ceremonia_1963.json",
+        "status": "complete",
+        "knownLimitations": "Candidaturas competitivas transcritas por categoría desde Academy Awards; premios personales separados."
+      },
+      {
+        "file": "san_sebastian_cortometrajes_1963.json",
+        "status": "partial",
+        "knownLimitations": "Archivo oficial informa 96 películas, pero la transcripción visible contiene errores SQL y filas ausentes; lista parcial."
+      },
+      {
+        "file": "san_sebastian_cortometrajes_fuera_concurso_1963.json",
+        "status": "partial",
+        "knownLimitations": "Archivo oficial informa 96 películas, pero la transcripción visible contiene errores SQL y filas ausentes; lista parcial."
+      },
+      {
+        "file": "san_sebastian_fuera_de_concurso_1963.json",
+        "status": "partial",
+        "knownLimitations": "Archivo oficial informa 96 películas, pero la transcripción visible contiene errores SQL y filas ausentes; lista parcial."
+      },
+      {
+        "file": "san_sebastian_seccion_oficial_1963.json",
+        "status": "partial",
+        "knownLimitations": "Archivo oficial informa 96 películas, pero la transcripción visible contiene errores SQL y filas ausentes; lista parcial."
+      },
+      {
+        "file": "venecia_cortometraggi_premio_1963.json",
+        "status": "partial",
+        "knownLimitations": "Selección reconstruida parcialmente con ASAC y fuente secundaria; quedan programas paralelos/documentales por verificar."
+      },
+      {
+        "file": "venecia_fuori_concorso_1963.json",
+        "status": "partial",
+        "knownLimitations": "Selección reconstruida parcialmente con ASAC y fuente secundaria; quedan programas paralelos/documentales por verificar."
+      },
+      {
+        "file": "venecia_in_concorso_1963.json",
+        "status": "partial",
+        "knownLimitations": "Selección reconstruida parcialmente con ASAC y fuente secundaria; quedan programas paralelos/documentales por verificar."
+      },
+      {
+        "file": "venecia_opera_prima_1963.json",
+        "status": "partial",
+        "knownLimitations": "Selección reconstruida parcialmente con ASAC y fuente secundaria; quedan programas paralelos/documentales por verificar."
+      }
+    ],
+    "overallStatus": "partial",
+    "reason": "Berlín, San Sebastián y Venecia no tienen cobertura íntegra verificada; identificadores FilmAffinity solo están confirmados para una parte de las películas."
+  },
+  "packageDoubts": {
+    "year": 1963,
+    "openQuestions": [
+      {
+        "block": "Berlín",
+        "issue": "La lista disponible procede de fuentes secundarias; no se verificó el programa completo en el archivo oficial.",
+        "action": "Revisión pendiente si Sol requiere cobertura integral."
+      },
+      {
+        "block": "Berlín cortometrajes/documentales",
+        "issue": "“Flaming Poppies” y “Shaqayeq-e Suzan” aparecen asociados en fuentes con títulos divergentes.",
+        "action": "Mantener alias provisional; confirmar identidad de título si se integra."
+      },
+      {
+        "block": "San Sebastián",
+        "issue": "El archivo oficial anuncia 96 películas, pero varias filas no se pudieron extraer por errores SQL; la selección entregada es parcial.",
+        "action": "No tratar el bloque como completo."
+      },
+      {
+        "block": "Venecia",
+        "issue": "La lista principal puede reconstruirse parcialmente, pero no se verificaron todos los programas de documentales y actividades paralelas.",
+        "action": "No tratar el bloque como completo."
+      },
+      {
+        "block": "FilmAffinity",
+        "issue": "La mayoría de las películas de festival no tiene ID FA verificado en el material consultado.",
+        "action": "IDs restantes quedan null; no se investigaron película por película."
+      },
+      {
+        "block": "Venecia cortometrajes",
+        "issue": "“The War Game” figura como premiada, pero no se recuperó una selección completa de cortometrajes.",
+        "action": "Registro limitado a la película premiada; selección pendiente."
+      }
+    ]
+  },
+  "unpublishedIdentityEvidence": []
+}
