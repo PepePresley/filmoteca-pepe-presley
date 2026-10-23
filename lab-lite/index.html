@@ -114,6 +114,7 @@ linear-gradient(180deg,#171013,#0e0e10);color:#c69a9e;font-family:Georgia,serif;
 .festYears{display:grid;gap:3px;max-height:265px;overflow:auto;padding-right:3px}
 .festYears button{border:0;background:transparent;color:#aaa49a;text-align:left;padding:7px 12px;border-radius:8px;cursor:pointer}
 .festYears button:hover,.festYears button.active{background:#3c321d;color:#f4d276;font-weight:800}
+.festSections select{max-width:100%;padding:7px;border:1px solid #494234;border-radius:7px;background:#201e19;color:#e8ca76;font:inherit}
 .festSections{display:grid;gap:4px}.festSections div{padding:7px 12px;color:#8e8981;font-size:12px;border-radius:7px}.festSections .active{background:#2b261a;color:#e8ca76}
 .festMain{min-width:0}
 .festHero{min-height:215px;padding:34px 38px;display:flex;align-items:flex-end;background:
@@ -878,7 +879,11 @@ function availableYears(f){
 const BAFTA_CATEGORY_ORDER=['Mejor película','Mejor película británica','Mejor debut británico','Mejor dirección','Mejor actor','Mejor actriz','Mejor actor de reparto','Mejor actriz de reparto','Mejor guion original','Mejor guion adaptado','Mejor fotografía','Mejor montaje','Mejor música original','Mejor diseño de producción','Mejor vestuario','Mejor maquillaje y peluquería','Mejor sonido','Mejores efectos visuales','Mejor película de habla no inglesa','Mejor película de animación','Mejor documental','Mejor cortometraje británico','Mejor cortometraje británico de animación'];
 const OSCAR_CATEGORY_ORDER=['Película','Dirección','Actor protagonista','Actriz protagonista','Actor de reparto','Actriz de reparto','Guion original','Guion adaptado','Película internacional','Película de animación','Documental','Cortometraje documental','Cortometraje de animación','Cortometraje de ficción','Fotografía','Montaje','Diseño de producción','Vestuario','Maquillaje y peluquería','Banda sonora','Canción','Sonido','Efectos visuales'];
 function oscarCategoryBase(s){return String(s||'').split(' · ')[0].trim()}
-function oscarEditionRaw(fy,festival='Oscar'){return (FESTIVAL_DB.editions||[]).find(e=>e.festival===festival&&Number(e.year)===Number(fy))}
+let selectedAwardSection=null;
+function oscarEditionRaw(fy,festival='Oscar'){
+ const editions=(FESTIVAL_DB.editions||[]).filter(e=>e.festival===festival&&Number(e.year)===Number(fy));
+ return editions.find(e=>e.section===selectedAwardSection)||editions[0];
+}
 function oscarCategories(fy,festival='Oscar'){
  const ed=oscarEditionRaw(fy,festival), set=new Set();
  (ed?.films||[]).forEach(f=>(f.nominations||[]).forEach(n=>set.add(oscarCategoryBase(n))));
@@ -887,10 +892,26 @@ function oscarCategories(fy,festival='Oscar'){
 }
 function rebuildOscarCategories(fy,festival='Oscar'){
  const cats=oscarCategories(fy,festival);
- if(!cats.length){$('festSections').innerHTML='<div class="active">Resumen por películas</div>';return null}
- $('festSections').innerHTML=cats.map((x,i)=>'<div class="oscarCategoryBtn '+(i===0?'active':'')+'" data-cat="'+esc(x)+'">'+esc(x)+'</div>').join('');
+ const editions=(FESTIVAL_DB.editions||[]).filter(e=>e.festival===festival&&Number(e.year)===Number(fy));
+ const raw=oscarEditionRaw(fy,festival);
+ const selector=editions.length>1?'<select id="awardEditionSelect" aria-label="Edición o sección de premios">'+editions.map(e=>'<option value="'+esc(e.section)+'"'+(e===raw?' selected':'')+'>'+esc(e.section)+'</option>').join('')+'</select>':'';
+ $('festSections').innerHTML=selector+(cats.length?cats.map((x,i)=>'<div class="oscarCategoryBtn '+(i===0?'active':'')+'" data-cat="'+esc(x)+'">'+esc(x)+'</div>').join(''):'<div class="active">Resumen por películas</div>');
+ const select=$('awardEditionSelect');
+ if(select)select.onchange=()=>{selectedAwardSection=select.value;renderSelectedAwardEdition(fy,festival)};
  $('festSections').querySelectorAll('.oscarCategoryBtn').forEach(b=>b.onclick=()=>renderOscarCategory(fy,b.dataset.cat,festival));
- return cats[0];
+ return cats[0]||null;
+}
+function renderSelectedAwardEdition(fy,festival){
+ const raw=oscarEditionRaw(fy,festival);
+ if(!raw)return;
+ $('festDisplayTitle').textContent=festival+' '+fy+((FESTIVAL_DB.editions||[]).filter(e=>e.festival===festival&&Number(e.year)===Number(fy)).length>1?' · '+raw.section:'');
+ const first=rebuildOscarCategories(fy,festival);
+ if(first)renderOscarCategory(fy,first,festival);else{
+  const ed=festivalEditionData(fy,festival,raw.section);
+  $('festDisplaySub').textContent=raw.section+' · '+(ed.present.length+ed.missing.length)+' películas';
+  $('festDisplayMeta').textContent=ed.present.length+' en tu filmoteca · '+ed.missing.length+' pendientes de localizar';
+  renderFestivalEditionFor(festival,fy,raw.section);
+ }
 }
 function renderOscarCategory(fy,cat,festival='Oscar'){
  const raw=oscarEditionRaw(fy,festival); if(!raw)return;
@@ -925,6 +946,7 @@ function renderOscarCategory(fy,cat,festival='Oscar'){
 }
 function openFestivalYear(yr){
  cannesResultFilter='todas';
+ selectedAwardSection=null;
  activeFestival=selectedFestival.toLowerCase()+yr;
  setFestivalChrome(true);
  $('tabFestivals').classList.add('active'); $('tabCollection').classList.remove('active');
@@ -935,8 +957,7 @@ function openFestivalYear(yr){
    const cats=oscarCategories(yr,selectedFestival);
    $('festDisplaySub').textContent=(cats.length?cats.length+' categorías · ':'')+total+' títulos nominados';
    $('festDisplayMeta').innerHTML='<b>'+present+'</b> títulos en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
-   const first=rebuildOscarCategories(yr,selectedFestival);
-   if(first)renderOscarCategory(yr,first,selectedFestival);else renderFestivalEditionFor(selectedFestival,yr);
+   renderSelectedAwardEdition(yr,selectedFestival);
  }else{
    const sections=(FESTIVAL_DB.editions||[]).filter(e=>e.festival===selectedFestival&&Number(e.year)===Number(yr));
    const initialSection=sections.length?sections[0].section:null;
