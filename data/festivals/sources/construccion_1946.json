@@ -1,0 +1,248 @@
+{
+  "year": 1946,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1946_para_Sol.zip",
+    "sha256": "216135f0c9dc4fd30705560aff036dfe9f239dac85a776e273ef2fbfcbd79892"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "films": 44,
+      "declaredOwned": 22
+    },
+    {
+      "festival": "Cannes",
+      "section": "Cortometrajes premiados",
+      "films": 7,
+      "declaredOwned": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 18.ª edición",
+      "films": 84,
+      "declaredOwned": 44
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 18.ª edición · especiales y honoríficos",
+      "films": 1,
+      "declaredOwned": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "films": 37,
+      "declaredOwned": 18
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 6,
+      "declaredOwned": 0
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "id": "oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1946",
+      "type": "oficial Academy",
+      "evidence": "extracciones/oscar_1946_transcripcion.json"
+    },
+    {
+      "id": "oscar-personales",
+      "url": "https://www.oscars.org/oscars/ceremonies/1946/memorable-moments",
+      "type": "oficial Academy",
+      "evidence": "extracciones/oscar_1946_premios_personales.json"
+    },
+    {
+      "id": "cannes-selection",
+      "url": "https://www.festival-cannes.com/en/retrospective/1946/",
+      "type": "oficial Cannes",
+      "evidence": "extracciones/cannes_1946_selection.json"
+    },
+    {
+      "id": "cannes-palmares",
+      "url": "https://www.festival-cannes.com/en/retrospective/1946/awards/",
+      "type": "oficial Cannes",
+      "evidence": "extracciones/cannes_1946_awards.json"
+    },
+    {
+      "id": "venice-history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "type": "oficial La Biennale",
+      "evidence": "extracciones/venecia_1946_historia.json"
+    },
+    {
+      "id": "venice-asac",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1946",
+      "type": "oficial ASAC",
+      "evidence": "extracciones/asac_1946_annuario.json"
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/about/our-heritage/",
+      "type": "oficial BAFTA",
+      "evidence": "extracciones/bafta_1946_status.json"
+    },
+    {
+      "id": "berlin",
+      "url": "https://b2b.berlinale.de/de/partner/postings/41-das-festival",
+      "type": "institucional Berlinale",
+      "evidence": "extracciones/berlin_1946_status.json"
+    },
+    {
+      "id": "san-sebastian",
+      "url": "https://www.sansebastianfestival.com/archivo/1/36/es",
+      "type": "oficial SSIFF",
+      "evidence": "extracciones/sansebastian_1946_status.json"
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1946",
+      "type": "fuente oficial ASAC; transcripción estructurada de registros",
+      "file": "extracciones/asac_venecia_1946_largometrajes_transcripcion.json",
+      "note": "ASAC muestra los registros agrupados por país en el programa anual. Ese dato acredita su inclusión en el anuario/manifestación, pero no establece por sí solo competición. Se incluyen largometrajes que ASAC clasifica como Lungometraggio; mediometrajes se dejan fuera y se registran como limitación cuando se conocen. Los cortos premiados permanecen en el JSON específico de cortos premiados."
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1946",
+      "type": "fuente oficial ASAC; transcripción estructurada de fichas de cortometrajes premiados",
+      "file": "extracciones/asac_venecia_1946_cortos_premiados_transcripcion.json"
+    },
+    {
+      "url": "https://www.labiennale.org/en/history/beginnings-until-second-world-war",
+      "type": "fuente oficial La Biennale",
+      "file": "venecia_seleccion_por_grupos_nacionales_1946.json",
+      "note": "Identifica el premio de prensa de The Southerner (1946) y el reinicio del festival tras la guerra."
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1946",
+      "status": "complete",
+      "coverage": "18.ª ceremonia: categorías cinematográficas competitivas, nominaciones y ganadores; premios especiales personales y el premio asociado a The House I Live In separados.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1946",
+      "status": "no celebrado",
+      "coverage": "La primera ceremonia BAFTA fue en 1949.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1946 — largometrajes",
+      "status": "complete",
+      "coverage": "44 largometrajes en competición y los premios asociados recuperados del palmarès oficial.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1946 — cortos premiados",
+      "status": "partial",
+      "coverage": "Siete cortos distintos, ocho premios; Molodost nasej strany recibió dos. La clasificación sigue la selección cuando contradice la ubicación del palmarès.",
+      "missing": [
+        "El palmarès lista un Grand Prix International du meilleur opérateur sin película ni destinatario visibles; no se asigna por inferencia."
+      ]
+    },
+    {
+      "block": "Cannes 1946 — fuera de concurso",
+      "status": "partial",
+      "coverage": "La retrospectiva consultada expone la selección en competición.",
+      "missing": [
+        "No se verificó si hubo largometrajes fuera de concurso."
+      ]
+    },
+    {
+      "block": "Berlín 1946",
+      "status": "no celebrado",
+      "coverage": "La Berlinale se fundó en 1951.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1946",
+      "status": "no celebrado",
+      "coverage": "El festival nació en 1953.",
+      "missing": []
+    },
+    {
+      "block": "FilmAffinity",
+      "status": "partial",
+      "coverage": "No verificado en bloque.",
+      "missing": [
+        "IDs y títulos FA quedan nulos."
+      ]
+    },
+    {
+      "block": "Venecia 1946 — cortometrajes premiados",
+      "status": "partial",
+      "coverage": "6 cortometrajes con reconocimientos que constan en fichas ASAC.",
+      "missing": [
+        "El programa completo de cortometrajes no se transcribe; las agrupaciones nacionales ASAC no determinan por sí solas la clasificación competitiva."
+      ]
+    },
+    {
+      "block": "Venecia 1946 — largometrajes en registros nacionales ASAC",
+      "status": "partial",
+      "coverage": "37 largometrajes ASAC transcritos; no se presentan como competición sin evidencia.",
+      "missing": [
+        "Sigue sin resolverse la clasificación de competición de los registros agrupados por país."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "id": "fa-identities-1946",
+      "question": "No se validaron IDs ni títulos registrados de FilmAffinity España en bloque.",
+      "impact": "Campos FA vacíos."
+    },
+    {
+      "id": "cannes-out-of-competition-1946",
+      "question": "No se ha confirmado si la edición incluyó largometrajes fuera de concurso.",
+      "impact": "Cobertura de Cannes parcial."
+    },
+    {
+      "id": "cannes-short-prize-unassigned-1946",
+      "question": "El palmarès incluye un Grand Prix International du meilleur opérateur sin película ni destinatario visibles.",
+      "impact": "No se asigna a ningún corto o largometraje."
+    },
+    {
+      "id": "venecia-1946-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1946-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1946-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición? El archivo acredita registros en la manifestación, pero no basta para probar competición.",
+      "impact": "Los largos y cortos premiados están separados por formato; clasificación competitiva queda pendiente."
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1946|Premios Oscar · 18.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Werner Janssen",
+      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+      "person": "Werner Janssen",
+      "winner": false,
+      "films": [
+        "El sureño (El hombre del sur)",
+        "El capitán Kidd",
+        "Semilla de odio"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

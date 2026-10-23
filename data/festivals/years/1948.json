@@ -1,0 +1,2815 @@
+{
+  "year": 1948,
+  "editions": [
+    {
+      "festival": "Oscar",
+      "year": 1948,
+      "section": "Premios Oscar · 20.ª edición",
+      "films": [
+        {
+          "title": "Doble vida",
+          "director": "George Cukor",
+          "aliases": [
+            "A Double Life"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Ronald Colman",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Miklos Rozsa"
+          ],
+          "nominations": [
+            "Actor protagonista · Ronald Colman",
+            "Dirección · George Cukor",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Miklos Rozsa",
+            "Guion original · Ruth Gordon, Garson Kanin"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Ronald Colman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Dirección",
+              "person": "George Cukor",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "person": "Miklos Rozsa",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Guion original",
+              "person": "Ruth Gordon, Garson Kanin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Actor protagonista · Ronald Colman · Music (Music Score of a Dramatic or Comedy Picture) · Miklos Rozsa",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Cuerpo y alma",
+          "director": "Robert Rossen",
+          "aliases": [
+            "Body and Soul"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Montaje · Francis Lyon, Robert Parrish"
+          ],
+          "nominations": [
+            "Actor protagonista · John Garfield",
+            "Montaje · Francis Lyon, Robert Parrish",
+            "Guion original · Abraham Polonsky"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "John Garfield",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Montaje",
+              "person": "Francis Lyon, Robert Parrish",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Guion original",
+              "person": "Abraham Polonsky",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Montaje · Francis Lyon, Robert Parrish",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La barrera invisible",
+          "director": "Elia Kazan",
+          "aliases": [
+            "Gentleman's Agreement"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz de reparto · Celeste Holm",
+            "Dirección · Elia Kazan",
+            "Best Motion Picture · 20th Century-Fox"
+          ],
+          "nominations": [
+            "Actor protagonista · Gregory Peck",
+            "Actriz protagonista · Dorothy McGuire",
+            "Actriz de reparto · Celeste Holm",
+            "Actriz de reparto · Anne Revere",
+            "Dirección · Elia Kazan",
+            "Montaje · Harmon Jones",
+            "Best Motion Picture · 20th Century-Fox",
+            "Guion · Moss Hart"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Gregory Peck",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Dorothy McGuire",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Celeste Holm",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Anne Revere",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Dirección",
+              "person": "Elia Kazan",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Montaje",
+              "person": "Harmon Jones",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Best Motion Picture",
+              "person": "20th Century-Fox",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Guion",
+              "person": "Moss Hart",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Actriz de reparto · Celeste Holm · Dirección · Elia Kazan · Best Motion Picture · 20th Century-Fox",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "De ilusión también se vive",
+          "director": "George Seaton",
+          "aliases": [
+            "Miracle on 34th Street"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor de reparto · Edmund Gwenn",
+            "Argumento · Valentine Davies",
+            "Guion · George Seaton"
+          ],
+          "nominations": [
+            "Actor de reparto · Edmund Gwenn",
+            "Best Motion Picture · 20th Century-Fox",
+            "Argumento · Valentine Davies",
+            "Guion · George Seaton"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Edmund Gwenn",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Best Motion Picture",
+              "person": "20th Century-Fox",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Argumento",
+              "person": "Valentine Davies",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Guion",
+              "person": "George Seaton",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Actor de reparto · Edmund Gwenn · Argumento · Valentine Davies · Guion · George Seaton",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Un destino de mujer",
+          "director": "H. C. Potter",
+          "aliases": [
+            "The Farmer's Daughter"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Loretta Young"
+          ],
+          "nominations": [
+            "Actor de reparto · Charles Bickford",
+            "Actriz protagonista · Loretta Young"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Charles Bickford",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Loretta Young",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Actriz protagonista · Loretta Young",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Cadenas rotas",
+          "director": "David Lean",
+          "aliases": [
+            "Great Expectations"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · blanco y negro · Art Direction: John Bryan; Set Decoration: Wilfred Shingleton",
+            "Fotografía · blanco y negro · Guy Green"
+          ],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Art Direction: John Bryan; Set Decoration: Wilfred Shingleton",
+            "Fotografía · blanco y negro · Guy Green",
+            "Dirección · David Lean",
+            "Best Motion Picture · J. Arthur Rank-Cineguild",
+            "Guion · David Lean, Anthony Havelock-Allan, Ronald Neame"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "person": "Art Direction: John Bryan; Set Decoration: Wilfred Shingleton",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "person": "Guy Green",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Dirección",
+              "person": "David Lean",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Best Motion Picture",
+              "person": "J. Arthur Rank-Cineguild",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Guion",
+              "person": "David Lean, Anthony Havelock-Allan, Ronald Neame",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Diseño de producción · blanco y negro · Art Direction: John Bryan; Set Decoration: Wilfred Shingleton · Fotografía · blanco y negro · Guy Green",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Narciso negro",
+          "director": "Michael Powell, Emeric Pressburger",
+          "aliases": [
+            "Black Narcissus"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · color · Art Direction: Alfred Junge; Set Decoration: Alfred Junge",
+            "Fotografía · color · Jack Cardiff"
+          ],
+          "nominations": [
+            "Diseño de producción · color · Art Direction: Alfred Junge; Set Decoration: Alfred Junge",
+            "Fotografía · color · Jack Cardiff"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · color",
+              "person": "Art Direction: Alfred Junge; Set Decoration: Alfred Junge",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Fotografía · color",
+              "person": "Jack Cardiff",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Diseño de producción · color · Art Direction: Alfred Junge; Set Decoration: Alfred Junge · Fotografía · color · Jack Cardiff",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La calle del Delfín Verde",
+          "director": "Victor Saville",
+          "aliases": [
+            "Green Dolphin Street"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Effects · A. Arnold Gillespie, Warren Newcombe; Douglas Shearer, Michael Steinore"
+          ],
+          "nominations": [
+            "Fotografía · blanco y negro · George Folsey",
+            "Montaje · George White",
+            "Sound Recording · Metro-Goldwyn-Mayer Studio Sound Department; Douglas Shearer, Sound Director",
+            "Special Effects · A. Arnold Gillespie, Warren Newcombe; Douglas Shearer, Michael Steinore"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · blanco y negro",
+              "person": "George Folsey",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Montaje",
+              "person": "George White",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Sound Recording",
+              "person": "Metro-Goldwyn-Mayer Studio Sound Department; Douglas Shearer, Sound Director",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Special Effects",
+              "person": "A. Arnold Gillespie, Warren Newcombe; Douglas Shearer, Michael Steinore",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Special Effects · A. Arnold Gillespie, Warren Newcombe; Douglas Shearer, Michael Steinore",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Siempre en tus brazos",
+          "director": "Walter Lang",
+          "aliases": [
+            "Mother Wore Tights"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Adaptación musical · Alfred Newman"
+          ],
+          "nominations": [
+            "Fotografía · color · Harry Jackson",
+            "Adaptación musical · Alfred Newman",
+            "Canción · “You Do” — Josef Myrow, Mack Gordon"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · color",
+              "person": "Harry Jackson",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Adaptación musical",
+              "person": "Alfred Newman",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Canción",
+              "person": "“You Do” — Josef Myrow, Mack Gordon",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Adaptación musical · Alfred Newman",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La mujer del obispo",
+          "director": "Henry Koster",
+          "aliases": [
+            "The Bishop's Wife"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Sound Recording · Samuel Goldwyn Studio Sound Department; Gordon Sawyer, Sound Director"
+          ],
+          "nominations": [
+            "Dirección · Henry Koster",
+            "Montaje · Monica Collingwood",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Hugo Friedhofer",
+            "Best Motion Picture · Samuel Goldwyn Productions",
+            "Sound Recording · Samuel Goldwyn Studio Sound Department; Gordon Sawyer, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Dirección",
+              "person": "Henry Koster",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Montaje",
+              "person": "Monica Collingwood",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "person": "Hugo Friedhofer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Best Motion Picture",
+              "person": "Samuel Goldwyn Productions",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Sound Recording",
+              "person": "Samuel Goldwyn Studio Sound Department; Gordon Sawyer, Sound Director",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Sound Recording · Samuel Goldwyn Studio Sound Department; Gordon Sawyer, Sound Director",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Design for Death",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Documental · Sid Rogell, Theron Warth, Richard O. Fleischer"
+          ],
+          "nominations": [
+            "Documental · Sid Rogell, Theron Warth, Richard O. Fleischer"
+          ],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Sid Rogell, Theron Warth, Richard O. Fleischer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Documental · Sid Rogell, Theron Warth, Richard O. Fleischer",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "First Steps",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje documental · United Nations Division of Films and Visual Information"
+          ],
+          "nominations": [
+            "Cortometraje documental · United Nations Division of Films and Visual Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "United Nations Division of Films and Visual Information",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Cortometraje documental · United Nations Division of Films and Visual Information",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Canción del sur",
+          "director": "Harve Foster, Wilfred Jackson",
+          "aliases": [
+            "Song of the South"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Canción · “Zip-A-Dee-Doo-Dah” — Allie Wrubel, Ray Gilbert"
+          ],
+          "nominations": [
+            "Adaptación musical · Daniele Amfitheatrof, Paul J. Smith, Charles Wolcott",
+            "Canción · “Zip-A-Dee-Doo-Dah” — Allie Wrubel, Ray Gilbert"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Daniele Amfitheatrof, Paul J. Smith, Charles Wolcott",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Canción",
+              "person": "“Zip-A-Dee-Doo-Dah” — Allie Wrubel, Ray Gilbert",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Canción · “Zip-A-Dee-Doo-Dah” — Allie Wrubel, Ray Gilbert",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Dulce Piolín",
+          "director": "Friz Freleng",
+          "aliases": [
+            "Tweetie Pie"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de animación · Edward Selzer, Producer"
+          ],
+          "nominations": [
+            "Cortometraje de animación · Edward Selzer, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Edward Selzer, Producer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Cortometraje de animación · Edward Selzer, Producer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Good-bye Miss Turlock",
+          "director": "Edward L. Cahn",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de ficción · un rollo · Herbert Moulton, Producer"
+          ],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Herbert Moulton, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "person": "Herbert Moulton, Producer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Cortometraje de ficción · un rollo · Herbert Moulton, Producer",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Climbing the Matterhorn",
+          "director": "James Algar",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de ficción · dos rollos · Irving Allen, Producer"
+          ],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Irving Allen, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "person": "Irving Allen, Producer",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Cortometraje de ficción · dos rollos · Irving Allen, Producer",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El solterón y la menor",
+          "director": "Irving Reis",
+          "aliases": [
+            "The Bachelor and the Bobby-Soxer"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Guion original · Sidney Sheldon"
+          ],
+          "nominations": [
+            "Guion original · Sidney Sheldon"
+          ],
+          "candidacies": [
+            {
+              "category": "Guion original",
+              "person": "Sidney Sheldon",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Guion original · Sidney Sheldon",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Life with Father",
+          "director": "Michael Curtiz",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · William Powell",
+            "Diseño de producción · color · Art Direction: Robert M. Haas; Set Decoration: George James Hopkins",
+            "Fotografía · color · Peverell Marley, William V. Skall",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Max Steiner"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "William Powell",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Diseño de producción · color",
+              "person": "Art Direction: Robert M. Haas; Set Decoration: George James Hopkins",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Fotografía · color",
+              "person": "Peverell Marley, William V. Skall",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "person": "Max Steiner",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A Electra le sienta bien el luto",
+          "director": "Dudley Nichols",
+          "aliases": [
+            "Mourning Becomes Electra"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Michael Redgrave",
+            "Actriz protagonista · Rosalind Russell"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "person": "Michael Redgrave",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Actriz protagonista",
+              "person": "Rosalind Russell",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Persecución en la noche",
+          "director": "Robert Montgomery",
+          "aliases": [
+            "Ride the Pink Horse"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · Thomas Gomez"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Thomas Gomez",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Encrucijada de odios",
+          "director": "Edward Dmytryk",
+          "aliases": [
+            "Crossfire"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · Robert Ryan",
+            "Actriz de reparto · Gloria Grahame",
+            "Dirección · Edward Dmytryk",
+            "Best Motion Picture · RKO Radio",
+            "Guion · John Paxton"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Robert Ryan",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Actriz de reparto",
+              "person": "Gloria Grahame",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Dirección",
+              "person": "Edward Dmytryk",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Best Motion Picture",
+              "person": "RKO Radio",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Guion",
+              "person": "John Paxton",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El beso de la muerte",
+          "director": "Henry Hathaway",
+          "aliases": [
+            "Kiss of Death"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · Richard Widmark",
+            "Argumento · Eleazar Lipsky"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "person": "Richard Widmark",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Argumento",
+              "person": "Eleazar Lipsky",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Amor que mata",
+          "director": "Curtis Bernhardt",
+          "aliases": [
+            "Possessed"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Joan Crawford"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "person": "Joan Crawford",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Una mujer destruida",
+          "director": "Stuart Heisler",
+          "aliases": [
+            "Smash-Up--The Story of a Woman",
+            "Smash-Up: The Story of a Woman"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Susan Hayward",
+            "Argumento · Dorothy Parker, Frank Cavett"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "person": "Susan Hayward",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            },
+            {
+              "category": "Argumento",
+              "person": "Dorothy Parker, Frank Cavett",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El proceso Paradine",
+          "director": "Alfred Hitchcock",
+          "aliases": [
+            "The Paradine Case"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz de reparto · Ethel Barrymore"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "person": "Ethel Barrymore",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El huevo y yo",
+          "director": "Chester Erskine",
+          "aliases": [
+            "The Egg and I"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz de reparto · Marjorie Main"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "person": "Marjorie Main",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Débil es la carne",
+          "director": "John M. Stahl",
+          "aliases": [
+            "The Foxes of Harrow"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Art Direction: Lyle Wheeler, Maurice Ransford; Set Decoration: Thomas Little, Paul S. Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "person": "Art Direction: Lyle Wheeler, Maurice Ransford; Set Decoration: Thomas Little, Paul S. Fox",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El fantasma y la señora Muir",
+          "director": "Joseph L. Mankiewicz",
+          "aliases": [
+            "The Ghost and Mrs. Muir"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · blanco y negro · Charles Lang, Jr."
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · blanco y negro",
+              "person": "Charles Lang, Jr.",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Journey into Medicine",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documental · United States Department of State Office of Information and Educational Exchange"
+          ],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "United States Department of State Office of Information and Educational Exchange",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The World Is Rich",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documental · Paul Rotha"
+          ],
+          "candidacies": [
+            {
+              "category": "Documental",
+              "person": "Paul Rotha",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Passport to Nowhere",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje documental · Frederic Ullman, Jr."
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Frederic Ullman, Jr.",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "School in the Mailbox",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje documental · Australian News & Information Bureau"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje documental",
+              "person": "Australian News & Information Bureau",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Larga es la noche",
+          "director": "Carol Reed",
+          "aliases": [
+            "Odd Man Out"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Montaje · Fergus McDonell"
+          ],
+          "candidacies": [
+            {
+              "category": "Montaje",
+              "person": "Fergus McDonell",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El capitán de Castilla",
+          "director": "Henry King",
+          "aliases": [
+            "Captain from Castile"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Alfred Newman"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "person": "Alfred Newman",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ambiciosa",
+          "director": "Otto Preminger",
+          "aliases": [
+            "Forever Amber"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · David Raksin"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "person": "David Raksin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Fiesta",
+          "director": "Richard Thorpe",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Johnny Green"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Johnny Green",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "My Wild Irish Rose",
+          "director": "David Butler",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Ray Heindorf, Max Steiner"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Ray Heindorf, Max Steiner",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Road to Rio",
+          "director": "Norman Z. McLeod",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Robert Emmett Dolan"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "person": "Robert Emmett Dolan",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Time, the Place and the Girl",
+          "director": "David Butler",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · “A Gal in Calico” — Arthur Schwartz, Leo Robin"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "“A Gal in Calico” — Arthur Schwartz, Leo Robin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los peligros de Paulina",
+          "director": "George Marshall",
+          "aliases": [
+            "The Perils of Pauline"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · “I Wish I Didn’t Love You So” — Frank Loesser"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "“I Wish I Didn’t Love You So” — Frank Loesser",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "¡Viva el amor!",
+          "director": "Charles Walters",
+          "aliases": [
+            "Good News"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · “Pass That Peace Pipe” — Ralph Blane, Roger Edens, Hugh Martin"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "person": "“Pass That Peace Pipe” — Ralph Blane, Roger Edens, Hugh Martin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El pato Donald: Chip y Chop",
+          "director": "Jack Hannah",
+          "aliases": [
+            "Chip An' Dale",
+            "Chip an' Dale"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Walt Disney, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948",
+              "sharedCandidacyId": "Oscar|1948|Premios Oscar · 20.ª edición|Cortometraje de animación|Walt Disney, Producer",
+              "associatedFilms": [
+                "El pato Donald: Chip y Chop",
+                "Pluto's Blue Note"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Dr. Jekyll and Mr. Mouse",
+          "director": "William Hanna, Joseph Barbera",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Frederick Quimby, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Frederick Quimby, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Pluto's Blue Note",
+          "director": "Charles A. Nichols",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "Walt Disney, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948",
+              "sharedCandidacyId": "Oscar|1948|Premios Oscar · 20.ª edición|Cortometraje de animación|Walt Disney, Producer",
+              "associatedFilms": [
+                "El pato Donald: Chip y Chop",
+                "Pluto's Blue Note"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tubby the Tuba",
+          "director": "George Pal",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · George Pal, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "person": "George Pal, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Brooklyn, U.S.A.",
+          "director": "Arthur Dreifuss",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Thomas Mead, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "person": "Thomas Mead, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Moon Rockets",
+          "director": "Herman Hoffman",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Jerry Fairbanks, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "person": "Jerry Fairbanks, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Now You See It",
+          "director": "Pete Smith",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Pete Smith, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "person": "Pete Smith, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "So You Want to Be in Pictures",
+          "director": "Richard L. Bare",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Gordon Hollingshead, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "person": "Gordon Hollingshead, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Champagne for Two",
+          "director": "Harry Grey",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Harry Grey, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "person": "Harry Grey, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Fight of the Wild Stallions",
+          "director": "Thomas Mead",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Thomas Mead, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "person": "Thomas Mead, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Give Us the Earth",
+          "director": "Herbert Morgan",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Herbert Morgan, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "person": "Herbert Morgan, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A Voice Is Born: The Story of Niklos Gafni",
+          "director": "Ben Blake",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Ben Blake, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "person": "Ben Blake, Producer",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La brigada suicida",
+          "director": "Anthony Mann",
+          "aliases": [
+            "T-Men"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Sound Recording · Sound Service, Inc.; Jack R. Whitney, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Sound Recording",
+              "person": "Sound Service, Inc.; Jack R. Whitney, Sound Director",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los inconquistables",
+          "director": "Cecil B. DeMille",
+          "aliases": [
+            "Unconquered"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Farciot Edouart, Devereux Jennings, Gordon Jennings, Wallace Kelley, Paul Lerpae; George Dutton"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "person": "Farciot Edouart, Devereux Jennings, Gordon Jennings, Wallace Kelley, Paul Lerpae; George Dutton",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A Cage of Nightingales",
+          "director": "Jean Dréville",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Argumento · Georges Chaperot, René Wheeler"
+          ],
+          "candidacies": [
+            {
+              "category": "Argumento",
+              "person": "Georges Chaperot, René Wheeler",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sucedió en la 5ª avenida",
+          "director": "Roy Del Ruth",
+          "aliases": [
+            "It Happened on Fifth Avenue"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Argumento · Herbert Clyde Lewis, Frederick Stephani"
+          ],
+          "candidacies": [
+            {
+              "category": "Argumento",
+              "person": "Herbert Clyde Lewis, Frederick Stephani",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Monsieur Verdoux",
+          "director": "Charles Chaplin",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Guion original · Charles Chaplin"
+          ],
+          "candidacies": [
+            {
+              "category": "Guion original",
+              "person": "Charles Chaplin",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Shoe-Shine",
+          "director": "Vittorio De Sica",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Guion original · Sergio Amidei, Adolfo Franci, C. G. Viola, Cesare Zavattini"
+          ],
+          "candidacies": [
+            {
+              "category": "Guion original",
+              "person": "Sergio Amidei, Adolfo Franci, C. G. Viola, Cesare Zavattini",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El justiciero",
+          "director": "Elia Kazan",
+          "aliases": [
+            "Boomerang!"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Guion · Richard Murphy"
+          ],
+          "candidacies": [
+            {
+              "category": "Guion",
+              "person": "Richard Murphy",
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "Oscar",
+      "year": 1948,
+      "section": "Premios Oscar · 20.ª edición · especiales y honoríficos",
+      "films": [
+        {
+          "title": "Shoe-Shine",
+          "director": "Vittorio De Sica",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Award — Foreign Language Film"
+          ],
+          "nominations": [
+            "Special Award — Foreign Language Film"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Award — Foreign Language Film",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Special Award — Foreign Language Film",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Bill and Coo",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Award"
+          ],
+          "nominations": [
+            "Special Award"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Award",
+              "person": null,
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1948"
+            }
+          ],
+          "award": "Special Award",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1948,
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": [
+        {
+          "title": "Der Prozess",
+          "director": "Georg Wilhelm Pabst",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per la migliore regia",
+            "Premio internazionale per il miglior attore"
+          ],
+          "nominations": [
+            "Premio internazionale per la migliore regia",
+            "Premio internazionale per il miglior attore"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per la migliore regia",
+              "person": "Georg Wilhelm Pabst",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1773"
+            },
+            {
+              "category": "Premio internazionale per il miglior attore",
+              "person": "Ernst Deutsch",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1773"
+            }
+          ],
+          "award": "Premio internazionale per la migliore regia · Premio internazionale per il miglior attore",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Spalicek",
+          "director": "Jirí Trnka",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia della Biennale di Venezia per il miglior film"
+          ],
+          "nominations": [
+            "Medaglia della Biennale di Venezia per il miglior film"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia della Biennale di Venezia per il miglior film",
+              "person": "pupazzi animati",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1786"
+            }
+          ],
+          "award": "Medaglia della Biennale di Venezia per il miglior film",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La bataille de l'eau lourde",
+          "director": "Titus Vibe-Müller",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia Enic"
+          ],
+          "nominations": [
+            "Medaglia Enic"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia Enic",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1798"
+            }
+          ],
+          "award": "Medaglia Enic",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Paysans noirs",
+          "director": "Georges Régnier",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia Enic"
+          ],
+          "nominations": [
+            "Medaglia Enic"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia Enic",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1800"
+            }
+          ],
+          "award": "Medaglia Enic",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hamlet",
+          "director": "Laurence Olivier",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Gran Premio Internazionale di Venezia per il miglior film",
+            "Premio internazionale per la migliore fotografia",
+            "Premio internazionale per la migliore attrice"
+          ],
+          "nominations": [
+            "Gran Premio Internazionale di Venezia per il miglior film",
+            "Premio internazionale per la migliore fotografia",
+            "Premio internazionale per la migliore attrice"
+          ],
+          "candidacies": [
+            {
+              "category": "Gran Premio Internazionale di Venezia per il miglior film",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1824"
+            },
+            {
+              "category": "Premio internazionale per la migliore fotografia",
+              "person": "Desmond Dickinson",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1824"
+            },
+            {
+              "category": "Premio internazionale per la migliore attrice",
+              "person": "Jean Simmons",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1824"
+            }
+          ],
+          "award": "Gran Premio Internazionale di Venezia per il miglior film · Premio internazionale per la migliore fotografia · Premio internazionale per la migliore attrice",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Oliver Twist",
+          "director": "David Lean",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per la migliore scenografia"
+          ],
+          "nominations": [
+            "Premio internazionale per la migliore scenografia"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per la migliore scenografia",
+              "person": "John (I) Bryan",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1825"
+            }
+          ],
+          "award": "Premio internazionale per la migliore scenografia",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El ídolo caído",
+          "director": "Carol Reed",
+          "aliases": [
+            "The Fallen Idol"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per il miglior soggetto e sceneggiatura"
+          ],
+          "nominations": [
+            "Premio internazionale per il miglior soggetto e sceneggiatura"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per il miglior soggetto e sceneggiatura",
+              "person": "Graham Greene",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1822"
+            }
+          ],
+          "award": "Premio internazionale per il miglior soggetto e sceneggiatura",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Años difíciles",
+          "director": "Luigi Zampa",
+          "aliases": [
+            "Anni difficili"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Coppa dell'E.N.I.C"
+          ],
+          "nominations": [
+            "Coppa dell'E.N.I.C"
+          ],
+          "candidacies": [
+            {
+              "category": "Coppa dell'E.N.I.C",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2056"
+            }
+          ],
+          "award": "Coppa dell'E.N.I.C",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La tierra tiembla",
+          "director": "Luchino Visconti",
+          "aliases": [
+            "La terra trema"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale"
+          ],
+          "nominations": [
+            "Premio internazionale"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2065"
+            }
+          ],
+          "award": "Premio internazionale",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Bajo el sol de Roma",
+          "director": "Renato Castellani",
+          "aliases": [
+            "Sotto il sole di Roma"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio della Presidenza del Consiglio dei Ministri al miglior film italiano",
+            "Coppa dell'Anica per il regista del miglior film italiano"
+          ],
+          "nominations": [
+            "Premio della Presidenza del Consiglio dei Ministri al miglior film italiano",
+            "Coppa dell'Anica per il regista del miglior film italiano"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio della Presidenza del Consiglio dei Ministri al miglior film italiano",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2063"
+            },
+            {
+              "category": "Coppa dell'Anica per il regista del miglior film italiano",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2063"
+            }
+          ],
+          "award": "Premio della Presidenza del Consiglio dei Ministri al miglior film italiano · Coppa dell'Anica per il regista del miglior film italiano",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Les noces de sable",
+          "director": "André Zwoboda",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo"
+          ],
+          "nominations": [
+            "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/8669"
+            }
+          ],
+          "award": "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Maclovia",
+          "director": "Emilio Fernández",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo"
+          ],
+          "nominations": [
+            "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2117"
+            }
+          ],
+          "award": "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La verdad no tiene fronteras",
+          "director": "Aleksander Ford",
+          "aliases": [
+            "Ulica graniczna"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo"
+          ],
+          "nominations": [
+            "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2126"
+            }
+          ],
+          "award": "Medaglia della Presidenza del Consiglio dei Ministri - Direzione Generale dello Spettacolo",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La mujer sin rostro",
+          "director": "Gustaf Molander",
+          "aliases": [
+            "Kvinna utan ansikte"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia della Biennale di Venezia"
+          ],
+          "nominations": [
+            "Medaglia della Biennale di Venezia"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia della Biennale di Venezia",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2146"
+            }
+          ],
+          "award": "Medaglia della Biennale di Venezia",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Die Gezeichneten",
+          "director": "Fred Zinnemann",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Medaglia della Biennale di Venezia"
+          ],
+          "nominations": [
+            "Medaglia della Biennale di Venezia"
+          ],
+          "candidacies": [
+            {
+              "category": "Medaglia della Biennale di Venezia",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2151"
+            }
+          ],
+          "award": "Medaglia della Biennale di Venezia",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Duelo al sol",
+          "director": "King Vidor",
+          "aliases": [
+            "Duel in the Sun"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Coppa Cinecittà"
+          ],
+          "nominations": [
+            "Coppa Cinecittà"
+          ],
+          "candidacies": [
+            {
+              "category": "Coppa Cinecittà",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2162"
+            }
+          ],
+          "award": "Coppa Cinecittà",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Louisiana Story",
+          "director": "Robert J. Flaherty",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale"
+          ],
+          "nominations": [
+            "Premio internazionale"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2165"
+            }
+          ],
+          "award": "Premio internazionale",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Melody Time: The Casket of the Seven Pearls",
+          "director": "Hamilton Luske; Jack Kinney; Wilfred Jackson; Clyde Geronimi; Ben Sharpsteen",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per il miglior film di cartoni animati"
+          ],
+          "nominations": [
+            "Premio internazionale per il miglior film di cartoni animati"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per il miglior film di cartoni animati",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2167"
+            }
+          ],
+          "award": "Premio internazionale per il miglior film di cartoni animati",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El fugitivo",
+          "director": "John Ford",
+          "aliases": [
+            "The Fugitive"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale"
+          ],
+          "nominations": [
+            "Premio internazionale"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2163"
+            }
+          ],
+          "award": "Premio internazionale",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El tesoro de Sierra Madre",
+          "director": "John Huston",
+          "aliases": [
+            "The Treasure of the Sierra Madre"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per la migliore musica"
+          ],
+          "nominations": [
+            "Premio internazionale per la migliore musica"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per la migliore musica",
+              "person": "Max Steiner",
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2171"
+            }
+          ],
+          "award": "Premio internazionale per la migliore musica",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Dios se lo pague",
+          "director": "Luis César Amadori",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Das Andere Leben",
+          "director": "Rudolf Steinboeck",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Der Engel mit der Posaune",
+          "director": "Karl Hartl",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Le crabe aux pinces d'or",
+          "director": "Claude Misonne",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Passeurs d'or",
+          "director": "E.G. de Meyst",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Dédée d'Anvers",
+          "director": "Yves Allégret",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El águila de dos cabezas",
+          "director": "Jean Cocteau",
+          "aliases": [
+            "L'aigle à deux têtes",
+            "L'Aigle à deux têtes"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Spring in Park Lane",
+          "director": "Herbert Wilcox",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Las zapatillas rojas",
+          "director": "Emeric Pressburger; Michael Powell",
+          "aliases": [
+            "The Red Shoes"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Pleito de honor",
+          "director": "Anthony Asquith",
+          "aliases": [
+            "The Winslow Boy"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Fuga in Francia",
+          "director": "Mario Soldati",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El amor",
+          "director": "Roberto Rossellini",
+          "aliases": [
+            "L'amore",
+            "L'Amore"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sin piedad",
+          "director": "Alberto Lattuada",
+          "aliases": [
+            "Senza pietà"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Nocturno de amor",
+          "director": "Emilio Gómez Muriel",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ehe im Schatten",
+          "director": "Kurt Maetzig",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Finale",
+          "director": "Ulrich Erfurth",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Morituri",
+          "director": "Eugen York",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Música en la oscuridad",
+          "director": "Ingmar Bergman",
+          "aliases": [
+            "Musik i mörker"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Double Life",
+          "director": "George Cukor",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Gentlemen's agreement",
+          "director": "Elia Kazan",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Fuego de juventud",
+          "director": "Clarence Brown",
+          "aliases": [
+            "National Velvet"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El reloj asesino",
+          "director": "John Farrow",
+          "aliases": [
+            "The Big Clock"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1948,
+      "section": "Fuera de concurso · largometrajes documentados",
+      "films": [
+        {
+          "title": "Fantasmi del mare",
+          "director": "Francesco De Robertis",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Macbeth",
+          "director": "Orson Welles",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "award": "Fuera de concurso",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La última etapa",
+          "director": "Wanda Jakubowska",
+          "aliases": [
+            "Ostatni etap"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "award": "Fuera de concurso",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Strange Victory",
+          "director": "Leo Hurwitz",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "award": "Fuera de concurso",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Opio",
+          "director": "Robert Stevenson",
+          "aliases": [
+            "To the Ends of the Earth"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "competitionStatus": "FUERA_DE_CONCURSO",
+          "award": "Fuera de concurso",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    },
+    {
+      "festival": "Venecia",
+      "year": 1948,
+      "section": "Cortometrajes premiados",
+      "films": [
+        {
+          "title": "Landsbykirken",
+          "director": "Carl Theodor Dreyer",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per il cortometraggio"
+          ],
+          "nominations": [
+            "Premio internazionale per il cortometraggio"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per il cortometraggio",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1795"
+            }
+          ],
+          "award": "Premio internazionale per il cortometraggio",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Le Petit Soldat",
+          "director": "Paul Grimault",
+          "aliases": [
+            "Le petit soldat"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per il miglior film di cartoni animati"
+          ],
+          "nominations": [
+            "Premio internazionale per il miglior film di cartoni animati"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per il miglior film di cartoni animati",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1812"
+            }
+          ],
+          "award": "Premio internazionale per il miglior film di cartoni animati",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Les Goémons",
+          "director": "Yannick Bellon",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Primo premio internazionale per il miglior documentario"
+          ],
+          "nominations": [
+            "Primo premio internazionale per il miglior documentario"
+          ],
+          "candidacies": [
+            {
+              "category": "Primo premio internazionale per il miglior documentario",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1807"
+            }
+          ],
+          "award": "Primo premio internazionale per il miglior documentario",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Vente aux enchères",
+          "director": "Jean Mousselle",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per il cortometraggio"
+          ],
+          "nominations": [
+            "Premio internazionale per il cortometraggio"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per il cortometraggio",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1820"
+            }
+          ],
+          "award": "Premio internazionale per il cortometraggio",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Lezione di geometria",
+          "director": "Rino Sinopoli; Virgilio Sabel",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio della Direzione Generale dello Spettacolo della Presidenza del Consiglio dei Ministri per il miglior cortometraggio italiano"
+          ],
+          "nominations": [
+            "Premio della Direzione Generale dello Spettacolo della Presidenza del Consiglio dei Ministri per il miglior cortometraggio italiano"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio della Direzione Generale dello Spettacolo della Presidenza del Consiglio dei Ministri per il miglior cortometraggio italiano",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2092"
+            }
+          ],
+          "award": "Premio della Direzione Generale dello Spettacolo della Presidenza del Consiglio dei Ministri per il miglior cortometraggio italiano",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Taget",
+          "director": "Gösta Werner",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Premio internazionale per il cortometraggio"
+          ],
+          "nominations": [
+            "Premio internazionale per il cortometraggio"
+          ],
+          "candidacies": [
+            {
+              "category": "Premio internazionale per il cortometraggio",
+              "person": null,
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/2149"
+            }
+          ],
+          "award": "Premio internazionale per il cortometraggio",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    }
+  ]
+}

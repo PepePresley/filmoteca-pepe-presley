@@ -1,0 +1,281 @@
+{
+  "year": 1949,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1949_para_Sol.zip",
+    "sha256": "d716db2e7ceff827ee07389de8b8e5c91aa4f3fbfa5034632fec9d644c34548b"
+  },
+  "counts": [
+    {
+      "festival": "BAFTA",
+      "section": "Primera ceremonia · premios de1947 y1948",
+      "films": 29,
+      "declaredOwned": 13
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "films": 30,
+      "declaredOwned": 15
+    },
+    {
+      "festival": "Cannes",
+      "section": "Cortometrajes premiados",
+      "films": 5,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 21.ª edición",
+      "films": 52,
+      "declaredOwned": 26
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 21.ª edición · especiales y honoríficos",
+      "films": 3,
+      "declaredOwned": 3
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 35,
+      "declaredOwned": 16
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 3,
+      "declaredOwned": 0
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "BAFTA: primera ceremonia con premios de periodos1947 y1948 diferenciados. Jane Wyman se conserva como representante, sin atribuirle el premio de The Best Years of Our Lives. Candidaturas históricas parciales."
+  ],
+  "sources": [
+    {
+      "id": "oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1949/E",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_1949_transcripcion.json",
+      "note": "21.ª ceremonia, películas estrenadas principalmente en 1948."
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/awards/search/?award-year=1949&search=1949&type=Film",
+      "type": "oficial",
+      "evidence": "extracciones/bafta_1949_transcripcion.json",
+      "note": "Archivo dinámico; la transcripción excluye resultados cruzados de la 1.ª edición."
+    },
+    {
+      "id": "bafta_1949_brochure",
+      "url": "https://www.bafta.org/stories/first-awards-brochure/",
+      "type": "oficial — folleto histórico escaneado",
+      "evidence": null,
+      "note": "El folleto fue presentado en la página oficial; queda pendiente cotejar visualmente las categorías y candidaturas."
+    },
+    {
+      "id": "cannes_selection",
+      "url": "https://www.festival-cannes.com/en/retrospective/1949/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_1949_seleccion_transcripcion.json",
+      "note": "Selección en competición de largometrajes."
+    },
+    {
+      "id": "cannes_awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1949/palmares/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_1949_premios_transcripcion.json",
+      "note": "Palmarès de largometrajes y cortometrajes premiados."
+    },
+    {
+      "id": "berlinale_history",
+      "url": "https://www.berlinale.de/en/archive/",
+      "type": "oficial",
+      "evidence": "extracciones/berlin_1949_status.json",
+      "note": "No se localizó edición 1949; Berlinale iniciada en 1951."
+    },
+    {
+      "id": "san_sebastian_history",
+      "url": "https://www.sansebastianfestival.com/archivo/1/36/es",
+      "type": "oficial",
+      "evidence": "extracciones/sansebastian_1949_status.json",
+      "note": "Historia oficial: festival nacido en 1953."
+    },
+    {
+      "id": "venice_asac",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1949",
+      "type": "oficial",
+      "evidence": "extracciones/venezia_1949_status.json",
+      "note": "ASAC accesible, pero contenido anual/API no se pudo extraer en bloque."
+    },
+    {
+      "id": "venice_history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "type": "oficial",
+      "evidence": null,
+      "note": "Confirma premio Golden Lion introducido en 1949 y Coppa Volpi 1949."
+    },
+    {
+      "url": "https://www.bafta.org/stories/first-awards-brochure/",
+      "type": "fuente oficial BAFTA; folleto original inspeccionado visualmente y transcrito",
+      "file": "extracciones/bafta_1949_brochure_page3_transcription.txt",
+      "note": "The brochure is headed 1947 and 1948 Awards; BAFTA page dates presentation 29 May 1949 and says it covered film from 1947–48."
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1949",
+      "type": "fuente oficial ASAC; transcripción estructurada de registros",
+      "file": "extracciones/asac_venecia_1949_largometrajes_transcripcion.json",
+      "note": "ASAC muestra los registros agrupados por país en el programa anual. Ese dato acredita su inclusión en el anuario/manifestación, pero no establece por sí solo competición. Se incluyen largometrajes que ASAC clasifica como Lungometraggio; mediometrajes se dejan fuera y se registran como limitación cuando se conocen. Los cortos premiados permanecen en el JSON específico de cortos premiados."
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1949",
+      "type": "fuente oficial ASAC; transcripción estructurada de fichas de cortometrajes premiados",
+      "file": "extracciones/asac_venecia_1949_cortos_premiados_transcripcion.json"
+    },
+    {
+      "url": "https://asac.labiennale.org/api/ricerca-semplice",
+      "type": "respuesta original proporcionada por Sol; consulta annali_cinema para 1949",
+      "file": "extracciones/asac_annali_1949_respuesta_original_proporcionada.json",
+      "note": "La respuesta contiene un único registro anual de manifestación, no las 237 actividades del total general ni una lista de películas. No se usa como recuento de selección."
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1949",
+      "status": "complete",
+      "coverage": "21.ª ceremonia; 24 categorías competitivas de cine con nominaciones y ganadores; tres premios especiales asociados a películas separados. Cubre documental de largometraje y cortometraje por separado.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1949 — largometrajes",
+      "status": "complete",
+      "coverage": "30 largometrajes de competición, según archivo oficial; premios integrados en las fichas correspondientes. El archivo oficial no muestra una sección fuera de concurso para esta edición.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1949 — cortometrajes premiados",
+      "status": "complete",
+      "coverage": "Cinco cortometrajes con premios y directores, conforme al palmarès oficial; no se transcribe la selección íntegra de cortos.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1949",
+      "status": "no celebrado",
+      "coverage": "Berlinale no existía todavía; su primera edición fue en 1951.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1949",
+      "status": "no celebrado",
+      "coverage": "El festival fue fundado en 1953.",
+      "missing": []
+    },
+    {
+      "block": "FilmAffinity",
+      "status": "partial",
+      "coverage": "Se conserva el título original archivístico y directores acreditados; IDs y títulos registrados FA no se han cotejado en bloque.",
+      "missing": [
+        "Añadir IDs/títulos FA solo tras verificar identidad; no afecta a la transcripción de candidaturas."
+      ]
+    },
+    {
+      "block": "BAFTA Film 1949 — primera ceremonia",
+      "status": "partial",
+      "coverage": "Palmarés de 1947 y 1948 comprobado contra el folleto oficial original; se añadieron los tres ganadores de 1947 que faltaban en el paquete. El bloque conserva los registros de categorías/aspirantes ya extraídos del archivo BAFTA.",
+      "missing": [
+        "El folleto consultado acredita el orden de anuncio de ganadores, no una lista completa de candidaturas; no se declara cobertura completa de candidaturas."
+      ]
+    },
+    {
+      "block": "Venecia 1949 — cortometrajes premiados",
+      "status": "partial",
+      "coverage": "3 cortometrajes con reconocimientos que constan en fichas ASAC.",
+      "missing": [
+        "El programa completo de cortometrajes no se transcribe; las agrupaciones nacionales ASAC no determinan por sí solas la clasificación competitiva."
+      ]
+    },
+    {
+      "block": "Venecia 1949 — largometrajes en registros nacionales ASAC",
+      "status": "partial",
+      "coverage": "35 largometrajes ASAC transcritos; no se presentan como competición sin evidencia.",
+      "missing": [
+        "Sigue sin resolverse la clasificación de competición de los registros agrupados por país."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "id": "cannes-out-1949",
+      "question": "El archivo oficial solo organiza la selección de 1949 bajo “In Competition”. ¿Hubo largometrajes fuera de concurso en esta edición?",
+      "impact": "No se crea sección fuera de concurso sin evidencia."
+    },
+    {
+      "id": "fa-identities-1949",
+      "question": "Faltan IDs y títulos FilmAffinity España verificados en bloque.",
+      "impact": "filmAffinityId y filmaffinityTitle quedan null."
+    },
+    {
+      "id": "venecia-1949-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "bafta-1949-candidacy-completeness",
+      "question": "¿Existe un registro original de candidaturas (además del folleto que anuncia ganadores) para la ceremonia del 29-05-1949?",
+      "impact": "Se verifican y añaden los ganadores del folleto, pero la cobertura de candidaturas se mantiene parcial."
+    },
+    {
+      "id": "venecia-1949-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1949-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición? El archivo acredita registros en la manifestación, pero no basta para probar competición.",
+      "impact": "Los largos y cortos premiados están separados por formato; clasificación competitiva queda pendiente."
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1949|Premios Oscar · 21.ª edición|Best Motion Picture|Warner Bros.",
+      "category": "Best Motion Picture",
+      "person": "Warner Bros.",
+      "winner": false,
+      "films": [
+        "Belinda",
+        "El tesoro de Sierra Madre"
+      ]
+    },
+    {
+      "id": "Oscar|1949|Premios Oscar · 21.ª edición|Cortometraje de animación|Walt Disney, Producer",
+      "category": "Cortometraje de animación",
+      "person": "Walt Disney, Producer",
+      "winner": false,
+      "films": [
+        "Mickey and the Seal",
+        "Té para doscientos"
+      ]
+    },
+    {
+      "id": "Oscar|1949|Premios Oscar · 21.ª edición|Cortometraje de ficción · un rollo|Gordon Hollingshead, Producer",
+      "category": "Cortometraje de ficción · un rollo",
+      "person": "Gordon Hollingshead, Producer",
+      "winner": false,
+      "films": [
+        "Cinderella Horse",
+        "So You Want to Be on the Radio"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

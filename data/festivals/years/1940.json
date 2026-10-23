@@ -1,0 +1,2929 @@
+{
+  "year": 1940,
+  "editions": [
+    {
+      "festival": "Oscar",
+      "year": 1940,
+      "section": "Premios Oscar · 12.ª edición",
+      "films": [
+        {
+          "title": "Adiós, Mr. Chips",
+          "director": "Sam Wood",
+          "aliases": [
+            "Goodbye, Mr. Chips"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Robert Donat"
+          ],
+          "nominations": [
+            "Actor protagonista · Robert Donat",
+            "Actriz protagonista · Greer Garson",
+            "Dirección · Sam Wood",
+            "Montaje · Charles Frend",
+            "Outstanding Production · Metro-Goldwyn-Mayer",
+            "Sound Recording · Denham Studio Sound Department, A. W. Watkins, Sound Director",
+            "Guion · R. C. Sherriff, Claudine West, Eric Maschwitz"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Robert Donat"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Robert Donat"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Greer Garson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Greer Garson"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Sam Wood"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Sam Wood"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Charles Frend"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Charles Frend"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Outstanding Production|Metro-Goldwyn-Mayer",
+              "associatedFilms": [
+                "Adiós, Mr. Chips",
+                "El mago de Oz",
+                "Ninotchka"
+              ]
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Denham Studio Sound Department, A. W. Watkins, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Denham Studio Sound Department, A. W. Watkins, Sound Director"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "R. C. Sherriff, Claudine West, Eric Maschwitz"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "R. C. Sherriff, Claudine West, Eric Maschwitz"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actor protagonista · Robert Donat",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Lo que el viento se llevó",
+          "director": "Victor Fleming",
+          "aliases": [
+            "Gone with the Wind"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Vivien Leigh",
+            "Actriz de reparto · Hattie McDaniel",
+            "Diseño de producción · Lyle Wheeler",
+            "Fotografía · color · Ernest Haller, Ray Rennahan",
+            "Dirección · Victor Fleming",
+            "Montaje · Hal C. Kern, James E. Newcom",
+            "Outstanding Production · Selznick International Pictures",
+            "Special Award · William Cameron Menzies",
+            "Guion · Sidney Howard"
+          ],
+          "nominations": [
+            "Actor protagonista · Clark Gable",
+            "Actriz protagonista · Vivien Leigh",
+            "Actriz de reparto · Hattie McDaniel",
+            "Actriz de reparto · Olivia de Havilland",
+            "Diseño de producción · Lyle Wheeler",
+            "Fotografía · color · Ernest Haller, Ray Rennahan",
+            "Dirección · Victor Fleming",
+            "Montaje · Hal C. Kern, James E. Newcom",
+            "Banda sonora · Max Steiner",
+            "Outstanding Production · Selznick International Pictures",
+            "Sound Recording · Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "Special Award · William Cameron Menzies",
+            "Special Effects · John R. Cosgrove, Fred Albin, Arthur Johns",
+            "Guion · Sidney Howard"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Clark Gable"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Clark Gable"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Vivien Leigh"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Vivien Leigh"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Hattie McDaniel"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Hattie McDaniel"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Olivia de Havilland"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Olivia de Havilland"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Lyle Wheeler"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Lyle Wheeler"
+            },
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Ernest Haller, Ray Rennahan"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Ernest Haller, Ray Rennahan"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Victor Fleming"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Victor Fleming"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Hal C. Kern, James E. Newcom"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Hal C. Kern, James E. Newcom"
+            },
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Max Steiner"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Max Steiner",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Max Steiner",
+              "associatedFilms": [
+                "Lo que el viento se llevó",
+                "Amarga victoria"
+              ]
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Selznick International Pictures"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Selznick International Pictures"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director"
+            },
+            {
+              "category": "Special Award",
+              "people": [
+                "William Cameron Menzies"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "William Cameron Menzies"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "John R. Cosgrove, Fred Albin, Arthur Johns"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "John R. Cosgrove, Fred Albin, Arthur Johns"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Sidney Howard"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Sidney Howard"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actriz protagonista · Vivien Leigh · Actriz de reparto · Hattie McDaniel · Diseño de producción · Lyle Wheeler · Fotografía · color · Ernest Haller, Ray Rennahan · Dirección · Victor Fleming · Montaje · Hal C. Kern, James E. Newcom · Outstanding Production · Selznick International Pictures · Special Award · William Cameron Menzies · Guion · Sidney Howard",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "director": "William Wyler",
+          "aliases": [
+            "Wuthering Heights"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Fotografía · blanco y negro · Gregg Toland"
+          ],
+          "nominations": [
+            "Actor protagonista · Laurence Olivier",
+            "Actriz de reparto · Geraldine Fitzgerald",
+            "Diseño de producción · James Basevi",
+            "Fotografía · blanco y negro · Gregg Toland",
+            "Dirección · William Wyler",
+            "Banda sonora · Alfred Newman",
+            "Outstanding Production · Samuel Goldwyn Productions",
+            "Guion · Charles MacArthur, Ben Hecht"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Laurence Olivier"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Laurence Olivier"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Geraldine Fitzgerald"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Geraldine Fitzgerald"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "James Basevi"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "James Basevi"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Gregg Toland"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Gregg Toland"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "William Wyler"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "William Wyler"
+            },
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Alfred Newman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Alfred Newman",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Alfred Newman",
+              "associatedFilms": [
+                "Cumbres borrascosas",
+                "Vinieron las lluvias"
+              ]
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Samuel Goldwyn Productions"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Samuel Goldwyn Productions"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Charles MacArthur, Ben Hecht"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Charles MacArthur, Ben Hecht"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Fotografía · blanco y negro · Gregg Toland",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Caballero sin espada",
+          "director": "Frank Capra",
+          "aliases": [
+            "Mr. Smith Goes to Washington"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Writing (Original Story) · Lewis R. Foster"
+          ],
+          "nominations": [
+            "Actor protagonista · James Stewart",
+            "Actor de reparto · Harry Carey",
+            "Actor de reparto · Claude Rains",
+            "Diseño de producción · Lionel Banks",
+            "Dirección · Frank Capra",
+            "Montaje · Gene Havlick, Al Clark",
+            "Music (Scoring) · Dimitri Tiomkin",
+            "Outstanding Production · Columbia",
+            "Sound Recording · Columbia Studio Sound Department, John Livadary, Sound Director",
+            "Writing (Original Story) · Lewis R. Foster",
+            "Guion · Sidney Buchman"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "James Stewart"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "James Stewart"
+            },
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Harry Carey"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Harry Carey"
+            },
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Claude Rains"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Claude Rains"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Lionel Banks"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Lionel Banks"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Frank Capra"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Frank Capra"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Gene Havlick, Al Clark"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Gene Havlick, Al Clark"
+            },
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Dimitri Tiomkin"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Dimitri Tiomkin"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Columbia"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Columbia"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Columbia Studio Sound Department, John Livadary, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Columbia Studio Sound Department, John Livadary, Sound Director"
+            },
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Lewis R. Foster"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Lewis R. Foster"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Sidney Buchman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Sidney Buchman"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Writing (Original Story) · Lewis R. Foster",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La diligencia",
+          "director": "John Ford",
+          "aliases": [
+            "Stagecoach"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor de reparto · Thomas Mitchell",
+            "Music (Scoring) · Richard Hageman, Frank Harling, John Leipold, Leo Shuken"
+          ],
+          "nominations": [
+            "Actor de reparto · Thomas Mitchell",
+            "Diseño de producción · Alexander Toluboff",
+            "Fotografía · blanco y negro · Bert Glennon",
+            "Dirección · John Ford",
+            "Montaje · Otho Lovering, Dorothy Spencer",
+            "Music (Scoring) · Richard Hageman, Frank Harling, John Leipold, Leo Shuken",
+            "Outstanding Production · Walter Wanger (production company)"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Thomas Mitchell"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Thomas Mitchell"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Alexander Toluboff"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Alexander Toluboff"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Bert Glennon"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Bert Glennon"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "John Ford"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "John Ford"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Otho Lovering, Dorothy Spencer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Otho Lovering, Dorothy Spencer"
+            },
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Richard Hageman, Frank Harling, John Leipold, Leo Shuken"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Richard Hageman, Frank Harling, John Leipold, Leo Shuken"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Walter Wanger (production company)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Walter Wanger (production company)"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actor de reparto · Thomas Mitchell · Music (Scoring) · Richard Hageman, Frank Harling, John Leipold, Leo Shuken",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Vinieron las lluvias",
+          "director": "Clarence Brown",
+          "aliases": [
+            "The Rains Came"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Effects · Fred Sersen, E. H. Hansen"
+          ],
+          "nominations": [
+            "Diseño de producción · William Darling, George Dudley",
+            "Montaje · Barbara McLean",
+            "Banda sonora · Alfred Newman",
+            "Sound Recording · 20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",
+            "Special Effects · Fred Sersen, E. H. Hansen"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "William Darling, George Dudley"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "William Darling, George Dudley"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Barbara McLean"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Barbara McLean"
+            },
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Alfred Newman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Alfred Newman",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Alfred Newman",
+              "associatedFilms": [
+                "Cumbres borrascosas",
+                "Vinieron las lluvias"
+              ]
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Fred Sersen, E. H. Hansen"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Fred Sersen, E. H. Hansen"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Special Effects · Fred Sersen, E. H. Hansen",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El mago de Oz",
+          "director": "Victor Fleming",
+          "aliases": [
+            "The Wizard of Oz"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Banda sonora · Herbert Stothart",
+            "Canción · Harold Arlen (music), E. Y. Harburg (lyrics): Over the Rainbow"
+          ],
+          "nominations": [
+            "Diseño de producción · Cedric Gibbons, William A. Horning",
+            "Banda sonora · Herbert Stothart",
+            "Canción · Harold Arlen (music), E. Y. Harburg (lyrics): Over the Rainbow",
+            "Outstanding Production · Metro-Goldwyn-Mayer",
+            "Special Effects · A. Arnold Gillespie, Douglas Shearer"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Cedric Gibbons, William A. Horning"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Cedric Gibbons, William A. Horning"
+            },
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Herbert Stothart"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Herbert Stothart"
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Harold Arlen (music), E. Y. Harburg (lyrics): Over the Rainbow"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Harold Arlen (music), E. Y. Harburg (lyrics): Over the Rainbow"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Outstanding Production|Metro-Goldwyn-Mayer",
+              "associatedFilms": [
+                "Adiós, Mr. Chips",
+                "El mago de Oz",
+                "Ninotchka"
+              ]
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "A. Arnold Gillespie, Douglas Shearer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "A. Arnold Gillespie, Douglas Shearer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Banda sonora · Herbert Stothart · Canción · Harold Arlen (music), E. Y. Harburg (lyrics): Over the Rainbow",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El patito feo",
+          "director": "Hamilton Luske, Jack Cutting, Clyde Geronimi",
+          "aliases": [
+            "The Ugly Duckling"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Walt Disney, Producer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Walt Disney, Producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Cortometraje de animación · Walt Disney, Producer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Busy Little Bears",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de ficción · un rollo · Paramount"
+          ],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Paramount"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "Paramount"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Paramount"
+            }
+          ],
+          "award": "Cortometraje de ficción · un rollo · Paramount",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sons of Liberty",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de ficción · dos rollos · Warner Bros."
+          ],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Warner Bros."
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Warner Bros."
+            }
+          ],
+          "award": "Cortometraje de ficción · dos rollos · Warner Bros.",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Huracán",
+          "director": "John M. Stahl",
+          "aliases": [
+            "When Tomorrow Comes"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Sound Recording · Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+          ],
+          "nominations": [
+            "Sound Recording · Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Sound Recording · Universal Studio Sound Department, Bernard B. Brown, Sound Director",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los hijos de la farándula",
+          "director": "Busby Berkeley",
+          "aliases": [
+            "Babes in Arms"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Mickey Rooney",
+            "Music (Scoring) · George E. Stoll, Roger Edens"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Mickey Rooney"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Mickey Rooney"
+            },
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "George E. Stoll, Roger Edens"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "George E. Stoll, Roger Edens"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Juárez",
+          "director": "William Dieterle",
+          "aliases": [
+            "Juarez"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · Brian Aherne"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Brian Aherne"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Brian Aherne"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Beau Geste",
+          "director": "William A. Wellman",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · Brian Donlevy",
+            "Diseño de producción · Hans Dreier, Robert Odell"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Brian Donlevy"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Brian Donlevy"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Hans Dreier, Robert Odell"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Hans Dreier, Robert Odell"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Amarga victoria",
+          "director": "Edmund Goulding",
+          "aliases": [
+            "Dark Victory"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Bette Davis",
+            "Banda sonora · Max Steiner",
+            "Outstanding Production · Warner Bros.-First National"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Bette Davis"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Bette Davis"
+            },
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Max Steiner"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Max Steiner",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Max Steiner",
+              "associatedFilms": [
+                "Lo que el viento se llevó",
+                "Amarga victoria"
+              ]
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Warner Bros.-First National"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Warner Bros.-First National"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tú y yo",
+          "director": "Leo McCarey",
+          "aliases": [
+            "Love Affair"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Irene Dunne",
+            "Actriz de reparto · Maria Ouspenskaya",
+            "Diseño de producción · Van Nest Polglase, Al Herman",
+            "Canción · Buddy de Sylva (music and lyrics): Wishing",
+            "Outstanding Production · RKO Radio",
+            "Writing (Original Story) · Mildred Cram, Leo McCarey"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Irene Dunne"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Irene Dunne"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Maria Ouspenskaya"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Maria Ouspenskaya"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Van Nest Polglase, Al Herman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Van Nest Polglase, Al Herman"
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Buddy de Sylva (music and lyrics): Wishing"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Buddy de Sylva (music and lyrics): Wishing"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "RKO Radio"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "RKO Radio"
+            },
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Mildred Cram, Leo McCarey"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Mildred Cram, Leo McCarey"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ninotchka",
+          "director": "Ernst Lubitsch",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Greta Garbo",
+            "Outstanding Production · Metro-Goldwyn-Mayer",
+            "Writing (Original Story) · Melchior Lengyel",
+            "Guion · Charles Brackett, Billy Wilder, Walter Reisch"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Greta Garbo"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Greta Garbo"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Outstanding Production|Metro-Goldwyn-Mayer",
+              "associatedFilms": [
+                "Adiós, Mr. Chips",
+                "El mago de Oz",
+                "Ninotchka"
+              ]
+            },
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Melchior Lengyel"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Melchior Lengyel"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Charles Brackett, Billy Wilder, Walter Reisch"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Charles Brackett, Billy Wilder, Walter Reisch"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Corazones indomables",
+          "director": "John Ford",
+          "aliases": [
+            "Drums along the Mohawk",
+            "Drums Along the Mohawk"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz de reparto · Edna May Oliver"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Edna May Oliver"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Edna May Oliver"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Captain Fury",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Charles D. Hall"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Charles D. Hall"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Charles D. Hall"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "First Love",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Jack Otterson, Martin Obzina",
+            "Music (Scoring) · Charles Previn"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Jack Otterson, Martin Obzina"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Jack Otterson, Martin Obzina"
+            },
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Charles Previn"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Charles Previn"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Man of Conquest",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · John Victor Mackay",
+            "Banda sonora · Victor Young",
+            "Sound Recording · Republic Studio Sound Department, Charles L. Lootens, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "John Victor Mackay"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "John Victor Mackay"
+            },
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Victor Young",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Victor Young",
+              "associatedFilms": [
+                "Man of Conquest",
+                "Sueño dorado",
+                "Los viajes de Gulliver"
+              ]
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Republic Studio Sound Department, Charles L. Lootens, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Republic Studio Sound Department, Charles L. Lootens, Sound Director"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La vida privada de Elisabeth y Essex",
+          "director": "Michael Curtiz",
+          "aliases": [
+            "The Private Lives of Elizabeth and Essex"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Anton Grot",
+            "Fotografía · color · Sol Polito, W. Howard Greene",
+            "Music (Scoring) · Erich Wolfgang Korngold",
+            "Sound Recording · Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "Special Effects · Byron Haskin, Nathan Levinson"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Anton Grot"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Anton Grot"
+            },
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Sol Polito, W. Howard Greene"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Sol Polito, W. Howard Greene"
+            },
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Erich Wolfgang Korngold"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Erich Wolfgang Korngold"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Byron Haskin, Nathan Levinson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Byron Haskin, Nathan Levinson"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Eternamente tuya",
+          "director": "Tay Garnett",
+          "aliases": [
+            "Eternally Yours"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Banda sonora · Werner Janssen"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Werner Janssen"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Werner Janssen"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sueño dorado",
+          "director": "Rouben Mamoulian",
+          "aliases": [
+            "Golden Boy"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Banda sonora · Victor Young"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Victor Young",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Victor Young",
+              "associatedFilms": [
+                "Man of Conquest",
+                "Sueño dorado",
+                "Los viajes de Gulliver"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los viajes de Gulliver",
+          "director": "Dave Fleischer, Willard Bowsky",
+          "aliases": [
+            "Gulliver's Travels"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Banda sonora · Victor Young",
+            "Canción · Ralph Rainger (music), Leo Robin (lyrics): Faithful Forever"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Victor Young",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Victor Young",
+              "associatedFilms": [
+                "Man of Conquest",
+                "Sueño dorado",
+                "Los viajes de Gulliver"
+              ]
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Ralph Rainger (music), Leo Robin (lyrics): Faithful Forever"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Ralph Rainger (music), Leo Robin (lyrics): Faithful Forever"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La máscara de hierro",
+          "director": "James Whale",
+          "aliases": [
+            "The Man in the Iron Mask"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Banda sonora · Lud Gluskin, Lucien Moraweck"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Lud Gluskin, Lucien Moraweck"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Lud Gluskin, Lucien Moraweck"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Nurse Edith Cavell",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Banda sonora · Anthony Collins"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Anthony Collins"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Anthony Collins"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La fuerza bruta (De ratones y hombres)",
+          "director": "Lewis Milestone",
+          "aliases": [
+            "Of Mice and Men"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Banda sonora · Aaron Copland",
+            "Music (Scoring) · Aaron Copland",
+            "Outstanding Production · Hal Roach (production company)",
+            "Sound Recording · Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Banda sonora",
+              "people": [
+                "Aaron Copland"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Aaron Copland"
+            },
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Aaron Copland"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Aaron Copland"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Hal Roach (production company)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Hal Roach (production company)"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Great Victor Herbert",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Phil Boutelje, Arthur Lange",
+            "Sound Recording · Paramount Studio Sound Department, Loren L. Ryder, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Phil Boutelje, Arthur Lange"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Phil Boutelje, Arthur Lange"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Paramount Studio Sound Department, Loren L. Ryder, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Paramount Studio Sound Department, Loren L. Ryder, Sound Director"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Esmeralda la Zíngara",
+          "director": "William Dieterle",
+          "aliases": [
+            "The Hunchback of Notre Dame"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Alfred Newman",
+            "Sound Recording · RKO Radio Studio Sound Department, John Aalberg, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Alfred Newman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Alfred Newman",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Music (Scoring)|Alfred Newman",
+              "associatedFilms": [
+                "Esmeralda la Zíngara",
+                "Rapsodia de juventud"
+              ]
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "RKO Radio Studio Sound Department, John Aalberg, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "RKO Radio Studio Sound Department, John Aalberg, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Intermezzo",
+          "director": "Gregory Ratoff",
+          "aliases": [
+            "Intermezzo: A Love Story"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Lou Forbes"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Lou Forbes"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Lou Forbes"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "She Married a Cop",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Cy Feuer"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Cy Feuer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Cy Feuer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Swanee River",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Louis Silvers"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Louis Silvers"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Louis Silvers"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Rapsodia de juventud",
+          "director": "Archie Mayo",
+          "aliases": [
+            "They Shall Have Music"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Alfred Newman"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Alfred Newman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Alfred Newman",
+              "sharedCandidacyId": "Oscar|1940|Premios Oscar · 12.ª edición|Music (Scoring)|Alfred Newman",
+              "associatedFilms": [
+                "Esmeralda la Zíngara",
+                "Rapsodia de juventud"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Way Down South",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Scoring) · Victor Young"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Scoring)",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Victor Young"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Second Fiddle",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Irving Berlin (music and lyrics): I Poured My Heart Into A Song"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Irving Berlin (music and lyrics): I Poured My Heart Into A Song"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Irving Berlin (music and lyrics): I Poured My Heart Into A Song"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Detouring America",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Warner Bros."
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Warner Bros."
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Peace on Earth",
+          "director": "Hugh Harman",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El pointer",
+          "director": "Clyde Geronimi",
+          "aliases": [
+            "The Pointer"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Walt Disney, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Walt Disney, Producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Information Please",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · RKO Radio"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "RKO Radio"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "RKO Radio"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Prophet without Honor",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sword Fishing",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Warner Bros."
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Warner Bros."
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Drunk Driving",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Five Times Five",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · RKO Radio"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "people": [
+                "RKO Radio"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "RKO Radio"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Balalaika",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Sound Recording · Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sólo los ángeles tienen alas",
+          "director": "Howard Hawks",
+          "aliases": [
+            "Only Angels Have Wings"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Roy Davidson, Edwin C. Hahn"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "Roy Davidson, Edwin C. Hahn"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Roy Davidson, Edwin C. Hahn"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La pareja invisible se divierte",
+          "director": "Norman Z. McLeod",
+          "aliases": [
+            "Topper Takes a Trip"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Roy Seawright"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "Roy Seawright"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Roy Seawright"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Unión Pacífico",
+          "director": "Cecil B. DeMille",
+          "aliases": [
+            "Union Pacific"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Farciot Edouart, Gordon Jennings, Loren Ryder"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "Farciot Edouart, Gordon Jennings, Loren Ryder"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Farciot Edouart, Gordon Jennings, Loren Ryder"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mamá a la fuerza",
+          "director": "Garson Kanin",
+          "aliases": [
+            "Bachelor Mother"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Felix Jackson"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Felix Jackson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Felix Jackson"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El joven Lincoln",
+          "director": "John Ford",
+          "aliases": [
+            "Young Mr. Lincoln"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Lamar Trotti"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Lamar Trotti"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1940",
+              "person": "Lamar Trotti"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ],
+      "ceremonyNumber": 12,
+      "ceremonyDate": "1940-02-29"
+    },
+    {
+      "festival": "Venecia",
+      "year": 1940,
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": [
+        {
+          "title": "La novia de San Petersburgo",
+          "director": "Gustav Ucicky",
+          "aliases": [
+            "Der Postmeister",
+            "Il postiglione della steppa",
+            "Mastro di posta"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Coppa Mussolini per il miglior film straniero"
+          ],
+          "nominations": [],
+          "candidacies": [
+            {
+              "category": "Coppa Mussolini per il miglior film straniero",
+              "people": [],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1490"
+            }
+          ],
+          "asacId": 1490,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1490",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Der Postmeister",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "legacyAwardEvidence": [
+            {
+              "title": "Der Postmeister",
+              "wins": [
+                "Coppa Mussolini — Best Foreign Film"
+              ],
+              "candidacies": [
+                {
+                  "category": "Coppa Mussolini — Best Foreign Film",
+                  "people": [],
+                  "winner": true,
+                  "source": "https://www.labiennale.org/en/history-venice-film-festival",
+                  "person": ""
+                }
+              ]
+            }
+          ],
+          "award": "Coppa Mussolini per il miglior film straniero",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sin novedad en el Alcázar",
+          "director": "Augusto Genina",
+          "aliases": [
+            "L'assedio dell'Alcazar"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Coppa Mussolini per il miglior film italiano"
+          ],
+          "nominations": [],
+          "candidacies": [
+            {
+              "category": "Coppa Mussolini per il miglior film italiano",
+              "people": [],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/1504"
+            }
+          ],
+          "asacId": 1504,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1504",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "L'assedio dell'Alcazar",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "legacyAwardEvidence": [
+            {
+              "title": "L’assedio dell’Alcazar",
+              "wins": [
+                "Coppa Mussolini — Best Italian Film"
+              ],
+              "candidacies": [
+                {
+                  "category": "Coppa Mussolini — Best Italian Film",
+                  "people": [],
+                  "winner": true,
+                  "source": "https://www.labiennale.org/en/history-venice-film-festival",
+                  "person": ""
+                }
+              ]
+            }
+          ],
+          "award": "Coppa Mussolini per il miglior film italiano",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Abbandono",
+          "director": "Mario Mattoli",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1503,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1503",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "Abbandono",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Achtung! Feind hört mit!",
+          "director": "Arthur Maria Rabenalt",
+          "aliases": [
+            "Spie!",
+            "Attenzione! Il nemico ci sente!"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1485,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1485",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Achtung! Feind hört mit!",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Befreite Hände",
+          "director": "Hans Schweikart",
+          "aliases": [
+            "Mani liberate"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1486,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1486",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Befreite Hände",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Dankó Pista",
+          "director": "László (I) Kalmár",
+          "aliases": [
+            "L'angelo della sera"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1653,
+          "sourceSections": [
+            "Ungheria"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1653",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Dankó Pista",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Don Pasquale",
+          "director": "Camillo Mastrocinque",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1616,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1616",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "Don Pasquale",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Gül Baba",
+          "director": "Kálmán Nádasdy",
+          "aliases": [
+            "Le mille e una notte"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1655,
+          "sourceSections": [
+            "Ungheria"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1655",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Gül Baba",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Il cavaliere di Kruja",
+          "director": "Carlo Campogalliani",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1505,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1505",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "Il cavaliere di Kruja",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El judío Suss",
+          "director": "Veit Harlan",
+          "aliases": [
+            "Jud Süss",
+            "Suss l'ebreo",
+            "Jud Süß"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1487,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1487",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Jud Süß",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Kadettkamrater",
+          "director": "Weyler Hildebrand",
+          "aliases": [
+            "Accademisti",
+            "Cadetti camerati"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1643,
+          "sourceSections": [
+            "Svezia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1643",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Kadettkamrater",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La peccatrice",
+          "director": "Amleto Palermi",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1619,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1619",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "La peccatrice",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Lupii din muntele surul",
+          "director": "Angela Popescu; Joup Rubner",
+          "aliases": [
+            "I lupi del monte Surul"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1640,
+          "sourceSections": [
+            "Romania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1640",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionStatus": "not_determined",
+          "competitionEvidence": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mutterliebe",
+          "director": "Gustav Ucicky",
+          "aliases": [
+            "L'amore più forte",
+            "Amore materno"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1488,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1488",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Mutterliebe",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Muz z neznáma",
+          "director": "Martin Fric",
+          "aliases": [
+            "L'uomo dal paese sconosciuto"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1484,
+          "sourceSections": [
+            "Boemia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1484",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Muz z neznáma",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ohnivé léto",
+          "director": "Frantisek Cáp",
+          "aliases": [
+            "Fuoco d'estate"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 374928,
+          "sourceSections": [
+            "Boemia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/374928",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionStatus": "not_determined",
+          "competitionEvidence": [],
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Oltre l'amore",
+          "director": "Carmine Gallone",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1617,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1617",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "Oltre l'amore",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Opernball",
+          "director": "Géza von Bolváry",
+          "aliases": [
+            "Ballo all'opera"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1489,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1489",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Opernball",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Stål",
+          "director": "Per Lindberg",
+          "aliases": [
+            "Acciaio"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1645,
+          "sourceSections": [
+            "Svezia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1645",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Stål",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Trenck, der Pandur",
+          "director": "Herbert Selpin",
+          "aliases": [
+            "Capitano di ventura",
+            "Trenck, il Pandur"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1491,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1491",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Trenck, der Pandur",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Una romantica avventura",
+          "director": "Mario Camerini",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1623,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1623",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Italian Film",
+              "candidateTitleOnSource": "Una romantica avventura",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Verena-Stadler",
+          "director": "Hermann Haller",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 1647,
+          "sourceSections": [
+            "Svizzera"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/1647",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1940"
+          ],
+          "competitionEvidence": [
+            {
+              "source": "IMDb Venice Film Festival annual awards page (secondary source)",
+              "url": "https://www.imdb.com/es/event/ev0000681/1940/1/",
+              "awardCategory": "Mussolini Cup — Best Foreign Film",
+              "candidateTitleOnSource": "Verena Stadler",
+              "interpretation": "IMDb lists this film in a competitive Mussolini Cup category; positive evidence of competitive-award participation. This does not establish the status of films absent from the list."
+            }
+          ],
+          "competitionStatus": "in_competition",
+          "award": "Selección documentada · clasificación parcial",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    }
+  ]
+}

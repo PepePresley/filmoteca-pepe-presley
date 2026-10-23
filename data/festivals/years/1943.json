@@ -1,0 +1,3541 @@
+{
+  "year": 1943,
+  "editions": [
+    {
+      "festival": "Oscar",
+      "year": 1943,
+      "section": "Premios Oscar · 15.ª edición",
+      "films": [
+        {
+          "title": "Yanqui Dandy",
+          "director": "Michael Curtiz",
+          "aliases": [
+            "Yankee Doodle Dandy"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · James Cagney",
+            "Adaptación musical · Ray Heindorf, Heinz Roemheld",
+            "Sound Recording · Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director"
+          ],
+          "nominations": [
+            "Actor protagonista · James Cagney",
+            "Actor de reparto · Walter Huston",
+            "Dirección · Michael Curtiz",
+            "Montaje · George Amy",
+            "Adaptación musical · Ray Heindorf, Heinz Roemheld",
+            "Outstanding Motion Picture · Warner Bros.",
+            "Sound Recording · Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+            "Writing (Original Motion Picture Story) · Robert Buckner"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "James Cagney"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "James Cagney"
+            },
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Walter Huston"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walter Huston"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Michael Curtiz"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Michael Curtiz"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "George Amy"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "George Amy"
+            },
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Ray Heindorf, Heinz Roemheld"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ray Heindorf, Heinz Roemheld"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Warner Bros.",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Outstanding Motion Picture|Warner Bros.",
+              "associatedFilms": [
+                "Yanqui Dandy",
+                "Abismo de pasión"
+              ]
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director"
+            },
+            {
+              "category": "Writing (Original Motion Picture Story)",
+              "people": [
+                "Robert Buckner"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Robert Buckner"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actor protagonista · James Cagney · Adaptación musical · Ray Heindorf, Heinz Roemheld · Sound Recording · Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El orgullo de los Yanquis",
+          "director": "Sam Wood",
+          "aliases": [
+            "The Pride of the Yankees"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Montaje · Daniel Mandell"
+          ],
+          "nominations": [
+            "Actor protagonista · Gary Cooper",
+            "Actriz protagonista · Teresa Wright",
+            "Diseño de producción · blanco y negro · Perry Ferguson; Howard Bristol",
+            "Fotografía · blanco y negro · Rudolph Maté",
+            "Montaje · Daniel Mandell",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Leigh Harline",
+            "Outstanding Motion Picture · Samuel Goldwyn Productions",
+            "Sound Recording · Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",
+            "Special Effects · Jack Cosgrove, Ray Binger (photographic); Thomas T. Moulton (sound)",
+            "Writing (Original Motion Picture Story) · Paul Gallico",
+            "Guion · Jo Swerling, Herman J. Mankiewicz"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Gary Cooper"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Gary Cooper"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Teresa Wright"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Teresa Wright"
+            },
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Perry Ferguson; Howard Bristol"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Perry Ferguson; Howard Bristol"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Rudolph Maté"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Rudolph Maté"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Daniel Mandell"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Daniel Mandell"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Leigh Harline"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Leigh Harline"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Samuel Goldwyn Productions"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Samuel Goldwyn Productions"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Jack Cosgrove, Ray Binger (photographic); Thomas T. Moulton (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Jack Cosgrove, Ray Binger (photographic); Thomas T. Moulton (sound)"
+            },
+            {
+              "category": "Writing (Original Motion Picture Story)",
+              "people": [
+                "Paul Gallico"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Paul Gallico"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Jo Swerling, Herman J. Mankiewicz"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Jo Swerling, Herman J. Mankiewicz"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Montaje · Daniel Mandell",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La señora Miniver",
+          "director": "William Wyler",
+          "aliases": [
+            "Mrs. Miniver"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Greer Garson",
+            "Actriz de reparto · Teresa Wright",
+            "Fotografía · blanco y negro · Joseph Ruttenberg",
+            "Dirección · William Wyler",
+            "Outstanding Motion Picture · Metro-Goldwyn-Mayer",
+            "Guion · Arthur Wimperis, George Froeschel, James Hilton, Claudine West"
+          ],
+          "nominations": [
+            "Actor protagonista · Walter Pidgeon",
+            "Actor de reparto · Henry Travers",
+            "Actriz protagonista · Greer Garson",
+            "Actriz de reparto · Teresa Wright",
+            "Actriz de reparto · Dame May Whitty",
+            "Fotografía · blanco y negro · Joseph Ruttenberg",
+            "Dirección · William Wyler",
+            "Montaje · Harold F. Kress",
+            "Outstanding Motion Picture · Metro-Goldwyn-Mayer",
+            "Sound Recording · Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",
+            "Special Effects · A. Arnold Gillespie, Warren Newcombe (photographic); Douglas Shearer (sound)",
+            "Guion · Arthur Wimperis, George Froeschel, James Hilton, Claudine West"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Walter Pidgeon"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walter Pidgeon"
+            },
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Henry Travers"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Henry Travers"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Greer Garson"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Greer Garson"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Teresa Wright"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Teresa Wright"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Dame May Whitty"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Dame May Whitty"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Joseph Ruttenberg"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Joseph Ruttenberg"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "William Wyler"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "William Wyler"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Harold F. Kress"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Harold F. Kress"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Metro-Goldwyn-Mayer"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "A. Arnold Gillespie, Warren Newcombe (photographic); Douglas Shearer (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "A. Arnold Gillespie, Warren Newcombe (photographic); Douglas Shearer (sound)"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Arthur Wimperis, George Froeschel, James Hilton, Claudine West"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Arthur Wimperis, George Froeschel, James Hilton, Claudine West"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actriz protagonista · Greer Garson · Actriz de reparto · Teresa Wright · Fotografía · blanco y negro · Joseph Ruttenberg · Dirección · William Wyler · Outstanding Motion Picture · Metro-Goldwyn-Mayer · Guion · Arthur Wimperis, George Froeschel, James Hilton, Claudine West",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Senda prohibida",
+          "director": "Mervyn LeRoy",
+          "aliases": [
+            "Johnny Eager"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor de reparto · Van Heflin"
+          ],
+          "nominations": [
+            "Actor de reparto · Van Heflin"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Van Heflin"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Van Heflin"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actor de reparto · Van Heflin",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La extraña pasajera",
+          "director": "Irving Rapper",
+          "aliases": [
+            "Now, Voyager"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Max Steiner"
+          ],
+          "nominations": [
+            "Actriz protagonista · Bette Davis",
+            "Actriz de reparto · Gladys Cooper",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Max Steiner"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Bette Davis"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Bette Davis"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Gladys Cooper"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Gladys Cooper"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Max Steiner"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Max Steiner"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Music (Music Score of a Dramatic or Comedy Picture) · Max Steiner",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La mujer del año",
+          "director": "George Stevens",
+          "aliases": [
+            "Woman of the Year"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Guion original · Ring Lardner, Jr., Michael Kanin"
+          ],
+          "nominations": [
+            "Actriz protagonista · Katharine Hepburn",
+            "Guion original · Ring Lardner, Jr., Michael Kanin"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Katharine Hepburn"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Katharine Hepburn"
+            },
+            {
+              "category": "Guion original",
+              "people": [
+                "Ring Lardner, Jr., Michael Kanin"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ring Lardner, Jr., Michael Kanin"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Guion original · Ring Lardner, Jr., Michael Kanin",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sé fiel a ti mismo",
+          "director": "Anatole Litvak",
+          "aliases": [
+            "This above All",
+            "This Above All"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · blanco y negro · Richard Day, Joseph Wright; Thomas Little"
+          ],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Richard Day, Joseph Wright; Thomas Little",
+            "Fotografía · blanco y negro · Arthur Miller",
+            "Montaje · Walter Thompson",
+            "Sound Recording · 20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Richard Day, Joseph Wright; Thomas Little"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Richard Day, Joseph Wright; Thomas Little"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Arthur Miller"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Arthur Miller"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Walter Thompson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walter Thompson"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Diseño de producción · blanco y negro · Richard Day, Joseph Wright; Thomas Little",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mi chica favorita",
+          "director": "Irving Cummings",
+          "aliases": [
+            "My Gal Sal"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · color · Richard Day, Joseph Wright; Thomas Little"
+          ],
+          "nominations": [
+            "Diseño de producción · color · Richard Day, Joseph Wright; Thomas Little",
+            "Adaptación musical · Alfred Newman"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · color",
+              "people": [
+                "Richard Day, Joseph Wright; Thomas Little"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Richard Day, Joseph Wright; Thomas Little"
+            },
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Alfred Newman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Alfred Newman"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Diseño de producción · color · Richard Day, Joseph Wright; Thomas Little",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Piratas del mar Caribe",
+          "director": "Cecil B. DeMille",
+          "aliases": [
+            "Reap the Wild Wind"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Effects · Gordon Jennings, Farciot Edouart, William L. Pereira (photographic); Louis Mesenkop (sound)"
+          ],
+          "nominations": [
+            "Diseño de producción · color · Hans Dreier, Roland Anderson; George Sawley",
+            "Fotografía · color · Victor Milner, William V. Skall",
+            "Special Effects · Gordon Jennings, Farciot Edouart, William L. Pereira (photographic); Louis Mesenkop (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · color",
+              "people": [
+                "Hans Dreier, Roland Anderson; George Sawley"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Hans Dreier, Roland Anderson; George Sawley"
+            },
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Victor Milner, William V. Skall"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Victor Milner, William V. Skall"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Gordon Jennings, Farciot Edouart, William L. Pereira (photographic); Louis Mesenkop (sound)"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Gordon Jennings, Farciot Edouart, William L. Pereira (photographic); Louis Mesenkop (sound)"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Special Effects · Gordon Jennings, Farciot Edouart, William L. Pereira (photographic); Louis Mesenkop (sound)",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El cisne negro",
+          "director": "Henry King",
+          "aliases": [
+            "The Black Swan"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Fotografía · color · Leon Shamroy"
+          ],
+          "nominations": [
+            "Fotografía · color · Leon Shamroy",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Alfred Newman",
+            "Special Effects · Fred Sersen (photographic); Roger Heman, George Leverett (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Leon Shamroy"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Leon Shamroy"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Alfred Newman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Alfred Newman"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Fred Sersen (photographic); Roger Heman, George Leverett (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Fred Sersen (photographic); Roger Heman, George Leverett (sound)"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Fotografía · color · Leon Shamroy",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La batalla de Midway",
+          "director": "John Ford",
+          "aliases": [
+            "The Battle of Midway"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Documentary · United States Navy"
+          ],
+          "nominations": [
+            "Documentary · United States Navy"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Navy"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Navy"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Documentary · United States Navy",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Kokoda Front Line!",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Documentary · Australian News & Information Bureau"
+          ],
+          "nominations": [
+            "Documentary · Australian News & Information Bureau"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Australian News & Information Bureau"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Australian News & Information Bureau"
+            }
+          ],
+          "award": "Documentary · Australian News & Information Bureau",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Moscow Strikes Back",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Documentary · Artkino"
+          ],
+          "nominations": [
+            "Documentary · Artkino"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Artkino"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Artkino"
+            }
+          ],
+          "award": "Documentary · Artkino",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Prelude to War",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Documentary · United States Army Special Services"
+          ],
+          "nominations": [
+            "Documentary · United States Army Special Services"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Army Special Services"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Army Special Services"
+            }
+          ],
+          "award": "Documentary · United States Army Special Services",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Quince días de placer",
+          "director": "Mark Sandrich",
+          "aliases": [
+            "Holiday Inn"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Canción · Irving Berlin (music and lyrics): “White Christmas”"
+          ],
+          "nominations": [
+            "Adaptación musical · Robert Emmett Dolan",
+            "Canción · Irving Berlin (music and lyrics): “White Christmas”",
+            "Writing (Original Motion Picture Story) · Irving Berlin"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Robert Emmett Dolan"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Robert Emmett Dolan"
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Irving Berlin (music and lyrics): “White Christmas”"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Irving Berlin (music and lyrics): “White Christmas”"
+            },
+            {
+              "category": "Writing (Original Motion Picture Story)",
+              "people": [
+                "Irving Berlin"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Irving Berlin"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Canción · Irving Berlin (music and lyrics): “White Christmas”",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Invaders",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Writing (Original Motion Picture Story) · Emeric Pressburger"
+          ],
+          "nominations": [
+            "Outstanding Motion Picture · Ortus",
+            "Writing (Original Motion Picture Story) · Emeric Pressburger",
+            "Guion · Rodney Ackland, Emeric Pressburger"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Ortus"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ortus"
+            },
+            {
+              "category": "Writing (Original Motion Picture Story)",
+              "people": [
+                "Emeric Pressburger"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Emeric Pressburger"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Rodney Ackland, Emeric Pressburger"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Rodney Ackland, Emeric Pressburger"
+            }
+          ],
+          "award": "Writing (Original Motion Picture Story) · Emeric Pressburger",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El rostro del Fuhrer",
+          "director": "Jack Kinney",
+          "aliases": [
+            "Der Fuehrer’s Face",
+            "Der Fuehrer's Face"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Walt Disney, Producer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walt Disney, Producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Cortometraje de animación · Walt Disney, Producer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Speaking of Animals and Their Families",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de ficción · un rollo · Paramount"
+          ],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Paramount"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "Paramount"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Paramount"
+            }
+          ],
+          "award": "Cortometraje de ficción · un rollo · Paramount",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Beyond the Line of Duty",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de ficción · dos rollos · Warner Bros."
+          ],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Warner Bros."
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Warner Bros."
+            }
+          ],
+          "award": "Cortometraje de ficción · dos rollos · Warner Bros.",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sangre, sudor y lágrimas",
+          "director": "Noël Coward, David Lean",
+          "aliases": [
+            "In Which We Serve"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Award · Noel Coward"
+          ],
+          "nominations": [
+            "Special Award · Noel Coward"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Award",
+              "people": [
+                "Noel Coward"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1943/memorable-moments",
+              "person": "Noel Coward"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Special Award · Noel Coward",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Niebla en el pasado",
+          "director": "Mervyn LeRoy",
+          "aliases": [
+            "Random Harvest"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Ronald Colman",
+            "Actriz de reparto · Susan Peters",
+            "Diseño de producción · blanco y negro · Cedric Gibbons, Randall Duell; Edwin B. Willis, Jack Moore",
+            "Dirección · Mervyn LeRoy",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Herbert Stothart",
+            "Outstanding Motion Picture · Metro-Goldwyn-Mayer",
+            "Guion · Claudine West, George Froeschel, Arthur Wimperis"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Ronald Colman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ronald Colman"
+            },
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Susan Peters"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Susan Peters"
+            },
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Cedric Gibbons, Randall Duell; Edwin B. Willis, Jack Moore"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Cedric Gibbons, Randall Duell; Edwin B. Willis, Jack Moore"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Mervyn LeRoy"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Mervyn LeRoy"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Herbert Stothart"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Herbert Stothart"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Metro-Goldwyn-Mayer"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Claudine West, George Froeschel, Arthur Wimperis"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Claudine West, George Froeschel, Arthur Wimperis"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El Flautista de Hamelín",
+          "director": "Wilfred Jackson",
+          "aliases": [
+            "The Pied Piper"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Monty Woolley",
+            "Fotografía · blanco y negro · Edward Cronjager",
+            "Outstanding Motion Picture · 20th Century-Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Monty Woolley"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Monty Woolley"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Edward Cronjager"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Edward Cronjager"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "20th Century-Fox"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "20th Century-Fox"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Wake Island",
+          "director": "John Farrow",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · William Bendix",
+            "Dirección · John Farrow",
+            "Outstanding Motion Picture · Paramount",
+            "Guion original · W. R. Burnett, Frank Butler"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "William Bendix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "William Bendix"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "John Farrow"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "John Farrow"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Paramount"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Paramount"
+            },
+            {
+              "category": "Guion original",
+              "people": [
+                "W. R. Burnett, Frank Butler"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "W. R. Burnett, Frank Butler"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La vida es así",
+          "director": "Victor Fleming",
+          "aliases": [
+            "Tortilla Flat"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor de reparto · Frank Morgan"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor de reparto",
+              "people": [
+                "Frank Morgan"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frank Morgan"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los caprichos de Elena",
+          "director": "Alexander Hall",
+          "aliases": [
+            "My Sister Eileen"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Rosalind Russell"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Rosalind Russell"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Rosalind Russell"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El cuarto mandamiento",
+          "director": "Orson Welles",
+          "aliases": [
+            "The Magnificent Ambersons"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz de reparto · Agnes Moorehead",
+            "Diseño de producción · blanco y negro · Albert S. D'Agostino; Darrell Silvera, Al Fields",
+            "Fotografía · blanco y negro · Stanley Cortez",
+            "Outstanding Motion Picture · Mercury"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz de reparto",
+              "people": [
+                "Agnes Moorehead"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Agnes Moorehead"
+            },
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Albert S. D'Agostino; Darrell Silvera, Al Fields"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Albert S. D'Agostino; Darrell Silvera, Al Fields"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Stanley Cortez"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Stanley Cortez"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Mercury"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Mercury"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Aquí durmió George Washington",
+          "director": "William Keighley",
+          "aliases": [
+            "George Washington Slept Here"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Max Parker, Mark-Lee Kirk; Casey Roberts"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Max Parker, Mark-Lee Kirk; Casey Roberts"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Max Parker, Mark-Lee Kirk; Casey Roberts"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El embrujo de Shanghai",
+          "director": "Josef von Sternberg",
+          "aliases": [
+            "The Shanghai Gesture"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Boris Leven; Boris Leven",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Richard Hageman"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Boris Leven; Boris Leven"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Boris Leven; Boris Leven"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Richard Hageman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Richard Hageman"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Silver Queen",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Ralph Berger; Emile Kuri",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Victor Young"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Ralph Berger; Emile Kuri"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ralph Berger; Emile Kuri"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Victor Young",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Victor Young",
+              "associatedFilms": [
+                "Silver Queen",
+                "Ella y su secretario",
+                "Los tigres voladores"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los usurpadores",
+          "director": "Ray Enright",
+          "aliases": [
+            "The Spoilers"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Jack Otterson, John B. Goodman; Russell A. Gausman, Edward R. Robinson"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Jack Otterson, John B. Goodman; Russell A. Gausman, Edward R. Robinson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Jack Otterson, John B. Goodman; Russell A. Gausman, Edward R. Robinson"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ella y su secretario",
+          "director": "Mitchell Leisen",
+          "aliases": [
+            "Take a Letter, Darling"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Hans Dreier, Roland Anderson; Sam Comer",
+            "Fotografía · blanco y negro · John Mescall",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Victor Young"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Hans Dreier, Roland Anderson; Sam Comer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Hans Dreier, Roland Anderson; Sam Comer"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "John Mescall"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "John Mescall"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Victor Young",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Victor Young",
+              "associatedFilms": [
+                "Silver Queen",
+                "Ella y su secretario",
+                "Los tigres voladores"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El asunto del día",
+          "director": "George Stevens",
+          "aliases": [
+            "The Talk of the Town"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · blanco y negro · Lionel Banks, Rudolph Sternad; Fay Babcock",
+            "Fotografía · blanco y negro · Ted Tetzlaff",
+            "Montaje · Otto Meyer",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Frederick Hollander, Morris Stoloff",
+            "Outstanding Motion Picture · Columbia",
+            "Writing (Original Motion Picture Story) · Sidney Harmon",
+            "Guion · Irwin Shaw, Sidney Buchman"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · blanco y negro",
+              "people": [
+                "Lionel Banks, Rudolph Sternad; Fay Babcock"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Lionel Banks, Rudolph Sternad; Fay Babcock"
+            },
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Ted Tetzlaff"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ted Tetzlaff"
+            },
+            {
+              "category": "Montaje",
+              "people": [
+                "Otto Meyer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Otto Meyer"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Frederick Hollander, Morris Stoloff"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frederick Hollander, Morris Stoloff"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Columbia"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Columbia"
+            },
+            {
+              "category": "Writing (Original Motion Picture Story)",
+              "people": [
+                "Sidney Harmon"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Sidney Harmon"
+            },
+            {
+              "category": "Guion",
+              "people": [
+                "Irwin Shaw, Sidney Buchman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Irwin Shaw, Sidney Buchman"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Las mil y una noches",
+          "director": "John Rawlins",
+          "aliases": [
+            "Arabian Nights"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · color · Jack Otterson, Alexander Golitzen; Russell A. Gausman, Ira S. Webb",
+            "Fotografía · color · Milton Krasner, William V. Skall, W. Howard Greene",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Frank Skinner",
+            "Sound Recording · Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · color",
+              "people": [
+                "Jack Otterson, Alexander Golitzen; Russell A. Gausman, Ira S. Webb"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Jack Otterson, Alexander Golitzen; Russell A. Gausman, Ira S. Webb"
+            },
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Milton Krasner, William V. Skall, W. Howard Greene"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Milton Krasner, William V. Skall, W. Howard Greene"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Frank Skinner"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frank Skinner"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Universal Studio Sound Department, Bernard B. Brown, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Capitanes de las nubes",
+          "director": "Michael Curtiz",
+          "aliases": [
+            "Captains of the Clouds"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · color · Ted Smith; Casey Roberts",
+            "Fotografía · color · Sol Polito"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · color",
+              "people": [
+                "Ted Smith; Casey Roberts"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ted Smith; Casey Roberts"
+            },
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Sol Polito"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Sol Polito"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El libro de la selva",
+          "director": "Zoltan Korda",
+          "aliases": [
+            "Jungle Book"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · color · Vincent Korda; Julia Heron",
+            "Fotografía · color · W. Howard Greene",
+            "Music (Music Score of a Dramatic or Comedy Picture) · Miklos Rozsa",
+            "Special Effects · Lawrence Butler (photographic); William H. Wilmarth (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción · color",
+              "people": [
+                "Vincent Korda; Julia Heron"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Vincent Korda; Julia Heron"
+            },
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "W. Howard Greene"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "W. Howard Greene"
+            },
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Miklos Rozsa"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Miklos Rozsa"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Lawrence Butler (photographic); William H. Wilmarth (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Lawrence Butler (photographic); William H. Wilmarth (sound)"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Abismo de pasión",
+          "director": "Sam Wood",
+          "aliases": [
+            "Kings Row"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · blanco y negro · James Wong Howe",
+            "Dirección · Sam Wood",
+            "Outstanding Motion Picture · Warner Bros."
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "James Wong Howe"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "James Wong Howe"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Sam Wood"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Sam Wood"
+            },
+            {
+              "category": "Outstanding Motion Picture",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Warner Bros.",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Outstanding Motion Picture|Warner Bros.",
+              "associatedFilms": [
+                "Yanqui Dandy",
+                "Abismo de pasión"
+              ]
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Marea de luna",
+          "director": "Archie Mayo",
+          "aliases": [
+            "Moontide"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · blanco y negro · Charles Clarke"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Charles Clarke"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Charles Clarke"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Diez héroes de West Point",
+          "director": "Henry Hathaway",
+          "aliases": [
+            "Ten Gentlemen from West Point"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · blanco y negro · Leon Shamroy"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · blanco y negro",
+              "people": [
+                "Leon Shamroy"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Leon Shamroy"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Rumbo a las playas de Tripoli",
+          "director": "H. Bruce Humberstone",
+          "aliases": [
+            "To the Shores of Tripoli"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · color · Edward Cronjager, William V. Skall"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía · color",
+              "people": [
+                "Edward Cronjager, William V. Skall"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Edward Cronjager, William V. Skall"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Africa, Prelude to Victory",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · The March of Time"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "The March of Time"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "The March of Time"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Combat Report",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Army Signal Corps"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Army Signal Corps"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Army Signal Corps"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Conquer by the Clock",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · Frederic Ullman, Jr., Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Frederic Ullman, Jr., Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frederic Ullman, Jr., Producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Grain That Built a Hemisphere",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Walt Disney, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walt Disney, Producer",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|Walt Disney, Producer",
+              "associatedFilms": [
+                "The Grain That Built a Hemisphere",
+                "The New Spirit"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Henry Browne, Farmer",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Department of Agriculture"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Department of Agriculture"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Department of Agriculture"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "High over the Borders",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · National Film Board of Canada"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "National Film Board of Canada"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "National Film Board of Canada",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|National Film Board of Canada",
+              "associatedFilms": [
+                "High over the Borders",
+                "Inside Fighting China"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "High Stakes in the East",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · The Netherlands Information Bureau"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "The Netherlands Information Bureau"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "The Netherlands Information Bureau"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Inside Fighting China",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · National Film Board of Canada"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "National Film Board of Canada"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "National Film Board of Canada",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|National Film Board of Canada",
+              "associatedFilms": [
+                "High over the Borders",
+                "Inside Fighting China"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "It's Everybody's War",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Office of War Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Office of War Information"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Office of War Information",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|United States Office of War Information",
+              "associatedFilms": [
+                "It's Everybody's War",
+                "Mr. Blabbermouth!",
+                "Mr. Gardenia Jones"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Listen to Britain",
+          "director": "Humphrey Jennings, Stewart McAllister",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · British Ministry of Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "British Ministry of Information"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "British Ministry of Information",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|British Ministry of Information",
+              "associatedFilms": [
+                "Listen to Britain",
+                "Twenty-One Miles"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Little Belgium",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · Belgian Ministry of Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Belgian Ministry of Information"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Belgian Ministry of Information"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Little Isles of Freedom",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · Victor Stoloff and Edgar Loew, Producers"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Victor Stoloff and Edgar Loew, Producers"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Victor Stoloff and Edgar Loew, Producers"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mr. Blabbermouth!",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Office of War Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Office of War Information"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Office of War Information",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|United States Office of War Information",
+              "associatedFilms": [
+                "It's Everybody's War",
+                "Mr. Blabbermouth!",
+                "Mr. Gardenia Jones"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mr. Gardenia Jones",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Office of War Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Office of War Information"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Office of War Information",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|United States Office of War Information",
+              "associatedFilms": [
+                "It's Everybody's War",
+                "Mr. Blabbermouth!",
+                "Mr. Gardenia Jones"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The New Spirit",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · Walt Disney, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Walt Disney, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walt Disney, Producer",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|Walt Disney, Producer",
+              "associatedFilms": [
+                "The Grain That Built a Hemisphere",
+                "The New Spirit"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Price of Victory",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · William H. Pine, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "William H. Pine, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "William H. Pine, Producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A Ship Is Born",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Merchant Marine"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Merchant Marine"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Merchant Marine"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Twenty-One Miles",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · British Ministry of Information"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "British Ministry of Information"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "British Ministry of Information",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|British Ministry of Information",
+              "associatedFilms": [
+                "Listen to Britain",
+                "Twenty-One Miles"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "We Refuse to Die",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · William C. Thomas, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "William C. Thomas, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "William C. Thomas, Producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "White Eagle",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · Concanen Films"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "Concanen Films"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Concanen Films"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Winning Your Wings",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Documentary · United States Army Air Force"
+          ],
+          "candidacies": [
+            {
+              "category": "Documentary",
+              "people": [
+                "United States Army Air Force"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "United States Army Air Force"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Bambi",
+          "director": "David Hand",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Frank Churchill, Edward Plumb",
+            "Canción · Frank Churchill (music), Larry Morey (lyrics): “Love Is a Song”",
+            "Sound Recording · Walt Disney Studio Sound Department, Sam Slyfield, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Frank Churchill, Edward Plumb"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frank Churchill, Edward Plumb"
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Frank Churchill (music), Larry Morey (lyrics): “Love Is a Song”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frank Churchill (music), Larry Morey (lyrics): “Love Is a Song”"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Walt Disney Studio Sound Department, Sam Slyfield, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walt Disney Studio Sound Department, Sam Slyfield, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Justicia corsa",
+          "director": "Gregory Ratoff",
+          "aliases": [
+            "The Corsican Brothers"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Dimitri Tiomkin"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Dimitri Tiomkin"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Dimitri Tiomkin"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Los tigres voladores",
+          "director": "David Miller",
+          "aliases": [
+            "Flying Tigers"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Victor Young",
+            "Sound Recording · Republic Studio Sound Department, Daniel Bloomberg, Sound Director",
+            "Special Effects · Howard Lydecker (photographic); Daniel J. Bloomberg (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Victor Young"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Victor Young",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Victor Young",
+              "associatedFilms": [
+                "Silver Queen",
+                "Ella y su secretario",
+                "Los tigres voladores"
+              ]
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Republic Studio Sound Department, Daniel Bloomberg, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Republic Studio Sound Department, Daniel Bloomberg, Sound Director"
+            },
+            {
+              "category": "Special Effects",
+              "people": [
+                "Howard Lydecker (photographic); Daniel J. Bloomberg (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Howard Lydecker (photographic); Daniel J. Bloomberg (sound)"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La quimera del oro",
+          "director": "Charlie Chaplin",
+          "aliases": [
+            "The Gold Rush"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Max Terr",
+            "Sound Recording · RCA Sound, James Fields, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Max Terr"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Max Terr"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "RCA Sound, James Fields, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "RCA Sound, James Fields, Sound Director"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Me casé con una bruja",
+          "director": "René Clair",
+          "aliases": [
+            "I Married a Witch"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Roy Webb"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Roy Webb"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Roy Webb",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Roy Webb",
+              "associatedFilms": [
+                "Me casé con una bruja",
+                "Juana de París"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Juana de París",
+          "director": "Robert Stevenson",
+          "aliases": [
+            "Joan of Paris"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Roy Webb"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Roy Webb"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Roy Webb",
+              "sharedCandidacyId": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Roy Webb",
+              "associatedFilms": [
+                "Me casé con una bruja",
+                "Juana de París"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Klondike Fury",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Edward Kay"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Edward Kay"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Edward Kay"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ser o no ser",
+          "director": "Ernst Lubitsch",
+          "aliases": [
+            "To Be or Not to Be"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Music (Music Score of a Dramatic or Comedy Picture) · Werner Heymann"
+          ],
+          "candidacies": [
+            {
+              "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+              "people": [
+                "Werner Heymann"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Werner Heymann"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Flying with Music",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Edward Ward",
+            "Canción · Edward Ward (music), Chet Forrest and Bob Wright (lyrics): “Pennies for Peppino”"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Edward Ward"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Edward Ward"
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Edward Ward (music), Chet Forrest and Bob Wright (lyrics): “Pennies for Peppino”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Edward Ward (music), Chet Forrest and Bob Wright (lyrics): “Pennies for Peppino”"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Por mi chica y por mí",
+          "director": "Busby Berkeley",
+          "aliases": [
+            "For Me and My Gal"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Roger Edens, Georgie Stoll"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Roger Edens, Georgie Stoll"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Roger Edens, Georgie Stoll"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Casi un ángel",
+          "director": "Henry Koster",
+          "aliases": [
+            "It Started with Eve"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Hans Salter, Charles Previn"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Hans Salter, Charles Previn"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Hans Salter, Charles Previn"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Johnny Doughboy",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Walter Scharf"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Walter Scharf"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walter Scharf"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Bailando nace el amor",
+          "director": "William A. Seiter",
+          "aliases": [
+            "You Were Never Lovelier"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Adaptación musical · Leigh Harline",
+            "Canción · Jerome Kern (music), Johnny Mercer (lyrics): “Dearly Beloved”",
+            "Sound Recording · Columbia Studio Sound Department, John Livadary, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Adaptación musical",
+              "people": [
+                "Leigh Harline"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Leigh Harline"
+            },
+            {
+              "category": "Canción",
+              "people": [
+                "Jerome Kern (music), Johnny Mercer (lyrics): “Dearly Beloved”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Jerome Kern (music), Johnny Mercer (lyrics): “Dearly Beloved”"
+            },
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Columbia Studio Sound Department, John Livadary, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Columbia Studio Sound Department, John Livadary, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Always in My Heart",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Ernesto Lecuona (music), Kim Gannon (lyrics): “Always in My Heart”"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Ernesto Lecuona (music), Kim Gannon (lyrics): “Always in My Heart”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ernesto Lecuona (music), Kim Gannon (lyrics): “Always in My Heart”"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Chicos de Broadway",
+          "director": "Busby Berkeley",
+          "aliases": [
+            "Babes on Broadway"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Burton Lane (music), Ralph Freed (lyrics): “How About You?”"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Burton Lane (music), Ralph Freed (lyrics): “How About You?”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Burton Lane (music), Ralph Freed (lyrics): “How About You?”"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Youth on Parade",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Jule Styne (music), Sammy Cahn (lyrics): “It Seems I Heard That Song Before”"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Jule Styne (music), Sammy Cahn (lyrics): “It Seems I Heard That Song Before”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Jule Styne (music), Sammy Cahn (lyrics): “It Seems I Heard That Song Before”"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Viudas del jazz",
+          "director": "Archie Mayo",
+          "aliases": [
+            "Orchestra Wives",
+            "Viudas del Jazz"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Harry Warren (music), Mack Gordon (lyrics): “I’ve Got a Gal in Kalamazoo”"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Harry Warren (music), Mack Gordon (lyrics): “I’ve Got a Gal in Kalamazoo”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Harry Warren (music), Mack Gordon (lyrics): “I’ve Got a Gal in Kalamazoo”"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Loquilandia",
+          "director": "H. C. Potter",
+          "aliases": [
+            "Hellzapoppin’",
+            "Hellzapoppin'"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Gene de Paul (music), Don Raye (lyrics): “Pig Foot Pete”"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Gene de Paul (music), Don Raye (lyrics): “Pig Foot Pete”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Gene de Paul (music), Don Raye (lyrics): “Pig Foot Pete”"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Mayor of 44th Street",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Canción · Harry Revel (music), Mort Greene (lyrics): “There’s a Breeze on Lake Louise”"
+          ],
+          "candidacies": [
+            {
+              "category": "Canción",
+              "people": [
+                "Harry Revel (music), Mort Greene (lyrics): “There’s a Breeze on Lake Louise”"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Harry Revel (music), Mort Greene (lyrics): “There’s a Breeze on Lake Louise”"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "All Out for “V”",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · 20th Century-Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "20th Century-Fox"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "20th Century-Fox"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El lobo bombardero",
+          "director": "Tex Avery",
+          "aliases": [
+            "Blitz Wolf"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Juke Box Jamboree",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Walter Lantz, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Walter Lantz, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Walter Lantz, Producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Pigs in a Polka",
+          "director": "Friz Freleng",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Leon Schlesinger, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Leon Schlesinger, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Leon Schlesinger, Producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tulips Shall Grow",
+          "director": "George Pal",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · George Pal, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "George Pal, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "George Pal, Producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Desert Wonderland",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · 20th Century-Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "20th Century-Fox"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "20th Century-Fox"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Marines in the Making",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Pete Smith, Producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "Pete Smith, Producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Pete Smith, Producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "United States Marine Band",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · un rollo · Warner Bros."
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · un rollo",
+              "people": [
+                "Warner Bros."
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Warner Bros."
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Don’t Talk",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Private Smith of the U.S.A.",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de ficción · dos rollos · RKO Radio"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de ficción · dos rollos",
+              "people": [
+                "RKO Radio"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "RKO Radio"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Friendly Enemies",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Sound Recording · Sound Service, Inc., Jack Whitney, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Sound Service, Inc., Jack Whitney, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Sound Service, Inc., Jack Whitney, Sound Director"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hubo una luna de miel",
+          "director": "Leo McCarey",
+          "aliases": [
+            "Once upon a Honeymoon",
+            "Once Upon a Honeymoon"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Sound Recording · RKO Radio Studio Sound Department, Steve Dunn, Sound Director"
+          ],
+          "candidacies": [
+            {
+              "category": "Sound Recording",
+              "people": [
+                "RKO Radio Studio Sound Department, Steve Dunn, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "RKO Radio Studio Sound Department, Steve Dunn, Sound Director"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Ruta de Marruecos",
+          "director": "David Butler",
+          "aliases": [
+            "Road to Morocco"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Sound Recording · Paramount Studio Sound Department, Loren Ryder, Sound Director",
+            "Guion original · Frank Butler, Don Hartman"
+          ],
+          "candidacies": [
+            {
+              "category": "Sound Recording",
+              "people": [
+                "Paramount Studio Sound Department, Loren Ryder, Sound Director"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Paramount Studio Sound Department, Loren Ryder, Sound Director"
+            },
+            {
+              "category": "Guion original",
+              "people": [
+                "Frank Butler, Don Hartman"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Frank Butler, Don Hartman"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Jornada desesperada",
+          "director": "Raoul Walsh",
+          "aliases": [
+            "Desperate Journey"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Byron Haskin (photographic); Nathan Levinson (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "Byron Haskin (photographic); Nathan Levinson (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Byron Haskin (photographic); Nathan Levinson (sound)"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El espía invisible",
+          "director": "Edwin L. Marin",
+          "aliases": [
+            "Invisible Agent"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · John Fulton (photographic); Bernard B. Brown (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "John Fulton (photographic); Bernard B. Brown (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "John Fulton (photographic); Bernard B. Brown (sound)"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Navy Comes Through",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Vernon L. Walker (photographic); James G. Stewart (sound)"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "Vernon L. Walker (photographic); James G. Stewart (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Vernon L. Walker (photographic); James G. Stewart (sound)"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "One of Our Aircraft Is Missing",
+          "director": "Michael Powell, Emeric Pressburger",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Effects · Ronald Neame (photographic); C. C. Stevens (sound)",
+            "Guion original · Michael Powell, Emeric Pressburger"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Effects",
+              "people": [
+                "Ronald Neame (photographic); C. C. Stevens (sound)"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Ronald Neame (photographic); C. C. Stevens (sound)"
+            },
+            {
+              "category": "Guion original",
+              "people": [
+                "Michael Powell, Emeric Pressburger"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "Michael Powell, Emeric Pressburger"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The War against Mrs. Hadley",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Guion original · George Oppenheimer"
+          ],
+          "candidacies": [
+            {
+              "category": "Guion original",
+              "people": [
+                "George Oppenheimer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+              "person": "George Oppenheimer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ],
+      "ceremonyNumber": 15,
+      "ceremonyDate": "1943-03-04"
+    }
+  ]
+}

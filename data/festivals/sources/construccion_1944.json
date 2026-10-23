@@ -1,0 +1,164 @@
+{
+  "year": 1944,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1944_para_Sol.zip",
+    "sha256": "51a8ebc539707574e1338a2398df6fc5a6644e224b2fcc4176c79291b49c20f2"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 16.ª edición",
+      "films": 84,
+      "declaredOwned": 44
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "url": "https://www.oscars.org/oscars/ceremonies/embed/1944",
+      "sourceType": "fuente primaria oficial",
+      "use": "Categorías, candidaturas, créditos de candidatura y ganadores de la 16.ª ceremonia.",
+      "file": "extracciones/oscar_1944_transcripcion.json"
+    },
+    {
+      "url": "https://www.oscars.org/oscars/ceremonies/1944/memorable-moments",
+      "sourceType": "fuente primaria oficial",
+      "use": "Fecha, año de elegibilidad y premios personales/especiales.",
+      "file": "extracciones/oscar_1944_premios_personales.json"
+    },
+    {
+      "url": "https://www.bafta.org/about/our-heritage/",
+      "sourceType": "fuente institucional oficial",
+      "use": "No hubo ceremonia de premios BAFTA en 1944; la primera se celebró en 1949.",
+      "file": "extracciones/bafta_1944_status.json"
+    },
+    {
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "sourceType": "fuente institucional oficial",
+      "use": "No se celebró una edición en 1944; el Festival oficial se celebró por primera vez en 1946.",
+      "file": "extracciones/cannes_1944_status.json"
+    },
+    {
+      "url": "https://b2b.berlinale.de/de/partner/postings/41-das-festival",
+      "sourceType": "fuente institucional oficial",
+      "use": "No hubo edición en 1944; la Berlinale fue fundada en 1951.",
+      "file": "extracciones/berlin_1944_status.json"
+    },
+    {
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "sourceType": "fuente institucional oficial",
+      "use": "No hubo edición en 1944; la historia oficial dice que tras la pausa bélica el festival se celebró de nuevo en 1946.",
+      "file": "extracciones/venecia_1944_status.json"
+    },
+    {
+      "url": "https://www.sansebastianfestival.com/archivo/1/36/es",
+      "sourceType": "fuente institucional oficial",
+      "use": "No hubo edición en 1944; el festival nació en 1953.",
+      "file": "extracciones/sansebastian_1944_status.json"
+    },
+    {
+      "url": "https://catalog.afi.com/Film/645-SAHARA",
+      "sourceType": "catálogo secundario institucional AFI",
+      "use": "Confirma que la fotografía de Sahara (1943) es de Rudolph Maté; la página de premios Oscar consultada repite “Sahara” en ese crédito.",
+      "file": "dudas_concretas.json"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1944",
+      "status": "complete",
+      "coverage": "16.ª ceremonia, 2 de marzo de 1944: 24 categorías competitivas, 163 candidaturas y 84 películas; reconoce películas estrenadas en 1943.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1944",
+      "status": "no celebrado",
+      "coverage": "La primera ceremonia BAFTA tuvo lugar en 1949.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1944",
+      "status": "no celebrado",
+      "coverage": "Primera edición celebrada en 1946.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1944",
+      "status": "no celebrado",
+      "coverage": "La Berlinale se fundó en 1951.",
+      "missing": []
+    },
+    {
+      "block": "Venecia 1944",
+      "status": "no celebrado",
+      "coverage": "Pausa bélica; reanudación en 1946 según historia oficial.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1944",
+      "status": "no celebrado",
+      "coverage": "El festival nació en 1953.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity y dirección",
+      "status": "partial",
+      "coverage": "Títulos y créditos nominales se reproducen de la Academia. No se ha efectuado el cotejo masivo con FilmAffinity España ni se han comprobado directores.",
+      "missing": [
+        "Los campos filmAffinityId, filmaffinityTitle y director están null; completar mediante consulta en bloque."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "issue": "Sahara — Cinematography (Black-and-White)",
+      "detail": "La página de Oscars.org repite el título Sahara en el campo del director de fotografía. Se utiliza Rudolph Maté según AFI Catalog.",
+      "source": "https://catalog.afi.com/Film/645-SAHARA"
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1944|Premios Oscar · 16.ª edición|Outstanding Motion Picture|Metro-Goldwyn-Mayer",
+      "category": "Outstanding Motion Picture",
+      "person": "Metro-Goldwyn-Mayer",
+      "winner": false,
+      "films": [
+        "La comedia humana",
+        "Madame Curie"
+      ]
+    },
+    {
+      "id": "Oscar|1944|Premios Oscar · 16.ª edición|Outstanding Motion Picture|20th Century-Fox",
+      "category": "Outstanding Motion Picture",
+      "person": "20th Century-Fox",
+      "winner": false,
+      "films": [
+        "La canción de Bernadette",
+        "El diablo dijo no",
+        "Incidente en Ox-Bow"
+      ]
+    },
+    {
+      "id": "Oscar|1944|Premios Oscar · 16.ª edición|Canción|Harold Arlen (music), Johnny Mercer (lyrics)",
+      "category": "Canción",
+      "person": "Harold Arlen (music), Johnny Mercer (lyrics)",
+      "winner": false,
+      "films": [
+        "El límite es el cielo",
+        "Star Spangled Rhythm"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}
