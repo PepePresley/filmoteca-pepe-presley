@@ -1,0 +1,153 @@
+{
+  "year": 1945,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1945_para_Sol.zip",
+    "sha256": "7c2be945066847a132bdc639ae0b287d7ee4dae0d2666ab2f5dbda647f7005af"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 17.ª edición",
+      "films": 85,
+      "declaredOwned": 42
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "url": "https://www.oscars.org/oscars/ceremonies/embed/1945",
+      "sourceType": "official primary",
+      "use": "Candidaturas y ganadores por categoría de la 17.ª ceremonia. Extracción estructurada/transcripción de la página oficial; no es captura de pantalla.",
+      "file": "extracciones/oscar_1945_transcripcion.json"
+    },
+    {
+      "url": "https://www.oscars.org/oscars/ceremonies/1945/memorable-moments",
+      "sourceType": "official primary",
+      "use": "Premios especiales y reconocimientos personales.",
+      "file": "extracciones/oscar_1945_premios_personales.json"
+    },
+    {
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "sourceType": "official primary",
+      "use": "Historia: Cannes tuvo su primera edición celebrada en 1946; 1945 sin edición.",
+      "file": "extracciones/cannes_1945_status.json"
+    },
+    {
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "sourceType": "official primary",
+      "use": "Historia oficial: después de la pausa bélica, el festival se reanudó en 1946.",
+      "file": "extracciones/venezia_1945_status.json"
+    },
+    {
+      "url": "https://b2b.berlinale.de/de/partner/postings/41-das-festival",
+      "sourceType": "official primary",
+      "use": "La Berlinale fue fundada en 1951.",
+      "file": "extracciones/berlin_1945_status.json"
+    },
+    {
+      "url": "https://www.sansebastianfestival.com/archivo/1/36/es",
+      "sourceType": "official primary",
+      "use": "El Festival de San Sebastián nació en 1953.",
+      "file": "extracciones/sansebastian_1945_status.json"
+    },
+    {
+      "url": "https://www.bafta.org/about/our-heritage/",
+      "sourceType": "official primary",
+      "use": "BAFTA se fundó y celebró sus primeros premios en 1949; no edición 1945.",
+      "file": "extracciones/bafta_1945_status.json"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt0036723/awards/",
+      "sourceType": "secondary",
+      "use": "Only used to resolve the broken named-credit extraction for Cover Girl in Cinematography (Color).",
+      "file": "dudas_concretas.json"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1945",
+      "status": "complete",
+      "coverage": "17.ª ceremonia: 24 categorías competitivas y 165 candidaturas; 85 películas agrupadas. Premios personales separados.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1945",
+      "status": "no celebrado",
+      "coverage": "La ceremonia BAFTA comenzó en 1949.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1945",
+      "status": "no celebrado",
+      "coverage": "La historia oficial sitúa la primera edición celebrada en 1946; 1939 fue cancelado.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1945",
+      "status": "no celebrado",
+      "coverage": "La Berlinale fue fundada en 1951.",
+      "missing": []
+    },
+    {
+      "block": "Venecia 1945",
+      "status": "no celebrado",
+      "coverage": "Pausa bélica; reanudación del festival en 1946 según la historia oficial.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1945",
+      "status": "no celebrado",
+      "coverage": "El festival nació en 1953.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity y dirección",
+      "status": "partial",
+      "coverage": "Los títulos y personas nominadas se transcriben del archivo oficial de los Oscar. No se ha realizado el cotejo masivo con FilmAffinity España ni se han verificado directores.",
+      "missing": [
+        "filmAffinityId y filmaffinityTitle quedan null; completar títulos registrados e IDs FA y directores mediante cotejo en bloque antes de integrar."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "issue": "Cover Girl — Cinematography (Color)",
+      "detail": "La extracción textual oficial de Oscars.org repite “Cover Girl” en el campo de crédito; el nombre se completó como Rudolph Maté y Allen M. Davey con la ficha de premios de IMDb (fuente secundaria). Conviene cotejar contra el escaneo del libro oficial si Sol requiere respaldo primario nominal.",
+      "source": "https://www.imdb.com/title/tt0036723/awards/"
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1945|Premios Oscar · 17.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Miklos Rozsa",
+      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+      "person": "Miklos Rozsa",
+      "winner": false,
+      "films": [
+        "Perdición",
+        "Woman of the Town"
+      ]
+    },
+    {
+      "id": "Oscar|1945|Premios Oscar · 17.ª edición|Guion original|Preston Sturges",
+      "category": "Guion original",
+      "person": "Preston Sturges",
+      "winner": false,
+      "films": [
+        "Salve, héroe victorioso",
+        "El milagro de Morgan Creek"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

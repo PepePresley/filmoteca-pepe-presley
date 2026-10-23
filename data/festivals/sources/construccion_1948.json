@@ -1,0 +1,224 @@
+{
+  "year": 1948,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1948_para_Sol.zip",
+    "sha256": "326ce3b7863a869443830c68becedc21004b05d2c7f066eabfcb6ffa4bef087b"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 20.ª edición",
+      "films": 60,
+      "declaredOwned": 33
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 20.ª edición · especiales y honoríficos",
+      "films": 2,
+      "declaredOwned": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 42,
+      "declaredOwned": 23
+    },
+    {
+      "festival": "Venecia",
+      "section": "Fuera de concurso · largometrajes documentados",
+      "films": 5,
+      "declaredOwned": 3
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 6,
+      "declaredOwned": 2
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "id": "oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1948",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_1948_transcripcion.json",
+      "note": "20.ª ceremonia, películas estrenadas en 1947."
+    },
+    {
+      "id": "oscar-personales",
+      "url": "https://www.oscars.org/oscars/ceremonies/1948/memorable-moments",
+      "type": "oficial",
+      "evidence": "extracciones/oscar_1948_premios_personales.json",
+      "note": "Premios personales transcritos."
+    },
+    {
+      "id": "bafta-history",
+      "url": "https://www.bafta.org/about/our-heritage/",
+      "type": "oficial",
+      "evidence": "extracciones/bafta_1948_status.json",
+      "note": "Primera ceremonia en 1949."
+    },
+    {
+      "id": "cannes-history",
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "type": "oficial",
+      "evidence": "extracciones/cannes_1948_status.json",
+      "note": "Cancelada por falta de presupuesto."
+    },
+    {
+      "id": "venice-asac-annual",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1948",
+      "type": "oficial",
+      "evidence": "extracciones/asac_1948_observacion.json",
+      "note": "Edición, fechas y secciones; selección no transcrita por completo."
+    },
+    {
+      "id": "venice-hamlet",
+      "url": "https://asac.labiennale.org/attivita/cinema/1824",
+      "type": "oficial ASAC",
+      "evidence": "venecia_premio_confirmado_1948.json",
+      "note": "Fichas Hamlet: director, sección, Gran Premio y premios internacionales."
+    },
+    {
+      "id": "venice-history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "type": "oficial",
+      "evidence": null,
+      "note": "La Biennale confirma Gran Premio Internazionale a Hamlet en 1948."
+    },
+    {
+      "id": "berlin",
+      "url": "https://www.berlinale.de/en/archive/",
+      "type": "oficial",
+      "evidence": "extracciones/berlin_1948_status.json"
+    },
+    {
+      "id": "san-sebastian",
+      "url": "https://www.sansebastianfestival.com/archivo/1/36/es",
+      "type": "oficial",
+      "evidence": "extracciones/sansebastian_1948_status.json"
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1948",
+      "type": "fuente oficial ASAC; transcripción estructurada de registros",
+      "file": "extracciones/asac_venecia_1948_largometrajes_transcripcion.json",
+      "note": "ASAC muestra los registros agrupados por país en el programa anual. Ese dato acredita su inclusión en el anuario/manifestación, pero no establece por sí solo competición. Se incluyen largometrajes que ASAC clasifica como Lungometraggio; mediometrajes se dejan fuera y se registran como limitación cuando se conocen. Los cortos premiados permanecen en el JSON específico de cortos premiados."
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1948",
+      "type": "fuente oficial ASAC; transcripción estructurada de fichas de cortometrajes premiados",
+      "file": "extracciones/asac_venecia_1948_cortos_premiados_transcripcion.json"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1948",
+      "status": "complete",
+      "coverage": "20.ª ceremonia: categorías competitivas completas, candidaturas y ganadores; premios especiales de película y personales separados.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1948",
+      "status": "no celebrado",
+      "coverage": "No hubo ceremonia BAFTA en 1948; la primera ceremonia fue en 1949.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1948",
+      "status": "no celebrado",
+      "coverage": "Edición cancelada por falta de presupuesto.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1948",
+      "status": "no celebrado",
+      "coverage": "La Berlinale comenzó en 1951.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1948",
+      "status": "no celebrado",
+      "coverage": "El Festival de San Sebastián se fundó en 1953.",
+      "missing": []
+    },
+    {
+      "block": "FilmAffinity",
+      "status": "partial",
+      "coverage": "No se han verificado fichas FA en bloque; títulos/direcciones del archivo y ceremonia conservados.",
+      "missing": [
+        "IDs y título registrado FilmAffinity España pendientes."
+      ]
+    },
+    {
+      "block": "Venecia 1948 — cortometrajes premiados",
+      "status": "partial",
+      "coverage": "6 cortometrajes con reconocimientos que constan en fichas ASAC.",
+      "missing": [
+        "El programa completo de cortometrajes no se transcribe; las agrupaciones nacionales ASAC no determinan por sí solas la clasificación competitiva."
+      ]
+    },
+    {
+      "block": "Venecia 1948 — largometrajes en registros nacionales ASAC",
+      "status": "partial",
+      "coverage": "42 largometrajes ASAC transcritos; no se presentan como competición sin evidencia.",
+      "missing": [
+        "Sigue sin resolverse la clasificación de competición de los registros agrupados por país."
+      ]
+    },
+    {
+      "block": "Venecia 1948 — Fuori competizione",
+      "status": "partial",
+      "coverage": "Cinco largometrajes expresamente indicados fuera de competición en ASAC.",
+      "missing": [
+        "No se amplía a cortos ni otros programas secundarios."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "id": "fa-identities-1948",
+      "question": "No se han validado IDs/títulos FilmAffinity en bloque.",
+      "impact": "filmAffinityId y filmaffinityTitle nulos."
+    },
+    {
+      "id": "venecia-1948-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1948-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1948-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición? El archivo acredita registros en la manifestación, pero no basta para probar competición.",
+      "impact": "Los largos y cortos premiados están separados por formato; clasificación competitiva queda pendiente."
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1948|Premios Oscar · 20.ª edición|Cortometraje de animación|Walt Disney, Producer",
+      "category": "Cortometraje de animación",
+      "person": "Walt Disney, Producer",
+      "winner": false,
+      "films": [
+        "El pato Donald: Chip y Chop",
+        "Pluto's Blue Note"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

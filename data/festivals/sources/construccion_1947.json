@@ -1,0 +1,247 @@
+{
+  "year": 1947,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1947_para_Sol.zip",
+    "sha256": "9f145e46f9bdcb6380fdc479839d29661f5bd68dc37734931dd1655272884a05"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "films": 24,
+      "declaredOwned": 12
+    },
+    {
+      "festival": "Cannes",
+      "section": "Cortometrajes premiados",
+      "films": 1,
+      "declaredOwned": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "films": 55,
+      "declaredOwned": 35
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición · especiales y honoríficos",
+      "films": 2,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 38,
+      "declaredOwned": 18
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 6,
+      "declaredOwned": 0
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "id": "oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1947/B",
+      "type": "oficial Academy",
+      "evidence": "extracciones/oscar_1947_transcripcion.json",
+      "note": "19.ª ceremonia, películas estrenadas en 1946."
+    },
+    {
+      "id": "oscar-personales",
+      "url": "https://www.oscars.org/oscars/ceremonies/1947/memorable-moments",
+      "type": "oficial Academy",
+      "evidence": "extracciones/oscar_1947_premios_personales.json"
+    },
+    {
+      "id": "cannes-selection",
+      "url": "https://www.festival-cannes.com/en/retrospective/1947/",
+      "type": "oficial Festival de Cannes",
+      "evidence": "extracciones/cannes_1947_selection.json"
+    },
+    {
+      "id": "cannes-awards",
+      "url": "https://www.festival-cannes.com/en/retrospective/1947/awards/",
+      "type": "oficial Festival de Cannes",
+      "evidence": "extracciones/cannes_1947_awards.json"
+    },
+    {
+      "id": "venice-annual",
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1947",
+      "type": "oficial ASAC",
+      "evidence": "extracciones/asac_1947_annuario.json"
+    },
+    {
+      "id": "venice-sirena",
+      "url": "https://asac.labiennale.org/attivita/cinema/1689",
+      "type": "oficial ASAC",
+      "evidence": "extracciones/asac_1947_sirena.json"
+    },
+    {
+      "id": "venice-history",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "type": "oficial La Biennale",
+      "evidence": "extracciones/venecia_1947_history.json"
+    },
+    {
+      "id": "bafta",
+      "url": "https://www.bafta.org/about/our-heritage/",
+      "type": "oficial BAFTA",
+      "evidence": "extracciones/bafta_1947_status.json"
+    },
+    {
+      "id": "berlin",
+      "url": "https://b2b.berlinale.de/de/partner/postings/41-das-festival",
+      "type": "fuente institucional Berlinale",
+      "evidence": "extracciones/berlin_1947_status.json"
+    },
+    {
+      "id": "san-sebastian",
+      "url": "https://www.sansebastianfestival.com/archivo/1/36/es",
+      "type": "oficial SSIFF",
+      "evidence": "extracciones/sansebastian_1947_status.json"
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1947",
+      "type": "fuente oficial ASAC; transcripción estructurada de registros",
+      "file": "extracciones/asac_venecia_1947_largometrajes_transcripcion.json",
+      "note": "ASAC muestra los registros agrupados por país en el programa anual. Ese dato acredita su inclusión en el anuario/manifestación, pero no establece por sí solo competición. Se incluyen largometrajes que ASAC clasifica como Lungometraggio; mediometrajes se dejan fuera y se registran como limitación cuando se conocen. Los cortos premiados permanecen en el JSON específico de cortos premiados."
+    },
+    {
+      "url": "https://asac.labiennale.org/attivita/cinema/annali?anno=1947",
+      "type": "fuente oficial ASAC; transcripción estructurada de fichas de cortometrajes premiados",
+      "file": "extracciones/asac_venecia_1947_cortos_premiados_transcripcion.json"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1947",
+      "status": "complete",
+      "coverage": "19.ª ceremonia: categorías competitivas cinematográficas, candidaturas y ganadores; premios personales y premios especiales asociados a películas diferenciados.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1947",
+      "status": "no celebrado",
+      "coverage": "No hubo edición en 1947; la primera ceremonia BAFTA fue en 1949.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1947 — largometrajes",
+      "status": "complete",
+      "coverage": "24 largometrajes en competición en el archivo oficial; premios asociados a cinco títulos.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1947 — cortos",
+      "status": "partial",
+      "coverage": "Incluido el cortometraje documental premiado que el archivo oficial también clasifica en la selección de cortos.",
+      "missing": [
+        "No se transcribió la lista completa de cortometrajes (fuera del alcance pedido); confirmar si el palmarès oficial tuvo otros premios a cortos."
+      ]
+    },
+    {
+      "block": "Berlín 1947",
+      "status": "no celebrado",
+      "coverage": "Berlinale aún no existía; primera edición en 1951.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1947",
+      "status": "no celebrado",
+      "coverage": "Festival aún no fundado; fundación en 1953.",
+      "missing": []
+    },
+    {
+      "block": "FilmAffinity",
+      "status": "partial",
+      "coverage": "No se verificaron IDs ni títulos registrados en FilmAffinity España en bloque.",
+      "missing": [
+        "Títulos/IDs FA quedan nulos."
+      ]
+    },
+    {
+      "block": "Cannes 1947 — fuera de concurso",
+      "status": "pending",
+      "coverage": "La retrospectiva oficial consultada solo muestra largometrajes en competición.",
+      "missing": [
+        "Confirmar si hubo largometrajes fuera de concurso; no se han añadido entradas sin evidencia."
+      ]
+    },
+    {
+      "block": "Venecia 1947 — cortometrajes premiados",
+      "status": "partial",
+      "coverage": "6 cortometrajes con reconocimientos que constan en fichas ASAC.",
+      "missing": [
+        "El programa completo de cortometrajes no se transcribe; las agrupaciones nacionales ASAC no determinan por sí solas la clasificación competitiva."
+      ]
+    },
+    {
+      "block": "Venecia 1947 — largometrajes en registros nacionales ASAC",
+      "status": "partial",
+      "coverage": "38 largometrajes ASAC transcritos; no se presentan como competición sin evidencia.",
+      "missing": [
+        "Sigue sin resolverse la clasificación de competición de los registros agrupados por país."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "id": "fa-identities-1947",
+      "question": "No se validaron en bloque títulos registrados e IDs de FilmAffinity España.",
+      "impact": "Los campos filmaffinityTitle y filmAffinityId quedan null."
+    },
+    {
+      "id": "cannes-short-awards-1947",
+      "question": "El palmarès agrupa el Grand Prix documentaire de Inondations en Pologne bajo largometrajes, pero la ficha oficial de selección lo clasifica en cortometrajes. No se confirmó si hubo otros premios de cortos.",
+      "impact": "Se asignó el premio al corto conforme a la sección de selección y el bloque queda parcial."
+    },
+    {
+      "id": "cannes-the-chase-director",
+      "question": "La retrospectiva oficial acredita The Chase a Seymour Nebenzahl, pero otras referencias identifican a Arthur Ripley como director y a Nebenzahl como productor. Se deja director null hasta resolver el rol.",
+      "impact": "Ficha Cannes con director pendiente."
+    },
+    {
+      "id": "cannes-out-of-competition-1947",
+      "question": "La página oficial consultada no muestra sección de largometrajes fuera de concurso.",
+      "impact": "No se registran títulos fuera de concurso; cobertura pendiente de confirmación."
+    },
+    {
+      "id": "venecia-1947-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1947-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición en esta edición? El archivo solo acredita registro en la manifestación y no se usa como prueba de competición.",
+      "impact": "Sección preparada como selección ASAC por país; falta evidencia archivística de clasificación competitiva."
+    },
+    {
+      "id": "venecia-1947-competition-classification",
+      "question": "¿Las agrupaciones nacionales del anuario ASAC indican competición? El archivo acredita registros en la manifestación, pero no basta para probar competición.",
+      "impact": "Los largos y cortos premiados están separados por formato; clasificación competitiva queda pendiente."
+    },
+    {
+      "id": "venezia-1947-mai-zetterling",
+      "question": "ASAC registra el mismo reconocimiento por speciali meriti artistici a Mai Zetterling vinculado tanto a Hets como a Iris och löjtnantshjärta. ¿Es un premio compartido o dos reconocimientos separados?",
+      "impact": "Se conserva cada registro ASAC sin declarar sharedCandidacyId hasta resolver el vínculo."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

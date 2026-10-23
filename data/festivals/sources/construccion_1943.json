@@ -1,0 +1,175 @@
+{
+  "year": 1943,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1943_para_Sol.zip",
+    "sha256": "6d6ed8678ffc0ddc9fb37731b267a3c94ca5e2de8d2208645782fdfbb94f427b"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 15.ª edición",
+      "films": 97,
+      "declaredOwned": 54
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "url": "https://www.oscars.org/oscars/ceremonies/embed/1943",
+      "sourceType": "fuente oficial primaria",
+      "use": "Categorías, nominaciones y ganadores de la 15.ª ceremonia, celebrada en 1943 por películas de 1942.",
+      "file": "extracciones/oscar_1943_transcripcion.json"
+    },
+    {
+      "url": "https://www.oscars.org/oscars/ceremonies/1943/memorable-moments",
+      "sourceType": "fuente oficial primaria",
+      "use": "Premios personales, menciones históricas y fecha de elegibilidad.",
+      "file": "extracciones/oscar_1943_premios_personales.json"
+    },
+    {
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "sourceType": "institucional oficial",
+      "use": "Sin edición celebrada en 1943; primera edición oficial celebrada en 1946.",
+      "file": "extracciones/cannes_1943_status.json"
+    },
+    {
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "sourceType": "institucional oficial",
+      "use": "La Mostra no se reanudó tras la pausa bélica hasta 1946; por tanto, no hubo edición 1943.",
+      "file": "extracciones/venecia_1943_status.json"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1943",
+      "status": "complete",
+      "coverage": "15.ª ceremonia: 24 categorías cinematográficas competitivas y premio especial a película, 183 candidaturas/ganadores y 97 títulos únicos. Documental conserva sus cuatro premiados.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1943",
+      "status": "no celebrado",
+      "coverage": "No hubo edición celebrada; el festival se celebró por primera vez en 1946.",
+      "missing": []
+    },
+    {
+      "block": "Venecia 1943",
+      "status": "no celebrado",
+      "coverage": "No hubo edición durante la pausa bélica; la Mostra volvió en 1946.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1943",
+      "status": "no celebrado",
+      "coverage": "Reutiliza determinación histórica y fuente del paquete 1944: la Berlinale se fundó en 1951.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1943",
+      "status": "no celebrado",
+      "coverage": "Reutiliza determinación histórica y fuente del paquete 1944: el festival nació en 1953.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1943",
+      "status": "no celebrado",
+      "coverage": "Reutiliza determinación histórica y fuente del paquete 1944: primera ceremonia en 1949.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity/directores",
+      "status": "partial",
+      "coverage": "No se hizo cotejo masivo con FilmAffinity España ni recuperación de director para todo el conjunto.",
+      "missing": [
+        "IDs y títulos FA y directores quedan null; completar en bloque."
+      ]
+    }
+  ],
+  "packageDoubts": [],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Outstanding Motion Picture|Warner Bros.",
+      "category": "Outstanding Motion Picture",
+      "person": "Warner Bros.",
+      "winner": false,
+      "films": [
+        "Yanqui Dandy",
+        "Abismo de pasión"
+      ]
+    },
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Victor Young",
+      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+      "person": "Victor Young",
+      "winner": false,
+      "films": [
+        "Silver Queen",
+        "Ella y su secretario",
+        "Los tigres voladores"
+      ]
+    },
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|Walt Disney, Producer",
+      "category": "Documentary",
+      "person": "Walt Disney, Producer",
+      "winner": false,
+      "films": [
+        "The Grain That Built a Hemisphere",
+        "The New Spirit"
+      ]
+    },
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|National Film Board of Canada",
+      "category": "Documentary",
+      "person": "National Film Board of Canada",
+      "winner": false,
+      "films": [
+        "High over the Borders",
+        "Inside Fighting China"
+      ]
+    },
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|United States Office of War Information",
+      "category": "Documentary",
+      "person": "United States Office of War Information",
+      "winner": false,
+      "films": [
+        "It's Everybody's War",
+        "Mr. Blabbermouth!",
+        "Mr. Gardenia Jones"
+      ]
+    },
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|British Ministry of Information",
+      "category": "Documentary",
+      "person": "British Ministry of Information",
+      "winner": false,
+      "films": [
+        "Listen to Britain",
+        "Twenty-One Miles"
+      ]
+    },
+    {
+      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Roy Webb",
+      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
+      "person": "Roy Webb",
+      "winner": false,
+      "films": [
+        "Me casé con una bruja",
+        "Juana de París"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

@@ -1,0 +1,1542 @@
+{
+  "scope": "Propiedad acreditada1947",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Se escapó la suerte",
+      "director": "Jacques Becker",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 66,
+        "titleES": "Se escapó la suerte",
+        "originalTitle": "Antoine et Antoinette",
+        "director": "Jacques Becker",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "El justiciero",
+      "director": "Elia Kazan",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 42,
+        "titleES": "El justiciero",
+        "originalTitle": "Boomerang!",
+        "director": "Elia Kazan",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Encrucijada de odios",
+      "director": "Edward Dmytryk",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 18,
+        "titleES": "Encrucijada de odios",
+        "originalTitle": "Crossfire",
+        "director": "Edward Dmytryk",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Dumbo",
+      "director": "Ben Sharpsteen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "El delito de Giovanni Episcopo",
+      "director": "Alberto Lattuada",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 106,
+        "titleES": "El delito de Giovanni Episcopo",
+        "originalTitle": "Il delitto di Giovanni Episcopo",
+        "director": "Alberto Lattuada",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Abismos",
+      "director": "Sam Wood",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 75,
+        "titleES": "Abismos",
+        "originalTitle": "Ivy",
+        "director": "Sam Wood",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Lo que fue de la Dolores",
+      "director": "Benito Perojo",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 225,
+        "titleES": "Lo que fue de la Dolores",
+        "originalTitle": "La copla de la Dolores",
+        "director": "Benito Perojo",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "La figlia del capitano",
+      "director": "Mario Camerini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "La gata",
+      "director": "Mario Soffici",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 206,
+        "titleES": "La gata",
+        "originalTitle": "La gata",
+        "director": "Mario Soffici",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Les amants du pont Saint Jean",
+      "director": "Henri Decoin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Les jeux sont faits",
+      "director": "Jean Delannoy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Los malditos",
+      "director": "René Clément",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 87,
+        "titleES": "Los malditos",
+        "originalTitle": "Les Maudits",
+        "director": "René Clément",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Marouf savetier du Caire",
+      "director": "Jean Mauran",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Mine own executioner",
+      "director": "Anthony Kimmins",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Paris 1900",
+      "director": "Nicole Vedres",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Amor que mata",
+      "director": "Curtis Bernhardt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 43,
+        "titleES": "Amor que mata",
+        "originalTitle": "Possessed",
+        "director": "Curtis Bernhardt",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Skeep till India Land",
+      "director": "Ingmar Bergman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Sperduti nel buio",
+      "director": "Camillo Mastrocinque",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Tanitono",
+      "director": "Márton Keleti",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Acosados",
+      "director": "Arthur Ripley",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 126,
+        "titleES": "Acosados",
+        "originalTitle": "The Chase",
+        "director": "Arthur Ripley",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "The Jolson Story",
+      "director": "Alfred E. Green",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 146,
+        "titleES": "The Jolson Story",
+        "originalTitle": "The Jolson Story",
+        "director": "Alfred E. Green",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "El extraño amor de Martha Ivers",
+      "director": "Lewis Milestone",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "El extraño amor de Martha Ivers",
+        "originalTitle": "The Strange Love of Martha Ivers",
+        "director": "Lewis Milestone",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Tva kvinnor",
+      "director": "Arnold Sjostrand",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Competición oficial · largometrajes",
+      "title": "Ziegfeld Follies",
+      "director": "Vincente Minnelli",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Cannes",
+      "section": "Cortometrajes premiados",
+      "title": "Inondations en Pologne",
+      "director": "Jerzy Bossak, Wacław Kaźmierczak",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Los mejores años de nuestra vida",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "Los mejores años de nuestra vida",
+        "originalTitle": "The Best Years of Our Lives",
+        "director": "William Wyler",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Henry V",
+      "director": "Laurence Olivier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "The Jolson Story",
+      "director": "Alfred E. Green",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 146,
+        "titleES": "The Jolson Story",
+        "originalTitle": "The Jolson Story",
+        "director": "Alfred E. Green",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "El despertar",
+      "director": "Clarence Brown",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 35,
+        "titleES": "El despertar",
+        "originalTitle": "The Yearling",
+        "director": "Clarence Brown",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "¡Qué bello es vivir!",
+      "director": "Frank Capra",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "¡Qué bello es vivir!",
+        "originalTitle": "It's a Wonderful Life",
+        "director": "Frank Capra",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Los verdes años",
+      "director": "Victor Saville",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 99,
+        "titleES": "Los verdes años",
+        "originalTitle": null,
+        "director": "Victor Saville",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Encadenados",
+      "director": "Alfred Hitchcock",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 5,
+        "titleES": "Encadenados",
+        "originalTitle": "Notorious",
+        "director": "Alfred Hitchcock",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "El filo de la navaja",
+      "director": "Edmund Goulding",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 23,
+        "titleES": "El filo de la navaja",
+        "originalTitle": "The Razor's Edge",
+        "director": "Edmund Goulding",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Vida íntima de Julia Norris",
+      "director": "Mitchell Leisen",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 43,
+        "titleES": "Vida íntima de Julia Norris",
+        "originalTitle": "To Each His Own",
+        "director": "Mitchell Leisen",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Breve encuentro",
+      "director": "David Lean",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 5,
+        "titleES": "Breve encuentro",
+        "originalTitle": "Brief Encounter",
+        "director": "David Lean",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Duelo al sol",
+      "director": "King Vidor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Duelo al sol",
+        "originalTitle": "Duel in the Sun",
+        "director": "King Vidor",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Amor sublime",
+      "director": "Dudley Nichols",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 89,
+        "titleES": "Amor sublime",
+        "originalTitle": "Sister Kenny",
+        "director": "Dudley Nichols",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "La escalera de caracol",
+      "director": "Robert Siodmak",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 12,
+        "titleES": "La escalera de caracol",
+        "originalTitle": "The Spiral Staircase",
+        "director": "Robert Siodmak",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "La exótica",
+      "director": "Sam Wood",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 110,
+        "titleES": "La exótica",
+        "originalTitle": "Saratoga Trunk",
+        "director": "Sam Wood",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Ana y el rey de Siam",
+      "director": "John Cromwell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 47,
+        "titleES": "Ana y el rey de Siam",
+        "originalTitle": "Anna and the King of Siam",
+        "director": "John Cromwell",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "La bribona",
+      "director": "Mitchell Leisen",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 96,
+        "titleES": "La bribona",
+        "originalTitle": "Kitty",
+        "director": "Mitchell Leisen",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "César y Cleopatra",
+      "director": "Gabriel Pascal",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 39,
+        "titleES": "César y Cleopatra",
+        "originalTitle": "Caesar and Cleopatra",
+        "director": "Gabriel Pascal",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Forajidos",
+      "director": "Robert Siodmak",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "Forajidos",
+        "originalTitle": "The Killers",
+        "director": "Robert Siodmak",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Seeds of Destiny",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Atomic Power",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Life at the Zoo",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Paramount News Issue #37 (Twentieth Anniversary Issue! 1927.....1947)",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Traffic with the Devil",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "De amor también se muere",
+      "director": "Jean Negulesco",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 45,
+        "titleES": "De amor también se muere",
+        "originalTitle": "Humoresque",
+        "director": "Jean Negulesco",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Cielo azul",
+      "director": "Stuart Heisler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 178,
+        "titleES": "Cielo azul",
+        "originalTitle": "Blue Skies",
+        "director": "Stuart Heisler",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Sucedió en verano",
+      "director": "Otto Preminger",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 207,
+        "titleES": "Sucedió en verano",
+        "originalTitle": null,
+        "director": "Otto Preminger",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Las chicas de Harvey",
+      "director": "George Sidney",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 139,
+        "titleES": "Las chicas de Harvey",
+        "originalTitle": "The Harvey Girls",
+        "director": "George Sidney",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Noche y día",
+      "director": "Michael Curtiz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 50,
+        "titleES": "Noche y día",
+        "originalTitle": "Night and Day",
+        "director": "Michael Curtiz",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Las hermanas Dolly",
+      "director": "Irving Cummings",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 173,
+        "titleES": "Las hermanas Dolly",
+        "originalTitle": null,
+        "director": "Irving Cummings",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Tierra generosa",
+      "director": "Jacques Tourneur",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 34,
+        "titleES": "Tierra generosa",
+        "originalTitle": "Canyon Passage",
+        "director": "Jacques Tourneur",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Tom y Jerry: Un concierto gatuno",
+      "director": "William Hanna, Joseph Barbera",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "Tom y Jerry: Un concierto gatuno",
+        "originalTitle": "The Cat Concerto",
+        "director": "William Hanna, Joseph Barbera",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Chopin's Musical Moments",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "John Henry and the Inky Poo",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Squatter's Rights",
+      "director": "Jack Hannah",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 141,
+        "titleES": "Squatter's Rights",
+        "originalTitle": "Squatter's Rights",
+        "director": "Jack Hannah",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Walky Talky Hawky",
+      "director": "Robert McKimson",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 133,
+        "titleES": "Walky Talky Hawky",
+        "originalTitle": "Walky Talky Hawky",
+        "director": "Robert McKimson",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Facing Your Danger",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Dive-Hi Champs",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Golden Horses",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Smart as a Fox",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Sure Cures",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "A Boy and His Dog",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "College Queen",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Hiss and Yell",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "The Luckiest Guy in the World",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Un espíritu burlón",
+      "director": "David Lean",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 18,
+        "titleES": "Un espíritu burlón",
+        "originalTitle": "Blithe Spirit",
+        "director": "David Lean",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Una Vida Robada",
+      "director": "Curtis Bernhardt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 79,
+        "titleES": "Una Vida Robada",
+        "originalTitle": "A Stolen Life",
+        "director": "Curtis Bernhardt",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Vacation from Marriage",
+      "director": "Alexander Korda",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "A través del espejo",
+      "director": "Robert Siodmak",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 17,
+        "titleES": "A través del espejo",
+        "originalTitle": "The Dark Mirror",
+        "director": "Robert Siodmak",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "El extraño amor de Martha Ivers",
+      "director": "Lewis Milestone",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "El extraño amor de Martha Ivers",
+        "originalTitle": "The Strange Love of Martha Ivers",
+        "director": "Lewis Milestone",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "El extraño",
+      "director": "Orson Welles",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 11,
+        "titleES": "El extraño",
+        "originalTitle": "The Stranger",
+        "director": "Orson Welles",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "El séptimo velo",
+      "director": "Compton Bennett",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 78,
+        "titleES": "El séptimo velo",
+        "originalTitle": "The Seventh Veil",
+        "director": "Compton Bennett",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "La dalia azul",
+      "director": "George Marshall",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 28,
+        "titleES": "La dalia azul",
+        "originalTitle": "The Blue Dahlia",
+        "director": "George Marshall",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Children of Paradise",
+      "director": "Marcel Carné",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Ruta a Utopia",
+      "director": "Hal Walker",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 204,
+        "titleES": "Ruta a Utopia",
+        "originalTitle": "Road to Utopia",
+        "director": "Hal Walker",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición",
+      "title": "Open City",
+      "director": "Roberto Rossellini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición · especiales y honoríficos",
+      "title": "Los mejores años de nuestra vida",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "Los mejores años de nuestra vida",
+        "originalTitle": "The Best Years of Our Lives",
+        "director": "William Wyler",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 19.ª edición · especiales y honoríficos",
+      "title": "Henry V",
+      "director": "Laurence Olivier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Capkovy povidky",
+      "director": "Martin Fric",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Siréna",
+      "director": "Karel Steklý",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 173,
+        "titleES": "Siréna",
+        "originalTitle": "Siréna",
+        "director": "Karel Steklý",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Ditte Menneskebarn",
+      "director": "Bjarne Henning-Jensen",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Bethsabée",
+      "director": "Léonide Moguy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Farrebique",
+      "director": "Georges Rouquier",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 53,
+        "titleES": "Farrebique",
+        "originalTitle": "Farrebique ou les Quatre Saisons",
+        "director": "Georges Rouquier",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Le diable au corps",
+      "director": "Claude Autant-Lara",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Les frères Bouquinquant",
+      "director": "Louis Daquin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Monsieur Vincent",
+      "director": "Maurice Cloche",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 63,
+        "titleES": "Monsieur Vincent",
+        "originalTitle": "Monsieur Vincent",
+        "director": "Maurice Cloche",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "En legítima defensa",
+      "director": "Henri-Georges Clouzot",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 34,
+        "titleES": "En legítima defensa",
+        "originalTitle": "Quai des Orfèvres",
+        "director": "Henri Georges Clouzot",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El asesino está entre nosotros",
+      "director": "Wolfgang Staudte",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 93,
+        "titleES": "El asesino está entre nosotros",
+        "originalTitle": null,
+        "director": "Wolfgang Staudte",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Major Barbara",
+      "director": "David Lean; Harold French; Gabriel Pascal",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Larga es la noche",
+      "director": "Carol Reed",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "Larga es la noche",
+        "originalTitle": "Odd Man Out",
+        "director": "Carol Reed",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Brumas de tentación",
+      "director": "Lance Comfort",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 67,
+        "titleES": "Brumas de tentación",
+        "originalTitle": null,
+        "director": "Lance Comfort",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The Overlanders",
+      "director": "Harry Watt",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Me hicieron un fugitivo",
+      "director": "Alberto Cavalcanti",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 89,
+        "titleES": "Me hicieron un fugitivo",
+        "originalTitle": "They Made Me a Fugitive",
+        "director": "Alberto Cavalcanti",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Dr. Kotnis ki amar kahani",
+      "director": "Rajaram Vankudre Shantaram",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Caza trágica",
+      "director": "Giuseppe De Santis",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 57,
+        "titleES": "Caza trágica",
+        "originalTitle": null,
+        "director": "Giuseppe De Santis",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El delito de Giovanni Episcopo",
+      "director": "Alberto Lattuada",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 106,
+        "titleES": "El delito de Giovanni Episcopo",
+        "originalTitle": "Il delitto di Giovanni Episcopo",
+        "director": "Alberto Lattuada",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Noble gesta",
+      "director": "Luigi Zampa",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 64,
+        "titleES": "Noble gesta",
+        "originalTitle": "L'onorevole Angelina",
+        "director": "Luigi Zampa",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Uomini senza domani",
+      "director": "Gianni Vernuccio",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Crepúscolo",
+      "director": "Julio Bracho",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Enamorada",
+      "director": "Emilio Fernández",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 52,
+        "titleES": "Enamorada",
+        "originalTitle": "Enamorada",
+        "director": "Emilio Fernández",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La mujer de todos",
+      "director": "Julio Bracho",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La perla",
+      "director": "Emilio Fernández",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 61,
+        "titleES": "La perla",
+        "originalTitle": "La perla",
+        "director": "Emilio Fernández",
+        "year": 1947
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La selva de fuego",
+      "director": "Fernando de Fuentes",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Reina santa",
+      "director": "Rafael Gil",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Tortura",
+      "director": "Alf Sjöberg",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1944.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 51,
+        "titleES": "Tortura",
+        "originalTitle": "Hets",
+        "director": "Alf Sjöberg",
+        "year": 1944
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Iris och löjtnantshjärta",
+      "director": "Alf Sjöberg",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Pengar",
+      "director": "Nils Poppe",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Admiral Nakhimov",
+      "director": "Vsevolod Pudovkin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Glinka",
+      "director": "Lev Oskarovič Arnshtam",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Gallant Journey",
+      "director": "William A. Wellman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "It Happened on 5th Avenue",
+      "director": "Roy Del Ruth",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Que el cielo la juzgue",
+      "director": "John M. Stahl",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "Que el cielo la juzgue",
+        "originalTitle": "Leave Her to Heaven",
+        "director": "John M. Stahl",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Recuerda",
+      "director": "Alfred Hitchcock",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1945.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 2,
+        "titleES": "Recuerda",
+        "originalTitle": "Spellbound",
+        "director": "Alfred Hitchcock",
+        "year": 1945
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The Story of G.I. Joe",
+      "director": "William A. Wellman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El extraño",
+      "director": "Orson Welles",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 11,
+        "titleES": "El extraño",
+        "originalTitle": "The Stranger",
+        "director": "Orson Welles",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Mañana es vivir",
+      "director": "Irving Pichel",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1946.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 72,
+        "titleES": "Mañana es vivir",
+        "originalTitle": "Tomorrow Is Forever",
+        "director": "Irving Pichel",
+        "year": 1946
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Atom na rozcesti",
+      "director": "Cenek Duba",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Posviceni",
+      "director": "Jirí Trnka",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Bianchi pascoli",
+      "director": "Enrico Gras; Luciano Emmer",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Giotto e la Cappella degli Scrovegni",
+      "director": "Glauco Pellegrini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "La regata storica a Venezia",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Lalla, piccola Lalla",
+      "director": "Nino Pagot",
+      "ownership": "PENDING",
+      "reference": null
+    }
+  ]
+}
