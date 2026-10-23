@@ -1,0 +1,662 @@
+{
+  "scope": "Propiedad acreditada1932",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "El campeón",
+      "director": "King Vidor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 24,
+        "titleES": "El campeón",
+        "originalTitle": "The Champ",
+        "director": "King Vidor",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "El hombre y el monstruo",
+      "director": "Rouben Mamoulian",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "El hombre y el monstruo",
+        "originalTitle": "Dr. Jekyll and Mr. Hyde",
+        "director": "Rouben Mamoulian",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "The Guardsman",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "El pecado de Madelon Claudet",
+      "director": "Edgar Selwyn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 111,
+        "titleES": "El pecado de Madelon Claudet",
+        "originalTitle": "The Sin of Madelon Claudet",
+        "director": "Edgar Selwyn",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Emma",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Transatlantic",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Viva la libertad",
+      "director": "René Clair",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "Viva la libertad",
+        "originalTitle": "À nous la liberté",
+        "director": "René Clair",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "El doctor Arrowsmith",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "El doctor Arrowsmith",
+        "originalTitle": "Arrowsmith",
+        "director": "John Ford",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "El expreso de Shanghai",
+      "director": "Josef von Sternberg",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 12,
+        "titleES": "El expreso de Shanghai",
+        "originalTitle": "Shanghai Express",
+        "director": "Josef von Sternberg",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Bad Girl",
+      "director": "Frank Borzage",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 62,
+        "titleES": "Bad Girl",
+        "originalTitle": "Bad Girl",
+        "director": "Frank Borzage",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Gran Hotel",
+      "director": "Edmund Goulding",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "Gran Hotel",
+        "originalTitle": "Grand Hotel",
+        "director": "Edmund Goulding",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Sed de escándalo",
+      "director": "Mervyn LeRoy",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 29,
+        "titleES": "Sed de escándalo",
+        "originalTitle": "Five Star Final",
+        "director": "Mervyn LeRoy",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Una hora contigo",
+      "director": "Ernst Lubitsch",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 25,
+        "titleES": "Una hora contigo",
+        "originalTitle": "One Hour with You",
+        "director": "Ernst Lubitsch",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "El teniente seductor",
+      "director": "Ernst Lubitsch",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 41,
+        "titleES": "El teniente seductor",
+        "originalTitle": "The Smiling Lieutenant",
+        "director": "Ernst Lubitsch",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Flores y árboles",
+      "director": "Burt Gillett",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Flores y árboles",
+        "originalTitle": "Flowers and Trees",
+        "director": "Burt Gillett",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "It's Got Me Again",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Mickey Mouse: Los huérfanos de Mickey",
+      "director": "Burt Gillett",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 114,
+        "titleES": "Mickey Mouse: Los huérfanos de Mickey",
+        "originalTitle": "Mickey's Orphans",
+        "director": "Burt Gillett",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Haciendo de las suyas",
+      "director": "James Parrott",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 40,
+        "titleES": "Haciendo de las suyas",
+        "originalTitle": "The Music Box",
+        "director": "James Parrott",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "The Loud Mouth",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Scratch-As-Catch-Can",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Wrestling Swordfish",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Screen Souvenirs",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Swing High",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Lady and Gent",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "The Star Witness",
+      "director": "William A. Wellman",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 94,
+        "titleES": "The Star Witness",
+        "originalTitle": "The Star Witness",
+        "director": "William A. Wellman",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "title": "Hollywood al desnudo",
+      "director": "George Cukor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 94,
+        "titleES": "Hollywood al desnudo",
+        "originalTitle": "What Price Hollywood?",
+        "director": "George Cukor",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Au nom de la loi",
+      "director": "Maurice Tourneur",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Azaïs",
+      "director": "René Hervil",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Biały šład",
+      "director": "Adam Krzeptowski",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Bring' em back Alive",
+      "director": "Clyde E. Elliott",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Remordimiento",
+      "director": "Ernst Lubitsch",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 16,
+        "titleES": "Remordimiento",
+        "originalTitle": "Broken Lullaby",
+        "director": "Ernst Lubitsch",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "La luz azul",
+      "director": "Leni Riefenstahl",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 69,
+        "titleES": "La luz azul",
+        "originalTitle": "Das blaue Licht",
+        "director": "Leni Riefenstahl",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Das Lied einer Nacht",
+      "director": "Anatole Litvak",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "David Golder",
+      "director": "Julien Duvivier",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 49,
+        "titleES": "David Golder",
+        "originalTitle": "David Golder",
+        "director": "Julien Duvivier",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "El congreso se divierte",
+      "director": "Erik Charell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 78,
+        "titleES": "El congreso se divierte",
+        "originalTitle": "Der Kongress tanzt",
+        "director": "Erik Charell",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "El hombre y el monstruo",
+      "director": "Rouben Mamoulian",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "El hombre y el monstruo",
+        "originalTitle": "Dr. Jekyll and Mr. Hyde",
+        "director": "Rouben Mamoulian",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Amor prohibido",
+      "director": "Frank Capra",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 53,
+        "titleES": "Amor prohibido",
+        "originalTitle": "Forbidden",
+        "director": "Frank Capra",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "El doctor Frankenstein",
+      "director": "James Whale",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "El doctor Frankenstein",
+        "originalTitle": "Frankenstein",
+        "director": "James Whale",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "¡Qué sinvergüenzas son los hombres!",
+      "director": "Mario Camerini",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 52,
+        "titleES": "¡Qué sinvergüenzas son los hombres!",
+        "originalTitle": "Gli uomini, che mascalzoni...",
+        "director": "Mario Camerini",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Gran Hotel",
+      "director": "Edmund Goulding",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "Gran Hotel",
+        "originalTitle": "Grand Hotel",
+        "director": "Edmund Goulding",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Hôtel des étudiants",
+      "director": "Viktor Tourjansky",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Muchachas de uniforme",
+      "director": "Leontine Sagan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Putyovka v zhizn",
+      "director": "Nikolai Ekk",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Strange Interlude",
+      "director": "Robert Z. Leonard",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "El campeón",
+      "director": "King Vidor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 24,
+        "titleES": "El campeón",
+        "originalTitle": "The Champ",
+        "director": "King Vidor",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Avidez de tragedia",
+      "director": "Howard Hawks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1932.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 83,
+        "titleES": "Avidez de tragedia",
+        "originalTitle": "The Crowd Roars",
+        "director": "Howard Hawks",
+        "year": 1932
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Que pague el diablo",
+      "director": "George Fitzmaurice",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1930.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 61,
+        "titleES": "Que pague el diablo",
+        "originalTitle": "The Devil to Pay!",
+        "director": "George Fitzmaurice",
+        "year": 1930
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "The faithful Heart",
+      "director": "Victor Saville",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "El pecado de Madelon Claudet",
+      "director": "Edgar Selwyn",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 111,
+        "titleES": "El pecado de Madelon Claudet",
+        "originalTitle": "The Sin of Madelon Claudet",
+        "director": "Edgar Selwyn",
+        "year": 1931
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Tikhiy Don",
+      "director": "Ivan Pravov; Olga Preobrazhenskaya",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Zwei Menschen",
+      "director": "Erich Waschneck",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "title": "Viva la libertad",
+      "director": "René Clair",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1931.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "Viva la libertad",
+        "originalTitle": "À nous la liberté",
+        "director": "René Clair",
+        "year": 1931
+      }
+    }
+  ]
+}

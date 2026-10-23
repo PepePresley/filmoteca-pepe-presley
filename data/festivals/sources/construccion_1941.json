@@ -33,7 +33,8 @@
     "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
     "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
-    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
   ],
   "sources": [
     {
@@ -134,39 +135,7 @@
       "source": "https://www.oscars.org/oscars/ceremonies/embed/1941"
     }
   ],
-  "sharedCandidacies": [
-    {
-      "id": "Oscar|1941|Premios Oscar · 13.ª edición|Banda sonora|Victor Young",
-      "category": "Banda sonora",
-      "person": "Victor Young",
-      "winner": false,
-      "films": [
-        "Policía montada del Canadá",
-        "Tucson, Arizona",
-        "The Dark Command"
-      ]
-    },
-    {
-      "id": "Oscar|1941|Premios Oscar · 13.ª edición|Outstanding Production|Warner Bros.",
-      "category": "Outstanding Production",
-      "person": "Warner Bros.",
-      "winner": false,
-      "films": [
-        "La Carta",
-        "El cielo y tú"
-      ]
-    },
-    {
-      "id": "Oscar|1941|Premios Oscar · 13.ª edición|Banda sonora|Richard Hageman",
-      "category": "Banda sonora",
-      "person": "Richard Hageman",
-      "winner": false,
-      "films": [
-        "Hombres intrépidos",
-        "Pasión de libertad"
-      ]
-    }
-  ],
+  "sharedCandidacies": [],
   "unresolvedMasterMatches": [],
   "unpublishedEvidence": [],
   "veniceSupplement": {

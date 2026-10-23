@@ -1,0 +1,74 @@
+{
+  "year": 1933,
+  "status": "SIN_EDICIONES_CELEBRADAS_EN_EL_ALCANCE",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1933_para_Sol.zip",
+    "sha256": "45603ae3d102221a7f25b61bc7c6feeffc390b09fbd9e9fb584a33f00c80b1c1"
+  },
+  "counts": [],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "family": "Oscar Art Direction cross-check",
+      "url": "https://awardsdatabase.oscars.org/search/getresults?query=%7B%22Sort%22%3A%223-Award%20Category-Chron%22%2C%22AwardCategory%22%3A%5B%227%22%5D%2C%22AwardShowNumberFrom%22%3A0%2C%22AwardShowNumberTo%22%3A0%2C%22Search%22%3A30%7D",
+      "evidenceFile": "extracciones/oscar_1933_art_direction_crosscheck.txt",
+      "sourceType": "base oficial Academy Awards Database"
+    },
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history/beginnings-until-second-world-war",
+      "evidenceFile": "extracciones/venecia_1933_estado.txt",
+      "sourceType": "cronología oficial de La Biennale di Venezia"
+    },
+    {
+      "family": "Venecia archive",
+      "url": "https://www.labiennale.org/en/cinema/2018/archive",
+      "evidenceFile": "extracciones/venecia_1933_estado.txt",
+      "sourceType": "archivo oficial de la Mostra di Venezia"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Venecia 1933",
+      "status": "no celebrado",
+      "coverage": "Cronología oficial: segunda edición en 1934; 1933 no tuvo Mostra cinematográfica.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "IDs y títulos FA no cotejados; directores de las películas Oscar no cotejados.",
+      "missing": [
+        "Cotejo de FilmAffinity/directores pendiente."
+      ]
+    },
+    {
+      "block": "Oscar 1933",
+      "status": "no celebrado",
+      "coverage": "No hubo ceremonia en 1933; la quinta se celebró el 18-11-1932 y consta en el paquete 1932.",
+      "missing": []
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Oscar 1933",
+      "question": "El archivo oficial de ceremonia lista Sound Recording por estudio y no da película asociada; se conserva como categoría institucional separada. La candidatura Lazare Meerson por À Nous la Liberté se cotejó en la base oficial Academy Awards Database."
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "IDs, títulos FilmAffinity y directores de las películas Oscar no se cotejaron."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

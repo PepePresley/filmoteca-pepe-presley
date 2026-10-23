@@ -27,7 +27,8 @@
     "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
     "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
-    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
   ],
   "sources": [
     {
@@ -122,60 +123,7 @@
     }
   ],
   "packageDoubts": [],
-  "sharedCandidacies": [
-    {
-      "id": "Oscar|1940|Premios Oscar · 12.ª edición|Outstanding Production|Metro-Goldwyn-Mayer",
-      "category": "Outstanding Production",
-      "person": "Metro-Goldwyn-Mayer",
-      "winner": false,
-      "films": [
-        "Adiós, Mr. Chips",
-        "El mago de Oz",
-        "Ninotchka"
-      ]
-    },
-    {
-      "id": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Max Steiner",
-      "category": "Banda sonora",
-      "person": "Max Steiner",
-      "winner": false,
-      "films": [
-        "Lo que el viento se llevó",
-        "Amarga victoria"
-      ]
-    },
-    {
-      "id": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Alfred Newman",
-      "category": "Banda sonora",
-      "person": "Alfred Newman",
-      "winner": false,
-      "films": [
-        "Cumbres borrascosas",
-        "Vinieron las lluvias"
-      ]
-    },
-    {
-      "id": "Oscar|1940|Premios Oscar · 12.ª edición|Banda sonora|Victor Young",
-      "category": "Banda sonora",
-      "person": "Victor Young",
-      "winner": false,
-      "films": [
-        "Man of Conquest",
-        "Sueño dorado",
-        "Los viajes de Gulliver"
-      ]
-    },
-    {
-      "id": "Oscar|1940|Premios Oscar · 12.ª edición|Music (Scoring)|Alfred Newman",
-      "category": "Music (Scoring)",
-      "person": "Alfred Newman",
-      "winner": false,
-      "films": [
-        "Esmeralda la Zíngara",
-        "Rapsodia de juventud"
-      ]
-    }
-  ],
+  "sharedCandidacies": [],
   "unresolvedMasterMatches": [],
   "unpublishedEvidence": [],
   "veniceSupplement": {

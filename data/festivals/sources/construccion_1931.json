@@ -1,0 +1,62 @@
+{
+  "year": 1931,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1931_para_Sol.zip",
+    "sha256": "8b292dac1825246200c260d0fb40b64e7262c62ce694136cb28503d8ed0730a8"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 4.ª edición",
+      "films": 22,
+      "declaredOwned": 13
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+      "evidenceFile": "extracciones/oscar_1931_transcripcion.json",
+      "sourceType": "archivo oficial Academy of Motion Picture Arts and Sciences; transcripción estructurada conservada",
+      "ceremonyNumber": 4,
+      "ceremonyDate": "1931-11-10",
+      "archiveLabel": 1932
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "No se cotejaron IDs/títulos FA ni directores en esta pasada.",
+      "missing": [
+        "IDs/títulos FilmAffinity y directores pendientes de cotejo."
+      ]
+    },
+    {
+      "block": "Oscar 4.ª ceremonia — celebrada 1931-11-10",
+      "status": "complete",
+      "coverage": "22 películas agrupadas; 40 candidaturas; fuente oficial, archivo rotulado 1932.",
+      "missing": []
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "FilmAffinity",
+      "question": "IDs, títulos FilmAffinity y directores no se cotejaron."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

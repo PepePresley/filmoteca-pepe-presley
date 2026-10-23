@@ -1,0 +1,1302 @@
+{
+  "scope": "Propiedad acreditada1936",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "El delator",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "El delator",
+        "originalTitle": "The Informer",
+        "director": "John Ford",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "La tragedia de la Bounty",
+      "director": "Frank Lloyd",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "La tragedia de la Bounty",
+        "originalTitle": "Mutiny on the Bounty",
+        "director": "Frank Lloyd",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Infierno negro",
+      "director": "Michael Curtiz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 100,
+        "titleES": "Infierno negro",
+        "originalTitle": "Black Fury",
+        "director": "Michael Curtiz",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Peligrosa",
+      "director": "Alfred E. Green",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 61,
+        "titleES": "Peligrosa",
+        "originalTitle": "Dangerous",
+        "director": "Alfred E. Green",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Escape Me Never",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Mundos privados",
+      "director": "Gregory La Cava",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 76,
+        "titleES": "Mundos privados",
+        "originalTitle": "Private Worlds",
+        "director": "Gregory La Cava",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Sueños de juventud",
+      "director": "George Stevens",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "Sueños de juventud",
+        "originalTitle": "Alice Adams",
+        "director": "George Stevens",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "La feria de la vanidad",
+      "director": "Rouben Mamoulian",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 147,
+        "titleES": "La feria de la vanidad",
+        "originalTitle": "Becky Sharp",
+        "director": "Rouben Mamoulian",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "The Dark Angel",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Tres lanceros bengalíes",
+      "director": "Henry Hathaway",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 14,
+        "titleES": "Tres lanceros bengalíes",
+        "originalTitle": "The Lives of a Bengal Lancer",
+        "director": "Henry Hathaway",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Sombrero de copa",
+      "director": "Mark Sandrich",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 6,
+        "titleES": "Sombrero de copa",
+        "originalTitle": "Top Hat",
+        "director": "Mark Sandrich",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "David Copperfield",
+      "director": "George Cukor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 18,
+        "titleES": "David Copperfield",
+        "originalTitle": "The Personal History, Adventures, Experience, & Observation of David Copperfield the Younger",
+        "director": "George Cukor",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Los miserables",
+      "director": "Richard Boleslawski",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 39,
+        "titleES": "Los miserables",
+        "originalTitle": "Les Misérables",
+        "director": "Richard Boleslawski",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "El sueño de una noche de verano",
+      "director": "William Dieterle, Max Reinhardt",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 99,
+        "titleES": "El sueño de una noche de verano",
+        "originalTitle": "A Midsummer Night's Dream",
+        "director": "William Dieterle, Max Reinhardt",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "La ciudad sin ley",
+      "director": "Howard Hawks",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 25,
+        "titleES": "La ciudad sin ley",
+        "originalTitle": "Barbary Coast",
+        "director": "Howard Hawks",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Las Cruzadas",
+      "director": "Cecil B. DeMille",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 60,
+        "titleES": "Las Cruzadas",
+        "originalTitle": "The Crusades",
+        "director": "Cecil B. DeMille",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Melodías de Broadway 1936",
+      "director": "Roy Del Ruth",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 75,
+        "titleES": "Melodías de Broadway 1936",
+        "originalTitle": "Broadway Melody of 1936",
+        "director": "Roy Del Ruth",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Folies Bergere",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Vampiresas de 1935",
+      "director": "Busby Berkeley",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 107,
+        "titleES": "Vampiresas de 1935",
+        "originalTitle": "Gold Diggers of 1935",
+        "director": "Busby Berkeley",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Go into Your Dance",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Broadway Hostess",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "King of Burlesque",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Big Broadcast of 1936",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "All the King’s Horses",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "She, la diosa del fuego",
+      "director": "Irving Pichel, Lansing C. Holden",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 116,
+        "titleES": "She, la diosa del fuego",
+        "originalTitle": "She",
+        "director": "Irving Pichel, Lansing C. Holden",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "El capitán Blood",
+      "director": "Michael Curtiz",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 5,
+        "titleES": "El capitán Blood",
+        "originalTitle": "Captain Blood",
+        "director": "Michael Curtiz",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Sueño de amor eterno",
+      "director": "Henry Hathaway",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 23,
+        "titleES": "Sueño de amor eterno",
+        "originalTitle": "Peter Ibbetson",
+        "director": "Henry Hathaway",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Roberta",
+      "director": "William A. Seiter",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 105,
+        "titleES": "Roberta",
+        "originalTitle": "Roberta",
+        "director": "William A. Seiter",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Marietta, la traviesa",
+      "director": "W.S. Van Dyke",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 153,
+        "titleES": "Marietta, la traviesa",
+        "originalTitle": "Naughty Marietta",
+        "director": "W.S. Van Dyke",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Nobleza obliga",
+      "director": "Leo McCarey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 52,
+        "titleES": "Nobleza obliga",
+        "originalTitle": "Ruggles of Red Gap",
+        "director": "Leo McCarey",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Los tres huerfanitos",
+      "director": "David Hand",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "Los tres huerfanitos",
+        "originalTitle": "Three Orphan Kittens",
+        "director": "David Hand",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "The Calico Dragon",
+      "director": "Rudolf Ising",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 155,
+        "titleES": "The Calico Dragon",
+        "originalTitle": "The Calico Dragon",
+        "director": "Rudolf Ising",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "¿Quién mató al jilguero Robin?",
+      "director": "David Hand",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 109,
+        "titleES": "¿Quién mató al jilguero Robin?",
+        "originalTitle": "Who Killed Cock Robin?",
+        "director": "David Hand",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "How to Sleep",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Oh, My Nerves",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Ojo por Ojo",
+      "director": "Charley Rogers",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 77,
+        "titleES": "Ojo por Ojo",
+        "originalTitle": "Tit for Tat",
+        "director": "Charley Rogers",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Wings over Mt. Everest",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Audioscopiks",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Camera Thrills",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "La novia de Frankenstein",
+      "director": "James Whale",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "La novia de Frankenstein",
+        "originalTitle": "Bride of Frankenstein",
+        "director": "James Whale",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "I Dream Too Much",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Love Me Forever",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "$1,000 a Minute",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Thanks a Million",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "El jardín de Alá",
+      "director": "Richard Boleslawski",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 158,
+        "titleES": "El jardín de Alá",
+        "originalTitle": "The Garden of Allah",
+        "director": "Richard Boleslawski",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "The Scoundrel",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "Contra el imperio del crimen",
+      "director": "William Keighley",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 28,
+        "titleES": "Contra el imperio del crimen",
+        "originalTitle": "'G' Men",
+        "director": "William Keighley",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "title": "La alegre mentira",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 68,
+        "titleES": "La alegre mentira",
+        "originalTitle": "The Gay Deception",
+        "director": "William Wyler",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Budapest, città dei bagni",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Die Kamera fahrt mit...",
+      "director": "Hans Schipulle",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Ein Meer versinkt",
+      "director": "Anton Kutter",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Le coin des enfants",
+      "director": "Emile Vuillermoz; Marcel L'Herbier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Metall des Himmels",
+      "director": "Walter Ruttmann",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Metropolitan Nocturne",
+      "director": "Leigh Jason",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Polesie",
+      "director": "Jerzy Maliniak; Maksymilian Emmer",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Pompei",
+      "director": "Giorgio Ferroni",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Symphonie de l'eau",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "The Mine",
+      "director": "J.B. Holmes",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Los tres huerfanitos",
+      "director": "David Hand",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "Los tres huerfanitos",
+        "originalTitle": "Three Orphan Kittens",
+        "director": "David Hand",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Uno sguardo al fondo marino",
+      "director": "Roberto Omegna",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "A Woman alone",
+      "director": "Eugene Franke",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Amar jyoti",
+      "director": "Rajaram Vankudre Shantaram",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Anne-Marie",
+      "director": "Raymond Bernard",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Ave Maria",
+      "director": "Johannes Riemann",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Az uj földesur",
+      "director": "Béla Gaál",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Ballerine",
+      "director": "Gustav Machatý",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Cavalleria",
+      "director": "Goffredo Alessandrini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Der Bettelstudent",
+      "director": "Georg Jacoby",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El emperador de California",
+      "director": "Luis Trenker",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 68,
+        "titleES": "El emperador de California",
+        "originalTitle": null,
+        "director": "Luis Trenker",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Il cammino degli eroi",
+      "director": "Corrado D'Errico",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Im sonnenschein",
+      "director": "Carmine Gallone",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Jonge harten",
+      "director": "Heinz Josephson; Charles Huguenot van der Linden",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Jánošík",
+      "director": "Martin Fric",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "L'appel du silence",
+      "director": "Léon Poirier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La damigella di Bard",
+      "director": "Mario Mattoli",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La kermesse heroica",
+      "director": "Jacques Feyder",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "La kermesse heroica",
+        "originalTitle": "La Kermesse héroïque",
+        "director": "Jacques Feyder",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La tierna enemiga",
+      "director": "Max Ophüls",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 95,
+        "titleES": "La tierna enemiga",
+        "originalTitle": "La Tendre Ennemie",
+        "director": "Max Ophüls",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Memorias de un tramposo",
+      "director": "Sacha Guitry",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 38,
+        "titleES": "Memorias de un tramposo",
+        "originalTitle": "Le Roman d'un tricheur",
+        "director": "Sacha Guitry",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Lo squadrone bianco",
+      "director": "Augusto Genina",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 111,
+        "titleES": "Lo squadrone bianco",
+        "originalTitle": "Lo squadrone bianco",
+        "director": "Augusto Genina",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Manja Walewska",
+      "director": "Josef Rovenský",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Mariša",
+      "director": "Josef Rovenský",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "María Estuardo",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 15,
+        "titleES": "María Estuardo",
+        "originalTitle": "Mary of Scotland",
+        "director": "John Ford",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Sueños de príncipe",
+      "director": "Anatole Litvak",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 63,
+        "titleES": "Sueños de príncipe",
+        "originalTitle": "Mayerling",
+        "director": "Anatole Litvak",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Morena clara",
+      "director": "Florián Rey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 82,
+        "titleES": "Morena clara",
+        "originalTitle": "Morena clara",
+        "director": "Florián Rey",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El secreto de vivir",
+      "director": "Frank Capra",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 4,
+        "titleES": "El secreto de vivir",
+        "originalTitle": "Mr. Deeds Goes to Town",
+        "director": "Frank Capra",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Pacsirta",
+      "director": "Karl Lamač",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Rubber",
+      "director": "Johan de Meester; Gerard Rutten",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "San Francisco",
+      "director": "W.S. Van Dyke",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 14,
+        "titleES": "San Francisco",
+        "originalTitle": "San Francisco",
+        "director": "W.S. Van Dyke",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Schatten der Vergangenheit",
+      "director": "Werner Hochbaum",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La novena sinfonía",
+      "director": "Douglas Sirk",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 71,
+        "titleES": "La novena sinfonía",
+        "originalTitle": "Schlußakkord",
+        "director": "Douglas Sirk",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Scrooge",
+      "director": "Henry Edwards",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1935.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 154,
+        "titleES": "Scrooge",
+        "originalTitle": "Scrooge",
+        "director": "Henry Edwards",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Magnolia",
+      "director": "James Whale",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 61,
+        "titleES": "Magnolia",
+        "originalTitle": "Show Boat",
+        "director": "James Whale",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Silhouetten",
+      "director": "Walter Resich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Singende Jugend",
+      "director": "Max Neufeld",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The beloved Vagabond",
+      "director": "Curtis Bernhardt",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The Cardinal",
+      "director": "Sinclair Hill",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El fantasma va al oeste",
+      "director": "René Clair",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 76,
+        "titleES": "El fantasma va al oeste",
+        "originalTitle": "The Ghost Goes West",
+        "director": "René Clair",
+        "year": 1935
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El gran Ziegfeld",
+      "director": "Robert Z. Leonard",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 24,
+        "titleES": "El gran Ziegfeld",
+        "originalTitle": "The Great Ziegfeld",
+        "director": "Robert Z. Leonard",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La princesa encantadora",
+      "director": "Josef von Sternberg",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 189,
+        "titleES": "La princesa encantadora",
+        "originalTitle": null,
+        "director": "Josef von Sternberg",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El hombre que podía hacer milagros",
+      "director": "Lothar Mendes",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 77,
+        "titleES": "El hombre que podía hacer milagros",
+        "originalTitle": "The Man Who Could Work Miracles",
+        "director": "Lothar Mendes",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The Robber Symphony",
+      "director": "Friedrich Feher",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La tragedia de Louis Pasteur",
+      "director": "William Dieterle",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 53,
+        "titleES": "La tragedia de Louis Pasteur",
+        "originalTitle": "The Story of Louis Pasteur",
+        "director": "William Dieterle",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El camino del pino solitario",
+      "director": "Henry Hathaway",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 35,
+        "titleES": "El camino del pino solitario",
+        "originalTitle": "The Trail of the Lonesome Pine",
+        "director": "Henry Hathaway",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The white Angel",
+      "director": "William Dieterle",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Traumulus",
+      "director": "Carl Froelich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Tredici uomini e un cannone",
+      "director": "Giovacchino Forzano",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Tudor Rose",
+      "director": "Robert Stevenson",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Veille d'armes",
+      "director": "Marcel L'Herbier",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Verräter",
+      "director": "Karl Ritter",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Whom the Gods Love",
+      "director": "Basil Dean",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Widád",
+      "director": "Fritz Kramp",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Én voltam!",
+      "director": "Arthur Bárdos",
+      "ownership": "PENDING",
+      "reference": null
+    }
+  ]
+}

@@ -10,7 +10,7 @@
     1978,
     1977
   ],
-  "status": "1940_1949_INTEGRADOS_CON_BLOQUES_PENDIENTES",
+  "status": "1929_1939_INTEGRADOS_CON_BLOQUES_PENDIENTES",
   "counts": {
     "editions": 8,
     "appearances": 157,
@@ -38,7 +38,8 @@
     "22/10/2026: suplemento de Berlín1972 y diez programas anuales de Venecia con evidencia ASAC; otros festivales y años preservados. Se mantienen los años parciales, sin equiparar programas principales y archivo exhaustivo.",
     "22/10/2026: integrados1964–1960 en bloque; propiedad acreditada y límites de cobertura explícitos; no añadidos a completedYears.",
     "23/10/2026: integrados1959–1950; propiedad acreditada, correcciones revisadas y cobertura parcial explícita. No se añaden a completedYears.",
-    "23/10/2026: integrado1949–1940 con cruce de propiedad y pendientes explícitos; no añadido a completedYears."
+    "23/10/2026: integrado1949–1940 con cruce de propiedad y pendientes explícitos; no añadido a completedYears.",
+    "23/10/2026: integrado1939–1929 con cruce de propiedad y pendientes explícitos; no añadido a completedYears."
   ],
   "partialYears": [
     1981,
@@ -78,9 +79,19 @@
     1943,
     1942,
     1941,
-    1940
+    1940,
+    1939,
+    1938,
+    1937,
+    1936,
+    1935,
+    1934,
+    1932,
+    1931,
+    1930,
+    1929
   ],
-  "nextStep": "Bloque1949–1940 integrado con pendientes explícitos; continuar1939–1929 según autorización vigente.",
+  "nextStep": "Bloque1939–1929 integrado con pendientes explícitos; no iniciar1928 sin nueva instrucción.",
   "partialBlockCounts": {
     "editions": 40,
     "appearances": 493,
@@ -97,5 +108,8 @@
     "scope": "Solo las dos ediciones; no cierra las selecciones parciales de otros festivales de 1980."
   },
   "completedYearsMeaning": "Familias principales construidas por método práctico; no certifica exhaustividad de todos los programas ni auditoría histórica individual.",
-  "lastIntegratedYear": 1940
+  "lastIntegratedYear": 1929,
+  "noEditionYears": [
+    1933
+  ]
 }

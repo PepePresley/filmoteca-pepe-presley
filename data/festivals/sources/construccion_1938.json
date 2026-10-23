@@ -1,0 +1,170 @@
+{
+  "year": 1938,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1938_para_Sol.zip",
+    "sha256": "d52ebf4a1d3df516d392437f630d6c8c7bb0fda475460dfef363075b304520f9"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "films": 48,
+      "declaredOwned": 22
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 14,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 53,
+      "declaredOwned": 12
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+  ],
+  "sources": [
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1938",
+      "evidenceFile": "extracciones/oscar_1938_transcripcion.json",
+      "sourceType": "official Academy ceremony archive",
+      "note": "10th ceremony, honors films released in 1937."
+    },
+    {
+      "family": "Cannes",
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "evidenceFile": "extracciones/cannes_1938_extracto_oficial.txt",
+      "sourceType": "official Cannes history",
+      "note": "No Cannes festival in 1938; initiative followed the 1938 Venice affair and official creation in 1939."
+    },
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venecia_1938_extracto_oficial.txt",
+      "sourceType": "official Biennale history",
+      "note": "Confirmed awards only; partial coverage."
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1938",
+      "status": "complete",
+      "coverage": "10.ª ceremonia, 1937 films; nominaciones de categorías cinematográficas y ganadores, con Thalberg separado como premio personal.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1938",
+      "status": "no celebrado / aún no fundado",
+      "coverage": "No se genera selección.",
+      "missing": []
+    },
+    {
+      "block": "Venecia 1938",
+      "status": "partial",
+      "coverage": "Premios confirmados de la fuente oficial; selección no reconstruida.",
+      "missing": [
+        "Selección oficial completa y otras categorías de premios no verificadas."
+      ]
+    },
+    {
+      "block": "Berlín 1938",
+      "status": "no celebrado",
+      "coverage": "Estado histórico reutilizado; sin nueva investigación.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1938",
+      "status": "no celebrado",
+      "coverage": "Estado histórico reutilizado; sin nueva investigación.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1938",
+      "status": "no celebrado",
+      "coverage": "Estado histórico reutilizado; sin nueva investigación.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "Títulos tal como constan en la fuente oficial; identidad FA no cotejada en bloque.",
+      "missing": [
+        "IDs y títulos registrados FA pendientes; directores de fichas Oscar no añadidos."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Venecia 1938",
+      "question": "La historia oficial confirma cuatro premios/personas asociadas a películas, pero no reconstruye la selección completa ni todas las categorías del palmarés."
+    },
+    {
+      "block": "Oscar 1938",
+      "question": "La categoría Dance Direction se conserva con el número de baile asociado a cada película, ya que la transcripción oficial consultada no identifica coreógrafos personales."
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "Pendiente cotejo en bloque de títulos e IDs FA y directores de las películas Oscar."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": [
+    {
+      "file": "1938/premios_pendientes_clasificacion_1938.json",
+      "reason": "Evidencia conservada; premios personales o identidad/tipología pendiente.",
+      "data": {
+        "festival": "Venecia",
+        "year": 1938,
+        "awards": [
+          {
+            "asacId": 370691,
+            "title": "The Film of the Year",
+            "type": null,
+            "director": null,
+            "awards": [
+              {
+                "category": "Targa per il miglior cinegiornale di attualità",
+                "person": null,
+                "winner": true,
+                "source": "https://asac.labiennale.org/attivita/cinema/370691"
+              }
+            ]
+          }
+        ],
+        "coverage": "Premios asociados por ASAC a obras cuya tipología no es Lungometraggio o Cortometraggio; se conservan fuera de la selección importable hasta aclarar la clase."
+      }
+    }
+  ],
+  "veniceSupplement": {
+    "name": "Venecia_1932_1942_complemento_para_Sol.zip",
+    "sha256": "1e7acf8681600b39033c556e78b921fe563af4e7ff9fa510442741748b3a55b9",
+    "coverage": {
+      "year": 1938,
+      "event": "6. Esposizione Internazionale d'Arte Cinematografica",
+      "status": "partial",
+      "longFilms": 53,
+      "shortAwardWinners": 14,
+      "featureCompetitionVsOutOfCompetition": "partial; 37 positive IMDb Mussolini Cup category matches; 16 not individually classified; no unsupported fuori-concorso labels",
+      "personalAwardsNoFilm": 0,
+      "unclassifiedTypeCount": 5,
+      "pendingAwardTypeCount": 1,
+      "competitiveCategoryEvidence": 37,
+      "competitionStatusUnknown": 16
+    }
+  }
+}

@@ -21,7 +21,8 @@
     "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
     "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
-    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
   ],
   "sources": [
     {
@@ -96,80 +97,7 @@
     }
   ],
   "packageDoubts": [],
-  "sharedCandidacies": [
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Outstanding Motion Picture|Warner Bros.",
-      "category": "Outstanding Motion Picture",
-      "person": "Warner Bros.",
-      "winner": false,
-      "films": [
-        "Yanqui Dandy",
-        "Abismo de pasión"
-      ]
-    },
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Victor Young",
-      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
-      "person": "Victor Young",
-      "winner": false,
-      "films": [
-        "Silver Queen",
-        "Ella y su secretario",
-        "Los tigres voladores"
-      ]
-    },
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|Walt Disney, Producer",
-      "category": "Documentary",
-      "person": "Walt Disney, Producer",
-      "winner": false,
-      "films": [
-        "The Grain That Built a Hemisphere",
-        "The New Spirit"
-      ]
-    },
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|National Film Board of Canada",
-      "category": "Documentary",
-      "person": "National Film Board of Canada",
-      "winner": false,
-      "films": [
-        "High over the Borders",
-        "Inside Fighting China"
-      ]
-    },
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|United States Office of War Information",
-      "category": "Documentary",
-      "person": "United States Office of War Information",
-      "winner": false,
-      "films": [
-        "It's Everybody's War",
-        "Mr. Blabbermouth!",
-        "Mr. Gardenia Jones"
-      ]
-    },
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Documentary|British Ministry of Information",
-      "category": "Documentary",
-      "person": "British Ministry of Information",
-      "winner": false,
-      "films": [
-        "Listen to Britain",
-        "Twenty-One Miles"
-      ]
-    },
-    {
-      "id": "Oscar|1943|Premios Oscar · 15.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Roy Webb",
-      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
-      "person": "Roy Webb",
-      "winner": false,
-      "films": [
-        "Me casé con una bruja",
-        "Juana de París"
-      ]
-    }
-  ],
+  "sharedCandidacies": [],
   "unresolvedMasterMatches": [],
   "unpublishedEvidence": []
 }
