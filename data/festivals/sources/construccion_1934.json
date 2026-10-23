@@ -1,0 +1,135 @@
+{
+  "year": 1934,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1934_para_Sol.zip",
+    "sha256": "e26fc02f3dc42f91164fc16cd2725b13b8c702f72ff221895013f4cd50ddbe1a"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 6.ª edición",
+      "films": 28,
+      "declaredOwned": 18
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 4,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 45,
+      "declaredOwned": 15
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+  ],
+  "sources": [
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venecia_1934_extracto_oficial.txt",
+      "sourceType": "historial oficial de La Biennale di Venezia"
+    },
+    {
+      "family": "Venecia ASAC — Teresa Confalonieri",
+      "url": "https://asac.labiennale.org/attivita/cinema/629",
+      "evidenceFile": "extracciones/venecia_1934_extracto_oficial.txt",
+      "sourceType": "ficha oficial ASAC"
+    },
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1934/S",
+      "evidenceFile": "extracciones/oscar_1934_transcripcion.json",
+      "sourceType": "archivo oficial Academy of Motion Picture Arts and Sciences; transcripción estructurada conservada",
+      "ceremonyNumber": 6,
+      "ceremonyDate": "1934-03-16",
+      "archiveLabel": 1934
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Venecia 1934",
+      "status": "partial",
+      "coverage": "Tres reconocimientos confirmados en fuentes oficiales; segundo festival competitivo, con premios a películas italianas y extranjeras y medallas de interpretación.",
+      "missing": [
+        "Reconstruir selección completa y verificar palmarés total, incluido mejor actor."
+      ]
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "IDs y títulos FilmAffinity no cotejados; directores de películas Oscar sin cotejo.",
+      "missing": [
+        "Cruce de identidad pendiente."
+      ]
+    },
+    {
+      "block": "Oscar 6.ª ceremonia — celebrada 1934-03-16",
+      "status": "complete",
+      "coverage": "28 películas agrupadas; 44 candidaturas; fuente oficial, archivo rotulado 1934.",
+      "missing": []
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Venecia 1934",
+      "question": "Selección y palmarés completo pendientes; se confirma Katharine Hepburn/Little Women, pero no se verificó el destinatario del premio a mejor actor."
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "IDs/títulos FA y directores de películas Oscar no cotejados."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": [
+    {
+      "file": "1934/premios_personales_1934.json",
+      "reason": "Evidencia conservada; premios personales o identidad/tipología pendiente.",
+      "data": {
+        "festival": "Venecia",
+        "year": 1934,
+        "awards": [
+          {
+            "category": "Medaglia d'oro del consiglio provinciale dell'economia corporativa per il miglior cortometraggio per i suoi \"Films di tre minuti\"",
+            "person": "Marcel De Hubsch",
+            "film": null,
+            "winner": true,
+            "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1934"
+          }
+        ],
+        "coverage": "Premios personales sin película asociada en el registro ASAC anual."
+      }
+    }
+  ],
+  "veniceSupplement": {
+    "name": "Venecia_1932_1942_complemento_para_Sol.zip",
+    "sha256": "1e7acf8681600b39033c556e78b921fe563af4e7ff9fa510442741748b3a55b9",
+    "coverage": {
+      "year": 1934,
+      "event": "2. Mostra Internazionale d'Arte Cinematografica - Biennale di Venezia",
+      "status": "partial",
+      "longFilms": 45,
+      "shortAwardWinners": 4,
+      "featureCompetitionVsOutOfCompetition": "partial; 34 positive IMDb Mussolini Cup category matches; 11 not individually classified; no unsupported fuori-concorso labels",
+      "personalAwardsNoFilm": 1,
+      "unclassifiedTypeCount": 3,
+      "pendingAwardTypeCount": 0,
+      "competitiveCategoryEvidence": 34,
+      "competitionStatusUnknown": 11
+    }
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "scope": "Propiedad acreditada1938",
+  "rowConvention": "Fila física XLSX; cabecera fila1; columnas por nombre",
+  "rows": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Capitanes intrépidos",
+      "director": "Victor Fleming",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 5,
+        "titleES": "Capitanes intrépidos",
+        "originalTitle": "Captains Courageous",
+        "director": "Victor Fleming",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Maria Walewska",
+      "director": "Clarence Brown",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 80,
+        "titleES": "Maria Walewska",
+        "originalTitle": "Conquest",
+        "director": "Clarence Brown",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "A Star Is Born",
+      "director": "William Wellman",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Al caer la noche",
+      "director": "Richard Thorpe",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 91,
+        "titleES": "Al caer la noche",
+        "originalTitle": "Night Must Fall",
+        "director": "Richard Thorpe",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "La vida de Emile Zola",
+      "director": "William Dieterle",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "La vida de Emile Zola",
+        "originalTitle": "The Life of Emile Zola",
+        "director": "William Dieterle",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "La pícara puritana",
+      "director": "Leo McCarey",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 10,
+        "titleES": "La pícara puritana",
+        "originalTitle": "The Awful Truth",
+        "director": "Leo McCarey",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Huracán sobre la isla",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 22,
+        "titleES": "Huracán sobre la isla",
+        "originalTitle": "The Hurricane",
+        "director": "John Ford",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Horizontes perdidos",
+      "director": "Frank Capra",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Horizontes perdidos",
+        "originalTitle": "Lost Horizon",
+        "director": "Frank Capra",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Una pareja invisible",
+      "director": "Norman Z. McLeod",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 148,
+        "titleES": "Una pareja invisible",
+        "originalTitle": "Topper",
+        "director": "Norman Z. McLeod",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "La buena tierra",
+      "director": "Sidney Franklin",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 31,
+        "titleES": "La buena tierra",
+        "originalTitle": "The Good Earth",
+        "director": "Sidney Franklin",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "La dama de las camelias",
+      "director": "George Cukor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 8,
+        "titleES": "La dama de las camelias",
+        "originalTitle": "Camille",
+        "director": "George Cukor",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Stella Dallas",
+      "director": "King Vidor",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 17,
+        "titleES": "Stella Dallas",
+        "originalTitle": "Stella Dallas",
+        "director": "King Vidor",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Chicago",
+      "director": "Henry King",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 45,
+        "titleES": "Chicago",
+        "originalTitle": "In Old Chicago",
+        "director": "Henry King",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Damas del teatro",
+      "director": "Gregory La Cava",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "Damas del teatro",
+        "originalTitle": "Stage Door",
+        "director": "Gregory La Cava",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Calle sin salida",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 14,
+        "titleES": "Calle sin salida",
+        "originalTitle": "Dead End",
+        "director": "William Wyler",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Señorita en desgracia",
+      "director": "George Stevens",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 108,
+        "titleES": "Señorita en desgracia",
+        "originalTitle": "A Damsel in Distress",
+        "director": "George Stevens",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Every Day's a Holiday",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Manhattan Merry-Go-Round",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "El prisionero de Zenda",
+      "director": "John Cromwell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 20,
+        "titleES": "El prisionero de Zenda",
+        "originalTitle": "The Prisoner of Zenda",
+        "director": "John Cromwell",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Almas en el mar",
+      "director": "Henry Hathaway",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 64,
+        "titleES": "Almas en el mar",
+        "originalTitle": "Souls at Sea",
+        "director": "Henry Hathaway",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Walter Wanger's Vogues of 1938",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "La mascota del regimiento",
+      "director": "John Ford",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 144,
+        "titleES": "La mascota del regimiento",
+        "originalTitle": "Wee Willie Winkie",
+        "director": "John Ford",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "You're a Sweetheart",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Wings over Honolulu",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Varsity Show",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Ready, Willing and Able",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Un día en las carreras",
+      "director": "Sam Wood",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 3,
+        "titleES": "Un día en las carreras",
+        "originalTitle": "A Day at the Races",
+        "director": "Sam Wood",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Ali Baba Goes to Town",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Thin Ice",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Waikiki Wedding",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Loca por la música",
+      "director": "Henry Koster",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 78,
+        "titleES": "Loca por la música",
+        "originalTitle": "One Hundred Men and a Girl",
+        "director": "Henry Koster",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "The Girl Said No",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Hitting a New High",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Maytime",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Wells Fargo",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "El viejo molino",
+      "director": "Wilfred Jackson, Graham Heid",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 9,
+        "titleES": "El viejo molino",
+        "originalTitle": "The Old Mill",
+        "director": "Wilfred Jackson, Graham Heid",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Educated Fish",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "The Little Match Girl",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Penny Wisdom",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "The Man without a Country",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Popular Science J-7-1",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "The Private Life of the Gannets",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "A Night at the Movies",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Romance of Radium",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Torture Money",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Deep South",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Should Wives Work?",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 10.ª edición",
+      "title": "Black Legion",
+      "director": "Archie Mayo",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 77,
+        "titleES": "Black Legion",
+        "originalTitle": "Black Legion",
+        "director": "Archie Mayo",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Armonie pucciniane",
+      "director": "Giorgio Ferroni",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Der Bienenstadt",
+      "director": "Ulrich K.T. Schulz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Karakorum",
+      "director": "Henri de Ségogne",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "L'art au village hongrois",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Natura und Technik",
+      "director": "Ulrich K.T. Schulz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Nederland",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Nella luce di Roma",
+      "director": "Pietro Francisci",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+      "director": "Dave Fleischer",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 88,
+        "titleES": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+        "originalTitle": "Popeye the Sailor Meets Ali Baba's Forty Thieves",
+        "director": "Dave Fleischer",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Rubens et son temps",
+      "director": "René Huyghe",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Sv. István",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "The River",
+      "director": "Pare Lorentz",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Thema's van de inspiratie",
+      "director": "Charles Dekeukeleire",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Un mondo meraviglioso",
+      "director": "Roberto Omegna",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "title": "Voyage en France des souverains britanniques",
+      "director": "",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "A Noszty fiú esete Tóth Marival",
+      "director": "Steve (I) Sekely",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Abus de confiance",
+      "director": "Henri Decoin",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La banda de Alexander",
+      "director": "Henry King",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 48,
+        "titleES": "La banda de Alexander",
+        "originalTitle": "Alexander's Ragtime Band",
+        "director": "Henry King",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Allá en el Rancho Grande",
+      "director": "Fernando de Fuentes",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1936.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 86,
+        "titleES": "Allá en el Rancho Grande",
+        "originalTitle": "Allá en el Rancho Grande",
+        "director": "Fernando de Fuentes",
+        "year": 1936
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Break the News",
+      "director": "René Clair",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Cech panen Kutnohorských",
+      "director": "Otakar Vávra",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Der Mustergatte",
+      "director": "Wolfgang Liebeneiner",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Duniya Na Mane",
+      "director": "Rajaram Vankudre Shantaram",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Un rostro de mujer",
+      "director": "Gustaf Molander",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 54,
+        "titleES": "Un rostro de mujer",
+        "originalTitle": "En kvinnas ansikte",
+        "director": "Gustaf Molander",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Entrée des artistes",
+      "director": "Marc Allégret",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Fahrendes Volk",
+      "director": "Jacques Feyder",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Filosofská historie",
+      "director": "Otakar Vávra",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Geniusz sceny",
+      "director": "Romuald Gantkovsky",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Giuseppe Verdi",
+      "director": "Carmine Gallone",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Gonin no sekkôhei",
+      "director": "Tomotaka Tasaka",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Halka",
+      "director": "Juliusz Gardan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Hanno rapito un uomo",
+      "director": "Gennaro Righelli",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Heimat",
+      "director": "Carl Froelich",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Hordubalové",
+      "director": "Martin Fric",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Jezabel",
+      "director": "William Wyler",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 7,
+        "titleES": "Jezabel",
+        "originalTitle": "Jezebel",
+        "director": "William Wyler",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Kaze no kada no kodomotachi",
+      "director": "Hiroshi Shimizu",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "L'innocent",
+      "director": "Maurice Cammage",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La chismosa",
+      "director": "Enrique T. Susini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La mort du cygne",
+      "director": "Jean Benoît-Lévy; Marie Epstein",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Le joueur d'échecs",
+      "director": "Jean Dréville",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Luciano Serra pilota",
+      "director": "Goffredo Alessandrini",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Maria Antonieta",
+      "director": "W.S. Van Dyke",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 51,
+        "titleES": "Maria Antonieta",
+        "originalTitle": "Marie Antoinette",
+        "director": "W.S. Van Dyke",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Michelangelo, das Leben eines Titanen",
+      "director": "Curt Oertel",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Mother Carey's Chickens",
+      "director": "Rowland V. Lee",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Olympia",
+      "director": "Leni Riefenstahl",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Olympia 1. Teil - Fest der Völker",
+      "director": "Leni Riefenstahl",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Panenství",
+      "director": "Otakar Vávra",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Prison sans barreaux",
+      "director": "Léonide Moguy",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Pygmalion",
+      "director": "Leslie Howard; Anthony Asquith",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 19,
+        "titleES": "Pygmalion",
+        "originalTitle": "Pygmalion",
+        "director": "Anthony Asquith, Leslie Howard",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Péntek Rézi",
+      "director": "Ladislao Vajda",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Quai des brumes",
+      "director": "Marcel Carné",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Ramuntcho",
+      "director": "René Barberis",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Snow White and the Seven Dwarfs",
+      "director": "Ben Sharpsteen; Wilfred Jackson; William Cottrell; Larry Morey; Perce Pearce",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Sotto la Croce del Sud",
+      "director": "Guido Brignone",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Svět kde se žebrá",
+      "director": "Miroslav Cikán",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Piloto de pruebas",
+      "director": "Victor Fleming",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 87,
+        "titleES": "Piloto de pruebas",
+        "originalTitle": "Test Pilot",
+        "director": "Victor Fleming",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Las aventuras de Tom Sawyer",
+      "director": "Norman Taurog",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 20,
+        "titleES": "Las aventuras de Tom Sawyer",
+        "originalTitle": "The Adventures of Tom Sawyer",
+        "director": "Norman Taurog",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Revuelta en la India",
+      "director": "Zoltan Korda",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 113,
+        "titleES": "Revuelta en la India",
+        "originalTitle": "The Drum",
+        "director": "Zoltan Korda",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "The Goldwyn Follies",
+      "director": "George Marshall",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "El prisionero de Zenda",
+      "director": "John Cromwell",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1937.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 20,
+        "titleES": "El prisionero de Zenda",
+        "originalTitle": "The Prisoner of Zenda",
+        "director": "John Cromwell",
+        "year": 1937
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "La sensación de París",
+      "director": "Henry Koster",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 80,
+        "titleES": "La sensación de París",
+        "originalTitle": null,
+        "director": "Henry Koster",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Urlaub auf Ehrenwort",
+      "director": "Karl Ritter",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Verwehte Spuren",
+      "director": "Veit Harlan",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Ardid femenino",
+      "director": "George Stevens",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1938.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 69,
+        "titleES": "Ardid femenino",
+        "originalTitle": "Vivacious Lady",
+        "director": "George Stevens",
+        "year": 1938
+      }
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "White Banners",
+      "director": "Edmund Goulding",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Yvette",
+      "director": "Wolfgang Liebeneiner",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "Ziegfeld Follies",
+      "director": "Charles (I) Walters; George (II) Sidney; Merrill Pye; Vincente Minnelli; Robert Lewis; Roy Del Ruth; Lemuel Ayers",
+      "ownership": "PENDING",
+      "reference": null
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "title": "¡Ora ponchano!",
+      "director": "Gabriel Soria",
+      "ownership": "PENDING",
+      "reference": null
+    }
+  ]
+}

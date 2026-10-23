@@ -1,0 +1,164 @@
+{
+  "year": 1939,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1939_para_Sol.zip",
+    "sha256": "d0f880f5ade7a5d2c5239e7fb24b10132b8b2288bf46dc9f1bec17dfdc537ca9"
+  },
+  "counts": [
+    {
+      "festival": "Cannes",
+      "section": "Selección anunciada · edición cancelada",
+      "films": 9,
+      "declaredOwned": 6
+    },
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 11.ª edición",
+      "films": 59,
+      "declaredOwned": 37
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 10,
+      "declaredOwned": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 45,
+      "declaredOwned": 7
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "The golden Harvest of the Witwatersand pasa de pendientes a cortos premiados: ASAC lo tipa Cortometraggio y acredita Medaglia di bronzo1939. Cannes1939 sigue como selección anunciada de edición cancelada; la Palma retrospectiva de2002 se conserva como evidencia posterior, fuera del palmarés1939.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+  ],
+  "sources": [
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1939/A?qt-honorees=1",
+      "evidenceFile": "extracciones/oscar_1939_transcripcion.json",
+      "sourceType": "official Academy ceremony archive",
+      "note": "11th Academy Awards ceremony, honoring 1938 films."
+    },
+    {
+      "family": "Cannes",
+      "url": "https://www.festival-cannes.com/en/2017/1939-war-prevents-the-festival-from-taking-place/",
+      "evidenceFile": "extracciones/cannes_1939_extracto_oficial.txt",
+      "sourceType": "official Festival de Cannes archive",
+      "note": "Cancellation, 26-film announced selection, one private screening, retrospective 2002 Palme d’Or."
+    },
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venecia_1939_extracto_oficial.txt",
+      "sourceType": "official Biennale history",
+      "note": "Confirmed Coppa Mussolini winner; Venice selection incomplete."
+    },
+    {
+      "family": "Cannes retrospective award",
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "evidenceFile": "extracciones/cannes_1939_extracto_oficial.txt",
+      "sourceType": "official Festival de Cannes history",
+      "note": "Union Pacific, from the cancelled 1939 selection, received the Palme d’Or retrospectively in 2002; the 1939 event itself did not take place."
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1939",
+      "status": "complete",
+      "coverage": "11.ª ceremonia; candidaturas cinematográficas por película, 19 categorías y premios personales separados.",
+      "missing": []
+    },
+    {
+      "block": "Cannes 1939",
+      "status": "partial / cancelled",
+      "coverage": "Selección anunciada como tal; 9 títulos explícitos de 26 en la fuente oficial; una proyección privada. No fue una edición celebrada.",
+      "missing": [
+        "17 títulos del listado oficial no aparecen nombrados en la fuente consultada."
+      ]
+    },
+    {
+      "block": "Venecia 1939",
+      "status": "partial",
+      "coverage": "Premio oficial a Abuna Messias; no es una selección completa.",
+      "missing": [
+        "Selección anual completa no reconstruida."
+      ]
+    },
+    {
+      "block": "Berlín 1939",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado, sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1939",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado, sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1939",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado, sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "Títulos de premios conservados en idioma/fuente de origen; IDs, títulos FA y directores de Oscar pendientes de cotejo en bloque.",
+      "missing": [
+        "FilmAffinity España no se ha cotejado para estas fichas; IDs null."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Cannes 1939",
+      "question": "La fuente oficial consultada afirma que hubo 26 títulos en la selección; solo nombra nueve. Faltan los otros 17 títulos para reconstruirla entera."
+    },
+    {
+      "block": "Cannes 1939",
+      "question": "La Palme d’Or otorgada a Union Pacific fue retrospectiva (2002); debe permanecer separada de los premios originalmente planificados para 1939."
+    },
+    {
+      "block": "Venecia 1939",
+      "question": "La historia oficial confirma el film premiado pero no la lista completa de participantes."
+    },
+    {
+      "block": "Identidad",
+      "question": "Faltan cotejo masivo de títulos/directores/IDs de FilmAffinity España para las fichas Oscar."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": [],
+  "veniceSupplement": {
+    "name": "Venecia_1932_1942_complemento_para_Sol.zip",
+    "sha256": "1e7acf8681600b39033c556e78b921fe563af4e7ff9fa510442741748b3a55b9",
+    "coverage": {
+      "year": 1939,
+      "event": "7. Esposizione Internazionale d'Arte Cinematografica",
+      "status": "partial",
+      "longFilms": 45,
+      "shortAwardWinners": 9,
+      "featureCompetitionVsOutOfCompetition": "partial; 33 positive IMDb Mussolini Cup category matches; 12 not individually classified; no unsupported fuori-concorso labels",
+      "personalAwardsNoFilm": 0,
+      "unclassifiedTypeCount": 6,
+      "pendingAwardTypeCount": 1,
+      "competitiveCategoryEvidence": 33,
+      "competitionStatusUnknown": 12
+    }
+  }
+}

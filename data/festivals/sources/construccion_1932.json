@@ -1,0 +1,157 @@
+{
+  "year": 1932,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1932_para_Sol.zip",
+    "sha256": "031bf0db0b54a3932b20ed252e514a8776a86dfdc846edf678baac643f975485"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 5.ª edición",
+      "films": 26,
+      "declaredOwned": 16
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · edición no competitiva",
+      "films": 26,
+      "declaredOwned": 14
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+  ],
+  "sources": [
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venecia_1932_fuentes.txt",
+      "sourceType": "historia oficial La Biennale di Venezia"
+    },
+    {
+      "family": "Venecia referendum",
+      "url": "https://www.labiennale.org/it/storia-della-mostra-del-cinema",
+      "evidenceFile": "extracciones/venecia_1932_fuentes.txt",
+      "sourceType": "historia oficial italiana de La Biennale di Venezia"
+    },
+    {
+      "family": "Venecia ASAC archive",
+      "url": "https://www.labiennale.org/en/asac/exhibitions-and-activities/1932-first%C2%A0esposizione-internazionale-d%E2%80%99arte-cinematografica-archive%C2%A0-la%C2%A0biennale-di-venezia",
+      "evidenceFile": "extracciones/venecia_1932_fuentes.txt",
+      "sourceType": "archivo histórico oficial ASAC"
+    },
+    {
+      "family": "Venecia ASAC film cards",
+      "url": "https://asac.labiennale.org/attivita/cinema/619",
+      "evidenceFile": "extracciones/venecia_1932_fuentes.txt",
+      "sourceType": "ficha oficial de película ASAC"
+    },
+    {
+      "family": "Venecia ASAC film cards",
+      "url": "https://asac.labiennale.org/attivita/cinema/624",
+      "evidenceFile": "extracciones/venecia_1932_fuentes.txt",
+      "sourceType": "ficha oficial de película ASAC"
+    },
+    {
+      "family": "Venecia institutional history",
+      "url": "https://1600.venezia.it/en/node/3393",
+      "evidenceFile": "extracciones/venecia_1932_fuentes.txt",
+      "sourceType": "portal oficial de la ciudad de Venecia"
+    },
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1933/I",
+      "evidenceFile": "extracciones/oscar_1932_transcripcion.json",
+      "sourceType": "archivo oficial Academy of Motion Picture Arts and Sciences; transcripción estructurada conservada",
+      "ceremonyNumber": 5,
+      "ceremonyDate": "1932-11-18",
+      "archiveLabel": 1933
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Venecia 1932",
+      "status": "partial",
+      "coverage": "Primera edición celebrada 6–21 agosto; no competitiva, sin premios oficiales. Se incluyen títulos documentados y resultados del referendum como consulta pública separada.",
+      "missing": [
+        "La programación completa no está reconstruida.",
+        "Solo se recuperan parcialmente los resultados del referendum; faltan resultados de las demás categorías de votación."
+      ]
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "IDs/títulos FA no cotejados; directores de Oscar no cotejados.",
+      "missing": [
+        "Cruce de FilmAffinity y cotejo de directores pendiente."
+      ]
+    },
+    {
+      "block": "Oscar 5.ª ceremonia — celebrada 1932-11-18",
+      "status": "complete",
+      "coverage": "26 películas agrupadas; 39 candidaturas; fuente oficial, archivo rotulado 1933.",
+      "missing": []
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Venecia 1932",
+      "question": "El programa disponible aquí es parcial; el archivo menciona una votación del público pero no se localizaron todos los resultados. No se presentaron como premios oficiales."
+    },
+    {
+      "block": "Oscar 1932",
+      "question": "Sound Recording consta por departamentos sin asociación a película en la ficha oficial; se conserva aparte. La ficha de ceremonia no identifica claramente a la persona del premio de Art Direction a Cimarron."
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "IDs, títulos FA y directores Oscar sin cotejar."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": [
+    {
+      "file": "1932/premios_personales_1932.json",
+      "reason": "Evidencia conservada; premios personales o identidad/tipología pendiente.",
+      "data": {
+        "festival": "Venecia",
+        "year": 1932,
+        "awards": [
+          {
+            "category": "Público: Director más convincente",
+            "person": "Nikolai Ekk",
+            "film": null,
+            "winner": true,
+            "source": "https://asac.labiennale.org/attivita/cinema/annali?anno=1932",
+            "awardNature": "public audience referendum; not an official competitive award"
+          }
+        ],
+        "coverage": "Premios personales sin película asociada en el registro ASAC anual."
+      }
+    }
+  ],
+  "veniceSupplement": {
+    "name": "Venecia_1932_1942_complemento_para_Sol.zip",
+    "sha256": "1e7acf8681600b39033c556e78b921fe563af4e7ff9fa510442741748b3a55b9",
+    "coverage": {
+      "year": 1932,
+      "event": "1. Esposizione Internazionale d'Arte Cinematografica",
+      "status": "partial",
+      "longFilms": 26,
+      "shortAwardWinners": 0,
+      "featureCompetitionVsOutOfCompetition": "not applicable: FA and ASAC say non-competitive; IMDb heading conflicts and is documented",
+      "personalAwardsNoFilm": 1,
+      "unclassifiedTypeCount": 1,
+      "pendingAwardTypeCount": 0
+    }
+  }
+}

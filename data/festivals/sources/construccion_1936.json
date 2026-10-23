@@ -1,0 +1,174 @@
+{
+  "year": 1936,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1936_para_Sol.zip",
+    "sha256": "29e5ae72b095f159eab4f2e04ef2878851a3622190026d254677ba1191a3db18"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 8.ª edición",
+      "films": 48,
+      "declaredOwned": 30
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 12,
+      "declaredOwned": 1
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 52,
+      "declaredOwned": 19
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+  ],
+  "sources": [
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1936/D",
+      "evidenceFile": "extracciones/oscar_1936_transcripcion.json",
+      "sourceType": "official Academy archive",
+      "note": "8th ceremony, 5 March 1936, honors 1935 films."
+    },
+    {
+      "family": "Oscar personal award",
+      "url": "https://www.oscars.org/oscars/ceremonies/1936/memorable-moments",
+      "evidenceFile": "extracciones/oscar_1936_premios_personales.json",
+      "sourceType": "official Academy memorable moments"
+    },
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venecia_1936_extracto_oficial.txt",
+      "sourceType": "official Biennale history"
+    },
+    {
+      "family": "Venecia ASAC — Lo squadrone bianco",
+      "url": "https://asac.labiennale.org/attivita/cinema/1044",
+      "evidenceFile": "extracciones/venecia_1936_extracto_oficial.txt",
+      "sourceType": "official ASAC film card"
+    },
+    {
+      "family": "Venecia ASAC — Der Kaiser von Kalifornien",
+      "url": "https://asac.labiennale.org/attivita/cinema/973",
+      "evidenceFile": "extracciones/venecia_1936_extracto_oficial.txt",
+      "sourceType": "official ASAC film card"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1936",
+      "status": "complete",
+      "coverage": "8.ª ceremonia, películas de 1935; 18 categorías cinematográficas transcritas, premios personales separados.",
+      "missing": []
+    },
+    {
+      "block": "Venecia 1936",
+      "status": "partial",
+      "coverage": "Cuatro premios confirmados en fuentes oficiales; no es una selección completa.",
+      "missing": [
+        "Selección completa no reconstruida."
+      ]
+    },
+    {
+      "block": "Berlín 1936",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado; sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1936",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado; sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1936",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado; sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "Títulos según la fuente oficial; cotejo de IDs/títulos FA pendiente.",
+      "missing": [
+        "IDs y títulos FA y directores de Oscar pendientes de cotejo en bloque."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Venecia 1936",
+      "question": "Las fuentes oficiales consultadas confirman cuatro premios, no la selección completa."
+    },
+    {
+      "block": "Oscar 1936",
+      "question": "Dance Direction se transcribe por secuencia nominada; no se han cotejado los coreógrafos individuales."
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "IDs/títulos FA y directores de las películas nominadas pendientes de cruce en bloque."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": [
+    {
+      "file": "1936/premios_pendientes_clasificacion_1936.json",
+      "reason": "Evidencia conservada; premios personales o identidad/tipología pendiente.",
+      "data": {
+        "festival": "Venecia",
+        "year": 1936,
+        "awards": [
+          {
+            "asacId": 986,
+            "title": "Jugend der Welt",
+            "type": "Mediometraggio",
+            "director": "Hans Weidmann",
+            "awards": [
+              {
+                "category": "Coppa dell'Istituto Nazionale Luce per il miglior documentario",
+                "person": null,
+                "winner": true,
+                "source": "https://asac.labiennale.org/attivita/cinema/986"
+              }
+            ]
+          }
+        ],
+        "coverage": "Premios asociados por ASAC a obras cuya tipología no es Lungometraggio o Cortometraggio; se conservan fuera de la selección importable hasta aclarar la clase."
+      }
+    }
+  ],
+  "veniceSupplement": {
+    "name": "Venecia_1932_1942_complemento_para_Sol.zip",
+    "sha256": "1e7acf8681600b39033c556e78b921fe563af4e7ff9fa510442741748b3a55b9",
+    "coverage": {
+      "year": 1936,
+      "event": "4. Mostra Internazionale d'Arte Cinematografica ",
+      "status": "partial",
+      "longFilms": 52,
+      "shortAwardWinners": 12,
+      "featureCompetitionVsOutOfCompetition": "partial; 41 positive IMDb Mussolini Cup category matches; 11 not individually classified; no unsupported fuori-concorso labels",
+      "personalAwardsNoFilm": 0,
+      "unclassifiedTypeCount": 1,
+      "pendingAwardTypeCount": 1,
+      "competitiveCategoryEvidence": 41,
+      "competitionStatusUnknown": 11
+    }
+  }
+}

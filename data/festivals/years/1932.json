@@ -1,0 +1,1617 @@
+{
+  "year": 1932,
+  "editions": [
+    {
+      "festival": "Oscar",
+      "year": 1932,
+      "section": "Premios Oscar · 5.ª edición",
+      "films": [
+        {
+          "title": "El campeón",
+          "director": "King Vidor",
+          "aliases": [
+            "The Champ"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Wallace Beery",
+            "Writing (Original Story) · Frances Marion"
+          ],
+          "nominations": [
+            "Actor protagonista · Wallace Beery",
+            "Dirección · King Vidor",
+            "Outstanding Production · Metro-Goldwyn-Mayer",
+            "Writing (Original Story) · Frances Marion"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Wallace Beery"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Wallace Beery"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "King Vidor"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "King Vidor"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Metro-Goldwyn-Mayer"
+            },
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Frances Marion"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Frances Marion"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actor protagonista · Wallace Beery · Writing (Original Story) · Frances Marion",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El hombre y el monstruo",
+          "director": "Rouben Mamoulian",
+          "aliases": [
+            "Dr. Jekyll and Mr. Hyde"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Fredric March"
+          ],
+          "nominations": [
+            "Actor protagonista · Fredric March",
+            "Fotografía · Karl Struss",
+            "Writing (Adaptation) · Percy Heath; Samuel Hoffenstein"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Fredric March"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Fredric March"
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "Karl Struss"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Karl Struss"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Percy Heath",
+                "Samuel Hoffenstein"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Percy Heath; Samuel Hoffenstein"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actor protagonista · Fredric March",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El pecado de Madelon Claudet",
+          "director": "Edgar Selwyn",
+          "aliases": [
+            "The Sin of Madelon Claudet"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Helen Hayes"
+          ],
+          "nominations": [
+            "Actriz protagonista · Helen Hayes"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Helen Hayes"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Helen Hayes"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actriz protagonista · Helen Hayes",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Transatlantic",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · Gordon Wiles"
+          ],
+          "nominations": [
+            "Diseño de producción · Gordon Wiles"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Gordon Wiles"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Gordon Wiles"
+            }
+          ],
+          "award": "Diseño de producción · Gordon Wiles",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El expreso de Shanghai",
+          "director": "Josef von Sternberg",
+          "aliases": [
+            "Shanghai Express"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Fotografía · Lee Garmes"
+          ],
+          "nominations": [
+            "Fotografía · Lee Garmes",
+            "Dirección · Josef von Sternberg",
+            "Outstanding Production · Paramount Publix"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "people": [
+                "Lee Garmes"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Lee Garmes"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Josef von Sternberg"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Josef von Sternberg"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Paramount Publix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Paramount Publix"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Fotografía · Lee Garmes",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Bad Girl",
+          "director": "Frank Borzage",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Dirección · Frank Borzage",
+            "Writing (Adaptation) · Edwin Burke"
+          ],
+          "nominations": [
+            "Dirección · Frank Borzage",
+            "Outstanding Production · Fox",
+            "Writing (Adaptation) · Edwin Burke"
+          ],
+          "candidacies": [
+            {
+              "category": "Dirección",
+              "people": [
+                "Frank Borzage"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Frank Borzage"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Fox"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Fox"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Edwin Burke"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Edwin Burke"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Dirección · Frank Borzage · Writing (Adaptation) · Edwin Burke",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Gran Hotel",
+          "director": "Edmund Goulding",
+          "aliases": [
+            "Grand Hotel"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Outstanding Production · Metro-Goldwyn-Mayer"
+          ],
+          "nominations": [
+            "Outstanding Production · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Outstanding Production · Metro-Goldwyn-Mayer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Flores y árboles",
+          "director": "Burt Gillett",
+          "aliases": [
+            "Flowers and Trees"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Cortometraje de animación · Walt Disney, producer"
+          ],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Walt Disney, producer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Walt Disney, producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Cortometraje de animación · Walt Disney, producer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Haciendo de las suyas",
+          "director": "James Parrott",
+          "aliases": [
+            "The Music Box"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Short Subject (Comedy) · Hal Roach, producer"
+          ],
+          "nominations": [
+            "Short Subject (Comedy) · Hal Roach, producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Short Subject (Comedy)",
+              "people": [
+                "Hal Roach, producer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Hal Roach, producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Short Subject (Comedy) · Hal Roach, producer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Wrestling Swordfish",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Short Subject (Novelty) · Mack Sennett, producer"
+          ],
+          "nominations": [
+            "Short Subject (Novelty) · Mack Sennett, producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Short Subject (Novelty)",
+              "people": [
+                "Mack Sennett, producer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Mack Sennett, producer"
+            }
+          ],
+          "award": "Short Subject (Novelty) · Mack Sennett, producer",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Guardsman",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Alfred Lunt",
+            "Actriz protagonista · Lynn Fontanne"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Alfred Lunt"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Alfred Lunt"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Lynn Fontanne"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Lynn Fontanne"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Emma",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Marie Dressler"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Marie Dressler"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Marie Dressler"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Viva la libertad",
+          "director": "René Clair",
+          "aliases": [
+            "À nous la liberté"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Lazare Meerson"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Lazare Meerson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Lazare Meerson"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El doctor Arrowsmith",
+          "director": "John Ford",
+          "aliases": [
+            "Arrowsmith"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Richard Day",
+            "Fotografía · Ray June",
+            "Outstanding Production · Samuel Goldwyn Productions",
+            "Writing (Adaptation) · Sidney Howard"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Richard Day"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Richard Day"
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "Ray June"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Ray June"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Samuel Goldwyn Productions"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Samuel Goldwyn Productions"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Sidney Howard"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Sidney Howard"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sed de escándalo",
+          "director": "Mervyn LeRoy",
+          "aliases": [
+            "Five Star Final"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Outstanding Production · First National"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "First National"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "First National"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Una hora contigo",
+          "director": "Ernst Lubitsch",
+          "aliases": [
+            "One Hour with You"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Outstanding Production · Paramount Publix"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Paramount Publix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Paramount Publix"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El teniente seductor",
+          "director": "Ernst Lubitsch",
+          "aliases": [
+            "The Smiling Lieutenant"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Outstanding Production · Paramount Publix"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Paramount Publix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Paramount Publix"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "It's Got Me Again",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Leon Schlesinger, producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Leon Schlesinger, producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Leon Schlesinger, producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Mickey Mouse: Los huérfanos de Mickey",
+          "director": "Burt Gillett",
+          "aliases": [
+            "Mickey's Orphans"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Cortometraje de animación · Walt Disney, producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Cortometraje de animación",
+              "people": [
+                "Walt Disney, producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Walt Disney, producer"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Loud Mouth",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Short Subject (Comedy) · Mack Sennett, producer"
+          ],
+          "candidacies": [
+            {
+              "category": "Short Subject (Comedy)",
+              "people": [
+                "Mack Sennett, producer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Mack Sennett, producer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Scratch-As-Catch-Can",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Short Subject (Comedy) · RKO Radio"
+          ],
+          "candidacies": [
+            {
+              "category": "Short Subject (Comedy)",
+              "people": [
+                "RKO Radio"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "RKO Radio"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Screen Souvenirs",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Short Subject (Novelty) · Paramount Publix"
+          ],
+          "candidacies": [
+            {
+              "category": "Short Subject (Novelty)",
+              "people": [
+                "Paramount Publix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Paramount Publix"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Swing High",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Short Subject (Novelty) · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Short Subject (Novelty)",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Lady and Gent",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Grover Jones; William Slavens McNutt"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Grover Jones",
+                "William Slavens McNutt"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Grover Jones; William Slavens McNutt"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Star Witness",
+          "director": "William A. Wellman",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Lucien Hubbard"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Lucien Hubbard"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Lucien Hubbard"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hollywood al desnudo",
+          "director": "George Cukor",
+          "aliases": [
+            "What Price Hollywood?"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Adela Rogers St. Johns; Jane Murfin"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Adela Rogers St. Johns",
+                "Jane Murfin"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1933/I",
+              "person": "Adela Rogers St. Johns; Jane Murfin"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ],
+      "ceremonyNumber": 5,
+      "ceremonyDate": "1932-11-18",
+      "eligibilityPeriod": "1931-08-01/1932-07-31",
+      "archiveLabel": 1933
+    },
+    {
+      "festival": "Venecia",
+      "year": 1932,
+      "section": "Largometrajes documentados · edición no competitiva",
+      "films": [
+        {
+          "title": "El hombre y el monstruo",
+          "director": "Rouben Mamoulian",
+          "aliases": [
+            "Dr. Jekyll and Mr. Hyde",
+            "Il dottor Jekyll",
+            "Il dottor Jekyll e Mr. Hyde"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": "El hombre y el monstruo",
+          "wins": [
+            "Público: Actor favorito",
+            "Público: Historia más original"
+          ],
+          "nominations": [],
+          "candidacies": [
+            {
+              "category": "Público: Actor favorito",
+              "people": [
+                "Fredric March"
+              ],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/619",
+              "awardNature": "public audience referendum; not an official competitive award",
+              "person": "Fredric March"
+            },
+            {
+              "category": "Público: Historia más original",
+              "people": [],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/619",
+              "awardNature": "public audience referendum; not an official competitive award"
+            }
+          ],
+          "asacId": 619,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/619",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "Dr. Jekyll and Mr. Hyde",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Público: Actor favorito · Público: Historia más original",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Muchachas de uniforme",
+          "director": "Leontine Sagan",
+          "aliases": [
+            "Mädchen in Uniform",
+            "Ragazze in uniforme",
+            "Girls in Uniform"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": "Muchachas de uniforme",
+          "wins": [
+            "Público: Mejor perfección técnica"
+          ],
+          "nominations": [],
+          "candidacies": [
+            {
+              "category": "Público: Mejor perfección técnica",
+              "people": [],
+              "winner": true,
+              "source": "https://www.filmaffinity.com/es/award-edition.php?edition-id=venice_1932",
+              "awardNature": "public audience referendum; not an official competitive award",
+              "corroboratingSources": [
+                "https://www.imdb.com/event/ev0000681/1932/1/",
+                "https://www.imdb.com/es-es/title/tt0022183/awards/?ref_=tt_awd"
+              ]
+            }
+          ],
+          "asacId": 532,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/532",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Público: Mejor perfección técnica",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El pecado de Madelon Claudet",
+          "director": "Edgar Selwyn",
+          "aliases": [
+            "The Sin of Madelon Claudet",
+            "Il fallo di Madelon Claudet",
+            "Il peccato di Madelon Claudet"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": "El pecado de Madelon Claudet",
+          "wins": [
+            "Público: Actriz favorita",
+            "Público: Film más conmovedor"
+          ],
+          "nominations": [],
+          "candidacies": [
+            {
+              "category": "Público: Actriz favorita",
+              "people": [
+                "Helen Hayes"
+              ],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/635",
+              "awardNature": "public audience referendum; not an official competitive award",
+              "person": "Helen Hayes"
+            },
+            {
+              "category": "Público: Film más conmovedor",
+              "people": [],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/635",
+              "awardNature": "public audience referendum; not an official competitive award"
+            }
+          ],
+          "asacId": 635,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/635",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Público: Actriz favorita · Público: Film más conmovedor",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Viva la libertad",
+          "director": "René Clair",
+          "aliases": [
+            "À nous la liberté",
+            "A me la libertà",
+            "À Nous la Liberté",
+            "A noi la libertà"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": "Viva la libertad",
+          "wins": [
+            "Público: Film más entretenido"
+          ],
+          "nominations": [],
+          "candidacies": [
+            {
+              "category": "Público: Film más entretenido",
+              "people": [],
+              "winner": true,
+              "source": "https://asac.labiennale.org/attivita/cinema/517",
+              "awardNature": "public audience referendum; not an official competitive award"
+            }
+          ],
+          "asacId": 517,
+          "sourceSections": [
+            "Francia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/517",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "À nous la liberté",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Público: Film más entretenido",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Au nom de la loi",
+          "director": "Maurice Tourneur",
+          "aliases": [
+            "In nome della legge"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 518,
+          "sourceSections": [
+            "Francia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/518",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Azaïs",
+          "director": "René Hervil",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 519,
+          "sourceSections": [
+            "Francia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/519",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Biały šład",
+          "director": "Adam Krzeptowski",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 558,
+          "sourceSections": [
+            "Polonia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/558",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Bring' em back Alive",
+          "director": "Clyde E. Elliott",
+          "aliases": [
+            "Prendetele vive!"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 570,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/570",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Remordimiento",
+          "director": "Ernst Lubitsch",
+          "aliases": [
+            "Broken Lullaby",
+            "The Man I Killed",
+            "L'uomo che ho ucciso",
+            "Ninnananna interrotta"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 632,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/632",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La luz azul",
+          "director": "Leni Riefenstahl",
+          "aliases": [
+            "Das blaue Licht",
+            "La bella maledetta"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 525,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/525",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Das Lied einer Nacht",
+          "director": "Anatole Litvak",
+          "aliases": [
+            "Questa notte o mai più"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 530,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/530",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "David Golder",
+          "director": "Julien Duvivier",
+          "aliases": [
+            "La beffa della vita"
+          ],
+          "filmAffinityId": "744897",
+          "filmaffinityTitle": "David Golder",
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 521,
+          "sourceSections": [
+            "Francia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/521",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932",
+            "https://www.filmaffinity.com/es/film744897.html",
+            "https://www.imdb.com/title/tt0020814/"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "FILMAFFINITY_ID_LINKED"
+        },
+        {
+          "title": "El congreso se divierte",
+          "director": "Erik Charell",
+          "aliases": [
+            "Der Kongress tanzt",
+            "Il congresso si diverte"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 527,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/527",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Amor prohibido",
+          "director": "Frank Capra",
+          "aliases": [
+            "Forbidden",
+            "Proibito"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 621,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/621",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "Forbidden",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El doctor Frankenstein",
+          "director": "James Whale",
+          "aliases": [
+            "Frankenstein"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 624,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/624",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "Frankenstein",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "¡Qué sinvergüenzas son los hombres!",
+          "director": "Mario Camerini",
+          "aliases": [
+            "Gli uomini, che mascalzoni...",
+            "What Scoundrels Men Are!",
+            "Gli uomini, che mascalzoni!"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 546,
+          "sourceSections": [
+            "Italia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/546",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "Gli uomini, che mascalzoni!",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Gran Hotel",
+          "director": "Edmund Goulding",
+          "aliases": [
+            "Grand Hotel"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 627,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/627",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "Grand Hotel",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hôtel des étudiants",
+          "director": "Viktor Tourjansky",
+          "aliases": [
+            "Vita goliardica"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 522,
+          "sourceSections": [
+            "Francia"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/522",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932",
+            "https://www.imdb.com/title/tt0154617/",
+            "https://www.garance-patrimoine.fr/l/9922739"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Putyovka v zhizn",
+          "director": "Nikolai Ekk",
+          "aliases": [
+            "Il cammino verso la vita",
+            "Road to Life",
+            "A Ticket to Life",
+            "Putëvka v žizn'"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 561,
+          "sourceSections": [
+            "Urss"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/561",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "Putyovka v zhizn (Road to Life)",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Strange Interlude",
+          "director": "Robert Z. Leonard",
+          "aliases": [
+            "Strano interludio"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 638,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/638",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El campeón",
+          "director": "King Vidor",
+          "aliases": [
+            "The Champ",
+            "Il campione"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 571,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/571",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "legacyAwardEvidence": [
+            {
+              "title": "The Champ",
+              "wins": [],
+              "candidacies": []
+            }
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Avidez de tragedia",
+          "director": "Howard Hawks",
+          "aliases": [
+            "The Crowd Roars",
+            "L'urlo della folla",
+            "La folla ruggisce"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 616,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/616",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Que pague el diablo",
+          "director": "George Fitzmaurice",
+          "aliases": [
+            "The Devil to Pay",
+            "La paga del diavolo",
+            "The Devil to Pay!"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 618,
+          "sourceSections": [
+            "Usa"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/618",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The faithful Heart",
+          "director": "Victor Saville",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 537,
+          "sourceSections": [
+            "Gran Bretagna"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/537",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tikhiy Don",
+          "director": "Ivan Pravov; Olga Preobrazhenskaya",
+          "aliases": [
+            "Silenzioso Don",
+            "Il placido Don",
+            "Tikhii Don"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 565,
+          "sourceSections": [
+            "Urss"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/565",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Zwei Menschen",
+          "director": "Erich Waschneck",
+          "aliases": [
+            "Due uomini"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [],
+          "candidacies": [],
+          "asacId": 534,
+          "sourceSections": [
+            "Germania"
+          ],
+          "sources": [
+            "https://asac.labiennale.org/attivita/cinema/534",
+            "https://asac.labiennale.org/attivita/cinema/annali?anno=1932"
+          ],
+          "competitionStatus": "NO_COMPETITIVA",
+          "award": "Selección · edición no competitiva",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ]
+    }
+  ]
+}

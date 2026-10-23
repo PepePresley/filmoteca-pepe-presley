@@ -1,0 +1,890 @@
+{
+  "year": 1929,
+  "editions": [
+    {
+      "festival": "Oscar",
+      "year": 1929,
+      "section": "Premios Oscar · 1.ª edición",
+      "films": [
+        {
+          "title": "La última orden",
+          "director": "Josef von Sternberg",
+          "aliases": [
+            "The Last Command"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Emil Jannings"
+          ],
+          "nominations": [
+            "Actor protagonista · Emil Jannings",
+            "Writing (Original Story) · Lajos Biro"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Emil Jannings"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Emil Jannings",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actor protagonista|Emil Jannings",
+              "associatedFilms": [
+                "La última orden",
+                "El destino de la carne"
+              ]
+            },
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Lajos Biro"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Lajos Biro"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actor protagonista · Emil Jannings",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El destino de la carne",
+          "director": "Victor Fleming",
+          "aliases": [
+            "The Way of All Flesh"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Emil Jannings"
+          ],
+          "nominations": [
+            "Actor protagonista · Emil Jannings"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Emil Jannings"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Emil Jannings",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actor protagonista|Emil Jannings",
+              "associatedFilms": [
+                "La última orden",
+                "El destino de la carne"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actor protagonista · Emil Jannings",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El séptimo cielo",
+          "director": "Frank Borzage",
+          "aliases": [
+            "7th Heaven"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Janet Gaynor",
+            "Directing (Dramatic Picture) · Frank Borzage",
+            "Writing (Adaptation) · Benjamin Glazer"
+          ],
+          "nominations": [
+            "Actriz protagonista · Janet Gaynor",
+            "Diseño de producción · Harry Oliver",
+            "Directing (Dramatic Picture) · Frank Borzage",
+            "Outstanding Picture · Fox",
+            "Writing (Adaptation) · Benjamin Glazer"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Janet Gaynor"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Janet Gaynor",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actriz protagonista|Janet Gaynor",
+              "associatedFilms": [
+                "El séptimo cielo",
+                "El ángel de la calle",
+                "Sunrise"
+              ]
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Harry Oliver"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Harry Oliver"
+            },
+            {
+              "category": "Directing (Dramatic Picture)",
+              "people": [
+                "Frank Borzage"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Frank Borzage"
+            },
+            {
+              "category": "Outstanding Picture",
+              "people": [
+                "Fox"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Fox"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Benjamin Glazer"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Benjamin Glazer"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actriz protagonista · Janet Gaynor · Directing (Dramatic Picture) · Frank Borzage · Writing (Adaptation) · Benjamin Glazer",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El ángel de la calle",
+          "director": "Frank Borzage",
+          "aliases": [
+            "Street Angel"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Janet Gaynor"
+          ],
+          "nominations": [
+            "Actriz protagonista · Janet Gaynor"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Janet Gaynor"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Janet Gaynor",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actriz protagonista|Janet Gaynor",
+              "associatedFilms": [
+                "El séptimo cielo",
+                "El ángel de la calle",
+                "Sunrise"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actriz protagonista · Janet Gaynor",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sunrise",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Janet Gaynor",
+            "Fotografía · Charles Rosher; Karl Struss",
+            "Unique and Artistic Picture · Fox"
+          ],
+          "nominations": [
+            "Actriz protagonista · Janet Gaynor",
+            "Diseño de producción · Rochus Gliese",
+            "Fotografía · Charles Rosher; Karl Struss",
+            "Unique and Artistic Picture · Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Janet Gaynor"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Janet Gaynor",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actriz protagonista|Janet Gaynor",
+              "associatedFilms": [
+                "El séptimo cielo",
+                "El ángel de la calle",
+                "Sunrise"
+              ]
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Rochus Gliese"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Rochus Gliese"
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "Charles Rosher",
+                "Karl Struss"
+              ],
+              "person": "Charles Rosher; Karl Struss",
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929"
+            },
+            {
+              "category": "Unique and Artistic Picture",
+              "people": [
+                "Fox"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Fox"
+            }
+          ],
+          "award": "Actriz protagonista · Janet Gaynor · Fotografía · Charles Rosher; Karl Struss · Unique and Artistic Picture · Fox",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Dove",
+          "director": "Roland West",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · William Cameron Menzies"
+          ],
+          "nominations": [
+            "Diseño de producción · William Cameron Menzies"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "William Cameron Menzies"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "William Cameron Menzies",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Diseño de producción|William Cameron Menzies",
+              "associatedFilms": [
+                "The Dove",
+                "Tempest"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Diseño de producción · William Cameron Menzies",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tempest",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción · William Cameron Menzies"
+          ],
+          "nominations": [
+            "Diseño de producción · William Cameron Menzies"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "William Cameron Menzies"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "William Cameron Menzies",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Diseño de producción|William Cameron Menzies",
+              "associatedFilms": [
+                "The Dove",
+                "Tempest"
+              ]
+            }
+          ],
+          "award": "Diseño de producción · William Cameron Menzies",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hermanos de armas",
+          "director": "Lewis Milestone",
+          "aliases": [
+            "Two Arabian Knights"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Directing (Comedy Picture) · Lewis Milestone"
+          ],
+          "nominations": [
+            "Directing (Comedy Picture) · Lewis Milestone"
+          ],
+          "candidacies": [
+            {
+              "category": "Directing (Comedy Picture)",
+              "people": [
+                "Lewis Milestone"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Lewis Milestone"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Directing (Comedy Picture) · Lewis Milestone",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Alas",
+          "director": "William A. Wellman",
+          "aliases": [
+            "Wings"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Outstanding Picture · Paramount Famous Lasky",
+            "Engineering Effects · Roy Pomeroy"
+          ],
+          "nominations": [
+            "Outstanding Picture · Paramount Famous Lasky",
+            "Engineering Effects · Roy Pomeroy"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Picture",
+              "people": [
+                "Paramount Famous Lasky"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Paramount Famous Lasky"
+            },
+            {
+              "category": "Engineering Effects",
+              "people": [
+                "Roy Pomeroy"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Roy Pomeroy"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Outstanding Picture · Paramount Famous Lasky · Engineering Effects · Roy Pomeroy",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El cantor de Jazz",
+          "director": "Alan Crosland",
+          "aliases": [
+            "The Jazz Singer"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Award"
+          ],
+          "nominations": [
+            "Writing (Adaptation) · Alfred Cohn",
+            "Special Award"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Alfred Cohn"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Alfred Cohn"
+            },
+            {
+              "category": "Special Award",
+              "people": [],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": ""
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Special Award",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La ley del hampa",
+          "director": "Josef von Sternberg",
+          "aliases": [
+            "Underworld"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Writing (Original Story) · Ben Hecht"
+          ],
+          "nominations": [
+            "Writing (Original Story) · Ben Hecht"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Ben Hecht"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Ben Hecht"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Writing (Original Story) · Ben Hecht",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El circo",
+          "director": "Charlie Chaplin",
+          "aliases": [
+            "The Circus"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Special Award"
+          ],
+          "nominations": [
+            "Special Award"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Award",
+              "people": [],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": ""
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Special Award",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Noose",
+          "director": "John Francis Dillon",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Richard Barthelmess"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Richard Barthelmess"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Richard Barthelmess",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actor protagonista|Richard Barthelmess",
+              "associatedFilms": [
+                "The Noose",
+                "The Patent Leather Kid"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Patent Leather Kid",
+          "director": "Alfred Santell",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Richard Barthelmess"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Richard Barthelmess"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Richard Barthelmess",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Actor protagonista|Richard Barthelmess",
+              "associatedFilms": [
+                "The Noose",
+                "The Patent Leather Kid"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "A Ship Comes In",
+          "director": "William K. Howard",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Louise Dresser"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Louise Dresser"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Louise Dresser"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Sadie Thompson",
+          "director": "Raoul Walsh",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Gloria Swanson",
+            "Fotografía · George Barnes"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Gloria Swanson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Gloria Swanson"
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "George Barnes"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "George Barnes",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Fotografía|George Barnes",
+              "associatedFilms": [
+                "Sadie Thompson",
+                "The Devil Dancer",
+                "The Magic Flame"
+              ]
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Devil Dancer",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · George Barnes"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "people": [
+                "George Barnes"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "George Barnes",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Fotografía|George Barnes",
+              "associatedFilms": [
+                "Sadie Thompson",
+                "The Devil Dancer",
+                "The Magic Flame"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Magic Flame",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · George Barnes"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "people": [
+                "George Barnes"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "George Barnes",
+              "sharedCandidacyId": "Oscar|1929|Premios Oscar · 1.ª edición|Fotografía|George Barnes",
+              "associatedFilms": [
+                "Sadie Thompson",
+                "The Devil Dancer",
+                "The Magic Flame"
+              ]
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Relámpago",
+          "director": "Ted Wilde",
+          "aliases": [
+            "Speedy"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Directing (Comedy Picture) · Ted Wilde"
+          ],
+          "candidacies": [
+            {
+              "category": "Directing (Comedy Picture)",
+              "people": [
+                "Ted Wilde"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Ted Wilde"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El capitán Sorrell",
+          "director": "Herbert Brenon",
+          "aliases": [
+            "Sorrell and Son"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Directing (Dramatic Picture) · Herbert Brenon"
+          ],
+          "candidacies": [
+            {
+              "category": "Directing (Dramatic Picture)",
+              "people": [
+                "Herbert Brenon"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Herbert Brenon"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Y el mundo marcha",
+          "director": "King Vidor",
+          "aliases": [
+            "The Crowd"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Directing (Dramatic Picture) · King Vidor",
+            "Unique and Artistic Picture · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Directing (Dramatic Picture)",
+              "people": [
+                "King Vidor"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "King Vidor"
+            },
+            {
+              "category": "Unique and Artistic Picture",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La horda",
+          "director": "Lewis Milestone",
+          "aliases": [
+            "The Racket"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Outstanding Picture · The Caddo Company"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Picture",
+              "people": [
+                "The Caddo Company"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "The Caddo Company"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Chang",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Unique and Artistic Picture · Paramount Famous Lasky"
+          ],
+          "candidacies": [
+            {
+              "category": "Unique and Artistic Picture",
+              "people": [
+                "Paramount Famous Lasky"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Paramount Famous Lasky"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Glorious Betsy",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Adaptation) · Anthony Coldeway"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Anthony Coldeway"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Anthony Coldeway"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Private Life of Helen of Troy",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Title Writing) · Gerald Duffy"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Title Writing)",
+              "people": [
+                "Gerald Duffy"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1929",
+              "person": "Gerald Duffy"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ],
+      "ceremonyNumber": 1,
+      "ceremonyDate": "1929-05-16",
+      "eligibilityPeriod": "1927-08-01/1928-08-01",
+      "archiveLabel": 1929
+    }
+  ]
+}

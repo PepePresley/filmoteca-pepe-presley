@@ -51,7 +51,8 @@
     "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
     "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
-    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
   ],
   "sources": [
     {
@@ -230,19 +231,7 @@
       "impact": "Los largos y cortos premiados están separados por formato; clasificación competitiva queda pendiente."
     }
   ],
-  "sharedCandidacies": [
-    {
-      "id": "Oscar|1946|Premios Oscar · 18.ª edición|Music (Music Score of a Dramatic or Comedy Picture)|Werner Janssen",
-      "category": "Music (Music Score of a Dramatic or Comedy Picture)",
-      "person": "Werner Janssen",
-      "winner": false,
-      "films": [
-        "El sureño (El hombre del sur)",
-        "El capitán Kidd",
-        "Semilla de odio"
-      ]
-    }
-  ],
+  "sharedCandidacies": [],
   "unresolvedMasterMatches": [],
   "unpublishedEvidence": []
 }

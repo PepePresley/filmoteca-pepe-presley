@@ -1,0 +1,113 @@
+{
+  "year": 1929,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1929_para_Sol.zip",
+    "sha256": "219a2cd9cba373ec56e55cff3eaf2b4b9b4d78a8d9132c0e55fd0efeb7336b5d"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 1.ª edición",
+      "films": 25,
+      "declaredOwned": 18
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+  ],
+  "sources": [
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1929",
+      "evidenceFile": "extracciones/oscar_1929_transcripcion.json",
+      "sourceType": "archivo oficial Academy of Motion Picture Arts and Sciences",
+      "note": "1ª ceremonia; elegibilidad 1927-08-01/1928-08-01"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1929",
+      "status": "complete",
+      "coverage": "1ª ceremonia; candidaturas cinematográficas agrupadas por película a partir del archivo oficial.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "No se cotejaron IDs/títulos FA ni directores en esta pasada.",
+      "missing": [
+        "IDs/títulos FilmAffinity y directores pendientes de cotejo."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "FilmAffinity",
+      "question": "IDs, títulos FilmAffinity y directores no se cotejaron."
+    }
+  ],
+  "sharedCandidacies": [
+    {
+      "id": "Oscar|1929|Premios Oscar · 1.ª edición|Actor protagonista|Emil Jannings",
+      "category": "Actor protagonista",
+      "person": "Emil Jannings",
+      "winner": true,
+      "films": [
+        "La última orden",
+        "El destino de la carne"
+      ]
+    },
+    {
+      "id": "Oscar|1929|Premios Oscar · 1.ª edición|Actriz protagonista|Janet Gaynor",
+      "category": "Actriz protagonista",
+      "person": "Janet Gaynor",
+      "winner": true,
+      "films": [
+        "El séptimo cielo",
+        "El ángel de la calle",
+        "Sunrise"
+      ]
+    },
+    {
+      "id": "Oscar|1929|Premios Oscar · 1.ª edición|Diseño de producción|William Cameron Menzies",
+      "category": "Diseño de producción",
+      "person": "William Cameron Menzies",
+      "winner": true,
+      "films": [
+        "The Dove",
+        "Tempest"
+      ]
+    },
+    {
+      "id": "Oscar|1929|Premios Oscar · 1.ª edición|Actor protagonista|Richard Barthelmess",
+      "category": "Actor protagonista",
+      "person": "Richard Barthelmess",
+      "winner": false,
+      "films": [
+        "The Noose",
+        "The Patent Leather Kid"
+      ]
+    },
+    {
+      "id": "Oscar|1929|Premios Oscar · 1.ª edición|Fotografía|George Barnes",
+      "category": "Fotografía",
+      "person": "George Barnes",
+      "winner": false,
+      "films": [
+        "Sadie Thompson",
+        "The Devil Dancer",
+        "The Magic Flame"
+      ]
+    }
+  ],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": []
+}

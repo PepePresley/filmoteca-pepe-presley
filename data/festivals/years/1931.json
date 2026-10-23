@@ -1,0 +1,797 @@
+{
+  "year": 1931,
+  "editions": [
+    {
+      "festival": "Oscar",
+      "year": 1931,
+      "section": "Premios Oscar · 4.ª edición",
+      "films": [
+        {
+          "title": "Un alma libre",
+          "director": "Clarence Brown",
+          "aliases": [
+            "A Free Soul"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actor protagonista · Lionel Barrymore"
+          ],
+          "nominations": [
+            "Actor protagonista · Lionel Barrymore",
+            "Actriz protagonista · Norma Shearer",
+            "Dirección · Clarence Brown"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Lionel Barrymore"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Lionel Barrymore"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Norma Shearer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Norma Shearer"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Clarence Brown"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Clarence Brown"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Actor protagonista · Lionel Barrymore",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Skippy",
+          "director": "Norman Taurog",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Dirección · Norman Taurog"
+          ],
+          "nominations": [
+            "Actor protagonista · Jackie Cooper",
+            "Dirección · Norman Taurog",
+            "Outstanding Production · Paramount Publix",
+            "Writing (Adaptation) · Joseph L. Mankiewicz; Sam Mintz"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Jackie Cooper"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Jackie Cooper"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Norman Taurog"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Norman Taurog"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Paramount Publix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Paramount Publix"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Joseph L. Mankiewicz",
+                "Sam Mintz"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Joseph L. Mankiewicz; Sam Mintz"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Dirección · Norman Taurog",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Cimarrón",
+          "director": "Wesley Ruggles",
+          "aliases": [
+            "Cimarron"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Diseño de producción",
+            "Outstanding Production · RKO Radio",
+            "Writing (Adaptation) · Howard Estabrook"
+          ],
+          "nominations": [
+            "Actor protagonista · Richard Dix",
+            "Actriz protagonista · Irene Dunne",
+            "Diseño de producción",
+            "Fotografía · Edward Cronjager",
+            "Dirección · Wesley Ruggles",
+            "Outstanding Production · RKO Radio",
+            "Writing (Adaptation) · Howard Estabrook"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Richard Dix"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Richard Dix"
+            },
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Irene Dunne"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Irene Dunne"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "note": "La página de la ceremonia nombra la película, pero no identifica claramente a la persona acreditada.",
+              "person": ""
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "Edward Cronjager"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Edward Cronjager"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Wesley Ruggles"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Wesley Ruggles"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "RKO Radio"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "RKO Radio"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Howard Estabrook"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Howard Estabrook"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Diseño de producción · Outstanding Production · RKO Radio · Writing (Adaptation) · Howard Estabrook",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Fruta amarga",
+          "director": "George W. Hill",
+          "aliases": [
+            "Min and Bill"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Actriz protagonista · Marie Dressler"
+          ],
+          "nominations": [
+            "Actriz protagonista · Marie Dressler"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Marie Dressler"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Marie Dressler"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Actriz protagonista · Marie Dressler",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tabú",
+          "director": "F. W. Murnau",
+          "aliases": [
+            "Tabu",
+            "Tabu: A Story of the South Seas"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Fotografía · Floyd Crosby"
+          ],
+          "nominations": [
+            "Fotografía · Floyd Crosby"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "people": [
+                "Floyd Crosby"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Floyd Crosby"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Fotografía · Floyd Crosby",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La escuadrilla del amanecer",
+          "director": "Howard Hawks",
+          "aliases": [
+            "The Dawn Patrol"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [
+            "Writing (Original Story) · John Monk Saunders"
+          ],
+          "nominations": [
+            "Writing (Original Story) · John Monk Saunders"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "John Monk Saunders"
+              ],
+              "winner": true,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "John Monk Saunders"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Writing (Original Story) · John Monk Saunders",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Royal Family of Broadway",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Fredric March"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Fredric March"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Fredric March"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Un gran reportaje",
+          "director": "Lewis Milestone",
+          "aliases": [
+            "The Front Page"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actor protagonista · Adolphe Menjou",
+            "Dirección · Lewis Milestone",
+            "Outstanding Production · The Caddo Company"
+          ],
+          "candidacies": [
+            {
+              "category": "Actor protagonista",
+              "people": [
+                "Adolphe Menjou"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Adolphe Menjou"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Lewis Milestone"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Lewis Milestone"
+            },
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "The Caddo Company"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "The Caddo Company"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Marruecos",
+          "director": "Josef von Sternberg",
+          "aliases": [
+            "Morocco"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Marlene Dietrich",
+            "Diseño de producción · Hans Dreier",
+            "Fotografía · Lee Garmes",
+            "Dirección · Josef von Sternberg"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Marlene Dietrich"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Marlene Dietrich"
+            },
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Hans Dreier"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Hans Dreier"
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "Lee Garmes"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Lee Garmes"
+            },
+            {
+              "category": "Dirección",
+              "people": [
+                "Josef von Sternberg"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Josef von Sternberg"
+            }
+          ],
+          "directorSource": "Crédito de candidatura de dirección del archivo oficial Oscar",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Holiday",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Actriz protagonista · Ann Harding",
+            "Writing (Adaptation) · Horace Jackson"
+          ],
+          "candidacies": [
+            {
+              "category": "Actriz protagonista",
+              "people": [
+                "Ann Harding"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Ann Harding"
+            },
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Horace Jackson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Horace Jackson"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Just Imagine",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Stephen Goosson; Ralph Hammeras"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Stephen Goosson",
+                "Ralph Hammeras"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Stephen Goosson; Ralph Hammeras"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Svengali",
+          "director": "Archie Mayo",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Anton Grot",
+            "Fotografía · Barney “Chick” McGill"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Anton Grot"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Anton Grot"
+            },
+            {
+              "category": "Fotografía",
+              "people": [
+                "Barney “Chick” McGill"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Barney “Chick” McGill"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Whoopee!",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Diseño de producción · Richard Day"
+          ],
+          "candidacies": [
+            {
+              "category": "Diseño de producción",
+              "people": [
+                "Richard Day"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Richard Day"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "The Right to Love",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Fotografía · Charles Lang"
+          ],
+          "candidacies": [
+            {
+              "category": "Fotografía",
+              "people": [
+                "Charles Lang"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Charles Lang"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "East Lynne",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Outstanding Production · Fox"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Fox"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Fox"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Trader Horn",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Outstanding Production · Metro-Goldwyn-Mayer"
+          ],
+          "candidacies": [
+            {
+              "category": "Outstanding Production",
+              "people": [
+                "Metro-Goldwyn-Mayer"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Metro-Goldwyn-Mayer"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El código criminal",
+          "director": "Howard Hawks",
+          "aliases": [
+            "The Criminal Code"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Adaptation) · Seton I. Miller; Fred Niblo, Jr."
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Seton I. Miller",
+                "Fred Niblo, Jr."
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Seton I. Miller; Fred Niblo, Jr."
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Hampa dorada",
+          "director": "Mervyn LeRoy",
+          "aliases": [
+            "Little Caesar"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Adaptation) · Francis Faragoh; Robert N. Lee"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Adaptation)",
+              "people": [
+                "Francis Faragoh",
+                "Robert N. Lee"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Francis Faragoh; Robert N. Lee"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "La senda del crimen",
+          "director": "Archie Mayo",
+          "aliases": [
+            "The Doorway to Hell"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Rowland Brown"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Rowland Brown"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Rowland Brown"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Falsa personalidad",
+          "director": "Harry d'Abbadie d'Arrast",
+          "aliases": [
+            "Laughter"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Harry d'Abbadie d'Arrast; Douglas Doty; Donald Ogden Stewart"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Harry d'Abbadie d'Arrast",
+                "Douglas Doty",
+                "Donald Ogden Stewart"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Harry d'Abbadie d'Arrast; Douglas Doty; Donald Ogden Stewart"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "El enemigo público",
+          "director": "William A. Wellman",
+          "aliases": [
+            "The Public Enemy"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · John Bright; Kubec Glasmon"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "John Bright",
+                "Kubec Glasmon"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "John Bright; Kubec Glasmon"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Candidatura documentada",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Smart Money",
+          "director": "",
+          "aliases": [],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Writing (Original Story) · Lucien Hubbard; Joseph Jackson"
+          ],
+          "candidacies": [
+            {
+              "category": "Writing (Original Story)",
+              "people": [
+                "Lucien Hubbard",
+                "Joseph Jackson"
+              ],
+              "winner": false,
+              "source": "https://www.oscars.org/oscars/ceremonies/1932/U--Z",
+              "person": "Lucien Hubbard; Joseph Jackson"
+            }
+          ],
+          "award": "Candidatura documentada",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        }
+      ],
+      "ceremonyNumber": 4,
+      "ceremonyDate": "1931-11-10",
+      "eligibilityPeriod": "1930-08-01/1931-07-31",
+      "archiveLabel": 1932
+    }
+  ]
+}

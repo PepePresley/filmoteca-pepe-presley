@@ -1,0 +1,149 @@
+{
+  "year": 1937,
+  "status": "CONSTRUIDO_CON_BLOQUES_PENDIENTES",
+  "completionDate": "2026-10-23",
+  "preparationPackage": {
+    "name": "Filmoteca_LAB_1937_para_Sol.zip",
+    "sha256": "2e93bac23daf4f60775fe109ecdde41ae4ce4e83d9e140b55c4410fae7c6caa5"
+  },
+  "counts": [
+    {
+      "festival": "Oscar",
+      "section": "Premios Oscar · 9.ª edición",
+      "films": 52,
+      "declaredOwned": 29
+    },
+    {
+      "festival": "Venecia",
+      "section": "Cortometrajes premiados",
+      "films": 3,
+      "declaredOwned": 0
+    },
+    {
+      "festival": "Venecia",
+      "section": "Largometrajes documentados · clasificación parcial",
+      "films": 41,
+      "declaredOwned": 16
+    }
+  ],
+  "notes": [
+    "Integración por bloques tras supervisión de los paquetes de Luna. Propiedad acreditada por maestro aprobado, hoja y fila física; los casos ambiguos se conservan pendientes sin declarar propiedad. No es auditoría individual exhaustiva.",
+    "Fuentes y distinciones históricas conservadas: solo cortos premiados en festivales; categorías cinematográficas completas en Oscar/BAFTA, con especiales asociados a películas separados.",
+    "Los primeros Oscar usan número y fecha real, no la etiqueta de la URL ni la fórmula año−1928. Se mantienen las dos ceremonias1930, periodos de elegibilidad y candidaturas compartidas dentro de cada ceremonia.1933 no tiene ceremonia ni edición de Venecia.",
+    "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
+    "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
+    "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+  ],
+  "sources": [
+    {
+      "family": "Oscar",
+      "url": "https://www.oscars.org/oscars/ceremonies/1937/V",
+      "evidenceFile": "extracciones/oscar_1937_transcripcion.json",
+      "sourceType": "official Academy archive",
+      "note": "9th ceremony, 4 March 1937, films released in 1936."
+    },
+    {
+      "family": "Oscar — premios especiales",
+      "url": "https://www.oscars.org/oscars/ceremonies/1937/memorable-moments",
+      "evidenceFile": "extracciones/oscar_1937_premios_personales.json",
+      "sourceType": "official Academy memorable moments"
+    },
+    {
+      "family": "Venecia",
+      "url": "https://www.labiennale.org/en/history-venice-film-festival",
+      "evidenceFile": "extracciones/venecia_1937_extracto_oficial.txt",
+      "sourceType": "official Biennale history",
+      "note": "Awards only; no complete selection."
+    },
+    {
+      "family": "Cannes",
+      "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
+      "evidenceFile": "extracciones/cannes_1937_extracto_oficial.txt",
+      "sourceType": "official Cannes history"
+    }
+  ],
+  "packageCoverage": [
+    {
+      "block": "Oscar 1937",
+      "status": "complete",
+      "coverage": "9.ª ceremonia, películas elegibles de 1936; 21 categorías cinematográficas con candidaturas y ganadores. Premio personal/institucional March of Time separado.",
+      "missing": []
+    },
+    {
+      "block": "Venecia 1937",
+      "status": "partial",
+      "coverage": "Se conservan cuatro premios confirmados en fuentes oficiales.",
+      "missing": [
+        "Selección completa no reconstruida."
+      ]
+    },
+    {
+      "block": "Cannes 1937",
+      "status": "no celebrado / aún no fundado",
+      "coverage": "No existía edición.",
+      "missing": []
+    },
+    {
+      "block": "Berlín 1937",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado; sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "San Sebastián 1937",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado; sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "BAFTA 1937",
+      "status": "no celebrado",
+      "coverage": "Estado histórico previo reutilizado; sin nueva búsqueda.",
+      "missing": []
+    },
+    {
+      "block": "Identidad FilmAffinity",
+      "status": "partial",
+      "coverage": "Títulos transcritos del archivo oficial; identidad FA no cotejada en bloque.",
+      "missing": [
+        "IDs y títulos FA; directores de películas Oscar."
+      ]
+    }
+  ],
+  "packageDoubts": [
+    {
+      "block": "Venecia 1937",
+      "question": "La fuente oficial consultada confirma cuatro galardones, pero no permite reconstruir la selección completa."
+    },
+    {
+      "block": "Oscar 1937",
+      "question": "Dance Direction conserva los nombres de las secuencias como descripción de la candidatura; falta cotejo de créditos personales de coreografía."
+    },
+    {
+      "block": "FilmAffinity",
+      "question": "IDs/títulos FA y directores de películas nominadas pendientes de cotejo en bloque."
+    }
+  ],
+  "sharedCandidacies": [],
+  "unresolvedMasterMatches": [],
+  "unpublishedEvidence": [],
+  "veniceSupplement": {
+    "name": "Venecia_1932_1942_complemento_para_Sol.zip",
+    "sha256": "1e7acf8681600b39033c556e78b921fe563af4e7ff9fa510442741748b3a55b9",
+    "coverage": {
+      "year": 1937,
+      "event": "5. Esposizione Internazionale d'Arte Cinematografica",
+      "status": "partial",
+      "longFilms": 41,
+      "shortAwardWinners": 3,
+      "featureCompetitionVsOutOfCompetition": "partial; 36 positive IMDb Mussolini Cup category matches; 5 not individually classified; no unsupported fuori-concorso labels",
+      "personalAwardsNoFilm": 0,
+      "unclassifiedTypeCount": 3,
+      "pendingAwardTypeCount": 0,
+      "competitiveCategoryEvidence": 36,
+      "competitionStatusUnknown": 5
+    }
+  }
+}

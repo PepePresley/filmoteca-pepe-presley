@@ -21,7 +21,8 @@
     "Venecia combina el complemento ASAC con la evidencia anual; las listas por países no se convierten automáticamente en competición. Ediciones bélicas y no competitivas se presentan con sus salvedades; referéndum1932 separado de premios competitivos.",
     "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
-    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados."
+    "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
   ],
   "sources": [
     {
@@ -126,39 +127,7 @@
       "source": "https://catalog.afi.com/Film/645-SAHARA"
     }
   ],
-  "sharedCandidacies": [
-    {
-      "id": "Oscar|1944|Premios Oscar · 16.ª edición|Outstanding Motion Picture|Metro-Goldwyn-Mayer",
-      "category": "Outstanding Motion Picture",
-      "person": "Metro-Goldwyn-Mayer",
-      "winner": false,
-      "films": [
-        "La comedia humana",
-        "Madame Curie"
-      ]
-    },
-    {
-      "id": "Oscar|1944|Premios Oscar · 16.ª edición|Outstanding Motion Picture|20th Century-Fox",
-      "category": "Outstanding Motion Picture",
-      "person": "20th Century-Fox",
-      "winner": false,
-      "films": [
-        "La canción de Bernadette",
-        "El diablo dijo no",
-        "Incidente en Ox-Bow"
-      ]
-    },
-    {
-      "id": "Oscar|1944|Premios Oscar · 16.ª edición|Canción|Harold Arlen (music), Johnny Mercer (lyrics)",
-      "category": "Canción",
-      "person": "Harold Arlen (music), Johnny Mercer (lyrics)",
-      "winner": false,
-      "films": [
-        "El límite es el cielo",
-        "Star Spangled Rhythm"
-      ]
-    }
-  ],
+  "sharedCandidacies": [],
   "unresolvedMasterMatches": [],
   "unpublishedEvidence": []
 }
