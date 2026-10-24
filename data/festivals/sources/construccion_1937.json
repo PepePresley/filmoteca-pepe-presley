@@ -34,7 +34,8 @@
     "Premios heredados que coinciden con fichas del complemento se conservan como evidencia, sin duplicar el palmarés más completo de ASAC. Dos premios de tipología/identidad sin aclarar siguen fuera del programa importable.",
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
     "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
-    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas.",
+    "24/10/2026: resueltas cinco clasificaciones pendientes de largometrajes Venecia 1937; 41 de los 41 largos publicados tienen clasificación positiva de competición basada en listados secundarios. No se certifica programa exhaustivo ni se altera palmarés, identidad o propiedad. Ritmo loco figuraba como Pies de seda en el roster IMDb conservado."
   ],
   "sources": [
     {
@@ -62,6 +63,11 @@
       "url": "https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/",
       "evidenceFile": "extracciones/cannes_1937_extracto_oficial.txt",
       "sourceType": "official Cannes history"
+    },
+    {
+      "url": "https://www.kinoafisha.info/en/awards/biennale/events/biennale-1937/",
+      "type": "secondary_awards_roster",
+      "note": "Candidatura de Shall We Dance bajo Mussolini Cup / Best Foreign Film; All nominees. Corrobora Pies de seda del listado IMDb."
     }
   ],
   "packageCoverage": [
@@ -138,12 +144,116 @@
       "status": "partial",
       "longFilms": 41,
       "shortAwardWinners": 3,
-      "featureCompetitionVsOutOfCompetition": "partial; 36 positive IMDb Mussolini Cup category matches; 5 not individually classified; no unsupported fuori-concorso labels",
+      "featureCompetitionVsOutOfCompetition": "41 positive secondary roster matches after review of five pending identities; no unsupported fuori-concorso labels",
       "personalAwardsNoFilm": 0,
       "unclassifiedTypeCount": 3,
       "pendingAwardTypeCount": 0,
-      "competitiveCategoryEvidence": 36,
-      "competitionStatusUnknown": 5
+      "competitiveCategoryEvidence": 41,
+      "competitionStatusUnknown": 0,
+      "classificationReviewDate": "2026-10-24"
     }
+  },
+  "classificationReview": {
+    "date": "2026-10-24",
+    "scope": "Cinco largometrajes pendientes de clasificación; no reconstrucción de selección ni nueva auditoría completa",
+    "resolved": 5,
+    "remainingAmongPublishedFeatures": 0,
+    "basis": "Listados secundarios de candidaturas; no se presenta como etiquetado oficial de ASAC",
+    "records": [
+      {
+        "title": "Scipione l'africano",
+        "asacId": 948,
+        "previousStatus": "not_determined",
+        "status": "in_competition",
+        "evidence": [
+          {
+            "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+            "type": "secondary_awards_roster",
+            "category": "Best Italian Film",
+            "evidenceTitle": "Escipión, el africano",
+            "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+            "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+          }
+        ]
+      },
+      {
+        "title": "La gran ilusión",
+        "asacId": 891,
+        "previousStatus": "not_determined",
+        "status": "in_competition",
+        "evidence": [
+          {
+            "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+            "type": "secondary_awards_roster",
+            "category": "Best Foreign Film",
+            "evidenceTitle": "La gran ilusión",
+            "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+            "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+          }
+        ]
+      },
+      {
+        "title": "Ha nacido una estrella",
+        "asacId": 995,
+        "previousStatus": "not_determined",
+        "status": "in_competition",
+        "evidence": [
+          {
+            "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+            "type": "secondary_awards_roster",
+            "category": "Best Foreign Film",
+            "evidenceTitle": "Nace una estrella",
+            "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+            "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+          }
+        ]
+      },
+      {
+        "title": "Le messager",
+        "asacId": 893,
+        "previousStatus": "not_determined",
+        "status": "in_competition",
+        "evidence": [
+          {
+            "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+            "type": "secondary_awards_roster",
+            "category": "Best Foreign Film",
+            "evidenceTitle": "El mensajero",
+            "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+            "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+          }
+        ]
+      },
+      {
+        "title": "Ritmo loco",
+        "asacId": 993,
+        "previousStatus": "not_determined",
+        "status": "in_competition",
+        "evidence": [
+          {
+            "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+            "type": "secondary_awards_roster",
+            "category": "Best Foreign Film",
+            "evidenceTitle": "Pies de seda",
+            "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+            "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+          },
+          {
+            "source": "https://www.kinoafisha.info/en/awards/biennale/events/biennale-1937/",
+            "type": "secondary_awards_roster",
+            "category": "Mussolini Cup / Best Foreign Film",
+            "evidenceTitle": "Shall We Dance",
+            "heading": "All nominees"
+          },
+          {
+            "source": "https://www.imdb.com/title/tt0029546/",
+            "type": "identity_alias",
+            "evidence": "Shall We Dance (1937), also known as Pies de seda; alias enlaza la candidatura del listado conservado.",
+            "note": "La omisión atribuida a IMDb en el informe de Luna era una diferencia de título; el roster sí incluye Pies de seda."
+          }
+        ]
+      }
+    ],
+    "reviewCorrection": "Ritmo loco sí está en la transcripción IMDb bajo Pies de seda. No existe contradicción por omisión entre los dos listados consultados."
   }
 }
