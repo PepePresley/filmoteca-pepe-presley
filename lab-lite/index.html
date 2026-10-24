@@ -531,7 +531,8 @@ try{
  }
  try{
    const overlays=[
-     "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=identity-1948-20261024",
+   "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
@@ -544,7 +545,7 @@ try{
        if(ar.ok){
          const annual=await ar.json();
          if(Array.isArray(annual)){
-           const masterYear=/annual_(2024)_overlay\.json/.exec(url);
+           const masterYear=/annual_(1948|2024)_overlay\.json/.exec(url);
            if(masterYear) window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row.y)!==Number(masterYear[1]));
            window.__CATALOGO__=window.__CATALOGO__.concat(annual);
          }
