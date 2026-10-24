@@ -184,3 +184,17 @@ test('runner uses the approved Git base, not a modified map, and scoped generati
   assert.ok(report.errors.some(i=>i.code==='annual-artifact'));
  }finally{fs.rmSync(temp,{recursive:true,force:true});}
 });
+
+test('moving an unchanged annual block preserves unrelated approved associations',()=>{
+ const old={t:'Histórica',y:1948,d:'Director',p:'poster',dur:8};
+ const other={...row};
+ const before=snapshot([edition('BAFTA',1949,'Histórica','Director'),edition('Cannes',2024)], [old,other]);
+ before.set('data/catalog/festival-matches.json',JSON.stringify({matches:{
+  [JSON.stringify(['BAFTA',1949,'Histórica','Director'])]:{...old,i:1},
+  [JSON.stringify(['Cannes',2024,row.t,row.d])]:{...row,i:2}
+ }}));
+ const same=mutate(before,'data/catalog/annual_1948_overlay.json',[{...old,src:'Catalogo_Telegram_1948'}]);
+ assert.deepEqual(planMatches(before,same).years,[]);
+ const fixed=mutate(before,'data/catalog/annual_1948_overlay.json',[{...old,t:'Otra identidad',src:'Catalogo_Telegram_1948'}]);
+ assert.deepEqual(planMatches(before,fixed).years,[1949]);
+});

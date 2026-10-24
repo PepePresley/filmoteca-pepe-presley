@@ -11,7 +11,7 @@
       "festival": "BAFTA",
       "section": "Primera ceremonia · premios de1947 y1948",
       "films": 30,
-      "declaredOwned": 13
+      "declaredOwned": 14
     },
     {
       "festival": "Cannes",
@@ -61,7 +61,8 @@
     "BAFTA: primera ceremonia con premios de periodos1947 y1948 diferenciados. Jane Wyman se conserva como representante, sin atribuirle el premio de The Best Years of Our Lives. Candidaturas históricas parciales.",
     "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas.",
     "24/10/2026: incorporada The Cat's Concerto al premio especial BAFTA 1949. 30 películas y 33 registros frente al archivo oficial actual; salvedades históricas conservadas. Identidad y propiedad reutilizadas de la evidencia aprobada Oscar 1947.",
-    "La nueva candidatura queda sin asociación pública: el catálogo contiene una falsa identidad de otro corto en 1948; la propiedad acreditada de 1947 se conserva en unresolvedMasterMatches, sin marcar como ausencia de la colección."
+    "La nueva candidatura queda sin asociación pública: el catálogo contiene una falsa identidad de otro corto en 1948; la propiedad acreditada de 1947 se conserva en unresolvedMasterMatches, sin marcar como ausencia de la colección.",
+    "24/10/2026: resuelta la asociación de Un concierto gatuno con la identidad 1947 (FilmAffinity 367820). Overlay anual 1948 conserva todas sus filas y corrige únicamente Limpieza de ratón (FilmAffinity 572178); sin póster dudoso ni cambios en maestros."
   ],
   "sources": [
     {
@@ -253,26 +254,7 @@
     }
   ],
   "sharedCandidacies": [],
-  "unresolvedMasterMatches": [
-    {
-      "festival": "BAFTA",
-      "section": "Primera ceremonia · premios de1947 y1948",
-      "title": "Tom y Jerry: Un concierto gatuno",
-      "director": "William Hanna, Joseph Barbera",
-      "ownership": "CONFIRMED_IN_MASTER_ASSOCIATION_PENDING",
-      "reference": {
-        "masterFile": "Catalogo_Telegram_1947.xlsx",
-        "sheet": "Catálogo",
-        "physicalRow": 13,
-        "titleES": "Tom y Jerry: Un concierto gatuno",
-        "originalTitle": "The Cat Concerto",
-        "director": "William Hanna, Joseph Barbera",
-        "year": 1947
-      },
-      "evidenceReuse": "Referencia del maestro aprobado ya acreditada en Oscar 1947; misma identidad y dirección.",
-      "reason": "El resolver de BAFTA 1949 elige una ficha del catálogo rotulada 1948 cuyo archivo es Tom y Jerry - Limpieza de ratón (1948). La referencia aprobada de Un concierto gatuno es 1947, fila 13. No declarar asociación hasta disponer de una corrección focalizada."
-    }
-  ],
+  "unresolvedMasterMatches": [],
   "unpublishedEvidence": [],
   "baftaCoverageReview": {
     "date": "2026-10-24",
@@ -298,6 +280,7 @@
       "El premio especial figura como Non Competitive en BAFTA; se conserva como candidatura al premio, no competición de festival."
     ],
     "ownershipEvidenceReuse": "data/festivals/sources/propiedad_festivales_1947.json",
-    "associationStatus": "PENDIENTE: propiedad acreditada, asociación bloqueada para evitar otra película."
+    "associationStatus": "RESUELTO: ficha de 1947; falso positivo de 1948 corregido por overlay local.",
+    "associationResolutionDate": "2026-10-24"
   }
 }

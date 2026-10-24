@@ -19,12 +19,28 @@ const encoded=value=>JSON.stringify(value);
 export { catalogRows };
 const rowInput=r=>[r?.t,r?.y,r?.d,r?.ot,r?.original_title,r?.en,r?.english_title,
  /_festival$/.test(String(r?.src||'')),r?.p,r?.noPosterFallback,r?.dur];
+// Find records moved relative to unchanged records. Occurrence tokens retain
+// duplicates; a longest increasing subsequence avoids treating a moved annual
+// block as changes to every record after it. Tie outcomes are still compared.
+function movedRows(before,after){
+ const tokens=rows=>{const counts=new Map();return rows.map(r=>{
+  const key=encoded(rowInput(r)),n=counts.get(key)||0;counts.set(key,n+1);
+  return {key:encoded([key,n]),row:r};
+ })};
+ const old=tokens(before),next=tokens(after),positions=new Map(next.map((r,i)=>[r.key,i]));
+ const common=old.filter(r=>positions.has(r.key)),tails=[],previous=new Array(common.length).fill(-1);
+ for(let i=0;i<common.length;i++){
+  const position=positions.get(common[i].key);let lo=0,hi=tails.length;
+  while(lo<hi){const mid=(lo+hi)>>1;if(positions.get(common[tails[mid]].key)<position)lo=mid+1;else hi=mid;}
+  if(lo)previous[i]=tails[lo-1];tails[lo]=i;
+ }
+ const stable=new Set();
+ for(let i=tails.at(-1);i!==undefined&&i>=0;i=previous[i])stable.add(common[i].key);
+ return common.filter(r=>!stable.has(r.key)).map(r=>r.row);
+}
 function changedRows(before,after){
  const oldKeys=before.map(r=>encoded(rowInput(r))), keys=after.map(r=>encoded(rowInput(r)));
  const oldSet=new Set(oldKeys), set=new Set(keys);
- // Changes in relative order can change tie winners. A simple insertion shifts
- // storage indexes but leaves the relative order of existing records intact.
- if(encoded(oldKeys.filter(k=>set.has(k)))!==encoded(keys.filter(k=>oldSet.has(k))))return [...before,...after];
  return [...before.filter((r,i)=>!set.has(oldKeys[i])),...after.filter((r,i)=>!oldSet.has(keys[i]))];
 }
 function filmInput(ed,f){
@@ -69,8 +85,11 @@ export function planMatches(before,after){
  if(catalogChanged){
   const oldPrepared=prepare(makeIndex(oldCatalog)), prepared=prepare(makeIndex(catalog));
   const oldBasePrepared=prepare(makeIndex(oldBase)), basePrepared=prepare(makeIndex(base));
+  // A replaced annual overlay can move unchanged records without changing any
+  // selected identity. Compare actual outcomes for moves, including tie winners.
+  const moved=[...movedRows(oldCatalog,catalog),...movedRows(oldBase,base)];
   const changed=[...changedRows(oldCatalog,catalog),...changedRows(oldBase,base)];
-  const changedPrepared=prepare(makeIndex(changed));
+  const changedPrepared=prepare(makeIndex([...changed,...moved]));
   const identities=new Set(changedRows(oldCatalog,catalog).map(r=>encoded([r?.t||'',Number(r?.y)||0,r?.d||''])));
   const approved=parse(before,mapPath,{matches:{}}).matches;
   // Compare actual outcomes, including aliases, displaced years, ties and poster

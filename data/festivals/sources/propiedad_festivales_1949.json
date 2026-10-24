@@ -1849,6 +1849,24 @@
       "director": "Martin Rikli",
       "ownership": "PENDING",
       "reference": null
+    },
+    {
+      "festival": "BAFTA",
+      "section": "Primera ceremonia · premios de1947 y1948",
+      "title": "Tom y Jerry: Un concierto gatuno",
+      "director": "William Hanna, Joseph Barbera",
+      "ownership": "CONFIRMED",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "Tom y Jerry: Un concierto gatuno",
+        "originalTitle": "The Cat Concerto",
+        "director": "William Hanna, Joseph Barbera",
+        "year": 1947
+      },
+      "evidenceReuse": "Referencia del maestro aprobado ya acreditada en Oscar 1947; misma identidad y dirección.",
+      "identitySource": "https://www.filmaffinity.com/es/film367820.html"
     }
   ]
 }

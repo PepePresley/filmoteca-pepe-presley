@@ -533,7 +533,8 @@ try{
  window.__CATALOGO__=await r.json();
  try{
    const overlays=[
-     "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
+     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=identity-1948-20261024",
+   "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
@@ -546,7 +547,7 @@ try{
        if(ar.ok){
          const annual=await ar.json();
          if(Array.isArray(annual)){
-           const masterYear=/annual_(2024)_overlay\.json/.exec(url);
+           const masterYear=/annual_(1948|2024)_overlay\.json/.exec(url);
            if(masterYear) window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row.y)!==Number(masterYear[1]));
            window.__CATALOGO__=window.__CATALOGO__.concat(annual);
          }
@@ -803,6 +804,7 @@ async function ensureFullCatalog(){
  const full=await rr.json();
  for(const url of [
    "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
+   "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=identity-1948-20261024",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
@@ -815,7 +817,8 @@ async function ensureFullCatalog(){
      if(ar.ok){
        const annual=await ar.json();
        if(Array.isArray(annual)){
-         if(/annual_2024_overlay\.json/.test(url)) for(let i=full.length-1;i>=0;i--)if(Number(full[i].y)===2024)full.splice(i,1);
+         const replacementYear=/annual_(1948|2024)_overlay\.json/.exec(url);
+         if(replacementYear) for(let i=full.length-1;i>=0;i--)if(Number(full[i].y)===Number(replacementYear[1]))full.splice(i,1);
          for(const row of annual) full.push(row);
        }
      }
