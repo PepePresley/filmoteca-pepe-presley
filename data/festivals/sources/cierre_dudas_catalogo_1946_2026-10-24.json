@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-24",
+  "masterSha256": "40d612e963677f59dff377b525976d051a3f4b33d3a14eb877a63e3e758fc136",
+  "source": "Luna, revisión actualizada y JSON corregido por el usuario",
+  "changes": [
+    {
+      "message": 410,
+      "film": "Casey at the Bat",
+      "year": 1946,
+      "director": "Jack Kinney",
+      "evidence": "https://www.filmaffinity.com/es/film809755.html"
+    },
+    {
+      "message": 444,
+      "film": "Sucedió en verano",
+      "duration": 103,
+      "fileDurationSeconds": 5883,
+      "replacementFile": "Centennial Summer (Otto Preminger, 1946)_H.264.mp4"
+    }
+  ],
+  "scope": "Solo dos fichas. Se conservan todas las demás fichas y los 215 enlaces."
+}

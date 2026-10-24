@@ -54,9 +54,9 @@ test('1946 and 1947 retain every Telegram copy, distinct versions and unresolved
    assert.notEqual(color.t,annual.find(r=>r.u.endsWith('/7')).t);
   }else{
    const film=annual.find(r=>r.u.endsWith('/444'));
-   assert.equal(film.dur,103);assert.equal(film.copias[0].videoDurationSeconds,7492);
-   assert(film.copias[0].revisionPendiente);
-   const casey=annual.find(r=>r.u.endsWith('/410'));assert.equal(casey.d,'');assert(casey.identityPending);
+   assert.equal(film.dur,103);assert.equal(film.copias[0].videoDurationSeconds,5883);
+   assert(!film.copias[0].revisionPendiente);
+   const casey=annual.find(r=>r.u.endsWith('/410'));assert.equal(casey.d,'Jack Kinney');assert.equal(casey.masterYear,undefined);assert(!casey.identityPending);
   }
  }
 });
