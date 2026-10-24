@@ -2082,8 +2082,17 @@
             "https://asac.labiennale.org/attivita/cinema/948",
             "https://asac.labiennale.org/attivita/cinema/annali?anno=1937"
           ],
-          "competitionStatus": "not_determined",
-          "competitionEvidence": [],
+          "competitionStatus": "in_competition",
+          "competitionEvidence": [
+            {
+              "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+              "type": "secondary_awards_roster",
+              "category": "Best Italian Film",
+              "evidenceTitle": "Escipión, el africano",
+              "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+              "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+            }
+          ],
           "legacyAwardEvidence": [
             {
               "title": "Scipione l’africano",
@@ -2645,8 +2654,17 @@
             "https://asac.labiennale.org/attivita/cinema/891",
             "https://asac.labiennale.org/attivita/cinema/annali?anno=1937"
           ],
-          "competitionStatus": "not_determined",
-          "competitionEvidence": [],
+          "competitionStatus": "in_competition",
+          "competitionEvidence": [
+            {
+              "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+              "type": "secondary_awards_roster",
+              "category": "Best Foreign Film",
+              "evidenceTitle": "La gran ilusión",
+              "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+              "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+            }
+          ],
           "award": "Coppa della Giuria Internazionale per il migliore complesso artistico",
           "titleSource": "Maestro aprobado · título ES",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
@@ -2957,9 +2975,18 @@
             "https://asac.labiennale.org/attivita/cinema/995",
             "https://asac.labiennale.org/attivita/cinema/annali?anno=1937"
           ],
-          "competitionStatus": "not_determined",
-          "competitionEvidence": [],
-          "award": "Selección documentada · clasificación parcial",
+          "competitionStatus": "in_competition",
+          "competitionEvidence": [
+            {
+              "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+              "type": "secondary_awards_roster",
+              "category": "Best Foreign Film",
+              "evidenceTitle": "Nace una estrella",
+              "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+              "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+            }
+          ],
+          "award": "En competición",
           "titleSource": "Maestro aprobado · título ES",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
@@ -3181,9 +3208,18 @@
             "https://asac.labiennale.org/attivita/cinema/893",
             "https://asac.labiennale.org/attivita/cinema/annali?anno=1937"
           ],
-          "competitionStatus": "not_determined",
-          "competitionEvidence": [],
-          "award": "Selección documentada · clasificación parcial",
+          "competitionStatus": "in_competition",
+          "competitionEvidence": [
+            {
+              "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+              "type": "secondary_awards_roster",
+              "category": "Best Foreign Film",
+              "evidenceTitle": "El mensajero",
+              "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+              "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+            }
+          ],
+          "award": "En competición",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
         {
@@ -3338,9 +3374,31 @@
             "https://asac.labiennale.org/attivita/cinema/993",
             "https://asac.labiennale.org/attivita/cinema/annali?anno=1937"
           ],
-          "competitionStatus": "not_determined",
-          "competitionEvidence": [],
-          "award": "Selección documentada · clasificación parcial",
+          "competitionStatus": "in_competition",
+          "competitionEvidence": [
+            {
+              "source": "https://www.imdb.com/es/event/ev0000681/1937/1/",
+              "type": "secondary_awards_roster",
+              "category": "Best Foreign Film",
+              "evidenceTitle": "Pies de seda",
+              "localEvidence": "Filmoteca-Catalogo/outputs/venecia_1932_1942/paquete/extracciones/imdb_venice_mussolini_cup_competitor_lists_1934_1942_transcription.txt",
+              "limitation": "Clasificación positiva en listado secundario; ASAC acredita identidad y programación, sin etiqueta competitiva individual."
+            },
+            {
+              "source": "https://www.kinoafisha.info/en/awards/biennale/events/biennale-1937/",
+              "type": "secondary_awards_roster",
+              "category": "Mussolini Cup / Best Foreign Film",
+              "evidenceTitle": "Shall We Dance",
+              "heading": "All nominees"
+            },
+            {
+              "source": "https://www.imdb.com/title/tt0029546/",
+              "type": "identity_alias",
+              "evidence": "Shall We Dance (1937), also known as Pies de seda; alias enlaza la candidatura del listado conservado.",
+              "note": "La omisión atribuida a IMDb en el informe de Luna era una diferencia de título; el roster sí incluye Pies de seda."
+            }
+          ],
+          "award": "En competición",
           "titleSource": "Maestro aprobado · título ES",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         },
