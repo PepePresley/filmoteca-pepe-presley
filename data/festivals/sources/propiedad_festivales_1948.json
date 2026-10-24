@@ -1053,7 +1053,7 @@
         "sheet": "Catálogo",
         "physicalRow": 95,
         "titleES": "Bajo el sol de Roma",
-        "originalTitle": null,
+        "originalTitle": "",
         "director": "Renato Castellani",
         "year": 1948
       }
@@ -1101,7 +1101,7 @@
         "sheet": "Catálogo",
         "physicalRow": 72,
         "titleES": "La verdad no tiene fronteras",
-        "originalTitle": null,
+        "originalTitle": "",
         "director": "Aleksander Ford",
         "year": 1948
       }
@@ -1410,5 +1410,10 @@
       "ownership": "PENDING",
       "reference": null
     }
-  ]
+  ],
+  "master1948ReferenceUpdate": {
+    "date": "2026-10-24",
+    "masterSha256": "d58c8382f4c9d2ebc8117ae40593dd70ee01ebc827ed0851ec46e1237a9bc996",
+    "scope": "Solo referencias a filas del maestro 1948 revisado; propiedad e identidades de festivales sin cambios."
+  }
 }

@@ -197,7 +197,7 @@
         "sheet": "Catálogo",
         "physicalRow": 101,
         "titleES": "La balada de Berlín",
-        "originalTitle": null,
+        "originalTitle": "",
         "director": "Robert A. Stemmle",
         "year": 1948
       }
@@ -1458,5 +1458,10 @@
         "year": 1950
       }
     }
-  ]
+  ],
+  "master1948ReferenceUpdate": {
+    "date": "2026-10-24",
+    "masterSha256": "d58c8382f4c9d2ebc8117ae40593dd70ee01ebc827ed0851ec46e1237a9bc996",
+    "scope": "Solo referencias a filas del maestro 1948 revisado; propiedad e identidades de festivales sin cambios."
+  }
 }

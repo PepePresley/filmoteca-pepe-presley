@@ -1171,7 +1171,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1948.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 235,
+        "physicalRow": 234,
         "titleES": "Casbah",
         "originalTitle": "Casbah",
         "director": "John Berry",
@@ -1693,7 +1693,7 @@
         "sheet": "Catálogo",
         "physicalRow": 101,
         "titleES": "La balada de Berlín",
-        "originalTitle": null,
+        "originalTitle": "",
         "director": "Robert A. Stemmle",
         "year": 1948
       }
@@ -1868,5 +1868,10 @@
       "evidenceReuse": "Referencia del maestro aprobado ya acreditada en Oscar 1947; misma identidad y dirección.",
       "identitySource": "https://www.filmaffinity.com/es/film367820.html"
     }
-  ]
+  ],
+  "master1948ReferenceUpdate": {
+    "date": "2026-10-24",
+    "masterSha256": "d58c8382f4c9d2ebc8117ae40593dd70ee01ebc827ed0851ec46e1237a9bc996",
+    "scope": "Solo referencias a filas del maestro 1948 revisado; propiedad e identidades de festivales sin cambios."
+  }
 }

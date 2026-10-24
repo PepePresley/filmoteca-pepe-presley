@@ -1,0 +1,32 @@
+{
+  "masterSha256": "d58c8382f4c9d2ebc8117ae40593dd70ee01ebc827ed0851ec46e1237a9bc996",
+  "approvedOverlaySha256": "e6014016ca28e071c626656dd29ae52459ef46cce4a58d5786e3f8d1d657229b",
+  "rows": 269,
+  "copies": 270,
+  "labAdjustment": "Bloqueado fallback de póster en Lysis/Charmides para no recuperar imágenes de otra película.",
+  "date": "2026-10-24",
+  "status": "MAESTRO_APROBADO_INCORPORADO",
+  "scope": "Catálogo 1948; ceremonias afectadas 1948, 1949 y 1950",
+  "identities": 269,
+  "provenance": "Filmoteca-Catalogo/outputs/revision_catalogo_1948_para_Sol; maestro aprobado local de Dropbox",
+  "labAdjustments": [
+    "Lysis y Charmides sin póster y con fallback bloqueado.",
+    "Título original del maestro expuesto también en ot para resolver aliases sin cambiar identidades.",
+    "Clasificación de catálogo conservada en 1948; años 1947 y 1949 del maestro guardados en masterYear en dos fichas."
+  ],
+  "pending": [
+    "Blonde Ice: copia /454 pendiente de comprobación visual; copia /466 principal y ambas conservadas.",
+    "Les feux de la mer: discrepancia de año pendiente, sin reclasificación automática."
+  ],
+  "associations": {
+    "scopeYears": [
+      1948,
+      1949,
+      1950
+    ],
+    "changedDurations": 52,
+    "identitiesAndOwnershipUnchanged": true,
+    "baftaCatConcerto1947Preserved": true
+  },
+  "references": "269 enlaces principales; 270 referencias de copia; ficha muestra copias adicionales con su pendiente cuando corresponde."
+}

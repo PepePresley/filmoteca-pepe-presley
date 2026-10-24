@@ -514,6 +514,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
    <div class="modalOrig" id="modalOrig"></div>
    <div class="detailGrid" id="detailGrid"></div>
    <a id="reference" class="reference" target="_blank" rel="noopener" style="display:none">Abrir referencia</a>
+   <div id="copyReferences" style="display:none;margin-top:10px;gap:8px"></div>
   </div>
  </div>
 </div>
@@ -533,7 +534,7 @@ try{
  window.__CATALOGO__=await r.json();
  try{
    const overlays=[
-     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=identity-1948-20261024",
+     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261024",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
@@ -700,13 +701,37 @@ function render(){
 }
 
 function badgeHtml(r){const s=sourceOf(r);return `<span class="sourceBadge ${s}" style="position:static;display:inline-block">${sourceLabel(s)}</span>${isDup(r)?' <span class="dupBadge" style="position:static;display:inline-block">DUPLICADA</span>':''}`}
-function openModal(r,displayTitle){
+let catalog1948References;
+async function recordWithCopies(record){
+ if(Number(record.y)!==1948||Array.isArray(record.copias))return record;
+ try{
+  if(!catalog1948References)catalog1948References=fetch('/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261024').then(async response=>{if(!response.ok)throw new Error('Catalog references unavailable');return response.json()}).catch(error=>{catalog1948References=null;throw error});
+  const rows=await catalog1948References;
+  const matches=rows.filter(r=>r.t===record.t&&Number(r.y)===Number(record.y)&&r.d===record.d);
+  if(matches.length===1){const full=matches[0];return {...full,...record,u:full.u,copias:full.copias,arch:full.arch};}
+ }catch(_){}
+ return record;
+}
+function renderCopyReferences(record){
+ const box=$('copyReferences');box.replaceChildren();
+ const seen=new Set([record.u]);
+ for(const copy of record.copias||[]){
+  if(!copy.u||seen.has(copy.u)||!/^https:\/\/t\.me\/c\/\d+\/\d+$/.test(copy.u))continue;
+  seen.add(copy.u);
+  const link=document.createElement('a');link.href=copy.u;link.target='_blank';link.rel='noopener';link.className='reference';link.style.marginTop='0';
+  link.textContent=(copy.revisionPendiente?'Copia pendiente de comprobar: ':'Otra copia: ')+(copy.arch||'Abrir referencia');box.appendChild(link);
+ }
+ box.style.display=box.children.length?'grid':'none';
+}
+async function openModal(r,displayTitle){
  const ft=FESTIVAL_BY_IDX.get(DATA.indexOf(r));
+ r=await recordWithCopies(r);
  $('modalSource').innerHTML=badgeHtml(r)+(ft?` <span class="festivalBadge">${ft.festival} ${ft.festival_year} · ${ft.section}</span>${ft.award?` <span class="${ft.award.includes('sin premio')?'selectionBadge':'awardBadge'}">${awardBadge(ft.award)}</span>`:''}`:'');$('modalTitle').textContent=displayTitle||r.t||'Sin título';$('modalOrig').textContent=r.o||'';
  $('modalPoster').style.backgroundImage=r.p?`url("${r.p.replace(/"/g,'')}")`:'none';
- const details=[['Año',r.y],['Director',r.d],['País',r.pais],['Género',r.g],['Duración',r.dur?`${r.dur} min`:null],['Resolución',r.res],['Tamaño',r.sz],['Archivo',r.arch],['Nota',r.n]];
+ const details=[['Año',r.y],['Año en el maestro',r.masterYear],['Director',r.d],['País',r.pais],['Género',r.g],['Duración',r.dur?`${r.dur} min`:null],['Resolución',r.res],['Tamaño',r.sz],['Archivo',r.arch],['Nota',r.n]];
  $('detailGrid').innerHTML=details.filter(x=>x[1]).map(x=>`<div class="k">${esc(x[0])}</div><div class="v">${esc(x[1])}</div>`).join('');
  if(r.u){$('reference').href=r.u;$('reference').style.display='inline-block'}else $('reference').style.display='none';
+ renderCopyReferences(r);
  $('modal').classList.add('show');
 }
 $('close').onclick=()=>$('modal').classList.remove('show');
@@ -804,7 +829,7 @@ async function ensureFullCatalog(){
  const full=await rr.json();
  for(const url of [
    "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
-   "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=identity-1948-20261024",
+   "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261024",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
