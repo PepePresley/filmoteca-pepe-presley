@@ -10,7 +10,7 @@
     {
       "festival": "BAFTA",
       "section": "Primera ceremonia · premios de1947 y1948",
-      "films": 29,
+      "films": 30,
       "declaredOwned": 13
     },
     {
@@ -59,7 +59,9 @@
     "Clasificaciones positivas IMDb/FilmAffinity se conservan como evidencia secundaria; los títulos restantes siguen sin clasificar y no se llaman fuera de concurso por ausencia. No se inventan IDs ni imágenes.",
     "Regeneración limitada a los años nuevos del bloque; otros años, catálogo, maestros e interfaces preservados.",
     "BAFTA: primera ceremonia con premios de periodos1947 y1948 diferenciados. Jane Wyman se conserva como representante, sin atribuirle el premio de The Best Years of Our Lives. Candidaturas históricas parciales.",
-    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas."
+    "Las candidaturas independientes no se agrupan por compartir estudio/productor o profesional. Solo se conservan relaciones compartidas explícitas o las de las primeras ceremonias acreditadas.",
+    "24/10/2026: incorporada The Cat's Concerto al premio especial BAFTA 1949. 30 películas y 33 registros frente al archivo oficial actual; salvedades históricas conservadas. Identidad y propiedad reutilizadas de la evidencia aprobada Oscar 1947.",
+    "La nueva candidatura queda sin asociación pública: el catálogo contiene una falsa identidad de otro corto en 1948; la propiedad acreditada de 1947 se conserva en unresolvedMasterMatches, sin marcar como ausencia de la colección."
   ],
   "sources": [
     {
@@ -147,6 +149,11 @@
       "type": "respuesta original proporcionada por Sol; consulta annali_cinema para 1949",
       "file": "extracciones/asac_annali_1949_respuesta_original_proporcionada.json",
       "note": "La respuesta contiene un único registro anual de manifestación, no las 237 actividades del total general ni una lista de películas. No se usa como recuento de selección."
+    },
+    {
+      "url": "https://www.bafta.org/awards/film/competitive-special-award/",
+      "type": "oficial BAFTA; categoría Special Award, bloque 1949 de siete registros",
+      "note": "The Cat's Concerto figura como Nominee / Non Competitive; diferencia respecto de los seis registros antes publicados."
     }
   ],
   "packageCoverage": [
@@ -246,6 +253,51 @@
     }
   ],
   "sharedCandidacies": [],
-  "unresolvedMasterMatches": [],
-  "unpublishedEvidence": []
+  "unresolvedMasterMatches": [
+    {
+      "festival": "BAFTA",
+      "section": "Primera ceremonia · premios de1947 y1948",
+      "title": "Tom y Jerry: Un concierto gatuno",
+      "director": "William Hanna, Joseph Barbera",
+      "ownership": "CONFIRMED_IN_MASTER_ASSOCIATION_PENDING",
+      "reference": {
+        "masterFile": "Catalogo_Telegram_1947.xlsx",
+        "sheet": "Catálogo",
+        "physicalRow": 13,
+        "titleES": "Tom y Jerry: Un concierto gatuno",
+        "originalTitle": "The Cat Concerto",
+        "director": "William Hanna, Joseph Barbera",
+        "year": 1947
+      },
+      "evidenceReuse": "Referencia del maestro aprobado ya acreditada en Oscar 1947; misma identidad y dirección.",
+      "reason": "El resolver de BAFTA 1949 elige una ficha del catálogo rotulada 1948 cuyo archivo es Tom y Jerry - Limpieza de ratón (1948). La referencia aprobada de Un concierto gatuno es 1947, fila 13. No declarar asociación hasta disponer de una corrección focalizada."
+    }
+  ],
+  "unpublishedEvidence": [],
+  "baftaCoverageReview": {
+    "date": "2026-10-24",
+    "scope": "BAFTA 1949; comparación de archivo oficial y transcripciones conservadas",
+    "status": "ARCHIVO_ACTUAL_COTEJADO_CON_SALVEDADES_HISTORICAS",
+    "films": 30,
+    "awardEntries": 33,
+    "addedFilm": "Tom y Jerry: Un concierto gatuno",
+    "addedCategory": "Special Award (Non Competitive)",
+    "source": "https://www.bafta.org/awards/film/competitive-special-award/",
+    "archiveURL": "https://www.bafta.org/awards/search/?award-year=1949&search=1949&type=Film",
+    "categoryCounts": {
+      "British Film": 7,
+      "Documentary": 6,
+      "Film From Any Source": 7,
+      "Special Award (Non Competitive)": 7,
+      "United Nations Award": 3,
+      "Winners from 1947 periods": 3
+    },
+    "limits": [
+      "Se cotejan los 33 registros que declara el archivo oficial actual; no se infiere la existencia o inexistencia de candidaturas históricas adicionales no publicadas.",
+      "Los periodos 1947 y 1948 y sus ganadores se conservan diferenciados; no se modifica el reparto histórico de ceremonias.",
+      "El premio especial figura como Non Competitive en BAFTA; se conserva como candidatura al premio, no competición de festival."
+    ],
+    "ownershipEvidenceReuse": "data/festivals/sources/propiedad_festivales_1947.json",
+    "associationStatus": "PENDIENTE: propiedad acreditada, asociación bloqueada para evitar otra película."
+  }
 }
