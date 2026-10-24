@@ -7539,8 +7539,8 @@
     "t": "Casey at the Bat",
     "o": "Casey at the Bat",
     "y": 1946,
-    "d": "",
-    "g": "Animación/Comedia/Familiar/Deporte",
+    "d": "Jack Kinney",
+    "g": "Animación/Comedia/Cortometraje",
     "pais": "United States of America",
     "dur": 9,
     "m": true,
@@ -7555,7 +7555,7 @@
     "copias": [
       {
         "numeroChat": 189,
-        "caption": "Casey at the Bat (Jack Kinney, 1954)",
+        "caption": "Casey at the Bat (Jack Kinney, 1946)",
         "u": "https://t.me/c/2186444938/410",
         "arch": "Casey at the Bat (1954).mp4",
         "res": "360x240",
@@ -7569,16 +7569,13 @@
         "mimeType": "video/mp4",
         "videoDurationSeconds": 516,
         "width": 360,
-        "height": 240,
-        "revisionPendiente": true
+        "height": 240
       }
     ],
     "ot": "Casey at the Bat",
     "src": "Catalogo_Telegram_1946",
-    "masterYear": 1954,
     "noPosterFallback": true,
-    "identityPending": true,
-    "notes": "Identidad pendiente de comprobar en créditos: Casey at the Bat es segmento de Make Mine Music, reestrenado en 1954; Jack Kinney corresponde a Casey Bats Again (1954). Año 1954 del mensaje conservado provisionalmente, sin reclasificar el catálogo. Fuentes: https://d23.com/a-to-z/casey-at-the-bat-film/ ; https://d23.com/a-to-z/casey-bats-again-film/"
+    "notes": "Identidad y año fílmico validados en FilmAffinity España; se conserva en el catálogo 1946 por corresponder al año de su ficha FA.; 1 copia actual"
   },
   {
     "t": "Conflicto sentimental",
@@ -8234,35 +8231,34 @@
     "n": "",
     "p": "https://pics.filmaffinity.com/centennial_summer-442316630-large.jpg",
     "u": "https://t.me/c/2186444938/444",
-    "arch": "Sucedió en verano (1946).mp4",
-    "res": "320x230",
-    "sz": "368.62 MB",
-    "h": 230,
+    "arch": "Centennial Summer (Otto Preminger, 1946)_H.264.mp4",
+    "res": "320x240",
+    "sz": "313.07 MB",
+    "h": 240,
     "br": null,
     "copias": [
       {
         "numeroChat": 206,
-        "caption": "Sucedió en verano (Otto Preminger, 1946)",
+        "caption": "Sucedió en verano / Centennial Summer (Otto Preminger, 1946)🇺🇸",
         "u": "https://t.me/c/2186444938/444",
-        "arch": "Sucedió en verano (1946).mp4",
-        "res": "320x230",
-        "sz": "368.62 MB",
+        "arch": "Centennial Summer (Otto Preminger, 1946)_H.264.mp4",
+        "res": "320x240",
+        "sz": "313.07 MB",
         "contenedor": "MP4",
         "codecVideo": "",
         "audio": "",
         "subtitulos": "",
         "fecha": "2025-07-03",
-        "fileSizeBytes": 386525452,
+        "fileSizeBytes": 328274881,
         "mimeType": "video/mp4",
-        "videoDurationSeconds": 7492,
+        "videoDurationSeconds": 5883,
         "width": 320,
-        "height": 230,
-        "revisionPendiente": true
+        "height": 240
       }
     ],
     "ot": "",
     "src": "Catalogo_Telegram_1946",
-    "notes": "Duración de obra: 103 min según AFI. Archivo Telegram: 124:52; diferencia notoria pendiente de comprobar."
+    "notes": "Duración de la obra: 103 minutos según AFI. El archivo Telegram vigente dura 98:03, una diferencia compatible con una copia PAL acelerada; ya no presenta la discrepancia notoria del archivo anterior.; 1 copia actual"
   },
   {
     "t": "The Martins and the Coys",
