@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-24",
+  "masters": [
+    {
+      "year": 1947,
+      "rows": 230,
+      "copies": 230,
+      "masterSha256": "bedd67df8c028a57a1e75033d9e99eb436ab3291536689d87320cf840b7cc9d5",
+      "differentMasterYears": [
+        {
+          "t": "Brighton Rock",
+          "masterYear": 1948
+        },
+        {
+          "t": "Le Petit Soldat",
+          "masterYear": 1948
+        },
+        {
+          "t": "Harmonia",
+          "masterYear": 1948
+        },
+        {
+          "t": "Embrujo",
+          "masterYear": 1948
+        },
+        {
+          "t": "La sirena negra",
+          "masterYear": 1948
+        },
+        {
+          "t": "Las tentaciones del señor Prokouk",
+          "masterYear": 1948
+        }
+      ]
+    },
+    {
+      "year": 1946,
+      "rows": 215,
+      "copies": 215,
+      "masterSha256": "0b9459364a59a365aa033979ad2d5454cc36cfd5a42fdbd3ae0975be649885bd",
+      "differentMasterYears": [
+        {
+          "t": "Una partida de campo",
+          "masterYear": 1936
+        },
+        {
+          "t": "Calle Madeleine nº 13",
+          "masterYear": 1947
+        },
+        {
+          "t": "Pánico",
+          "masterYear": 1947
+        },
+        {
+          "t": "Abel Sánchez",
+          "masterYear": 1947
+        },
+        {
+          "t": "Casey at the Bat",
+          "masterYear": 1954
+        },
+        {
+          "t": "El sueño de Navidad",
+          "masterYear": 1945
+        },
+        {
+          "t": "Ruta a Utopia",
+          "masterYear": 1945
+        },
+        {
+          "t": "The Martins and the Coys",
+          "masterYear": 1954
+        }
+      ]
+    }
+  ],
+  "pending": [
+    {
+      "catalog": 1946,
+      "message": 410,
+      "reason": "Distinguir Casey at the Bat y Casey Bats Again en los créditos del vídeo."
+    },
+    {
+      "catalog": 1946,
+      "message": 444,
+      "reason": "Duración de obra 103 minutos según AFI; archivo 124:52."
+    }
+  ],
+  "referencesUpdated": 7,
+  "unresolvedReferences": []
+}
