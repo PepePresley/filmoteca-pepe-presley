@@ -690,6 +690,35 @@
           "award": "Candidatura documentada",
           "titleSource": "Maestro aprobado · título ES",
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
+        },
+        {
+          "title": "Tom y Jerry: Un concierto gatuno",
+          "director": "William Hanna, Joseph Barbera",
+          "aliases": [
+            "The Cat Concerto",
+            "The Cat's Concerto"
+          ],
+          "filmAffinityId": null,
+          "filmaffinityTitle": null,
+          "wins": [],
+          "nominations": [
+            "Special Award (Non Competitive)"
+          ],
+          "candidacies": [
+            {
+              "category": "Special Award (Non Competitive)",
+              "person": null,
+              "winner": false,
+              "source": "https://www.bafta.org/awards/film/competitive-special-award/"
+            }
+          ],
+          "directorSource": "Cruce único de título en ventana temporal del maestro aprobado",
+          "award": "Selección oficial",
+          "titleSource": "Maestro aprobado · título ES",
+          "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY",
+          "sources": [
+            "https://www.bafta.org/awards/film/competitive-special-award/"
+          ]
         }
       ]
     },
