@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-25",
+  "year": 1945,
+  "rows": 189,
+  "copies": 191,
+  "masterSha256": "95094b2d60aee969952539dc1876586942f396c99c4b164d45c6f757efde6039",
+  "shiftedYears": [
+    {
+      "title": "Camino del infierno",
+      "masterYear": 1946
+    },
+    {
+      "title": "Campeón sin corona",
+      "masterYear": 1946
+    }
+  ],
+  "pending": [
+    {
+      "title": "La patrulla del coronel Jackson",
+      "messages": [
+        333,
+        357
+      ],
+      "nominalMinutes": 95,
+      "fileDurationSeconds": [
+        5229,
+        5229
+      ],
+      "action": "Comprobar contenido y créditos finales sin borrar referencias."
+    }
+  ]
+}

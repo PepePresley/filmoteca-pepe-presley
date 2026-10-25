@@ -707,9 +707,9 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 173,
+        "physicalRow": 171,
         "titleES": "Las hermanas Dolly",
-        "originalTitle": null,
+        "originalTitle": "",
         "director": "Irving Cummings",
         "year": 1945
       }
@@ -1538,5 +1538,10 @@
       "ownership": "PENDING",
       "reference": null
     }
-  ]
+  ],
+  "master1945ReferenceUpdate": {
+    "date": "2026-10-25",
+    "masterSha256": "95094b2d60aee969952539dc1876586942f396c99c4b164d45c6f757efde6039",
+    "scope": "Solo referencias a filas del maestro 1945 revisado; propiedad e identidades de festivales sin cambios."
+  }
 }

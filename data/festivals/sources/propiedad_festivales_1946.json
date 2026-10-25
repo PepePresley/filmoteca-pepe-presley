@@ -269,7 +269,7 @@
         "sheet": "Catálogo",
         "physicalRow": 51,
         "titleES": "Las miserias del señor Travet",
-        "originalTitle": null,
+        "originalTitle": "",
         "director": "Mario Soldati",
         "year": 1945
       }
@@ -883,7 +883,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 160,
+        "physicalRow": 159,
         "titleES": "San Antonio",
         "originalTitle": "San Antonio",
         "director": "David Butler",
@@ -899,7 +899,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 185,
+        "physicalRow": 183,
         "titleES": "Aladino y la lámpara maravillosa",
         "originalTitle": "A Thousand and One Nights",
         "director": "Alfred E. Green",
@@ -1051,7 +1051,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 186,
+        "physicalRow": 184,
         "titleES": "Algún día volveré",
         "originalTitle": "Flame of Barbary Coast",
         "director": "Joseph Kane",
@@ -1091,7 +1091,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 142,
+        "physicalRow": 141,
         "titleES": "Lo que desea toda mujer",
         "originalTitle": "Guest Wife",
         "director": "Sam Wood",
@@ -1235,7 +1235,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 135,
+        "physicalRow": 134,
         "titleES": "Esta noche y todas las noches",
         "originalTitle": "Tonight and Every Night",
         "director": "Victor Saville",
@@ -1419,7 +1419,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 178,
+        "physicalRow": 176,
         "titleES": "Star in the Night",
         "originalTitle": "Star in the Night",
         "director": "Don Siegel",
@@ -1435,7 +1435,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 163,
+        "physicalRow": 162,
         "titleES": "A Gun in His Hand",
         "originalTitle": "A Gun in His Hand",
         "director": "Joseph Losey",
@@ -1467,7 +1467,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 156,
+        "physicalRow": 155,
         "titleES": "La dama del tren",
         "originalTitle": "Lady on a Train",
         "director": "Charles David",
@@ -1507,7 +1507,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 175,
+        "physicalRow": 173,
         "titleES": "Misterio en la noche",
         "originalTitle": "The Unseen",
         "director": "Lewis Allen",
@@ -1579,7 +1579,7 @@
       "reference": {
         "masterFile": "Catalogo_Telegram_1945.xlsx",
         "sheet": "Catálogo",
-        "physicalRow": 137,
+        "physicalRow": 136,
         "titleES": "Fuera de la ley",
         "originalTitle": "Salty O'Rourke",
         "director": "Raoul Walsh",
@@ -2106,5 +2106,10 @@
       "ownership": "PENDING",
       "reference": null
     }
-  ]
+  ],
+  "master1945ReferenceUpdate": {
+    "date": "2026-10-25",
+    "masterSha256": "95094b2d60aee969952539dc1876586942f396c99c4b164d45c6f757efde6039",
+    "scope": "Solo referencias a filas del maestro 1945 revisado; propiedad e identidades de festivales sin cambios."
+  }
 }
