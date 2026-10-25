@@ -22,7 +22,7 @@ for(const app of ['lab','lab-lite'])test(`${app}: approved 1948 references survi
  assert.match(box.children[0].textContent,/Sombras en el mar/);
  const again=await c.recordWithCopies(hit);assert.equal(fetches,1);assert.equal(again.i,hit.i);
  assert.equal(await c.recordWithCopies(movie),movie);
- const unrelated={t:'Otra',y:1945};assert.equal(await c.recordWithCopies(unrelated),unrelated);assert.equal(fetches,1);
+ const unrelated={t:'Otra',y:1944};assert.equal(await c.recordWithCopies(unrelated),unrelated);assert.equal(fetches,1);
  c.renderCopyReferences({copias:[]});assert.equal(box.children.length,0);assert.equal(box.style.display,'none');
 });
 
@@ -46,7 +46,7 @@ test('1946 and 1947 retain every Telegram copy, distinct versions and unresolved
   for(const app of ['lab','lab-lite']){
    const html=fs.readFileSync(app+'/index.html','utf8');
    assert(html.includes(`annual_${year}_overlay.json?v=master-${year}-20261024`));
-   assert(html.includes('(1946|1947|1948|2024)'));
+   assert(html.includes('(1945|1946|1947|1948|2024)'));
   }
   if(year===1947){
    const color=annual.find(r=>r.u.endsWith('/132'));
@@ -59,4 +59,19 @@ test('1946 and 1947 retain every Telegram copy, distinct versions and unresolved
    const casey=annual.find(r=>r.u.endsWith('/410'));assert.equal(casey.d,'Jack Kinney');assert.equal(casey.masterYear,undefined);assert(!casey.identityPending);
   }
  }
+});
+
+test('1945 retains all 191 copies, corrected short identities and shifted master years',()=>{
+ const annual=JSON.parse(fs.readFileSync('data/catalog/annual_1945_overlay.json'));
+ assert.equal(annual.length,189);assert(annual.every(r=>r.y===1945));
+ const copies=annual.flatMap(r=>r.copias);assert.equal(copies.length,191);assert.equal(new Set(copies.map(c=>c.u)).size,191);
+ for(const suffix of ['/309','/367']){
+  const r=annual.find(r=>r.u.endsWith(suffix));assert(!r.p);assert(r.noPosterFallback);
+ }
+ assert.equal(annual.find(r=>r.u.endsWith('/309')).o,'The Legend of Coyote Rock');
+ assert.equal(annual.find(r=>r.u.endsWith('/367')).o,'The Clock Watcher');
+ const film=annual.find(r=>r.copias.some(c=>c.u.endsWith('/333')));
+ assert.equal(film.copias.length,2);assert(film.copias.every(c=>c.revisionPendiente));
+ assert.equal(annual.filter(r=>r.masterYear===1946).length,2);
+ for(const app of ['lab','lab-lite'])assert(fs.readFileSync(app+'/index.html','utf8').includes('annual_1945_overlay.json?v=master-1945-20261025'));
 });
