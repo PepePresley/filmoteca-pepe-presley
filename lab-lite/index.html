@@ -1167,14 +1167,23 @@ function festivalSectionsHTML(f){
  if(f==='Cannes') return '<div class="active">Selecciona un año</div><div>Competición oficial</div><div>Un Certain Regard</div>';
  return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
 }
-// Años sin edición confirmados por la historia oficial de Cannes:
-// https://www.festival-cannes.com/en/the-festival/the-history-of-the-festival/
+// Ausencias comprobadas: historia oficial de Cannes, La Biennale y fechas de la Academia.
+function festivalCalendarExceptions(f){
+ const cases={
+  'Cannes':{1940:'No se celebró',1941:'No se celebró',1942:'No se celebró',1943:'No se celebró',1944:'No se celebró',1945:'No se celebró',1948:'No se celebró',1950:'No se celebró'},
+  'Venecia':{1933:'No se celebró',1943:'No se celebró',1944:'No se celebró',1945:'No se celebró',1973:'Sin Mostra oficial',1977:'Programa especial',1978:'No se celebró'},
+  'Oscar':{1933:'Sin ceremonia'}
+ };
+ return cases[f]||{};
+}
+function festivalCalendarStatus(f,y){return festivalCalendarExceptions(f)[y]||'';}
 function festivalCalendarYears(f,years){
- return f==='Cannes'?[...new Set([...years,1948,1950])].sort((a,b)=>b-a):years;
+ const candidates=Object.keys(festivalCalendarExceptions(f)).map(Number);
+ return [...new Set([...years,...candidates])].sort((a,b)=>b-a);
 }
 function festivalCalendarButton(f,y){
- const noEdition=f==='Cannes'&&[1948,1950].includes(y);
- return '<button class="festivalYearBtn" type="button" data-year="'+y+'"'+(noEdition?' disabled aria-label="'+y+': no se celebró"':'')+'>'+y+(noEdition?'<small>No se celebró</small>':'')+'</button>';
+ const status=festivalCalendarStatus(f,y);
+ return '<button class="festivalYearBtn" type="button" data-year="'+y+'"'+(status?' disabled aria-label="'+y+': '+status+'"':'')+'>'+y+(status?'<small>'+status+'</small>':'')+'</button>';
 }
 function rebuildFestivalYears(f){
  const years=festivalCalendarYears(f,f==='Cannes'
