@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-25",
+  "catalogs": [
+    {
+      "year": 1945,
+      "rows": 189,
+      "copies": 189,
+      "masterSha256": "f75b64e616d0619b5740fa4d7ec1dc3a5caf1b2aa6401f6efad62c141b798f98",
+      "removedCopiesConfirmedByUser": [
+        "https://t.me/c/2226196035/277",
+        "https://t.me/c/2226196035/357"
+      ],
+      "identityChanges": []
+    },
+    {
+      "year": 1947,
+      "rows": 230,
+      "copies": 230,
+      "masterSha256": "555197f2351b2403e243ec50a315762ff778ab27fa11620aa5fe47067aa6c052",
+      "removedCopiesConfirmedByUser": [],
+      "identityChanges": [
+        {
+          "url": "https://t.me/c/2174049711/312",
+          "before": {
+            "t": "Pepe le Pew: Por razones sentimentales",
+            "d": "Chuck Jones"
+          },
+          "after": {
+            "t": "Pepe Le Pew: Percibo tu aroma y me enamoro",
+            "d": "Chuck Jones"
+          }
+        }
+      ]
+    },
+    {
+      "year": 1948,
+      "rows": 270,
+      "copies": 270,
+      "masterSha256": "6ca5c27b8a19bca95d8b67206fd8915193a4e4da2bf35a36c76d62ee1eb2d0b8",
+      "removedCopiesConfirmedByUser": [],
+      "identityChanges": [
+        {
+          "url": "https://t.me/c/2158944187/183",
+          "before": {
+            "t": "Los niños del paraíso",
+            "d": "Marcel Carné"
+          },
+          "after": {
+            "t": "Los niños del paraíso",
+            "d": "Hiroshi Shimizu"
+          }
+        },
+        {
+          "url": "https://t.me/c/2158944187/454",
+          "before": {
+            "t": "Blonde Ice",
+            "d": "Jack Bernhard"
+          },
+          "after": {
+            "t": "Sombras en el mar",
+            "d": "Henry King"
+          }
+        },
+        {
+          "url": "https://t.me/c/2158944187/576",
+          "before": {
+            "t": "Pepe le Pew: Por razones sentimentales",
+            "d": "Chuck Jones"
+          },
+          "after": {
+            "t": "Pepe le Pew: El aroma del día",
+            "d": "Arthur Davis"
+          }
+        }
+      ]
+    }
+  ],
+  "scope": "JSON vigentes tras correcciones y eliminación manual de duplicados por el usuario; maestros respaldados antes de actualizar LAB."
+}

@@ -546,10 +546,10 @@ try{
  window.__CATALOGO__=await r.json();
  try{
    const overlays=[
-     "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025",
+     "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025-r2",
      "/filmoteca-pepe-presley/data/catalog/annual_1946_overlay.json?v=master-1946-20261024-r2",
-     "/filmoteca-pepe-presley/data/catalog/annual_1947_overlay.json?v=master-1947-20261024",
-     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261024",
+     "/filmoteca-pepe-presley/data/catalog/annual_1947_overlay.json?v=master-1947-20261025-r2",
+     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261025-r2",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
@@ -722,7 +722,7 @@ async function recordWithCopies(record){
  const year=Number(record.y);
  if(![1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
  try{
-  if(!catalogAnnualReferences.has(year))catalogAnnualReferences.set(year,fetch(`/filmoteca-pepe-presley/data/catalog/annual_${year}_overlay.json?v=master-${year}-${year===1945?'20261025':'20261024'}${year===1946?'-r2':''}`).then(async response=>{if(!response.ok)throw new Error('Catalog references unavailable');return response.json()}).catch(error=>{catalogAnnualReferences.delete(year);throw error}));
+  if(!catalogAnnualReferences.has(year))catalogAnnualReferences.set(year,fetch(`/filmoteca-pepe-presley/data/catalog/annual_${year}_overlay.json?v=master-${year}-${year===1946?'20261024':'20261025'}-r2`).then(async response=>{if(!response.ok)throw new Error('Catalog references unavailable');return response.json()}).catch(error=>{catalogAnnualReferences.delete(year);throw error}));
   const rows=await catalogAnnualReferences.get(year);
   const matches=rows.filter(r=>r.t===record.t&&Number(r.y)===year&&r.d===record.d);
   if(matches.length===1){const full=matches[0];return {...full,...record,u:full.u,copias:full.copias,arch:full.arch};}
@@ -846,10 +846,10 @@ async function ensureFullCatalog(){
  const full=await rr.json();
  for(const url of [
    "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
-   "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025",
+   "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025-r2",
      "/filmoteca-pepe-presley/data/catalog/annual_1946_overlay.json?v=master-1946-20261024-r2",
-     "/filmoteca-pepe-presley/data/catalog/annual_1947_overlay.json?v=master-1947-20261024",
-     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261024",
+     "/filmoteca-pepe-presley/data/catalog/annual_1947_overlay.json?v=master-1947-20261025-r2",
+     "/filmoteca-pepe-presley/data/catalog/annual_1948_overlay.json?v=master-1948-20261025-r2",
    "/filmoteca-pepe-presley/data/catalog/annual_1989_overlay.json?v=annual-1989-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1990_1994_overlay.json?v=annual-1990-1994-v1",
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
