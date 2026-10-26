@@ -47,7 +47,7 @@ test('1946 and 1947 retain every Telegram copy, distinct versions and unresolved
   for(const app of ['lab','lab-lite']){
    const html=fs.readFileSync(app+'/index.html','utf8');
    assert(html.includes(`annual_${year}_overlay.json?v=master-${year}-${year===1946?'20261024':'20261025'}`));
-   assert(html.includes('(1944|1945|1946|1947|1948|2024)'));
+   assert(html.includes('(1943|1944|1945|1946|1947|1948|2024)'));
   }
   if(year===1947){
    const color=annual.find(r=>r.u.endsWith('/132'));
@@ -104,4 +104,16 @@ test('1944 keeps all references and separates confirmed Raduga from the unrelate
  const guadalcanal=annual.find(r=>r.u.endsWith('/358'));assert.equal(guadalcanal.d,'Ray Harryhausen');assert.equal(guadalcanal.masterYear,1943);
  assert.equal(annual.filter(r=>r.masterYear).length,6);
  for(const app of ['lab','lab-lite'])assert(fs.readFileSync(app+'/index.html','utf8').includes('annual_1944_overlay.json?v=master-1944-20261026'));
+});
+
+test('1943 preserves inventory and separates corrected homonyms and Superman shorts',()=>{
+ const annual=JSON.parse(fs.readFileSync('data/catalog/annual_1943_overlay.json'));
+ assert.equal(annual.length,190);assert(annual.every(r=>r.y===1943));
+ const copies=annual.flatMap(r=>r.copias);assert.equal(copies.length,190);assert.equal(new Set(copies.map(c=>c.u)).size,190);
+ const at=id=>annual.find(r=>r.u.endsWith('/'+id));
+ assert.equal(at(89).d,'Jean Grémillon');assert.equal(at(95).d,'Andrew L. Stone');
+ assert.equal(at(238).o,'Calling Dr. Death');assert.equal(at(320).o,'The Return of the Vampire');
+ assert.equal(at(342).o,'Secret Agent');assert.equal(at(384).o,'The Mummy Strikes');
+ assert.equal(at(23).copias[0].videoDurationSeconds,8073);assert.equal(at(23).dur,120);
+ for(const app of ['lab','lab-lite'])assert(fs.readFileSync(app+'/index.html','utf8').includes('annual_1943_overlay.json?v=master-1943-20261026'));
 });
