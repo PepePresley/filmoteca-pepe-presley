@@ -14,6 +14,7 @@ for(const app of ['lab','lab-lite'])test(`${app}: ceremonies, special awards and
   return nodes.get(id);
  };
  const context=vm.createContext({FESTIVAL_DB:{editions:[...load(1930),...load(1949)]},$,esc:s=>String(s),festivalEditionData:()=>({present:[],missing:[]}),renderFestivalEditionFor:(...a)=>calls.push(a)});
+ vm.runInContext(readFileSync('app/festival-config.js','utf8'),context);
  const begin=html.indexOf(lite?'const BAFTA_CATEGORY_ORDER=':'const AWARD_CATEGORY_ORDER=');
  const end=html.indexOf(`function render${cap}Category(`,begin);
  vm.runInContext(html.slice(begin,end),context);
@@ -39,5 +40,9 @@ for(const app of ['lab','lab-lite'])test(`${app}: ceremonies, special awards and
  run("selectedAwardSection=null;renderSelectedAwardEdition(1949,'BAFTA')");
  assert.equal($('awardEditionSelect'),null);
  assert.equal($('festDisplayTitle').textContent,'BAFTA 1949');
+ context.FESTIVAL_DB.editions=load(2025).filter(e=>e.festival==='César');
+ run("selectedAwardSection=null;renderSelectedAwardEdition(2025,'César')");
+ assert.equal(run(`${pre}Categories(2025,'César').length`),24);
+ assert.equal(run(`${pre}Categories(2025,'César')[0]`),'Película');
  assert.match($('festSections').innerHTML,new RegExp(`${pre}CategoryBtn`));
 });

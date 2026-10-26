@@ -338,6 +338,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 </head>
 <body class="homeMode">
 <svg aria-hidden="true" width="0" height="0" style="position:absolute;overflow:hidden"><defs>
+<symbol id="ico-festival" viewBox="0 0 64 64"><rect x="9" y="14" width="46" height="36" rx="5" fill="none" stroke="currentColor" stroke-width="3"/><path d="m32 20 4 8 9 1-7 6 2 9-8-5-8 5 2-9-7-6 9-1z" fill="currentColor"/></symbol>
 <symbol id="ico-cannes" viewBox="0 0 100 72">
  <path d="M10 60C31 53 52 37 69 12" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round"/>
  <path d="M19 55C10 52 6 47 4 40c9-1 16 1 22 7M29 49c-9-7-12-15-11-24 10 2 17 8 21 16M41 40c-6-10-6-20-2-29 9 5 14 13 14 23M54 31c-2-10 2-19 9-26 7 8 8 17 4 26M66 23c2-9 9-16 18-20 4 10 1 19-8 26M18 59c15 6 31 7 47 2" fill="none" stroke="currentColor" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
@@ -378,7 +379,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
   <div class="homeSearch"><span>⌕</span><input id="homeQ" type="text" placeholder="Busca una película, director, año…"></div>
   <div class="homeDoors">
    
-   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Óscar</span></button>
+   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Sitges · Seminci · Oscar · Goya · BAFTA · César</span></button>
    
   </div>
   <button class="btn appInstall" id="installApp" type="button" hidden>Instalar Filmoteca</button>
@@ -424,11 +425,6 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
   <aside class="festSide">
    <div class="festSideTitle"><svg class="festTitleIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg> Festivales</div>
    <div class="festNav">
-    <button class="festivalSelectBtn active" data-festival="Cannes"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-cannes"></use></svg>Cannes</button>
-    <button class="festivalSelectBtn" data-festival="Venecia"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-venice"></use></svg>Venecia</button>
-    <button class="festivalSelectBtn" data-festival="Berlín"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-berlin"></use></svg>Berlín</button>
-    <button class="festivalSelectBtn" data-festival="San Sebastián"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-ss"></use></svg>San Sebastián</button>
-    <button class="festivalSelectBtn" data-festival="Oscar"><svg class="festIcon" viewBox="0 0 64 64"><use href="#ico-oscar"></use></svg>Oscar</button>
    </div>
    <div class="festDivider"></div>
    <div class="festSideLabel" id="festYearLabel">Año (Cannes)</div>
@@ -530,6 +526,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
+<script src="../app/festival-config.js?v=1"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -568,6 +565,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_2024_overlay.json?v=catalog-2024-20261013",
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
    ];
    for(const url of overlays){
@@ -585,10 +583,10 @@ try{
    }
  }catch(_){}
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=titulos-fa-2000-2009-20261013");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-nuevos-20251026-20261026");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
-const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=titulos-fa-2000-2009-20261013");
+const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-nuevos-20251026-20261026");
 if(!mapResponse.ok)throw new Error('Festival match map HTTP '+mapResponse.status);
 const FESTIVAL_MATCH_MAP=(await mapResponse.json()).matches||{};
 const FESTIVAL_DB = window.__FESTIVALES__;
@@ -726,6 +724,10 @@ function badgeHtml(r){const s=sourceOf(r);return `<span class="sourceBadge ${s}"
 let catalog1948References;
 const catalogAnnualReferences=new Map();
 async function recordWithCopies(record){
+ if(!record.u&&typeof DATA!=='undefined'){
+  const full=DATA.find(r=>r&&r.t===record.t&&r.d===record.d&&Number(r.y)===Number(record.y)&&r.u);
+  if(full)record={...full,...record,u:full.u,copias:full.copias,arch:full.arch};
+ }
  const year=Number(record.y);
  const revision=(year>=1930&&year<=1944)?'20261026':(year===1946?'20261024':'20261025')+'-r2';
  if(![1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
@@ -931,7 +933,7 @@ function renderFestivalEdition(fy){
 }
 
 let selectedFestival='Cannes';
-function festivalLabel(f){return 'Festival de '+f}
+function festivalLabel(f){return FilmotecaFestivals.label(f)}
 function availableYears(f){
  return [...new Set((FESTIVAL_DB.editions||[]).filter(e=>e.festival===f).map(e=>Number(e.year)))].sort((a,b)=>b-a);
 }
@@ -947,7 +949,7 @@ function oscarCategories(fy,festival='Oscar'){
  const ed=oscarEditionRaw(fy,festival), set=new Set();
  (ed?.films||[]).forEach(f=>(f.nominations||[]).forEach(n=>set.add(oscarCategoryBase(n))));
  const arr=[...set];
- return arr.sort((a,b)=>{const order=festival==='BAFTA'?BAFTA_CATEGORY_ORDER:OSCAR_CATEGORY_ORDER,ia=order.indexOf(a),ib=order.indexOf(b);return (ia<0?999:ia)-(ib<0?999:ib)||a.localeCompare(b,'es')});
+ return arr.sort((a,b)=>{const order=FilmotecaFestivals.categoryOrder(festival).length?FilmotecaFestivals.categoryOrder(festival):(festival==='BAFTA'?BAFTA_CATEGORY_ORDER:OSCAR_CATEGORY_ORDER),ia=order.indexOf(a),ib=order.indexOf(b);return (ia<0?999:ia)-(ib<0?999:ib)||a.localeCompare(b,'es')});
 }
 function rebuildOscarCategories(fy,festival='Oscar'){
  const cats=oscarCategories(fy,festival);
@@ -979,15 +981,17 @@ function renderOscarCategory(fy,cat,festival='Oscar'){
  $('festEditionTitle').textContent='';
  document.querySelectorAll('.oscarCategoryBtn').forEach(b=>b.classList.toggle('active',b.dataset.cat===cat));
  const rows=(raw.films||[]).filter(f=>(f.nominations||[]).some(n=>oscarCategoryBase(n)===cat)).map(f=>{
-   const nomination=(f.nominations||[]).find(n=>oscarCategoryBase(n)===cat)||cat;
+   const nominations=(f.nominations||[]).filter(n=>oscarCategoryBase(n)===cat);
    const win=(f.wins||[]).some(w=>oscarCategoryBase(w)===cat);
    const ft={festival,festival_year:Number(fy),section:raw.section,festival_title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,award:win?'Ganador · '+festival:'Nominado',nominations:f.nominations||[],wins:f.wins||[]};
-   return {f,ft,idx:resolveFestivalMatch(ft),detail:String(nomination).split(' · ').slice(1).join(' · '),win};
+   return {f,ft,idx:resolveFestivalMatch(ft),detail:nominations.map(n=>String(n).split(' · ').slice(1).join(' · ')).filter(Boolean).join(' / '),win,nominations:nominations.length};
  });
  const present=rows.filter(x=>x.idx>=0).length,missing=rows.length-present;
- $('festDisplaySub').textContent=cat+' · '+rows.length+' nominados';
+ const count=festival==='César'?rows.reduce((n,r)=>n+r.nominations,0):rows.length;
+ const unit=festival==='César'?' candidaturas':' nominados';
+ $('festDisplaySub').textContent=cat+' · '+count+unit;
  $('festDisplayMeta').innerHTML='<b>'+present+'</b> en tu filmoteca · '+missing+' pendiente'+(missing===1?'':'s')+' de localizar';
- $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+rows.length+' nominados';
+ $('festEditionCount').dataset.lead='<b>'+cat+'</b> · '+count+unit;
  $('festEditionCount').innerHTML=$('festEditionCount').dataset.lead;
  const grid=$('festMovieGrid');grid.innerHTML='';
  rows.sort((a,b)=>Number(b.win)-Number(a.win)).forEach(x=>{
@@ -1012,7 +1016,7 @@ function openFestivalYear(yr){
  document.querySelectorAll('.festivalYearBtn').forEach(x=>x.classList.toggle('active',Number(x.dataset.year)===yr));
  const ed=festivalEditionData(yr,selectedFestival), present=ed.present.length, miss=ed.missing.length, total=present+miss;
  $('festDisplayTitle').textContent=selectedFestival+' '+yr;
- if(selectedFestival==='Oscar'||selectedFestival==='BAFTA'){
+ if(FilmotecaFestivals.isAward(selectedFestival)){
    const cats=oscarCategories(yr,selectedFestival);
    $('festDisplaySub').textContent=(cats.length?cats.length+' categorías · ':'')+total+' títulos nominados';
    $('festDisplayMeta').innerHTML='<b>'+present+'</b> títulos en tu filmoteca · '+miss+' pendiente'+(miss===1?'':'s')+' de localizar';
@@ -1104,6 +1108,16 @@ function renderAnnualMissing(fy){
 function festivalAwardPriority(ft,festival){
  const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
  const allText=normalize([ft.award,...(ft.wins||[])].filter(Boolean).join(' · '));
+ if(festival==='Sitges'||festival==='Seminci'){
+  if((ft.wins||[]).map(normalize).some(p=>/^(espiga de oro|golden spike|mejor pelicula|best feature film in the sofc)(?:$|[ ·;(])/.test(p)))return 0;
+  if(/espiga de plata|silver spike/.test(allText))return 10;
+  if(/premio especial del jurado|special jury/.test(allText))return 20;
+  if(/direccion|director/.test(allText)&&!/revelacion|new director/.test(allText))return 30;
+  if(/actriz|actor|interpretacion|actress/.test(allText))return 40;
+  if(/guion|screenplay/.test(allText))return 50;
+  if(ft.wins?.length)return 70;
+  return 100;
+ }
  const auxiliary=/fipresci|signis|ecumenic|ecumenical|teddy|sebastiane|otra mirada|solidaridad|irizar|guion vasco|feroz/;
  const text=allText.split(' · ').filter(prize=>!auxiliary.test(prize)).join(' · ');
  if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(allText))return 110;
@@ -1122,7 +1136,7 @@ function festivalAwardPriority(ft,festival){
  return 80;
 }
 function orderFestivalGrid(grid,festival){
- if(!['Cannes','Berlín','Venecia','San Sebastián'].includes(festival))return;
+ if(!['Cannes','Berlín','Venecia','San Sebastián','Sitges','Seminci'].includes(festival))return;
  [...grid.children].sort((a,b)=>Number(a.dataset.awardPriority)-Number(b.dataset.awardPriority)).forEach(el=>grid.appendChild(el));
 }
 
@@ -1176,11 +1190,9 @@ function renderFestivalEditionFor(festival,fy,section=null){
  if(!cannes)appendAnnualMissingLink(fy);
  orderFestivalGrid(grid,festival);
 }
-function festivalIconId(f){
- return f==='Venecia'?'#ico-venice':f==='Berlín'?'#ico-berlin':f==='San Sebastián'?'#ico-ss':f==='Oscar'?'#ico-oscar':'#ico-cannes';
-}
+function festivalIconId(f){return FilmotecaFestivals.icon(f)}
 function festivalSectionsHTML(f){
- if(f==='Oscar') return '<div class="active">Selecciona un año</div>';
+ if(FilmotecaFestivals.isAward(f)) return '<div class="active">Selecciona un año</div>';
  if(f==='Cannes') return '<div class="active">Selecciona un año</div><div>Competición oficial</div><div>Un Certain Regard</div>';
  return '<div class="active">Sección Oficial</div><div>Otras secciones · próximamente</div>';
 }
@@ -1230,6 +1242,8 @@ const directParams=INITIAL_PARAMS;
 if(directParams.get('view')==='festivals'){
  $('tabFestivals').click();
  const directFestival=directParams.get('festival');
+ const configuredFestival=FilmotecaFestivals.fromSlug(directFestival);
+ if(configuredFestival)selectedFestival=configuredFestival;
  if(directFestival==='venecia') selectedFestival='Venecia';
  if(directFestival==='berlin') selectedFestival='Berlín';
  if(directFestival==='san-sebastian'||directFestival==='sansebastian') selectedFestival='San Sebastián';
