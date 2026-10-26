@@ -23,7 +23,7 @@ for(const app of ['lab','lab-lite'])test(`${app}: approved 1948 references survi
  assert.match(box.children[0].textContent,/Copia por comprobar/);
  const again=await c.recordWithCopies(hit);assert.equal(fetches,1);assert.equal(again.i,hit.i);
  assert.equal(await c.recordWithCopies(movie),movie);
- const unrelated={t:'Otra',y:1942};assert.equal(await c.recordWithCopies(unrelated),unrelated);assert.equal(fetches,1);
+ const unrelated={t:'Otra',y:1937};assert.equal(await c.recordWithCopies(unrelated),unrelated);assert.equal(fetches,1);
  c.renderCopyReferences({copias:[]});assert.equal(box.children.length,0);assert.equal(box.style.display,'none');
 });
 
@@ -47,7 +47,7 @@ test('1946 and 1947 retain every Telegram copy, distinct versions and unresolved
   for(const app of ['lab','lab-lite']){
    const html=fs.readFileSync(app+'/index.html','utf8');
    assert(html.includes(`annual_${year}_overlay.json?v=master-${year}-${year===1946?'20261024':'20261025'}`));
-   assert(html.includes('(1943|1944|1945|1946|1947|1948|2024)'));
+   assert(html.includes('(1938|1939|1940|1941|1942|1943|1944|1945|1946|1947|1948|2024)'));
   }
   if(year===1947){
    const color=annual.find(r=>r.u.endsWith('/132'));
@@ -116,4 +116,32 @@ test('1943 preserves inventory and separates corrected homonyms and Superman sho
  assert.equal(at(342).o,'Secret Agent');assert.equal(at(384).o,'The Mummy Strikes');
  assert.equal(at(23).copias[0].videoDurationSeconds,8073);assert.equal(at(23).dur,120);
  for(const app of ['lab','lab-lite'])assert(fs.readFileSync(app+'/index.html','utf8').includes('annual_1943_overlay.json?v=master-1943-20261026'));
+});
+
+test('1938–1942 preserve active copies, distinct cartoons and user-confirmed identities',()=>{
+ const annual=Object.fromEntries([1938,1939,1940,1941,1942].map(y=>[y,JSON.parse(fs.readFileSync(`data/catalog/annual_${y}_overlay.json`))]));
+ for(const [y,records,copies] of [[1938,140,140],[1939,152,152],[1940,183,183],[1941,190,191],[1942,217,218]]){
+  const rows=annual[y];assert.equal(rows.length,records);assert(rows.every(r=>r.y===y));
+  const refs=rows.flatMap(r=>r.copias);assert.equal(refs.length,copies);assert.equal(new Set(refs.map(c=>c.u)).size,copies);
+ }
+ const at=(y,id)=>annual[y].find(r=>r.u.endsWith('/'+id));
+ assert.equal(at(1938,131).o,'Self Control');assert.equal(at(1938,244).o,'Good Scouts');
+ assert(!annual[1938].flatMap(r=>r.copias).some(c=>c.u.endsWith('/306')));assert(at(1939,256));
+ assert.notEqual(at(1938,29).t,at(1938,69).t);assert.equal(at(1938,69).dur,null);
+ assert.equal(at(1939,194).o,'The Autograph Hound');assert.equal(at(1939,218).o,'The Hockey Champ');
+ assert(!annual[1940].flatMap(r=>r.copias).some(c=>c.u.endsWith('/366')));
+ assert.equal(at(1941,350).d,'Francisco Mugica');assert.equal(at(1941,137).copias.length,2);
+ assert.equal(at(1942,224).masterYear,1947);assert.equal(at(1942,381).copias.length,2);
+ assert.notEqual(at(1942,314).o,at(1942,393).o);
+});
+
+for(const app of ['lab','lab-lite'])test(`${app}: 1942 award summary recovers both current Flying Tigers videos`,async()=>{
+ const html=fs.readFileSync(app+'/index.html','utf8');
+ const annual=JSON.parse(fs.readFileSync('data/catalog/annual_1942_overlay.json'));
+ const movie=annual.find(r=>r.o==='Flying Tigers');let requested='';
+ const context=vm.createContext({fetch:async url=>{requested=url;return {ok:true,json:async()=>annual}}});
+ vm.runInContext(html.slice(html.indexOf('let catalog1948References;'),html.indexOf('async function openModal(')),context);
+ const full=await context.recordWithCopies({t:movie.t,d:movie.d,y:1942,i:123});
+ assert.match(requested,/annual_1942_overlay.json/);assert.equal(full.copias.length,2);
+ assert(full.copias.some(c=>c.u.endsWith('/449')));assert.equal(full.i,123);
 });
