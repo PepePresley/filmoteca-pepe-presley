@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-26",
+  "annuals": [
+    {
+      "year": 1930,
+      "identities": 87,
+      "copies": 88,
+      "sourceSha256": "b4813f6e71f68dc2dab91e929c44667f0773078d3a183ea05430eb671172df3d",
+      "proposalSha256": "3db221b69e097f0d7116bb7a65a7a03908f83e79566d44a97d0c8cb4c1e2eae8",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1931,
+      "identities": 124,
+      "copies": 125,
+      "sourceSha256": "b11e8be66840e8d806951e5a1490350fa5ac0f22721e9df6397991b07760d1ad",
+      "proposalSha256": "8ddc6ca237fc18f12002949097444761213fdb44c72b397ee583613f53c501b8",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1932,
+      "identities": 142,
+      "copies": 142,
+      "sourceSha256": "c9c993642ee732fb014a6b449f63615323bb64d109945b49410d161863a0d1a7",
+      "proposalSha256": "043cf9936323c2bc66df0b66adf0e1fc06c1ee944f71e0db07900974ae69ef03",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1933,
+      "identities": 152,
+      "copies": 152,
+      "sourceSha256": "a8cf1c8d25a54aa2798e3d8a444a5ec4fecd14f7b0b262d7944f2bb9393d94f1",
+      "proposalSha256": "f2c19a5bc8217b3fd25c00b2ed8aaa450d149cd0c21c0182a6b22ad107382e21",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1934,
+      "identities": 157,
+      "copies": 157,
+      "sourceSha256": "1259ce48f121d0a9357f601724675065ce4fab6c4058e678d34f8b056206cf08",
+      "proposalSha256": "9037b245cf070a058aebad1e58b05e43da9f811749cd5ce4f9fec5ce911fd8c5",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1935,
+      "identities": 158,
+      "copies": 158,
+      "sourceSha256": "2844096ba8356607aac1dee5f70817d6c6b748eb8038a5a393de45b33264aeec",
+      "proposalSha256": "336d2a0f4bed4b09d532812f9b863699f1d16357d550d07743f243d15ea598bf",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1936,
+      "identities": 193,
+      "copies": 193,
+      "sourceSha256": "554a03724b55d5410cf670416df7ce0674ae000647f4f42af974d1dfb942ff0e",
+      "proposalSha256": "3eb5b8518a7a6dd4f42071fe685147aa3eff7a1ae78adf008405b189b6eb11d6",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1937,
+      "identities": 152,
+      "copies": 152,
+      "sourceSha256": "59e600c2bb7956098d642e3c2d3b4b41c8b09943b021bec2bdf8e622199d0b8e",
+      "proposalSha256": "d63ac46bbf31268d7f378b409dd205691aaedee17fa5678834620b018d8fc74c",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    }
+  ],
+  "shiftedYears": {
+    "1930": [
+      {
+        "title": "Un Grito en la Noche",
+        "masterYear": 1929
+      }
+    ],
+    "1931": [
+      {
+        "title": "Industrial Britain",
+        "masterYear": 1933
+      },
+      {
+        "title": "Taxi!",
+        "masterYear": 1932
+      }
+    ],
+    "1932": [
+      {
+        "title": "L'or des mers",
+        "masterYear": 1933
+      },
+      {
+        "title": "María, leyenda húngara / Tavaszi zápor",
+        "masterYear": 1933
+      }
+    ],
+    "1933": [
+      {
+        "title": "Комсомол",
+        "masterYear": 1932
+      }
+    ],
+    "1934": [
+      {
+        "title": "Miseria en Borinage",
+        "masterYear": 1933
+      },
+      {
+        "title": "1860 - I mille di Garibaldi",
+        "masterYear": 1933
+      },
+      {
+        "title": "Janitzio",
+        "masterYear": 1935
+      }
+    ],
+    "1935": [
+      {
+        "title": "Día de mudanza",
+        "masterYear": 1936
+      },
+      {
+        "title": "El embrujo de Manhattan",
+        "masterYear": 1934
+      }
+    ],
+    "1936": [
+      {
+        "title": "El fantasma va al oeste",
+        "masterYear": 1935
+      }
+    ],
+    "1937": [
+      {
+        "title": "An Optical Poem",
+        "masterYear": 1938
+      }
+    ]
+  },
+  "preservedCopies": "El presidio1930 /90 +151; Una tragedia humana1931 /130 +260. Both retained.",
+  "versions": "German/French Pabst1931 and German/English AnnaChristie1930 remain distinct.",
+  "userConfirmed": "1936 /423 original150min Gance;1933 /217 FraDiavolo;1932 /315 Rasputin;1931 /268 LaFinDuMonde;1930 /185 and187 valid copies. No renewed investigation.",
+  "nonBlockingNotes": "1937 /329 difference7:28;1935 /337 difference10:41;1934 /334 nominal duration missing. No inference of incomplete version.",
+  "latest1937Adjustment": "Snapshot supplied by Luna retained /333, but latest Dropbox JSON removes it. Removed from both master sheets; Beethoven remains1936 /173. Other152rows preserved unchanged.",
+  "currentJsonSha256": {
+    "1930": "65615aa6b6fbb28e44fef4ebf4a4fcd166c8de3dc2ddd4b1b8ad5a0af114f7b7",
+    "1931": "5f6d259f9fb77760b1fb3bbf05d7c36665cc8be13683637c766eaedf2ef4e1e2",
+    "1932": "1529e832ef8f7f613045770f3f99a16872c2826ebb92d19817956c4c85d1c7cf",
+    "1933": "b281310165b7a60f4284d88c1fde1b1fa99f96304494d404b04dd9b4190cce89",
+    "1934": "0e8d8136aeae7850724a6a1fb86d05ff1c20b62efab498e82e977d0329ac574e",
+    "1935": "a7598c96022281f3bc09377b781ef3dfbfa69949eefd7b7c8ef4a7458fa0110f",
+    "1936": "de6ba5baee33e215a20ba117c6e93496c3d08a14b05d13fa5dbd7a2a157c1135",
+    "1937": "1bfb8a3d46f46f1cd190bd3a9b76252e6ce13c7e82acc01f9e34d523ee277556"
+  }
+}
