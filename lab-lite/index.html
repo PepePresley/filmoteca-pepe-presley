@@ -544,6 +544,7 @@ try{
  }
  try{
    const overlays=[
+     "/filmoteca-pepe-presley/data/catalog/annual_1943_overlay.json?v=master-1943-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1944_overlay.json?v=master-1944-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025-r2",
      "/filmoteca-pepe-presley/data/catalog/annual_1946_overlay.json?v=master-1946-20261024-r2",
@@ -562,7 +563,7 @@ try{
        if(ar.ok){
          const annual=await ar.json();
          if(Array.isArray(annual)){
-           const masterYear=/annual_(1944|1945|1946|1947|1948|2024)_overlay\.json/.exec(url);
+           const masterYear=/annual_(1943|1944|1945|1946|1947|1948|2024)_overlay\.json/.exec(url);
            if(masterYear) window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row.y)!==Number(masterYear[1]));
            window.__CATALOGO__=window.__CATALOGO__.concat(annual);
          }
@@ -713,8 +714,8 @@ let catalog1948References;
 const catalogAnnualReferences=new Map();
 async function recordWithCopies(record){
  const year=Number(record.y);
- const revision=year===1944?'20261026':(year===1946?'20261024':'20261025')+'-r2';
- if(![1944,1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
+ const revision=(year===1943||year===1944)?'20261026':(year===1946?'20261024':'20261025')+'-r2';
+ if(![1943,1944,1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
  try{
   if(!catalogAnnualReferences.has(year))catalogAnnualReferences.set(year,fetch(`/filmoteca-pepe-presley/data/catalog/annual_${year}_overlay.json?v=master-${year}-${revision}`).then(async response=>{if(!response.ok)throw new Error('Catalog references unavailable');return response.json()}).catch(error=>{catalogAnnualReferences.delete(year);throw error}));
   const rows=await catalogAnnualReferences.get(year);
