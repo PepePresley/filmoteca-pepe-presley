@@ -23,7 +23,7 @@ for(const app of ['lab','lab-lite'])test(`${app}: approved 1948 references survi
  assert.match(box.children[0].textContent,/Copia por comprobar/);
  const again=await c.recordWithCopies(hit);assert.equal(fetches,1);assert.equal(again.i,hit.i);
  assert.equal(await c.recordWithCopies(movie),movie);
- const unrelated={t:'Otra',y:1944};assert.equal(await c.recordWithCopies(unrelated),unrelated);assert.equal(fetches,1);
+ const unrelated={t:'Otra',y:1942};assert.equal(await c.recordWithCopies(unrelated),unrelated);assert.equal(fetches,1);
  c.renderCopyReferences({copias:[]});assert.equal(box.children.length,0);assert.equal(box.style.display,'none');
 });
 
@@ -47,7 +47,7 @@ test('1946 and 1947 retain every Telegram copy, distinct versions and unresolved
   for(const app of ['lab','lab-lite']){
    const html=fs.readFileSync(app+'/index.html','utf8');
    assert(html.includes(`annual_${year}_overlay.json?v=master-${year}-${year===1946?'20261024':'20261025'}`));
-   assert(html.includes('(1945|1946|1947|1948|2024)'));
+   assert(html.includes('(1944|1945|1946|1947|1948|2024)'));
   }
   if(year===1947){
    const color=annual.find(r=>r.u.endsWith('/132'));
@@ -91,4 +91,17 @@ test('corrected 1947 and 1948 identities cannot recover posters or copies from o
  assert.equal(waters.o,'Deep Waters');assert.equal(waters.d,'Henry King');
  assert.equal(ice.t,'Blonde Ice');assert.equal(ice.copias.length,1);assert.equal(waters.copias.length,1);
  assert(!ice.copias.some(c=>c.revisionPendiente));
+});
+
+test('1944 keeps all references and separates confirmed Raduga from the unrelated short',()=>{
+ const annual=JSON.parse(fs.readFileSync('data/catalog/annual_1944_overlay.json'));
+ assert.equal(annual.length,182);assert(annual.every(r=>r.y===1944));
+ const copies=annual.flatMap(r=>r.copias);assert.equal(copies.length,182);assert.equal(new Set(copies.map(c=>c.u)).size,182);
+ const raduga=annual.find(r=>r.u.endsWith('/161'));
+ assert.equal(raduga.o,'Raduga');assert.equal(raduga.d,'Mark Donskoy');assert.equal(raduga.dur,93);assert.equal(raduga.copias[0].videoDurationSeconds,5162);
+ assert.equal(annual.find(r=>r.u.endsWith('/74')).o,'Days of Glory');
+ assert.equal(annual.find(r=>r.u.endsWith('/122')).o,'Uncertain Glory');
+ const guadalcanal=annual.find(r=>r.u.endsWith('/358'));assert.equal(guadalcanal.d,'Ray Harryhausen');assert.equal(guadalcanal.masterYear,1943);
+ assert.equal(annual.filter(r=>r.masterYear).length,6);
+ for(const app of ['lab','lab-lite'])assert(fs.readFileSync(app+'/index.html','utf8').includes('annual_1944_overlay.json?v=master-1944-20261026'));
 });
