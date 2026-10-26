@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-26",
+  "annuals": [
+    {
+      "year": 1938,
+      "identities": 140,
+      "copies": 140,
+      "sourceSha256": "c8e745a5239bd0c8d249945002123f775605f1b37fd4ef697f44ab081c4ae05e",
+      "proposalSha256": "1841797830811b80a203abae86c50a0c72333dde0d9fe4e0ac2d78c60cd34b1f",
+      "removedReferences": [
+        "https://t.me/c/2212330765/306"
+      ],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1939,
+      "identities": 152,
+      "copies": 152,
+      "sourceSha256": "94a5ae89114af3fcd7c6e96ba5fc94b25945df259ce502cf111120fcaab648ed",
+      "proposalSha256": "aa9efb535c60b2bee80e0240a657390bd7f8a2a4c229cf788c94d176bf553d4e",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1940,
+      "identities": 183,
+      "copies": 183,
+      "sourceSha256": "be9d89b77ede8adeb270710c028b7e9ef46b360ead955ab5a8b38d82667287c5",
+      "proposalSha256": "ff92efb990dc225e580f2fef78ebe099fc33388a1c5c0f6783b9fc3ad39ad40a",
+      "removedReferences": [
+        "https://t.me/c/2207120067/366"
+      ],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1941,
+      "identities": 190,
+      "copies": 191,
+      "sourceSha256": "441a3d808e36b480513d89946f9f49ff38505433d30122751f7a60e95abb8fc2",
+      "proposalSha256": "ee7b27603e41babaae0b98cb8efac142dac3e3af17bccae0398354eb7dd016c6",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    },
+    {
+      "year": 1942,
+      "identities": 217,
+      "copies": 218,
+      "sourceSha256": "76e60fd9847537c8b2c848db11add05b16eb7965dbb54d1e50a68a100a0821ed",
+      "proposalSha256": "56bdb39146857ed45e0b84aa1e0eda766ad6d4468e2476a18c962928ba25b3db",
+      "removedReferences": [],
+      "technicalFieldsMatch": true
+    }
+  ],
+  "shiftedYears": {
+    "1938": [],
+    "1939": [
+      {
+        "title": "Estudiantes en Oxford",
+        "masterYear": 1940
+      },
+      {
+        "title": "La malquerida",
+        "masterYear": 1940
+      }
+    ],
+    "1940": [
+      {
+        "title": "Clair de Lune",
+        "masterYear": 1942
+      },
+      {
+        "title": "Boogie-Doodle",
+        "masterYear": 1941
+      },
+      {
+        "title": "British Intelligence",
+        "masterYear": 1939
+      },
+      {
+        "title": "Fantasia sottomarina",
+        "masterYear": 1939
+      }
+    ],
+    "1941": [
+      {
+        "title": "Raza",
+        "masterYear": 1942
+      },
+      {
+        "title": "A través de la noche",
+        "masterYear": 1942
+      },
+      {
+        "title": "El hombre y el carro",
+        "masterYear": 1945
+      }
+    ],
+    "1942": [
+      {
+        "title": "Una gran señora",
+        "masterYear": 1941
+      },
+      {
+        "title": "Bugs Bunny: (¿Sabes quién viene a comer?) (C)",
+        "masterYear": 1947
+      },
+      {
+        "title": "El Peñón de las Ánimas",
+        "masterYear": 1943
+      }
+    ]
+  },
+  "resolvedInterannualDuplicate": "1938 /306 no longer present in latest JSON; Mr Moto retained in1939 /256. Earlier1939 note superseded by latest1938 JSON.",
+  "remainingQuestion": "Olympia PartII 1938 /69 duration/version unconfirmed; keep separate from combinedPartsI&II /29."
+}

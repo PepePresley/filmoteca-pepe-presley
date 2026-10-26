@@ -546,6 +546,11 @@ try{
  window.__CATALOGO__=await r.json();
  try{
    const overlays=[
+     "/filmoteca-pepe-presley/data/catalog/annual_1938_overlay.json?v=master-1938-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1939_overlay.json?v=master-1939-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1940_overlay.json?v=master-1940-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1941_overlay.json?v=master-1941-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1942_overlay.json?v=master-1942-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1943_overlay.json?v=master-1943-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1944_overlay.json?v=master-1944-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025-r2",
@@ -565,7 +570,7 @@ try{
        if(ar.ok){
          const annual=await ar.json();
          if(Array.isArray(annual)){
-           const masterYear=/annual_(1943|1944|1945|1946|1947|1948|2024)_overlay\.json/.exec(url);
+           const masterYear=/annual_(1938|1939|1940|1941|1942|1943|1944|1945|1946|1947|1948|2024)_overlay\.json/.exec(url);
            if(masterYear) window.__CATALOGO__=window.__CATALOGO__.filter(row=>Number(row.y)!==Number(masterYear[1]));
            window.__CATALOGO__=window.__CATALOGO__.concat(annual);
          }
@@ -722,8 +727,8 @@ let catalog1948References;
 const catalogAnnualReferences=new Map();
 async function recordWithCopies(record){
  const year=Number(record.y);
- const revision=(year===1943||year===1944)?'20261026':(year===1946?'20261024':'20261025')+'-r2';
- if(![1943,1944,1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
+ const revision=(year>=1938&&year<=1944)?'20261026':(year===1946?'20261024':'20261025')+'-r2';
+ if(![1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
  try{
   if(!catalogAnnualReferences.has(year))catalogAnnualReferences.set(year,fetch(`/filmoteca-pepe-presley/data/catalog/annual_${year}_overlay.json?v=master-${year}-${revision}`).then(async response=>{if(!response.ok)throw new Error('Catalog references unavailable');return response.json()}).catch(error=>{catalogAnnualReferences.delete(year);throw error}));
   const rows=await catalogAnnualReferences.get(year);
@@ -849,7 +854,12 @@ async function ensureFullCatalog(){
  const full=await rr.json();
  for(const url of [
    "/filmoteca-pepe-presley/data/catalog/annual_1988_festival_overlay.json?v=annual-1988-festival-v1",
-   "/filmoteca-pepe-presley/data/catalog/annual_1943_overlay.json?v=master-1943-20261026",
+   "/filmoteca-pepe-presley/data/catalog/annual_1938_overlay.json?v=master-1938-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1939_overlay.json?v=master-1939-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1940_overlay.json?v=master-1940-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1941_overlay.json?v=master-1941-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1942_overlay.json?v=master-1942-20261026",
+     "/filmoteca-pepe-presley/data/catalog/annual_1943_overlay.json?v=master-1943-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1944_overlay.json?v=master-1944-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_1945_overlay.json?v=master-1945-20261025-r2",
      "/filmoteca-pepe-presley/data/catalog/annual_1946_overlay.json?v=master-1946-20261024-r2",
@@ -867,7 +877,7 @@ async function ensureFullCatalog(){
      if(ar.ok){
        const annual=await ar.json();
        if(Array.isArray(annual)){
-         const replacementYear=/annual_(1943|1944|1945|1946|1947|1948|2024)_overlay\.json/.exec(url);
+         const replacementYear=/annual_(1938|1939|1940|1941|1942|1943|1944|1945|1946|1947|1948|2024)_overlay\.json/.exec(url);
          if(replacementYear) for(let i=full.length-1;i>=0;i--)if(Number(full[i].y)===Number(replacementYear[1]))full.splice(i,1);
          for(const row of annual) full.push(row);
        }
