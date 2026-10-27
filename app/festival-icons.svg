@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- Original pictograms for the collection; shared by LAB and Lite. -->
+  <symbol id="sitges" viewBox="0 0 64 64">
+    <path fill="currentColor" d="M14 26 9 19l4-10 12 5h14l12-5 4 10-5 7 4 11-7 15-15 6-15-6-7-15z"/>
+    <path fill="#0b0b0c" d="m18 27 10 3-3 5-8-3zm28 0-10 3 3 5 8-3zM22 41l10-5 10 5-3 9H25z"/>
+    <path fill="none" stroke="currentColor" stroke-width="3" d="M26 44h12"/>
+  </symbol>
+  <symbol id="seminci" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" d="M24 57 40 9"/>
+    <g fill="currentColor"><path d="M36 21c-9 0-13-6-11-13 8 1 13 6 11 13zM40 20c-2-8 3-14 11-16 1 8-3 14-11 16zM31 34c-9 0-13-6-12-13 9 0 14 5 12 13zM36 33c-2-8 3-14 11-16 2 8-3 14-11 16zM27 47c-9 0-14-6-12-13 9 0 14 5 12 13zM31 46c-1-8 4-14 12-16 1 9-4 14-12 16z"/></g>
+  </symbol>
+  <symbol id="locarno" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M16 29C7 28 6 18 12 15c5-3 9 1 6 5M18 30l6-8h20l4-7 8 2 1 8-9 7-6 8 7 13m-8-14-9-3-9 7-3 10m6-13 3 13M21 32l-6 12-7 4"/>
+    <g fill="currentColor"><circle cx="28" cy="28" r="2"/><circle cx="36" cy="28" r="2"/><circle cx="31" cy="34" r="2"/><circle cx="42" cy="25" r="2"/></g>
+  </symbol>
+  <symbol id="sundance" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="12" fill="currentColor"/>
+    <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M32 3v10m0 38v10M3 32h10m38 0h10M11 11l7 7m28 28 7 7M11 53l7-7m28-28 7-7M21 6l4 9m14 34 4 9M6 21l9 4m34 14 9 4M6 43l9-4m34-14 9-4M21 58l4-9m14-34 4-9"/></g>
+  </symbol>
+  <symbol id="globos" viewBox="0 0 64 64">
+    <g fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="32" cy="23" r="17"/><ellipse cx="32" cy="23" rx="8" ry="17"/><path d="M16 17h32M15 28h34M32 6v34"/></g>
+    <path fill="currentColor" d="M28 40h8v10h9v5H19v-5h9zM15 57h34v5H15z"/>
+  </symbol>
+  <symbol id="david" viewBox="0 0 64 64">
+    <circle cx="32" cy="10" r="6" fill="currentColor"/>
+    <path fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="m26 22-9-7 4-8m18 15 8 8 5-8M27 21h11l-2 16 4 18m-12-18-4 18"/>
+    <path fill="currentColor" d="M18 57h28v5H18z"/>
+  </symbol>
+  <symbol id="ariel" viewBox="0 0 64 64">
+    <path fill="currentColor" d="M28 22 6 9l8 21 14 9zm8 0L58 9l-8 21-14 9z"/>
+    <circle cx="32" cy="14" r="5" fill="currentColor"/>
+    <path fill="currentColor" d="m28 21 8 0 3 19-5 11h-4l-5-11zM20 53h24v5H20zM15 60h34v4H15z"/>
+  </symbol>
+  <symbol id="cesar" viewBox="0 0 64 64">
+    <path fill="currentColor" d="m17 9 24-5 8 9-3 34-8 8-21-4-5-15z"/>
+    <g fill="none" stroke="#0b0b0c" stroke-width="2.5"><path d="m16 16 29 9-29 6 29 8-25 8m5-38 8 43m7-44-8 42M17 22l26 23M19 42l24-25"/></g>
+    <path fill="currentColor" d="M13 57h38v6H13z"/>
+  </symbol>
+  <symbol id="goya" viewBox="0 0 64 64">
+    <path fill="currentColor" d="M18 25C12 9 25 3 36 6c9 2 12 9 10 17l5 10-6 3-1 10-10 2-3 6H12l3-12 9-6-5-4z"/>
+    <path fill="none" stroke="#0b0b0c" stroke-width="3" d="m33 20 10 1m-6 17 8 1M21 12l7 5-6 9"/>
+    <path fill="currentColor" d="M9 57h42v6H9z"/>
+  </symbol>
+  <symbol id="bafta" viewBox="0 0 64 64">
+    <path fill="currentColor" d="M12 8h40v22c0 17-10 26-20 31-10-5-20-14-20-31z"/>
+    <path fill="#0b0b0c" d="m17 22 12 3-3 5-9-2zm30 0-12 3 3 5 9-2zM32 28l-4 12h8zm-11 16c7 1 15 1 22 0l-6 8H27z"/>
+  </symbol>
+</svg>

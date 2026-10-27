@@ -33,3 +33,15 @@ Locarno incorpora 17 títulos internacionales y 15 Cineasti del Presente. La sel
 Sundance incorpora 48 títulos en las cinco secciones competitivas/NEXT, otras tres películas premiadas y siete cortos premiados. Se eliminó la repetición del premio de producción de Seeds, se restituyó el premio del público de Twinless y se corrigió la denominación Jonathan Oppenheim del premio de montaje de André is an Idiot según el palmarés oficial.
 
 `festival-references-cinco-2025.json` aporta enlaces de maestros para identidades exactas que no estaban en el bloque de referencias anterior. No añade filas al catálogo ni modifica su resolvedor. Limónov conserva su identidad de director en cirílico; su equivalencia con Kirill Serebrennikov se reconoció al cotejar el maestro. Algunos títulos no localizados de Ariel mantienen director pendiente; no se les asigna propiedad ni póster por semejanza.
+
+## Cinco familias · 2024 e iconos compartidos
+
+El bloque 2024 añade 220 entradas en 14 secciones y confirma 75 apariciones de la colección mediante maestros 2019–2025. Globos conserva 92 candidaturas y 15 premios; David, 120 candidaturas y 24 premios competitivos/Giovani más el reconocimiento del espectador separado; Ariel, 126 candidaturas y 25 premios incluyendo empate. Los nombres de categorías se adaptan al vocabulario compartido de 2025.
+
+Locarno conserva 17 títulos de Concorso Internazionale, 15 de Cineasti del Presente, 13 cortos premiados y la película premiada de Piazza Grande. Se excluye el corto cuya única distinción era una candidatura EFA y se separan los premios compuestos sin repetir películas. La limitación documental del programa final queda en las fuentes. Sundance conserva 46 obras en las cinco secciones principales/NEXT y siete cortos premiados. En festivales, una lista de premios ganados no se presenta como lista de candidaturas.
+
+Cannes 2024/Emilia Pérez recupera el premio de interpretación compartido por Adriana Paz, Zoe Saldaña, Karla Sofía Gascón y Selena Gomez, además del premio del jurado. Es un ajuste de resultados sin cambio de identidad o propiedad.
+
+El overlay mínimo `annual_2024_z_nuevos_festivales_overlay.json` recupera Familia, Perdidos en la noche, Tótem y Frida con datos y enlaces de los maestros, sin póster heredado. Su nombre lo sitúa después del reemplazo anual completo en el orden de carga. Tótem de Lila Avilés deja de heredar la ficha de Sander Burger; esa misma corrección alcanza Berlín 2023, la única asociación anterior modificada. Black Box Diaries conserva su ficha con director en escritura japonesa, reconocida como Shiori Ito al cotejar la referencia. No se cambia el resolvedor.
+
+`festival-references-cinco-2024.json` añade 61 referencias exactas no incluidas en los bloques anteriores. Los iconos específicos de diez familias están en `app/festival-icons.svg`; los cinco símbolos anteriores se conservan. Cada una de las quince familias tiene un destino de icono distinto desde `app/festival-config.js`, sin duplicar dibujos entre LAB y Lite. Son pictogramas propios y ligeros, no imágenes externas.

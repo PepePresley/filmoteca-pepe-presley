@@ -164,7 +164,11 @@
         {
           "title": "Emilia Pérez",
           "director": "Jacques Audiard",
-          "award": "Premio del Jurado"
+          "award": "Premio del Jurado · Mejor interpretación femenina · Adriana Paz · Zoe Saldaña · Karla Sofía Gascón · Selena Gomez",
+          "wins": [
+            "Premio del Jurado",
+            "Mejor interpretación femenina · Adriana Paz · Zoe Saldaña · Karla Sofía Gascón · Selena Gomez"
+          ]
         },
         {
           "title": "Anora",
@@ -3818,6 +3822,2812 @@
             "PERFECT DAYS"
           ],
           "wins": []
+        }
+      ]
+    },
+    {
+      "festival": "Globos de Oro",
+      "year": 2024,
+      "section": "Cine · 81.ª edición",
+      "films": [
+        {
+          "title": "Oppenheimer",
+          "director": "Christopher Nolan",
+          "award": "Película dramática · Actor protagonista en drama · Cillian Murphy · Actor de reparto · Robert Downey Jr. · Dirección · Christopher Nolan · Música original · Ludwig Göransson",
+          "nominations": [
+            "Película dramática",
+            "Actor protagonista en drama · Cillian Murphy",
+            "Actriz de reparto · Emily Blunt",
+            "Actor de reparto · Robert Downey Jr.",
+            "Dirección · Christopher Nolan",
+            "Guion · Christopher Nolan",
+            "Música original · Ludwig Göransson",
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [
+            "Película dramática",
+            "Actor protagonista en drama · Cillian Murphy",
+            "Actor de reparto · Robert Downey Jr.",
+            "Dirección · Christopher Nolan",
+            "Música original · Ludwig Göransson"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Oppenheimer",
+          "aliases": []
+        },
+        {
+          "title": "Anatomía de una caída",
+          "director": "Justine Triet",
+          "award": "Película de habla no inglesa · Guion · Justine Triet / Arthur Harari",
+          "nominations": [
+            "Película dramática",
+            "Película de habla no inglesa",
+            "Actriz protagonista en drama · Sandra Hüller",
+            "Guion · Justine Triet / Arthur Harari"
+          ],
+          "wins": [
+            "Película de habla no inglesa",
+            "Guion · Justine Triet / Arthur Harari"
+          ],
+          "aliases": [
+            "Anatomy of a Fall",
+            "Anatomie d'une chute",
+            "Anatomie d’une chute"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Anatomía de una caída"
+        },
+        {
+          "title": "Los asesinos de la luna",
+          "director": "Martin Scorsese",
+          "award": "Actriz protagonista en drama · Lily Gladstone",
+          "nominations": [
+            "Película dramática",
+            "Actriz protagonista en drama · Lily Gladstone",
+            "Actor protagonista en drama · Leonardo DiCaprio",
+            "Actor de reparto · Robert De Niro",
+            "Dirección · Martin Scorsese",
+            "Guion · Eric Roth / Martin Scorsese",
+            "Música original · Robbie Robertson"
+          ],
+          "wins": [
+            "Actriz protagonista en drama · Lily Gladstone"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Los asesinos de la luna",
+          "aliases": [
+            "Killers of the Flower Moon"
+          ]
+        },
+        {
+          "title": "Maestro",
+          "director": "Bradley Cooper",
+          "award": "Nominada",
+          "nominations": [
+            "Película dramática",
+            "Actriz protagonista en drama · Carey Mulligan",
+            "Actor protagonista en drama · Bradley Cooper",
+            "Dirección · Bradley Cooper"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Maestro",
+          "aliases": []
+        },
+        {
+          "title": "Vidas pasadas",
+          "director": "Celine Song",
+          "award": "Nominada",
+          "nominations": [
+            "Película dramática",
+            "Película de habla no inglesa",
+            "Actriz protagonista en drama · Greta Lee",
+            "Dirección · Celine Song",
+            "Guion · Celine Song"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Vidas pasadas",
+          "aliases": [
+            "Past Lives"
+          ]
+        },
+        {
+          "title": "La zona de interés",
+          "director": "Jonathan Glazer",
+          "award": "Nominada",
+          "nominations": [
+            "Película dramática",
+            "Película de habla no inglesa",
+            "Música original · Mica Levi"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "La zona de interés",
+          "aliases": [
+            "The Zone of Interest",
+            "LA ZONA DE INTERÉS",
+            "La Zone d’intérêt"
+          ]
+        },
+        {
+          "title": "Pobres criaturas",
+          "director": "Yorgos Lánthimos",
+          "award": "Película musical o comedia · Actriz protagonista en musical o comedia · Emma Stone",
+          "nominations": [
+            "Película musical o comedia",
+            "Actriz protagonista en musical o comedia · Emma Stone",
+            "Actor de reparto · Mark Ruffalo",
+            "Actor de reparto · Willem Dafoe",
+            "Dirección · Yorgos Lanthimos",
+            "Guion · Tony McNamara",
+            "Música original · Jerskin Fendrix"
+          ],
+          "wins": [
+            "Película musical o comedia",
+            "Actriz protagonista en musical o comedia · Emma Stone"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Pobres criaturas",
+          "aliases": [
+            "Poor Things"
+          ]
+        },
+        {
+          "title": "Air",
+          "director": "Ben Affleck",
+          "award": "Nominada",
+          "nominations": [
+            "Película musical o comedia",
+            "Actor protagonista en musical o comedia · Matt Damon"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Air",
+          "aliases": []
+        },
+        {
+          "title": "American Fiction",
+          "director": "Cord Jefferson",
+          "award": "Nominada",
+          "nominations": [
+            "Película musical o comedia",
+            "Actor protagonista en musical o comedia · Jeffrey Wright"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "American Fiction",
+          "aliases": []
+        },
+        {
+          "title": "Barbie",
+          "director": "Greta Gerwig",
+          "award": "Canción original · What Was I Made For? · música y letra: Billie Eilish O’Connell / Finneas O’Connell · Logro cinematográfico y de taquilla",
+          "nominations": [
+            "Película musical o comedia",
+            "Actriz protagonista en musical o comedia · Margot Robbie",
+            "Actor de reparto · Ryan Gosling",
+            "Dirección · Greta Gerwig",
+            "Guion · Greta Gerwig / Noah Baumbach",
+            "Canción original · What Was I Made For? · música y letra: Billie Eilish O’Connell / Finneas O’Connell",
+            "Canción original · Dance the Night · música y letra: Mark Ronson / Andrew Wyatt / Dua Lipa / Caroline Ailin",
+            "Canción original · I’m Just Ken · música y letra: Mark Ronson / Andrew Wyatt",
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [
+            "Canción original · What Was I Made For? · música y letra: Billie Eilish O’Connell / Finneas O’Connell",
+            "Logro cinematográfico y de taquilla"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Barbie",
+          "aliases": []
+        },
+        {
+          "title": "Los que se quedan",
+          "director": "Alexander Payne",
+          "award": "Actor protagonista en musical o comedia · Paul Giamatti · Actriz de reparto · Da’Vine Joy Randolph",
+          "nominations": [
+            "Película musical o comedia",
+            "Actor protagonista en musical o comedia · Paul Giamatti",
+            "Actriz de reparto · Da’Vine Joy Randolph"
+          ],
+          "wins": [
+            "Actor protagonista en musical o comedia · Paul Giamatti",
+            "Actriz de reparto · Da’Vine Joy Randolph"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Los que se quedan",
+          "aliases": [
+            "The Holdovers"
+          ]
+        },
+        {
+          "title": "Secretos de un escándalo",
+          "director": "Todd Haynes",
+          "award": "Nominada",
+          "nominations": [
+            "Película musical o comedia",
+            "Actriz protagonista en musical o comedia · Natalie Portman",
+            "Actriz de reparto · Julianne Moore",
+            "Actor de reparto · Charles Melton"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Secretos de un escándalo",
+          "aliases": [
+            "May December",
+            "SECRETOS DE UN ESCÁNDALO"
+          ]
+        },
+        {
+          "title": "The Boy and the Heron",
+          "director": "Hayao Miyazaki",
+          "award": "Película de animación",
+          "nominations": [
+            "Película de animación",
+            "Música original · Joe Hisaishi"
+          ],
+          "wins": [
+            "Película de animación"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Elemental",
+          "director": "Peter Sohn",
+          "award": "Nominada",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Elemental",
+          "aliases": []
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "director": "Joaquim Dos Santos / Kemp Powers / Justin K. Thompson",
+          "award": "Nominada",
+          "nominations": [
+            "Película de animación",
+            "Música original · Daniel Pemberton",
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Suzume",
+          "director": "Makoto Shinkai",
+          "award": "Nominada",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "filmYear": 2022,
+          "filmaffinityTitle": "Suzume",
+          "aliases": [
+            "すずめの戸締まり"
+          ]
+        },
+        {
+          "title": "Super Mario Bros: La película",
+          "director": "Aaron Horvath / Michael Jelenic",
+          "award": "Nominada",
+          "nominations": [
+            "Película de animación",
+            "Canción original · Peaches · música y letra: Jack Black / Aaron Horvath / Michael Jelenic / Eric Osmond / John Spiker",
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Super Mario Bros: La película",
+          "aliases": [
+            "The Super Mario Bros. Movie"
+          ]
+        },
+        {
+          "title": "Wish: El poder de los deseos",
+          "director": "Chris Buck / Fawn Veerasunthorn",
+          "award": "Nominada",
+          "nominations": [
+            "Película de animación"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Wish: El poder de los deseos",
+          "aliases": [
+            "Wish"
+          ]
+        },
+        {
+          "title": "Las hojas muertas",
+          "director": "Aki Kaurismäki",
+          "award": "Nominada",
+          "nominations": [
+            "Película de habla no inglesa",
+            "Actriz protagonista en musical o comedia · Alma Pöysti"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Las hojas muertas",
+          "aliases": [
+            "Fallen Leaves",
+            "Kuolleet lehdet"
+          ]
+        },
+        {
+          "title": "Yo capitán",
+          "director": "Matteo Garrone",
+          "award": "Nominada",
+          "nominations": [
+            "Película de habla no inglesa"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Yo capitán",
+          "aliases": [
+            "Io Capitano",
+            "Io capitano"
+          ]
+        },
+        {
+          "title": "Society of the Snow",
+          "director": "J. A. Bayona",
+          "award": "Nominada",
+          "nominations": [
+            "Película de habla no inglesa"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Nyad",
+          "director": "Elizabeth Chai Vasarhelyi / Jimmy Chin",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista en drama · Annette Bening",
+            "Actriz de reparto · Jodie Foster"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Nyad",
+          "aliases": []
+        },
+        {
+          "title": "Priscilla",
+          "director": "Sofia Coppola",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista en drama · Cailee Spaeny"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Priscilla",
+          "aliases": []
+        },
+        {
+          "title": "Desconocidos",
+          "director": "Andrew Haigh",
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista en drama · Andrew Scott"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Desconocidos",
+          "aliases": [
+            "All of Us Strangers"
+          ]
+        },
+        {
+          "title": "Saltburn",
+          "director": "Emerald Fennell",
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista en drama · Barry Keoghan",
+            "Actriz de reparto · Rosamund Pike"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Saltburn",
+          "aliases": []
+        },
+        {
+          "title": "Rustin",
+          "director": "George C. Wolfe",
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista en drama · Colman Domingo",
+            "Canción original · Road to Freedom · música y letra: Lenny Kravitz"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Rustin",
+          "aliases": []
+        },
+        {
+          "title": "El color púrpura",
+          "director": "Blitz Bazawule",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista en musical o comedia · Fantasia Barrino",
+            "Actriz de reparto · Danielle Brooks"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "El color púrpura",
+          "aliases": [
+            "The Color Purple"
+          ]
+        },
+        {
+          "title": "Sin malos rollos",
+          "director": "Gene Stupnitsky",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz protagonista en musical o comedia · Jennifer Lawrence"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Sin malos rollos",
+          "aliases": [
+            "No Hard Feelings"
+          ]
+        },
+        {
+          "title": "Beau tiene miedo",
+          "director": "Ari Aster",
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista en musical o comedia · Joaquin Phoenix"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Beau tiene miedo",
+          "aliases": [
+            "Beau Is Afraid"
+          ]
+        },
+        {
+          "title": "Dream Scenario",
+          "director": "Kristoffer Borgli",
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista en musical o comedia · Nicolas Cage"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Dream Scenario",
+          "aliases": []
+        },
+        {
+          "title": "Wonka",
+          "director": "Paul King",
+          "award": "Nominada",
+          "nominations": [
+            "Actor protagonista en musical o comedia · Timothée Chalamet"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Wonka",
+          "aliases": []
+        },
+        {
+          "title": "Llegó a mí",
+          "director": "Rebecca Miller",
+          "award": "Nominada",
+          "nominations": [
+            "Canción original · Addicted to Romance · música y letra: Bruce Springsteen"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Llegó a mí",
+          "aliases": [
+            "She Came to Me"
+          ]
+        },
+        {
+          "title": "Guardianes de la Galaxia: Volumen 3",
+          "director": "James Gunn",
+          "award": "Nominada",
+          "nominations": [
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Guardianes de la Galaxia: Volumen 3",
+          "aliases": [
+            "Guardians of the Galaxy Vol. 3",
+            "Guardianes de la galaxia Vol. 3"
+          ]
+        },
+        {
+          "title": "John Wick 4",
+          "director": "Chad Stahelski",
+          "award": "Nominada",
+          "nominations": [
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "John Wick 4",
+          "aliases": [
+            "John Wick: Chapter 4"
+          ]
+        },
+        {
+          "title": "Mission: Impossible - Dead Reckoning Part 1",
+          "director": "Christopher McQuarrie",
+          "award": "Nominada",
+          "nominations": [
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "TAYLOR SWIFT | THE ERAS TOUR",
+          "director": "Sam Wrench",
+          "award": "Nominada",
+          "nominations": [
+            "Logro cinematográfico y de taquilla"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "TAYLOR SWIFT | THE ERAS TOUR",
+          "aliases": [
+            "Taylor Swift: The Eras Tour"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "David di Donatello",
+      "year": 2024,
+      "section": "Categorías competitivas · 69.ª edición",
+      "films": [
+        {
+          "title": "Siempre nos quedará mañana",
+          "director": "Paola Cortellesi",
+          "award": "Mejor dirección novel · Paola Cortellesi · Mejor guion original · Furio Andreotti · Giulia Calenda · Paola Cortellesi · Mejor actriz protagonista · Paola Cortellesi · Mejor actriz de reparto · Emanuela Fanelli · David Giovani · Paola Cortellesi",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección novel · Paola Cortellesi",
+            "Mejor guion original · Furio Andreotti · Giulia Calenda · Paola Cortellesi",
+            "Mejor producción · Mario Gianani · Lorenzo Gangarossa · Wildside · Vision Distribution",
+            "Mejor actriz protagonista · Paola Cortellesi",
+            "Mejor actor protagonista · Valerio Mastandrea",
+            "Mejor actriz de reparto · Emanuela Fanelli",
+            "Mejor actriz de reparto · Romana Maggiora Vergano",
+            "Mejor actor de reparto · Giorgio Colangeli",
+            "Mejor actor de reparto · Vinicio Marchioni",
+            "Mejor fotografía · Davide Leone",
+            "Mejor compositor · Lele Marchitelli",
+            "Mejor dirección artística · Paola Comencini · Fiorella Cicolini",
+            "Mejor vestuario · Alberto Moretti",
+            "Mejor maquillaje · Ermanno Spera",
+            "Mejor peluquería · Teresa Di Serio",
+            "Mejor montaje · Valentina Mariani",
+            "Mejor sonido · Filippo Porcari · Alessandro Feletti · Luca Anzellotti · Paolo Segat",
+            "David Giovani · Paola Cortellesi"
+          ],
+          "wins": [
+            "Mejor dirección novel · Paola Cortellesi",
+            "Mejor guion original · Furio Andreotti · Giulia Calenda · Paola Cortellesi",
+            "Mejor actriz protagonista · Paola Cortellesi",
+            "Mejor actriz de reparto · Emanuela Fanelli",
+            "David Giovani · Paola Cortellesi"
+          ],
+          "aliases": [
+            "C’è ancora domani",
+            "C'è ancora domani"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Siempre nos quedará mañana"
+        },
+        {
+          "title": "El sol del futuro",
+          "director": "Nanni Moretti",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Nanni Moretti",
+            "Mejor guion original · Francesca Marciano · Nanni Moretti · Federica Pontremoli · Valia Santella",
+            "Mejor actriz de reparto · Barbora Bobulova",
+            "Mejor actor de reparto · Silvio Orlando",
+            "Mejor compositor · Franco Piersanti",
+            "Mejor sonido · Alessandro Zanon · Marta Billingsley · Fabrizio Quadroli · Paolo Segat"
+          ],
+          "wins": [],
+          "aliases": [
+            "Il sol dell’avvenire",
+            "Il sol dell'avvenire",
+            "A Brighter Tomorrow",
+            "EL SOL DEL FUTURO"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "El sol del futuro"
+        },
+        {
+          "title": "Yo capitán",
+          "director": "Matteo Garrone",
+          "award": "Mejor película · Mejor dirección · Matteo Garrone · Mejor producción · Archimede · Rai Cinema · Pathé · Tarantula · Mejor fotografía · Paolo Carnera · Mejor montaje · Marco Spoletini · Mejor sonido · Maricetta Lombardo · Daniela Bassani · Mirko Perri · Gianni Pallotto · Mejores efectos visuales · Laurent Creusot · Massimo Cipollina",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Matteo Garrone",
+            "Mejor guion original · Matteo Garrone · Massimo Gaudioso · Massimo Ceccherini · Andrea Tagliaferri",
+            "Mejor producción · Archimede · Rai Cinema · Pathé · Tarantula",
+            "Mejor fotografía · Paolo Carnera",
+            "Mejor compositor · Andrea Farri",
+            "Mejor canción original · Baby — musica: Andrea Farri · testi e interpretazione: Seydou Sarr",
+            "Mejor dirección artística · Dimitri Capuani · Roberta Troncarelli",
+            "Mejor vestuario · Stefano Ciammitti",
+            "Mejor maquillaje · Dalia Colli · Roberta Martorina",
+            "Mejor peluquería · Stefano Ciammitti · Dalia Colli",
+            "Mejor montaje · Marco Spoletini",
+            "Mejor sonido · Maricetta Lombardo · Daniela Bassani · Mirko Perri · Gianni Pallotto",
+            "Mejores efectos visuales · Laurent Creusot · Massimo Cipollina",
+            "David Giovani · Matteo Garrone"
+          ],
+          "wins": [
+            "Mejor película",
+            "Mejor dirección · Matteo Garrone",
+            "Mejor producción · Archimede · Rai Cinema · Pathé · Tarantula",
+            "Mejor fotografía · Paolo Carnera",
+            "Mejor montaje · Marco Spoletini",
+            "Mejor sonido · Maricetta Lombardo · Daniela Bassani · Mirko Perri · Gianni Pallotto",
+            "Mejores efectos visuales · Laurent Creusot · Massimo Cipollina"
+          ],
+          "aliases": [
+            "Io capitano",
+            "Io Capitano"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Yo capitán"
+        },
+        {
+          "title": "La quimera",
+          "director": "Alice Rohrwacher",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Alice Rohrwacher",
+            "Mejor guion original · Alice Rohrwacher",
+            "Mejor producción · Carlo Cresto-Dina · Rai Cinema",
+            "Mejor actor protagonista · Josh O’Connor",
+            "Mejor actriz de reparto · Alba Rohrwacher",
+            "Mejor actriz de reparto · Isabella Rossellini",
+            "Mejor fotografía · Hélène Louvart",
+            "Mejor dirección artística · Emita Frigato · Rachele Meliadò",
+            "Mejor vestuario · Loredana Buscemi",
+            "Mejor peluquería · Daniela Tartari",
+            "Mejor montaje · Nelly Quettier",
+            "Mejor sonido · Xavier Lavorel · Marta Billingsley · Maxence Ciekawy"
+          ],
+          "wins": [],
+          "aliases": [
+            "La chimera",
+            "La Chimera"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "La quimera"
+        },
+        {
+          "title": "El rapto",
+          "director": "Marco Bellocchio",
+          "award": "Mejor guion adaptado · Marco Bellocchio · Susanna Nicchiarelli · Mejor dirección artística · Andrea Castorina · Valeria Vecellio · Mejor vestuario · Sergio Ballo · Daria Calvelli · Mejor maquillaje · Enrico Iacoponi · Mejor peluquería · Alberta Giuliani",
+          "nominations": [
+            "Mejor película",
+            "Mejor dirección · Marco Bellocchio",
+            "Mejor guion adaptado · Marco Bellocchio · Susanna Nicchiarelli",
+            "Mejor actriz protagonista · Barbara Ronchi",
+            "Mejor fotografía · Francesco Di Giacomo",
+            "Mejor dirección artística · Andrea Castorina · Valeria Vecellio",
+            "Mejor vestuario · Sergio Ballo · Daria Calvelli",
+            "Mejor maquillaje · Enrico Iacoponi",
+            "Mejor peluquería · Alberta Giuliani",
+            "Mejor montaje · Francesca Calvelli · Stefano Mariotti",
+            "Mejores efectos visuales · Rodolfo Migliari · Lena Di Gennaro"
+          ],
+          "wins": [
+            "Mejor guion adaptado · Marco Bellocchio · Susanna Nicchiarelli",
+            "Mejor dirección artística · Andrea Castorina · Valeria Vecellio",
+            "Mejor vestuario · Sergio Ballo · Daria Calvelli",
+            "Mejor maquillaje · Enrico Iacoponi",
+            "Mejor peluquería · Alberta Giuliani"
+          ],
+          "aliases": [
+            "Rapito",
+            "Kidnapped",
+            "EL RAPTO"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "El rapto"
+        },
+        {
+          "title": "Última noche en Milán",
+          "director": "Andrea Di Stefano",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor dirección · Andrea Di Stefano",
+            "Mejor actriz protagonista · Linda Caridi",
+            "Mejor compositor · Santi Pulvirenti",
+            "Mejor montaje · Giorgio' Franchini"
+          ],
+          "wins": [],
+          "aliases": [
+            "L'ultima notte di Amore"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Última noche en Milán"
+        },
+        {
+          "title": "Disco Boy",
+          "director": "Giacomo Abbruzzese",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor dirección novel · Giacomo Abbruzzese",
+            "Mejor producción · Giulia Achilli · Marco Alessi · Lionel Massol · Pauline Seigland · André Logie"
+          ],
+          "wins": [],
+          "aliases": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Disco Boy"
+        },
+        {
+          "title": "Felicità",
+          "director": "Micaela Ramazzotti",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor dirección novel · Micaela Ramazzotti",
+            "Mejor actriz protagonista · Micaela Ramazzotti"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Palazzina LAF",
+          "director": "Michele Riondino",
+          "award": "Mejor actor protagonista · Michele Riondino · Mejor actor de reparto · Elio Germano · Mejor canción original · La mia terra — musica, testi e interpretazione: Diodato",
+          "nominations": [
+            "Mejor dirección novel · Michele Riondino",
+            "Mejor guion original · Maurizio Braucci · Michele Riondino",
+            "Mejor actor protagonista · Michele Riondino",
+            "Mejor actor de reparto · Elio Germano",
+            "Mejor canción original · La mia terra — musica, testi e interpretazione: Diodato"
+          ],
+          "wins": [
+            "Mejor actor protagonista · Michele Riondino",
+            "Mejor actor de reparto · Elio Germano",
+            "Mejor canción original · La mia terra — musica, testi e interpretazione: Diodato"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Fuegos artificiales",
+          "director": "Giuseppe Fiorello",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor dirección novel · Giuseppe Fiorello",
+            "David Giovani · Giuseppe Fiorello"
+          ],
+          "wins": [],
+          "aliases": [
+            "Stranizza d’amuri",
+            "Stranizza d'amuri"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Fuegos artificiales"
+        },
+        {
+          "title": "Le vele scarlatte",
+          "director": "Pietro Marcello",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor guion adaptado · Pietro Marcello · Maurizio Braucci · Maud Ameline"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Lubo",
+          "director": "Giorgio Diritti",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor guion adaptado · Giorgio Diritti · Fredo Valla"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Misericordia",
+          "director": "Emma Dante",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor guion adaptado · Emma Dante · Elena Stancanelli · Giorgio Vasta"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Mixed by Erry",
+          "director": "Sydney Sibilia",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor guion adaptado · Armando Festa · Sydney Sibilia",
+            "Mejor canción original · ’O DJ (Don't Give Up) — musica, testi e interpretazione: Liberato"
+          ],
+          "wins": [],
+          "aliases": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Mixed by Erry"
+        },
+        {
+          "title": "Comandante",
+          "director": "Edoardo De Angelis",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor producción · Nicola Giuliano · Francesca Cima · Carlotta Calori · Viola Prestieri · Pierpaolo Verga · Edoardo De Angelis · Paolo Del Brocco · Attilio De Razza · Mariagiovanna De Angelis · Antonio Miyakawa",
+            "Mejor actor protagonista · Pierfrancesco Favino",
+            "Mejor fotografía · Ferran Paredes Rubio",
+            "Mejor dirección artística · Carmine Guarino · Iole Autero",
+            "Mejor vestuario · Massimo Cantini Parrini",
+            "Mejor maquillaje · Paola Gattabrusi · Lorenzo Tamburini",
+            "Mejor peluquería · Massimo Gattabrusi",
+            "Mejor sonido · Valentino Giannì · Alessandro Feletti · Mirko Perri · Giancarlo Rutigliano",
+            "Mejores efectos visuales · Kevin Tod Haug · Stacey Dodge",
+            "David Giovani · Edoardo De Angelis"
+          ],
+          "wins": [],
+          "aliases": [
+            "El buen italiano"
+          ]
+        },
+        {
+          "title": "Come pecore in mezzo ai lupi",
+          "director": "Lyda Patitucci",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor actriz protagonista · Isabella Ragonese"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Cento domeniche",
+          "director": "Antonio Albanese",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor actor protagonista · Antonio Albanese"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Adagio",
+          "director": "Stefano Sollima",
+          "award": "Mejor compositor · Subsonica",
+          "nominations": [
+            "Mejor actor de reparto · Adriano Giannini",
+            "Mejor compositor · Subsonica",
+            "Mejor canción original · Adagio — musica, testi e interpretazione: Subsonica (Samuel Umberto Romano · Massimiliano Casacci · Davide Dileo · Enrico Matta · Luca Vicini)",
+            "Mejor maquillaje · Antonello Resch · Lorenzo Tamburini · Michele Salgaro Vaccaro · Francesca Galafassi",
+            "Mejores efectos visuales · Stefano Leoni · Flaminia Maltese"
+          ],
+          "wins": [
+            "Mejor compositor · Subsonica"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Il più bel secolo della mia vita",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor canción original · La vita com’è — musica, testi e interpretazione: Brunori Sas"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Denti da squalo",
+          "director": "Davide Gentile",
+          "award": "Nominada",
+          "nominations": [
+            "Mejores efectos visuales · Fabio Tomassetti · Daniele Tomassetti"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Enzo Jannacci - Vengo anch’io",
+          "director": "Giorgio Verdelli",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película documental · Premio David Cecilia Mangini · Giorgio Verdelli"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Io, noi e Gaber",
+          "director": "Riccardo Milani",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película documental · Premio David Cecilia Mangini · Riccardo Milani"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Laggiù qualcuno mi ama",
+          "director": "Mario Martone",
+          "award": "Mejor película documental · Premio David Cecilia Mangini · Mario Martone",
+          "nominations": [
+            "Mejor película documental · Premio David Cecilia Mangini · Mario Martone"
+          ],
+          "wins": [
+            "Mejor película documental · Premio David Cecilia Mangini · Mario Martone"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Mur",
+          "director": "Kasia Smutniak",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película documental · Premio David Cecilia Mangini · Kasia Smutniak"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Roma, santa e dannata",
+          "director": "Daniele Ciprì",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película documental · Premio David Cecilia Mangini · Daniele Ciprì"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Anatomia di una caduta",
+          "director": "Justine Triet",
+          "award": "Mejor película internacional · Justine Triet",
+          "nominations": [
+            "Mejor película internacional · Justine Triet"
+          ],
+          "wins": [
+            "Mejor película internacional · Justine Triet"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "As bestas",
+          "director": "Rodrigo Sorogoyen",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película internacional · Rodrigo Sorogoyen"
+          ],
+          "wins": [],
+          "aliases": [
+            "As Bestas"
+          ],
+          "filmYear": 2022,
+          "filmaffinityTitle": "As bestas"
+        },
+        {
+          "title": "Foglie al vento - Kuolleet lehdet",
+          "director": "Aki Kaurismäki",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película internacional · Aki Kaurismäki"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Los asesinos de la luna",
+          "director": "Martin Scorsese",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película internacional · Martin Scorsese"
+          ],
+          "wins": [],
+          "aliases": [
+            "Killers of the Flower Moon"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Los asesinos de la luna"
+        },
+        {
+          "title": "Oppenheimer",
+          "director": "Christopher Nolan",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor película internacional · Christopher Nolan"
+          ],
+          "wins": [],
+          "aliases": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Oppenheimer"
+        },
+        {
+          "title": "Asterión",
+          "director": "Francesco Montagner",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor cortometraje · Francesco Montagner"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Foto di gruppo",
+          "director": "Tommaso Frangini",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor cortometraje · Tommaso Frangini"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "In quanto a noi",
+          "director": "Simone Massi",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor cortometraje · Simone Massi"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "The Meatseller",
+          "director": "Margherita Giusti",
+          "award": "Mejor cortometraje · Margherita Giusti",
+          "nominations": [
+            "Mejor cortometraje · Margherita Giusti"
+          ],
+          "wins": [
+            "Mejor cortometraje · Margherita Giusti"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "We Should All Be Futurist",
+          "director": "Angela Norelli",
+          "award": "Nominada",
+          "nominations": [
+            "Mejor cortometraje · Angela Norelli"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "L'ultima volta che siamo stati bambini",
+          "director": "Claudio Bisio",
+          "award": "Nominada",
+          "nominations": [
+            "David Giovani · Claudio Bisio"
+          ],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "David di Donatello",
+      "year": 2024,
+      "section": "Reconocimiento cinematográfico fuera de las categorías competitivas",
+      "films": [
+        {
+          "title": "Siempre nos quedará mañana",
+          "director": "Paola Cortellesi",
+          "award": "David dello Spettatore",
+          "nominations": [],
+          "wins": [
+            "David dello Spettatore"
+          ],
+          "aliases": [
+            "C’è ancora domani",
+            "C'è ancora domani"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Siempre nos quedará mañana"
+        }
+      ]
+    },
+    {
+      "festival": "Ariel",
+      "year": 2024,
+      "section": "Competitivas · 66.ª edición",
+      "films": [
+        {
+          "title": "Familia",
+          "director": "Rodrigo García",
+          "award": "Nominada",
+          "nominations": [
+            "Actor · Daniel Giménez Cacho",
+            "Actriz · Cassandra Ciangherotti",
+            "Actriz · Ilse Salas",
+            "Dirección · Rodrigo García",
+            "Edición · Yibrán Asuad",
+            "Vestuario · Mariestela Fernández"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Familia",
+          "aliases": []
+        },
+        {
+          "title": "Desaparecer por completo",
+          "director": "Luis Javier Henaine",
+          "award": "Efectos especiales · Rocío Espinosa Valdés · Efectos visuales · Gustavo Bellón · Thomas Boda · René Allegretti Zambrano · Jesús Corrales Clark · Jorge Palma · Javier Velázquez Dorantes",
+          "nominations": [
+            "Actor · Harold Torres",
+            "Diseño de arte · Alisarine Ducolomb",
+            "Efectos especiales · Rocío Espinosa Valdés",
+            "Efectos visuales · Gustavo Bellón · Thomas Boda · René Allegretti Zambrano · Jesús Corrales Clark · Jorge Palma · Javier Velázquez Dorantes",
+            "Fotografía · Glauco Bermúdez",
+            "Maquillaje · Adam Zoller Duplan",
+            "Música original · Alejandro Otaola",
+            "Sonido · José Miguel Enríquez · António Pórem Pires · Federico González Jordán"
+          ],
+          "wins": [
+            "Efectos especiales · Rocío Espinosa Valdés",
+            "Efectos visuales · Gustavo Bellón · Thomas Boda · René Allegretti Zambrano · Jesús Corrales Clark · Jorge Palma · Javier Velázquez Dorantes"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Perdidos en la noche",
+          "director": "Amat Escalante",
+          "award": "Nominada",
+          "nominations": [
+            "Actor · Juan Daniel García",
+            "Efectos visuales · Peter Hjorth · Roberto Galindo Rivera · Mikael Windelin",
+            "Sonido · Carlos E. García · Raúl Locatelli · Michel Schöpping"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Perdidos en la noche",
+          "aliases": []
+        },
+        {
+          "title": "Kokoloko",
+          "director": "Gerardo Naranjo",
+          "award": "Actor · Noé Hernández",
+          "nominations": [
+            "Actor · Noé Hernández"
+          ],
+          "wins": [
+            "Actor · Noé Hernández"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Recursos humanos",
+          "director": "Jesús Magaña Vázquez",
+          "award": "Nominada",
+          "nominations": [
+            "Actor · Pedro de Tavira Egurrola",
+            "Efectos especiales · Lanfranco Buratini · Esteban Parodi · Nico Crespo · Jano Ubierna",
+            "Efectos visuales · Nicolás González · Ignacio Pol · Pablo Accamee · Enrique Cantú Garza V · Fernando Campos",
+            "Guion adaptado · Jesús Magaña Vázquez · Fernando del Razo · Antonio Ortuño"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El último vagón",
+          "director": "Ernesto Contreras",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz · Adriana Barraza",
+            "Diseño de arte · Antonio Muñohierro",
+            "Efectos especiales · José Martínez",
+            "Guion adaptado · Javier Peñalosa",
+            "Revelación actoral · Ikal Paredes",
+            "Vestuario · Laura García de la Mora"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "El último vagón",
+          "aliases": []
+        },
+        {
+          "title": "Todo el silencio",
+          "director": "Diego del Río",
+          "award": "Actriz · Adriana Llabrés · Coactuación femenina · Ludwika Paleta · Ópera prima · Diego del Río · Sonido · Miguel Hernández · Mario Martínez Cobos · Liliana Villaseñor",
+          "nominations": [
+            "Actriz · Adriana Llabrés",
+            "Coactuación femenina · Ludwika Paleta",
+            "Guion original · Lucía Carreras",
+            "Ópera prima · Diego del Río",
+            "Sonido · Miguel Hernández · Mario Martínez Cobos · Liliana Villaseñor",
+            "Película"
+          ],
+          "wins": [
+            "Actriz · Adriana Llabrés",
+            "Coactuación femenina · Ludwika Paleta",
+            "Ópera prima · Diego del Río",
+            "Sonido · Miguel Hernández · Mario Martínez Cobos · Liliana Villaseñor"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Señora Influencer",
+          "director": "Carlos Santos",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz · Mónica Huarte"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Tótem",
+          "director": "Lila Avilés",
+          "award": "Coactuación femenina · Montserrat Marañón · Dirección · Lila Avilés · Guion original · Lila Avilés · Revelación actoral · Naíma Sentíes · Película",
+          "nominations": [
+            "Coactuación femenina · Marisol Gasé",
+            "Coactuación femenina · Montserrat Marañón",
+            "Coactuación femenina · Teresa Sánchez",
+            "Coactuación masculina · Mateo García Elizondo",
+            "Dirección · Lila Avilés",
+            "Diseño de arte · Nohemí González",
+            "Edición · Omar Guzmán",
+            "Fotografía · Diego Tenorio",
+            "Guion original · Lila Avilés",
+            "Maquillaje · Vanessa Coty",
+            "Revelación actoral · Naíma Sentíes",
+            "Revelación actoral · Saori Gurza",
+            "Sonido · Rune Palving · Daniel Rojo Solís · Guido Berenblum",
+            "Vestuario · Jimena Fernández · Nora Solís",
+            "Película"
+          ],
+          "wins": [
+            "Coactuación femenina · Montserrat Marañón",
+            "Dirección · Lila Avilés",
+            "Guion original · Lila Avilés",
+            "Revelación actoral · Naíma Sentíes",
+            "Película"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Tótem",
+          "aliases": []
+        },
+        {
+          "title": "Valentina o la serenidad",
+          "director": "Ángeles Cruz",
+          "award": "Nominada",
+          "nominations": [
+            "Coactuación femenina · Myriam Bravo",
+            "Guion original · Ángeles Cruz",
+            "Revelación actoral · Danae Ahuja Aparicio"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Heroico",
+          "director": "David Zonana",
+          "award": "Coactuación masculina · Fernando Cuautle · Diseño de arte · Ivonne Fuentes · Vestuario · Gabriela Fernández",
+          "nominations": [
+            "Coactuación masculina · Fernando Cuautle",
+            "Dirección · David Zonana",
+            "Diseño de arte · Ivonne Fuentes",
+            "Edición · Óscar Figueroa Jara",
+            "Fotografía · Carolina Costa AMC",
+            "Guion original · David Zonana",
+            "Maquillaje · Tania Aguilera",
+            "Revelación actoral · Santiago Sandoval Carbajal",
+            "Sonido · Raúl Locatelli · Erik Clauss",
+            "Vestuario · Gabriela Fernández",
+            "Película"
+          ],
+          "wins": [
+            "Coactuación masculina · Fernando Cuautle",
+            "Diseño de arte · Ivonne Fuentes",
+            "Vestuario · Gabriela Fernández"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Heroico",
+          "aliases": []
+        },
+        {
+          "title": "Martínez",
+          "director": "Lorena Padilla",
+          "award": "Nominada",
+          "nominations": [
+            "Coactuación masculina · Humberto Busto",
+            "Ópera prima · Lorena Padilla"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Confesiones",
+          "director": "Carlos Carrera",
+          "award": "Nominada",
+          "nominations": [
+            "Coactuación masculina · Juan Manuel Bernal"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "A cielo abierto",
+          "director": "Mariana Arriaga · Santiago Arriaga",
+          "award": "Nominada",
+          "nominations": [
+            "Coactuación masculina · Julio César Cedillo",
+            "Guion original · Guillermo Arriaga",
+            "Música original · Ludovico Einaudi",
+            "Ópera prima · Mariana Arriaga · Santiago Arriaga"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Camille",
+          "director": "Denise Raquel Roldán Alcalá",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje animación · Denise Raquel Roldán Alcalá"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Emme y sus días mutantes",
+          "director": "Diego Acevedo",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje animación · Diego Acevedo"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Humo",
+          "director": "Rita Basulto",
+          "award": "Cortometraje animación · Rita Basulto",
+          "nominations": [
+            "Cortometraje animación · Rita Basulto"
+          ],
+          "wins": [
+            "Cortometraje animación · Rita Basulto"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La canción del lago",
+          "director": "Carlos Alberto Sallas Becerra · Beatriz Ariana Navarrete Ledesma",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje animación · Carlos Alberto Sallas Becerra · Beatriz Ariana Navarrete Ledesma"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La vieja y el cuervo",
+          "director": "María Lucía Bayardo Dodge",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje animación · María Lucía Bayardo Dodge"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Nube",
+          "director": "Diego Alonso Sánchez de la Barquera Estrada · Christian Arredondo Narváez",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje animación · Diego Alonso Sánchez de la Barquera Estrada · Christian Arredondo Narváez"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Charrascas",
+          "director": "Carlos Hernández Vázquez",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental · Carlos Hernández Vázquez"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Huachinango Rojo",
+          "director": "Cinthya Lizbeth Toledo Cabrera",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental · Cinthya Lizbeth Toledo Cabrera"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "KeMonito: La última caída",
+          "director": "Teresa de Miguel Escribano",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental · Teresa de Miguel Escribano"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Norte",
+          "director": "Natalia Bermúdez",
+          "award": "Cortometraje documental · Natalia Bermúdez",
+          "nominations": [
+            "Cortometraje documental · Natalia Bermúdez"
+          ],
+          "wins": [
+            "Cortometraje documental · Natalia Bermúdez"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Yaxche'oob",
+          "director": "Pablo Cruz Villalba",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje documental · Pablo Cruz Villalba"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Ángel",
+          "director": "Hoze Meléndez",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje ficción · Hoze Meléndez"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Apnea",
+          "director": "Natalia Bermúdez",
+          "award": "Cortometraje ficción · Natalia Bermúdez",
+          "nominations": [
+            "Cortometraje ficción · Natalia Bermúdez"
+          ],
+          "wins": [
+            "Cortometraje ficción · Natalia Bermúdez"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Chica de fábrica",
+          "director": "Selma Cervantes",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje ficción · Selma Cervantes"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El color de la habitación",
+          "director": "Iván Löwenberg",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje ficción · Iván Löwenberg"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Patrona",
+          "director": "Fanie Soto",
+          "award": "Nominada",
+          "nominations": [
+            "Cortometraje ficción · Fanie Soto"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Temporada de huracanes",
+          "director": "Elisa Miller",
+          "award": "Guion adaptado · Elisa Miller · Daniela Gómez · Maquillaje · Alejandra Velarde",
+          "nominations": [
+            "Dirección · Elisa Miller",
+            "Diseño de arte · Carlos Y. Jacques",
+            "Edición · Miguel Schverdfinger · Paulina del Paso",
+            "Efectos visuales · Víctor Valencia",
+            "Fotografía · María José Secco",
+            "Guion adaptado · Elisa Miller · Daniela Gómez",
+            "Maquillaje · Alejandra Velarde",
+            "Música original · Héctor Ruiz",
+            "Sonido · Sergio Díaz · Pablo Tamez Sierra · Carlos Cortés Navarrete",
+            "Vestuario · Úrsula Schneider",
+            "Película"
+          ],
+          "wins": [
+            "Guion adaptado · Elisa Miller · Daniela Gómez",
+            "Maquillaje · Alejandra Velarde"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Temporada de huracanes",
+          "aliases": []
+        },
+        {
+          "title": "El Eco",
+          "director": "Tatiana Huezo",
+          "award": "Edición · Lucrecia Gutiérrez Maupomé · Tatiana Huezo · Fotografía · Ernesto Pardo · Largometraje documental · Tatiana Huezo · Música original · Leonardo Heiblum · Jacobo Lieberman",
+          "nominations": [
+            "Dirección · Tatiana Huezo",
+            "Edición · Lucrecia Gutiérrez Maupomé · Tatiana Huezo",
+            "Fotografía · Ernesto Pardo",
+            "Largometraje documental · Tatiana Huezo",
+            "Música original · Leonardo Heiblum · Jacobo Lieberman",
+            "Sonido · Lena Esquenazi · Martin de Torcy · Jaime Baksht CAS · Michelle Couttolenc CAS",
+            "Película"
+          ],
+          "wins": [
+            "Edición · Lucrecia Gutiérrez Maupomé · Tatiana Huezo",
+            "Fotografía · Ernesto Pardo",
+            "Largometraje documental · Tatiana Huezo",
+            "Música original · Leonardo Heiblum · Jacobo Lieberman"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Masacre en Teques",
+          "director": "Rodrigo Hernández Cruz",
+          "award": "Nominada",
+          "nominations": [
+            "Efectos especiales · Gerardo Muñoz",
+            "Efectos visuales · Mario Raúl Villegas Rojano · Pablo Ángeles Zuman",
+            "Maquillaje · Gerardo Muñoz"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Todos los incendios",
+          "director": "Mauricio Calderón Rico",
+          "award": "Nominada",
+          "nominations": [
+            "Efectos especiales · José Martínez"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "No voy a pedirle a nadie que me crea",
+          "director": "Fernando Frías de la Parra",
+          "award": "Nominada",
+          "nominations": [
+            "Fotografía · Damián García",
+            "Guion adaptado · Fernando Frías de la Parra · María Camila Arias"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El águila y el gusano",
+          "director": "Guita Schyfter",
+          "award": "Nominada",
+          "nominations": [
+            "Guion adaptado · Hugo Hiriart · Guita Schyfter"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La dama del silencio. El caso Mataviejitas",
+          "director": "María José Cuevas",
+          "award": "Nominada",
+          "nominations": [
+            "Largometraje documental · María José Cuevas"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La oscuridad de la Luz del Mundo",
+          "director": "Carlos Pérez Osorio",
+          "award": "Nominada",
+          "nominations": [
+            "Largometraje documental · Carlos Pérez Osorio"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "M20/Matamoros Ejido 20",
+          "director": "Leonor Maldonado García",
+          "award": "Nominada",
+          "nominations": [
+            "Largometraje documental · Leonor Maldonado García"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Una jauría llamada Ernesto",
+          "director": "Everardo González",
+          "award": "Nominada",
+          "nominations": [
+            "Largometraje documental · Everardo González",
+            "Música original · Andrés Sánchez Maher · Keit Javier Reyes Osorio “Konk Reyes” · Adan Samuel Romero Ramiréz “Haxah”"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "¿Encontró lo que buscaba?",
+          "director": "Yibrán Asuad",
+          "award": "Nominada",
+          "nominations": [
+            "Música original · Zulu González · Estéban Aldrete"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Adolfo",
+          "director": "Sofía Auza",
+          "award": "Nominada",
+          "nominations": [
+            "Ópera prima · Sofía Auza",
+            "Revelación actoral · Rocío de la Mañana"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La Hija de todas las rabias",
+          "director": "Laura Baumeister",
+          "award": "Nominada",
+          "nominations": [
+            "Ópera prima · Laura Baumeister"
+          ],
+          "wins": [],
+          "filmYear": 2022,
+          "filmaffinityTitle": "La Hija de todas las rabias",
+          "aliases": [
+            "La hija de todas las rabias"
+          ]
+        },
+        {
+          "title": "Al otro lado de la niebla",
+          "director": "Sebastián Cordero",
+          "award": "Nominada",
+          "nominations": [
+            "Película iberoamericana · Sebastián Cordero"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La hembrita",
+          "director": "Laura Amelia Guzmán",
+          "award": "Nominada",
+          "nominations": [
+            "Película iberoamericana · Laura Amelia Guzmán"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La sociedad de la nieve",
+          "director": "J. A. Bayona",
+          "award": "Película iberoamericana · J. A. Bayona",
+          "nominations": [
+            "Película iberoamericana · J. A. Bayona"
+          ],
+          "wins": [
+            "Película iberoamericana · J. A. Bayona"
+          ],
+          "filmYear": 2023,
+          "filmaffinityTitle": "La sociedad de la nieve",
+          "aliases": []
+        },
+        {
+          "title": "Los colonos",
+          "director": "Felipe Gálvez",
+          "award": "Nominada",
+          "nominations": [
+            "Película iberoamericana · Felipe Gálvez"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Los colonos",
+          "aliases": [
+            "The Settlers"
+          ]
+        },
+        {
+          "title": "Puan",
+          "director": "María Alché · Benjamín Naishtat",
+          "award": "Nominada",
+          "nominations": [
+            "Película iberoamericana · María Alché · Benjamin Naishtat"
+          ],
+          "wins": [],
+          "filmYear": 2023,
+          "filmaffinityTitle": "Puan",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Locarno",
+      "year": 2024,
+      "section": "Concorso Internazionale",
+      "films": [
+        {
+          "title": "Agora",
+          "director": "Ala Eddine Slim",
+          "award": "Pardo Verde",
+          "nominations": [],
+          "wins": [
+            "Pardo Verde"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Akiplėša (Toxic)",
+          "director": "Saulė Bliuvaitė",
+          "award": "Pardo d’Oro · Jurado oficial · Swatch First Feature Award · premio paralelo · Premio ecuménico · jurado independiente · Segundo premio · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Pardo d’Oro · Jurado oficial",
+            "Swatch First Feature Award · premio paralelo",
+            "Premio ecuménico · jurado independiente",
+            "Segundo premio · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Bogancloch",
+          "director": "Ben Rivers",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Cent mille milliards",
+          "director": "Virgil Vernier",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Fogo do Vento",
+          "director": "Marta Mateus",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Green Line",
+          "director": "Sylvie Ballyot",
+          "award": "MUBI Award · Debut Feature · Primer premio · jurado joven",
+          "nominations": [],
+          "wins": [
+            "MUBI Award · Debut Feature",
+            "Primer premio · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La Mort viendra",
+          "director": "Christoph Hochhäusler",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Der Spatz im Kamin",
+          "director": "Ramon Zürcher",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Luce",
+          "director": "Silvia Luzi, Luca Bellino",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Moon",
+          "director": "Kurdwin Ayub",
+          "award": "Premio especial del jurado · Jurado oficial · Europa Cinemas Label · premio paralelo",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado · Jurado oficial",
+            "Europa Cinemas Label · premio paralelo"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Moon",
+          "aliases": [
+            "Mond"
+          ]
+        },
+        {
+          "title": "Qing chun (Ku) (Youth (Hard Times))",
+          "director": "Wang Bing",
+          "award": "Mención especial · Jurado oficial · Premio FIPRESCI · jurado independiente · Premio joven “L’ambiente è qualità di vita”",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Jurado oficial",
+            "Premio FIPRESCI · jurado independiente",
+            "Premio joven “L’ambiente è qualità di vita”"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Salve Maria",
+          "director": "Mar Coll",
+          "award": "Mención especial · Jurado oficial · Tercer premio · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Jurado oficial",
+            "Tercer premio · jurado joven"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Salve Maria",
+          "aliases": []
+        },
+        {
+          "title": "Seses (Drowning Dry)",
+          "director": "Laurynas Bareiša",
+          "award": "Pardo a la mejor dirección · Laurynas Bareiša · Pardo a la mejor interpretación · Gelminė Glemžaitė · Agnė Kaktaitė · Giedrius Kiela · Paulius Markevičius",
+          "nominations": [],
+          "wins": [
+            "Pardo a la mejor dirección · Laurynas Bareiša",
+            "Pardo a la mejor interpretación · Gelminė Glemžaitė · Agnė Kaktaitė · Giedrius Kiela · Paulius Markevičius"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Sulla terra leggeri (Weightless)",
+          "director": "Sara Fgaier",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Suyoocheon (By the Stream)",
+          "director": "Hong Sang-soo",
+          "award": "Pardo a la mejor interpretación · Kim Minhee",
+          "nominations": [],
+          "wins": [
+            "Pardo a la mejor interpretación · Kim Minhee"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Transamazonia",
+          "director": "Pia Marais",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Yeni şafak solarken",
+          "director": "Gürcan Keltek",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Locarno",
+      "year": 2024,
+      "section": "Concorso Cineasti del Presente",
+      "films": [
+        {
+          "title": "Crickets, It’s Your Turn",
+          "director": "Olga Korotko",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Der Fleck",
+          "director": "Willy Hans",
+          "award": "Mención especial · Pardo Verde",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Pardo Verde"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Invention",
+          "director": "Courtney Stephens",
+          "award": "Pardo a la mejor interpretación · Callie Hernandez",
+          "nominations": [],
+          "wins": [
+            "Pardo a la mejor interpretación · Callie Hernandez"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Fario",
+          "director": "Lucie Prost",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Fekete Pont (Lesson Learned)",
+          "director": "Bálint Szimler",
+          "award": "Pardo a la mejor interpretación · Anna Mészöly · Mención especial · Jurado oficial",
+          "nominations": [],
+          "wins": [
+            "Pardo a la mejor interpretación · Anna Mészöly",
+            "Mención especial · Jurado oficial"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Foul Evil Deeds",
+          "director": "Richard Hunter",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Hanami",
+          "director": "Denise Fernandes",
+          "award": "Mejor dirección emergente · Denise Fernandes · Mención especial · First Feature Award",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección emergente · Denise Fernandes",
+            "Mención especial · First Feature Award"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Holy Electricity",
+          "director": "Tato Kotetishvili",
+          "award": "Pardo d’Oro · Cineasti del Presente · Mejor película · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Pardo d’Oro · Cineasti del Presente",
+            "Mejor película · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Joqtau",
+          "director": "Auran Anartay",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Kada je zazvonio telefon (When the Phone Rang)",
+          "director": "Iva Radivojević",
+          "award": "Mención especial · Jurado oficial",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Jurado oficial"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Kouté vwa (Listen to the Voices)",
+          "director": "Maxime Jean-Baptiste",
+          "award": "Premio especial del jurado CINÉ+ · Mención especial · First Feature Award",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado CINÉ+",
+            "Mención especial · First Feature Award"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Les Enfants rouges",
+          "director": "Lotfi Achour",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Monólogo colectivo",
+          "director": "Jessica Sarah Rinland",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Olivia & Las Nubes",
+          "director": "Tomás Pichardo-Espaillat",
+          "award": "Mención especial · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Mención especial · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Real",
+          "director": "Adele Tulli",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Locarno",
+      "year": 2024,
+      "section": "Pardi di Domani · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Upshot",
+          "director": "Maha Haj",
+          "award": "Pardino d’Oro · Corti d’Autore · Mención especial · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Pardino d’Oro · Corti d’Autore",
+            "Mención especial · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Gwe-in esi jeongche (The Masked Monster)",
+          "director": "Syeyoung Park",
+          "award": "Mención especial · Corti d’Autore",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Corti d’Autore"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Washhh",
+          "director": "Mickey Lai",
+          "award": "Pardino d’Oro · Concorso Internazionale",
+          "nominations": [],
+          "wins": [
+            "Pardino d’Oro · Concorso Internazionale"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Gimn chume (Hymn of the Plague)",
+          "director": "Ataka51",
+          "award": "Pardino d’Argento · Concorso Internazionale",
+          "nominations": [],
+          "wins": [
+            "Pardino d’Argento · Concorso Internazionale"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Que te vaya bonito, Rico",
+          "director": "Joel Alfonso Vargas",
+          "award": "Premio a la dirección · Pardi di Domani",
+          "nominations": [],
+          "wins": [
+            "Premio a la dirección · Pardi di Domani"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "The Form",
+          "director": "Melika Pazouki",
+          "award": "Premio Medien Patent Verwaltung AG · Concorso Internazionale",
+          "nominations": [],
+          "wins": [
+            "Premio Medien Patent Verwaltung AG · Concorso Internazionale"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Freak",
+          "director": "Claire Barnett",
+          "award": "Mención especial · Concorso Internazionale",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Concorso Internazionale"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Sans Voix",
+          "director": "Samuel Patthey",
+          "award": "Pardino d’Oro · Concorso Nazionale · Premio joven · cortos nacionales",
+          "nominations": [],
+          "wins": [
+            "Pardino d’Oro · Concorso Nazionale",
+            "Premio joven · cortos nacionales"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Better Not Kill the Groove",
+          "director": "Jonathan Leggett",
+          "award": "Pardino d’Argento · Concorso Nazionale",
+          "nominations": [],
+          "wins": [
+            "Pardino d’Argento · Concorso Nazionale"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Lux Carne",
+          "director": "Gabriel Grosclaude",
+          "award": "Premio al nuevo talento suizo · Mención especial · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Premio al nuevo talento suizo",
+            "Mención especial · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Progress Mining",
+          "director": "Gabriel Böhmer",
+          "award": "Mención especial · Concorso Nazionale",
+          "nominations": [],
+          "wins": [
+            "Mención especial · Concorso Nazionale"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Punter",
+          "director": "Jason Adam Maselle",
+          "award": "Mención especial · jurado joven",
+          "nominations": [],
+          "wins": [
+            "Mención especial · jurado joven"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Razeh-del",
+          "director": "Maryam Tafakory",
+          "award": "Premio · jurado joven · Concorso Internazionale",
+          "nominations": [],
+          "wins": [
+            "Premio · jurado joven · Concorso Internazionale"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Locarno",
+      "year": 2024,
+      "section": "Piazza Grande",
+      "films": [
+        {
+          "title": "Reinas",
+          "director": "Klaudia Reynicke",
+          "award": "Prix du Public UBS",
+          "nominations": [],
+          "wins": [
+            "Prix du Public UBS"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Reinas",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sundance",
+      "year": 2024,
+      "section": "U.S. Dramatic Competition",
+      "films": [
+        {
+          "title": "Entre los Templos",
+          "director": "Nathan Silver",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Entre los Templos",
+          "aliases": [
+            "Between the Temples"
+          ]
+        },
+        {
+          "title": "Dìdi",
+          "director": "Sean Wang",
+          "award": "Premio del público · U.S. Dramatic · Premio especial del jurado al reparto · Izaac Wang · Joan Chen · Shirley Chen · Chang Li Hua",
+          "nominations": [],
+          "wins": [
+            "Premio del público · U.S. Dramatic",
+            "Premio especial del jurado al reparto · Izaac Wang · Joan Chen · Shirley Chen · Chang Li Hua"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Dìdi",
+          "aliases": [
+            "Dìdi (弟弟)"
+          ]
+        },
+        {
+          "title": "El arte del perdón",
+          "director": "Titus Kaphar",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2024,
+          "filmaffinityTitle": "El arte del perdón",
+          "aliases": [
+            "Exhibiting Forgiveness"
+          ]
+        },
+        {
+          "title": "Buena chica",
+          "director": "India Donaldson",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Buena chica",
+          "aliases": [
+            "Good One"
+          ]
+        },
+        {
+          "title": "In the Summers",
+          "director": "Alessandra Lacorazza",
+          "award": "Gran Premio del Jurado · U.S. Dramatic · Premio a la dirección · Alessandra Lacorazza",
+          "nominations": [],
+          "wins": [
+            "Gran Premio del Jurado · U.S. Dramatic",
+            "Premio a la dirección · Alessandra Lacorazza"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "In the Summers",
+          "aliases": []
+        },
+        {
+          "title": "Love Me",
+          "director": "Sam Zuchero, Andy Zuchero",
+          "award": "Alfred P. Sloan Feature Film Prize",
+          "nominations": [],
+          "wins": [
+            "Alfred P. Sloan Feature Film Prize"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Ponyboi",
+          "director": "Esteban Arango",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "A Real Pain",
+          "director": "Jesse Eisenberg",
+          "award": "Premio Waldo Salt a guion · Jesse Eisenberg",
+          "nominations": [],
+          "wins": [
+            "Premio Waldo Salt a guion · Jesse Eisenberg"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "A Real Pain",
+          "aliases": [
+            "Un dolor real"
+          ]
+        },
+        {
+          "title": "Stress Positions",
+          "director": "Theda Hammel",
+          "award": "Premio de producción · ficción · Brad Becker-Parton",
+          "nominations": [],
+          "wins": [
+            "Premio de producción · ficción · Brad Becker-Parton"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Suncoast",
+          "director": "Laura Chinn",
+          "award": "Premio especial del jurado por interpretación revelación · Nico Parker",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado por interpretación revelación · Nico Parker"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Suncoast",
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sundance",
+      "year": 2024,
+      "section": "U.S. Documentary Competition",
+      "films": [
+        {
+          "title": "As We Speak",
+          "director": "J.M. Harper",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Daughters",
+          "director": "Angela Patton, Natalie Rae",
+          "award": "Premio del público · U.S. Documentary · Festival Favorite Award",
+          "nominations": [],
+          "wins": [
+            "Premio del público · U.S. Documentary",
+            "Festival Favorite Award"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Every Little Thing",
+          "director": "Sally Aitken",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2025,
+          "filmaffinityTitle": "Every Little Thing",
+          "aliases": []
+        },
+        {
+          "title": "Frida",
+          "director": "Carla Gutiérrez",
+          "award": "Premio especial del jurado por montaje · U.S. Documentary · Carla Gutiérrez",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado por montaje · U.S. Documentary · Carla Gutiérrez"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Frida",
+          "aliases": [
+            "FRIDA"
+          ]
+        },
+        {
+          "title": "Gaucho Gaucho",
+          "director": "Michael Dweck, Gregory Kershaw",
+          "award": "Premio especial del jurado por sonido · U.S. Documentary",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado por sonido · U.S. Documentary"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Love Machina",
+          "director": "Peter Sillen",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Porcelain War",
+          "director": "Brendan Bellomo, Slava Leontyev",
+          "award": "Gran Premio del Jurado · U.S. Documentary",
+          "nominations": [],
+          "wins": [
+            "Gran Premio del Jurado · U.S. Documentary"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Skywalkers: Una historia de amor",
+          "director": "Jeff Zimbalist",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Skywalkers: Una historia de amor",
+          "aliases": [
+            "Skywalkers: A Love Story"
+          ]
+        },
+        {
+          "title": "Sugarcane",
+          "director": "Julian Brave NoiseCat, Emily Kassie",
+          "award": "Premio a la dirección · U.S. Documentary · Julian Brave NoiseCat · Emily Kassie",
+          "nominations": [],
+          "wins": [
+            "Premio a la dirección · U.S. Documentary · Julian Brave NoiseCat · Emily Kassie"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Sugarcane",
+          "aliases": []
+        },
+        {
+          "title": "Union",
+          "director": "Stephen Maing, Brett Story",
+          "award": "Premio especial del jurado · Art of Change",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado · Art of Change"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sundance",
+      "year": 2024,
+      "section": "World Cinema Dramatic Competition",
+      "films": [
+        {
+          "title": "Brief History of a Family",
+          "director": "Jianjie Lin",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Girls Will Be Girls",
+          "director": "Shuchi Talati",
+          "award": "Premio del público · World Cinema Dramatic · Premio especial del jurado por interpretación · Preeti Panigrahi",
+          "nominations": [],
+          "wins": [
+            "Premio del público · World Cinema Dramatic",
+            "Premio especial del jurado por interpretación · Preeti Panigrahi"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Handling the Undead",
+          "director": "Thea Hvistendahl",
+          "award": "Premio especial del jurado · música original · Peter Raeburn",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado · música original · Peter Raeburn"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "In the Land of Brothers",
+          "director": "Raha Amirfazli, Alireza Ghasemi",
+          "award": "Premio a la dirección · World Cinema Dramatic · Raha Amirfazli · Alireza Ghasemi",
+          "nominations": [],
+          "wins": [
+            "Premio a la dirección · World Cinema Dramatic · Raha Amirfazli · Alireza Ghasemi"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Layla",
+          "director": "Amrou Al-Kadhi",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Malu",
+          "director": "Pedro Freire",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Reinas",
+          "director": "Klaudia Reynicke",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Reinas",
+          "aliases": []
+        },
+        {
+          "title": "Sebastian",
+          "director": "Mikko Mäkelä",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Sujo",
+          "director": "Astrid Rondero, Fernanda Valadez",
+          "award": "Gran Premio del Jurado · World Cinema Dramatic",
+          "nominations": [],
+          "wins": [
+            "Gran Premio del Jurado · World Cinema Dramatic"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Sujo",
+          "aliases": []
+        },
+        {
+          "title": "Veni Vidi Vici",
+          "director": "Daniel Hoesl, Julia Niemann",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sundance",
+      "year": 2024,
+      "section": "World Cinema Documentary Competition",
+      "films": [
+        {
+          "title": "Agent of Happiness",
+          "director": "Arun Bhattarai, Dorottya Zurbó",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "The Battle for Laikipia",
+          "director": "Daphne Matziaraki, Peter Murimi",
+          "award": "Premio de producción · documental · Toni Kamau",
+          "nominations": [],
+          "wins": [
+            "Premio de producción · documental · Toni Kamau"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Black Box Diaries",
+          "director": "Shiori Ito",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Black Box Diaries",
+          "aliases": []
+        },
+        {
+          "title": "Eternal You",
+          "director": "Hans Block, Moritz Riesewieck",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La singular vida de Ibelin",
+          "director": "Benjamin Ree",
+          "award": "Premio del público · World Cinema Documentary · Premio a la dirección · World Cinema Documentary · Benjamin Ree",
+          "nominations": [],
+          "wins": [
+            "Premio del público · World Cinema Documentary",
+            "Premio a la dirección · World Cinema Documentary · Benjamin Ree"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "La singular vida de Ibelin",
+          "aliases": [
+            "Ibelin"
+          ]
+        },
+        {
+          "title": "IGUALADA",
+          "director": "Juan Mejía Botero",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Never Look Away",
+          "director": "Lucy Lawless",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "A New Kind of Wilderness",
+          "director": "Silje Evensmo Jacobsen",
+          "award": "Gran Premio del Jurado · World Cinema Documentary",
+          "nominations": [],
+          "wins": [
+            "Gran Premio del Jurado · World Cinema Documentary"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Nocturnes",
+          "director": "Anirban Dutta, Anupama Srinivasan",
+          "award": "Premio especial del jurado por artesanía cinematográfica · World Cinema Documentary",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado por artesanía cinematográfica · World Cinema Documentary"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Banda sonora para un golpe de estado",
+          "director": "Johan Grimonprez",
+          "award": "Premio especial del jurado · innovación cinematográfica · Johan Grimonprez",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado · innovación cinematográfica · Johan Grimonprez"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Banda sonora para un golpe de estado",
+          "aliases": [
+            "Soundtrack to a Coup d’Etat",
+            "Soundtrack to a Coup d'Etat"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Sundance",
+      "year": 2024,
+      "section": "NEXT",
+      "films": [
+        {
+          "title": "Desire Lines",
+          "director": "Jules Rosskam",
+          "award": "Premio especial del jurado · NEXT",
+          "nominations": [],
+          "wins": [
+            "Premio especial del jurado · NEXT"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Kneecap",
+          "director": "Rich Peppiatt",
+          "award": "Premio del público · NEXT",
+          "nominations": [],
+          "wins": [
+            "Premio del público · NEXT"
+          ],
+          "filmYear": 2024,
+          "filmaffinityTitle": "Kneecap",
+          "aliases": []
+        },
+        {
+          "title": "Little Death",
+          "director": "Jack Begert",
+          "award": "NEXT Innovator Award",
+          "nominations": [],
+          "wins": [
+            "NEXT Innovator Award"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "REALM OF SATAN",
+          "director": "Scott Cummings",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Seeking Mavis Beacon",
+          "director": "Jazmin Renée Jones",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Tendaberry",
+          "director": "Haley Elizabeth Anderson",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sundance",
+      "year": 2024,
+      "section": "Short Film Program · premiados",
+      "films": [
+        {
+          "title": "The Masterpiece",
+          "director": "Alex Lora Cercos",
+          "award": "Gran Premio del Jurado · cortometraje · Alex Lora Cercos",
+          "nominations": [],
+          "wins": [
+            "Gran Premio del Jurado · cortometraje · Alex Lora Cercos"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Say Hi After You Die",
+          "director": "Kate Jean Hollowell",
+          "award": "Premio del Jurado · ficción estadounidense · Kate Jean Hollowell",
+          "nominations": [],
+          "wins": [
+            "Premio del Jurado · ficción estadounidense · Kate Jean Hollowell"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "The Stag",
+          "director": "An Chu",
+          "award": "Premio del Jurado · ficción internacional · An Chu",
+          "nominations": [],
+          "wins": [
+            "Premio del Jurado · ficción internacional · An Chu"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Bob’s Funeral",
+          "director": "Jack Dunphy",
+          "award": "Premio del Jurado · no ficción · Jack Dunphy",
+          "nominations": [],
+          "wins": [
+            "Premio del Jurado · no ficción · Jack Dunphy"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Bug Diner",
+          "director": "Phoebe Jane Hart",
+          "award": "Premio del Jurado · animación · Phoebe Jane Hart",
+          "nominations": [],
+          "wins": [
+            "Premio del Jurado · animación · Phoebe Jane Hart"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "The Looming",
+          "director": "Masha Ko",
+          "award": "Premio especial del Jurado · dirección · Masha Ko",
+          "nominations": [],
+          "wins": [
+            "Premio especial del Jurado · dirección · Masha Ko"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Pisko the Crab Child is in Love",
+          "director": "Makoto Nagahisa",
+          "award": "Premio especial del Jurado · dirección · Makoto Nagahisa",
+          "nominations": [],
+          "wins": [
+            "Premio especial del Jurado · dirección · Makoto Nagahisa"
+          ],
+          "aliases": []
         }
       ]
     }

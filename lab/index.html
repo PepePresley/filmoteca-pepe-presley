@@ -527,7 +527,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=3"></script>
+<script src="../app/festival-config.js?v=4"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -566,6 +566,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_2024_overlay.json?v=catalog-2024-20261013",
      "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=festivales-20261027",
+     "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
    ];
@@ -585,12 +586,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-cinco-2025-20261027");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-cinco-2024-20261027");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-cinco-2025-20261027");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-cinco-2024-20261027");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
@@ -889,6 +890,7 @@ async function ensureFullCatalog(){
    "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_2024_overlay.json?v=catalog-2024-20261013",
      "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=festivales-20261027",
+     "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
  ]){
