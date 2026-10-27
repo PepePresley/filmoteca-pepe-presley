@@ -8,8 +8,17 @@
 .appDialog li{padding-left:4px;margin:10px 0}
 .appDialog strong{color:#d7b66f}
 .appDialog .appClose{min-height:44px;width:100%;margin-top:8px;border:1px solid #d7b66f;border-radius:999px;background:#d7b66f;color:#111;padding:10px;font:inherit;font-weight:700;cursor:pointer}
+/* Installed mode is also detected through navigator.standalone on iOS. */
+:root{--app-safe-top:env(safe-area-inset-top,0px)}
+html.appStandalone,html.appStandalone body{overflow-x:clip}
+html.appStandalone body{padding-top:var(--app-safe-top);padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);padding-bottom:env(safe-area-inset-bottom)}
+html.appStandalone body .tabsBar{top:var(--app-safe-top)}
+html.appStandalone body .sticky{top:calc(var(--app-safe-top) + var(--app-tabs-height,64px))}
+html.appStandalone body::before{content:"";position:fixed;inset:0 0 auto;height:var(--app-safe-top);background:#0b0b0c;z-index:61;pointer-events:none}
 @media(display-mode:standalone){
- body{padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);padding-bottom:env(safe-area-inset-bottom)}
- .tabsBar{top:env(safe-area-inset-top)}
- body.homeMode .hero{padding-top:max(44px,env(safe-area-inset-top))}
+ html:root,html body{overflow-x:clip}
+ body{padding-top:var(--app-safe-top);padding-left:env(safe-area-inset-left);padding-right:env(safe-area-inset-right);padding-bottom:env(safe-area-inset-bottom)}
+ body .tabsBar{top:var(--app-safe-top)}
+ body .sticky{top:calc(var(--app-safe-top) + var(--app-tabs-height,64px))}
+ body::before{content:"";position:fixed;inset:0 0 auto;height:var(--app-safe-top);background:#0b0b0c;z-index:61;pointer-events:none}
 }

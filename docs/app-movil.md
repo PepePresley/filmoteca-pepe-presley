@@ -23,3 +23,9 @@ Abrir LAB en Chrome o Edge y pulsar **Instalar Filmoteca**. Si el navegador no o
 Al cambiar `app/install.js` o `app/install.css`, incrementar su versión en las dos páginas. Mantener las referencias relativas al subdirectorio del proyecto en GitHub Pages. Iconos PNG: 180 para Apple; 192 y 512 para el manifest.
 
 Referencia técnica: [instalación de aplicaciones web, MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Guides/Making_PWAs_installable).
+
+## Zona segura y navegación
+
+La app instalada reserva la zona superior del reloj mediante `safe-area-inset-top`. La barra de pestañas se mantiene debajo y los filtros comienzan después de su altura real, medida al cambiar de vista o de orientación. La detección incluye `navigator.standalone` para Safari instalado.
+
+En modo instalado se utiliza `overflow-x:clip` en lugar de un contenedor horizontal que impediría el comportamiento sticky. Las reglas de posición tienen prioridad suficiente frente a los estilos internos de LAB y Lite. No sustituirlas por un simple `.tabsBar{top:0}`. La zona del reloj tiene fondo propio y no intercepta pulsaciones.
