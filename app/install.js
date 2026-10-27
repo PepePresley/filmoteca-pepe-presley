@@ -1,7 +1,14 @@
 (() => {
+ const standalone=()=>window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
+ const syncMode=()=>document.documentElement.classList.toggle('appStandalone',standalone());
+ syncMode();
+ const tabs=document.querySelector('.tabsBar');
+ const syncTabs=()=>{if(tabs)document.documentElement.style.setProperty('--app-tabs-height',Math.ceil(tabs.getBoundingClientRect().height)+'px')};
+ syncTabs();
+ if(tabs&&typeof ResizeObserver==='function')new ResizeObserver(syncTabs).observe(tabs);
+ window.matchMedia('(display-mode: standalone)').addEventListener?.('change',syncMode);
  const button=document.getElementById('installApp');
  if(!button)return;
- const standalone=()=>window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true;
  let promptEvent=null;
  button.hidden=standalone();
  window.addEventListener('beforeinstallprompt',event=>{
