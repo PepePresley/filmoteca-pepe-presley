@@ -23,12 +23,12 @@
   },
   "Sitges": {
     "label": "Festival de Sitges",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#sitges",
     "award": false
   },
   "Seminci": {
     "label": "Seminci · Valladolid",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#seminci",
     "award": false
   },
   "Oscar": {
@@ -38,17 +38,17 @@
   },
   "Goya": {
     "label": "Premios Goya",
-    "icon": "#ico-goya",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#goya",
     "award": true
   },
   "BAFTA": {
     "label": "Premios BAFTA",
-    "icon": "#ico-bafta",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#bafta",
     "award": true
   },
   "César": {
     "label": "Premios César",
-    "icon": "#ico-bafta",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#cesar",
     "award": true,
     "categories": [
       "Película",
@@ -79,17 +79,17 @@
   },
   "Locarno": {
     "label": "Festival de Locarno",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#locarno",
     "award": false
   },
   "Sundance": {
     "label": "Festival de Sundance",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#sundance",
     "award": false
   },
   "Globos de Oro": {
     "label": "Globos de Oro · cine",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#globos",
     "award": true,
     "categories": [
       "Película dramática",
@@ -111,7 +111,7 @@
   },
   "David di Donatello": {
     "label": "Premios David di Donatello",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#david",
     "award": true,
     "categories": [
       "Mejor película",
@@ -143,7 +143,7 @@
   },
   "Ariel": {
     "label": "Premios Ariel",
-    "icon": "#ico-festival",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#ariel",
     "award": true,
     "categories": [
       "Película",
@@ -179,7 +179,7 @@
  async function withReference(record){
   if(/^https?:\/\/(?:t\.me|telegram\.me)\//i.test(record.u||''))return record;
   try{
-   if(!referenceRows)referenceRows=Promise.all(['festival-references-2022-2024.json','festival-references-cinco-2025.json'].map(file=>fetch('/filmoteca-pepe-presley/data/catalog/'+file+'?v=20261027b').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}))).then(groups=>groups.flat()).catch(error=>{referenceRows=null;throw error});
+   if(!referenceRows)referenceRows=Promise.all(['festival-references-2022-2024.json','festival-references-cinco-2025.json','festival-references-cinco-2024.json'].map(file=>fetch('/filmoteca-pepe-presley/data/catalog/'+file+'?v=20261027c').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}))).then(groups=>groups.flat()).catch(error=>{referenceRows=null;throw error});
    const rows=await referenceRows;
    const matches=rows.filter(r=>r.t===record.t&&r.d===record.d&&Number(r.y)===Number(record.y));
    if(matches.length===1){const full=matches[0];return {...record,u:full.u,arch:full.arch,res:full.res,sz:full.sz};}

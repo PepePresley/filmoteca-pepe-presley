@@ -63,11 +63,11 @@ test('2022–2024 retain all nine editions and complete César nominations witho
 });
 test('master reference lookup is cached, preserves metadata and never confuses homonymous directors',async()=>{
  let requests=0;const refs=JSON.parse(fs.readFileSync('data/catalog/festival-references-2022-2024.json'));
- const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>url.includes('cinco-2025')?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
+ const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>url.includes('references-cinco-')?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,2);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,3);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -86,4 +86,22 @@ test('2025 additions preserve personal nominations, sections and corrected Sunda
  const seeds=sundance.flatMap(e=>e.films).find(f=>f.title==='Seeds'||f.aliases.includes('Seeds'));assert.equal(seeds.wins.length,2);
  const locarno=db.filter(e=>e.festival==='Locarno');assert.equal(locarno.filter(e=>e.section==='Semaine de la Critique').length,1);assert.equal(locarno.find(e=>e.section==='Semaine de la Critique').films.length,2);
  for(const e of [...sundance,...locarno].filter(e=>/corto|short film/i.test(e.section)))assert(e.films.every(f=>f.wins.length));
+});
+test('2024 new awards retain all nominations and the Cannes shared acting prize',()=>{
+ const editions=JSON.parse(fs.readFileSync('data/festivals/years/2024.json')).editions;
+ for(const [family,noms,wins] of [['Globos de Oro',92,15],['David di Donatello',120,25],['Ariel',126,25]]){
+  const films=editions.filter(e=>e.festival===family).flatMap(e=>e.films);
+  assert.equal(films.reduce((n,f)=>n+f.nominations.length,0),noms);assert.equal(films.reduce((n,f)=>n+f.wins.length,0),wins);
+  for(const f of films)if(f.nominations.length)for(const w of f.wins)assert(f.nominations.includes(w));
+ }
+ const emilia=editions.find(e=>e.festival==='Cannes'&&e.section==='Competición oficial').films.find(f=>f.title==='Emilia Pérez');
+ for(const name of ['Adriana Paz','Zoe Saldaña','Karla Sofía Gascón','Selena Gomez'])assert(emilia.wins.some(w=>w.includes(name)));
+ const locarno=editions.filter(e=>e.festival==='Locarno');assert.equal(locarno[0].films.length,17);assert.equal(locarno[1].films.length,15);
+ for(const e of locarno.filter(e=>/corto/.test(e.section)))assert(e.films.every(f=>f.wins.length&&!f.wins.every(w=>w.startsWith('Candidato al European Film Awards'))));
+});
+test('all 15 families have distinct usable icon targets and shared SVG symbols exist',()=>{
+ const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);const config=context.FilmotecaFestivals.config;
+ assert.equal(new Set(Object.values(config).map(c=>c.icon)).size,15);
+ const sprite=fs.readFileSync('app/festival-icons.svg','utf8');
+ for(const item of Object.values(config))if(item.icon.includes('festival-icons.svg'))assert(sprite.includes('id="'+item.icon.split('#')[1]+'"'));
 });
