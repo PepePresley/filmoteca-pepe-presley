@@ -76,14 +76,110 @@
       "Cortometraje de animación",
       "Cortometraje documental"
     ]
+  },
+  "Locarno": {
+    "label": "Festival de Locarno",
+    "icon": "#ico-festival",
+    "award": false
+  },
+  "Sundance": {
+    "label": "Festival de Sundance",
+    "icon": "#ico-festival",
+    "award": false
+  },
+  "Globos de Oro": {
+    "label": "Globos de Oro · cine",
+    "icon": "#ico-festival",
+    "award": true,
+    "categories": [
+      "Película dramática",
+      "Película musical o comedia",
+      "Dirección",
+      "Actriz protagonista en drama",
+      "Actor protagonista en drama",
+      "Actriz protagonista en musical o comedia",
+      "Actor protagonista en musical o comedia",
+      "Actriz de reparto",
+      "Actor de reparto",
+      "Guion",
+      "Película de habla no inglesa",
+      "Película de animación",
+      "Música original",
+      "Canción original",
+      "Logro cinematográfico y de taquilla"
+    ]
+  },
+  "David di Donatello": {
+    "label": "Premios David di Donatello",
+    "icon": "#ico-festival",
+    "award": true,
+    "categories": [
+      "Mejor película",
+      "Mejor dirección",
+      "Mejor actriz protagonista",
+      "Mejor actor protagonista",
+      "Mejor actriz de reparto",
+      "Mejor actor de reparto",
+      "Mejor guion original",
+      "Mejor guion adaptado",
+      "Mejor dirección novel",
+      "Mejor producción",
+      "Mejor película internacional",
+      "Mejor película documental",
+      "Mejor fotografía",
+      "Mejor montaje",
+      "Mejor compositor",
+      "Mejor canción original",
+      "Mejor sonido",
+      "Mejor dirección artística",
+      "Mejor vestuario",
+      "Mejor maquillaje",
+      "Mejor peluquería",
+      "Mejores efectos visuales",
+      "Mejor casting",
+      "Mejor cortometraje",
+      "David Giovani"
+    ]
+  },
+  "Ariel": {
+    "label": "Premios Ariel",
+    "icon": "#ico-festival",
+    "award": true,
+    "categories": [
+      "Película",
+      "Dirección",
+      "Actriz",
+      "Actor",
+      "Coactuación femenina",
+      "Coactuación masculina",
+      "Revelación actoral",
+      "Guion original",
+      "Guion adaptado",
+      "Ópera prima",
+      "Película iberoamericana",
+      "Largometraje animación",
+      "Largometraje documental",
+      "Fotografía",
+      "Edición",
+      "Música original",
+      "Sonido",
+      "Diseño de arte",
+      "Vestuario",
+      "Maquillaje",
+      "Efectos especiales",
+      "Efectos visuales",
+      "Cortometraje ficción",
+      "Cortometraje animación",
+      "Cortometraje documental"
+    ]
   }
 });
  const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
  let referenceRows;
  async function withReference(record){
-  if(record.u)return record;
+  if(/^https?:\/\/(?:t\.me|telegram\.me)\//i.test(record.u||''))return record;
   try{
-   if(!referenceRows)referenceRows=fetch('/filmoteca-pepe-presley/data/catalog/festival-references-2022-2024.json?v=20261027').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}).catch(error=>{referenceRows=null;throw error});
+   if(!referenceRows)referenceRows=Promise.all(['festival-references-2022-2024.json','festival-references-cinco-2025.json'].map(file=>fetch('/filmoteca-pepe-presley/data/catalog/'+file+'?v=20261027b').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}))).then(groups=>groups.flat()).catch(error=>{referenceRows=null;throw error});
    const rows=await referenceRows;
    const matches=rows.filter(r=>r.t===record.t&&r.d===record.d&&Number(r.y)===Number(record.y));
    if(matches.length===1){const full=matches[0];return {...record,u:full.u,arch:full.arch,res:full.res,sz:full.sz};}
