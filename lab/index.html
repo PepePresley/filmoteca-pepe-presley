@@ -400,7 +400,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
   <div class="homeSearch"><span>⌕</span><input id="homeQ" type="text" placeholder="Busca una película, director, año…"></div>
   <div class="homeDoors">
    <button class="homeDoor" id="homeCollection"><b>🎬 Mi Filmoteca</b><span>Explorar toda la colección</span></button>
-   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Sitges · Seminci · Oscar · Goya · BAFTA · César</span></button>
+   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Sitges · Seminci · Locarno · Sundance · Oscar · Goya · BAFTA · César · Globos de Oro · David di Donatello · Ariel</span></button>
    <button class="homeDoor" id="randomBtn"><b>🎲 Descubrir</b><span>Una película al azar de tu filmoteca</span></button>
   </div>
   <button class="btn appInstall" id="installApp" type="button" hidden>Instalar Filmoteca</button>
@@ -527,7 +527,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=2"></script>
+<script src="../app/festival-config.js?v=3"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -585,12 +585,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-2022-2025-20261027");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-cinco-2025-20261027");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-2022-2025-20261027");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-cinco-2025-20261027");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
@@ -735,7 +735,7 @@ async function recordWithCopies(record){
   const full=DATA.find(r=>r&&r.t===record.t&&r.d===record.d&&Number(r.y)===Number(record.y)&&r.u);
   if(full)record={...full,...record,u:full.u,copias:full.copias,arch:full.arch};
  }
- if(!record.u&&typeof FilmotecaFestivals!=='undefined')record=await FilmotecaFestivals.withReference(record);
+ if(!/^https?:\/\/(?:t\.me|telegram\.me)\//i.test(record.u||'')&&typeof FilmotecaFestivals!=='undefined')record=await FilmotecaFestivals.withReference(record);
  const year=Number(record.y);
  const revision=(year>=1930&&year<=1944)?'20261026':(year===1946?'20261024':'20261025')+'-r2';
  if(![1930,1931,1932,1933,1934,1935,1936,1937,1938,1939,1940,1941,1942,1943,1944,1945,1946,1947,1948].includes(year)||Array.isArray(record.copias))return record;
@@ -1208,6 +1208,15 @@ function festivalAwardPriority(ft,festival){
   if(ft.wins?.length)return 70;
   return 100;
  }
+ if(festival==='Locarno'||festival==='Sundance'){
+  const prizes=(ft.wins||[]).map(normalize);
+  if(prizes.some(p=>/^(pardo de oro|pardo d.oro|u.s. grand jury prize|world cinema grand jury prize|next innovator)/.test(p)))return 0;
+  if(prizes.some(p=>/^(premio especial del jurado|special jury award)/.test(p)))return 20;
+  if(prizes.some(p=>/^(pardo a la mejor direccion|directing award)/.test(p)))return 30;
+  if(prizes.some(p=>/^(pardo a la mejor interpretacion)/.test(p)))return 40;
+  if(prizes.some(p=>/^(waldo salt)/.test(p)))return 50;
+  return prizes.length?70:100;
+ }
  const auxiliary=/fipresci|signis|ecumenic|ecumenical|teddy|sebastiane|otra mirada|solidaridad|irizar|guion vasco|feroz/;
  const text=allText.split(' · ').filter(prize=>!auxiliary.test(prize)).join(' · ');
  if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(allText))return 110;
@@ -1226,7 +1235,7 @@ function festivalAwardPriority(ft,festival){
  return 80;
 }
 function orderFestivalGrid(grid,festival){
- if(!['Cannes','Berlín','Venecia','San Sebastián','Sitges','Seminci'].includes(festival))return;
+ if(!['Cannes','Berlín','Venecia','San Sebastián','Sitges','Seminci','Locarno','Sundance'].includes(festival))return;
  [...grid.children].sort((a,b)=>Number(a.dataset.awardPriority)-Number(b.dataset.awardPriority)).forEach(el=>grid.appendChild(el));
 }
 

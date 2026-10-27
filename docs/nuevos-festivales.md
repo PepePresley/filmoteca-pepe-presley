@@ -21,3 +21,15 @@ La propiedad se contrastó con maestros de 2019–2025 por los años de estreno 
 `festival-references-2022-2024.json` contiene 177 identidades con referencias de maestros. La configuración compartida las recupera al abrir una ficha sin enlace, por título, director y año exactos, con una sola descarga en caché. Este archivo no participa en la selección de coincidencias ni modifica los índices del catálogo.
 
 El overlay adicional recupera Emily y distingue El rapto/Rapito de Marco Bellocchio del homónimo de Daniela Goggi. Se conserva el enlace del maestro y se bloquea el cartel dudoso. La única asociación anterior corregida es Cannes 2023/Rapito; las demás permanecen iguales.
+
+## Cinco familias adicionales · 2025
+
+Globos de Oro (solo cine), David di Donatello y Ariel utilizan categorías y conservan las personas y canciones de cada candidatura. Locarno y Sundance utilizan secciones; los cortometrajes se incluyen únicamente cuando están premiados. Se añaden 237 entradas en 17 secciones, con 81 apariciones confirmadas en maestros de 2019–2025. Los años cinematográficos recuperados se conservan por película, independientemente de la ceremonia.
+
+Se conservan 92 candidaturas y 15 premios en Globos; 127 candidaturas y 25 premios incluyendo David Giovani, más el David dello Spettatore separado; 127 candidaturas y 25 premios Ariel. En Ariel se unificaron las dos grafías de Párvulos sin perder sus candidaturas. Los honoríficos David sin película se conservan en el informe de fuentes.
+
+Locarno incorpora 17 títulos internacionales y 15 Cineasti del Presente. La selección procede del paquete documentado con fuentes secundarias por bloqueo del PDF; el palmarés oficial se recuperó en copia CDN. Semaine de la Critique se consolida en una sección; el corto premiado de Open Doors conserva su sección real.
+
+Sundance incorpora 48 títulos en las cinco secciones competitivas/NEXT, otras tres películas premiadas y siete cortos premiados. Se eliminó la repetición del premio de producción de Seeds, se restituyó el premio del público de Twinless y se corrigió la denominación Jonathan Oppenheim del premio de montaje de André is an Idiot según el palmarés oficial.
+
+`festival-references-cinco-2025.json` aporta enlaces de maestros para identidades exactas que no estaban en el bloque de referencias anterior. No añade filas al catálogo ni modifica su resolvedor. Limónov conserva su identidad de director en cirílico; su equivalencia con Kirill Serebrennikov se reconoció al cotejar el maestro. Algunos títulos no localizados de Ariel mantienen director pendiente; no se les asigna propiedad ni póster por semejanza.

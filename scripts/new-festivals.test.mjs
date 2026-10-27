@@ -63,8 +63,27 @@ test('2022–2024 retain all nine editions and complete César nominations witho
 });
 test('master reference lookup is cached, preserves metadata and never confuses homonymous directors',async()=>{
  let requests=0;const refs=JSON.parse(fs.readFileSync('data/catalog/festival-references-2022-2024.json'));
- const context=vm.createContext({fetch:async()=>{requests++;return {ok:true,json:async()=>refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
+ const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>url.includes('cinco-2025')?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,1);
+ const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,2);
+});
+test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
+ const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
+ for(const f of ['Globos de Oro','David di Donatello','Ariel'])assert(context.FilmotecaFestivals.isAward(f));
+ for(const f of ['Locarno','Sundance'])assert(!context.FilmotecaFestivals.isAward(f));
+ for(const [family,noms,wins] of [['Globos de Oro',92,15],['David di Donatello',127,26],['Ariel',127,25]]){
+  const films=db.filter(e=>e.festival===family).flatMap(e=>e.films);
+  assert.equal(films.reduce((n,f)=>n+f.nominations.length,0),noms);assert.equal(films.reduce((n,f)=>n+f.wins.length,0),wins);
+  for(const f of films){assert.equal(f.nominations.length,new Set(f.nominations).size);if(f.nominations.length)for(const w of f.wins)assert(f.nominations.includes(w));}
+ }
+ const emilia=db.find(e=>e.festival==='Globos de Oro').films.find(f=>f.title==='Emilia Pérez');
+ assert.equal(emilia.nominations.filter(n=>n.startsWith('Actriz de reparto')).length,2);assert(emilia.nominations.some(n=>n.includes('Selena Gomez')));assert(emilia.nominations.some(n=>n.includes('Mi Camino')));
+ const ariel=db.find(e=>e.festival==='Ariel');assert.equal(ariel.films.filter(f=>/párvulos/i.test(f.title)).length,1);
+ const sundance=db.filter(e=>e.festival==='Sundance');assert.equal(sundance.slice(0,5).reduce((n,e)=>n+e.films.length,0),48);
+ const twinless=sundance.flatMap(e=>e.films).find(f=>f.title==='Twinless'||f.aliases.includes('Twinless'));assert(twinless.wins.includes('Audience Award: U.S. Dramatic'));
+ const seeds=sundance.flatMap(e=>e.films).find(f=>f.title==='Seeds'||f.aliases.includes('Seeds'));assert.equal(seeds.wins.length,2);
+ const locarno=db.filter(e=>e.festival==='Locarno');assert.equal(locarno.filter(e=>e.section==='Semaine de la Critique').length,1);assert.equal(locarno.find(e=>e.section==='Semaine de la Critique').films.length,2);
+ for(const e of [...sundance,...locarno].filter(e=>/corto|short film/i.test(e.section)))assert(e.films.every(f=>f.wins.length));
 });
