@@ -79,8 +79,20 @@
   }
 });
  const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
+ let referenceRows;
+ async function withReference(record){
+  if(record.u)return record;
+  try{
+   if(!referenceRows)referenceRows=fetch('/filmoteca-pepe-presley/data/catalog/festival-references-2022-2024.json?v=20261027').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}).catch(error=>{referenceRows=null;throw error});
+   const rows=await referenceRows;
+   const matches=rows.filter(r=>r.t===record.t&&r.d===record.d&&Number(r.y)===Number(record.y));
+   if(matches.length===1){const full=matches[0];return {...record,u:full.u,arch:full.arch,res:full.res,sz:full.sz};}
+  }catch(_){}
+  return record;
+ }
  root.FilmotecaFestivals=Object.freeze({
   config,
+  withReference,
   label:f=>config[f]?.label||'Festival de '+f,
   icon:f=>config[f]?.icon||'#ico-festival',
   isAward:f=>Boolean(config[f]?.award),
