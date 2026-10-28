@@ -55,3 +55,15 @@ Se aplican veinte propuestas puntuales de resultados a familias existentes: nomb
 El overlay `annual_z_2022_2023_festivales_overlay.json` recupera El hijo de Florian Zeller y Animal de Sofia Exarchou; el segundo deja de heredar Animalia de Sofia Alaoui. Se carga después de los reemplazos anuales y bloquea pósteres dudosos. También recupera la asociación anterior de Venecia 2022/The Son, antes vacía; las demás asociaciones anteriores se conservan idénticas. No se modifica el resolvedor.
 
 `festival-references-cinco-2022-2023.json` añade 153 referencias exactas a las ya publicadas. El bloque completo tiene 165 identidades para las 176 apariciones; se reutilizan las referencias anteriores sin duplicarlas. Las equivalencias de directores en otros alfabetos y los créditos abreviados se reconocen al cotejar maestros, sin modificar las identidades del catálogo. Algunos títulos no localizados conservan dirección pendiente, sin atribución automática de propiedad.
+
+## 2026 · quince familias y Seminci en curso
+
+Se añaden las ocho familias que faltaban y se sustituye la edición genérica de Oscar por datos estructurados: 359 entradas nuevas y 50 registros Oscar actualizados. El cruce con los maestros aprobados de 2019–2025 confirma 118 apariciones en los bloques nuevos o actualizados; no existe un maestro aprobado 2026. Los seis certámenes anteriores restantes se conservan sin correcciones especulativas ni declaración de nueva auditoría exhaustiva.
+
+Globos mantiene 92 candidaturas y 15 premios; César, 110 y 24; Ariel, 122 y 28 con premios compartidos. Oscar conserva 125 candidaturas en 24 categorías, incluida Casting, con 25 victorias por el empate de cortometraje de ficción. Sol completó David desde la lista oficial de candidatos y el resoconto de votos: 129 candidaturas en 25 categorías y 25 premios, más el reconocimiento del espectador separado. Los dos candidatos de actor por Le città di pianura permanecen diferenciados; gana Sergio Romano.
+
+Seminci incluye 22 largometrajes, `status: in_progress`, sección «Competición oficial · palmarés pendiente» y premios vacíos. El texto pendiente no se interpreta como premio. Sitges conserva el Méliès de 2026 a una película seleccionada en 2025 con etiqueta explícita. Los honoríficos se mantienen fuera de películas competitivas.
+
+Locarno incorpora también los documentales premiados Blossoming y Only the Serpent Knows en Semaine de la Critique y los cortos Private Property y Ãsheghetam en Corti d’Autore. La selección y los premios tienen las fuentes y limitaciones del paquete y del contraste adicional conservadas: no se declara agotada la revisión de premios paralelos.
+
+El overlay mínimo `annual_z_2026_festivales_overlay.json` recupera Black Dog para César 2026 mediante la equivalencia 管虎/Guan Hu. Conserva el póster ya aprobado y los 106 minutos; solo cambia la escritura del director en las dos asociaciones relacionadas de 2024. Se añaden 85 referencias exactas en `festival-references-2026.json`; los demás años no se reconstruyen. Algunos títulos no localizados conservan metadatos pendientes, sin inventarlos ni atribuir propiedad.

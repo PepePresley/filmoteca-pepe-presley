@@ -526,7 +526,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=5"></script>
+<script src="../app/festival-config.js?v=6"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -568,6 +568,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2022_2023_festivales_overlay.json?v=festivales-20261027",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
    ];
@@ -586,10 +587,10 @@ try{
    }
  }catch(_){}
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-cinco-2022-2025-20261028");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-2022-2026-20261028");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
-const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-cinco-2022-2025-20261028");
+const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-2022-2026-20261028");
 if(!mapResponse.ok)throw new Error('Festival match map HTTP '+mapResponse.status);
 const FESTIVAL_MATCH_MAP=(await mapResponse.json()).matches||{};
 const FESTIVAL_DB = window.__FESTIVALES__;
