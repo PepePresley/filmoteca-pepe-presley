@@ -1,0 +1,4415 @@
+{
+  "date": "2026-10-28",
+  "masterYearsChecked": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sources": {
+    "fuentes.json": [
+      {
+        "id": "sitges20_palmares",
+        "url": "https://sitgesfilmfestival.com/en/latest/list-winners/2020",
+        "kind": "oficial · palmarés",
+        "transcription": "La página clasifica el palmarés por Official Fantàstic in-competition, Panorama Fantàstic, Focus Asia, Noves Visions, Midnight X-Treme, Sitges Documenta, Blood Window, Critics’ Jury, Méliès d’Argent, Carnet Jove y Brigadoon. Premios oficiales leídos y volcados; ver JSON."
+      },
+      {
+        "id": "sitges21_palmares",
+        "url": "https://sitgesfilmfestival.com/en/latest/list-winners/2021",
+        "kind": "oficial · palmarés",
+        "transcription": "Premios oficiales leídos y volcados por sección. Incluye empates de interpretación y ópera prima, premios de crítica, cortos y SGAE Nova Autoria."
+      },
+      {
+        "id": "sitges21_book",
+        "url": "https://sitgesfilmfestival.com/modules/custom/sff_utils/templates/images/FestivalBook_Sitges21.pdf",
+        "kind": "oficial · libro de festival",
+        "transcription": "PDF oficial, 40 páginas. Páginas 6–9: premios; páginas 10–12: personalidades y premios honoríficos. La transcripción de selección completa no se pudo extraer del documento en esta pasada."
+      },
+      {
+        "id": "sitges20_selection_secondary",
+        "url": "https://www.antena3.com/objetivotv/premios-festivales/comienza-festival-sitges-2020-todos-contenidos-edicion_202010085f7ef44ad1afaa00017da619.html",
+        "kind": "secundaria · relación de programación",
+        "transcription": "Relación de títulos programados usada para la lista de 33 largometrajes incluida. No es el programa oficial final; cotejo oficial de la selección aún pendiente."
+      },
+      {
+        "id": "sitges21_selection_secondary",
+        "url": "https://www.elantepenultimomohicano.com/2021/10/festival-sitges-introduccion-programacion.html",
+        "kind": "secundaria · programación",
+        "transcription": "Relación de largometrajes transcrita a la sección principal. El recuento de la relación difiere de 37 que indican algunas fuentes; verificar programa final completo pendiente."
+      },
+      {
+        "id": "seminci20_selection",
+        "url": "https://www.seminci.com/en/2020/65th-seminci/26484-2/",
+        "kind": "oficial · anuncio de selección",
+        "transcription": "Anuncia 15 largometrajes de Sección Oficial; dos fuera de concurso: It Snows in Benidorm y Puppy Love. La selección competitiva transcrita contiene los 13 restantes, con Josep en competición."
+      },
+      {
+        "id": "seminci20_results",
+        "url": "https://www.seminci.com/en/2020/65th-seminci/against-all-odds-seminci-celebrates-cinema-at-the-close-of-its-65th-edition/",
+        "kind": "oficial · palmarés",
+        "transcription": "Palmarés leído y transcrito para Sección Oficial, Punto de Encuentro, Tiempo de Historia, DOC España, Castilla y León en Corto y premios especiales."
+      },
+      {
+        "id": "seminci21_selection",
+        "url": "https://www.seminci.com/2021/notas-de-prensa/seccion-oficial-66-edicion/",
+        "kind": "oficial · selección inicial",
+        "transcription": "Anuncia 21 títulos en una nota de avance. Se priorizó el archivo final de sección, que recoge 23 títulos totales y 3 fuera de concurso; así se fijó una expectativa de 20 películas en competición."
+      },
+      {
+        "id": "seminci21_results",
+        "url": "https://www.seminci.com/en/2021/66th-seminci/last-film-show-by-indian-filmmaker-pan-nalin-wins-the-golden-spike-at-the-66th-valladolid-international-film-festival/",
+        "kind": "oficial · palmarés",
+        "transcription": "Resultados de Sección Oficial y premios paralelos transcritos; se conserva el empate de Espiga Fundos y de Tiempo de Historia."
+      },
+      {
+        "id": "cesar20_noms",
+        "url": "https://www.academie-cinema.org/wp-content/uploads/2020/02/liste-officielle-nominations-cesar-2020.pdf",
+        "kind": "oficial · lista de candidaturas PDF",
+        "transcription": "5 páginas. Se transcribieron las categorías desde Mejor actriz hasta César del público, candidaturas y créditos personales; los dos tramos de animación se separan como cortometraje y largometraje."
+      },
+      {
+        "id": "cesar20_results",
+        "url": "https://www.academie-cinema.org/evenements/ceremonie-des-cesar-2020/",
+        "kind": "oficial · palmarés",
+        "transcription": "La página enumera candidaturas repetidas y resultados. Se cotejaron ganadores competitivos con la lista oficial."
+      },
+      {
+        "id": "cesar21_noms",
+        "url": "https://www.academie-cinema.org/wp-content/uploads/2021/02/liste-officielle-nominations-cesar-2021-1.pdf",
+        "kind": "oficial · lista de candidaturas PDF",
+        "transcription": "5 páginas. Total publicado: 107 candidaturas. Se transcribieron las categorías y créditos; la hoja final del PDF confirma total y recuentos por película."
+      },
+      {
+        "id": "cesar21_results",
+        "url": "https://www.academie-cinema.org/evenements/ceremonie-des-cesar-2021/",
+        "kind": "oficial · palmarés",
+        "transcription": "La página oficial contiene ganadores de categorías competitivas y el detalle de trabajos/creadores. Se cotejaron los ganadores transcritos."
+      },
+      {
+        "id": "seminci21_selection_final_count",
+        "url": "https://www.seminci.com/2021/notas-de-prensa/seccion-oficial-66-edicion/",
+        "kind": "oficial · anuncio de selección",
+        "transcription": "El archivo final de Sección Oficial registra 23 largometrajes en total. Tres fuera de concurso (El rey de todo el mundo, Funny Boy, Viaje a alguna parte), por lo que se esperan 20 competitivas. El JSON contiene 20."
+      },
+      {
+        "id": "sitges20_honorifics",
+        "url": "https://sitgesfilmfestival.com/sites/default/files/2023-08/FestivalBook-Sitges-2020.pdf",
+        "kind": "oficial · libro de festival",
+        "transcription": "Apartado Personalities, Talent, Honorary Awards: David Lynch (Time Machine Award); Najwa Nimri (Gran Honorary Award); Oriol Tarragó (Maria Honorary Award); Manuel de Blas (Nosferatu); Paco Plaza (Méliès Career Award)."
+      },
+      {
+        "id": "cesar20_honorary",
+        "url": "https://www.academie-cinema.org/evenements/ceremonie-des-cesar-2020/",
+        "kind": "oficial · ceremonia y palmarés",
+        "transcription": "El César de Honor inicialmente anunciado a Brad Pitt no fue entregado; queda anotado como anunciado y retirado, no como premio concedido."
+      },
+      {
+        "id": "sitges21_selection_crosscheck",
+        "url": "https://www.elantepenultimomohicano.com/2021/10/festival-sitges-introduccion-programacion.html",
+        "kind": "secundaria fiable · lista de competición",
+        "transcription": "La fuente enumera 36 largometrajes de Oficial Fantàstic; una fuente de industria adicional registra Inexorable como parte de Official Fantastic Competition. La discrepancia 36/37 sigue abierta."
+      },
+      {
+        "id": "seminci21_final_archive",
+        "url": "https://www.seminci.com/seccion/seccion_oficial_largometrajes_2021/",
+        "kind": "oficial · archivo final de sección",
+        "transcription": "La ficha del archivo indica 23 títulos; tres son fuera de concurso (El rey de todo el mundo, Funny Boy y Viaje a alguna parte). Las otras 20 películas de la lista final se transcriben como competición."
+      },
+      {
+        "id": "sitges21_inexorable",
+        "url": "https://en.unifrance.org/movie/51471/inexorable",
+        "kind": "fuente institucional de industria · historial de festivales",
+        "transcription": "Registra Inexorable en la Official Fantastic Competition de Sitges 2021. La lista secundaria de 36 títulos omitía este título; se conserva el conjunto de 37 con esa comprobación."
+      },
+      {
+        "id": "sitges21_es_palmares",
+        "url": "https://sitgesfilmfestival.com/es/actualitat/palmares/2021",
+        "kind": "oficial · palmarés en castellano",
+        "transcription": "Premios de la crítica, Méliès, Carnet Jove, Brigadoon y SGAE Nova Autoria volcados en película. Las etiquetas de jurado o premio no se usan como secciones de programación."
+      },
+      {
+        "id": "seminci20_complete",
+        "url": "https://www.seminci.com/2020/65-seminci/preparations-to-be-together-for-an-unknown-period-of-time-gana-la-espiga-de-oro-de-la-65-seminci/",
+        "kind": "oficial · palmarés",
+        "transcription": "Transcribe premios competitivos, premios personales, cortos premiados y resultados de Punto de Encuentro, Tiempo de Historia, DOC España, Castilla y León en Corto y otras secciones. Identifica The Night Train en Punto de Encuentro y Éxodo climático en Cambio Climático."
+      },
+      {
+        "id": "seminci20_shorts",
+        "url": "https://www.seminci.com/wp-content/uploads/2020/10/65_seminci_palmares.pdf",
+        "kind": "oficial · actas de jurados",
+        "transcription": "El mártir recibió Espiga de Oro y premio a mejor corto europeo; Moi, Barnabé recibió Espiga de Plata. Solo se añaden esos cortos premiados."
+      },
+      {
+        "id": "seminci21_complete",
+        "url": "https://www.seminci.com/2021/66-seminci/last-film-show-del-cineasta-indio-pan-nalin-gana-la-espiga-de-oro-de-la-66-semana-internacional-de-cine-de-valladolid/",
+        "kind": "oficial · palmarés",
+        "transcription": "Transcribe premios de largometrajes y cortos, premios personales, premios del público, jurados jóvenes y paralelos, y resultados de Punto de Encuentro, Tiempo de Historia, DOC España, Cambio Climático y Castilla y León."
+      },
+      {
+        "id": "seminci21_closing",
+        "url": "https://www.seminci.com/2021/66-seminci/la-66a-seminci-se-despide-en-una-gran-gala-de-clausura-plagada-de-estrellas-y-buen-cine/",
+        "kind": "oficial · ceremonia de clausura",
+        "transcription": "Confirma Animal, Sedimentos, Fundos ex aequo a Hive y Writing with Fire, ganadores de cortos de Tiempo de Historia y Punto de Encuentro, y ganadores de Castilla y León en Corto."
+      },
+      {
+        "id": "seminci20_climate_section",
+        "url": "https://www.seminci.com/2020/65-seminci/la-seccion-cambio-climatico-programa-cinco-titulos-que-competiran-por-la-espiga-verde/",
+        "kind": "oficial · sección y candidaturas al premio",
+        "transcription": "Éxodo climático figura en la sección Cambio Climático y obtiene la Espiga Verde."
+      },
+      {
+        "id": "seminci21_historical_archive",
+        "url": "https://www.seminci.com/historico/66-semana-internacional-de-cine-de-valladolid/",
+        "kind": "oficial · archivo histórico / palmarés",
+        "transcription": "El archivo oficial enumera los premios de 2021 por sección y confirma El rey de las flores (Alberto Velasco), Premio Castilla y León en Corto, y Marinera de luces (Pablo Quijano), mención especial. Se restauraron bajo la sección de programación Castilla y León en Corto, no como sección artificial de premios."
+      },
+      {
+        "id": "seminci21_castilla_jurado_acta",
+        "url": "https://www.seminci.com/?jet_download=f2be5aa09057c4a214cfcc33cd8ec6a981a77a6d",
+        "kind": "oficial · acta del jurado descargable",
+        "transcription": "El acta del jurado Castilla y León en Corto confirma Premio a El rey de las flores, de Alberto Velasco, y Mención Especial a Marinera de luces, de Pablo Quijano."
+      },
+      {
+        "id": "seminci21_el_rey_page",
+        "url": "https://www.seminci.com/peliculas/el-rey-de-las-flores/",
+        "kind": "oficial · ficha de película",
+        "transcription": "Ficha oficial: El rey de las flores, Alberto Velasco, 2021, cortometraje, duración 13 min."
+      },
+      {
+        "id": "seminci21_marinera_page",
+        "url": "https://www.seminci.com/peliculas/marinera-de-luces/",
+        "kind": "oficial · ficha de película",
+        "transcription": "Ficha oficial: Marinera de luces, Pablo Quijano, 2021, cortometraje, duración 25 min."
+      }
+    ],
+    "cesar_2021_transcripcion.json": {
+      "year": 2021,
+      "editions": [
+        {
+          "festival": "Premios César",
+          "year": 2021,
+          "section": "Categorías competitivas cinematográficas",
+          "films": [
+            {
+              "title": "1917",
+              "director": "Sam Mendes",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Sam Mendes"
+              ],
+              "wins": []
+            },
+            {
+              "title": "ADN",
+              "director": "Maïwenn",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz de reparto · Fanny Ardant",
+                "Mejor actor de reparto · Louis Garrel",
+                "Mejor música original · Stephen Warbeck",
+                "Mejor dirección · Maïwenn"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Adieu les cons",
+              "director": "Albert Dupontel",
+              "award": "Mejor actor de reparto · Nicolas Marié; Mejor guion original · Albert Dupontel; Mejor fotografía · Alexis Kavyrchine; Mejor diseño de producción · Carlos Conti; Mejor dirección · Albert Dupontel; Mejor película · Albert Dupontel; Catherine Bozorgan",
+              "nominations": [
+                "Mejor actriz · Virginie Efira",
+                "Mejor actor · Albert Dupontel",
+                "Mejor actor de reparto · Nicolas Marié",
+                "Mejor guion original · Albert Dupontel",
+                "Mejor música original · Christophe Julien",
+                "Mejor sonido · Jean Minondo, Gurwal Coïc-Gallas, Cyril Holtz",
+                "Mejor fotografía · Alexis Kavyrchine",
+                "Mejor montaje · Christophe Pinel",
+                "Mejor vestuario · Mimi Lempicka",
+                "Mejor diseño de producción · Carlos Conti",
+                "Mejor dirección · Albert Dupontel",
+                "Mejor película · Albert Dupontel"
+              ],
+              "wins": [
+                "Mejor actor de reparto · Nicolas Marié",
+                "Mejor guion original · Albert Dupontel",
+                "Mejor fotografía · Alexis Kavyrchine",
+                "Mejor diseño de producción · Carlos Conti",
+                "Mejor dirección · Albert Dupontel",
+                "Mejor película · Albert Dupontel; Catherine Bozorgan"
+              ]
+            },
+            {
+              "title": "Adolescentes",
+              "director": "Sébastien Lifshitz",
+              "award": "Mejor sonido · Yolande Decarsin, Jeanne Delplancq, Fanny Martin, Olivier Goinard; Mejor montaje · Tina Baz; Mejor documental · Sébastien Lifshitz; Muriel Meynard",
+              "nominations": [
+                "Mejor sonido · Yolande Decarsin, Jeanne Delplancq, Fanny Martin, Olivier Goinard",
+                "Mejor fotografía · Antoine Parouty, Paul Guilhaume",
+                "Mejor montaje · Tina Baz",
+                "Mejor dirección · Sébastien Lifshitz",
+                "Mejor documental · Sébastien Lifshitz",
+                "Mejor película · Sébastien Lifshitz"
+              ],
+              "wins": [
+                "Mejor sonido · Yolande Decarsin, Jeanne Delplancq, Fanny Martin, Olivier Goinard",
+                "Mejor montaje · Tina Baz",
+                "Mejor documental · Sébastien Lifshitz; Muriel Meynard"
+              ]
+            },
+            {
+              "title": "Antoinette dans les Cévennes",
+              "director": "Caroline Vignal",
+              "award": "Mejor actriz · Laure Calamy",
+              "nominations": [
+                "Mejor actriz · Laure Calamy",
+                "Mejor actor de reparto · Benjamin Lavernhe",
+                "Mejor guion original · Caroline Vignal",
+                "Mejor música original · Matei Bratescot",
+                "Mejor sonido · Guillaume Valeix, Fred Demolder, Jean-Paul Hurier",
+                "Mejor fotografía · Simon Beaufils",
+                "Mejor montaje · Annette Dutertre",
+                "Mejor película · Caroline Vignal"
+              ],
+              "wins": [
+                "Mejor actriz · Laure Calamy"
+              ]
+            },
+            {
+              "title": "Bach-Hông",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Elsa Duhamel"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Baltringue",
+              "director": "Josza Anjembe",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Josza Anjembe"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Calamity, une enfance de Martha Jane Cannary",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · largometraje · Rémi Chayé"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Cuban Network",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor adaptación · Olivier Assayas"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Cyrille agriculteur, 30 ans, 20 vaches, du lait, du beurre, des dettes",
+              "director": "Rodolphe Marconi",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Rodolphe Marconi"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Dark Waters",
+              "director": "Todd Haynes",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Todd Haynes"
+              ],
+              "wins": []
+            },
+            {
+              "title": "De Gaulle",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor · Lambert Wilson",
+                "Mejor vestuario · Anaïs Romand, Sergio Ballo",
+                "Mejor diseño de producción · Nicolas de Boiscuillé"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Deux",
+              "director": "Filippo Meneghetti",
+              "award": "Mejor ópera prima · Filippo Meneghetti; Pierre-Emmanuel Fleurantin, Laurent Baujard",
+              "nominations": [
+                "Mejor actriz · Martine Chevallier",
+                "Mejor actriz · Barbara Sukowa",
+                "Mejor guion original · Filippo Meneghetti, Malysone Bovorasmy",
+                "Mejor ópera prima · Filippo Meneghetti"
+              ],
+              "wins": [
+                "Mejor ópera prima · Filippo Meneghetti; Pierre-Emmanuel Fleurantin, Laurent Baujard"
+              ]
+            },
+            {
+              "title": "Drunk",
+              "director": "Thomas Vinterberg",
+              "award": "Mejor película extranjera · Thomas Vinterberg",
+              "nominations": [
+                "Mejor película extranjera · Thomas Vinterberg"
+              ],
+              "wins": [
+                "Mejor película extranjera · Thomas Vinterberg"
+              ]
+            },
+            {
+              "title": "Effacer l’historique",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor guion original · Benoît Delépine, Gustave Kervern"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Eva en août",
+              "director": "Jonás Trueba",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Jonás Trueba"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Felicità",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz revelación · Camille Rutherford"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Garçon chiffon",
+              "director": "Nicolas Maury",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor ópera prima · Nicolas Maury"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Histoire d’un regard",
+              "director": "Mariana Otero",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Mariana Otero"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Je serai parmi les amandiers",
+              "director": "Marie Le Floc’h",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Marie Le Floc’h"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Josep",
+              "director": null,
+              "award": "Mejor película de animación · largometraje · Aurel; Serge Lalou",
+              "nominations": [
+                "Mejor película de animación · largometraje · Aurel"
+              ],
+              "wins": [
+                "Mejor película de animación · largometraje · Aurel; Serge Lalou"
+              ]
+            },
+            {
+              "title": "La Bonne Épouse",
+              "director": null,
+              "award": "Mejor vestuario · Madeline Fontaine",
+              "nominations": [
+                "Mejor actriz de reparto · Noémie Lvovsky",
+                "Mejor actriz de reparto · Yolande Moreau",
+                "Mejor actor de reparto · Édouard Baer",
+                "Mejor vestuario · Madeline Fontaine",
+                "Mejor diseño de producción · Thierry François"
+              ],
+              "wins": [
+                "Mejor vestuario · Madeline Fontaine"
+              ]
+            },
+            {
+              "title": "La Communion",
+              "director": "Jan Komasa",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Jan Komasa"
+              ],
+              "wins": []
+            },
+            {
+              "title": "La Cravate",
+              "director": "Etienne Chaillou, Mathias Théry",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Etienne Chaillou, Mathias Théry"
+              ],
+              "wins": []
+            },
+            {
+              "title": "La Daronne",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor adaptación · Hannelore Cayre, Jean-Paul Salomé"
+              ],
+              "wins": []
+            },
+            {
+              "title": "La Fille au bracelet",
+              "director": null,
+              "award": "Mejor adaptación · Stéphane Demoustier",
+              "nominations": [
+                "Mejor actriz revelación · Mélissa Guers",
+                "Mejor adaptación · Stéphane Demoustier"
+              ],
+              "wins": [
+                "Mejor adaptación · Stéphane Demoustier"
+              ]
+            },
+            {
+              "title": "La Nuit venue",
+              "director": null,
+              "award": "Mejor música original · Rone",
+              "nominations": [
+                "Mejor actor revelación · Guang Huo",
+                "Mejor música original · Rone"
+              ],
+              "wins": [
+                "Mejor música original · Rone"
+              ]
+            },
+            {
+              "title": "La Tête dans les orties",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Paul Cabon"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Les choses qu’on dit, les choses qu’on fait",
+              "director": "Emmanuel Mouret",
+              "award": "Mejor actriz de reparto · Émilie Dequenne",
+              "nominations": [
+                "Mejor actriz · Camélia Jordana",
+                "Mejor actor · Niels Schneider",
+                "Mejor actriz de reparto · Émilie Dequenne",
+                "Mejor actor de reparto · Vincent Macaigne",
+                "Mejor actriz revelación · Julia Piaton",
+                "Mejor guion original · Emmanuel Mouret",
+                "Mejor sonido · Maxime Gavaudan, François Méréu, Jean-Paul Hurier",
+                "Mejor fotografía · Laurent Desmet",
+                "Mejor montaje · Martial Salomon",
+                "Mejor vestuario · Hélène Davoudian",
+                "Mejor diseño de producción · David Faivre",
+                "Mejor dirección · Emmanuel Mouret",
+                "Mejor película · Emmanuel Mouret"
+              ],
+              "wins": [
+                "Mejor actriz de reparto · Émilie Dequenne"
+              ]
+            },
+            {
+              "title": "L’Aventure atomique",
+              "director": "Loïc Barché",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Loïc Barché"
+              ],
+              "wins": []
+            },
+            {
+              "title": "L’Heure de l’ours",
+              "director": null,
+              "award": "Mejor película de animación · cortometraje · Agnès Patron; Ron Dyens",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Agnès Patron"
+              ],
+              "wins": [
+                "Mejor película de animación · cortometraje · Agnès Patron; Ron Dyens"
+              ]
+            },
+            {
+              "title": "L’Odyssée de Choum",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Julien Bisaro"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Mignonnes",
+              "director": "Maïmouna Doucouré",
+              "award": "Mejor actriz revelación · Fathia Youssouf",
+              "nominations": [
+                "Mejor actriz revelación · Fathia Youssouf",
+                "Mejor ópera prima · Maïmouna Doucouré"
+              ],
+              "wins": [
+                "Mejor actriz revelación · Fathia Youssouf"
+              ]
+            },
+            {
+              "title": "Miss",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor revelación · Alexandre Wetter"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Petit Pays",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor adaptación · Éric Barbier"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Petit Vampire",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · largometraje · Joann Sfar"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Poissonsexe",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz revelación · India Hair"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Qu’importe si les bêtes meurent",
+              "director": "Sofia Alaoui",
+              "award": "Mejor cortometraje · Sofia Alaoui; Margaux Lorier, Frédéric Dubreuil",
+              "nominations": [
+                "Mejor cortometraje · Sofia Alaoui"
+              ],
+              "wins": [
+                "Mejor cortometraje · Sofia Alaoui; Margaux Lorier, Frédéric Dubreuil"
+              ]
+            },
+            {
+              "title": "Tout simplement noir",
+              "director": "Jean-Pascal Zadi, John Wax",
+              "award": "Mejor actor revelación · Jean-Pascal Zadi",
+              "nominations": [
+                "Mejor actor revelación · Jean-Pascal Zadi",
+                "Mejor ópera prima · Jean-Pascal Zadi, John Wax"
+              ],
+              "wins": [
+                "Mejor actor revelación · Jean-Pascal Zadi"
+              ]
+            },
+            {
+              "title": "Un adieu",
+              "director": "Mathilde Profit",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Mathilde Profit"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Un divan à Tunis",
+              "director": "Manele Labidi",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor ópera prima · Manele Labidi"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Un fils",
+              "director": null,
+              "award": "Mejor actor · Sami Bouajila",
+              "nominations": [
+                "Mejor actor · Sami Bouajila"
+              ],
+              "wins": [
+                "Mejor actor · Sami Bouajila"
+              ]
+            },
+            {
+              "title": "Un pays qui se tient sage",
+              "director": "David Dufresne",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · David Dufresne"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Énorme",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor · Jonathan Cohen"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Été 85",
+              "director": "François Ozon",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz de reparto · Valeria Bruni Tedeschi",
+                "Mejor actor revelación · Félix Lefebvre",
+                "Mejor actor revelación · Benjamin Voisin",
+                "Mejor adaptación · François Ozon",
+                "Mejor música original · Jean-Benoît Dunckel",
+                "Mejor sonido · Brigitte Taillandier, Julien Roig, Jean-Paul Hurier",
+                "Mejor fotografía · Hichame Alaouié",
+                "Mejor montaje · Laure Gardette",
+                "Mejor vestuario · Pascaline Chavanne",
+                "Mejor diseño de producción · Benoît Barouh",
+                "Mejor dirección · François Ozon",
+                "Mejor película · François Ozon"
+              ],
+              "wins": []
+            }
+          ]
+        }
+      ],
+      "control_categorias": [
+        {
+          "category": "Mejor actriz",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actor",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actriz de reparto",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actor de reparto",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actriz revelación",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actor revelación",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor guion original",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor adaptación",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor música original",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor sonido",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor fotografía",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor montaje",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor vestuario",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor diseño de producción",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor dirección",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor cortometraje",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película de animación · cortometraje",
+          "nominations": 4,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película de animación · largometraje",
+          "nominations": 3,
+          "winners": 1
+        },
+        {
+          "category": "Mejor documental",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor ópera prima",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película extranjera",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película",
+          "nominations": 5,
+          "winners": 1
+        }
+      ],
+      "honorificos_file": "cesar_honorificos_2021.json",
+      "sources": [
+        "https://www.academie-cinema.org/wp-content/uploads/2021/02/liste-officielle-nominations-cesar-2021-1.pdf",
+        "https://www.academie-cinema.org/evenements/ceremonie-des-cesar-2021/"
+      ]
+    },
+    "seminci_2021_transcripcion.json": {
+      "year": 2021,
+      "editions": [
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Sección Oficial · largometrajes en competición",
+          "films": [
+            {
+              "title": "Libertad",
+              "director": "Clara Roquet",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Ballad of a White Cow",
+              "director": "Behtash Sanaeeha, Maryam Moghaddam",
+              "award": "Premio Pilar Miró a la mejor dirección novel · Behtash Sanaeeha; Maryam Moghaddam",
+              "wins": [
+                "Premio Pilar Miró a la mejor dirección novel · Behtash Sanaeeha; Maryam Moghaddam"
+              ]
+            },
+            {
+              "title": "The Card Counter",
+              "director": "Paul Schrader",
+              "award": "Mejor guion · Paul Schrader; Premio Miguel Delibes al mejor guion · Paul Schrader",
+              "wins": [
+                "Mejor guion · Paul Schrader",
+                "Premio Miguel Delibes al mejor guion · Paul Schrader"
+              ]
+            },
+            {
+              "title": "Clara Sola",
+              "director": "Nathalie Álvarez Mesén",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Compartment Nº 6",
+              "director": "Juho Kuosmanen",
+              "award": "Mejor actor · Yuriy Borisov",
+              "wins": [
+                "Mejor actor · Yuriy Borisov"
+              ]
+            },
+            {
+              "title": "The Fam",
+              "director": "Fred Baillif",
+              "award": "Mejor dirección · Fred Baillif; Mejor montaje · José Salcedo; Mención especial del Jurado · reparto; Premio Ribera del Duero a la mejor dirección · Fred Baillif; Premio José Salcedo al mejor montaje · Fred Baillif",
+              "wins": [
+                "Mejor dirección · Fred Baillif",
+                "Mejor montaje · José Salcedo",
+                "Mención especial del Jurado · reparto",
+                "Premio Ribera del Duero a la mejor dirección · Fred Baillif",
+                "Premio José Salcedo al mejor montaje · Fred Baillif"
+              ]
+            },
+            {
+              "title": "The Girl and the Spider",
+              "director": "Ramon Zürcher, Silvan Zürcher",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Happening",
+              "director": "Audrey Diwan",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "A Hero",
+              "director": "Asghar Farhadi",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Hit the Road",
+              "director": "Panah Panahi",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Hive",
+              "director": "Blerta Basholli",
+              "award": "Mejor actriz · Yllka Gashi",
+              "wins": [
+                "Mejor actriz · Yllka Gashi"
+              ]
+            },
+            {
+              "title": "Huda’s Salon",
+              "director": "Hany Abu-Assad",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Last Film Show",
+              "director": "Pan Nalin",
+              "award": "Espiga de Oro · Pan Nalin",
+              "wins": [
+                "Espiga de Oro · Pan Nalin"
+              ]
+            },
+            {
+              "title": "Mali Twist",
+              "director": "Robert Guédiguian",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Las siamesas",
+              "director": "Paula Hernández",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Sis dies corrents",
+              "director": "Neus Ballús",
+              "award": "Espiga de Plata; Premio del Público de Sección Oficial; Espiga de Plata · Neus Ballús",
+              "wins": [
+                "Espiga de Plata",
+                "Premio del Público de Sección Oficial",
+                "Espiga de Plata · Neus Ballús"
+              ]
+            },
+            {
+              "title": "A Tale of Love and Desire",
+              "director": "Leyla Bouzid",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Vengeance Is Mine, All Others Pay Cash",
+              "director": "Edwin",
+              "award": "Mejor fotografía · Akiko Ashizawa; Mejor dirección de fotografía · Akiko Ashizawa",
+              "wins": [
+                "Mejor fotografía · Akiko Ashizawa",
+                "Mejor dirección de fotografía · Akiko Ashizawa"
+              ]
+            },
+            {
+              "title": "The Worst Person in the World",
+              "director": "Joachim Trier",
+              "award": "Premio FIPRESCI; Premio de la Juventud de Sección Oficial",
+              "wins": [
+                "Premio FIPRESCI",
+                "Premio de la Juventud de Sección Oficial"
+              ]
+            },
+            {
+              "title": "I’m Your Man",
+              "director": "Maria Schrader",
+              "award": "En competición",
+              "wins": []
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Punto de Encuentro · largometrajes",
+          "films": [
+            {
+              "title": "Mes frères et moi",
+              "director": "Yohan Manca",
+              "award": "Mejor película; Premio del público; Premio del Jurado de Punto de Encuentro; Premio del Público de Punto de Encuentro",
+              "wins": [
+                "Mejor película",
+                "Premio del público",
+                "Premio del Jurado de Punto de Encuentro",
+                "Premio del Público de Punto de Encuentro"
+              ],
+              "aliases": [
+                "Mis hermanos y yo"
+              ]
+            },
+            {
+              "title": "My Brothers Dream Awake",
+              "director": "Claudia Huaiquimilla",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ],
+              "aliases": [
+                "Mis hermanos sueñan despiertos"
+              ]
+            },
+            {
+              "title": "Hvor kragerne vender",
+              "director": "Lisa Jespersen",
+              "award": "Premio del Jurado Joven de Punto de Encuentro",
+              "wins": [
+                "Premio del Jurado Joven de Punto de Encuentro"
+              ],
+              "aliases": [
+                "Persona non grata"
+              ]
+            },
+            {
+              "title": "The Dorm",
+              "director": "Roman Vasyanov",
+              "award": "Mención especial del Jurado de Punto de Encuentro",
+              "wins": [
+                "Mención especial del Jurado de Punto de Encuentro"
+              ],
+              "aliases": [
+                "La habitación"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Punto de Encuentro · cortometrajes",
+          "films": [
+            {
+              "title": "The Criminals",
+              "director": "Serhat Karaaslan",
+              "award": "Mejor cortometraje extranjero",
+              "wins": [
+                "Mejor cortometraje extranjero"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Tiempo de Historia",
+          "films": [
+            {
+              "title": "My Childhood, My Country – 20 Years in Afghanistan",
+              "director": "Phil Grabsky, Shoaib Sharifi",
+              "award": "Primer premio (ex aequo)",
+              "wins": [
+                "Primer premio (ex aequo)"
+              ]
+            },
+            {
+              "title": "Writing with Fire",
+              "director": "Rintu Thomas, Sushmit Ghosh",
+              "award": "Primer premio (ex aequo); Premio Fundos (ex aequo)",
+              "wins": [
+                "Primer premio (ex aequo)",
+                "Premio Fundos (ex aequo)"
+              ]
+            },
+            {
+              "title": "Corsini interpreta a Blomberg y Maciel",
+              "director": "Mariano Llinás",
+              "award": "Segundo premio",
+              "wins": [
+                "Segundo premio"
+              ],
+              "aliases": [
+                "Corsini Sings Blomberg & Maciel"
+              ]
+            },
+            {
+              "title": "When We Were Bullies",
+              "director": "Jay Rosenblatt",
+              "award": "Premio al cortometraje",
+              "wins": [
+                "Premio al cortometraje"
+              ]
+            },
+            {
+              "title": "La gàbia",
+              "director": "Adán Aliaga",
+              "award": "Mención especial al cortometraje",
+              "wins": [
+                "Mención especial al cortometraje"
+              ],
+              "aliases": [
+                "The Cage",
+                "La jaula"
+              ]
+            },
+            {
+              "title": "Luchadoras",
+              "director": "Paola Calvo, Patrick Jasim",
+              "award": "Premio del público",
+              "wins": [
+                "Premio del público"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "DOC España",
+          "films": [
+            {
+              "title": "El vent que ens mou",
+              "director": "Pere Puigbert",
+              "award": "Premio DOC España",
+              "wins": [
+                "Premio DOC España"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Sección Oficial · cortometrajes premiados",
+          "films": [
+            {
+              "title": "Affairs of the Art",
+              "director": "Joanna Quinn",
+              "award": "Espiga de Oro al mejor cortometraje; Mejor cortometraje europeo",
+              "wins": [
+                "Espiga de Oro al mejor cortometraje",
+                "Mejor cortometraje europeo"
+              ]
+            },
+            {
+              "title": "Mi última aventura",
+              "director": "Ramiro Sonzini, Ezequiel Salinas",
+              "award": "Espiga de Plata al mejor cortometraje",
+              "wins": [
+                "Espiga de Plata al mejor cortometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Punto de Encuentro · cortometrajes premiados",
+          "films": [
+            {
+              "title": "Les Criminels",
+              "director": "Serhat Karaaslan",
+              "award": "Mejor cortometraje europeo de Punto de Encuentro",
+              "wins": [
+                "Mejor cortometraje europeo de Punto de Encuentro"
+              ],
+              "aliases": [
+                "Los criminales",
+                "The Criminals"
+              ]
+            },
+            {
+              "title": "Nuits sans sommeil",
+              "director": "Jérémy van der Haegan",
+              "award": "Mención especial de Punto de Encuentro",
+              "wins": [
+                "Mención especial de Punto de Encuentro"
+              ],
+              "aliases": [
+                "Noches en vela"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Cambio Climático",
+          "films": [
+            {
+              "title": "Animal",
+              "director": "Cyril Dion",
+              "award": "Espiga Verde",
+              "wins": [
+                "Espiga Verde"
+              ]
+            },
+            {
+              "title": "I’m So Sorry",
+              "director": "Zhao Liang",
+              "award": "Mención especial de la Espiga Verde",
+              "wins": [
+                "Mención especial de la Espiga Verde"
+              ],
+              "aliases": [
+                "Wu Qu Lai Chu",
+                "Lo siento mucho"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Castilla y León en Largo",
+          "films": [
+            {
+              "title": "Sedimentos",
+              "director": "Adrián Silvestre",
+              "award": "Espiga Arco Iris",
+              "wins": [
+                "Espiga Arco Iris"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Punto de Encuentro · La Noche del Corto Español",
+          "films": [
+            {
+              "title": "Las infantas",
+              "director": "Andrea H. Catalá",
+              "award": "Premio de La Noche del Corto Español",
+              "wins": [
+                "Premio de La Noche del Corto Español"
+              ],
+              "aliases": [
+                "The Infantas"
+              ]
+            },
+            {
+              "title": "Intentando",
+              "director": "Juan Manuel Montilla “El Langui”",
+              "award": "Mención especial de La Noche del Corto Español",
+              "wins": [
+                "Mención especial de La Noche del Corto Español"
+              ],
+              "aliases": [
+                "Trying"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2021,
+          "section": "Castilla y León en Corto",
+          "films": [
+            {
+              "title": "El rey de las flores",
+              "director": "Alberto Velasco",
+              "award": "Premio Castilla y León en Corto",
+              "wins": [
+                "Premio Castilla y León en Corto"
+              ]
+            },
+            {
+              "title": "Marinera de luces",
+              "director": "Pablo Quijano",
+              "award": "Mención especial · Castilla y León en Corto",
+              "wins": [
+                "Mención especial · Castilla y León en Corto"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sitges_2020_transcripcion.json": {
+      "year": 2020,
+      "editions": [
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+          "films": [
+            {
+              "title": "The Owners",
+              "director": "Julius Berg",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Peninsula",
+              "director": "Yeon Sang-ho",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Sea Fever",
+              "director": "Neasa Hardiman",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Sputnik",
+              "director": "Egor Abramenko",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "La nuée",
+              "director": "Just Philippot",
+              "award": "Premio especial del Jurado de la Sección Oficial Fantàstic; Mejor actriz de la Sección Oficial Fantàstic · Suliane Brahim",
+              "wins": [
+                "Premio especial del Jurado de la Sección Oficial Fantàstic",
+                "Mejor actriz de la Sección Oficial Fantàstic · Suliane Brahim"
+              ]
+            },
+            {
+              "title": "Cosmogonie",
+              "director": "Vincent Paronnaud",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Relic",
+              "director": "Natalie Erika James",
+              "award": "Mención especial a la dirección de la Sección Oficial Fantàstic · Natalie Erika James",
+              "wins": [
+                "Mención especial a la dirección de la Sección Oficial Fantàstic · Natalie Erika James"
+              ]
+            },
+            {
+              "title": "La vampira de Barcelona",
+              "director": "Lluís Danés",
+              "award": "Premio del público a mejor largometraje",
+              "wins": [
+                "Premio del público a mejor largometraje"
+              ]
+            },
+            {
+              "title": "Inmortal",
+              "director": "Fernando Spiner",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Possessor Uncut",
+              "director": "Brandon Cronenberg",
+              "award": "Mejor largometraje de la Sección Oficial Fantàstic; Mejor dirección de la Sección Oficial Fantàstic · Brandon Cronenberg",
+              "wins": [
+                "Mejor largometraje de la Sección Oficial Fantàstic",
+                "Mejor dirección de la Sección Oficial Fantàstic · Brandon Cronenberg"
+              ]
+            },
+            {
+              "title": "Baby",
+              "director": "Juanma Bajo Ulloa",
+              "award": "Mejor música de la Sección Oficial Fantàstic · Bingen Mendizábal; Koldo Uriarte",
+              "wins": [
+                "Mejor música de la Sección Oficial Fantàstic · Bingen Mendizábal; Koldo Uriarte"
+              ]
+            },
+            {
+              "title": "Comrade Drakulich",
+              "director": "Márk Bodzsár",
+              "award": "Mejor guion de la Sección Oficial Fantàstic · Márk Bodzsár; Juli Jakab; István Tasnádi",
+              "wins": [
+                "Mejor guion de la Sección Oficial Fantàstic · Márk Bodzsár; Juli Jakab; István Tasnádi"
+              ]
+            },
+            {
+              "title": "Post Mortem",
+              "director": "Péter Bergendy",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "L’état sauvage",
+              "director": "David Perrault",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Come True",
+              "director": "Anthony Scott Burns",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Mosquito State",
+              "director": "Filip Jan Rymsza",
+              "award": "Mejores efectos especiales de la Sección Oficial Fantàstic · Maks Naporowski; Filip Jan Rymsza; Dariush Derakhshani",
+              "wins": [
+                "Mejores efectos especiales de la Sección Oficial Fantàstic · Maks Naporowski; Filip Jan Rymsza; Dariush Derakhshani"
+              ]
+            },
+            {
+              "title": "The Dark and the Wicked",
+              "director": "Bryan Bertino",
+              "award": "Mención especial a la interpretación femenina · Marin Ireland; Mejor fotografía de la Sección Oficial Fantàstic · Tristan Nyby",
+              "wins": [
+                "Mención especial a la interpretación femenina · Marin Ireland",
+                "Mejor fotografía de la Sección Oficial Fantàstic · Tristan Nyby"
+              ]
+            },
+            {
+              "title": "Fried Barry",
+              "director": "Ryan Kruger",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Archive",
+              "director": "Gavin Rothery",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Silencing",
+              "director": "Robin Pront",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Cosmética del enemigo",
+              "director": "Kike Maíllo",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Save Yourselves!",
+              "director": "Alex Huston Fischer, Eleanor Wilson",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "She Dies Tomorrow",
+              "director": "Amy Seimetz",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Mandibules",
+              "director": "Quentin Dupieux",
+              "award": "Mejor actor de la Sección Oficial Fantàstic · Grégoire Ludig; David Marsais",
+              "wins": [
+                "Mejor actor de la Sección Oficial Fantàstic · Grégoire Ludig; David Marsais"
+              ]
+            },
+            {
+              "title": "Teddy",
+              "director": "Ludovic Boukherma, Zoran Boukherma",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Education of Fredrick Fitzell",
+              "director": "Christopher MacBride",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Book of Vision",
+              "director": "Carlo S. Hintermann",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Initiation",
+              "director": "John Berardo",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Le dernier voyage de Paul W. R.",
+              "director": "Romain Quirot",
+              "award": "Méliès d’Argent a mejor largometraje fantástico",
+              "wins": [
+                "Méliès d’Argent a mejor largometraje fantástico"
+              ]
+            },
+            {
+              "title": "Becky",
+              "director": "Jonathan Milott, Cary Murnion",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Archenemy",
+              "director": "Adam Egypt Mortimer",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Wendy",
+              "director": "Benh Zeitlin",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Kandisha",
+              "director": "Alexandre Bustillo, Julien Maury",
+              "award": "En competición",
+              "wins": []
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Panorama Fantàstic",
+          "films": [
+            {
+              "title": "Tailgate",
+              "director": "Lodewijk Crijns",
+              "award": "Mejor largometraje",
+              "wins": [
+                "Mejor largometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Focus Asia",
+          "films": [
+            {
+              "title": "The Queen of Black Magic",
+              "director": "Kimo Stamboel",
+              "award": "Mejor largometraje",
+              "wins": [
+                "Mejor largometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Noves Visions",
+          "films": [
+            {
+              "title": "My Heart Can’t Beat Unless You Tell It To",
+              "director": "Jonathan Cuartas",
+              "award": "Mejor largometraje; Premio Citizen Kane a la dirección novel · Jonathan Cuartas",
+              "wins": [
+                "Mejor largometraje",
+                "Premio Citizen Kane a la dirección novel · Jonathan Cuartas"
+              ]
+            },
+            {
+              "title": "El elemento enigmático",
+              "director": "Alejandro Fadel",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ]
+            },
+            {
+              "title": "The Returned",
+              "director": "Laura Casabé",
+              "award": "Mejor dirección · Laura Casabé",
+              "wins": [
+                "Mejor dirección · Laura Casabé"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Noves Visions Petit Format",
+          "films": [
+            {
+              "title": "Luz Distante - Capítulo 1, Les desventurades",
+              "director": "Santiago Reale",
+              "award": "Mejor cortometraje",
+              "wins": [
+                "Mejor cortometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Midnight X-Treme",
+          "films": [
+            {
+              "title": "The Queen of Black Magic",
+              "director": "Kimo Stamboel",
+              "award": "Premio del público",
+              "wins": [
+                "Premio del público"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Sitges Documenta",
+          "films": [
+            {
+              "title": "Ivan, O TerrirVel",
+              "director": "Mario Abbade",
+              "award": "Mejor largometraje documental",
+              "wins": [
+                "Mejor largometraje documental"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Blood Window",
+          "films": [
+            {
+              "title": "High Tide",
+              "director": "Verónica Chen",
+              "award": "Mejor largometraje",
+              "wins": [
+                "Mejor largometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Brigadoon",
+          "films": [
+            {
+              "title": "Horrorscope",
+              "director": "Pol Diggler",
+              "award": "Premio Paul Naschy",
+              "wins": [
+                "Premio Paul Naschy"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2020,
+          "section": "Secció Oficial Fantàstic a Competició · cortometrajes premiados",
+          "films": [
+            {
+              "title": "The Luggage",
+              "director": "Yi-fen Tsai",
+              "award": "Mejor cortometraje fantástico",
+              "wins": [
+                "Mejor cortometraje fantástico"
+              ]
+            },
+            {
+              "title": "Rutina: La Prohibición",
+              "director": "SAM",
+              "award": "Mención especial del jurado",
+              "wins": [
+                "Mención especial del jurado"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "sitges_2021_transcripcion.json": {
+      "year": 2021,
+      "editions": [
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+          "films": [
+            {
+              "title": "After Blue",
+              "director": "Bertrand Mandico",
+              "award": "Premio especial del Jurado de la Sección Oficial Fantàstic",
+              "wins": [
+                "Premio especial del Jurado de la Sección Oficial Fantàstic"
+              ]
+            },
+            {
+              "title": "Barbaque",
+              "director": "Fabrice Eboué",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Belle",
+              "director": "Mamoru Hosoda",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Censor",
+              "director": "Prano Bailey-Bond",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Cliff Walkers",
+              "director": "Zhang Yimou",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Coming Home in the Dark",
+              "director": "James Ashcroft",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Cryptozoo",
+              "director": "Dash Shaw",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Demonic",
+              "director": "Neill Blomkamp",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Eight for Silver",
+              "director": "Sean Ellis",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "El páramo",
+              "director": "David Casademunt",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Freaks Out",
+              "director": "Gabriele Mainetti",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Here Before",
+              "director": "Stacey Gregg",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "In the Earth",
+              "director": "Ben Wheatley",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Inexorable",
+              "director": "Fabrice du Welz",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Lamb",
+              "director": "Valdimar Jóhannsson",
+              "award": "Mejor largometraje de la Sección Oficial Fantàstic",
+              "wins": [
+                "Mejor largometraje de la Sección Oficial Fantàstic"
+              ]
+            },
+            {
+              "title": "Limbo",
+              "director": "Soi Cheang",
+              "award": "Mejor fotografía de la Sección Oficial Fantàstic · Cheng Siu Keung",
+              "wins": [
+                "Mejor fotografía de la Sección Oficial Fantàstic · Cheng Siu Keung"
+              ]
+            },
+            {
+              "title": "Luzifer",
+              "director": "Peter Brunner",
+              "award": "Mejor actor (ex aequo) · Franz Rogowski; Mejor actriz (ex aequo) · Susanne Jensen",
+              "wins": [
+                "Mejor actor (ex aequo) · Franz Rogowski",
+                "Mejor actriz (ex aequo) · Susanne Jensen"
+              ]
+            },
+            {
+              "title": "Mad God",
+              "director": "Phil Tippett",
+              "award": "Mejores efectos especiales de la Sección Oficial Fantàstic · Phil Tippett",
+              "wins": [
+                "Mejores efectos especiales de la Sección Oficial Fantàstic · Phil Tippett"
+              ]
+            },
+            {
+              "title": "Nitram",
+              "director": "Justin Kurzel",
+              "award": "Mejor dirección de la Sección Oficial Fantàstic · Justin Kurzel; Mejor actor (ex aequo) · Caleb Landry Jones",
+              "wins": [
+                "Mejor dirección de la Sección Oficial Fantàstic · Justin Kurzel",
+                "Mejor actor (ex aequo) · Caleb Landry Jones"
+              ]
+            },
+            {
+              "title": "Offseason",
+              "director": "Mickey Keating",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Séance",
+              "director": "Simon Barrett",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "She Will",
+              "director": "Charlotte Colbert",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Silent Night",
+              "director": "Camille Griffin",
+              "award": "Mejor guion de la Sección Oficial Fantàstic · Camille Griffin; Premio del público a mejor largometraje de la Sección Oficial Fantàstic",
+              "wins": [
+                "Mejor guion de la Sección Oficial Fantàstic · Camille Griffin",
+                "Premio del público a mejor largometraje de la Sección Oficial Fantàstic"
+              ]
+            },
+            {
+              "title": "Son",
+              "director": "Ivan Kavanagh",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Blazing World",
+              "director": "Carlson Young",
+              "award": "Mención especial a la mejor ópera prima (ex aequo)",
+              "wins": [
+                "Mención especial a la mejor ópera prima (ex aequo)"
+              ]
+            },
+            {
+              "title": "The Deep House",
+              "director": "Julien Maury, Alexandre Bustillo",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Execution",
+              "director": "Lado Kvataniya",
+              "award": "Mención especial a la mejor ópera prima (ex aequo)",
+              "wins": [
+                "Mención especial a la mejor ópera prima (ex aequo)"
+              ]
+            },
+            {
+              "title": "The Feast",
+              "director": "Lee Haven Jones",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Innocents",
+              "director": "Eskil Vogt",
+              "award": "Mención especial de la Sección Oficial Fantàstic",
+              "wins": [
+                "Mención especial de la Sección Oficial Fantàstic"
+              ]
+            },
+            {
+              "title": "The Medium",
+              "director": "Banjong Pisanthanakun",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Trip",
+              "director": "Tommy Wirkola",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Tides",
+              "director": "Tim Fehlbaum",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Tres",
+              "director": "Juanjo Giménez",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Violation",
+              "director": "Madeleine Sims-Fewer, Dusty Mancinelli",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Visitante",
+              "director": "Alberto Evangelio",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "We Need to Do Something",
+              "director": "Sean King O’Grady",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Where Is Anne Frank",
+              "director": "Ari Folman",
+              "award": "En competición",
+              "wins": []
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Noves Visions",
+          "films": [
+            {
+              "title": "The Attachment Diaries",
+              "director": "Valentín Javier Diment",
+              "award": "Mejor largometraje",
+              "wins": [
+                "Mejor largometraje"
+              ]
+            },
+            {
+              "title": "2551.01",
+              "director": "Norbert Pfaffenbichler",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ]
+            },
+            {
+              "title": "Medusa",
+              "director": "Anita Rocha da Silveira",
+              "award": "Mejor dirección",
+              "wins": [
+                "Mejor dirección"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Noves Visions Petit Format",
+          "films": [
+            {
+              "title": "Brutalia, Days of Labor",
+              "director": "Manolis Mavris",
+              "award": "Mejor cortometraje",
+              "wins": [
+                "Mejor cortometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Sitges Documenta",
+          "films": [
+            {
+              "title": "Inferno Rosso: Joe D’Amato on the Road of Excess",
+              "director": "Manlio Gomarasca, Massimiliano Zanin",
+              "award": "Mejor película",
+              "wins": [
+                "Mejor película"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Blood Window",
+          "films": [
+            {
+              "title": "The Pink Cloud",
+              "director": "Iuli Gerbase",
+              "award": "Premio Blood Window",
+              "wins": [
+                "Premio Blood Window"
+              ],
+              "aliases": [
+                "A nuvem rosa"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Brigadoon",
+          "films": [
+            {
+              "title": "Unheimlich",
+              "director": "Fabio Colonna",
+              "award": "Premio Paul Naschy",
+              "wins": [
+                "Premio Paul Naschy"
+              ]
+            },
+            {
+              "title": "Viewers : 1",
+              "director": "Daigo Hariya, Yosuke Kobayashi",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Secció Oficial Fantàstic · cortometrajes premiados",
+          "films": [
+            {
+              "title": "Los huesos",
+              "director": "Cristóbal León, Joaquín Cociña",
+              "award": "Premio de la Crítica al mejor cortometraje de la Sección Oficial; Mejor cortometraje de la Sección Oficial",
+              "wins": [
+                "Premio de la Crítica al mejor cortometraje de la Sección Oficial",
+                "Mejor cortometraje de la Sección Oficial"
+              ],
+              "aliases": [
+                "The Bones"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Panorama Fantàstic",
+          "films": [
+            {
+              "title": "Jacinto",
+              "director": "Javi Camino",
+              "award": "Mejor largometraje de Panorama Fantàstic",
+              "wins": [
+                "Mejor largometraje de Panorama Fantàstic"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Midnight X-Treme",
+          "films": [
+            {
+              "title": "The Great Yokai War",
+              "director": "Takashi Miike",
+              "award": "Mejor largometraje de Midnight X-Treme",
+              "wins": [
+                "Mejor largometraje de Midnight X-Treme"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Sitges",
+          "year": 2021,
+          "section": "Focus Àsia",
+          "films": [
+            {
+              "title": "Beyond the Infinite Two Minutes",
+              "director": "Junta Yamaguchi",
+              "award": "Mejor largometraje de Focus Àsia",
+              "wins": [
+                "Mejor largometraje de Focus Àsia"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "cesar_2020_transcripcion.json": {
+      "year": 2020,
+      "editions": [
+        {
+          "festival": "Premios César",
+          "year": 2020,
+          "section": "Categorías competitivas cinematográficas",
+          "films": [
+            {
+              "title": "68, mon père et les clous",
+              "director": "Samuel Bigiaoui",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Samuel Bigiaoui"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Adults in the Room",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor adaptación · Costa-Gavras"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Alice et le maire",
+              "director": null,
+              "award": "Mejor actriz · Anaïs Demoustier",
+              "nominations": [
+                "Mejor actriz · Anaïs Demoustier"
+              ],
+              "wins": [
+                "Mejor actriz · Anaïs Demoustier"
+              ]
+            },
+            {
+              "title": "Atlantique",
+              "director": "Mati Diop",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz revelación · Mama Sané",
+                "Mejor música original · Fatima Al Qadiri",
+                "Mejor ópera prima · Mati Diop"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Au nom de la terre",
+              "director": "Édouard Bergeon",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor revelación · Anthony Bajon",
+                "Mejor ópera prima · Édouard Bergeon",
+                "César del público · Édouard Bergeon"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Beautiful Loser",
+              "director": "Maxime Roy",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Maxime Roy"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Camille",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz revelación · Nina Meurisse"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Ce magnifique gâteau !",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Emma De Swaef, Marc James Roels"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Chambre 212",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz · Chiara Mastroianni"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Chanson douce",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz · Karin Viard"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Chien bleu",
+              "director": "Fanny Liatard, Jérémy Trouilh",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Fanny Liatard, Jérémy Trouilh"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Douleur et gloire",
+              "director": "Pedro Almodóvar",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Pedro Almodóvar"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Edmond",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor vestuario · Thierry Delettre",
+                "Mejor diseño de producción · Franck Schwarz"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Grâce à Dieu",
+              "director": "François Ozon",
+              "award": "Mejor actor de reparto · Swann Arlaud",
+              "nominations": [
+                "Mejor actor · Melvil Poupaud",
+                "Mejor actriz de reparto · Josiane Balasko",
+                "Mejor actor de reparto · Swann Arlaud",
+                "Mejor actor de reparto · Denis Ménochet",
+                "Mejor guion original · François Ozon",
+                "Mejor montaje · Laure Gardette",
+                "Mejor dirección · François Ozon",
+                "Mejor película · François Ozon"
+              ],
+              "wins": [
+                "Mejor actor de reparto · Swann Arlaud"
+              ]
+            },
+            {
+              "title": "Hors normes",
+              "director": "Éric Toledano, Olivier Nakache",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor · Vincent Cassel",
+                "Mejor actor · Reda Kateb",
+                "Mejor actriz de reparto · Hélène Vincent",
+                "Mejor actor revelación · Benjamin Lesieur",
+                "Mejor guion original · Éric Toledano, Olivier Nakache",
+                "Mejor montaje · Dorian Rigal-Ansous",
+                "Mejor dirección · Éric Toledano, Olivier Nakache",
+                "Mejor película · Éric Toledano, Olivier Nakache",
+                "César del público · Éric Toledano, Olivier Nakache"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Je sors acheter des cigarettes",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Osman Cerfon"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Jeanne",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor vestuario · Alexandra Charles"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Joker",
+              "director": "Todd Phillips",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Todd Phillips"
+              ],
+              "wins": []
+            },
+            {
+              "title": "J’Accuse",
+              "director": "Roman Polanski",
+              "award": "Mejor adaptación · Roman Polanski, Robert Harris; Mejor vestuario · Pascaline Chavanne; Mejor dirección · Roman Polanski",
+              "nominations": [
+                "Mejor actor · Jean Dujardin",
+                "Mejor actor de reparto · Grégory Gadebois",
+                "Mejor actor de reparto · Louis Garrel",
+                "Mejor adaptación · Roman Polanski, Robert Harris",
+                "Mejor música original · Alexandre Desplat",
+                "Mejor sonido · Lucien Balibar, Aymeric Devoldère, Cyril Holtz, Niels Barletta",
+                "Mejor fotografía · Pawel Edelman",
+                "Mejor montaje · Hervé de Luze",
+                "Mejor vestuario · Pascaline Chavanne",
+                "Mejor diseño de producción · Jean Rabasse",
+                "Mejor dirección · Roman Polanski",
+                "Mejor película · Roman Polanski"
+              ],
+              "wins": [
+                "Mejor adaptación · Roman Polanski, Robert Harris",
+                "Mejor vestuario · Pascaline Chavanne",
+                "Mejor dirección · Roman Polanski"
+              ]
+            },
+            {
+              "title": "J’ai perdu mon corps",
+              "director": null,
+              "award": "Mejor música original · Dan Lévy; Mejor película de animación · largometraje · Jérémy Clapin; Marc du Pontavice",
+              "nominations": [
+                "Mejor adaptación · Jérémy Clapin, Guillaume Laurant",
+                "Mejor música original · Dan Lévy",
+                "Mejor película de animación · largometraje · Jérémy Clapin"
+              ],
+              "wins": [
+                "Mejor música original · Dan Lévy",
+                "Mejor película de animación · largometraje · Jérémy Clapin; Marc du Pontavice"
+              ]
+            },
+            {
+              "title": "La Belle Époque",
+              "director": "Nicolas Bedos",
+              "award": "Mejor actriz de reparto · Fanny Ardant; Mejor guion original · Nicolas Bedos; Mejor diseño de producción · Stéphane Rozenbaum",
+              "nominations": [
+                "Mejor actriz · Doria Tillier",
+                "Mejor actor · Daniel Auteuil",
+                "Mejor actriz de reparto · Fanny Ardant",
+                "Mejor guion original · Nicolas Bedos",
+                "Mejor sonido · Rémi Daru, Séverin Favriau, Jean-Paul Hurier",
+                "Mejor fotografía · Nicolas Bolduc",
+                "Mejor montaje · Anny Danché, Florent Vassault",
+                "Mejor vestuario · Emmanuelle Youchnovski",
+                "Mejor diseño de producción · Stéphane Rozenbaum",
+                "Mejor dirección · Nicolas Bedos",
+                "Mejor película · Nicolas Bedos"
+              ],
+              "wins": [
+                "Mejor actriz de reparto · Fanny Ardant",
+                "Mejor guion original · Nicolas Bedos",
+                "Mejor diseño de producción · Stéphane Rozenbaum"
+              ]
+            },
+            {
+              "title": "La Cordillère des songes",
+              "director": "Patricio Guzmán",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Patricio Guzmán"
+              ],
+              "wins": []
+            },
+            {
+              "title": "La Nuit des sacs plastiques",
+              "director": null,
+              "award": "Mejor película de animación · cortometraje · Gabriel Harel; Amaury Ovise",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Gabriel Harel"
+              ],
+              "wins": [
+                "Mejor película de animación · cortometraje · Gabriel Harel; Amaury Ovise"
+              ]
+            },
+            {
+              "title": "La Vie scolaire",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor revelación · Liam Pierron"
+              ],
+              "wins": []
+            },
+            {
+              "title": "La fameuse invasion des ours en Sicile",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · largometraje · Lorenzo Mattotti"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Le Chant du loup",
+              "director": "Antonin Baudry",
+              "award": "Mejor sonido · Nicolas Cantin, Thomas Desjonquères, Raphaël Mouterde, Olivier Goinard, Randy Thom",
+              "nominations": [
+                "Mejor sonido · Nicolas Cantin, Thomas Desjonquères, Raphaël Mouterde, Olivier Goinard, Randy Thom",
+                "Mejor diseño de producción · Benoît Barouh",
+                "Mejor ópera prima · Antonin Baudry"
+              ],
+              "wins": [
+                "Mejor sonido · Nicolas Cantin, Thomas Desjonquères, Raphaël Mouterde, Olivier Goinard, Randy Thom"
+              ]
+            },
+            {
+              "title": "Le Chant d’Ahmed",
+              "director": "Foued Mansour",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Foued Mansour"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Le Jeune Ahmed",
+              "director": "Jean-Pierre Dardenne, Luc Dardenne",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Jean-Pierre Dardenne, Luc Dardenne"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Le Traître",
+              "director": "Marco Bellocchio",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Marco Bellocchio"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Les Misérables",
+              "director": "Ladj Ly",
+              "award": "Mejor actor revelación · Alexis Manenti; Mejor montaje · Flora Volpelière; Mejor película · Ladj Ly; Toufik Ayadi, Christophe Barral; César del público · Ladj Ly; Toufik Ayadi, Christophe Barral",
+              "nominations": [
+                "Mejor actor · Damien Bonnard",
+                "Mejor actor revelación · Alexis Manenti",
+                "Mejor actor revelación · Djibril Zonga",
+                "Mejor guion original · Ladj Ly, Giordano Gederlini, Alexis Manenti",
+                "Mejor música original · Marco Casanova, Kim Chapiron (Pink Noise)",
+                "Mejor sonido · Arnaud Lavaleix, Jérôme Gonthier, Marco Casanova",
+                "Mejor fotografía · Julien Poupard",
+                "Mejor montaje · Flora Volpelière",
+                "Mejor dirección · Ladj Ly",
+                "Mejor ópera prima · Ladj Ly",
+                "Mejor película · Ladj Ly",
+                "César del público · Ladj Ly"
+              ],
+              "wins": [
+                "Mejor actor revelación · Alexis Manenti",
+                "Mejor montaje · Flora Volpelière",
+                "Mejor película · Ladj Ly; Toufik Ayadi, Christophe Barral",
+                "César del público · Ladj Ly; Toufik Ayadi, Christophe Barral"
+              ]
+            },
+            {
+              "title": "Les hirondelles de Kaboul",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · largometraje · Zabou Breitman, Éléa Gobbé-Mévellec"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Les Éblouis",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz revelación · Céleste Brunnquell"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Lola vers la mer",
+              "director": "Laurent Micheli",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Laurent Micheli"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Lourdes",
+              "director": "Thierry Demaizière, Alban Teurlai",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Thierry Demaizière, Alban Teurlai"
+              ],
+              "wins": []
+            },
+            {
+              "title": "M",
+              "director": "Yolande Zauberman",
+              "award": "Mejor documental · Yolande Zauberman; Charles Gillibert, Yolande Zauberman, Fabrice Bigio",
+              "nominations": [
+                "Mejor documental · Yolande Zauberman"
+              ],
+              "wins": [
+                "Mejor documental · Yolande Zauberman; Charles Gillibert, Yolande Zauberman, Fabrice Bigio"
+              ]
+            },
+            {
+              "title": "Make It Soul",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película de animación · cortometraje · Jean-Charles Mbotti Malolo"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Mon inconnue",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actor de reparto · Benjamin Lavernhe"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Nefta Football Club",
+              "director": "Yves Piat",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor cortometraje · Yves Piat"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Nous finirons ensemble",
+              "director": "Guillaume Canet",
+              "award": "Candidatura",
+              "nominations": [
+                "César del público · Guillaume Canet"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Once Upon a Time... in Hollywood",
+              "director": "Quentin Tarantino",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor película extranjera · Quentin Tarantino"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Papicha",
+              "director": "Mounia Meddour",
+              "award": "Mejor actriz revelación · Lyna Khoudri; Mejor ópera prima · Mounia Meddour; Patrick André, Xavier Gens, Grégoire Gensollen",
+              "nominations": [
+                "Mejor actriz revelación · Lyna Khoudri",
+                "Mejor ópera prima · Mounia Meddour"
+              ],
+              "wins": [
+                "Mejor actriz revelación · Lyna Khoudri",
+                "Mejor ópera prima · Mounia Meddour; Patrick André, Xavier Gens, Grégoire Gensollen"
+              ]
+            },
+            {
+              "title": "Parasite",
+              "director": "Bong Joon-ho",
+              "award": "Mejor película extranjera · Bong Joon-ho",
+              "nominations": [
+                "Mejor película extranjera · Bong Joon-ho"
+              ],
+              "wins": [
+                "Mejor película extranjera · Bong Joon-ho"
+              ]
+            },
+            {
+              "title": "Pile poil",
+              "director": "Lauriane Escaffre, Yvonnick Muller",
+              "award": "Mejor cortometraje · Lauriane Escaffre, Yvonnick Muller; Emmanuel Wahl, Adrien Bretet",
+              "nominations": [
+                "Mejor cortometraje · Lauriane Escaffre, Yvonnick Muller"
+              ],
+              "wins": [
+                "Mejor cortometraje · Lauriane Escaffre, Yvonnick Muller; Emmanuel Wahl, Adrien Bretet"
+              ]
+            },
+            {
+              "title": "Portrait de la jeune fille en feu",
+              "director": "Céline Sciamma",
+              "award": "Mejor fotografía · Claire Mathon",
+              "nominations": [
+                "Mejor actriz · Adèle Haenel",
+                "Mejor actriz · Noémie Merlant",
+                "Mejor actriz revelación · Luàna Bajrami",
+                "Mejor guion original · Céline Sciamma",
+                "Mejor sonido · Julien Sicart, Valérie De Loof, Daniel Sobrino",
+                "Mejor fotografía · Claire Mathon",
+                "Mejor vestuario · Dorothée Guiraud",
+                "Mejor diseño de producción · Thomas Grézaud",
+                "Mejor dirección · Céline Sciamma",
+                "Mejor película · Céline Sciamma"
+              ],
+              "wins": [
+                "Mejor fotografía · Claire Mathon"
+              ]
+            },
+            {
+              "title": "Proxima",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz · Eva Green"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Qu’est-ce qu’on a encore fait au Bon Dieu ?",
+              "director": "Philippe de Chauveron",
+              "award": "Candidatura",
+              "nominations": [
+                "César del público · Philippe de Chauveron"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Roubaix, une lumière",
+              "director": "Arnaud Desplechin",
+              "award": "Mejor actor · Roschdy Zem",
+              "nominations": [
+                "Mejor actor · Roschdy Zem",
+                "Mejor actriz de reparto · Sara Forestier",
+                "Mejor adaptación · Arnaud Desplechin, Léa Mysius",
+                "Mejor música original · Grégoire Hetzel",
+                "Mejor fotografía · Irina Lubtchansky",
+                "Mejor dirección · Arnaud Desplechin",
+                "Mejor película · Arnaud Desplechin"
+              ],
+              "wins": [
+                "Mejor actor · Roschdy Zem"
+              ]
+            },
+            {
+              "title": "Seules les bêtes",
+              "director": null,
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor actriz de reparto · Laure Calamy",
+                "Mejor adaptación · Dominik Moll, Gilles Marchand"
+              ],
+              "wins": []
+            },
+            {
+              "title": "Wonder Boy Olivier Rousteing, né sous X",
+              "director": "Anissa Bonnefont",
+              "award": "Candidatura",
+              "nominations": [
+                "Mejor documental · Anissa Bonnefont"
+              ],
+              "wins": []
+            }
+          ]
+        }
+      ],
+      "control_categorias": [
+        {
+          "category": "Mejor actriz",
+          "nominations": 7,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actor",
+          "nominations": 7,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actriz de reparto",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actor de reparto",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actriz revelación",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor actor revelación",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor guion original",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor adaptación",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor música original",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor sonido",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor fotografía",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor montaje",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor vestuario",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor diseño de producción",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor dirección",
+          "nominations": 7,
+          "winners": 1
+        },
+        {
+          "category": "Mejor cortometraje",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película de animación · cortometraje",
+          "nominations": 4,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película de animación · largometraje",
+          "nominations": 3,
+          "winners": 1
+        },
+        {
+          "category": "Mejor documental",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor ópera prima",
+          "nominations": 5,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película extranjera",
+          "nominations": 7,
+          "winners": 1
+        },
+        {
+          "category": "Mejor película",
+          "nominations": 7,
+          "winners": 1
+        },
+        {
+          "category": "César del público",
+          "nominations": 5,
+          "winners": 1
+        }
+      ],
+      "honorificos_file": "cesar_honorificos_2020.json",
+      "sources": [
+        "https://www.academie-cinema.org/wp-content/uploads/2020/02/liste-officielle-nominations-cesar-2020.pdf",
+        "https://www.academie-cinema.org/evenements/ceremonie-des-cesar-2020/"
+      ]
+    },
+    "seminci_2020_transcripcion.json": {
+      "year": 2020,
+      "editions": [
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Sección Oficial · largometrajes en competición",
+          "films": [
+            {
+              "title": "There Is No Evil",
+              "director": "Mohammad Rasoulof",
+              "award": "Mención especial del Jurado; Premio Blogos de Oro",
+              "wins": [
+                "Mención especial del Jurado",
+                "Premio Blogos de Oro"
+              ]
+            },
+            {
+              "title": "Here We Are",
+              "director": "Nir Bergman",
+              "award": "Mejor actor · Shai Avivi",
+              "wins": [
+                "Mejor actor · Shai Avivi"
+              ]
+            },
+            {
+              "title": "The Disciple",
+              "director": "Chaitanya Tamhane",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Wasteland",
+              "director": "Ahmad Bahrami",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "The Cloud in Her Room",
+              "director": "Zheng Lu Xinyuan",
+              "award": "Mejor fotografía · Matthias Delvaux",
+              "wins": [
+                "Mejor fotografía · Matthias Delvaux"
+              ]
+            },
+            {
+              "title": "Servants",
+              "director": "Ivan Ostrochovský",
+              "award": "Mejor dirección ex aequo · Ivan Ostrochovský",
+              "wins": [
+                "Mejor dirección ex aequo · Ivan Ostrochovský"
+              ]
+            },
+            {
+              "title": "Gaza mon amour",
+              "director": "Arab Nasser, Tarzan Nasser",
+              "award": "Espiga de Plata; Mejor guion · Arab Nasser; Tarzan Nasser; Fadette Drouard",
+              "wins": [
+                "Espiga de Plata",
+                "Mejor guion · Arab Nasser; Tarzan Nasser; Fadette Drouard"
+              ]
+            },
+            {
+              "title": "Preparations to Be Together for an Unknown Period of Time",
+              "director": "Lili Horvát",
+              "award": "Espiga de Oro · Lili Horvát; Premio Pilar Miró a la mejor dirección novel · Lili Horvát; Mejor actriz · Natasa Stork",
+              "wins": [
+                "Espiga de Oro · Lili Horvát",
+                "Premio Pilar Miró a la mejor dirección novel · Lili Horvát",
+                "Mejor actriz · Natasa Stork"
+              ]
+            },
+            {
+              "title": "Sweet Thing",
+              "director": "Alexandre Rockwell",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Josep",
+              "director": "Aurel",
+              "award": "Mejor dirección ex aequo · Aurel",
+              "wins": [
+                "Mejor dirección ex aequo · Aurel"
+              ]
+            },
+            {
+              "title": "Nowhere Special",
+              "director": "Uberto Pasolini",
+              "award": "Premio del Público de Sección Oficial",
+              "wins": [
+                "Premio del Público de Sección Oficial"
+              ]
+            },
+            {
+              "title": "Minari",
+              "director": "Lee Isaac Chung",
+              "award": "En competición",
+              "wins": []
+            },
+            {
+              "title": "Persian Lessons",
+              "director": "Vadim Perelman",
+              "award": "Mejor montaje · Vessela Martschewski",
+              "wins": [
+                "Mejor montaje · Vessela Martschewski"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Punto de Encuentro · largometrajes",
+          "films": [
+            {
+              "title": "180º Rule",
+              "director": "Farnoosh Samadi",
+              "award": "Mejor largometraje",
+              "wins": [
+                "Mejor largometraje"
+              ]
+            },
+            {
+              "title": "This Is My Desire",
+              "director": "Arie Esiri, Chuko Esiri",
+              "award": "Premio del público (ex aequo)",
+              "wins": [
+                "Premio del público (ex aequo)"
+              ]
+            },
+            {
+              "title": "The Best Is Yet to Come",
+              "director": "Jing Wang",
+              "award": "Premio del público (ex aequo)",
+              "wins": [
+                "Premio del público (ex aequo)"
+              ],
+              "aliases": [
+                "The Best Is Yet to Come (official Seminci page spelling)"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Punto de Encuentro · cortometrajes",
+          "films": [
+            {
+              "title": "Omelia contadina",
+              "director": "JR, Alice Rohrwacher",
+              "award": "Mejor cortometraje extranjero",
+              "wins": [
+                "Mejor cortometraje extranjero"
+              ]
+            },
+            {
+              "title": "Stanbrook",
+              "director": "Óscar Bernàcer",
+              "award": "Noche del Corto Español",
+              "wins": [
+                "Noche del Corto Español"
+              ]
+            },
+            {
+              "title": "The Night Train",
+              "director": "Jerry Carlsson",
+              "award": "Espiga Arco Iris",
+              "wins": [
+                "Espiga Arco Iris"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Tiempo de Historia",
+          "films": [
+            {
+              "title": "Radio Silence",
+              "director": "Juliana Fanjul",
+              "award": "Primer premio",
+              "wins": [
+                "Primer premio"
+              ]
+            },
+            {
+              "title": "The Reason I Jump",
+              "director": "Jerry Rothwell",
+              "award": "Segundo premio",
+              "wins": [
+                "Segundo premio"
+              ]
+            },
+            {
+              "title": "Caperucita Roja",
+              "director": "Tatiana Mazú",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ]
+            },
+            {
+              "title": "57 días",
+              "director": "Mario Lumbreras, Laura Brasero",
+              "award": "Premio al cortometraje",
+              "wins": [
+                "Premio al cortometraje"
+              ]
+            },
+            {
+              "title": "Huntsville Station",
+              "director": "Jamie Meltzer, Chris Filippone",
+              "award": "Mención especial al cortometraje",
+              "wins": [
+                "Mención especial al cortometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "DOC España",
+          "films": [
+            {
+              "title": "Tierra de leche y miel",
+              "director": "Héctor Domínguez-Viguera, Gonzalo Recio, Carlos Mora",
+              "award": "Premio DOC España",
+              "wins": [
+                "Premio DOC España"
+              ]
+            },
+            {
+              "title": "El niño de fuego",
+              "director": "Ignacio Acconcia",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Castilla y León en Corto",
+          "films": [
+            {
+              "title": "De perfil",
+              "director": "Alejandro Renedo",
+              "award": "Premio",
+              "wins": [
+                "Premio"
+              ]
+            },
+            {
+              "title": "Reflejo",
+              "director": "Juan Carlos Mostaza",
+              "award": "Mención especial",
+              "wins": [
+                "Mención especial"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Sección Oficial · cortometrajes premiados",
+          "films": [
+            {
+              "title": "El mártir",
+              "director": "Fernando Pomares",
+              "award": "Espiga de Oro al mejor cortometraje; Premio al mejor cortometraje europeo",
+              "wins": [
+                "Espiga de Oro al mejor cortometraje",
+                "Premio al mejor cortometraje europeo"
+              ]
+            },
+            {
+              "title": "Moi, Barnabé",
+              "director": "Jean-François Lévesque",
+              "award": "Espiga de Plata al mejor cortometraje",
+              "wins": [
+                "Espiga de Plata al mejor cortometraje"
+              ]
+            }
+          ]
+        },
+        {
+          "festival": "Seminci",
+          "year": 2020,
+          "section": "Cambio Climático",
+          "films": [
+            {
+              "title": "Éxodo climático",
+              "director": "David Baute",
+              "award": "Espiga Verde",
+              "wins": [
+                "Espiga Verde"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "sections": [
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "films": 33,
+      "owned": 21,
+      "nominations": 0,
+      "wins": 13
+    },
+    {
+      "festival": "Sitges",
+      "section": "Panorama Fantàstic",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions",
+      "films": 3,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 4
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions Petit Format",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Midnight X-Treme",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Sitges",
+      "section": "Sitges Documenta",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Blood Window",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Brigadoon",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · cortometrajes premiados",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Sitges",
+      "section": "Películas premiadas · sección pendiente de confirmar",
+      "films": 3,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "films": 13,
+      "owned": 6,
+      "nominations": 0,
+      "wins": 13
+    },
+    {
+      "festival": "Seminci",
+      "section": "Punto de Encuentro · largometrajes",
+      "films": 3,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Seminci",
+      "section": "Punto de Encuentro · cortometrajes",
+      "films": 3,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Seminci",
+      "section": "Tiempo de Historia",
+      "films": 5,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 5
+    },
+    {
+      "festival": "Seminci",
+      "section": "DOC España",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Seminci",
+      "section": "Castilla y León en Corto",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Seminci",
+      "section": "Cambio Climático",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "films": 47,
+      "owned": 28,
+      "nominations": 117,
+      "wins": 22
+    },
+    {
+      "festival": "César",
+      "section": "César du public · premio del público",
+      "films": 5,
+      "owned": 3,
+      "nominations": 5,
+      "wins": 1
+    }
+  ],
+  "masterEvidence": [
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "The Owners (Los propietarios)",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 136,
+      "director": "Julius Berg",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/300"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Península",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 777,
+      "director": "Yeon Sang-ho",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/146"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Contagio en alta mar",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 258,
+      "director": "Neasa Hardiman",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/634"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Sputnik",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 117,
+      "director": "Egor Abramenko",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/256"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "La nube",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 169,
+      "director": "Just Philippot",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/371"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Relic",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 81,
+      "director": "Natalie Erika James",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/176"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "La vampira de Barcelona",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 203,
+      "director": "Lluís Danés",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/444"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Baby",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 788,
+      "director": "Juanma Bajo Ulloa",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/472"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Post Mortem: Fotos del Más Allá (Después de la muerte)",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 713,
+      "director": "Bergendy Péter",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1705"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Come True (Se hacen realidad)",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 139,
+      "director": "Anthony Scott Burns",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/308"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "The Dark and the Wicked",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 175,
+      "director": "Bryan Bertino",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/383"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Archive",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 162,
+      "director": "Gavin Rothery",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/357"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "The Silencing",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 135,
+      "director": "Robin Pront",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/298"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Cosmética del enemigo",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 134,
+      "director": "Kike Maíllo",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/296"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "¡Desconectados!",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 291,
+      "director": "Alex Huston Fischer, Eleanor Wilson",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/651"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "She Dies Tomorrow",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 220,
+      "director": "Amy Seimetz",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/485"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Mandíbulas",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 115,
+      "director": "Quentin Dupieux",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/252"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Teddy",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 860,
+      "director": "Ludovic Boukherma, Zoran Boukherma",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1570"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Becky",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 780,
+      "director": "Jonathan Milott, Cary Murnion",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/260"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Archenemy",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 418,
+      "director": "Adam Egypt Mortimer",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/970"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició · largometrajes y mediometrajes",
+      "title": "Wendy",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 375,
+      "director": "Benh Zeitlin",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/859"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions",
+      "title": "Mi corazón no late si no se lo dices",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 370,
+      "director": "Jonathan Cuartas",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/849"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "title": "La vida de los demás",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 251,
+      "director": "Mohammad Rasoulof",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/555"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "title": "El discípulo",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 541,
+      "director": "Chaitanya Tamhane",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1264"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "title": "The Cloud in Her Room",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 704,
+      "director": "Zheng Lu Xinyuan",
+      "year": 2021,
+      "telegram": "https://t.me/c/2373241601/1683"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "title": "Josep",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 144,
+      "director": "Aurel",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/318"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "title": "Cerca de ti",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 171,
+      "director": "Uberto Pasolini",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/375"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Sección Oficial · largometrajes en competición",
+      "title": "Minari - Historia de mi familia",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 29,
+      "director": "Lee Isaac Chung",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/63"
+    },
+    {
+      "festival": "Seminci",
+      "section": "Tiempo de Historia",
+      "title": "The Reason I Jump",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 588,
+      "director": "Jerry Rothwell",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1376"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Comportarse como adultos",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 316,
+      "director": "Costa Gavras",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/769"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Los consejos de Alice",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 444,
+      "director": "Nicolas Pariser",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1082"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Atlantique",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 318,
+      "director": "Mati Diop",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/773"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Chambre 212",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 486,
+      "director": "Christophe Honoré",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1193"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "El misterio de la nana",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 786,
+      "director": "Lucie Borleteau",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1983"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Cartas a Roxane",
+      "masterFile": "Catalogo_Telegram_2018.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 28,
+      "director": "Alexis Michalik",
+      "year": 2018,
+      "telegram": "https://t.me/c/1900915908/72"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Gracias a Dios",
+      "masterFile": "Catalogo_Telegram_2018.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 46,
+      "director": "François Ozon",
+      "year": 2018,
+      "telegram": "https://t.me/c/1900915908/110"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Salgo a comprar tabaco",
+      "masterFile": "Catalogo_Telegram_2018.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 713,
+      "director": "Osman Cerfon",
+      "year": 2018,
+      "telegram": "https://t.me/c/1900915908/1711"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Jeannette, la infancia de Juana de Arco",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 606,
+      "director": "Bruno Dumont",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1525"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Joker",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 38,
+      "director": "Todd Phillips",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/123"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "El oficial y el espía",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 32,
+      "director": "Roman Polanski",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/109"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "¿Dónde está mi cuerpo?",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 19,
+      "director": "Jérémy Clapin",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/82"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "La Belle Époque",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 85,
+      "director": "Nicolas Bedos",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/238"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Los profesores de Saint-Denis",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 362,
+      "director": "Mehdi Idir, Grand Corps Malade",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/876"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "La famosa invasión de los osos en Sicilia",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 433,
+      "director": "Lorenzo Mattotti",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1052"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "El canto del lobo",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 209,
+      "director": "Antonin Baudry",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/529"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "El joven Ahmed",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 293,
+      "director": "Jean-Pierre Dardenne, Luc Dardenne",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/712"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Los miserables",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 20,
+      "director": "Ladj Ly",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/84"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Las golondrinas de Kabul",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 87,
+      "director": "Zabou Breitman, Eléa Gobbé-Mévellec",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/244"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Lola",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 718,
+      "director": "Laurent Micheli",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1820"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Amor a segunda vista",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 417,
+      "director": "Hugo Gélin",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1013"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Érase una vez en… Hollywood",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 39,
+      "director": "Quentin Tarantino",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/125"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Papicha, sueños de libertad",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 91,
+      "director": "Mounia Meddour",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/252"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Parásitos",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 40,
+      "director": "Bong Joon-ho",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/127"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Retrato de una mujer en llamas",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 48,
+      "director": "Céline Sciamma",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/145"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Próxima",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 276,
+      "director": "Alice Winocour",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/674"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Roubaix, une lumière",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 744,
+      "director": "Arnaud Desplechin",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/1883"
+    },
+    {
+      "festival": "César",
+      "section": "45.ª edición · películas de 2019",
+      "title": "Solo las bestias",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 76,
+      "director": "Dominik Moll",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/215"
+    },
+    {
+      "festival": "César",
+      "section": "César du public · premio del público",
+      "title": "Los miserables",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 20,
+      "director": "Ladj Ly",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/84"
+    },
+    {
+      "festival": "César",
+      "section": "César du public · premio del público",
+      "title": "Pequeñas mentiras para estar juntos",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 278,
+      "director": "Guillaume Canet",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/678"
+    },
+    {
+      "festival": "César",
+      "section": "César du public · premio del público",
+      "title": "Dios mío, ¿pero qué te hemos hecho… ahora?",
+      "masterFile": "Catalogo_Telegram_2019.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 237,
+      "director": "Philippe de Chauveron",
+      "year": 2019,
+      "telegram": "https://t.me/c/2110722714/591"
+    }
+  ],
+  "notLocated": [
+    {
+      "festival": "Sitges",
+      "title": "Cosmogonie",
+      "director": "Vincent Paronnaud"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Inmortal",
+      "director": "Fernando Spiner"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Possessor Uncut",
+      "director": "Brandon Cronenberg"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Comrade Drakulich",
+      "director": "Márk Bodzsár"
+    },
+    {
+      "festival": "Sitges",
+      "title": "L’état sauvage",
+      "director": "David Perrault"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Mosquito State",
+      "director": "Filip Jan Rymsza"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Fried Barry",
+      "director": "Ryan Kruger"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Education of Fredrick Fitzell",
+      "director": "Christopher MacBride"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Book of Vision",
+      "director": "Carlo S. Hintermann"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Initiation",
+      "director": "John Berardo"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Le dernier voyage de Paul W. R.",
+      "director": "Romain Quirot"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Kandisha",
+      "director": "Alexandre Bustillo, Julien Maury"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Tailgate",
+      "director": "Lodewijk Crijns"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Queen of Black Magic",
+      "director": "Kimo Stamboel"
+    },
+    {
+      "festival": "Sitges",
+      "title": "El elemento enigmático",
+      "director": "Alejandro Fadel"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Returned",
+      "director": "Laura Casabé"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Luz Distante - Capítulo 1, Les desventurades",
+      "director": "Santiago Reale"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Queen of Black Magic",
+      "director": "Kimo Stamboel"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Ivan, O TerrirVel",
+      "director": "Mario Abbade"
+    },
+    {
+      "festival": "Sitges",
+      "title": "High Tide",
+      "director": "Verónica Chen"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Horrorscope",
+      "director": "Pol Diggler"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Luggage",
+      "director": "Yi-fen Tsai"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Rutina: La Prohibición",
+      "director": "SAM"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Dar-Dar",
+      "director": "Paul Urkijo"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Seven Days War",
+      "director": "Yuta Murano"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Red Rover",
+      "director": "Astrid Goldsmith"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Here We Are",
+      "director": "Nir Bergman"
+    },
+    {
+      "festival": "Seminci",
+      "title": "The Wasteland",
+      "director": "Ahmad Bahrami"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Servants",
+      "director": "Ivan Ostrochovský"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Gaza mon amour",
+      "director": "Arab Nasser, Tarzan Nasser"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Preparations to Be Together for an Unknown Period of Time",
+      "director": "Lili Horvát"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Sweet Thing",
+      "director": "Alexandre Rockwell"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Persian Lessons",
+      "director": "Vadim Perelman"
+    },
+    {
+      "festival": "Seminci",
+      "title": "180º Rule",
+      "director": "Farnoosh Samadi"
+    },
+    {
+      "festival": "Seminci",
+      "title": "This Is My Desire",
+      "director": "Arie Esiri, Chuko Esiri"
+    },
+    {
+      "festival": "Seminci",
+      "title": "The Best Is Yet to Come",
+      "director": "Jing Wang"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Omelia contadina",
+      "director": "JR, Alice Rohrwacher"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Stanbrook",
+      "director": "Óscar Bernàcer"
+    },
+    {
+      "festival": "Seminci",
+      "title": "The Night Train",
+      "director": "Jerry Carlsson"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Radio Silence",
+      "director": "Juliana Fanjul"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Caperucita Roja",
+      "director": "Tatiana Mazú"
+    },
+    {
+      "festival": "Seminci",
+      "title": "57 días",
+      "director": "Mario Lumbreras, Laura Brasero"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Huntsville Station",
+      "director": "Jamie Meltzer, Chris Filippone"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Tierra de leche y miel",
+      "director": "Héctor Domínguez-Viguera, Gonzalo Recio, Carlos Mora"
+    },
+    {
+      "festival": "Seminci",
+      "title": "El niño de fuego",
+      "director": "Ignacio Acconcia"
+    },
+    {
+      "festival": "Seminci",
+      "title": "De perfil",
+      "director": "Alejandro Renedo"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Reflejo",
+      "director": "Juan Carlos Mostaza"
+    },
+    {
+      "festival": "Seminci",
+      "title": "El mártir",
+      "director": "Fernando Pomares"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Moi, Barnabé",
+      "director": "Jean-François Lévesque"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Éxodo climático",
+      "director": "David Baute"
+    },
+    {
+      "festival": "César",
+      "title": "68, mon père et les clous",
+      "director": "Samuel Bigiaoui"
+    },
+    {
+      "festival": "César",
+      "title": "Au nom de la terre",
+      "director": "Édouard Bergeon"
+    },
+    {
+      "festival": "César",
+      "title": "Beautiful Loser",
+      "director": "Maxime Roy"
+    },
+    {
+      "festival": "César",
+      "title": "Camille",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Ce magnifique gâteau !",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Chien bleu",
+      "director": "Fanny Liatard, Jérémy Trouilh"
+    },
+    {
+      "festival": "César",
+      "title": "Douleur et gloire",
+      "director": "Pedro Almodóvar"
+    },
+    {
+      "festival": "César",
+      "title": "Hors normes",
+      "director": "Éric Toledano, Olivier Nakache"
+    },
+    {
+      "festival": "César",
+      "title": "La Cordillère des songes",
+      "director": "Patricio Guzmán"
+    },
+    {
+      "festival": "César",
+      "title": "La Nuit des sacs plastiques",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Le Chant d’Ahmed",
+      "director": "Foued Mansour"
+    },
+    {
+      "festival": "César",
+      "title": "Le Traître",
+      "director": "Marco Bellocchio"
+    },
+    {
+      "festival": "César",
+      "title": "Les Éblouis",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Lourdes",
+      "director": "Thierry Demaizière, Alban Teurlai"
+    },
+    {
+      "festival": "César",
+      "title": "M",
+      "director": "Yolande Zauberman"
+    },
+    {
+      "festival": "César",
+      "title": "Make It Soul",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Nefta Football Club",
+      "director": "Yves Piat"
+    },
+    {
+      "festival": "César",
+      "title": "Pile poil",
+      "director": "Lauriane Escaffre, Yvonnick Muller"
+    },
+    {
+      "festival": "César",
+      "title": "Wonder Boy Olivier Rousteing, né sous X",
+      "director": "Anissa Bonnefont"
+    },
+    {
+      "festival": "César",
+      "title": "Au nom de la terre",
+      "director": "Édouard Bergeon"
+    },
+    {
+      "festival": "César",
+      "title": "Hors normes",
+      "director": "Éric Toledano, Olivier Nakache"
+    }
+  ],
+  "directorRecovery": [
+    {
+      "festival": "César",
+      "title": "Adults in the Room",
+      "director": "Costa Gavras",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Alice et le maire",
+      "director": "Nicolas Pariser",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Chambre 212",
+      "director": "Christophe Honoré",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Chanson douce",
+      "director": "Lucie Borleteau",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Edmond",
+      "director": "Alexis Michalik",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Je sors acheter des cigarettes",
+      "director": "Osman Cerfon",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Jeanne",
+      "director": "Bruno Dumont",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "J’ai perdu mon corps",
+      "director": "Jérémy Clapin",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "La Vie scolaire",
+      "director": "Mehdi Idir, Grand Corps Malade",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "La fameuse invasion des ours en Sicile",
+      "director": "Lorenzo Mattotti",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Les hirondelles de Kaboul",
+      "director": "Zabou Breitman, Eléa Gobbé-Mévellec",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Mon inconnue",
+      "director": "Hugo Gélin",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Proxima",
+      "director": "Alice Winocour",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Seules les bêtes",
+      "director": "Dominik Moll",
+      "source": "exact approved master identity"
+    }
+  ],
+  "pendingMetadata": [
+    {
+      "festival": "César",
+      "title": "Camille",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "Ce magnifique gâteau !",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "La Nuit des sacs plastiques",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "Les Éblouis",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "Make It Soul",
+      "field": "director",
+      "owned": false
+    }
+  ],
+  "corrections": [
+    {
+      "item": "The Queen of Black Magic2020",
+      "detail": "Consolidados premiosFocusAsia yMidnight enuna fichaMidnightX-Treme; palmarésoficialconfirmaambos.",
+      "source": "https://sitgesfilmfestival.com/en/latest/list-winners/2020"
+    },
+    {
+      "item": "César",
+      "detail": "Animacióncorto/largo separada;créditos de ganadores y candidatos reconciliados sin alterar número de candidaturas. Césarpublic2020 separado con5candidaturas."
+    },
+    {
+      "item": "Cuban Network",
+      "detail": "La red Avispa/WaspNetwork, OlivierAssayas,2019.",
+      "source": "https://www.cinematheque.fr/film/143779.html"
+    },
+    {
+      "item": "Un fils",
+      "detail": "MehdiM.Barsaoui,2019,fuenteUnifrance.",
+      "source": "https://www.unifrance.org/film/47218/un-fils"
+    }
+  ],
+  "appliedCorrections": [],
+  "limitations": [
+    "Siete premiadas de Sitges con sección no verificada, conservadas bajo etiqueta explícita sin inventar programación.",
+    "Los directores, IDs y años no recuperables de fuentes agrupadas se conservan pendientes, sin búsquedas individuales exhaustivas."
+  ]
+}

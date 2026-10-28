@@ -63,11 +63,11 @@ test('2022–2024 retain all nine editions and complete César nominations witho
 });
 test('master reference lookup is cached, preserves metadata and never confuses homonymous directors',async()=>{
  let requests=0;const refs=JSON.parse(fs.readFileSync('data/catalog/festival-references-2022-2024.json'));
- const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>(url.includes('references-cinco-')||url.includes('references-2026'))?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
+ const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>(url.includes('references-cinco-')||url.includes('references-2026')||url.includes('references-sitges-seminci-cesar-'))?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,7);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,8);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -149,4 +149,13 @@ test('Adam stays separate in Cannes and Sundance 2019',()=>{
  const matches=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json')).matches;
  const cannes=matches[JSON.stringify(['Cannes',2019,'Adam','Maryam Touzani'])];assert.equal(cannes?.d,'Maryam Touzani');
  const sundance=matches[JSON.stringify(['Sundance',2019,'Adam','Rhys Ernst'])];assert.equal(sundance?.d,'Rhys Ernst');assert(!sundance.p);
+});
+
+test('César 2020–2021 keeps feature and short animation distinct and public award separate',()=>{
+ for(const [year,total] of [[2020,122],[2021,107]]){
+  const es=JSON.parse(fs.readFileSync(`data/festivals/years/${year}.json`)).editions.filter(e=>e.festival==='César');const films=es.flatMap(e=>e.films);assert.equal(films.reduce((n,f)=>n+f.nominations.length,0),total);
+  assert(films.some(f=>f.nominations.some(n=>n.startsWith('Cortometraje de animación · '))));assert(films.some(f=>f.nominations.some(n=>n.startsWith('Película de animación · '))));
+  for(const f of films)for(const w of f.wins)assert(f.nominations.includes(w));
+  if(year===2020){assert.equal(es.length,2);assert.equal(es[1].films.length,5);assert.equal(es[1].films.flatMap(f=>f.wins).length,1)}
+ }
 });
