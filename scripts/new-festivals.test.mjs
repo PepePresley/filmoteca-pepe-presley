@@ -63,11 +63,11 @@ test('2022–2024 retain all nine editions and complete César nominations witho
 });
 test('master reference lookup is cached, preserves metadata and never confuses homonymous directors',async()=>{
  let requests=0;const refs=JSON.parse(fs.readFileSync('data/catalog/festival-references-2022-2024.json'));
- const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>(url.includes('references-cinco-')||url.includes('references-2026')||url.includes('references-sitges-seminci-cesar-'))?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
+ const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>(url.includes('references-cinco-')||url.includes('references-2026')||url.includes('references-sitges-seminci-cesar-')||url.includes('references-ocho-'))?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,9);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,10);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -167,4 +167,13 @@ test('Seminci 2019 assigns the Rainbow mention to Let There Be Light rather than
 
 test('Fantastic Beasts BAFTA 2019 cannot resolve to Animal or Anima',()=>{
  const m=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json')).matches;const r=m[JSON.stringify(['BAFTA',2019,'Animales fantásticos: Los crímenes de Grindelwald','David Yates'])];assert(!r||r.d==='David Yates');
+});
+
+test('2016–2017 retain all fifteen families, separate César animation and the real Ariel sound tie',()=>{
+ for(const y of [2016,2017]){
+  const es=JSON.parse(fs.readFileSync(`data/festivals/years/${y}.json`)).editions;assert.equal(new Set(es.map(e=>e.festival)).size,15);
+  const gg=es.find(e=>e.festival==='Globos de Oro').films;assert.equal(gg.flatMap(f=>f.nominations).length,70);assert.equal(gg.flatMap(f=>f.wins).length,14);
+  const cs=es.find(e=>e.festival==='César').films;assert.equal(new Set(cs.flatMap(f=>f.nominations.map(n=>n.split(' · ')[0]))).size,22);assert(cs.some(f=>f.nominations.some(n=>n.startsWith('Cortometraje de animación · '))));
+  if(y===2017){const fs=es.find(e=>e.festival==='Ariel').films;assert.equal(fs.flatMap(f=>f.wins).filter(w=>w.startsWith('Sonido · ')).length,2);assert(fs.find(f=>f.title==='Tempestad').wins.some(w=>w.startsWith('Sonido · ')));}
+ }
 });
