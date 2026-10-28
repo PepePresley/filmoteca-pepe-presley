@@ -63,11 +63,11 @@ test('2022–2024 retain all nine editions and complete César nominations witho
 });
 test('master reference lookup is cached, preserves metadata and never confuses homonymous directors',async()=>{
  let requests=0;const refs=JSON.parse(fs.readFileSync('data/catalog/festival-references-2022-2024.json'));
- const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>url.includes('references-cinco-')?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
+ const context=vm.createContext({fetch:async url=>{requests++;return {ok:true,json:async()=>(url.includes('references-cinco-')||url.includes('references-2026'))?[]:refs}}});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,4);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,5);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -118,4 +118,15 @@ test('2022–2023 additions preserve complete award counts, corrected shorts and
   else assert(sundance.find(e=>e.section==='U.S. Documentary Competition').films.some(f=>f.title==='Navalny'||f.aliases.includes('Navalny')));
   const venice=editions.find(e=>e.festival==='Venecia').films;const film=venice.find(f=>f.title===(year===2023?'Io Capitano':'Bones and All'));assert(film.award.includes(year===2023?'Matteo Garrone':'Luca Guadagnino'));assert(film.award.includes(year===2023?'Seydou Sarr':'Taylor Russell'));
  }
+});
+test('2026 has fifteen families, complete structured awards and Seminci still in competition',()=>{
+ const editions=JSON.parse(fs.readFileSync('data/festivals/years/2026.json')).editions;assert.equal(new Set(editions.map(e=>e.festival)).size,15);
+ for(const [family,nominations,wins,categories] of [['Oscar',125,25,24],['Globos de Oro',92,15,15],['César',110,24,24],['David di Donatello',129,26,25],['Ariel',122,28,25]]){
+  const films=editions.filter(e=>e.festival===family).flatMap(e=>e.films);assert.equal(films.reduce((n,f)=>n+f.nominations.length,0),nominations);assert.equal(films.reduce((n,f)=>n+f.wins.length,0),wins);assert.equal(new Set(films.flatMap(f=>f.nominations.map(n=>n.split(' · ')[0]))).size,categories);
+  for(const f of films){assert.equal(new Set(f.nominations).size,f.nominations.length);if(f.nominations.length)for(const w of f.wins)assert(f.nominations.includes(w));}
+ }
+ const seminci=editions.find(e=>e.festival==='Seminci');assert.equal(seminci.films.length,22);assert.equal(seminci.status,'in_progress');assert(seminci.section.includes('pendiente'));assert(seminci.films.every(f=>!f.wins.length&&f.award==='En competición'));
+ const oscar=editions.find(e=>e.festival==='Oscar');assert.equal(oscar.films.flatMap(f=>f.wins).filter(w=>w.startsWith('Cortometraje de ficción')).length,2);assert(oscar.films.some(f=>f.nominations.some(n=>n.startsWith('Casting'))));
+ const david=editions.find(e=>e.festival==='David di Donatello');const leading=david.films.find(f=>f.aliases.includes('LE CITTÀ DI PIANURA'));assert(leading.wins.some(w=>w.includes('Sergio ROMANO')));assert(!leading.wins.some(w=>w.includes('Pierpaolo CAPOVILLA')));
+ const locarno=editions.filter(e=>e.festival==='Locarno');assert.equal(locarno.find(e=>e.section==='Semaine de la Critique').films.length,2);assert(locarno.find(e=>e.section.includes('cortometrajes')).films.some(f=>f.title==='Private Property'));
 });

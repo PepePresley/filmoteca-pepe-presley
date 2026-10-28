@@ -1,0 +1,4522 @@
+{
+  "date": "2026-10-28",
+  "masterYearsChecked": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sources": {
+    "fuentes": [
+      {
+        "familia": "Globos de Oro",
+        "contenido": "Nominaciones y ganadores de las 15 categorías de cine",
+        "url": "https://www.goldenglobes.com/nominations/2026",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/globos_oro_2026_transcripcion.json"
+      },
+      {
+        "familia": "César",
+        "contenido": "Lista de nominaciones oficial, 24 categorías",
+        "url": "https://www.academie-cinema.org/wp-content/uploads/2026/01/nominations-cesar-2026.pdf",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/cesar_2026_transcripcion.md"
+      },
+      {
+        "familia": "César",
+        "contenido": "Palmarès oficial",
+        "url": "https://www.academie-cinema.org/wp-content/uploads/2026/01/palmares-cesar-2026.pdf",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/cesar_2026_control_categorias.json"
+      },
+      {
+        "familia": "César",
+        "contenido": "Confirmación 110 nominaciones en 24 categorías, 48 películas",
+        "url": "https://www.academie-cinema.org/espace-presse/materiel-infos-presse/",
+        "estado": "leído; recuentos corroborados"
+      },
+      {
+        "familia": "Oscar",
+        "contenido": "Nominados, ganadores y créditos de las categorías de la 98.ª ceremonia",
+        "url": "https://www.oscars.org/oscars/ceremonies/2026",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/oscar_2026_transcripcion_categorias.json"
+      },
+      {
+        "familia": "Seminci",
+        "contenido": "Selección cerrada de 22 largometrajes en competición",
+        "url": "https://www.seminci.com/2026/noticias/lisandro-alonso-alain-gomis-marie-kreutzer-stephane-brize-y-may-el-toukhy-ganadora-del-leon-de-oro-completan-la-seccion-oficial-a-concurso-de-la-71-seminci/",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/seminci_2026_seleccion_transcripcion.md"
+      },
+      {
+        "familia": "Seminci",
+        "contenido": "Programa final del festival y aviso de lectura de palmarès el 31-10-2026",
+        "url": "https://www.seminci.com/programacion-2026/",
+        "estado": "leído; la lectura aún no ocurría a 28-10-2026"
+      },
+      {
+        "familia": "Sitges 2026 palmarès",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://sitgesfilmfestival.com/en/noticies/sanguine-marion-corroller-best-feature-film-award-sitges-2026",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Sitges premios y secciones",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://sitgesfilmfestival.com/en/festival/awards",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Seminci películas / programa final",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.seminci.com/peliculas/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "César 2026 nominaciones",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.academie-cinema.org/evenements/autour-des-nominations-2026/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "César 2026 lista oficial de nominaciones PDF",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.academie-cinema.org/wp-content/uploads/2026/01/nominations-cesar-2026-1.pdf",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "César 2026 palmarès",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.academie-cinema.org/wp-content/uploads/2026/03/cp-cesar-260226-le-palmares-de-la-51e-ceremonie-des-cesar.pdf",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Sundance 2026 selección",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.sundance.org/blogs/2026-sundance-film-festival-unveils-97-projects-selected-for-the-feature-film-and-episodic-program/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Sundance 2026 palmarès",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.sundance.org/blogs/the-complete-list-of-2026-sundance-film-festival-award-winners/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "David di Donatello 2026 ganadores",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.daviddidonatello.it/index-box-vincitori.php",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Ariel 68 nominaciones",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.amacc.org.mx/premio-ariel-68-informacion-y-archivos-amacc",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Ariel 68 resultados",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.imcine.gob.mx/nota.php?id=402",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Locarno 2026 sitio oficial",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.locarnofestival.ch/en/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Berlín 2026 resultados oficiales",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.berlinale.de/en/archive/awards-juries/awards.html",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Cannes 2026 palmarès oficial",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.festival-cannes.com/en/press/press-releases/the-79th-festival-de-cannes-winners-list/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "San Sebastián 2026",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.sansebastianfestival.com/2026/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Goya 2026",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.premiosgoya.com/40-edicion/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "BAFTA 2026 cine",
+        "contenido": "Enlace localizado; contenido no leído ni contrastado para este paquete",
+        "url": "https://www.bafta.org/awards/film/",
+        "estado": "solo_localizado"
+      },
+      {
+        "familia": "Oscar",
+        "contenido": "Título e identidad FilmAffinity España de Sirât",
+        "url": "https://www.filmaffinity.com/es/film780154.html",
+        "estado": "leído; identidad y título contrastados"
+      },
+      {
+        "familia": "Oscar",
+        "contenido": "Título e identidad FilmAffinity España de Song Sung Blue (Canción para dos)",
+        "url": "https://www.filmaffinity.com/es/film864700.html",
+        "estado": "leído; identidad y título contrastados"
+      },
+      {
+        "familia": "Sitges",
+        "contenido": "Selección de 36 largometrajes de Secció Oficial Fantàstic a Competició",
+        "url": "https://sitgesfilmfestival.com/es/edicion/peliculas",
+        "estado": "leído; recuento oficial"
+      },
+      {
+        "familia": "Sitges",
+        "contenido": "Selección completa SOFC transcrita; la nota oficial corrobora títulos/directores parciales",
+        "url": "https://www.cinemaldito.com/sitges-2026-secciones-oficiales-y-competitivas/",
+        "estado": "leído_y_transcrito; fuente secundaria cotejada con sección oficial"
+      },
+      {
+        "familia": "Sitges",
+        "contenido": "Palmarès oficial y premios paralelos",
+        "url": "https://sitgesfilmfestival.com/es/noticies/sanguine-marion-corroller-mejor-pelicula-sitges-2026",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/sitges_2026_seleccion_y_palmares.json"
+      },
+      {
+        "familia": "Sitges",
+        "contenido": "Ficha oficial de Feels Like Home: sección Noves Visions (edición 2025)",
+        "url": "https://sitgesfilmfestival.com/es/film/2025/feels-home",
+        "estado": "leído; identidad y sección corroboradas"
+      },
+      {
+        "familia": "Sundance",
+        "contenido": "Selección final, cinco competiciones de largometraje/mediometraje",
+        "url": "https://www.sundance.org/blogs/2026-sundance-film-festival-unveils-97-projects-selected-for-the-feature-film-and-episodic-program/",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/sundance_2026_seleccion_y_palmares.json"
+      },
+      {
+        "familia": "Sundance",
+        "contenido": "Premios oficiales, incluyendo cortos y Alfred P. Sloan Feature Film Prize",
+        "url": "https://www.sundance.org/blogs/the-complete-list-of-2026-sundance-film-festival-award-winners/",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/sundance_2026_seleccion_y_palmares.json"
+      },
+      {
+        "familia": "Locarno",
+        "contenido": "Selección oficial publicada por Locarno Film Festival HQ; listado final de secciones",
+        "url": "https://letterboxd.com/filmfestlocarno/list/locarno-film-festival-2026-official-selection/",
+        "estado": "leído_y_transcrito; lista oficial del festival en Letterboxd",
+        "extraccion": "fuentes_y_extracciones/locarno_2026_seleccion_y_palmares.json"
+      },
+      {
+        "familia": "Locarno",
+        "contenido": "Palmarès y menciones de selección cotejados parcialmente",
+        "url": "https://cineuropa.org/en/newsdetail/494507",
+        "estado": "leído; fuente secundaria fiable",
+        "extraccion": "fuentes_y_extracciones/locarno_2026_seleccion_y_palmares.json"
+      },
+      {
+        "familia": "Locarno",
+        "contenido": "Palmarès y premios paralelos cotejados parcialmente",
+        "url": "https://www.srf.ch/news/79-filmfestival-locarno-goldener-leopard-fuer-rumaenischen-film-you-don-t-belong-here",
+        "estado": "leído; fuente secundaria fiable",
+        "extraccion": "fuentes_y_extracciones/locarno_2026_seleccion_y_palmares.json"
+      },
+      {
+        "familia": "David di Donatello",
+        "contenido": "Candidaturas oficiales, 25 categorías",
+        "url": "https://www.daviddidonatello.it/vincitori/candidati-premi-david-di-donatello.php",
+        "estado": "leído; lista visible, transcripción completa candidatura por candidatura pendiente"
+      },
+      {
+        "familia": "David di Donatello",
+        "contenido": "Resultados oficiales de votación de ganadores",
+        "url": "https://www.daviddidonatello.it/vincitori/resoconto-voti-vincitori.php",
+        "estado": "leído; transcripción a datos pendientes"
+      },
+      {
+        "familia": "David di Donatello",
+        "contenido": "Ganadores y honoríficos",
+        "url": "https://cinema.cultura.gov.it/notizie/david-di-donatello-2026-le-citta-di-pianura-miglior-film/",
+        "estado": "leído; honoríficos transcritos, premios competitivos pendientes"
+      },
+      {
+        "familia": "Premios Ariel",
+        "contenido": "Candidaturas completas de 25 categorías de la 68.ª edición",
+        "url": "https://www.amacc.org.mx/premio-ariel-68-informacion-y-archivos-amacc",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/ariel_2026_candidaturas_y_ganadores.json"
+      },
+      {
+        "familia": "Premios Ariel",
+        "contenido": "Resultados competitivos y reconocimientos honoríficos",
+        "url": "https://imcine.gob.mx/nota.php?id=402",
+        "estado": "leído_y_transcrito",
+        "extraccion": "fuentes_y_extracciones/ariel_2026_candidaturas_y_ganadores.json; ariel_honorificos_2026.json"
+      },
+      {
+        "familia": "LAB 2026",
+        "contenido": "No disponible en el checkout actual: falta data/festivals/years/2026.json y docs/nuevos-festivales.md",
+        "url": "proyecto Filmoteca-LAB no presente en este checkout",
+        "estado": "no_disponible; no se cotejó contenido"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "films": 36,
+      "owned": 34,
+      "nominations": 92,
+      "wins": 15
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "films": 48,
+      "owned": 24,
+      "nominations": 110,
+      "wins": 24
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "films": 43,
+      "owned": 13,
+      "nominations": 129,
+      "wins": 25
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Reconocimiento del espectador",
+      "films": 1,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "films": 49,
+      "owned": 12,
+      "nominations": 122,
+      "wins": 28
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Internazionale",
+      "films": 17,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 11
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Cineasti del Presente",
+      "films": 15,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 9
+    },
+    {
+      "festival": "Locarno",
+      "section": "Piazza Grande",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Locarno",
+      "section": "Locarno Kids",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Locarno",
+      "section": "Pardi di Domani · cortometrajes premiados",
+      "films": 11,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 12
+    },
+    {
+      "festival": "Locarno",
+      "section": "Semaine de la Critique",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "films": 10,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 7
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Documentary Competition",
+      "films": 10,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 8
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "films": 10,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 5
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Documentary Competition",
+      "films": 10,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 5
+    },
+    {
+      "festival": "Sundance",
+      "section": "NEXT",
+      "films": 9,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Sundance",
+      "section": "Short Film Program · cortometrajes premiados",
+      "films": 7,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 7
+    },
+    {
+      "festival": "Sundance",
+      "section": "Premieres · premio paralelo",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Competición oficial",
+      "films": 36,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 16
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions",
+      "films": 3,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Sitges",
+      "section": "Òrbita",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions · selección 2025 (premio Méliès d’Or 2026)",
+      "films": 1,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Sitges Collection",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Panorama",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Midnight X-Treme",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Blood Window",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Secció Oficial Fantàstic a Competició - Curtmetratges",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions Petit Format",
+      "films": 2,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Sitges",
+      "section": "Anima’t - Curtmetratges",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Méliès d’Or - Cortometrajes",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Méliès d’Argent - Cortometrajes",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "Brigadoon",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sitges",
+      "section": "SGAE Nova Autoria",
+      "films": 3,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 3
+    },
+    {
+      "festival": "Seminci",
+      "section": "Competición oficial · palmarés pendiente",
+      "films": 22,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 0
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "films": 50,
+      "owned": 33,
+      "nominations": 125,
+      "wins": 25
+    }
+  ],
+  "masterEvidence": [
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Arco",
+      "title": "Arco",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 283,
+      "titleES": "Arco",
+      "originalTitle": "Arco",
+      "director": "Ugo Bienvenu",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1279"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Avatar: Fuego y cenizas",
+      "title": "Avatar - Fuego y ceniza",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 328,
+      "titleES": "Avatar - Fuego y ceniza",
+      "originalTitle": "Avatar: Fire and Ash",
+      "director": "James Cameron",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1513"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Caza de brujas",
+      "title": "Caza de brujas",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 112,
+      "titleES": "Caza de brujas",
+      "originalTitle": "After the Hunt",
+      "director": "Luca Guadagnino",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/365"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Die My Love",
+      "title": "Die My Love",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 213,
+      "titleES": "Die My Love",
+      "originalTitle": "Die My Love",
+      "director": "Lynne Ramsay",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/952"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "El agente secreto",
+      "title": "El agente secreto",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 373,
+      "titleES": "El agente secreto",
+      "originalTitle": "O Agente Secreto",
+      "director": "Kleber Mendonça Filho",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1720"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "El testamento de Ann Lee",
+      "title": "El testamento de Ann Lee",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 329,
+      "titleES": "El testamento de Ann Lee",
+      "originalTitle": "The Testament of Ann Lee",
+      "director": "Mona Fastvold",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1515"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Elio",
+      "title": "Elio",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 99,
+      "titleES": "Elio",
+      "originalTitle": "Elio",
+      "director": "Madeline Sharafian, Domee Shi, Adrián Molina",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/319"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "F1: La película",
+      "title": "F1 la película",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 46,
+      "titleES": "F1 la película",
+      "originalTitle": "F1",
+      "director": "Joseph Kosinski",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/122"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Frankenstein",
+      "title": "Frankenstein",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 80,
+      "titleES": "Frankenstein",
+      "originalTitle": "Frankenstein",
+      "director": "Guillermo del Toro",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/231"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Fue solo un accidente",
+      "title": "Un simple accidente",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 225,
+      "titleES": "Un simple accidente",
+      "originalTitle": "Un simple accident",
+      "director": "Jafar Panahi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/992"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+      "title": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 106,
+      "titleES": "Guardianes de la noche: Kimetsu no Yaiba - La fortaleza infinita / Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "originalTitle": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "director": "Haruo Sotozaki",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2829"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Hamnet",
+      "title": "Hamnet",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 273,
+      "titleES": "Hamnet",
+      "originalTitle": "Hamnet",
+      "director": "Chloé Zhao",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1230"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Hedda",
+      "title": "Hedda",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 86,
+      "titleES": "Hedda",
+      "originalTitle": "Hedda",
+      "director": "Nia DaCosta",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/257"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Jay Kelly",
+      "title": "Jay Kelly",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 148,
+      "titleES": "Jay Kelly",
+      "originalTitle": "Jay Kelly",
+      "director": "Noah Baumbach",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/521"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "La hora de la desaparición",
+      "title": "Weapons",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 55,
+      "titleES": "Weapons",
+      "originalTitle": "Weapons",
+      "director": "Zach Cregger",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/148"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "La Máquina: The Smashing Machine",
+      "title": "The Smashing Machine",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 515,
+      "titleES": "The Smashing Machine",
+      "originalTitle": "The Smashing Machine",
+      "director": "Benny Safdie",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2113"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "La voz de Hind Rajab",
+      "title": "La voz de Hind",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 307,
+      "titleES": "La voz de Hind",
+      "originalTitle": "صوت هند رجب",
+      "director": "Kaouther Ben Hania",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1405"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Las guerreras k-pop",
+      "title": "Las guerreras k-pop",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 90,
+      "titleES": "Las guerreras k-pop",
+      "originalTitle": "KPop Demon Hunters",
+      "director": "Chris Appelhans, Maggie Kang",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/290"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Luna azul",
+      "title": "Blue Moon",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 92,
+      "titleES": "Blue Moon",
+      "originalTitle": "Blue Moon",
+      "director": "Richard Linklater",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/294"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Marty Supremo",
+      "title": "Marty Supreme",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 287,
+      "titleES": "Marty Supreme",
+      "originalTitle": "Marty Supreme",
+      "director": "Josh Safdie",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1296"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Misión imposible: Sentencia final",
+      "title": "Misión imposible: Sentencia final",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 43,
+      "titleES": "Misión Imposible - Sentencia final",
+      "originalTitle": "Mission: Impossible - The Final Reckoning",
+      "director": "Christopher McQuarrie",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/116"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "No hay otra opción",
+      "title": "No hay otra opción",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 306,
+      "titleES": "No hay otra opción",
+      "originalTitle": "어쩔수가없다",
+      "director": "Park Chan-wook",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1403"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Nouvelle Vague",
+      "title": "Nouvelle Vague",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 101,
+      "titleES": "Nouvelle Vague",
+      "originalTitle": "Nouvelle Vague",
+      "director": "Richard Linklater",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/335"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Pecadores",
+      "title": "Los pecadores",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 5,
+      "titleES": "Los pecadores",
+      "originalTitle": "Sinners",
+      "director": "Ryan Coogler",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/11"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Si pudiera, te daría una patada",
+      "title": "Si pudiera, te daría una patada",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 102,
+      "titleES": "Si pudiera, te daría una patada",
+      "originalTitle": "If I Had Legs I'd Kick You",
+      "director": "Mary Bronstein",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/339"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Sirât",
+      "title": "Sirât",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 108,
+      "titleES": "Sirāt",
+      "originalTitle": null,
+      "director": "Oliver Laxe",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/357"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Song Sung Blue (Canción para dos)",
+      "title": "Song Sung Blue (Canción para dos)",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 309,
+      "titleES": "Song Sung Blue - Canción para dos",
+      "originalTitle": "Song Sung Blue",
+      "director": "Craig Brewer",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1427"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Sorry, Baby",
+      "title": "Sorry, Baby",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 32,
+      "titleES": "Sorry, Baby",
+      "originalTitle": "Sorry, Baby",
+      "director": "Eva Victor",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2632"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Springsteen: Deliver Me from Nowhere",
+      "title": "Springsteen - Deliver Me from Nowhere",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 185,
+      "titleES": "Springsteen - Deliver Me from Nowhere",
+      "originalTitle": "Springsteen: Deliver Me from Nowhere",
+      "director": "Scott Cooper",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/745"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Sueños de trenes",
+      "title": "Sueños de trenes",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 103,
+      "titleES": "Sueños de trenes",
+      "originalTitle": "Train Dreams",
+      "director": "Clint Bentley",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/325"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Una batalla tras otra",
+      "title": "Una batalla tras otra",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 231,
+      "titleES": "Una batalla tras otra",
+      "originalTitle": "One Battle After Another",
+      "director": "Paul Thomas Anderson",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1018"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Valor sentimental",
+      "title": "Valor sentimental",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 322,
+      "titleES": "Valor sentimental",
+      "originalTitle": "Affeksjonsverdi",
+      "director": "Joachim Trier",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1499"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Wicked: Parte II",
+      "title": "Wicked: Parte II",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 226,
+      "titleES": "Wicked Parte II",
+      "originalTitle": "Wicked: For Good",
+      "director": "Jon M. Chu",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/986"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 83.ª edición",
+      "sourceTitle": "Zootopia 2",
+      "title": "Zootrópolis 2 / Zootopia 2",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 526,
+      "titleES": "Zootrópolis 2 / Zootopia 2",
+      "originalTitle": "Zootopia 2",
+      "director": "Jared Bush, Byron Howard",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2837"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "13 jours, 13 nuits",
+      "title": "13 días, 13 noches",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 157,
+      "titleES": "13 días, 13 noches",
+      "originalTitle": "13 Jours, 13 Nuits",
+      "director": "Martin Bourboulon",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/586"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Amélie et la métaphysique des tubes",
+      "title": "Little Amélie - Amélie y los secretos de la lluvia",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 100,
+      "titleES": "Little Amélie - Amélie y los secretos de la lluvia",
+      "originalTitle": "Amélie et la métaphysique des tubes",
+      "director": "Maïlys Vallade",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1592"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Arco",
+      "title": "Arco",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 283,
+      "titleES": "Arco",
+      "originalTitle": "Arco",
+      "director": "Ugo Bienvenu",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1279"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Black Dog",
+      "title": "Black Dog",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 702,
+      "titleES": null,
+      "originalTitle": "Black Dog",
+      "director": "Guan Hu",
+      "year": 2024,
+      "telegram": "https://t.me/c/2428849869/893"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Chien 51",
+      "title": "Zona 3",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 768,
+      "titleES": "Zona 3",
+      "originalTitle": "Chien 51",
+      "director": "Cédric Jimenez",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2859"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Dossier 137",
+      "title": "Caso 137 / Case 137 / Dossier 137",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 840,
+      "titleES": null,
+      "originalTitle": "Caso 137 / Case 137 / Dossier 137",
+      "director": "Dominik Moll",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2700"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Dracula",
+      "title": "Dracula",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 318,
+      "titleES": "Dracula",
+      "originalTitle": "Dracula",
+      "director": "Radu Jude",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1473"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Jane Austen a gâché ma vie",
+      "title": "Jane Austen arruinó mi vida",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 360,
+      "titleES": "Jane Austen arruinó mi vida",
+      "originalTitle": "Jane Austen a gâché ma vie",
+      "director": "Laura Piani",
+      "year": 2025,
+      "telegram": "https://t.me/c/2428849869/933"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Kika",
+      "title": "Kika",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 381,
+      "titleES": "Kika",
+      "originalTitle": "Kika",
+      "director": "Alexe Poukine",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1786"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "La Femme la plus riche du monde",
+      "title": "La mujer más rica del mundo / La Femme la plus riche du monde",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 720,
+      "titleES": "La mujer más rica del mundo / La Femme la plus riche du monde",
+      "originalTitle": "La Femme la plus riche du monde",
+      "director": "Thierry Klifa",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2901"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "La Petite Dernière",
+      "title": "La hija pequeña",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 392,
+      "titleES": "La hija pequeña",
+      "originalTitle": "La Petite Dernière",
+      "director": "Hafsia Herzi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1838"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "La Venue de l’avenir",
+      "title": "Los colores del tiempo",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 335,
+      "titleES": "Los colores del tiempo",
+      "originalTitle": "La Venue de l'avenir",
+      "director": "Cédric Klapisch",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1558"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "L’Attachement",
+      "title": "Los lazos que nos unen",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 639,
+      "titleES": "Los lazos que nos unen",
+      "originalTitle": "L'Attachement",
+      "director": "Carine Tardieu",
+      "year": 2025,
+      "telegram": "https://t.me/c/2428849869/1701"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "L’Homme qui rétrécit",
+      "title": "El hombre menguante",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 345,
+      "titleES": "El hombre menguante",
+      "originalTitle": "L'Homme qui rétrécit",
+      "director": "Jan Kounen",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1608"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "L’Inconnu de la Grande Arche",
+      "title": "El arquitecto / The Great Arch / L'Inconnu de la Grande Arche",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 377,
+      "titleES": "El arquitecto / The Great Arch / L'Inconnu de la Grande Arche",
+      "originalTitle": "L'Inconnu de la Grande Arche",
+      "director": "Stéphane Demoustier",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2899"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "L’Étranger",
+      "title": "El extranjero",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 339,
+      "titleES": "El extranjero",
+      "originalTitle": "L'Étranger",
+      "director": "François Ozon",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1576"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Ma mère, Dieu et Sylvie Vartan",
+      "title": "Érase una vez mi madre",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 122,
+      "titleES": "Érase una vez mi madre",
+      "originalTitle": "Ma mère, Dieu et Sylvie Vartan",
+      "director": "Ken Scott",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/418"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Nino",
+      "title": "Nino",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 267,
+      "titleES": "Nino",
+      "originalTitle": "Nino",
+      "director": "Pauline Loquès",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1189"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Nouvelle Vague",
+      "title": "Nouvelle Vague",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 101,
+      "titleES": "Nouvelle Vague",
+      "originalTitle": "Nouvelle Vague",
+      "director": "Richard Linklater",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/335"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Put Your Soul on Your Hand and Walk",
+      "title": "Pon tu alma en la mano y anda (Put your soul on your hand and walk)",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 104,
+      "titleES": "Pon tu alma en la mano y anda (Put your soul on your hand and walk)",
+      "originalTitle": "Put your soul on your hand and walk",
+      "director": "Sepideh Farsi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/346"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Sirāt",
+      "title": "Sirāt",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 108,
+      "titleES": "Sirāt",
+      "originalTitle": null,
+      "director": "Oliver Laxe",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/357"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Un ours dans le Jura",
+      "title": "Misterioso asesinato en la montaña",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 443,
+      "titleES": "Misterioso asesinato en la montaña",
+      "originalTitle": "Un ours dans le Jura",
+      "director": "Franck Dubosc",
+      "year": 2025,
+      "telegram": "https://t.me/c/2428849869/1205"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "Un simple accident",
+      "title": "Un simple accidente",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 225,
+      "titleES": "Un simple accidente",
+      "originalTitle": "Un simple accident",
+      "director": "Jafar Panahi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/992"
+    },
+    {
+      "festival": "César",
+      "section": "Categorías competitivas cinematográficas · 51.ª ceremonia · películas elegibles de 2025",
+      "sourceTitle": "À bicyclette !",
+      "title": "¡En bicicleta!",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 635,
+      "titleES": "¡En bicicleta!",
+      "originalTitle": "À bicyclette !",
+      "director": "Mathias Mlekuz",
+      "year": 2025,
+      "telegram": "https://t.me/c/2428849869/1687"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Fuori",
+      "title": "La Vida Fuera",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 352,
+      "titleES": "La Vida Fuera",
+      "originalTitle": "Fuori",
+      "director": "Mario Martone",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1631"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "La Grazia",
+      "title": "La Grazia",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 266,
+      "titleES": "La Grazia",
+      "originalTitle": "La grazia",
+      "director": "Paolo Sorrentino",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1181"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Le Assaggiatrici",
+      "title": "Las catadoras de Hitler / The Tasters / Le assaggiatrici",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 801,
+      "titleES": "Las catadoras de Hitler / The Tasters / Le assaggiatrici",
+      "originalTitle": "Le assaggiatrici",
+      "director": "Silvio Soldini",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/3051"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Paternal Leave",
+      "title": "Baja de paternidad",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 130,
+      "titleES": "Baja de paternidad",
+      "originalTitle": "Paternal Leave",
+      "director": "Alissa Jung",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/460"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Duse",
+      "title": "Eleonora Duse, la divina",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 820,
+      "titleES": "Eleonora Duse, la divina",
+      "originalTitle": "Duse",
+      "director": "Pietro Marcello",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/3092"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Primavera",
+      "title": "Primavera",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 361,
+      "titleES": "Primavera",
+      "originalTitle": "Primavera",
+      "director": "Damiano Michieletto",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1665"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Tre Ciotole",
+      "title": "Tres adioses",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 336,
+      "titleES": "Tres adioses",
+      "originalTitle": "Tre ciotole",
+      "director": "Isabel Coixet",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1560"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Queer",
+      "title": "Queer",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 132,
+      "titleES": "Queer",
+      "originalTitle": "Queer",
+      "director": "Luca Guadagnino",
+      "year": 2024,
+      "telegram": "https://t.me/c/2428849869/306"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Buen Camino",
+      "title": "Buen Camino",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 421,
+      "titleES": "Buen Camino",
+      "originalTitle": "Buen Camino",
+      "director": "Gennaro Nunziante",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1908"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Follemente",
+      "title": "Locamente",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 531,
+      "titleES": "Locamente",
+      "originalTitle": "FolleMente",
+      "director": "Paolo Genovese",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2147"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "La Valle Dei Sorrisi",
+      "title": "La sonrisa del mal",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 390,
+      "titleES": "La sonrisa del mal",
+      "originalTitle": "La valle dei sorrisi",
+      "director": "Paolo Strippoli",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1834"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "Sotto Le Nuvole",
+      "title": "Pompeya: Bajo las nubes",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 821,
+      "titleES": "Pompeya: Bajo las nubes",
+      "originalTitle": "Sotto le nuvole",
+      "director": "Gianfranco Rosi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/3100"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas y David Giovani · 71.ª edición",
+      "sourceTitle": "The Brutalist",
+      "title": "The Brutalist",
+      "masterFile": "Catalogo_Telegram_2024.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 12,
+      "titleES": "The Brutalist",
+      "originalTitle": "The Brutalist",
+      "director": "Brady Corbet",
+      "year": 2024,
+      "telegram": "https://t.me/c/2428849869/25"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Reconocimiento del espectador",
+      "sourceTitle": "Buen Camino",
+      "title": "Buen Camino",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 421,
+      "titleES": "Buen Camino",
+      "originalTitle": "Buen Camino",
+      "director": "Gennaro Nunziante",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1908"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Autos, mota y rocanrol",
+      "title": "Autos, porros y rocanrol / Autos, mota y rocanrol",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 71,
+      "titleES": "Autos, porros y rocanrol / Autos, mota y rocanrol",
+      "originalTitle": "Autos, Mota y Rocanrol",
+      "director": "José Manuel Cravioto",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/193"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Aún es de noche en Caracas",
+      "title": "Aún es de Noche en Caracas",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 365,
+      "titleES": "Aún es de Noche en Caracas",
+      "originalTitle": "Aún es de Noche en Caracas",
+      "director": "Mariana Rondón",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1682"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Belén",
+      "title": "Belén",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 120,
+      "titleES": "Belén",
+      "originalTitle": "Belén",
+      "director": "Dolores Fonzi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/402"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Café Chairel",
+      "title": "Café Chairel",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 822,
+      "titleES": "Café Chairel",
+      "originalTitle": "Café Chairel",
+      "director": "Fernando Barreda Luna",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/3102"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Contraataque",
+      "title": "Contraataque",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 438,
+      "titleES": "Contraataque",
+      "originalTitle": "Contraataque",
+      "director": "Chava Cartas",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1948"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "En el camino",
+      "title": "En el camino / On the Road",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 780,
+      "titleES": "En el camino / On the Road",
+      "originalTitle": "En el camino",
+      "director": "David Pablos",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2944"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "La misteriosa mirada del flamenco",
+      "title": "La misteriosa mirada del flamenco",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 161,
+      "titleES": "La misteriosa mirada del flamenco",
+      "originalTitle": "La misteriosa mirada del flamenco",
+      "director": "Diego Céspedes",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/594"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Las locuras",
+      "title": "Las Locuras",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 621,
+      "titleES": "Las Locuras",
+      "originalTitle": "Las Locuras",
+      "director": "Rodrigo García",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2361"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Los domingos",
+      "title": "Los domingos",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 294,
+      "titleES": "Los domingos",
+      "originalTitle": "Los domingos",
+      "director": "Alauda Ruiz de Azúa",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1323"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Los dos hemisferios de Lucca",
+      "title": "Los dos hemisferios de Lucca",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 138,
+      "titleES": "Los dos hemisferios de Lucca",
+      "originalTitle": "Los dos hemisferios de Lucca",
+      "director": "Mariana Chenillo",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/475"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "O último azul",
+      "title": "El Sendero Azul",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 235,
+      "titleES": "El Sendero Azul",
+      "originalTitle": "O Último Azul",
+      "director": "Gabriel Mascaro",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1042"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 68.ª entrega",
+      "sourceTitle": "Un poeta",
+      "title": "Un poeta",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 304,
+      "titleES": "Un poeta",
+      "originalTitle": "Un poeta",
+      "director": "Simón Mesa Soto",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1398"
+    },
+    {
+      "festival": "Sitges",
+      "section": "Noves Visions · selección 2025 (premio Méliès d’Or 2026)",
+      "sourceTitle": "Feels Like Home",
+      "title": "Un secuestro familiar / Feels Like Home / Itt érzem magam otthon",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 556,
+      "titleES": "Un secuestro familiar / Feels Like Home / Itt érzem magam otthon",
+      "originalTitle": "Itt érzem magam otthon",
+      "director": "Gábor Holtai",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2728"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "A través del fuego",
+      "title": "Laberinto en llamas",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 117,
+      "titleES": "Laberinto en llamas",
+      "originalTitle": "The Lost Bus",
+      "director": "Paul Greengrass",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/381"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Abrázame en la luz",
+      "title": "Come See Me in the Good Light",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 295,
+      "titleES": "Come See Me in the Good Light",
+      "originalTitle": "Come See Me in the Good Light",
+      "director": "Ryan White",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1327"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Alabama: Presos del sistema",
+      "title": "La solución al estilo de Alabama",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 300,
+      "titleES": "La solución al estilo de Alabama",
+      "originalTitle": "The Alabama Solution",
+      "director": "Andrew Jarecki, Charlotte Kaufman",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1362"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Arco",
+      "title": "Arco",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 283,
+      "titleES": "Arco",
+      "originalTitle": "Arco",
+      "director": "Ugo Bienvenu",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1279"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Armado solo con una cámara: Vida y muerte de Brent Renaud",
+      "title": "Armado solo con una cámara - Vida y muerte de Brent Renaud",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 299,
+      "titleES": "Armado solo con una cámara - Vida y muerte de Brent Renaud",
+      "originalTitle": "Armed Only with a Camera: The Life and Death of Brent Renaud",
+      "director": "Brent Renaud",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1360"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Avatar: Fuego y cenizas",
+      "title": "Avatar - Fuego y ceniza",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 328,
+      "titleES": "Avatar - Fuego y ceniza",
+      "originalTitle": "Avatar: Fire and Ash",
+      "director": "James Cameron",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1513"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "El agente secreto",
+      "title": "El agente secreto",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 373,
+      "titleES": "El agente secreto",
+      "originalTitle": "O Agente Secreto",
+      "director": "Kleber Mendonça Filho",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1720"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Elio",
+      "title": "Elio",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 99,
+      "titleES": "Elio",
+      "originalTitle": "Elio",
+      "director": "Madeline Sharafian, Domee Shi, Adrián Molina",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/319"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "F1: La película",
+      "title": "F1 la película",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 46,
+      "titleES": "F1 la película",
+      "originalTitle": "F1",
+      "director": "Joseph Kosinski",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/122"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Frankenstein",
+      "title": "Frankenstein",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 80,
+      "titleES": "Frankenstein",
+      "originalTitle": "Frankenstein",
+      "director": "Guillermo del Toro",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/231"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Fue solo un accidente",
+      "title": "Un simple accidente",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 225,
+      "titleES": "Un simple accidente",
+      "originalTitle": "Un simple accident",
+      "director": "Jafar Panahi",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/992"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Hamnet",
+      "title": "Hamnet",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 273,
+      "titleES": "Hamnet",
+      "originalTitle": "Hamnet",
+      "director": "Chloé Zhao",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1230"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Jurassic World: Renace",
+      "title": "Jurassic World - El renacer",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 36,
+      "titleES": "Jurassic World - El renacer",
+      "originalTitle": "Jurassic World Rebirth",
+      "director": "Gareth Edwards",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/96"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Kokuho. El maestro del kabuki",
+      "title": "Kokuho. El maestro del kabuki",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 353,
+      "titleES": "Kokuho. El maestro del kabuki",
+      "originalTitle": "国宝",
+      "director": "Sang-il Lee",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2809"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "La hermanastra fea",
+      "title": "La hermanastra fea",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 41,
+      "titleES": "La hermanastra fea",
+      "originalTitle": "Den stygge stesøsteren",
+      "director": "Emilie Blichfeldt",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/106"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "La hora de la desaparición",
+      "title": "Weapons",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 55,
+      "titleES": "Weapons",
+      "originalTitle": "Weapons",
+      "director": "Zach Cregger",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/148"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "La Máquina: The Smashing Machine",
+      "title": "The Smashing Machine",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 515,
+      "titleES": "The Smashing Machine",
+      "originalTitle": "The Smashing Machine",
+      "director": "Benny Safdie",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2113"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "La vecina perfecta",
+      "title": "La vecina perfecta",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 301,
+      "titleES": "La vecina perfecta",
+      "originalTitle": "The Perfect Neighbor",
+      "director": "Geeta Gandbhir",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1364"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "La voz de Hind Rajab",
+      "title": "La voz de Hind",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 307,
+      "titleES": "La voz de Hind",
+      "originalTitle": "صوت هند رجب",
+      "director": "Kaouther Ben Hania",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1405"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Las guerreras k-pop",
+      "title": "Las guerreras k-pop",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 90,
+      "titleES": "Las guerreras k-pop",
+      "originalTitle": "KPop Demon Hunters",
+      "director": "Chris Appelhans, Maggie Kang",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/290"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Los cantores rusos",
+      "title": "Los cantores rusos",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 623,
+      "titleES": "Los cantores rusos",
+      "originalTitle": "The Singers",
+      "director": "Sam A. Davis",
+      "year": 2026,
+      "telegram": "https://t.me/c/2559087231/2365"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Luna azul",
+      "title": "Blue Moon",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 92,
+      "titleES": "Blue Moon",
+      "originalTitle": "Blue Moon",
+      "director": "Richard Linklater",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/294"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Marty Supremo",
+      "title": "Marty Supreme",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 287,
+      "titleES": "Marty Supreme",
+      "originalTitle": "Marty Supreme",
+      "director": "Josh Safdie",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1296"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Mr. Nobody Against Putin",
+      "title": "Mr. Nobody contra Putin",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 302,
+      "titleES": "Mr. Nobody contra Putin",
+      "originalTitle": "Mr. Nobody mod Putin",
+      "director": "David Borenstein",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1366"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Pecadores",
+      "title": "Los pecadores",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 5,
+      "titleES": "Los pecadores",
+      "originalTitle": "Sinners",
+      "director": "Ryan Coogler",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/11"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Si pudiera, te daría una patada",
+      "title": "Si pudiera, te daría una patada",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 102,
+      "titleES": "Si pudiera, te daría una patada",
+      "originalTitle": "If I Had Legs I'd Kick You",
+      "director": "Mary Bronstein",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/339"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Sirât",
+      "title": "Sirāt",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 108,
+      "titleES": "Sirāt",
+      "originalTitle": null,
+      "director": "Oliver Laxe",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/357"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Song Sung Blue (Canción para dos)",
+      "title": "Song Sung Blue - Canción para dos",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 309,
+      "titleES": "Song Sung Blue - Canción para dos",
+      "originalTitle": "Song Sung Blue",
+      "director": "Craig Brewer",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1427"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Sueños de trenes",
+      "title": "Sueños de trenes",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 103,
+      "titleES": "Sueños de trenes",
+      "originalTitle": "Train Dreams",
+      "director": "Clint Bentley",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/325"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Todas las habitaciones vacías",
+      "title": "Todas las habitaciones vacías",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 133,
+      "titleES": "Todas las habitaciones vacías",
+      "originalTitle": null,
+      "director": "Joshua Seftel",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/464"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Una batalla tras otra",
+      "title": "Una batalla tras otra",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 231,
+      "titleES": "Una batalla tras otra",
+      "originalTitle": "One Battle After Another",
+      "director": "Paul Thomas Anderson",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1018"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Valor sentimental",
+      "title": "Valor sentimental",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 322,
+      "titleES": "Valor sentimental",
+      "originalTitle": "Affeksjonsverdi",
+      "director": "Joachim Trier",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/1499"
+    },
+    {
+      "festival": "Oscar",
+      "section": "98.ª ceremonia · películas estrenadas en 2025",
+      "sourceTitle": "Zootopia 2",
+      "title": "Zootrópolis 2 / Zootopia 2",
+      "masterFile": "Catalogo_Telegram_2025.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 526,
+      "titleES": "Zootrópolis 2 / Zootopia 2",
+      "originalTitle": "Zootopia 2",
+      "director": "Jared Bush, Byron Howard",
+      "year": 2025,
+      "telegram": "https://t.me/c/2559087231/2837"
+    }
+  ],
+  "notLocated": [
+    {
+      "festival": "Globos de Oro",
+      "title": "Amélie y los secretos de la lluvia",
+      "director": "Maïlys Vallade"
+    },
+    {
+      "festival": "Globos de Oro",
+      "title": "Bugonia",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "festival": "César",
+      "title": "Au bain des dames",
+      "director": "Margaux Fournier"
+    },
+    {
+      "festival": "César",
+      "title": "Big Boys Don’t Cry",
+      "director": "Arnaud Delmarle"
+    },
+    {
+      "festival": "César",
+      "title": "Car Wash",
+      "director": "Laïs Decaster"
+    },
+    {
+      "festival": "César",
+      "title": "Deux personnes échangeant de la salive",
+      "director": "Natalie Musteata, Alexandre Singh"
+    },
+    {
+      "festival": "César",
+      "title": "Dieu est timide",
+      "director": "Jocelyn Charles"
+    },
+    {
+      "festival": "César",
+      "title": "Fille de l’eau",
+      "director": "Sandra Desmazières"
+    },
+    {
+      "festival": "César",
+      "title": "La Chambre de Mariana",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "La Condition",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "La Pampa",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "La Vie de château, mon enfance à Versailles",
+      "director": "Clémence Madeleine-Perdrillat, Nathaniel H’Limi"
+    },
+    {
+      "festival": "César",
+      "title": "Le Chant des forêts",
+      "director": "Vincent Munier"
+    },
+    {
+      "festival": "César",
+      "title": "Le Cinquième Plan de la Jetée",
+      "director": "Dominique Cabrera"
+    },
+    {
+      "festival": "César",
+      "title": "Les Belles Cicatrices",
+      "director": "Raphaël Jouzeau"
+    },
+    {
+      "festival": "César",
+      "title": "L’Agent secret",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "L’Engloutie",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "L’Épreuve du feu",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Mort d’un acteur",
+      "director": "Ambroise Rateau"
+    },
+    {
+      "festival": "César",
+      "title": "Météors",
+      "director": "Hubert Charuel"
+    },
+    {
+      "festival": "César",
+      "title": "Ni Dieu ni père",
+      "director": "Paul Kermarec"
+    },
+    {
+      "festival": "César",
+      "title": "Partir un jour",
+      "director": "Amélie Bonnin"
+    },
+    {
+      "festival": "César",
+      "title": "Personne n’y comprend rien",
+      "director": "Yannick Kergoat"
+    },
+    {
+      "festival": "César",
+      "title": "Une bataille après l’autre",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Valeur sentimentale",
+      "director": ""
+    },
+    {
+      "festival": "César",
+      "title": "Wonderwall",
+      "director": "Róisín Burns"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Cinque Secondi",
+      "director": "Paolo Virzì"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Le Città Di Pianura",
+      "director": "Francesco Sossai"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "La Città Proibita",
+      "director": "Gabriele Mainetti"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Breve Storia D'Amore",
+      "director": "Ludovica Rampoldi"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Gioia Mia",
+      "director": "Margherita Spampinato"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "La Vita Da Grandi",
+      "director": "Greta Scarano"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Tienimi Presente",
+      "director": "Alberto Palmiero"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "40 Secondi",
+      "director": "Vincenzo Alfieri"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Elisa",
+      "director": "Leonardo Di Costanzo"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Un Film Fatto Per Bene",
+      "director": "Franco Maresco"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Il Nibbio",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Diva Futura",
+      "director": "Giulia Louise Steigerwalt"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Ammazzare Stanca - Autobiografia Di Un Assassino",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Nonostante",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Il Maestro",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Itaca - Il Ritorno",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Bobò",
+      "director": "Pippo Delbono"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Ferdinando Scianna - Il Fotografo Dell'Ombra",
+      "director": "Roberto Ando'"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Roberto Rossellini - Più Di Una Vita",
+      "director": "Ilaria De Laurentiis - Andrea Paolo Massara - Raffaele Brunetti"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Toni Mio Padre",
+      "director": "Anna Negri"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Astronauta",
+      "director": "Giorgio Giampà"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Ciao, Varsavia",
+      "director": "Diletta Di Nicolantonio"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Everyday In Gaza",
+      "director": "Omar Rammal"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Festa In Famiglia",
+      "director": "Nadir Taji"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Tempi Supplementari",
+      "director": "Matteo Memè"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Io Sono Ancora Qui",
+      "director": "Regia Di: Walter Salles"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "La Voce Di Hind Rajab",
+      "director": "Regia Di: Kaouther Ben Hania"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Un Semplice Incidente",
+      "director": "Regia Di: Jafar Panahi"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Una Battaglia Dopo L'Altra",
+      "director": "Regia Di: Paul Thomas Anderson"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Per Te",
+      "director": "Alessandro Aronadio"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Adiós, amor",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Azul",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Azulesepia",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Brigada 2045",
+      "director": "Olivia Luengas Magaña"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Cocodrilos",
+      "director": "J. Xavier Velasco"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Cosmos",
+      "director": "Germinal Roaux"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Crónica menor",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Desdoblándome",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "El diablo fuma (y guarda las cabezas de los cerillos quemados en la misma caja)",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Gaza, la franja del exterminio",
+      "director": "Rafael Rangel"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Gerry Adams: el hombre de Ballymurphy",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Juana",
+      "director": "Daniel Giménez Cacho"
+    },
+    {
+      "festival": "Ariel",
+      "title": "La eterna adolescente",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "La gran historia de la filosofía occidental",
+      "director": "Aria L. Covamonas"
+    },
+    {
+      "festival": "Ariel",
+      "title": "La libertad de Fierro",
+      "director": "Santiago Esteinou"
+    },
+    {
+      "festival": "Ariel",
+      "title": "La mar",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "La reserva",
+      "director": "Pablo Pérez Lombardini"
+    },
+    {
+      "festival": "Ariel",
+      "title": "La sombra del Catire",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Las mutaciones",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Las voces del despeñadero",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Llamarse Olimpia",
+      "director": "Indira Cato Cortés"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Manas",
+      "director": "Marianna Brennand"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mujer de barro",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mujeres del alba",
+      "director": "Jimena Montemayor Loyo"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mácula",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Oc ni temiki (sigo soñando)",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Pérdida total",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Soy Frankelda",
+      "director": "Arturo Ambriz Rendón, Rodolfo Ambriz Rendón"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Te prometo violencia",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Teatro secreto",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Techiq",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Toda la vida para siempre",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Un cuento de pescadores",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Una torreta en llamas",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Vainilla",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Vidas en la orilla",
+      "director": "Lucía Gajá"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Wing Shop",
+      "director": ""
+    },
+    {
+      "festival": "Locarno",
+      "title": "Brave New Love",
+      "director": "Maria Bäck"
+    },
+    {
+      "festival": "Locarno",
+      "title": "D’ici là",
+      "director": "Sarah Leonor"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Donkey Princess",
+      "director": "Cristobal León, Joaquín Cociña"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Far From the Trees",
+      "director": "Meritxell Colell"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Hearing",
+      "director": "Lê Bảo"
+    },
+    {
+      "festival": "Locarno",
+      "title": "The House on the Moon",
+      "director": "Nelson Yeo"
+    },
+    {
+      "festival": "Locarno",
+      "title": "I Rarely Wake Up Dreaming",
+      "director": "Isabelle Stever"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Ketticè",
+      "director": "Giovanni Tortorici"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Manhunt",
+      "director": "Wayne Wapeemukwa"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Nobody’s Violence",
+      "director": "Denis Côté"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Nowhere to Lay My Eyes",
+      "director": "Hong Sang-soo"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Objet a",
+      "director": "Ann Oren"
+    },
+    {
+      "festival": "Locarno",
+      "title": "O Jacaré",
+      "director": "Basil Da Cunha"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Rehmat",
+      "director": "Gurvinder Singh"
+    },
+    {
+      "festival": "Locarno",
+      "title": "The Riverbank",
+      "director": "Matheus Farias, Enock Carvalho"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Wandering Trees",
+      "director": "Salvatore Mereu"
+    },
+    {
+      "festival": "Locarno",
+      "title": "You Don’t Belong Here",
+      "director": "Florin Șerban"
+    },
+    {
+      "festival": "Locarno",
+      "title": "At Night",
+      "director": "Beatrice Gibson"
+    },
+    {
+      "festival": "Locarno",
+      "title": "The Days Off",
+      "director": "Lucila Mariani"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Demons",
+      "director": "Natalya Vorozhbyt"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Destroy All Girls",
+      "director": "Erin Vassilopoulos"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Ego Reach We All (Our Time Will Come)",
+      "director": "Amartei Armar"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Fire Flower",
+      "director": "Ana Vaz"
+    },
+    {
+      "festival": "Locarno",
+      "title": "The Illusion of an Everlasting Summer",
+      "director": "Alessandra Sanguinetti"
+    },
+    {
+      "festival": "Locarno",
+      "title": "In All My Journeys I Am Returning",
+      "director": "Manuel Ponce de León"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Magic Atlas",
+      "director": "Sun Xun"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Revolutionaries Never Die",
+      "director": "Mohanad Yaqubi"
+    },
+    {
+      "festival": "Locarno",
+      "title": "September Afternoon",
+      "director": "Nicolaas Schmidt"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Small Talk",
+      "director": "Mateo Ybarra"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Summer Meadow",
+      "director": "Naël Khleifi"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Tear Gas",
+      "director": "Uta Beria"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Tomorrow a Long Time Ago",
+      "director": "Luise Donschen"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Frank & Louis",
+      "director": "Petra Biondina Volpe"
+    },
+    {
+      "festival": "Locarno",
+      "title": "PARADEISA",
+      "director": "Marleen Valien"
+    },
+    {
+      "festival": "Locarno",
+      "title": "The Newcomers (Los nuevos)",
+      "director": "Rodrigo Plá"
+    },
+    {
+      "festival": "Locarno",
+      "title": "The Bovine Comedy",
+      "director": "Ratchapoom Boonbunchachoke"
+    },
+    {
+      "festival": "Locarno",
+      "title": "And If Thuy Didn’t Exist",
+      "director": "Carlo Francisco Manatad"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Private Property",
+      "director": "Deepak Rauniyar"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Melk",
+      "director": "Filip Anthonissen"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Khufu",
+      "director": "Mahmoud Assi"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Mutrion",
+      "director": "Marco Cavazzin"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Las damas",
+      "director": "Camille Zéhenne"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Typhoon Mambo",
+      "director": "Domenico Singha Pedroli"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Take Care",
+      "director": "Patricia Strübin"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Respirer une fois sur trois",
+      "director": "Charlyne Genoud"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Blossoming",
+      "director": "Kamila Serwicka"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Only the Serpent Knows",
+      "director": "Olivier Séron · Martin Verdet"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Bedford Park",
+      "director": "Stephanie Ahn"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Carousel",
+      "director": "Rachel Lambert"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Friend’s House is Here",
+      "director": "Hossein Keshavarz, Maryam Ataei"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Ha-Chan, Shake Your Booty!",
+      "director": "Josef Kubota Wladyka"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Hot Water",
+      "director": "Ramzi Bashour"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Josephine",
+      "director": "Beth de Araújo"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Musical",
+      "director": "Giselle Bonilla"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Run Amok",
+      "director": "NB Mager"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Take Me Home",
+      "director": "Liz Sargent"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Union County",
+      "director": "Adam Meeks"
+    },
+    {
+      "festival": "Sundance",
+      "title": "American Doctor",
+      "director": "Poh Si Teng"
+    },
+    {
+      "festival": "Sundance",
+      "title": "American Pachuco: The Legend of Luis Valdez",
+      "director": "David Alvarado"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Barbara Forever",
+      "director": "Brydie O’Connor"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Joybubbles",
+      "director": "Rachael J. Morrison"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Lake",
+      "director": "Abby Ellis"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Nuisance Bear",
+      "director": "Gabriela Osio Vanden, Jack Weisman"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Public Access",
+      "director": "David Shadrack Smith"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Seized",
+      "director": "Sharon Liese"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Soul Patrol",
+      "director": "J.M. Harper"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Who Killed Alex Odeh?",
+      "director": "Jason Osder, William Lafi Youmans"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Big Girls Don’t Cry",
+      "director": "Paloma Schneideman"
+    },
+    {
+      "festival": "Sundance",
+      "title": "How to Divorce During the War",
+      "director": "Andrius Blaževičius"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Extra Geography",
+      "director": "Molly Manners"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Filipiñana",
+      "director": "Rafael Manuel"
+    },
+    {
+      "festival": "Sundance",
+      "title": "HOLD ONTO ME (Κράτα Με)",
+      "director": "Myrsini Aristidou"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Huntress (La Cazadora)",
+      "director": "Suzanne Andrews Correa"
+    },
+    {
+      "festival": "Sundance",
+      "title": "LADY",
+      "director": "Olive Nwosu"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Levitating",
+      "director": "Wregas Bhanuteja"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Shame and Money",
+      "director": "Visar Morina"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Tell Me Everything",
+      "director": "Moshe Rosenthal"
+    },
+    {
+      "festival": "Sundance",
+      "title": "All About the Money",
+      "director": "Sinéad O’Shea"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Birds of War",
+      "director": "Janay Boulos, Abd Alkader Habak"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Closure",
+      "director": "Michał Marczak"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Everybody To Kenmure Street",
+      "director": "Felipe Bustos Sierra"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Hanging by a Wire",
+      "director": "Mohammed Ali Naqvi"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Kikuyu Land",
+      "director": "Andrew H. Brown, Bea Wangondu"
+    },
+    {
+      "festival": "Sundance",
+      "title": "One In A Million",
+      "director": "Itab Azzam, Jack MacInnes"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Sentient",
+      "director": "Tony Jones"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Silenced",
+      "director": "Selina Miles"
+    },
+    {
+      "festival": "Sundance",
+      "title": "To Hold a Mountain",
+      "director": "Biljana Tutorov, Petar Glomazić"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Aanikoobijigan [ancestor/great-grandparent/great-grandchild]",
+      "director": "Adam Khalil, Zack Khalil"
+    },
+    {
+      "festival": "Sundance",
+      "title": "BURN",
+      "director": "Makoto Nagahisa"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Ghost in the Machine",
+      "director": "Valerie Veatch"
+    },
+    {
+      "festival": "Sundance",
+      "title": "If I Go Will They Miss Me",
+      "director": "Walter Thompson-Hernández"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Incomer",
+      "director": "Louis Paxton"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Jaripeo",
+      "director": "Efraín Mojica, Rebecca Zweig"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Night Nurse",
+      "director": "Georgia Bernstein"
+    },
+    {
+      "festival": "Sundance",
+      "title": "TheyDream",
+      "director": "William David Caballero"
+    },
+    {
+      "festival": "Sundance",
+      "title": "zi",
+      "director": "Kogonada"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Baddest Speechwriter of All",
+      "director": "Ben Proudfoot, Stephen Curry"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Crisis Actor",
+      "director": "Lily Platt"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Jazz Infernal",
+      "director": "Will Niava"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Boys and the Bees",
+      "director": "Arielle C. Knight"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Living with a Visionary",
+      "director": "Stephen P. Neary"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Paper Trail",
+      "director": "Don Hertzfeldt"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Liars",
+      "director": "Noah Roja, Filippo Carrozza"
+    },
+    {
+      "festival": "Sundance",
+      "title": "In The Blink of An Eye",
+      "director": "Andrew Stanton"
+    },
+    {
+      "festival": "Sitges",
+      "title": "11",
+      "director": "Clàudia Serra, Paula Serra"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Aniquilación (Onslaught)",
+      "director": "Adam Wingard"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Blades of the Guardians: Wind Rises in the Desert",
+      "director": "Yuen Woo-ping"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Buddy",
+      "director": "Casper Kelly"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Colony",
+      "director": "Yeon Sang-ho"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Company",
+      "director": "Casey Affleck"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Drag",
+      "director": "Greg Yagolnitzer, Raviv Ullman"
+    },
+    {
+      "festival": "Sitges",
+      "title": "DreamQuil",
+      "director": "Alex Prager"
+    },
+    {
+      "festival": "Sitges",
+      "title": "El exterior",
+      "director": "Víctor Moreno"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Found Alive",
+      "director": "Carlota Pereda"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Frost",
+      "director": "Pavle Vučković"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Full Phil",
+      "director": "Quentin Dupieux"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Ghost in the Cell",
+      "director": "Joko Anwar"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Historias de la noche (The Birthday Party)",
+      "director": "Léa Mysius"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Hot Spot",
+      "director": "Agnieszka Smoczyńska"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Kakeru (Sheep in the Box)",
+      "director": "Hirokazu Koreeda"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Las hijas",
+      "director": "Daniel Romero"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Leviticus",
+      "director": "Adrian Chiarella"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Los Vampires",
+      "director": "Craig Mitchell"
+    },
+    {
+      "festival": "Sitges",
+      "title": "MUTTER: The Diary of a Mother",
+      "director": "Alphan Eşeli"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Never After Dark",
+      "director": "Dave Boyle"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Nightborn",
+      "director": "Hanna Bergholm"
+    },
+    {
+      "festival": "Sitges",
+      "title": "No Rest for the Wicked",
+      "director": "Kasper Kalle Skovsbøl"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Océano Titánico",
+      "director": "Konstantina Kotzamani"
+    },
+    {
+      "festival": "Sitges",
+      "title": "River",
+      "director": "Joshua Giuliano"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Salitre",
+      "director": "Norma Vila"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Sanguine",
+      "director": "Marion Le Corroller"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The End of It",
+      "director": "María Martínez Bayona"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Face of Horror",
+      "director": "Anna Biller"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Incomer",
+      "director": "Louis Paxton"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Ones Who Grieve",
+      "director": "Quarxx"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Spiral",
+      "director": "Paolo Strippoli"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Upiro",
+      "director": "Óscar Martín"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Victorian Psycho",
+      "director": "Zachary Wigon"
+    },
+    {
+      "festival": "Sitges",
+      "title": "We Are Aliens",
+      "director": "Kohei Kadowaki"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Wildwood",
+      "director": "Travis Knight"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Hen",
+      "director": "Nico Scheepers"
+    },
+    {
+      "festival": "Sitges",
+      "title": "La muerte de Drácula",
+      "director": "Fernando Martínez, Juan González"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Familia teme enfrentar una nueva noche de terror",
+      "director": "Cristian Ponce"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Gummy",
+      "director": "Javi Prada"
+    },
+    {
+      "festival": "Sitges",
+      "title": "5 minutos más",
+      "director": "Javier Ruiz Caldera"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Fox",
+      "director": "Dario Russo"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Kung Fu Deadly",
+      "director": "Fergal Costello"
+    },
+    {
+      "festival": "Sitges",
+      "title": "No Salgas",
+      "director": "Victoria Linares"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Man Eating Pussy",
+      "director": "Emily Lawson"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Snakes in Lace",
+      "director": "Martina Pavlíková, Petr Kadaňka"
+    },
+    {
+      "festival": "Sitges",
+      "title": "NOIZE",
+      "director": "Javier Rodríguez Pino"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Flesh Dress",
+      "director": "Joachim Hérissé"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Old Lady and the Eternity",
+      "director": "Marc Martínez Jordán"
+    },
+    {
+      "festival": "Sitges",
+      "title": "El moribundo",
+      "director": "Laura Guerricaechevarría"
+    },
+    {
+      "festival": "Sitges",
+      "title": "The Last Snow",
+      "director": "Rodolphe Bouquet-Populus"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Dissecció d’una incoherència en crisi",
+      "director": "Nausica Serra"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Amor comestible",
+      "director": "Diana Magallón"
+    },
+    {
+      "festival": "Sitges",
+      "title": "Amber Lights",
+      "director": "Daniel Troya, Laura Cortés"
+    },
+    {
+      "festival": "Seminci",
+      "title": "We Are All Strangers",
+      "director": "Anthony Chen"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Prosecution",
+      "director": "Faraz Shariat"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Cartas de Estado",
+      "director": "İlker Çatak"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Everytime",
+      "director": "Sandra Wollner"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Rose",
+      "director": "Markus Schleinzer"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Un hombre de nuestro tiempo",
+      "director": "Emmanuel Marre"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Aquí",
+      "director": "Tiago Guedes"
+    },
+    {
+      "festival": "Seminci",
+      "title": "La Gradiva",
+      "director": "Marine Atlan"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Las islas afortunadas",
+      "director": "Helena Girón, Samuel Delgado"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Hermanas",
+      "director": "Ione Hernández"
+    },
+    {
+      "festival": "Seminci",
+      "title": "A Bit of Light",
+      "director": "Ali Asgari"
+    },
+    {
+      "festival": "Seminci",
+      "title": "La violinista",
+      "director": "Ervin Han, Raúl García"
+    },
+    {
+      "festival": "Seminci",
+      "title": "My Notes on Mars",
+      "director": "Lili Horvát"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Woman Unknown",
+      "director": "May el-Toukhy"
+    },
+    {
+      "festival": "Seminci",
+      "title": "La libertad doble",
+      "director": "Lisandro Alonso"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Dao",
+      "director": "Alain Gomis"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Un monstruo amable",
+      "director": "Marie Kreutzer"
+    },
+    {
+      "festival": "Seminci",
+      "title": "A Good Little Soldier",
+      "director": "Stéphane Brizé"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Queen at Sea",
+      "director": "Lance Hammer"
+    },
+    {
+      "festival": "Seminci",
+      "title": "The Echo Chamber",
+      "director": "Andrea Pallaoro"
+    },
+    {
+      "festival": "Seminci",
+      "title": "Mr. Nelson, Did You Kill People?",
+      "director": "Shinya Tsukamoto"
+    },
+    {
+      "festival": "Seminci",
+      "title": "I Rarely Wake Up Dreaming",
+      "director": "Isabelle Stever"
+    },
+    {
+      "festival": "Oscar",
+      "title": "A Friend of Dorothy",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Amélie y los secretos de la lluvia",
+      "director": "Maïlys Vallade"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Bugonia",
+      "director": "Yorgos Lanthimos"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Butterfly",
+      "director": "Florence Miailhe"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Children No More: Were and are Gone",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Cutting Through Rocks",
+      "director": "Sara Khaki · Mohammadreza Eyni"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Diane Warren: Relentless",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Dos personas intercambiando saliva",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "El carnicero",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "El diablo no descansa",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "El drama de época de Jane Austen",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Forevergreen",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "La chica que lloraba perlas",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Perfectly a Strangeness",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Plan de jubilación",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "The Three Sisters",
+      "director": ""
+    },
+    {
+      "festival": "Oscar",
+      "title": "Viva Verdi!",
+      "director": ""
+    }
+  ],
+  "directorRecovery": [
+    {
+      "festival": "César",
+      "title": "13 jours, 13 nuits",
+      "director": "Martin Bourboulon",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Black Dog",
+      "director": "Guan Hu",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Chien 51",
+      "director": "Cédric Jimenez",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Dossier 137",
+      "director": "Dominik Moll",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Dracula",
+      "director": "Radu Jude",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Jane Austen a gâché ma vie",
+      "director": "Laura Piani",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Kika",
+      "director": "Alexe Poukine",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "La Femme la plus riche du monde",
+      "director": "Thierry Klifa",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "La Petite Dernière",
+      "director": "Hafsia Herzi",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "La Venue de l’avenir",
+      "director": "Cédric Klapisch",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "L’Attachement",
+      "director": "Carine Tardieu",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "L’Homme qui rétrécit",
+      "director": "Jan Kounen",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "L’Inconnu de la Grande Arche",
+      "director": "Stéphane Demoustier",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "L’Étranger",
+      "director": "François Ozon",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Ma mère, Dieu et Sylvie Vartan",
+      "director": "Ken Scott",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Météors",
+      "director": "Hubert Charuel",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Nino",
+      "director": "Pauline Loquès",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Nouvelle Vague",
+      "director": "Richard Linklater",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Partir un jour",
+      "director": "Amélie Bonnin",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Sirāt",
+      "director": "Oliver Laxe",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "César",
+      "title": "Un ours dans le Jura",
+      "director": "Franck Dubosc",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "César",
+      "title": "Un simple accident",
+      "director": "Jafar Panahi",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Duse",
+      "director": "Pietro Marcello",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Elisa",
+      "director": "Leonardo Di Costanzo",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Primavera",
+      "director": "Damiano Michieletto",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Un Film Fatto Per Bene",
+      "director": "Franco Maresco",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Diva Futura",
+      "director": "Giulia Louise Steigerwalt",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Tre Ciotole",
+      "director": "Isabel Coixet",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Queer",
+      "director": "Luca Guadagnino",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Buen Camino",
+      "director": "Gennaro Nunziante",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Follemente",
+      "director": "Paolo Genovese",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "La Valle Dei Sorrisi",
+      "director": "Paolo Strippoli",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Autos, mota y rocanrol",
+      "director": "José Manuel Cravioto",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Belén",
+      "director": "Dolores Fonzi",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Café Chairel",
+      "director": "Fernando Barreda Luna",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Contraataque",
+      "director": "Chava Cartas",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Las locuras",
+      "director": "Rodrigo García",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Los dos hemisferios de Lucca",
+      "director": "Mariana Chenillo",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "A través del fuego",
+      "director": "Paul Greengrass",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Abrázame en la luz",
+      "director": "Ryan White",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Alabama: Presos del sistema",
+      "director": "Andrew Jarecki, Charlotte Kaufman",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Armado solo con una cámara: Vida y muerte de Brent Renaud",
+      "director": "Brent Renaud",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Butterfly",
+      "director": "Florence Miailhe",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Cutting Through Rocks",
+      "director": "Sara Khaki · Mohammadreza Eyni",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Jurassic World: Renace",
+      "director": "Gareth Edwards",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Kokuho. El maestro del kabuki",
+      "director": "Sang-il Lee",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "La hermanastra fea",
+      "director": "Emilie Blichfeldt",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "La vecina perfecta",
+      "director": "Geeta Gandbhir",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Los cantores rusos",
+      "director": "Sam A. Davis",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Mr. Nobody Against Putin",
+      "director": "David Borenstein",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "Oscar",
+      "title": "Todas las habitaciones vacías",
+      "director": "Joshua Seftel",
+      "source": "exact approved master identity"
+    }
+  ],
+  "pendingMetadata": [
+    {
+      "festival": "César",
+      "title": "La Chambre de Mariana",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "La Condition",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "La Pampa",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "L’Agent secret",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "L’Engloutie",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "L’Épreuve du feu",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "Une bataille après l’autre",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "César",
+      "title": "Valeur sentimentale",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Il Nibbio",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Ammazzare Stanca - Autobiografia Di Un Assassino",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Nonostante",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Il Maestro",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Itaca - Il Ritorno",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Adiós, amor",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Azul",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Azulesepia",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Crónica menor",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Desdoblándome",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "El diablo fuma (y guarda las cabezas de los cerillos quemados en la misma caja)",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Gerry Adams: el hombre de Ballymurphy",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "La eterna adolescente",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "La mar",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "La sombra del Catire",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Las mutaciones",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Las voces del despeñadero",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mujer de barro",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mácula",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Oc ni temiki (sigo soñando)",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Pérdida total",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Te prometo violencia",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Teatro secreto",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Techiq",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Toda la vida para siempre",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Un cuento de pescadores",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Una torreta en llamas",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Vainilla",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Wing Shop",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "A Friend of Dorothy",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Children No More: Were and are Gone",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Diane Warren: Relentless",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Dos personas intercambiando saliva",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "El carnicero",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "El diablo no descansa",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "El drama de época de Jane Austen",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Forevergreen",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "La chica que lloraba perlas",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Perfectly a Strangeness",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Plan de jubilación",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "The Three Sisters",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Oscar",
+      "title": "Viva Verdi!",
+      "field": "director",
+      "owned": false
+    }
+  ],
+  "corrections": [],
+  "completionBySol": {
+    "david": {
+      "sources": [
+        "https://www.daviddidonatello.it/vincitori/candidati-premi-david-di-donatello.php",
+        "https://www.daviddidonatello.it/vincitori/resoconto-voti-vincitori.php",
+        "https://filmitalia.org/it/festival/27078/"
+      ],
+      "control": [
+        {
+          "category": "Mejor película",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor dirección",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor dirección novel",
+          "candidates": 5,
+          "winner": {
+            "title": "GIOIA MIA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor guion original",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor guion adaptado",
+          "candidates": 5,
+          "winner": {
+            "title": "LE ASSAGGIATRICI",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor producción",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor actriz protagonista",
+          "candidates": 6,
+          "winner": {
+            "title": "GIOIA MIA",
+            "person": "Aurora QUATTROCCHI"
+          }
+        },
+        {
+          "category": "Mejor actor protagonista",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": "Sergio ROMANO"
+          }
+        },
+        {
+          "category": "Mejor actriz de reparto",
+          "candidates": 6,
+          "winner": {
+            "title": "FUORI",
+            "person": "Matilda DE ANGELIS"
+          }
+        },
+        {
+          "category": "Mejor actor de reparto",
+          "candidates": 6,
+          "winner": {
+            "title": "NONOSTANTE",
+            "person": "Lino MUSELLA"
+          }
+        },
+        {
+          "category": "Mejor casting",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor fotografía",
+          "candidates": 5,
+          "winner": {
+            "title": "LA CITTÀ PROIBITA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor compositor",
+          "candidates": 5,
+          "winner": {
+            "title": "PRIMAVERA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor canción original",
+          "candidates": 5,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor dirección artística",
+          "candidates": 5,
+          "winner": {
+            "title": "LA CITTÀ PROIBITA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor vestuario",
+          "candidates": 5,
+          "winner": {
+            "title": "PRIMAVERA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor maquillaje",
+          "candidates": 5,
+          "winner": {
+            "title": "LE ASSAGGIATRICI",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor peluquería",
+          "candidates": 5,
+          "winner": {
+            "title": "PRIMAVERA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor montaje",
+          "candidates": 6,
+          "winner": {
+            "title": "LE CITTÀ DI PIANURA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor sonido",
+          "candidates": 5,
+          "winner": {
+            "title": "PRIMAVERA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejores efectos visuales",
+          "candidates": 5,
+          "winner": {
+            "title": "LA CITTÀ PROIBITA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor película documental",
+          "candidates": 5,
+          "winner": {
+            "title": "ROBERTO ROSSELLINI - PIÙ DI UNA VITA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor cortometraje",
+          "candidates": 5,
+          "winner": {
+            "title": "EVERYDAY IN GAZA",
+            "person": null
+          }
+        },
+        {
+          "category": "Mejor película internacional",
+          "candidates": 5,
+          "winner": {
+            "title": "UNA BATTAGLIA DOPO L'ALTRA",
+            "person": null
+          }
+        },
+        {
+          "category": "David Giovani",
+          "candidates": 5,
+          "winner": {
+            "title": "LE ASSAGGIATRICI",
+            "person": null
+          }
+        }
+      ],
+      "notes": "25 categories,129 nominations,25 wins plus separate spectator recognition. Actor nominees from same film distinguished by personal credit."
+    },
+    "locarno": {
+      "sources": [
+        "https://cineuropa.org/en/newsdetail/494507",
+        "https://www.srf.ch/news/79-filmfestival-locarno-goldener-leopard-fuer-rumaenischen-film-you-don-t-belong-here",
+        "https://thefilmstage.com/locarno-film-festival-unveils-2026-lineup/"
+      ],
+      "added": [
+        "Blossoming",
+        "Only the Serpent Knows",
+        "Private Property",
+        "Ãsheghetam"
+      ],
+      "status": "Selection prepared by Luna, prizes from corroborated secondary sources; parallel awards not declared exhaustively audited."
+    }
+  },
+  "referenceRecovery": {
+    "confirmed": 118,
+    "references": 91,
+    "overlay": 1,
+    "corrections": [
+      {
+        "festival": "César",
+        "title": "Black Dog",
+        "previous": null
+      }
+    ],
+    "unresolved": [],
+    "conflicts": []
+  },
+  "notes": [
+    "Approved masters2019–2025 are read-only; no2026master exists in approved folder",
+    "Oscar replaced with structured categories, actual film year preserved",
+    "Seminci in_progress,22competition films and no wins; section clearly marks palmares pending",
+    "Six previously built families retained; no speculative corrections or claim of exhaustive re-audit",
+    "Black Dog director transliteration preserves approved poster and106min runtime; same film in related2024associations",
+    "Unowned entries with missing metadata retained without guessed director, property or image"
+  ]
+}
