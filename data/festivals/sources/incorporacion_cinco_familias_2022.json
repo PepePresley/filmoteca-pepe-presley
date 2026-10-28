@@ -1,0 +1,5170 @@
+{
+  "date": "2026-10-28",
+  "masterYearsChecked": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "sources": {
+    "ariel_2022_transcripcion.json": {
+      "sources": [
+        {
+          "url": "https://www.amacc.org.mx/premio-ariel-64-informacion-y-galeria",
+          "type": "transcripción completa oficial de candidaturas y ganadores de 25 categorías."
+        },
+        {
+          "url": "https://www.amacc.org.mx/wp-content/uploads/2022/10/Ganadores-Ariel-64-2022.pdf",
+          "type": "lista oficial PDF de ganadores; confirma ganadores y empate en maquillaje."
+        }
+      ],
+      "categorias": {
+        "Mejor actor": [
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "Alejandro Suárez"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Benny Emmanuel"
+          },
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Leonardo Ortizgris"
+          },
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Noé Hernández"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Raúl Briones"
+          }
+        ],
+        "Mejor actriz": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Ana Cristina Ordóñez"
+          },
+          {
+            "pelicula": "Plaza Catedral",
+            "persona": "Ilse Salas"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Mónica del Carmen"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Nora Velázquez"
+          },
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "Sylvia Pasquel"
+          }
+        ],
+        "Mejor coactuación femenina": [
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Aída López"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Eileen Yáñez"
+          },
+          {
+            "pelicula": "La diosa del asfalto",
+            "persona": "Mabel Cadena"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Mayra Batalla"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Norma Pablo"
+          }
+        ],
+        "Mejor coactuación masculina": [
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Andrés Delgado"
+          },
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "Daniel Giménez Cacho"
+          },
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Kristyan Ferrer"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Memo Villegas"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Salvador Garcini"
+          }
+        ],
+        "Mejor cortometraje de animación": [
+          {
+            "pelicula": "Fuego",
+            "persona": "Romina Díaz Araujo · Clara Helena Cobo Reyes"
+          },
+          {
+            "pelicula": "Llueve",
+            "persona": "Magali Rocha Donnadieu · Carolina Corral Paredes"
+          },
+          {
+            "pelicula": "Mijo tiene un dinosaurio",
+            "persona": "Alfredo Salomón"
+          },
+          {
+            "pelicula": "Secretum",
+            "persona": "Javier Gutiérrez"
+          },
+          {
+            "pelicula": "Tío",
+            "persona": "Juan J. Medina"
+          }
+        ],
+        "Mejor cortometraje documental": [
+          {
+            "pelicula": "En el fin del mundo",
+            "persona": "Abraham Escobedo-Salas"
+          },
+          {
+            "pelicula": "Flores de la llanura",
+            "persona": "Mariana X. Rivera"
+          },
+          {
+            "pelicula": "La libertad interna",
+            "persona": "Porfirio López Mendoza"
+          },
+          {
+            "pelicula": "Llámenme Puta",
+            "persona": "Digcenia Mejías"
+          },
+          {
+            "pelicula": "Pepedrilo",
+            "persona": "Víctor Cartas Valdivia"
+          }
+        ],
+        "Mejor cortometraje de ficción": [
+          {
+            "pelicula": "El sueño más largo que recuerdo",
+            "persona": "Carlos Lenin"
+          },
+          {
+            "pelicula": "Invierno",
+            "persona": "Rafael Ruiz Espejo · Luis Pacheco"
+          },
+          {
+            "pelicula": "Manchester Acatitla",
+            "persona": "Selma Cervantes"
+          },
+          {
+            "pelicula": "Reina",
+            "persona": "Ozan Mermer"
+          },
+          {
+            "pelicula": "Viral",
+            "persona": "Laura Andrea Martínez Hinojosa"
+          }
+        ],
+        "Mejor dirección": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Alonso Ruizpalacios"
+          },
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Ángeles Cruz"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Ernesto Contreras"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Tatiana Huezo"
+          }
+        ],
+        "Mejor diseño de arte": [
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "Alejandro García · Sandra Flores"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Diana Saade"
+          },
+          {
+            "pelicula": "La diosa del asfalto",
+            "persona": "Erika Ávila"
+          },
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Ivonne Fuentes Mendoza"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Oscar Tello"
+          }
+        ],
+        "Mejor edición": [
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Miguel Salgado"
+          },
+          {
+            "pelicula": "El otro Tom",
+            "persona": "Miguel Schverdfinger"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Miguel Schverdfinger"
+          },
+          {
+            "pelicula": "El hoyo en la cerca",
+            "persona": "Paloma López Carrillo"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Yibrán Asuad"
+          }
+        ],
+        "Mejores efectos especiales": [
+          {
+            "pelicula": "Malibú",
+            "persona": "Alejandro Vázquez"
+          },
+          {
+            "pelicula": "Aztech",
+            "persona": "Fernando Campos · Max Albarrán · Harumy Delmira Villarreal · Isaac Basulto · Miguel Ángel Marín · Ulises Guzmán · Raúl Campos · Enrique Sánchez “Quix” · Salvador Drán · Mauricio Van Hasselt"
+          },
+          {
+            "pelicula": "El hoyo en la cerca",
+            "persona": "José Martínez “Josh”"
+          },
+          {
+            "pelicula": "50 o dos ballenas se encuentran en la playa",
+            "persona": "Ricardo Arvizu Fernández"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Ricardo Arvizu Solís"
+          }
+        ],
+        "Mejores efectos visuales": [
+          {
+            "pelicula": "Aztech",
+            "persona": "Fernando Campos · Jaime Jasso · Isaac Basulto · Harumy Delmira Villareal · Raúl Campos · Enrique Sánchez “Quix” · Flavio Pedota · John Blásquez · Santiago Ortíz-Monasterio · Alexey Platonov · Zack Rodríguez · Max Blásquez · Aaron Valenzuela"
+          },
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Luis Montemayor"
+          },
+          {
+            "pelicula": "50 o dos ballenas se encuentran en la playa",
+            "persona": "Martin Lake · Isaac Tellez · Raúl Pano"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Miguel De Hoyos · Gustavo Leão"
+          },
+          {
+            "pelicula": "El exorcismo de Carmen Farías",
+            "persona": "Roberto Ham"
+          }
+        ],
+        "Mejor fotografía": [
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "Alejandro Cantú"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "César Gutiérrez Miranda AMC"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Dariela Ludlow"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Emiliano Villanueva AMC"
+          },
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Federico Barbabosa"
+          }
+        ],
+        "Mejor guion adaptado": [
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Martín Solares · Mario Muñoz"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Tatiana Huezo"
+          }
+        ],
+        "Mejor guion original": [
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Ángeles Cruz"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "David Gaitán · Alonso Ruizpalacios"
+          },
+          {
+            "pelicula": "El hoyo en la cerca",
+            "persona": "Joaquín Del Paso · Lucy Pawlak"
+          },
+          {
+            "pelicula": "50 o dos ballenas se encuentran en la playa",
+            "persona": "Jorge Cuchí"
+          },
+          {
+            "pelicula": "El otro Tom",
+            "persona": "Laura Santullo · Rodrigo Plá"
+          }
+        ],
+        "Mejor largometraje de animación": [
+          {
+            "pelicula": "Un rescate de huevitos",
+            "persona": "Gabriel Riva Palacio Alatriste · Rodolfo Riva Palacio Alatriste"
+          }
+        ],
+        "Mejor largometraje documental": [
+          {
+            "pelicula": "¿Qué les pasó a las abejas?",
+            "persona": "Adriana Otero Puerto · Robin Canul Suárez"
+          },
+          {
+            "pelicula": "Cruz",
+            "persona": "Teresa Camou Guerrero"
+          },
+          {
+            "pelicula": "Oaxacalifornia: El regreso",
+            "persona": "Trisha Ziff"
+          },
+          {
+            "pelicula": "Te nombré en el silencio",
+            "persona": "José María Espinosa de los Monteros Tatto"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Alonso Ruizpalacios"
+          }
+        ],
+        "Mejor maquillaje": [
+          {
+            "pelicula": "La diosa del asfalto",
+            "persona": "Alejandro Caraza"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Itzel Peña"
+          },
+          {
+            "pelicula": "El exorcismo de Carmen Farías",
+            "persona": "Mari Paz Robles “La Negra”"
+          },
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Roberto Ortiz"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Roberto Ortiz · Ana Flores"
+          }
+        ],
+        "Mejor música original": [
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Andrés Sánchez Maher · Gus Reyes"
+          },
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "David Mansfield"
+          },
+          {
+            "pelicula": "Oaxacalifornia: El regreso",
+            "persona": "Jacobo Lieberman · Andrés Sánchez Maher"
+          },
+          {
+            "pelicula": "El hoyo en la cerca",
+            "persona": "Kyle Eric Dixon · Michael David Stein"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Leonardo Heiblum · Jacobo Lieberman"
+          }
+        ],
+        "Mejor ópera prima": [
+          {
+            "pelicula": "50 o dos ballenas se encuentran en la playa",
+            "persona": "Jorge Cuchí"
+          },
+          {
+            "pelicula": "Guiexhuba",
+            "persona": "Sabrina Muhate"
+          },
+          {
+            "pelicula": "Muerte al verano",
+            "persona": "Sebastián Padilla-Padilla"
+          },
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Ángeles Cruz"
+          },
+          {
+            "pelicula": "Te nombré en el silencio",
+            "persona": "José María Espinosa de los Monteros Tatto"
+          }
+        ],
+        "Mejor película iberoamericana": [
+          {
+            "pelicula": "Cadejo Blanco",
+            "persona": "Justin Lerner"
+          },
+          {
+            "pelicula": "El buen patrón",
+            "persona": "Fernando León de Aranoa"
+          },
+          {
+            "pelicula": "El prófugo",
+            "persona": "Natalia Meta"
+          },
+          {
+            "pelicula": "Memoria",
+            "persona": "Apichatpong Weerasethakul"
+          },
+          {
+            "pelicula": "Mis hermanos sueñan despiertos",
+            "persona": "Claudia Huaquimilla"
+          }
+        ],
+        "Mejor revelación actoral": [
+          {
+            "pelicula": "Blanco de verano",
+            "persona": "Adrián Rossi"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Alejandra Camacho"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Giselle Barrera"
+          },
+          {
+            "pelicula": "El otro Tom",
+            "persona": "Israel Rodríguez"
+          },
+          {
+            "pelicula": "El otro Tom",
+            "persona": "Julia Chávez"
+          }
+        ],
+        "Mejor sonido": [
+          {
+            "pelicula": "El hoyo en la cerca",
+            "persona": "Guido Berenblum · Santiago Arroyo Camacho · Jaime Baksht · Michelle Couttolenc"
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Isabel Muñoz Cota · Javier Umpierrez · Michelle Couttolenc · Jaime Baksht"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Lena Esquenazi · Federico G. Jordan · Paulo Gama"
+          },
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Misael Hernández · Enrique Greiner · Raymundo Ballesteros · Manuel Montaño"
+          },
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Pablo Tamez · Rodrigo Castillo Filomarino"
+          }
+        ],
+        "Mejor vestuario": [
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Abril Álamo"
+          },
+          {
+            "pelicula": "La diosa del asfalto",
+            "persona": "Alejandro Caraza"
+          },
+          {
+            "pelicula": "El diablo entre las piernas",
+            "persona": "Laura García de la Mora"
+          },
+          {
+            "pelicula": "El hoyo en la cerca",
+            "persona": "Úrsula Schneider"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Úrsula Schneider"
+          }
+        ],
+        "Mejor película": [
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": null
+          },
+          {
+            "pelicula": "El otro Tom",
+            "persona": null
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": null
+          },
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": null
+          },
+          {
+            "pelicula": "Una película de policías",
+            "persona": null
+          }
+        ]
+      },
+      "ganadores": {
+        "Mejor actor": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Raúl Briones"
+          }
+        ],
+        "Mejor actriz": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Mónica del Carmen"
+          }
+        ],
+        "Mejor coactuación femenina": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Mayra Batalla"
+          }
+        ],
+        "Mejor coactuación masculina": [
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Kristyan Ferrer"
+          }
+        ],
+        "Mejor cortometraje de animación": [
+          {
+            "pelicula": "Tío",
+            "persona": "Juan J. Medina"
+          }
+        ],
+        "Mejor cortometraje documental": [
+          {
+            "pelicula": "Flores de la llanura",
+            "persona": "Mariana X. Rivera"
+          }
+        ],
+        "Mejor cortometraje de ficción": [
+          {
+            "pelicula": "El sueño más largo que recuerdo",
+            "persona": "Carlos Lenin"
+          }
+        ],
+        "Mejor dirección": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Alonso Ruizpalacios"
+          }
+        ],
+        "Mejor diseño de arte": [
+          {
+            "pelicula": "Los minutos negros",
+            "persona": "Ivonne Fuentes Mendoza"
+          }
+        ],
+        "Mejor edición": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Yibrán Asuad"
+          }
+        ],
+        "Mejores efectos especiales": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Ricardo Arvizu Solís"
+          }
+        ],
+        "Mejores efectos visuales": [
+          {
+            "pelicula": "Aztech",
+            "persona": "Fernando Campos · Jaime Jasso · Isaac Basulto · Harumy Delmira Villareal · Raúl Campos · Enrique Sánchez “Quix” · Flavio Pedota · John Blásquez · Santiago Ortíz-Monasterio · Alexey Platonov · Zack Rodríguez · Max Blásquez · Aaron Valenzuela"
+          }
+        ],
+        "Mejor fotografía": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Dariela Ludlow"
+          }
+        ],
+        "Mejor guion adaptado": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Tatiana Huezo"
+          }
+        ],
+        "Mejor guion original": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "David Gaitán · Alonso Ruizpalacios"
+          }
+        ],
+        "Mejor largometraje de animación": [
+          {
+            "pelicula": "Un rescate de huevitos",
+            "persona": "Gabriel Riva Palacio Alatriste · Rodolfo Riva Palacio Alatriste"
+          }
+        ],
+        "Mejor largometraje documental": [
+          {
+            "pelicula": "Una película de policías",
+            "persona": "Alonso Ruizpalacios"
+          }
+        ],
+        "Mejor maquillaje": [
+          {
+            "pelicula": "El exorcismo de Carmen Farías",
+            "persona": "Mari Paz Robles “La Negra”"
+          },
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Roberto Ortiz · Ana Flores"
+          }
+        ],
+        "Mejor música original": [
+          {
+            "pelicula": "Cosas imposibles",
+            "persona": "Andrés Sánchez Maher · Gus Reyes"
+          }
+        ],
+        "Mejor ópera prima": [
+          {
+            "pelicula": "Nudo Mixteco",
+            "persona": "Ángeles Cruz"
+          }
+        ],
+        "Mejor película iberoamericana": [
+          {
+            "pelicula": "El buen patrón",
+            "persona": "Fernando León de Aranoa"
+          }
+        ],
+        "Mejor revelación actoral": [
+          {
+            "pelicula": "Blanco de verano",
+            "persona": "Adrián Rossi"
+          }
+        ],
+        "Mejor sonido": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": "Lena Esquenazi · Federico G. Jordan · Paulo Gama"
+          }
+        ],
+        "Mejor vestuario": [
+          {
+            "pelicula": "La diosa del asfalto",
+            "persona": "Alejandro Caraza"
+          }
+        ],
+        "Mejor película": [
+          {
+            "pelicula": "Noche de fuego",
+            "persona": null
+          }
+        ]
+      },
+      "recuentos": {
+        "categorias": 25,
+        "candidaturas": 117,
+        "registros_ganadores": 26
+      }
+    },
+    "fuentes_revision_2022.json": [
+      {
+        "familia": "Cannes",
+        "selección": "https://www.festival-cannes.com/en/press/press-releases/the-films-of-the-official-selection-2022/",
+        "palmares": "https://www.festival-cannes.com/en/press/press-releases/the-75th-festival-de-cannes-winners-list/"
+      },
+      {
+        "familia": "Venecia",
+        "selección": "https://www.labiennale.org/en/cinema/2022/79th-festival",
+        "palmares": "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival"
+      },
+      {
+        "familia": "Berlín",
+        "selección": "https://www.berlinale.de/media/download/presse/dossier/pressedossier-2022.pdf",
+        "categorías": "https://www.berlinale.de/media/download/presse/dossier/pressedossier-2022.pdf",
+        "premios": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+        "limitación": "No se localizó el PDF completo de premios de 2022 en el archivo oficial accesible; para ganadores principales se conserva comunicado de German Films y referencias institucionales."
+      },
+      {
+        "familia": "San Sebastián",
+        "selección": "https://www.sansebastianfestival.com/2022/secciones_y_peliculas/8/es",
+        "palmares": "https://www.sansebastianfestival.com/2022/news/1/20538/in"
+      },
+      {
+        "familia": "Oscar",
+        "palmares_y_candidaturas": "https://www.oscars.org/oscars/ceremonies/2022"
+      },
+      {
+        "familia": "Goya",
+        "candidaturas": "https://www.premiosgoya.com/36-edicion/nominaciones/por-categoria/",
+        "palmares": "https://www.premiosgoya.com/36-edicion/premios/por-categoria/"
+      },
+      {
+        "familia": "BAFTA",
+        "palmares_y_candidaturas": "https://www.bafta.org/awards/film/?award-year=2022"
+      }
+    ],
+    "locarno_2022_transcripcion.json": {
+      "sources": [
+        {
+          "url": "https://duels.it/live/il-programma-di-locarno-75-un-cinema-al-presente-indicativo/",
+          "type": "transcripción secundaria de las 17 películas del Concorso Internazionale"
+        },
+        {
+          "url": "https://www.cinemaldito.com/festival-de-locarno-2022-seccion-oficial/",
+          "type": "transcripción secundaria de Concorso Internazionale y Cineasti del Presente; secciones y selección"
+        },
+        {
+          "url": "https://www.locarnofestival.ch/dam/jcr%3A3efbbc81-4742-4f0f-8d58-b2a290d3a0d9/Palmar%C3%A8s_ENG.pdf",
+          "type": "palmarès oficial PDF, buscador indexa títulos y premios; alternativa de texto detallada conservada abajo"
+        },
+        {
+          "url": "https://www.cinemaldito.com/palmares-de-locarno-2022/",
+          "type": "transcripción secundaria exhaustiva del palmarès oficial y paralelos, incluidos cortos premiados"
+        },
+        {
+          "url": "https://www.inter-film.org/festivals/festival-del-film-locarno/75th-locarno-film-festival",
+          "type": "contraste institucional independiente de jurado ecuménico, premio FIPRESCI y premios principales"
+        },
+        {
+          "url": "https://www.german-films.de/news/awards-for-german-films/article/awards-for-german-films-co-productions-at-locarno-2022/",
+          "type": "contraste institucional de cortometrajes y premios Pardi di Domani"
+        }
+      ],
+      "seleccion": {
+        "Concorso Internazionale": [
+          {
+            "titulo": "Ariyippu",
+            "director": "Mahesh Narayanan"
+          },
+          {
+            "titulo": "Sermon to the Fish",
+            "director": "Hilal Baydarov"
+          },
+          {
+            "titulo": "Bowling Saturne",
+            "director": "Patricia Mazuy"
+          },
+          {
+            "titulo": "De noche los gatos son pardos",
+            "director": "Valentin Merz"
+          },
+          {
+            "titulo": "Gigi la legge",
+            "director": "Alessandro Comodin"
+          },
+          {
+            "titulo": "Hikayat elbeit elorjowani (Tales of the Purple House)",
+            "director": "Abbas Fahdel"
+          },
+          {
+            "titulo": "Human Flowers of Flesh",
+            "director": "Helena Wittmann"
+          },
+          {
+            "titulo": "Il Pataffio",
+            "director": "Francesco Lagi"
+          },
+          {
+            "titulo": "Matter out of Place",
+            "director": "Nikolaus Geyrhalter"
+          },
+          {
+            "titulo": "Nação Valente (Tommy Guns)",
+            "director": "Carlos Conceição"
+          },
+          {
+            "titulo": "Piaffe",
+            "director": "Ann Oren"
+          },
+          {
+            "titulo": "Regra 34 (Rule 34)",
+            "director": "Julia Murat"
+          },
+          {
+            "titulo": "Serviam – Ich will dienen",
+            "director": "Ruth Mader"
+          },
+          {
+            "titulo": "Skazka (Fairytale)",
+            "director": "Aleksandr Sokurov"
+          },
+          {
+            "titulo": "Stella est amoureuse",
+            "director": "Sylvie Verheyde"
+          },
+          {
+            "titulo": "Stone Turtle",
+            "director": "Woo Ming Jin"
+          },
+          {
+            "titulo": "Tengo sueños eléctricos",
+            "director": "Valentina Maurel"
+          }
+        ],
+        "Concorso Cineasti del Presente": [
+          {
+            "titulo": "A Perfect Day for Caribou",
+            "director": "Jeff Rutherford"
+          },
+          {
+            "titulo": "Arnold Is a Model Student",
+            "director": "Sorayos Prapapan"
+          },
+          {
+            "titulo": "Astrakan",
+            "director": "David Depesseville"
+          },
+          {
+            "titulo": "Before I Change My Mind",
+            "director": "Trevor Anderson"
+          },
+          {
+            "titulo": "Sister, What Grows Where Land Is Sick?",
+            "director": "Franciska Eliassen"
+          },
+          {
+            "titulo": "Fragments from Heaven",
+            "director": "Adnane Baraka"
+          },
+          {
+            "titulo": "Love Dog",
+            "director": "Bianca Lucas"
+          },
+          {
+            "titulo": "Matadero",
+            "director": "Santiago Fillol"
+          },
+          {
+            "titulo": "Our Lady of the Chinese Shop",
+            "director": "Ery Claver"
+          },
+          {
+            "titulo": "Petites",
+            "director": "Julie Lerat-Gersant"
+          },
+          {
+            "titulo": "Petrol",
+            "director": "Alena Lodkina"
+          },
+          {
+            "titulo": "Safe Place",
+            "director": "Juraj Lerotić"
+          },
+          {
+            "titulo": "Nightsiren",
+            "director": "Tereza Nvotová"
+          },
+          {
+            "titulo": "How Is Katia?",
+            "director": "Christina Tynkevych"
+          },
+          {
+            "titulo": "É noite na América",
+            "director": "Ana Vaz"
+          }
+        ]
+      },
+      "palmares": {
+        "Concorso Internazionale": {
+          "Regra 34": [
+            "Pardo d’oro · Concorso Internazionale"
+          ],
+          "Gigi la legge": [
+            "Premio especial del jurado de las ciudades de Ascona y Losone · Concorso Internazionale"
+          ],
+          "Tengo sueños eléctricos": [
+            "Mejor dirección · Valentina Maurel · Concorso Internazionale",
+            "Mejor interpretación · Daniela Marín Navarro · Concorso Internazionale",
+            "Mejor interpretación · Reinaldo Amien Gutiérrez · Concorso Internazionale"
+          ],
+          "Stone Turtle": [
+            "Premio FIPRESCI · Concorso Internazionale"
+          ],
+          "Hikayat elbeit elorjowani (Tales of the Purple House)": [
+            "Premio del jurado ecuménico · Concorso Internazionale"
+          ],
+          "Matter out of Place": [
+            "Pardo Verde WWF · Concorso Internazionale"
+          ],
+          "Sermon to the Fish": [
+            "Mención especial Pardo Verde WWF · Concorso Internazionale",
+            "Premio medioambiental del jurado juvenil · Concorso Internazionale"
+          ],
+          "Nação Valente (Tommy Guns)": [
+            "Europa Cinemas Label · Concorso Internazionale",
+            "Finalista del jurado juvenil · Concorso Internazionale"
+          ],
+          "Piaffe": [
+            "Premio del jurado juvenil · Concorso Internazionale"
+          ],
+          "É noite na América": [
+            "Mención especial Pardo Verde WWF · Concorso Internazionale"
+          ]
+        },
+        "Concorso Cineasti del Presente": {
+          "Nightsiren": [
+            "Pardo d’oro · Cineasti del Presente"
+          ],
+          "Safe Place": [
+            "Premio a la dirección emergente · Juraj Lerotić · Cineasti del Presente",
+            "Mejor interpretación · Goran Marković · Cineasti del Presente",
+            "Swatch First Feature Award"
+          ],
+          "How Is Katia?": [
+            "Premio especial del jurado CINÉ+ · Cineasti del Presente",
+            "Mejor interpretación · Anastasia Karpenko · Cineasti del Presente"
+          ],
+          "Sister, What Grows Where Land Is Sick?": [
+            "Mención especial · Cineasti del Presente"
+          ],
+          "Petites": [
+            "Mención especial del jurado juvenil · Cineasti del Presente"
+          ],
+          "Love Dog": [
+            "Mención especial · Swatch First Feature Award"
+          ],
+          "De noche los gatos son pardos": [
+            "Mención especial · Swatch First Feature Award"
+          ]
+        }
+      },
+      "recuentos": {
+        "Concorso Internazionale": 17,
+        "Concorso Cineasti del Presente": 15,
+        "cortometrajes_Pardi_di_Domani_premiados": 11,
+        "cortometrajes_Open_Doors_premiados": 1
+      },
+      "limitaciones": [
+        "La lista del Concorso Internazionale se transcribió de fuente secundaria; se contrastó la cuenta de 17 con otras fuentes de programa. El PDF oficial de palmarès no expone su texto completo al abrirse, por eso se conserva la transcripción secundaria.",
+        "El detalle de premios paralelos se contrastó en Cine Maldito; la ficha oficial de cada jurado paralelo no estuvo disponible.",
+        "La atribución de Techos rotos se conserva en Open Doors, fuera de Pardi di Domani, según la fuente del Open Doors Short Award."
+      ],
+      "premios_cortos_pardi_di_domani": {
+        "Soberane": {
+          "director": "Wara",
+          "premios": [
+            "Pardino d’oro SRG SSR · mejor cortometraje internacional"
+          ]
+        },
+        "Neighbour Abdi (Buurman Abdi)": {
+          "director": "Douwe Dijkstra",
+          "premios": [
+            "Pardino d’argento SRG SSR · competición internacional"
+          ]
+        },
+        "Hardly Working": {
+          "director": "Total Refusal",
+          "premios": [
+            "Premio a la mejor dirección · Bonalumi Engineering"
+          ]
+        },
+        "Mulika": {
+          "director": "Maisha Maene",
+          "premios": [
+            "Premio Medien Patent Verwaltung AG"
+          ]
+        },
+        "Mother Prays All Day Long (Madar tamame rooz doa mikhanad)": {
+          "director": "Hoda Taheri",
+          "premios": [
+            "Mención especial · Concorso internazionale Pardi di Domani"
+          ]
+        },
+        "Euridice, Euridice": {
+          "director": "Lora Mure-Ravaud",
+          "premios": [
+            "Pardino d’oro Swiss Life · mejor cortometraje suizo"
+          ]
+        },
+        "Big Bang": {
+          "director": "Carlos Segundo",
+          "premios": [
+            "Pardino d’oro Swiss Life · mejor cortometraje de autor"
+          ]
+        },
+        "Der Molchkongress": {
+          "director": "Matthias Sahli",
+          "premios": [
+            "Pardino d’argento Swiss Life · competición suiza"
+          ]
+        },
+        "Heartbeat": {
+          "director": "Michèle Flury",
+          "premios": [
+            "Premio al mejor talento suizo emergente"
+          ]
+        },
+        "Fairplay": {
+          "director": "Zoel Aeschbacher",
+          "premios": [
+            "Premio al mejor cortometraje suizo"
+          ]
+        },
+        "Les Dieux du Supermarché": {
+          "director": "Alberto Gonzalez Morales",
+          "premios": [
+            "Mención especial · mejor cortometraje suizo"
+          ]
+        }
+      },
+      "premio_corto_open_doors": {
+        "titulo": "Techos rotos",
+        "director": "Yanillys Pérez",
+        "premio": "Open Doors Short Award"
+      }
+    },
+    "david_2022_transcripcion.json": {
+      "sources": [
+        {
+          "url": "https://tg24.sky.it/spettacolo/cinema/approfondimenti/candidati-david-donatello-2022",
+          "type": "transcripción completa de 24 categorías; indica que candidaturas se publicaron en el sitio oficial de la Academia"
+        },
+        {
+          "url": "https://www.raicultura.it/cinema/articoli/2022/04/David-di-Donatello-2022-trionfa-Sorrentino-237a6605-2ee5-4084-9980-db76fba301be.html",
+          "type": "palmarès íntegro por categorías y ganadores"
+        },
+        {
+          "url": "https://www.daviddidonatello.it/amministrazione-trasparente/bilancio22/Relazione%20Artistica%20attivit%C3%A0%202022.pdf",
+          "type": "relación artística oficial; verifica máximos candidatos y número de premios de las películas"
+        }
+      ],
+      "categorias": {
+        "Mejor película": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": null
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": null
+          },
+          {
+            "pelicula": "Ennio",
+            "persona": null
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": null
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": null
+          }
+        ],
+        "Mejor dirección": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Leonardo Di Costanzo"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Paolo Sorrentino"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Gabriele Mainetti"
+          },
+          {
+            "pelicula": "Ennio",
+            "persona": "Giuseppe Tornatore"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Mario Martone"
+          }
+        ],
+        "Mejor dirección novel": [
+          {
+            "pelicula": "Il cattivo poeta",
+            "persona": "Gianluca Jodice"
+          },
+          {
+            "pelicula": "Maternal",
+            "persona": "Maura Delpero"
+          },
+          {
+            "pelicula": "Una femmina",
+            "persona": "Francesco Costabile"
+          },
+          {
+            "pelicula": "Re Granchio",
+            "persona": "Alessio Rigo de Righi · Matteo Zoppis"
+          },
+          {
+            "pelicula": "Piccolo corpo",
+            "persona": "Laura Samani"
+          }
+        ],
+        "Mejor guion original": [
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Mario Martone · Ippolita Di Majo"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Nicola Guaglianone · Gabriele Mainetti"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Paolo Sorrentino"
+          },
+          {
+            "pelicula": "A Chiara",
+            "persona": "Jonas Carpignano"
+          },
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Leonardo Di Costanzo · Bruno Oliviero · Valia Santella"
+          }
+        ],
+        "Mejor guion adaptado": [
+          {
+            "pelicula": "Diabolik",
+            "persona": "Manetti Bros. · Michelangelo La Neve"
+          },
+          {
+            "pelicula": "L’arminuta",
+            "persona": "Monica Zapelli · Donatella Di Pietrantonio"
+          },
+          {
+            "pelicula": "La scuola cattolica",
+            "persona": "Massimo Gaudioso · Luca Infascelli · Stefano Mordini"
+          },
+          {
+            "pelicula": "La terra dei figli",
+            "persona": "Filippo Gravino · Guido Iuculano · Claudio Cupellini"
+          },
+          {
+            "pelicula": "Tre piani",
+            "persona": "Nanni Moretti · Federica Pontremoli · Valia Santella"
+          },
+          {
+            "pelicula": "Una femmina",
+            "persona": "Lirio Abate · Serena Brugnolo · Adriano Chiarelli · Francesco Costabile"
+          }
+        ],
+        "Mejor producción": [
+          {
+            "pelicula": "A Chiara",
+            "persona": "Jon Coplon · Paolo Carpignano · Ryan Zacarias · Jonas Carpignano"
+          },
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Carlo Cresto-Dina · Michela Pini · Rai Cinema"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Paolo Sorrentino · Lorenzo Mieli"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Andrea Occhipinti · Stefano Massenzi · Mattia Guerra · Gabriele Mainetti · Rai Cinema"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Nicola Giuliano · Francesca Cima · Carlotta Calori · Rai Cinema"
+          }
+        ],
+        "Mejor actor protagonista": [
+          {
+            "pelicula": "America Latina",
+            "persona": "Elio Germano"
+          },
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Silvio Orlando"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Filippo Scotti"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Franz Rogowski"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Toni Servillo"
+          }
+        ],
+        "Mejor actriz protagonista": [
+          {
+            "pelicula": "A Chiara",
+            "persona": "Swamy Rotolo"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Miriam Leone"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Aurora Giovinazzo"
+          },
+          {
+            "pelicula": "Giulia",
+            "persona": "Rosa Palasciano"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Maria Nazionale"
+          }
+        ],
+        "Mejor actor de reparto": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Fabrizio Ferracane"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Valerio Mastandrea"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Toni Servillo"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Pietro Castellitto"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Eduardo Scarpetta"
+          }
+        ],
+        "Mejor actriz de reparto": [
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Luisa Ranieri"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Teresa Saponangelo"
+          },
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "Susy Del Giudice"
+          },
+          {
+            "pelicula": "L’arminuta",
+            "persona": "Vanessa Scalera"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Cristiana Dell’Anna"
+          }
+        ],
+        "Mejor fotografía": [
+          {
+            "pelicula": "America Latina",
+            "persona": "Paolo Carnera"
+          },
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Luca Bigazzi"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Daria D’Antonio"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Michele D’Attanasio"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Renato Berta"
+          }
+        ],
+        "Mejor compositor": [
+          {
+            "pelicula": "A Chiara",
+            "persona": "Dan Romer · Benh Zeitlin"
+          },
+          {
+            "pelicula": "America Latina",
+            "persona": "Verdena"
+          },
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Pasquale Scialò"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Pivio · Aldo De Scalzi"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Michele Braga · Gabriele Mainetti"
+          },
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "Nicola Piovani"
+          }
+        ],
+        "Mejor canción original": [
+          {
+            "pelicula": "Diabolik",
+            "persona": "“La profondità degli abissi” · Manuel Agnelli"
+          },
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "“Faccio ’a polka” · Nicola Piovani · Dodo Gagliardi"
+          },
+          {
+            "pelicula": "L’arminuta",
+            "persona": "“Just You” · Giuliano Taviani · Carmelo Travia"
+          },
+          {
+            "pelicula": "Marilyn ha gli occhi neri",
+            "persona": "“Nei tuoi occhi” · Francesca Michielin"
+          },
+          {
+            "pelicula": "Piccolo corpo",
+            "persona": "“Piccolo corpo” · Laura Samani"
+          }
+        ],
+        "Mejor diseño de producción": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Luca Servino"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Noemi Marchica"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Carmine Guarino"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Massimiliano Sturiale · Ilaria Fallacara"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Giancarlo Muselli · Carlo Rescigno · Laura Casalini · Francesco Fonda"
+          }
+        ],
+        "Mejor vestuario": [
+          {
+            "pelicula": "Diabolik",
+            "persona": "Ginevra De Carolis"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Mariano Tufano"
+          },
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "Maurizio Millenotti"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Mary Montalto"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Ursula Patzak"
+          }
+        ],
+        "Mejor maquillaje": [
+          {
+            "pelicula": "Diabolik",
+            "persona": "Francesca Lodoli"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Vincenzo Mastrantonio"
+          },
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "Maurizio Nardi"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Diego Prestopino · Emanuele De Luca · Davide De Luca"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Alessandro D’Anna"
+          }
+        ],
+        "Mejor peluquería": [
+          {
+            "pelicula": "A Chiara",
+            "persona": "Giuseppina Rotolo"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Luca Pompozzi"
+          },
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "Francesco Pegoretti"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Marco Perna"
+          },
+          {
+            "pelicula": "7 donne e un mistero",
+            "persona": "Alberta Giuliani"
+          }
+        ],
+        "Mejor montaje": [
+          {
+            "pelicula": "A Chiara",
+            "persona": "Affonso Gonçalves"
+          },
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Carlotta Cristiani"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Cristiano Travaglioli"
+          },
+          {
+            "pelicula": "Ennio",
+            "persona": "Massimo Quaglia · Annalisa Schillaci"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Jacopo Quadri"
+          }
+        ],
+        "Mejor sonido": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Xavier Lavorel · Pierre Collodin · Daniela Bassani · Maxence Ciekawy"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Emanuele Cecere · Francesco Sabez · Silvia Moraes · Mirko Perri · Michele Mazzucco"
+          },
+          {
+            "pelicula": "Ennio",
+            "persona": "Gilberto Martinelli · Fabio Venturi · Gianni Pallotto"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Angelo Bonanni · Diego De Santis · Davide Favargiotti · Mirko Perri · Franco Piscopo"
+          },
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Alessandro Zanon · Alessandro Palmerini · Silvia Moraes · Gianluca Gasparrini · Giancarlo Rutigliano"
+          }
+        ],
+        "Mejores efectos visuales": [
+          {
+            "pelicula": "A Classic Horror Story",
+            "persona": "Nuccio Canino"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Simone Silvestri"
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Rodolfo Migliari"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Stefano Leoni"
+          },
+          {
+            "pelicula": "La terra dei figli",
+            "persona": "Rodolfo Migliari · Roberto Saba"
+          }
+        ],
+        "Mejor documental": [
+          {
+            "pelicula": "Atlantide",
+            "persona": "Yuri Ancarani"
+          },
+          {
+            "pelicula": "Ennio",
+            "persona": "Giuseppe Tornatore"
+          },
+          {
+            "pelicula": "Futura",
+            "persona": "Pietro Marcello · Francesco Munzi · Alice Rohrwacher"
+          },
+          {
+            "pelicula": "Marx può aspettare",
+            "persona": "Marco Bellocchio"
+          },
+          {
+            "pelicula": "Onde radicali",
+            "persona": "Gianfranco Pannone"
+          }
+        ],
+        "Mejor cortometraje": [
+          {
+            "pelicula": "Maestrale",
+            "persona": "Nico Bonomolo"
+          }
+        ],
+        "Mejor película internacional": [
+          {
+            "pelicula": "Belfast",
+            "persona": "Kenneth Branagh"
+          },
+          {
+            "pelicula": "Don’t Look Up",
+            "persona": "Adam McKay"
+          },
+          {
+            "pelicula": "Drive My Car",
+            "persona": "Ryusuke Hamaguchi"
+          },
+          {
+            "pelicula": "Dune",
+            "persona": "Denis Villeneuve"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Jane Campion"
+          }
+        ],
+        "David Giovani": [
+          {
+            "pelicula": "Come un gatto in tangenziale – Ritorno a Coccia di Morto",
+            "persona": "Riccardo Milani"
+          },
+          {
+            "pelicula": "Diabolik",
+            "persona": "Manetti Bros."
+          },
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Paolo Sorrentino"
+          },
+          {
+            "pelicula": "Ennio",
+            "persona": "Giuseppe Tornatore"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Gabriele Mainetti"
+          }
+        ]
+      },
+      "ganadores": {
+        "Mejor película": [
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": null
+          }
+        ],
+        "Mejor dirección": [
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Paolo Sorrentino"
+          }
+        ],
+        "Mejor dirección novel": [
+          {
+            "pelicula": "Piccolo corpo",
+            "persona": "Laura Samani"
+          }
+        ],
+        "Mejor guion original": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Leonardo Di Costanzo · Bruno Oliviero · Valia Santella"
+          }
+        ],
+        "Mejor guion adaptado": [
+          {
+            "pelicula": "L’arminuta",
+            "persona": "Monica Zapelli · Donatella Di Pietrantonio"
+          }
+        ],
+        "Mejor producción": [
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Andrea Occhipinti · Stefano Massenzi · Mattia Guerra · Gabriele Mainetti · Rai Cinema"
+          }
+        ],
+        "Mejor actor protagonista": [
+          {
+            "pelicula": "Ariaferma",
+            "persona": "Silvio Orlando"
+          }
+        ],
+        "Mejor actriz protagonista": [
+          {
+            "pelicula": "A Chiara",
+            "persona": "Swamy Rotolo"
+          }
+        ],
+        "Mejor actor de reparto": [
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Eduardo Scarpetta"
+          }
+        ],
+        "Mejor actriz de reparto": [
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Teresa Saponangelo"
+          }
+        ],
+        "Mejor fotografía": [
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Daria D’Antonio"
+          },
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Michele D’Attanasio"
+          }
+        ],
+        "Mejor compositor": [
+          {
+            "pelicula": "I fratelli De Filippo",
+            "persona": "Nicola Piovani"
+          }
+        ],
+        "Mejor canción original": [
+          {
+            "pelicula": "Diabolik",
+            "persona": "“La profondità degli abissi” · Manuel Agnelli"
+          }
+        ],
+        "Mejor diseño de producción": [
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Massimiliano Sturiale · Ilaria Fallacara"
+          }
+        ],
+        "Mejor vestuario": [
+          {
+            "pelicula": "Qui rido io",
+            "persona": "Ursula Patzak"
+          }
+        ],
+        "Mejor maquillaje": [
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Diego Prestopino · Emanuele De Luca · Davide De Luca"
+          }
+        ],
+        "Mejor peluquería": [
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Marco Perna"
+          }
+        ],
+        "Mejor montaje": [
+          {
+            "pelicula": "Ennio",
+            "persona": "Massimo Quaglia · Annalisa Schillaci"
+          }
+        ],
+        "Mejor sonido": [
+          {
+            "pelicula": "Ennio",
+            "persona": "Gilberto Martinelli · Fabio Venturi · Gianni Pallotto"
+          }
+        ],
+        "Mejores efectos visuales": [
+          {
+            "pelicula": "Freaks Out",
+            "persona": "Stefano Leoni"
+          }
+        ],
+        "Mejor documental": [
+          {
+            "pelicula": "Ennio",
+            "persona": "Giuseppe Tornatore"
+          }
+        ],
+        "Mejor cortometraje": [
+          {
+            "pelicula": "Maestrale",
+            "persona": "Nico Bonomolo"
+          }
+        ],
+        "Mejor película internacional": [
+          {
+            "pelicula": "Drive My Car",
+            "persona": "Ryusuke Hamaguchi"
+          }
+        ],
+        "David Giovani": [
+          {
+            "pelicula": "È stata la mano di Dio",
+            "persona": "Paolo Sorrentino"
+          }
+        ]
+      },
+      "honorificos": [
+        "David alla Carriera · Giovanna Ralli",
+        "David Speciale · Sabrina Ferilli",
+        "David Speciale · Antonio Capuano"
+      ],
+      "reconocimiento_vinculado": "David dello Spettatore · Me contro te – Il mistero della scuola incantata",
+      "recuentos": {
+        "categorias": 24,
+        "candidaturas": 118,
+        "registros_ganadores": 25
+      }
+    },
+    "revision_familias_publicadas_2022.json": {
+      "año": 2022,
+      "alcance": "Cotejo de contenido de las siete familias previamente publicadas: Cannes (Competición oficial y Un Certain Regard), Venecia (Venezia 79), Berlín (Competición) y San Sebastián (Sección Oficial); categorías cinematográficas competitivas de Oscar, Goya y BAFTA.",
+      "resultados_y_selecciones_festivales": {
+        "Berlín": [
+          {
+            "seccion": "Competición oficial",
+            "peliculas": 18
+          }
+        ],
+        "Cannes": [
+          {
+            "seccion": "Competición oficial",
+            "peliculas": 21
+          },
+          {
+            "seccion": "Un Certain Regard",
+            "peliculas": 20
+          }
+        ],
+        "Oscar": {
+          "peliculas": 53,
+          "categorias": 23,
+          "candidaturas": 120,
+          "premios": 23,
+          "todos_ganadores_figuran_en_candidaturas": true,
+          "candidaturas_por_categoria": {
+            "Actor protagonista": 5,
+            "Actriz de reparto": 5,
+            "Montaje": 5,
+            "Canción": 5,
+            "Película": 10,
+            "Guion original": 5,
+            "Actor de reparto": 5,
+            "Actriz protagonista": 5,
+            "Fotografía": 5,
+            "Dirección": 5,
+            "Banda sonora": 5,
+            "Diseño de producción": 5,
+            "Sonido": 5,
+            "Guion adaptado": 5,
+            "Maquillaje y peluquería": 5,
+            "Vestuario": 5,
+            "Película de animación": 5,
+            "Documental": 5,
+            "Película internacional": 5,
+            "Efectos visuales": 5,
+            "Cortometraje documental": 5,
+            "Cortometraje de animación": 5,
+            "Cortometraje de ficción": 5
+          }
+        },
+        "San Sebastián": [
+          {
+            "seccion": "Competición oficial",
+            "peliculas": 17
+          }
+        ],
+        "Venecia": [
+          {
+            "seccion": "Competición oficial",
+            "peliculas": 23
+          }
+        ],
+        "Goya": {
+          "peliculas": 51,
+          "categorias": 28,
+          "candidaturas": 110,
+          "premios": 28,
+          "todos_ganadores_figuran_en_candidaturas": true,
+          "candidaturas_por_categoria": {
+            "Película": 5,
+            "Dirección": 4,
+            "Guion original": 4,
+            "Música original": 4,
+            "Actor protagonista": 4,
+            "Actor de reparto": 2,
+            "Actriz de reparto": 3,
+            "Actor revelación": 3,
+            "Actriz revelación": 4,
+            "Dirección de producción": 4,
+            "Dirección de fotografía": 4,
+            "Montaje": 4,
+            "Dirección artística": 4,
+            "Diseño de vestuario": 4,
+            "Maquillaje y peluquería": 4,
+            "Sonido": 4,
+            "Efectos especiales": 4,
+            "Dirección novel": 4,
+            "Actriz protagonista": 4,
+            "Canción original": 4,
+            "Guion adaptado": 4,
+            "Película de animación": 4,
+            "Película documental": 4,
+            "Película iberoamericana": 4,
+            "Película europea": 4,
+            "Cortometraje de ficción": 5,
+            "Cortometraje documental": 4,
+            "Cortometraje de animación": 4
+          }
+        },
+        "BAFTA": {
+          "peliculas": 56,
+          "categorias": 24,
+          "candidaturas": 127,
+          "premios": 24,
+          "todos_ganadores_figuran_en_candidaturas": true,
+          "candidaturas_por_categoria": {
+            "Mejor película": 5,
+            "Mejor dirección": 6,
+            "Mejor actor": 6,
+            "Mejor actor de reparto": 6,
+            "Mejor guion adaptado": 5,
+            "Mejor fotografía": 5,
+            "Mejor música original": 5,
+            "Mejor película británica": 10,
+            "Mejor actriz de reparto": 6,
+            "Mejor guion original": 5,
+            "Mejor montaje": 5,
+            "Mejor reparto (casting)": 5,
+            "Mejor diseño de producción": 5,
+            "Mejor vestuario": 5,
+            "Mejor maquillaje y peluquería": 5,
+            "Mejor sonido": 5,
+            "Mejores efectos visuales": 5,
+            "Mejor actriz": 6,
+            "Mejor debut británico": 5,
+            "Mejor película de habla no inglesa": 5,
+            "Mejor documental": 5,
+            "Mejor película de animación": 4,
+            "Mejor cortometraje británico": 5,
+            "Mejor cortometraje británico de animación": 3
+          }
+        }
+      },
+      "correcciones_propuestas": [
+        {
+          "festival": "Berlín",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Avec amour et acharnement",
+          "director": "Claire Denis",
+          "dato_anterior": "Mejor dirección",
+          "propuesta": "Mejor dirección · Claire Denis",
+          "motivo": "El registro omite a la persona premiada; la directora Claire Denis recibió el Oso de Plata a mejor dirección.",
+          "fuente": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+          "operación": "Añadir o corregir el crédito personal del premio."
+        },
+        {
+          "festival": "Berlín",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Rabiye Kurnaz gegen George W. Bush",
+          "director": "Andreas Dresen",
+          "dato_anterior": "Mejor guion",
+          "propuesta": "Mejor guion · Laila Stieler",
+          "motivo": "El registro omite a la guionista premiada.",
+          "fuente": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+          "operación": "Añadir o corregir el crédito personal del premio."
+        },
+        {
+          "festival": "Berlín",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Everything Will Be Ok",
+          "director": "Rithy Panh",
+          "dato_anterior": "Contribución artística · Rithy Panh",
+          "propuesta": "Contribución artística · Rithy Panh · Sarit Mang",
+          "motivo": "La distinción de contribución artística fue compartida; falta Sarit Mang.",
+          "fuente": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+          "operación": "Añadir o corregir el crédito personal del premio."
+        },
+        {
+          "festival": "Cannes",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Heojil kyolshim",
+          "director": "Park Chan-wook",
+          "dato_anterior": "Mejor dirección",
+          "propuesta": "Mejor dirección · Park Chan-wook",
+          "motivo": "El palmarès asigna el premio de dirección a Park Chan-wook.",
+          "fuente": "https://www.festival-cannes.com/en/press/press-releases/the-75th-festival-de-cannes-winners-list/",
+          "operación": "Añadir o corregir el crédito personal del premio."
+        },
+        {
+          "festival": "Cannes",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Walad min al janna",
+          "director": "Tarik Saleh",
+          "dato_anterior": "Mejor guion",
+          "propuesta": "Mejor guion · Tarik Saleh",
+          "motivo": "El palmarès asigna el premio de guion a Tarik Saleh.",
+          "fuente": "https://www.festival-cannes.com/en/press/press-releases/the-75th-festival-de-cannes-winners-list/",
+          "operación": "Añadir o corregir el crédito personal del premio."
+        },
+        {
+          "festival": "Venecia",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Bones and All",
+          "director": "Luca Guadagnino",
+          "dato_anterior": "Mejor dirección · Marcello Mastroianni · Taylor Russell",
+          "propuesta": "Mejor dirección · Luca Guadagnino; Premio Marcello Mastroianni · Taylor Russell",
+          "motivo": "Se mezclaron la dirección y el premio Marcello Mastroianni; los receptores oficiales son Luca Guadagnino y Taylor Russell.",
+          "fuente": "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+          "operación": "Sustituir el texto de premios y conservar las dos distinciones con sus receptores correctos."
+        },
+        {
+          "festival": "Venecia",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "The Banshees of Inisherin",
+          "director": "Martin McDonagh",
+          "dato_anterior": "Mejor actor · Colin Farrell · Mejor guion",
+          "propuesta": "Mejor actor · Colin Farrell; Mejor guion · Martin McDonagh",
+          "motivo": "Ambas categorías son personales; falta identificar a Martin McDonagh como guionista premiado.",
+          "fuente": "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+          "operación": "Sustituir el texto de premios y conservar las dos distinciones con sus receptores correctos."
+        },
+        {
+          "festival": "San Sebastián",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "La Maternal",
+          "director": "Pilar Palomero",
+          "dato_anterior": "Mejor interpretación protagonista · Carla Quílez",
+          "propuesta": "Mejor interpretación protagonista · Carla Quílez · ex aequo",
+          "motivo": "La Concha de Plata a mejor interpretación protagonista se concedió ex aequo a Carla Quílez y Paul Kircher; falta señalar el empate.",
+          "fuente": "https://www.sansebastianfestival.com/2022/news/1/20538/in",
+          "operación": "Añadir la indicación ex aequo al premio ya registrado."
+        },
+        {
+          "festival": "San Sebastián",
+          "año": 2022,
+          "sección": "Competición oficial",
+          "película": "Le lycéen",
+          "director": "Christophe Honoré",
+          "dato_anterior": "Mejor interpretación protagonista · Paul Kircher",
+          "propuesta": "Mejor interpretación protagonista · Paul Kircher · ex aequo",
+          "motivo": "La Concha de Plata a mejor interpretación protagonista se concedió ex aequo a Carla Quílez y Paul Kircher; falta señalar el empate.",
+          "fuente": "https://www.sansebastianfestival.com/2022/news/1/20538/in",
+          "operación": "Añadir la indicación ex aequo al premio ya registrado."
+        }
+      ],
+      "conclusiones": [
+        "Cannes: selección oficial final registra 21 títulos en competición y 20 en Un Certain Regard; coincidencia con LAB.",
+        "Venecia: el palmarès oficial indica 23 películas en Venezia 79; coincidencia con LAB.",
+        "Berlín: el press dossier oficial enumera ocho premios competitivos principales; el registro incluye los títulos premiados y la transcripción primaria/secundaria de premios se conserva en fuentes.",
+        "San Sebastián: el palmarès oficial confirma las categorías y ganadores de Sección Oficial; el premio protagonista es ex aequo.",
+        "Oscar, Goya y BAFTA: todas las categorías competitivas/cinematográficas transcritas en LAB concuerdan con los recuentos oficiales consultados; los ganadores están incluidos en las candidaturas."
+      ],
+      "fuentes": [
+        {
+          "familia": "Cannes",
+          "selección": "https://www.festival-cannes.com/en/press/press-releases/the-films-of-the-official-selection-2022/",
+          "palmares": "https://www.festival-cannes.com/en/press/press-releases/the-75th-festival-de-cannes-winners-list/"
+        },
+        {
+          "familia": "Venecia",
+          "selección": "https://www.labiennale.org/en/cinema/2022/79th-festival",
+          "palmares": "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival"
+        },
+        {
+          "familia": "Berlín",
+          "selección": "https://www.berlinale.de/media/download/presse/dossier/pressedossier-2022.pdf",
+          "categorías": "https://www.berlinale.de/media/download/presse/dossier/pressedossier-2022.pdf",
+          "premios": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+          "limitación": "No se localizó el PDF completo de premios de 2022 en el archivo oficial accesible; para ganadores principales se conserva comunicado de German Films y referencias institucionales."
+        },
+        {
+          "familia": "San Sebastián",
+          "selección": "https://www.sansebastianfestival.com/2022/secciones_y_peliculas/8/es",
+          "palmares": "https://www.sansebastianfestival.com/2022/news/1/20538/in"
+        },
+        {
+          "familia": "Oscar",
+          "palmares_y_candidaturas": "https://www.oscars.org/oscars/ceremonies/2022"
+        },
+        {
+          "familia": "Goya",
+          "candidaturas": "https://www.premiosgoya.com/36-edicion/nominaciones/por-categoria/",
+          "palmares": "https://www.premiosgoya.com/36-edicion/premios/por-categoria/"
+        },
+        {
+          "familia": "BAFTA",
+          "palmares_y_candidaturas": "https://www.bafta.org/awards/film/?award-year=2022"
+        }
+      ]
+    },
+    "sundance_2022_transcripcion.json": {
+      "sources": [
+        {
+          "url": "https://www.sundance.org/blogs/2022-sundance-film-festival-feature-films-indie-episodic-new-frontier-lineups-announced/",
+          "type": "programa final oficial de cinco competiciones; lista completa con directores y películas por sección"
+        },
+        {
+          "url": "https://www.sundance.org/blogs/2022-sundance-film-festival-awards-announced/",
+          "type": "palmarès oficial completo; evidencia de premios de competiciones, cortos, premios de sección y reconocimientos ligados a películas"
+        },
+        {
+          "url": "https://www.sundance.org/blogs/2022-sundance-film-festival-awards-announced/",
+          "type": "la selección final de premios confirma Navalny compitió en U.S. Documentary; la noticia de programa no muestra ficha en el recorte disponible"
+        },
+        {
+          "url": "https://www.sundance.org/blogs/2022-sundance-film-festival-announces-world-premiere-of-documentary-thriller-navalny/",
+          "type": "anuncio oficial: Navalny se anuncia como décima y última película de U.S. Documentary Competition; no se trata como sustitución."
+        }
+      ],
+      "transcripcion": [
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "892",
+          "director": "Abi Damaris Corbin",
+          "premios": [
+            "U.S. Dramatic Special Jury Award: Ensemble Cast · John Boyega · Nicole Beharie · Selenis Leyva · Connie Britton · Olivia Washington · London Covington · Michael K. Williams"
+          ]
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Alice",
+          "director": "Krystin Ver Linden",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "blood",
+          "director": "Bradley Rust Gray",
+          "premios": [
+            "U.S. Dramatic Special Jury Award: Uncompromising Artistic Vision · Bradley Rust Gray"
+          ]
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Cha Cha Real Smooth",
+          "director": "Cooper Raiff",
+          "premios": [
+            "Audience Award: U.S. Dramatic"
+          ]
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Dual",
+          "director": "Riley Stearns",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Emergency",
+          "director": "Carey Williams",
+          "premios": [
+            "Waldo Salt Screenwriting Award: U.S. Dramatic · K.D. Dávila"
+          ]
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Master",
+          "director": "Mariama Diallo",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Nanny",
+          "director": "Nikyatu Jusu",
+          "premios": [
+            "U.S. Grand Jury Prize: Dramatic"
+          ]
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Palm Trees and Power Lines",
+          "director": "Jamie Dack",
+          "premios": [
+            "Directing Award: U.S. Dramatic · Jamie Dack"
+          ]
+        },
+        {
+          "seccion": "U.S. Dramatic Competition",
+          "titulo": "Watcher",
+          "director": "Chloe Okuno",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "Aftershock",
+          "director": "Paula Eiselt · Tonya Lewis Lee",
+          "premios": [
+            "U.S. Documentary Special Jury Award: Impact for Change"
+          ]
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "Descendant",
+          "director": "Margaret Brown",
+          "premios": [
+            "U.S. Documentary Special Jury Award: Creative Vision"
+          ]
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "The Exiles",
+          "director": "Ben Klein · Violet Columbus",
+          "premios": [
+            "U.S. Grand Jury Prize: Documentary"
+          ]
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "Fire of Love",
+          "director": "Sara Dosa",
+          "premios": [
+            "Jonathan Oppenheim Editing Award: U.S. Documentary · Erin Casper · Jocelyne Chaput"
+          ]
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "Free Chol Soo Lee",
+          "director": "Julie Ha · Eugene Yi",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "I Didn’t See You There",
+          "director": "Reid Davenport",
+          "premios": [
+            "Directing Award: U.S. Documentary · Reid Davenport"
+          ]
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "The Janes",
+          "director": "Tia Lessin · Emma Pildes",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "Jihad Rehab",
+          "director": "Meg Smaker",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "TikTok, Boom.",
+          "director": "Shalini Kantayya",
+          "premios": []
+        },
+        {
+          "seccion": "U.S. Documentary Competition",
+          "titulo": "Navalny",
+          "director": "Daniel Roher",
+          "premios": [
+            "Audience Award: U.S. Documentary",
+            "Festival Favorite Award"
+          ]
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Brian and Charles",
+          "director": "Jim Archer",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "The Cow Who Sang a Song Into the Future",
+          "director": "Francisca Alegría",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Dos Estaciones",
+          "director": "Juan Pablo González",
+          "premios": [
+            "World Cinema Dramatic Special Jury Award: Acting · Teresa Sánchez"
+          ]
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Gentle",
+          "director": "Anna Eszter Nemes · László Csuja",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Girl Picture",
+          "director": "Alli Haapasalo",
+          "premios": [
+            "Audience Award: World Cinema Dramatic"
+          ]
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Klondike",
+          "director": "Maryna Er Gorbach",
+          "premios": [
+            "Directing Award: World Cinema Dramatic · Maryna Er Gorbach"
+          ]
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Leonor Will Never Die",
+          "director": "Martika Ramirez Escobar",
+          "premios": [
+            "World Cinema Dramatic Special Jury Award: Innovative Spirit"
+          ]
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Marte Um (Mars One)",
+          "director": "Gabriel Martins",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "Utama",
+          "director": "Alejandro Loayza Grisi",
+          "premios": [
+            "World Cinema Grand Jury Prize: Dramatic"
+          ]
+        },
+        {
+          "seccion": "World Cinema Dramatic Competition",
+          "titulo": "You Won’t Be Alone",
+          "director": "Goran Stolevski",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "All That Breathes",
+          "director": "Shaunak Sen",
+          "premios": [
+            "World Cinema Grand Jury Prize: Documentary"
+          ]
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "Calendar Girls",
+          "director": "Maria Loohufvud · Love Martinsen",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "A House Made of Splinters",
+          "director": "Simon Lereng Wilmont",
+          "premios": [
+            "Directing Award: World Cinema Documentary"
+          ]
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "Midwives",
+          "director": "Snow Hnin Ei Hlaing",
+          "premios": [
+            "World Cinema Documentary Special Jury Award: Excellence in Vérité Filmmaking"
+          ]
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "The Mission",
+          "director": "Tania Anderson",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "Nothing Compares",
+          "director": "Kathryn Ferguson",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "Sirens",
+          "director": "Rita Baghdadi",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "Tantura",
+          "director": "Alon Schwarz",
+          "premios": []
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "The Territory",
+          "director": "Alex Pritz",
+          "premios": [
+            "Audience Award: World Cinema Documentary",
+            "World Cinema Documentary Special Jury Award: Documentary Craft"
+          ]
+        },
+        {
+          "seccion": "World Cinema Documentary Competition",
+          "titulo": "We Met in Virtual Reality",
+          "director": "Joe Hunting",
+          "premios": []
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "The Cathedral",
+          "director": "Ricky D’Ambrose",
+          "premios": []
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "Every Day in Kaimukī",
+          "director": "Alika Tengan",
+          "premios": []
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "Framing Agnes",
+          "director": "Chase Joynt",
+          "premios": [
+            "Audience Award: NEXT",
+            "NEXT Innovator Award · Chase Joynt"
+          ]
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "A Love Song",
+          "director": "Max Walker-Silverman",
+          "premios": []
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "Mija",
+          "director": "Isabel Castro",
+          "premios": []
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "Riotsville, USA",
+          "director": "Sierra Pettengill",
+          "premios": []
+        },
+        {
+          "seccion": "NEXT",
+          "titulo": "Something in the Dirt",
+          "director": "Justin Benson · Aaron Moorhead",
+          "premios": []
+        },
+        {
+          "seccion": "Spotlight · largometraje premiado",
+          "titulo": "After Yang",
+          "director": "Kogonada",
+          "premios": [
+            "Alfred P. Sloan Feature Film Prize"
+          ]
+        },
+        {
+          "seccion": "Premieres · largometraje premiado",
+          "titulo": "God’s Country",
+          "director": "Julian Higgins",
+          "premios": [
+            "Sundance Institute | Amazon Studios Producers Award for Fiction · Amanda Marshall"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "The Headhunter’s Daughter",
+          "director": "Don Josephus Raphael Eblahan",
+          "premios": [
+            "Short Film Grand Jury Prize"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "If I Go Will They Miss Me",
+          "director": "Walter Thompson-Hernández",
+          "premios": [
+            "Short Film Jury Award: U.S. Fiction"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "Warsha",
+          "director": "Dania Bdeir",
+          "premios": [
+            "Short Film Jury Award: International Fiction"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "Displaced",
+          "director": "Samir Karahoda",
+          "premios": [
+            "Short Film Jury Award: Nonfiction"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "Night Bus",
+          "director": "Joe Hsieh",
+          "premios": [
+            "Short Film Jury Award: Animation"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "A Wild Patience Has Taken Me Here",
+          "director": "Érica Sarmet",
+          "premios": [
+            "Short Film Special Jury Award: Ensemble Cast · Zélia Duncan · Bruna Linzmeyer · Camila Rocha · Clarissa Ribeiro · Lorre Motta"
+          ]
+        },
+        {
+          "seccion": "Short Film Program · cortometrajes premiados",
+          "titulo": "Stranger Than Rotterdam with Sara Driver",
+          "director": "Lewie Kloster · Noah Kloster",
+          "premios": [
+            "Short Film Special Jury Award: Screenwriting · Sara Driver"
+          ]
+        }
+      ],
+      "seleccion_counts": {
+        "U.S. Dramatic Competition": 10,
+        "U.S. Documentary Competition": 10,
+        "World Cinema Dramatic Competition": 10,
+        "World Cinema Documentary Competition": 10,
+        "NEXT": 7
+      },
+      "recuentos": {
+        "seleccion_competitiva": 47,
+        "cortos_premiados": 7,
+        "largometrajes_premiados_fuera_de_competicion": 2
+      },
+      "notas": [
+        "Las listas de secciones reproducen la selección anunciada en el programa oficial; no se documentó retirada de títulos de las cinco competiciones en la evidencia disponible."
+      ],
+      "resolved_checks": [
+        {
+          "titulo": "Navalny",
+          "seccion": "U.S. Documentary Competition",
+          "resultado": "décima y última película anunciada por el Instituto Sundance; no se presume sustitución.",
+          "fuente": "https://www.sundance.org/blogs/2022-sundance-film-festival-announces-world-premiere-of-documentary-thriller-navalny/"
+        }
+      ]
+    },
+    "globos_oro_2022_transcripcion.json": {
+      "sources": [
+        {
+          "url": "https://spainexportfilmandtv.com/wp-content/uploads/2021/12/2022-golden-globe-nominations-official-press-release-for-site.pdf",
+          "type": "copia alojada por Spain Film Commission de la nota oficial HFPA; transcribe las 14 categorías y 70 candidaturas de cine; excluidas categorías de TV"
+        },
+        {
+          "url": "https://goldenglobes.com/festival/golden-globe-awards-ceremony/2022-golden-globe-awards-ceremony/",
+          "type": "archivo oficial de la ceremonia, enlaza la nota de ganadores ya no disponible"
+        },
+        {
+          "url": "https://goldenglobes.com/film/power-of-the-dog-the/",
+          "type": "ficha oficial con candidaturas, ganadores y dirección; se usaron además fichas oficiales por película para contrastar ganadores"
+        },
+        {
+          "url": "https://goldenglobes.com/film/west-side-story-2021/",
+          "type": "ficha oficial con dirección, candidaturas y tres ganadores"
+        },
+        {
+          "url": "https://goldenglobes.com/articles/winners-circle-2022-the-power-of-the-dog-best-motion-picture-drama/",
+          "type": "artículo oficial que confirma premios principales a The Power of the Dog"
+        }
+      ],
+      "categorias": {
+        "Mejor película dramática": [
+          {
+            "pelicula": "Belfast",
+            "persona": null
+          },
+          {
+            "pelicula": "CODA",
+            "persona": null
+          },
+          {
+            "pelicula": "Dune",
+            "persona": null
+          },
+          {
+            "pelicula": "King Richard",
+            "persona": null
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": null
+          }
+        ],
+        "Mejor actriz protagonista en drama": [
+          {
+            "pelicula": "The Eyes of Tammy Faye",
+            "persona": "Jessica Chastain"
+          },
+          {
+            "pelicula": "The Lost Daughter",
+            "persona": "Olivia Colman"
+          },
+          {
+            "pelicula": "Being the Ricardos",
+            "persona": "Nicole Kidman"
+          },
+          {
+            "pelicula": "House of Gucci",
+            "persona": "Lady Gaga"
+          },
+          {
+            "pelicula": "Spencer",
+            "persona": "Kristen Stewart"
+          }
+        ],
+        "Mejor actor protagonista en drama": [
+          {
+            "pelicula": "Swan Song",
+            "persona": "Mahershala Ali"
+          },
+          {
+            "pelicula": "Being the Ricardos",
+            "persona": "Javier Bardem"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Benedict Cumberbatch"
+          },
+          {
+            "pelicula": "King Richard",
+            "persona": "Will Smith"
+          },
+          {
+            "pelicula": "The Tragedy of Macbeth",
+            "persona": "Denzel Washington"
+          }
+        ],
+        "Mejor película de comedia o musical": [
+          {
+            "pelicula": "Cyrano",
+            "persona": null
+          },
+          {
+            "pelicula": "Don’t Look Up",
+            "persona": null
+          },
+          {
+            "pelicula": "Licorice Pizza",
+            "persona": null
+          },
+          {
+            "pelicula": "Tick, Tick… Boom!",
+            "persona": null
+          },
+          {
+            "pelicula": "West Side Story",
+            "persona": null
+          }
+        ],
+        "Mejor actriz protagonista en comedia o musical": [
+          {
+            "pelicula": "Annette",
+            "persona": "Marion Cotillard"
+          },
+          {
+            "pelicula": "Licorice Pizza",
+            "persona": "Alana Haim"
+          },
+          {
+            "pelicula": "Don’t Look Up",
+            "persona": "Jennifer Lawrence"
+          },
+          {
+            "pelicula": "Cruella",
+            "persona": "Emma Stone"
+          },
+          {
+            "pelicula": "West Side Story",
+            "persona": "Rachel Zegler"
+          }
+        ],
+        "Mejor actor protagonista en comedia o musical": [
+          {
+            "pelicula": "Don’t Look Up",
+            "persona": "Leonardo DiCaprio"
+          },
+          {
+            "pelicula": "Cyrano",
+            "persona": "Peter Dinklage"
+          },
+          {
+            "pelicula": "Tick, Tick… Boom!",
+            "persona": "Andrew Garfield"
+          },
+          {
+            "pelicula": "Licorice Pizza",
+            "persona": "Cooper Hoffman"
+          },
+          {
+            "pelicula": "In the Heights",
+            "persona": "Anthony Ramos"
+          }
+        ],
+        "Mejor película de animación": [
+          {
+            "pelicula": "Encanto",
+            "persona": null
+          },
+          {
+            "pelicula": "Flee",
+            "persona": null
+          },
+          {
+            "pelicula": "Luca",
+            "persona": null
+          },
+          {
+            "pelicula": "My Sunny Maad",
+            "persona": null
+          },
+          {
+            "pelicula": "Raya and the Last Dragon",
+            "persona": null
+          }
+        ],
+        "Mejor película de habla no inglesa": [
+          {
+            "pelicula": "Compartment No. 6",
+            "persona": null
+          },
+          {
+            "pelicula": "Drive My Car",
+            "persona": null
+          },
+          {
+            "pelicula": "The Hand of God",
+            "persona": null
+          },
+          {
+            "pelicula": "A Hero",
+            "persona": null
+          },
+          {
+            "pelicula": "Parallel Mothers",
+            "persona": null
+          }
+        ],
+        "Mejor actriz de reparto": [
+          {
+            "pelicula": "Belfast",
+            "persona": "Caitríona Balfe"
+          },
+          {
+            "pelicula": "West Side Story",
+            "persona": "Ariana DeBose"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Kirsten Dunst"
+          },
+          {
+            "pelicula": "King Richard",
+            "persona": "Aunjanue Ellis"
+          },
+          {
+            "pelicula": "Passing",
+            "persona": "Ruth Negga"
+          }
+        ],
+        "Mejor actor de reparto": [
+          {
+            "pelicula": "The Tender Bar",
+            "persona": "Ben Affleck"
+          },
+          {
+            "pelicula": "Belfast",
+            "persona": "Jamie Dornan"
+          },
+          {
+            "pelicula": "Belfast",
+            "persona": "Ciarán Hinds"
+          },
+          {
+            "pelicula": "CODA",
+            "persona": "Troy Kotsur"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Kodi Smit-McPhee"
+          }
+        ],
+        "Mejor dirección": [
+          {
+            "pelicula": "Belfast",
+            "persona": "Kenneth Branagh"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Jane Campion"
+          },
+          {
+            "pelicula": "The Lost Daughter",
+            "persona": "Maggie Gyllenhaal"
+          },
+          {
+            "pelicula": "West Side Story",
+            "persona": "Steven Spielberg"
+          },
+          {
+            "pelicula": "Dune",
+            "persona": "Denis Villeneuve"
+          }
+        ],
+        "Mejor guion": [
+          {
+            "pelicula": "Licorice Pizza",
+            "persona": "Paul Thomas Anderson"
+          },
+          {
+            "pelicula": "Belfast",
+            "persona": "Kenneth Branagh"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Jane Campion"
+          },
+          {
+            "pelicula": "Don’t Look Up",
+            "persona": "Adam McKay"
+          },
+          {
+            "pelicula": "Being the Ricardos",
+            "persona": "Aaron Sorkin"
+          }
+        ],
+        "Mejor música original": [
+          {
+            "pelicula": "The French Dispatch",
+            "persona": "Alexandre Desplat"
+          },
+          {
+            "pelicula": "Encanto",
+            "persona": "Germaine Franco"
+          },
+          {
+            "pelicula": "The Power of the Dog",
+            "persona": "Jonny Greenwood"
+          },
+          {
+            "pelicula": "Parallel Mothers",
+            "persona": "Alberto Iglesias"
+          },
+          {
+            "pelicula": "Dune",
+            "persona": "Hans Zimmer"
+          }
+        ],
+        "Mejor canción original": [
+          {
+            "pelicula": "King Richard",
+            "persona": "“Be Alive” · Beyoncé · DIXSON"
+          },
+          {
+            "pelicula": "Encanto",
+            "persona": "“Dos Oruguitas” · Lin-Manuel Miranda"
+          },
+          {
+            "pelicula": "Belfast",
+            "persona": "“Down to Joy” · Van Morrison"
+          },
+          {
+            "pelicula": "Respect",
+            "persona": "“Here I Am (Singing My Way Home)” · Jamie Hartman · Jennifer Hudson · Carole King"
+          },
+          {
+            "pelicula": "No Time to Die",
+            "persona": "“No Time to Die” · Billie Eilish · Finneas O’Connell"
+          }
+        ]
+      },
+      "ganadores": {
+        "Mejor película dramática": {
+          "pelicula": "The Power of the Dog",
+          "persona": null
+        },
+        "Mejor actriz protagonista en drama": {
+          "pelicula": "Being the Ricardos",
+          "persona": "Nicole Kidman"
+        },
+        "Mejor actor protagonista en drama": {
+          "pelicula": "King Richard",
+          "persona": "Will Smith"
+        },
+        "Mejor película de comedia o musical": {
+          "pelicula": "West Side Story",
+          "persona": null
+        },
+        "Mejor actriz protagonista en comedia o musical": {
+          "pelicula": "West Side Story",
+          "persona": "Rachel Zegler"
+        },
+        "Mejor actor protagonista en comedia o musical": {
+          "pelicula": "Tick, Tick… Boom!",
+          "persona": "Andrew Garfield"
+        },
+        "Mejor película de animación": {
+          "pelicula": "Encanto",
+          "persona": null
+        },
+        "Mejor película de habla no inglesa": {
+          "pelicula": "Drive My Car",
+          "persona": null
+        },
+        "Mejor actriz de reparto": {
+          "pelicula": "West Side Story",
+          "persona": "Ariana DeBose"
+        },
+        "Mejor actor de reparto": {
+          "pelicula": "The Power of the Dog",
+          "persona": "Kodi Smit-McPhee"
+        },
+        "Mejor dirección": {
+          "pelicula": "The Power of the Dog",
+          "persona": "Jane Campion"
+        },
+        "Mejor guion": {
+          "pelicula": "Belfast",
+          "persona": "Kenneth Branagh"
+        },
+        "Mejor música original": {
+          "pelicula": "Dune",
+          "persona": "Hans Zimmer"
+        },
+        "Mejor canción original": {
+          "pelicula": "No Time to Die",
+          "persona": "“No Time to Die” · Billie Eilish · Finneas O’Connell"
+        }
+      },
+      "recuentos": {
+        "categorias": 14,
+        "candidaturas": 70,
+        "premios": 14
+      },
+      "television": "excluida"
+    }
+  },
+  "sections": [
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "films": 35,
+      "owned": 34,
+      "nominations": 70,
+      "wins": 14
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "films": 33,
+      "owned": 21,
+      "nominations": 118,
+      "wins": 25
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Premio vinculado a película · David dello Spettatore",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "films": 42,
+      "owned": 11,
+      "nominations": 117,
+      "wins": 26
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Internazionale",
+      "films": 17,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 14
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Cineasti del Presente",
+      "films": 15,
+      "owned": 2,
+      "nominations": 0,
+      "wins": 10
+    },
+    {
+      "festival": "Locarno",
+      "section": "Pardi di Domani · cortometrajes premiados",
+      "films": 11,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 11
+    },
+    {
+      "festival": "Locarno",
+      "section": "Open Doors · cortometraje premiado",
+      "films": 1,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "films": 10,
+      "owned": 6,
+      "nominations": 0,
+      "wins": 6
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Documentary Competition",
+      "films": 10,
+      "owned": 2,
+      "nominations": 0,
+      "wins": 7
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "films": 10,
+      "owned": 6,
+      "nominations": 0,
+      "wins": 5
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Documentary Competition",
+      "films": 10,
+      "owned": 2,
+      "nominations": 0,
+      "wins": 5
+    },
+    {
+      "festival": "Sundance",
+      "section": "NEXT",
+      "films": 7,
+      "owned": 3,
+      "nominations": 0,
+      "wins": 2
+    },
+    {
+      "festival": "Sundance",
+      "section": "Premieres · largometrajes premiados",
+      "films": 1,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sundance",
+      "section": "Spotlight · largometrajes premiados",
+      "films": 1,
+      "owned": 1,
+      "nominations": 0,
+      "wins": 1
+    },
+    {
+      "festival": "Sundance",
+      "section": "Short Film Program · cortometrajes premiados",
+      "films": 7,
+      "owned": 0,
+      "nominations": 0,
+      "wins": 7
+    }
+  ],
+  "masterEvidence": [
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Belfast",
+      "title": "Belfast",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 32,
+      "titleES": "Belfast",
+      "originalTitle": "Belfast",
+      "director": "Kenneth Branagh",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/70"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "CODA",
+      "title": "CODA: Los sonidos del silencio",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 51,
+      "titleES": "CODA: Los sonidos del silencio",
+      "originalTitle": "CODA",
+      "director": "Sian Heder",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/115"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Dune",
+      "title": "Dune",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 2,
+      "titleES": "Dune",
+      "originalTitle": "Dune",
+      "director": "Denis Villeneuve",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/4"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "King Richard",
+      "title": "El método Williams",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 28,
+      "titleES": "El método Williams",
+      "originalTitle": "King Richard",
+      "director": "Reinaldo Marcus Green",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/60"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "The Power of the Dog",
+      "title": "El poder del perro",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 6,
+      "titleES": "El poder del perro",
+      "originalTitle": "The Power of the Dog",
+      "director": "Jane Campion",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/12"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "The Eyes of Tammy Faye",
+      "title": "Los ojos de Tammy Faye",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 173,
+      "titleES": "Los ojos de Tammy Faye",
+      "originalTitle": "The Eyes of Tammy Faye",
+      "director": "Michael Showalter",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/382"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "The Lost Daughter",
+      "title": "La hija oscura",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 76,
+      "titleES": "La hija oscura",
+      "originalTitle": "The Lost Daughter",
+      "director": "Maggie Gyllenhaal",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/171"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Being the Ricardos",
+      "title": "Ser los Ricardo",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 87,
+      "titleES": "Ser los Ricardo",
+      "originalTitle": "Being the Ricardos",
+      "director": "Aaron Sorkin",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/193"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "House of Gucci",
+      "title": "La casa Gucci",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 31,
+      "titleES": "La casa Gucci",
+      "originalTitle": "House of Gucci",
+      "director": "Ridley Scott",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/67"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Spencer",
+      "title": "Spencer",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 61,
+      "titleES": "Spencer",
+      "originalTitle": "Spencer",
+      "director": "Pablo Larraín",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/135"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "El canto del cisne",
+      "title": "El canto del cisne",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 222,
+      "titleES": "El canto del cisne",
+      "originalTitle": "Swan Song",
+      "director": "Benjamin Cleary",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/495"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "The Tragedy of Macbeth",
+      "title": "La tragedia de Macbeth",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 148,
+      "titleES": "Macbeth",
+      "originalTitle": "The Tragedy of Macbeth",
+      "director": "Joel Coen",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/329"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Cyrano",
+      "title": "Cyrano",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 314,
+      "titleES": "Cyrano",
+      "originalTitle": "Cyrano",
+      "director": "Joe Wright",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/716"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Don't Look Up",
+      "title": "No mires arriba",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 3,
+      "titleES": "No mires arriba",
+      "originalTitle": "Don't Look Up",
+      "director": "Adam McKay",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/6"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Licorice Pizza",
+      "title": "Licorice Pizza",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 17,
+      "titleES": "Licorice Pizza",
+      "originalTitle": "Licorice Pizza",
+      "director": "Paul Thomas Anderson",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/38"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "tick, tick...BOOM!",
+      "title": "tick, tick... BOOM!",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 59,
+      "titleES": "tick, tick... BOOM!",
+      "originalTitle": "tick, tick... BOOM!",
+      "director": "Lin-Manuel Miranda",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/131"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "West Side Story",
+      "title": "West Side Story",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 43,
+      "titleES": "West Side Story",
+      "originalTitle": "West Side Story",
+      "director": "Steven Spielberg",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/96"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Annette",
+      "title": "Annette",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 78,
+      "titleES": "Annette",
+      "originalTitle": "Annette",
+      "director": "Leos Carax",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/175"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Cruella",
+      "title": "Cruella",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 14,
+      "titleES": "Cruella",
+      "originalTitle": "Cruella",
+      "director": "Craig Gillespie",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/30"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "In the Heights",
+      "title": "En un barrio de Nueva York",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 179,
+      "titleES": "En un barrio de Nueva York",
+      "originalTitle": "In the Heights",
+      "director": "Jon M. Chu",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/397"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Encanto",
+      "title": "Encanto",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 815,
+      "titleES": null,
+      "originalTitle": "Encanto",
+      "director": "Jared Bush, Byron Howard, Charise Castro Smith",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/32"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Flee",
+      "title": "Flee",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 202,
+      "titleES": "Flee",
+      "originalTitle": "Flugt",
+      "director": "Jonas Poher Rasmussen",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/447"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Luca",
+      "title": "Luca",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 10,
+      "titleES": "Luca",
+      "originalTitle": "Luca",
+      "director": "Enrico Casarosa",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/20"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Raya and the Last Dragon",
+      "title": "Raya y el último dragón",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 35,
+      "titleES": "Raya y el último dragón",
+      "originalTitle": "Raya and the Last Dragon",
+      "director": "Don Hall, Carlos López Estrada",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/76"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Hytti nro 6",
+      "title": "Compartimento Nº 6",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 162,
+      "titleES": "Compartimento Nº 6",
+      "originalTitle": "Hytti nro 6",
+      "director": "Juho Kuosmanen",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/357"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Drive My Car",
+      "title": "Drive My Car",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 817,
+      "titleES": null,
+      "originalTitle": "Drive My Car",
+      "director": "Ryûsuke Hamaguchi",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/94"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "È stata la mano di Dio",
+      "title": "Fue la mano de Dios",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 30,
+      "titleES": "Fue la mano de Dios",
+      "originalTitle": "È stata la mano di Dio",
+      "director": "Paolo Sorrentino",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/64"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Ghahreman",
+      "title": "Un héroe",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 123,
+      "titleES": "Un héroe",
+      "originalTitle": "قهرمان",
+      "director": "Asghar Farhadi",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/269"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Madres paralelas",
+      "title": "Madres paralelas",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 25,
+      "titleES": "Madres paralelas",
+      "originalTitle": "Madres paralelas",
+      "director": "Pedro Almodóvar",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/54"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Claroscuro",
+      "title": "Claroscuro",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 300,
+      "titleES": "Claroscuro",
+      "originalTitle": "Passing",
+      "director": "Rebecca Hall",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/686"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "The Tender Bar",
+      "title": "El bar de las grandes esperanzas",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 116,
+      "titleES": "El bar de las grandes esperanzas",
+      "originalTitle": "The Tender Bar",
+      "director": "George Clooney",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/255"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "The French Dispatch",
+      "title": "La crónica francesa",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 44,
+      "titleES": "La crónica francesa",
+      "originalTitle": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "director": "Wes Anderson",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/98"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "Respect",
+      "title": "Respect",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 289,
+      "titleES": "Respect",
+      "originalTitle": "Respect",
+      "director": "Liesl Tommy",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/662"
+    },
+    {
+      "festival": "Globos de Oro",
+      "section": "Cine · 79.ª edición",
+      "sourceTitle": "No Time To Die",
+      "title": "Sin tiempo para morir",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 13,
+      "titleES": "Sin tiempo para morir",
+      "originalTitle": "No Time to Die",
+      "director": "Cary Joji Fukunaga",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/28"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Ariaferma",
+      "title": "Ariaferma",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 335,
+      "titleES": "Ariaferma",
+      "originalTitle": "Ariaferma",
+      "director": "Leonardo Di Costanzo",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/762"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "È stata la mano di Dio",
+      "title": "Fue la mano de Dios",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 30,
+      "titleES": "Fue la mano de Dios",
+      "originalTitle": "È stata la mano di Dio",
+      "director": "Paolo Sorrentino",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/64"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Ennio",
+      "title": "Ennio, el Maestro",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 217,
+      "titleES": "Ennio, el Maestro",
+      "originalTitle": "Ennio",
+      "director": "Giuseppe Tornatore",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/483"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Freaks Out",
+      "title": "Freaks Out",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 383,
+      "titleES": "Freaks Out",
+      "originalTitle": "Freaks Out",
+      "director": "Gabriele Mainetti",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/884"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Qui rido io",
+      "title": "Aquí me río yo",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 526,
+      "titleES": "Aquí me río yo",
+      "originalTitle": "Qui rido io",
+      "director": "Mario Martone",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1244"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Re Granchio",
+      "title": "La leyenda del Rey Cangrejo",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 640,
+      "titleES": "La leyenda del Rey Cangrejo",
+      "originalTitle": "Re Granchio",
+      "director": "Alessio Rigo de Righi, Matteo Zoppis",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1506"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Piccolo corpo",
+      "title": "Pequeño cuerpo",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 743,
+      "titleES": "Pequeño cuerpo",
+      "originalTitle": "Piccolo corpo",
+      "director": "Laura Samani",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1737"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "A Chiara",
+      "title": "Para Chiara",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 400,
+      "titleES": "Para Chiara",
+      "originalTitle": "A Chiara",
+      "director": "Jonas Carpignano",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/918"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Diabolik",
+      "title": "Diabolik",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 559,
+      "titleES": "Diabolik",
+      "originalTitle": "Diabolik",
+      "director": "Antonio Manetti, Marco Manetti",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1319"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "La scuola cattolica",
+      "title": "La escuela católica",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 456,
+      "titleES": "La escuela católica",
+      "originalTitle": "La scuola cattolica",
+      "director": "Stefano Mordini",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1049"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "La terra dei figli",
+      "title": "La tierra de los hijos",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 407,
+      "titleES": "La tierra de los hijos",
+      "originalTitle": "La terra dei figli",
+      "director": "Claudio Cupellini",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/934"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Tre piani",
+      "title": "Tres pisos",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 224,
+      "titleES": "Tres pisos",
+      "originalTitle": "Tre Piani",
+      "director": "Nanni Moretti",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/499"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Marilyn ha gli occhi neri",
+      "title": "Marilyn tiene los ojos negros",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 660,
+      "titleES": "Marilyn tiene los ojos negros",
+      "originalTitle": "Marilyn ha gli occhi neri",
+      "director": "Simone Godano",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1560"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "7 donne e un mistero",
+      "title": "7 mujeres y un misterio",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 346,
+      "titleES": "7 mujeres y un misterio",
+      "originalTitle": "7 donne e un mistero",
+      "director": "Alessandro Genovesi",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/797"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "A Classic Horror Story",
+      "title": "La clásica historia de terror",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 149,
+      "titleES": "La clásica historia de terror",
+      "originalTitle": "A Classic Horror Story",
+      "director": "Roberto De Feo, Paolo Strippoli",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/331"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Atlantide",
+      "title": "Atlantide",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 533,
+      "titleES": "Atlantide",
+      "originalTitle": "Atlantide",
+      "director": "Yuri Ancarani",
+      "year": 2022,
+      "telegram": "https://t.me/c/2254464085/1258"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Belfast",
+      "title": "Belfast",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 32,
+      "titleES": "Belfast",
+      "originalTitle": "Belfast",
+      "director": "Kenneth Branagh",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/70"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Don’t Look Up",
+      "title": "No mires arriba",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 3,
+      "titleES": "No mires arriba",
+      "originalTitle": "Don't Look Up",
+      "director": "Adam McKay",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/6"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Drive My Car",
+      "title": "Drive My Car",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 817,
+      "titleES": null,
+      "originalTitle": "Drive My Car",
+      "director": "Ryûsuke Hamaguchi",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/94"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "Dune",
+      "title": "Dune",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 2,
+      "titleES": "Dune",
+      "originalTitle": "Dune",
+      "director": "Denis Villeneuve",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/4"
+    },
+    {
+      "festival": "David di Donatello",
+      "section": "Categorías competitivas · 67.ª edición",
+      "sourceTitle": "The Power of the Dog",
+      "title": "El poder del perro",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 6,
+      "titleES": "El poder del perro",
+      "originalTitle": "The Power of the Dog",
+      "director": "Jane Campion",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/12"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Cosas imposibles",
+      "title": "Cosas imposibles",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 553,
+      "titleES": "Cosas imposibles",
+      "originalTitle": "Cosas imposibles",
+      "director": "Ernesto Contreras",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1305"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Nudo Mixteco",
+      "title": "Nudo Mixteco",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 672,
+      "titleES": "Nudo Mixteco",
+      "originalTitle": "Nudo Mixteco",
+      "director": "Ángeles Cruz",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1589"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Una película de policías",
+      "title": "Una película de policías",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 479,
+      "titleES": "Una película de policías",
+      "originalTitle": "Una película de policías",
+      "director": "Alonso Ruizpalacios",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1106"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Noche de fuego",
+      "title": "Noche de fuego",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 256,
+      "titleES": "Noche de fuego",
+      "originalTitle": "Noche de fuego",
+      "director": "Tatiana Huezo",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/578"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "El otro Tom",
+      "title": "El otro Tom",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 588,
+      "titleES": "El otro Tom",
+      "originalTitle": "El otro Tom",
+      "director": "Rodrigo Plá, Laura Santullo",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1385"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "50 o dos ballenas se encuentran en la playa",
+      "title": "50 (o Dos ballenas se encuentran en la playa)",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 481,
+      "titleES": "50 (o Dos ballenas se encuentran en la playa)",
+      "originalTitle": "50 (o Dos ballenas se encuentran en la playa)",
+      "director": "Jorge Cuchí",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1138"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Cadejo Blanco",
+      "title": "Cadejo Blanco",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 542,
+      "titleES": "Cadejo Blanco",
+      "originalTitle": "Cadejo Blanco",
+      "director": "Justin Lerner",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/1278"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "El buen patrón",
+      "title": "El buen patrón",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 5,
+      "titleES": "El buen patrón",
+      "originalTitle": "El buen patrón",
+      "director": "Fernando León de Aranoa",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/10"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "El prófugo",
+      "title": "El prófugo",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 456,
+      "titleES": "El prófugo",
+      "originalTitle": "El prófugo",
+      "director": "Natalia Meta",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1069"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Memoria",
+      "title": "Memoria",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 278,
+      "titleES": "Memoria",
+      "originalTitle": "Memoria",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/624"
+    },
+    {
+      "festival": "Ariel",
+      "section": "Categorías competitivas · 64.ª edición",
+      "sourceTitle": "Blanco de verano",
+      "title": "Blanco de Verano",
+      "masterFile": "Catalogo_Telegram_2020.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 503,
+      "titleES": "Blanco de Verano",
+      "originalTitle": "Blanco de Verano",
+      "director": "Rodrigo Ruiz Patterson",
+      "year": 2020,
+      "telegram": "https://t.me/c/2373241601/1184"
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Internazionale",
+      "sourceTitle": "Tengo sueños eléctricos",
+      "title": "Tengo sueños eléctricos",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 472,
+      "titleES": "Tengo sueños eléctricos",
+      "originalTitle": "Tengo sueños eléctricos",
+      "director": "Valentina Maurel",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1062"
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Cineasti del Presente",
+      "sourceTitle": "Matadero",
+      "title": "Matadero",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 715,
+      "titleES": "Matadero",
+      "originalTitle": "Matadero",
+      "director": "Santiago Fillol",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1679"
+    },
+    {
+      "festival": "Locarno",
+      "section": "Concorso Cineasti del Presente",
+      "sourceTitle": "Safe Place",
+      "title": "Safe Place",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 491,
+      "titleES": "Safe Place",
+      "originalTitle": "Sigurno mjesto",
+      "director": "Juraj Lerotić",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1110"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "sourceTitle": "Alice",
+      "title": "Alice: Descubriendo la libertad",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 563,
+      "titleES": "Alice: Descubriendo la libertad",
+      "originalTitle": "Alice",
+      "director": "Krystin Ver Linden",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1322"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "sourceTitle": "Cha Cha Real Smooth",
+      "title": "Bailando por la vida",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 316,
+      "titleES": "Bailando por la vida",
+      "originalTitle": "Cha Cha Real Smooth",
+      "director": "Cooper Raiff",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/696"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "sourceTitle": "Dual",
+      "title": "Dual",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 369,
+      "titleES": "Dual",
+      "originalTitle": "Dual",
+      "director": "Riley Stearns",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/818"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "sourceTitle": "Nanny",
+      "title": "La niñera",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 348,
+      "titleES": "La niñera",
+      "originalTitle": "Nanny",
+      "director": "Nikyatu Jusu",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/766"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "sourceTitle": "Palm Trees and Power Lines",
+      "title": "Nunca llueve en California",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 225,
+      "titleES": "Nunca llueve en California",
+      "originalTitle": "Palm Trees and Power Lines",
+      "director": "Jamie Dack",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/492"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Dramatic Competition",
+      "sourceTitle": "Watcher",
+      "title": "El extraño",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 93,
+      "titleES": "El extraño",
+      "originalTitle": "Watcher",
+      "director": "Chloe Okuno",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/243"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Documentary Competition",
+      "sourceTitle": "Fire of Love",
+      "title": "Fire of Love",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 171,
+      "titleES": "Fire of Love",
+      "originalTitle": "Fire of Love",
+      "director": "Sara Dosa",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/374"
+    },
+    {
+      "festival": "Sundance",
+      "section": "U.S. Documentary Competition",
+      "sourceTitle": "Navalny",
+      "title": "Navalny",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 351,
+      "titleES": "Navalny",
+      "originalTitle": "Navalny",
+      "director": "Daniel Roher",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/772"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "sourceTitle": "Brian and Charles",
+      "title": "Brian y Charles",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 477,
+      "titleES": "Brian y Charles",
+      "originalTitle": "Brian and Charles",
+      "director": "Jim Archer",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1073"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "sourceTitle": "Dos Estaciones",
+      "title": "Dos estaciones",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 602,
+      "titleES": "Dos estaciones",
+      "originalTitle": "Dos estaciones",
+      "director": "Juan Pablo González",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1412"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "sourceTitle": "Girl Picture",
+      "title": "Girl picture",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 375,
+      "titleES": "Girl picture",
+      "originalTitle": "Tytöt tytöt tytöt",
+      "director": "Alli Haapasalo",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/836"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "sourceTitle": "Klondike",
+      "title": "Klondike",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 542,
+      "titleES": "Klondike",
+      "originalTitle": "Клондайк",
+      "director": "Maryna Er Gorbach",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1255"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "sourceTitle": "Utama",
+      "title": "Utama",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 387,
+      "titleES": "Utama",
+      "originalTitle": "Utama",
+      "director": "Alejandro Loayza Grisi",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/867"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Dramatic Competition",
+      "sourceTitle": "You Won’t Be Alone",
+      "title": "No estarás sola",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 407,
+      "titleES": "No estarás sola",
+      "originalTitle": "You Won't Be Alone",
+      "director": "Goran Stolevski",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/909"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Documentary Competition",
+      "sourceTitle": "All That Breathes",
+      "title": "Todo lo que respira",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 565,
+      "titleES": "Todo lo que respira",
+      "originalTitle": "All That Breathes",
+      "director": "Shaunak Sen",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1326"
+    },
+    {
+      "festival": "Sundance",
+      "section": "World Cinema Documentary Competition",
+      "sourceTitle": "Nothing Compares",
+      "title": "Sinéad O'Connor: Nothing Compares",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 767,
+      "titleES": "Sinéad O'Connor: Nothing Compares",
+      "originalTitle": "Nothing Compares",
+      "director": "Kathryn Ferguson",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1793"
+    },
+    {
+      "festival": "Sundance",
+      "section": "NEXT",
+      "sourceTitle": "A Love Song",
+      "title": "Una canción de amor",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 796,
+      "titleES": "Una canción de amor",
+      "originalTitle": "A Love Song",
+      "director": "Max Walker-Silverman",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1864"
+    },
+    {
+      "festival": "Sundance",
+      "section": "NEXT",
+      "sourceTitle": "Riotsville, USA",
+      "title": "Riotsville, USA",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 754,
+      "titleES": "Riotsville, USA",
+      "originalTitle": "Riotsville, USA",
+      "director": "Sierra Pettengill",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1767"
+    },
+    {
+      "festival": "Sundance",
+      "section": "NEXT",
+      "sourceTitle": "Something in the Dirt",
+      "title": "Something in the Dirt",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 879,
+      "titleES": "Something in the Dirt",
+      "originalTitle": "Something in the Dirt",
+      "director": "Aaron Moorhead, Justin Benson",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/2084"
+    },
+    {
+      "festival": "Sundance",
+      "section": "Premieres · largometrajes premiados",
+      "sourceTitle": "God’s Country",
+      "title": "Tierra sin ley",
+      "masterFile": "Catalogo_Telegram_2022.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 788,
+      "titleES": "Tierra sin ley",
+      "originalTitle": "God's Country",
+      "director": "Julian Higgins",
+      "year": 2022,
+      "telegram": "https://t.me/c/2498120471/1844"
+    },
+    {
+      "festival": "Sundance",
+      "section": "Spotlight · largometrajes premiados",
+      "sourceTitle": "After Yang",
+      "title": "Despidiendo a Yang",
+      "masterFile": "Catalogo_Telegram_2021.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 823,
+      "titleES": null,
+      "originalTitle": "Despidiendo a Yang",
+      "director": "Kogonada",
+      "year": 2021,
+      "telegram": "https://t.me/c/2254464085/459"
+    }
+  ],
+  "notLocated": [
+    {
+      "festival": "Globos de Oro",
+      "title": "My Sunny Maad",
+      "director": "Michaela Pavlátová"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Il cattivo poeta",
+      "director": "Gianluca Jodice"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Maternal",
+      "director": "Maura Delpero"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Una femmina",
+      "director": "Francesco Costabile"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "L’arminuta",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "America Latina",
+      "director": "Damiano D'Innocenzo, Fabio D'Innocenzo"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Giulia",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "I fratelli De Filippo",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Futura",
+      "director": "Pietro Marcello · Francesco Munzi · Alice Rohrwacher"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Marx può aspettare",
+      "director": "Marco Bellocchio"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Onde radicali",
+      "director": "Gianfranco Pannone"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Maestrale",
+      "director": "Nico Bonomolo"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Come un gatto in tangenziale – Ritorno a Coccia di Morto",
+      "director": ""
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Me contro te – Il mistero della scuola incantata",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "El diablo entre las piernas",
+      "director": "Arturo Ripstein"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Los minutos negros",
+      "director": "Mario Muñoz"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Plaza Catedral",
+      "director": "Abner Benaim"
+    },
+    {
+      "festival": "Ariel",
+      "title": "La diosa del asfalto",
+      "director": "Julián Hernández"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Fuego",
+      "director": "Romina Díaz Araujo · Clara Helena Cobo Reyes"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Llueve",
+      "director": "Magali Rocha Donnadieu · Carolina Corral Paredes"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mijo tiene un dinosaurio",
+      "director": "Alfredo Salomón"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Secretum",
+      "director": "Javier Gutiérrez"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Tío",
+      "director": "Juan J. Medina"
+    },
+    {
+      "festival": "Ariel",
+      "title": "En el fin del mundo",
+      "director": "Abraham Escobedo-Salas"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Flores de la llanura",
+      "director": "Mariana X. Rivera"
+    },
+    {
+      "festival": "Ariel",
+      "title": "La libertad interna",
+      "director": "Porfirio López Mendoza"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Llámenme Puta",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "Pepedrilo",
+      "director": ""
+    },
+    {
+      "festival": "Ariel",
+      "title": "El sueño más largo que recuerdo",
+      "director": "Carlos Lenin"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Invierno",
+      "director": "Rafael Ruiz Espejo · Luis Pacheco"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Manchester Acatitla",
+      "director": "Selma Cervantes"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Reina",
+      "director": "Ozan Mermer"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Viral",
+      "director": "Laura Andrea Martínez Hinojosa"
+    },
+    {
+      "festival": "Ariel",
+      "title": "El hoyo en la cerca",
+      "director": "Joaquín del Paso"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Malibú",
+      "director": "Miguel A. Reina"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Aztech",
+      "director": "Lex Ortega · Ulises Guzmán · Alejandro Alegre"
+    },
+    {
+      "festival": "Ariel",
+      "title": "El exorcismo de Carmen Farías",
+      "director": "Rodrigo Fiallega"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Un rescate de huevitos",
+      "director": "Gabriel Riva Palacio Alatriste · Rodolfo Riva Palacio Alatriste"
+    },
+    {
+      "festival": "Ariel",
+      "title": "¿Qué les pasó a las abejas?",
+      "director": "Adriana Otero Puerto · Robin Canul Suárez"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Cruz",
+      "director": "Teresa Camou Guerrero"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Oaxacalifornia: El regreso",
+      "director": "Trisha Ziff"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Te nombré en el silencio",
+      "director": "José María Espinosa de los Monteros Tatto"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Guiexhuba",
+      "director": "Sabrina Muhate"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Muerte al verano",
+      "director": "Sebastián Padilla-Padilla"
+    },
+    {
+      "festival": "Ariel",
+      "title": "Mis hermanos sueñan despiertos",
+      "director": "Claudia Huaquimilla"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Ariyippu",
+      "director": "Mahesh Narayanan"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Sermon to the Fish",
+      "director": "Hilal Baydarov"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Bowling Saturne",
+      "director": "Patricia Mazuy"
+    },
+    {
+      "festival": "Locarno",
+      "title": "De noche los gatos son pardos",
+      "director": "Valentin Merz"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Gigi la legge",
+      "director": "Alessandro Comodin"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Hikayat elbeit elorjowani (Tales of the Purple House)",
+      "director": "Abbas Fahdel"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Human Flowers of Flesh",
+      "director": "Helena Wittmann"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Il Pataffio",
+      "director": "Francesco Lagi"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Matter out of Place",
+      "director": "Nikolaus Geyrhalter"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Nação Valente (Tommy Guns)",
+      "director": "Carlos Conceição"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Piaffe",
+      "director": "Ann Oren"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Regra 34 (Rule 34)",
+      "director": "Julia Murat"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Serviam – Ich will dienen",
+      "director": "Ruth Mader"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Skazka (Fairytale)",
+      "director": "Aleksandr Sokurov"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Stella est amoureuse",
+      "director": "Sylvie Verheyde"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Stone Turtle",
+      "director": "Woo Ming Jin"
+    },
+    {
+      "festival": "Locarno",
+      "title": "A Perfect Day for Caribou",
+      "director": "Jeff Rutherford"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Arnold Is a Model Student",
+      "director": "Sorayos Prapapan"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Astrakan",
+      "director": "David Depesseville"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Before I Change My Mind",
+      "director": "Trevor Anderson"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Sister, What Grows Where Land Is Sick?",
+      "director": "Franciska Eliassen"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Fragments from Heaven",
+      "director": "Adnane Baraka"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Love Dog",
+      "director": "Bianca Lucas"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Our Lady of the Chinese Shop",
+      "director": "Ery Claver"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Petites",
+      "director": "Julie Lerat-Gersant"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Petrol",
+      "director": "Alena Lodkina"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Nightsiren",
+      "director": "Tereza Nvotová"
+    },
+    {
+      "festival": "Locarno",
+      "title": "How Is Katia?",
+      "director": "Christina Tynkevych"
+    },
+    {
+      "festival": "Locarno",
+      "title": "É noite na América",
+      "director": "Ana Vaz"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Soberane",
+      "director": "Wara"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Neighbour Abdi (Buurman Abdi)",
+      "director": "Douwe Dijkstra"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Hardly Working",
+      "director": "Total Refusal"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Mulika",
+      "director": "Maisha Maene"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Mother Prays All Day Long (Madar tamame rooz doa mikhanad)",
+      "director": "Hoda Taheri"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Euridice, Euridice",
+      "director": "Lora Mure-Ravaud"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Big Bang",
+      "director": "Carlos Segundo"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Der Molchkongress",
+      "director": "Matthias Sahli"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Heartbeat",
+      "director": "Michèle Flury"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Fairplay",
+      "director": "Zoel Aeschbacher"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Les Dieux du Supermarché",
+      "director": "Alberto Gonzalez Morales"
+    },
+    {
+      "festival": "Locarno",
+      "title": "Techos rotos",
+      "director": "Yanillys Pérez"
+    },
+    {
+      "festival": "Sundance",
+      "title": "892",
+      "director": "Abi Damaris Corbin"
+    },
+    {
+      "festival": "Sundance",
+      "title": "blood",
+      "director": "Bradley Rust Gray"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Emergency",
+      "director": "Carey Williams"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Master",
+      "director": "Mariama Diallo"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Aftershock",
+      "director": "Paula Eiselt · Tonya Lewis Lee"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Descendant",
+      "director": "Margaret Brown"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Exiles",
+      "director": "Ben Klein · Violet Columbus"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Free Chol Soo Lee",
+      "director": "Julie Ha · Eugene Yi"
+    },
+    {
+      "festival": "Sundance",
+      "title": "I Didn’t See You There",
+      "director": "Reid Davenport"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Janes",
+      "director": "Tia Lessin · Emma Pildes"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Jihad Rehab",
+      "director": "Meg Smaker"
+    },
+    {
+      "festival": "Sundance",
+      "title": "TikTok, Boom.",
+      "director": "Shalini Kantayya"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Cow Who Sang a Song Into the Future",
+      "director": "Francisca Alegría"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Gentle",
+      "director": "Anna Eszter Nemes · László Csuja"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Leonor Will Never Die",
+      "director": "Martika Ramirez Escobar"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Marte Um (Mars One)",
+      "director": "Gabriel Martins"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Calendar Girls",
+      "director": "Maria Loohufvud · Love Martinsen"
+    },
+    {
+      "festival": "Sundance",
+      "title": "A House Made of Splinters",
+      "director": "Simon Lereng Wilmont"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Midwives",
+      "director": "Snow Hnin Ei Hlaing"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Mission",
+      "director": "Tania Anderson"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Sirens",
+      "director": "Rita Baghdadi"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Tantura",
+      "director": "Alon Schwarz"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Territory",
+      "director": "Alex Pritz"
+    },
+    {
+      "festival": "Sundance",
+      "title": "We Met in Virtual Reality",
+      "director": "Joe Hunting"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Cathedral",
+      "director": "Ricky D’Ambrose"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Every Day in Kaimukī",
+      "director": "Alika Tengan"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Framing Agnes",
+      "director": "Chase Joynt"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Mija",
+      "director": "Isabel Castro"
+    },
+    {
+      "festival": "Sundance",
+      "title": "The Headhunter’s Daughter",
+      "director": "Don Josephus Raphael Eblahan"
+    },
+    {
+      "festival": "Sundance",
+      "title": "If I Go Will They Miss Me",
+      "director": "Walter Thompson-Hernández"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Warsha",
+      "director": "Dania Bdeir"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Displaced",
+      "director": "Samir Karahoda"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Night Bus",
+      "director": "Joe Hsieh"
+    },
+    {
+      "festival": "Sundance",
+      "title": "A Wild Patience Has Taken Me Here",
+      "director": "Érica Sarmet"
+    },
+    {
+      "festival": "Sundance",
+      "title": "Stranger Than Rotterdam with Sara Driver",
+      "director": "Lewie Kloster · Noah Kloster"
+    }
+  ],
+  "directorRecovery": [
+    {
+      "festival": "David di Donatello",
+      "title": "A Chiara",
+      "director": "Jonas Carpignano",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Diabolik",
+      "director": "Antonio Manetti, Marco Manetti",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "La scuola cattolica",
+      "director": "Stefano Mordini",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "La terra dei figli",
+      "director": "Claudio Cupellini",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Tre piani",
+      "director": "Nanni Moretti",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "America Latina",
+      "director": "Damiano D'Innocenzo, Fabio D'Innocenzo",
+      "source": "existing festival identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Marilyn ha gli occhi neri",
+      "director": "Simone Godano",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "7 donne e un mistero",
+      "director": "Alessandro Genovesi",
+      "source": "exact approved master identity"
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "A Classic Horror Story",
+      "director": "Roberto De Feo, Paolo Strippoli",
+      "source": "exact approved master identity"
+    }
+  ],
+  "pendingMetadata": [
+    {
+      "festival": "David di Donatello",
+      "title": "L’arminuta",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Giulia",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "I fratelli De Filippo",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Come un gatto in tangenziale – Ritorno a Coccia di Morto",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "David di Donatello",
+      "title": "Me contro te – Il mistero della scuola incantata",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Llámenme Puta",
+      "field": "director",
+      "owned": false
+    },
+    {
+      "festival": "Ariel",
+      "title": "Pepedrilo",
+      "field": "director",
+      "owned": false
+    }
+  ],
+  "corrections": [],
+  "appliedCorrections": [
+    {
+      "proposal": {
+        "festival": "Berlín",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Avec amour et acharnement",
+        "director": "Claire Denis",
+        "dato_anterior": "Mejor dirección",
+        "propuesta": "Mejor dirección · Claire Denis",
+        "motivo": "El registro omite a la persona premiada; la directora Claire Denis recibió el Oso de Plata a mejor dirección.",
+        "fuente": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+        "operación": "Añadir o corregir el crédito personal del premio."
+      },
+      "before": "Mejor dirección",
+      "after": "Mejor dirección · Claire Denis"
+    },
+    {
+      "proposal": {
+        "festival": "Berlín",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Rabiye Kurnaz gegen George W. Bush",
+        "director": "Andreas Dresen",
+        "dato_anterior": "Mejor guion",
+        "propuesta": "Mejor guion · Laila Stieler",
+        "motivo": "El registro omite a la guionista premiada.",
+        "fuente": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+        "operación": "Añadir o corregir el crédito personal del premio."
+      },
+      "before": "Mejor interpretación protagonista · Meltem Kaptan · Mejor guion",
+      "after": "Mejor interpretación protagonista · Meltem Kaptan · Mejor guion · Laila Stieler"
+    },
+    {
+      "proposal": {
+        "festival": "Berlín",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Everything Will Be Ok",
+        "director": "Rithy Panh",
+        "dato_anterior": "Contribución artística · Rithy Panh",
+        "propuesta": "Contribución artística · Rithy Panh · Sarit Mang",
+        "motivo": "La distinción de contribución artística fue compartida; falta Sarit Mang.",
+        "fuente": "https://www.german-films.de/news/all-news-releases/article/awards-for-german-films-at-berlinale-2022/",
+        "operación": "Añadir o corregir el crédito personal del premio."
+      },
+      "before": "Contribución artística",
+      "after": "Contribución artística · Rithy Panh · Sarit Mang"
+    },
+    {
+      "proposal": {
+        "festival": "Cannes",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Heojil kyolshim",
+        "director": "Park Chan-wook",
+        "dato_anterior": "Mejor dirección",
+        "propuesta": "Mejor dirección · Park Chan-wook",
+        "motivo": "El palmarès asigna el premio de dirección a Park Chan-wook.",
+        "fuente": "https://www.festival-cannes.com/en/press/press-releases/the-75th-festival-de-cannes-winners-list/",
+        "operación": "Añadir o corregir el crédito personal del premio."
+      },
+      "before": "Mejor dirección",
+      "after": "Mejor dirección · Park Chan-wook"
+    },
+    {
+      "proposal": {
+        "festival": "Cannes",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Walad min al janna",
+        "director": "Tarik Saleh",
+        "dato_anterior": "Mejor guion",
+        "propuesta": "Mejor guion · Tarik Saleh",
+        "motivo": "El palmarès asigna el premio de guion a Tarik Saleh.",
+        "fuente": "https://www.festival-cannes.com/en/press/press-releases/the-75th-festival-de-cannes-winners-list/",
+        "operación": "Añadir o corregir el crédito personal del premio."
+      },
+      "before": "Mejor guion",
+      "after": "Mejor guion · Tarik Saleh"
+    },
+    {
+      "proposal": {
+        "festival": "Venecia",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Bones and All",
+        "director": "Luca Guadagnino",
+        "dato_anterior": "Mejor dirección · Marcello Mastroianni · Taylor Russell",
+        "propuesta": "Mejor dirección · Luca Guadagnino; Premio Marcello Mastroianni · Taylor Russell",
+        "motivo": "Se mezclaron la dirección y el premio Marcello Mastroianni; los receptores oficiales son Luca Guadagnino y Taylor Russell.",
+        "fuente": "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "operación": "Sustituir el texto de premios y conservar las dos distinciones con sus receptores correctos."
+      },
+      "before": "Mejor dirección · Marcello Mastroianni · Taylor Russell",
+      "after": "Mejor dirección · Luca Guadagnino; Premio Marcello Mastroianni · Taylor Russell"
+    },
+    {
+      "proposal": {
+        "festival": "Venecia",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "The Banshees of Inisherin",
+        "director": "Martin McDonagh",
+        "dato_anterior": "Mejor actor · Colin Farrell · Mejor guion",
+        "propuesta": "Mejor actor · Colin Farrell; Mejor guion · Martin McDonagh",
+        "motivo": "Ambas categorías son personales; falta identificar a Martin McDonagh como guionista premiado.",
+        "fuente": "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+        "operación": "Sustituir el texto de premios y conservar las dos distinciones con sus receptores correctos."
+      },
+      "before": "Mejor actor · Colin Farrell · Mejor guion",
+      "after": "Mejor actor · Colin Farrell; Mejor guion · Martin McDonagh"
+    },
+    {
+      "proposal": {
+        "festival": "San Sebastián",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "La Maternal",
+        "director": "Pilar Palomero",
+        "dato_anterior": "Mejor interpretación protagonista · Carla Quílez",
+        "propuesta": "Mejor interpretación protagonista · Carla Quílez · ex aequo",
+        "motivo": "La Concha de Plata a mejor interpretación protagonista se concedió ex aequo a Carla Quílez y Paul Kircher; falta señalar el empate.",
+        "fuente": "https://www.sansebastianfestival.com/2022/news/1/20538/in",
+        "operación": "Añadir la indicación ex aequo al premio ya registrado."
+      },
+      "before": "Mejor interpretación protagonista · Carla Quílez",
+      "after": "Mejor interpretación protagonista · Carla Quílez · ex aequo"
+    },
+    {
+      "proposal": {
+        "festival": "San Sebastián",
+        "año": 2022,
+        "sección": "Competición oficial",
+        "película": "Le lycéen",
+        "director": "Christophe Honoré",
+        "dato_anterior": "Mejor interpretación protagonista · Paul Kircher",
+        "propuesta": "Mejor interpretación protagonista · Paul Kircher · ex aequo",
+        "motivo": "La Concha de Plata a mejor interpretación protagonista se concedió ex aequo a Carla Quílez y Paul Kircher; falta señalar el empate.",
+        "fuente": "https://www.sansebastianfestival.com/2022/news/1/20538/in",
+        "operación": "Añadir la indicación ex aequo al premio ya registrado."
+      },
+      "before": "Mejor interpretación protagonista · Paul Kircher",
+      "after": "Mejor interpretación protagonista · Paul Kircher · ex aequo"
+    }
+  ],
+  "referenceRecoveryBlock": {
+    "confirmed": 176,
+    "references": 165,
+    "overlay": 2,
+    "corrections": [
+      {
+        "festival": "Globos de Oro",
+        "title": "El hijo",
+        "previous": null
+      },
+      {
+        "festival": "Locarno",
+        "title": "Animal",
+        "previous": {
+          "y": 2023,
+          "t": "Animalia",
+          "d": "Sofia Alaoui",
+          "p": "https://image.tmdb.org/t/p/w500/ebmuVbvgchPYDxXlgciinfDUhv0.jpg",
+          "dur": 91
+        }
+      }
+    ],
+    "unresolved": [],
+    "conflicts": []
+  },
+  "notes": [
+    "Prepared sources from Luna retained; missing FilmAffinity IDs do not block integration",
+    "No edits to approved masters or original Telegram exports",
+    "Locarno source limitations retained; only awarded short films included",
+    "Year of ceremony and individual film year kept separate",
+    "Only176newmaster-confirmed appearances for both years; no ownership inferred from title alone"
+  ],
+  "verificationSources": [
+    "https://www.labiennale.org/en/news/official-awards-80th-venice-film-festival",
+    "https://www.labiennale.org/en/news/official-awards-79th-venice-film-festival",
+    "https://www.filmportal.de/nachrichten/berlinale-2022-silberne-baeren-fuer-meltem-kaptan-und-laila-stieler"
+  ]
+}

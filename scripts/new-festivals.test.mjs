@@ -67,7 +67,7 @@ test('master reference lookup is cached, preserves metadata and never confuses h
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,3);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,4);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -104,4 +104,18 @@ test('all 15 families have distinct usable icon targets and shared SVG symbols e
  assert.equal(new Set(Object.values(config).map(c=>c.icon)).size,15);
  const sprite=fs.readFileSync('app/festival-icons.svg','utf8');
  for(const item of Object.values(config))if(item.icon.includes('festival-icons.svg'))assert(sprite.includes('id="'+item.icon.split('#')[1]+'"'));
+});
+test('2022–2023 additions preserve complete award counts, corrected shorts and separate film years',()=>{
+ for(const [year,expected] of [[2022,{globos:70,david:118,ariel:117,davidWins:26,arielWins:26}],[2023,{globos:70,david:117,ariel:117,davidWins:25,arielWins:25}]]){
+  const editions=JSON.parse(fs.readFileSync(`data/festivals/years/${year}.json`)).editions;
+  for(const [family,noms,wins] of [['Globos de Oro',expected.globos,14],['David di Donatello',expected.david,expected.davidWins],['Ariel',expected.ariel,expected.arielWins]]){
+   const films=editions.filter(e=>e.festival===family).flatMap(e=>e.films);assert.equal(films.reduce((n,f)=>n+f.nominations.length,0),noms);assert.equal(films.reduce((n,f)=>n+f.wins.length,0),wins);
+   for(const f of films){assert.equal(f.nominations.length,new Set(f.nominations).size);if(f.nominations.length)for(const w of f.wins)assert(f.nominations.includes(w));}
+  }
+  const sundance=editions.filter(e=>e.festival==='Sundance');assert.equal(sundance.slice(0,4).reduce((n,e)=>n+e.films.length,0),year===2023?48:40);
+  const shorts=sundance.find(e=>/Short Film/.test(e.section)).films;
+  if(year===2023)for(const [title,director] of [['Rest Stop','Crystal Kayiza'],['The Kidnapping of the Bride','Sophia Mocorrea'],['AliEN0089','Valeria Hofmann'],['The Vacation','Jarreau Carrillo']])assert.equal(shorts.find(f=>f.title===title).director,director);
+  else assert(sundance.find(e=>e.section==='U.S. Documentary Competition').films.some(f=>f.title==='Navalny'||f.aliases.includes('Navalny')));
+  const venice=editions.find(e=>e.festival==='Venecia').films;const film=venice.find(f=>f.title===(year===2023?'Io Capitano':'Bones and All'));assert(film.award.includes(year===2023?'Matteo Garrone':'Luca Guadagnino'));assert(film.award.includes(year===2023?'Seydou Sarr':'Taylor Russell'));
+ }
 });
