@@ -67,7 +67,7 @@ test('master reference lookup is cached, preserves metadata and never confuses h
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,8);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,9);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -158,4 +158,13 @@ test('César 2020–2021 keeps feature and short animation distinct and public a
   for(const f of films)for(const w of f.wins)assert(f.nominations.includes(w));
   if(year===2020){assert.equal(es.length,2);assert.equal(es[1].films.length,5);assert.equal(es[1].films.flatMap(f=>f.wins).length,1)}
  }
+});
+
+test('Seminci 2019 assigns the Rainbow mention to Let There Be Light rather than The Unknown Saint',()=>{
+ const films=JSON.parse(fs.readFileSync('data/festivals/years/2019.json')).editions.filter(e=>e.festival==='Seminci').flatMap(e=>e.films);
+ const film=films.find(f=>f.director==='Marko Škop');assert(film);assert(film.title!=='The Unknown Saint');assert(film.title==='Let There Be Light'||film.aliases?.includes('Let There Be Light'));assert(film.wins.some(w=>w.includes('Arcoíris')));
+});
+
+test('Fantastic Beasts BAFTA 2019 cannot resolve to Animal or Anima',()=>{
+ const m=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json')).matches;const r=m[JSON.stringify(['BAFTA',2019,'Animales fantásticos: Los crímenes de Grindelwald','David Yates'])];assert(!r||r.d==='David Yates');
 });
