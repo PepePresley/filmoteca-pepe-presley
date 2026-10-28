@@ -67,7 +67,7 @@ test('master reference lookup is cached, preserves metadata and never confuses h
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,6);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,7);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -135,4 +135,18 @@ test('Time documentary remains distinct from Sentimental and No Time To Die',()=
  const matches=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json')).matches;
  const time=matches[JSON.stringify(['Oscar',2021,'Time','Garrett Bradley'])];assert.equal(time?.d,'Garrett Bradley');assert.equal(time?.t,'Time');
  const bond=matches[JSON.stringify(['Oscar',2022,'No Time To Die','Cary Joji Fukunaga'])];assert(!bond||bond.d==='Cary Joji Fukunaga');
+});
+
+test('Globos 2018 excludes the two 2019 animation nominees and preserves them in their actual edition',()=>{
+ for(const y of [2018,2019]){
+  const films=JSON.parse(fs.readFileSync(`data/festivals/years/${y}.json`)).editions.find(e=>e.festival==='Globos de Oro').films;
+  const animation=films.filter(f=>f.nominations.some(n=>n==='Película de animación'));assert.equal(animation.length,5);
+  for(const title of ['Incredibles 2','Ralph Breaks the Internet'])assert.equal(animation.some(f=>f.title===title||f.aliases.includes(title)),y===2019);
+ }
+});
+
+test('Adam stays separate in Cannes and Sundance 2019',()=>{
+ const matches=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json')).matches;
+ const cannes=matches[JSON.stringify(['Cannes',2019,'Adam','Maryam Touzani'])];assert.equal(cannes?.d,'Maryam Touzani');
+ const sundance=matches[JSON.stringify(['Sundance',2019,'Adam','Rhys Ernst'])];assert.equal(sundance?.d,'Rhys Ernst');assert(!sundance.p);
 });
