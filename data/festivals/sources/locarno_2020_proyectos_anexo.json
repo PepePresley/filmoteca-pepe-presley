@@ -1,0 +1,56 @@
+{
+  "edition": 2020,
+  "festival": "Locarno",
+  "program": "The Films After Tomorrow",
+  "record_type": "proyectos cinematográficos en producción; no son películas terminadas ni forman parte de una competición ordinaria de largometrajes",
+  "projects": [
+    {
+      "title": "Chocobar",
+      "director": "Lucrecia Martel",
+      "selection": "International selection",
+      "award": "Pardo 2020 · mejor proyecto internacional"
+    },
+    {
+      "title": "Selvajaria (Savagery)",
+      "director": "Miguel Gomes",
+      "selection": "International selection",
+      "award": "Campari Award · premio especial del jurado"
+    },
+    {
+      "title": "De Humani Corporis Fabrica (The Fabric of the Human Body)",
+      "director": "Verena Paravel; Lucien Castaing-Taylor",
+      "selection": "International selection",
+      "award": "Swatch Award · proyecto más innovador"
+    },
+    {
+      "title": "Zahorí",
+      "director": "Marí Alessandrini",
+      "selection": "Swiss selection",
+      "award": "Pardo 2020 · mejor proyecto suizo"
+    },
+    {
+      "title": "LUX",
+      "director": "Raphaël Dubach; Mateo Ybarra",
+      "selection": "Swiss selection",
+      "award": "SRG SSR Award · proyecto suizo"
+    },
+    {
+      "title": "Cidade;Campo",
+      "director": "Juliana Rojas",
+      "selection": "International selection",
+      "award": "Cinema&Gioventù · mejor proyecto internacional"
+    },
+    {
+      "title": "Azor",
+      "director": "Andreas Fontana",
+      "selection": "Swiss selection",
+      "award": "Cinema&Gioventù · mejor proyecto suizo"
+    },
+    {
+      "title": "Eureka",
+      "director": "Lisandro Alonso",
+      "selection": "International selection",
+      "award": "Cinema&Gioventù · Environment is Quality of Life"
+    }
+  ]
+}

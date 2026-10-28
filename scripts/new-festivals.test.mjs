@@ -67,7 +67,7 @@ test('master reference lookup is cached, preserves metadata and never confuses h
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,5);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,6);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -129,4 +129,10 @@ test('2026 has fifteen families, complete structured awards and Seminci still in
  const oscar=editions.find(e=>e.festival==='Oscar');assert.equal(oscar.films.flatMap(f=>f.wins).filter(w=>w.startsWith('Cortometraje de ficción')).length,2);assert(oscar.films.some(f=>f.nominations.some(n=>n.startsWith('Casting'))));
  const david=editions.find(e=>e.festival==='David di Donatello');const leading=david.films.find(f=>f.aliases.includes('LE CITTÀ DI PIANURA'));assert(leading.wins.some(w=>w.includes('Sergio ROMANO')));assert(!leading.wins.some(w=>w.includes('Pierpaolo CAPOVILLA')));
  const locarno=editions.filter(e=>e.festival==='Locarno');assert.equal(locarno.find(e=>e.section==='Semaine de la Critique').films.length,2);assert(locarno.find(e=>e.section.includes('cortometrajes')).films.some(f=>f.title==='Private Property'));
+});
+
+test('Time documentary remains distinct from Sentimental and No Time To Die',()=>{
+ const matches=JSON.parse(fs.readFileSync('data/catalog/festival-matches.json')).matches;
+ const time=matches[JSON.stringify(['Oscar',2021,'Time','Garrett Bradley'])];assert.equal(time?.d,'Garrett Bradley');assert.equal(time?.t,'Time');
+ const bond=matches[JSON.stringify(['Oscar',2022,'No Time To Die','Cary Joji Fukunaga'])];assert(!bond||bond.d==='Cary Joji Fukunaga');
 });

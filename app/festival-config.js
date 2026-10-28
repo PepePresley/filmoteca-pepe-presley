@@ -205,7 +205,7 @@
  async function withReference(record){
   if(/^https?:\/\/(?:t\.me|telegram\.me)\//i.test(record.u||''))return record;
   try{
-   if(!referenceRows)referenceRows=Promise.all(['festival-references-2022-2024.json','festival-references-cinco-2025.json','festival-references-cinco-2024.json','festival-references-cinco-2022-2023.json','festival-references-2026.json'].map(file=>fetch('/filmoteca-pepe-presley/data/catalog/'+file+'?v=20261028b').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}))).then(groups=>groups.flat()).catch(error=>{referenceRows=null;throw error});
+   if(!referenceRows)referenceRows=Promise.all(['festival-references-2022-2024.json','festival-references-cinco-2025.json','festival-references-cinco-2024.json','festival-references-cinco-2022-2023.json','festival-references-2026.json','festival-references-cinco-2020-2021.json'].map(file=>fetch('/filmoteca-pepe-presley/data/catalog/'+file+'?v=20261028c').then(async response=>{if(!response.ok)throw new Error('References unavailable');return response.json()}))).then(groups=>groups.flat()).catch(error=>{referenceRows=null;throw error});
    const rows=await referenceRows;
    const matches=rows.filter(r=>r.t===record.t&&r.d===record.d&&Number(r.y)===Number(record.y));
    if(matches.length===1){const full=matches[0];return {...record,u:full.u,arch:full.arch,res:full.res,sz:full.sz};}
