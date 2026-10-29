@@ -4739,6 +4739,133 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1962,
+      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "films": [
+        {
+          "title": "El empleo",
+          "director": "Ermanno Olmi",
+          "filmYear": 1961,
+          "award": "Mejor película · Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Espiga de Oro"
+          ],
+          "aliases": [
+            "Il posto"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1962,
+      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "films": [
+        {
+          "title": "Bandidos de Orgosolo",
+          "director": "Vittorio De Seta",
+          "filmYear": 1961,
+          "award": "Premio Especial del Jurado",
+          "nominations": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "aliases": [
+            "Banditi a Orgosolo"
+          ]
+        },
+        {
+          "title": "Yanco",
+          "director": "Servando González",
+          "filmYear": 1961,
+          "award": "Premio Especial del Jurado",
+          "nominations": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Cerca de las estrellas",
+          "director": "César Fernández Ardavín",
+          "filmYear": 1963,
+          "award": "Premio de la Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio de la Ciudad de Valladolid"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La isla desnuda",
+          "director": "Kaneto Shindō",
+          "filmYear": 1960,
+          "award": "Premio San Gregorio · Premio FIPRESCI · Mejor película",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio",
+            "Premio FIPRESCI · Mejor película"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "David y Lisa",
+          "director": "",
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1962,
+      "section": "Cortometrajes premiados",
+      "films": [
+        {
+          "title": "Ecce Homo",
+          "director": "Kurt Bernhardt",
+          "award": "Lábaro de Oro",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro"
+          ],
+          "aliases": [
+            "Ecce Homo"
+          ]
+        },
+        {
+          "title": "El testamento de Cristo",
+          "director": "Elio Piccon",
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Il testamento di Cristo"
+          ]
+        },
+        {
+          "title": "El verdadero rostro de Santa Teresa de Jesús",
+          "director": "",
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": [
+            "La vrai visage de Thérèsa de Lisieux"
+          ]
+        }
+      ]
     }
   ]
 }

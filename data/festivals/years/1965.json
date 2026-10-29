@@ -5958,6 +5958,95 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1965,
+      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "films": [
+        {
+          "title": "Skoplje '63",
+          "director": "Veljko Bulajić",
+          "filmYear": 1964,
+          "award": "Mejor película · Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Espiga de Oro"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1965,
+      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "films": [
+        {
+          "title": "Harakiri",
+          "director": "Masaki Kobayashi",
+          "award": "Premio de la Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio de la Ciudad de Valladolid"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Alleman",
+          "director": "Bert Haanstra",
+          "filmYear": 1963,
+          "award": "Premio San Gregorio",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El soñador rebelde",
+          "director": "John Ford; Jack Cardiff",
+          "award": "Premio CEC",
+          "nominations": [],
+          "wins": [
+            "Premio CEC"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Víctima de la ley",
+          "director": "Larry Peerce",
+          "filmYear": 1964,
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": [
+            "Víctima de la ley"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1965,
+      "section": "Cortometrajes premiados",
+      "films": [
+        {
+          "title": "Inscripción",
+          "director": "Rob Houwer",
+          "filmYear": 1964,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Aanmelding"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -5726,6 +5726,80 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1957,
+      "section": "Películas proyectadas · edición no competitiva",
+      "films": [
+        {
+          "title": "La puerta del cielo",
+          "director": "Vittorio De Sica",
+          "filmYear": 1945,
+          "award": "Programa oficial · edición no competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "La porta del cielo"
+          ]
+        },
+        {
+          "title": "El renegado",
+          "director": "Léo Joannon",
+          "filmYear": 1954,
+          "award": "Programa oficial · edición no competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Le défroqué"
+          ]
+        },
+        {
+          "title": "Diario de un cura rural",
+          "director": "Robert Bresson",
+          "filmYear": 1951,
+          "award": "Programa oficial · edición no competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Journal d'un curé de campagne"
+          ]
+        },
+        {
+          "title": "Los traperos de Emaús",
+          "director": "Robert Darène",
+          "filmYear": 1954,
+          "award": "Programa oficial · edición no competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Les chiffonniers d’Emmaüs"
+          ]
+        },
+        {
+          "title": "Magdalena",
+          "director": "Augusto Genina",
+          "filmYear": 1953,
+          "award": "Programa oficial · edición no competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Maddalena"
+          ]
+        },
+        {
+          "title": "La ley del silencio",
+          "director": "Elia Kazan",
+          "filmYear": 1954,
+          "award": "Programa oficial · edición no competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "On the Waterfront"
+          ]
+        }
+      ],
+      "coverageStatus": "Programa oficial transcrito; el palmarés indica edición no competitiva y no se otorgaron premios."
     }
   ]
 }

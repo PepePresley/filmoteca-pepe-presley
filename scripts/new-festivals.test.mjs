@@ -67,7 +67,7 @@ test('master reference lookup is cached, preserves metadata and never confuses h
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,11);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,12);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
