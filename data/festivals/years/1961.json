@@ -4742,6 +4742,101 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1961,
+      "section": "Películas premiadas · sección de programación no acreditada; selección incompleta",
+      "films": [
+        {
+          "title": "El manantial de la doncella",
+          "director": "Ingmar Bergman",
+          "filmYear": 1960,
+          "award": "Golden Labarum · Mejor película · Mejor película · Lábaro de Oro",
+          "nominations": [],
+          "wins": [
+            "Golden Labarum · Mejor película",
+            "Mejor película · Lábaro de Oro"
+          ],
+          "aliases": [
+            "Jungfrukällan"
+          ]
+        },
+        {
+          "title": "El amor se paga con la muerte",
+          "director": "Edwin Zbonek",
+          "filmYear": 1959,
+          "award": "Mejor película · Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Espiga de Oro"
+          ],
+          "aliases": [
+            "Am Galgen hängt die Liebe"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1961,
+      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "films": [
+        {
+          "title": "Macario",
+          "director": "Roberto Gavaldón",
+          "filmYear": 1960,
+          "award": "Premio de la Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio de la Ciudad de Valladolid"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Viaje en globo",
+          "director": "",
+          "award": "Premio San Gregorio",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Todos a casa",
+          "director": "Luigi Comencini",
+          "filmYear": 1960,
+          "award": "Premio FIPRESCI · Mejor película",
+          "nominations": [],
+          "wins": [
+            "Premio FIPRESCI · Mejor película"
+          ],
+          "aliases": [
+            "Tutti a casa"
+          ]
+        },
+        {
+          "title": "El amargo silencio",
+          "director": "",
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Crime and Punishment, U.S.A.",
+          "director": "",
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": []
+        }
+      ]
     }
   ]
 }

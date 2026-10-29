@@ -527,7 +527,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=13"></script>
+<script src="../app/festival-config.js?v=14"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -574,6 +574,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2018_2019_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_ocho_familias_2016_2017_overlay.json?v=20261029",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_1971_2015_overlay.json?v=20261029",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_seminci_1956_2015_overlay.json?v=20261029",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
@@ -594,12 +595,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=sitges-1971-2015-20261029");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-1956-2015-20261029-final");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=sitges-1971-2015-20261029");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-1956-2015-20261029-final");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
@@ -906,6 +907,7 @@ async function ensureFullCatalog(){
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2018_2019_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_ocho_familias_2016_2017_overlay.json?v=20261029",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_1971_2015_overlay.json?v=20261029",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_seminci_1956_2015_overlay.json?v=20261029",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
@@ -999,7 +1001,7 @@ function festivalEditionData(fy,festival='Cannes',section=null){
      const ft={festival,festival_year:Number(fy),section,festival_title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,award:f.award,nominations:f.nominations||[],wins:f.wins||[]};
      const idx=resolveFestivalMatch(ft);
      if(idx>=0) present.push({...ft,idx});
-     else missing.push({festival,festival_year:Number(fy),section,title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,year:Number(fy),award:f.award,nominations:f.nominations||[],wins:f.wins||[]});
+     else missing.push({festival,festival_year:Number(fy),section,title:f.title,displayTitle:f.filmaffinityTitle||'',aliases:f.aliases||[],director:f.director,year:Number(f.filmYear)||Number(fy),award:f.award,nominations:f.nominations||[],wins:f.wins||[]});
    });
    result={present,missing};
  }else{

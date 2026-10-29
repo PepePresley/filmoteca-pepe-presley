@@ -5057,6 +5057,191 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1958,
+      "section": "Películas proyectadas · sesiones del programa oficial",
+      "films": [
+        {
+          "title": "Catedral primada de Toledo",
+          "director": "Manuel Domínguez",
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Catedral Primada de Toledo"
+          ]
+        },
+        {
+          "title": "Los jueves, milagro",
+          "director": "Luis García Berlanga",
+          "filmYear": 1957,
+          "award": "Mención Especial · Premio Placa de Plata",
+          "nominations": [],
+          "wins": [
+            "Mención Especial · Premio Placa de Plata"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Eremiti di Camaldoli",
+          "director": "",
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El techo",
+          "director": "Vittorio De Sica",
+          "filmYear": 1956,
+          "award": "Trofeo de Honor del Cineclub S.E.U. · Ánfora de Plata",
+          "nominations": [],
+          "wins": [
+            "Trofeo de Honor del Cineclub S.E.U. · Ánfora de Plata"
+          ],
+          "aliases": [
+            "Il tetto"
+          ]
+        },
+        {
+          "title": "Pasión en Castilla",
+          "director": "",
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Lourdes y sus milagros",
+          "director": "Pierre Rouquier",
+          "filmYear": 1955,
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Lourdes et ses miracles"
+          ]
+        },
+        {
+          "title": "San Luis, ángel de la paz",
+          "director": "Robert Darène",
+          "filmYear": 1951,
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El misionero",
+          "director": "Maurice Cloche",
+          "filmYear": 1955,
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Le missionnaire"
+          ]
+        },
+        {
+          "title": "Auto de la pasión",
+          "director": "Paulino Rodríguez",
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Lo que de mí esperabas",
+          "director": "O. W. Fischer",
+          "filmYear": 1956,
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Ich suche dich"
+          ]
+        },
+        {
+          "title": "Tu hijo debe nacer",
+          "director": "Alejandro Galindo",
+          "filmYear": 1956,
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El que debe morir",
+          "director": "Jules Dassin",
+          "filmYear": 1957,
+          "award": "Mejor película · Don Bosco de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Don Bosco de Oro"
+          ],
+          "aliases": [
+            "Celui qui doit mourir"
+          ]
+        },
+        {
+          "title": "La leyenda del santo",
+          "director": "",
+          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "La legenda dei santi"
+          ]
+        },
+        {
+          "title": "Las noches de Cabiria",
+          "director": "Federico Fellini",
+          "filmYear": 1957,
+          "award": "Mejor película · Don Bosco de Plata",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Don Bosco de Plata"
+          ],
+          "aliases": [
+            "Le notti di Cabiria"
+          ]
+        }
+      ],
+      "coverageStatus": "Listado de sesiones transcrito; la fuente no define cada sesión como competición. Premios conservados según palmarés."
+    },
+    {
+      "festival": "Seminci",
+      "year": 1958,
+      "section": "Cortometrajes premiados",
+      "films": [
+        {
+          "title": "Mundo ajeno",
+          "director": "Francisco del Villar",
+          "filmYear": 1957,
+          "award": "Mejor cortometraje · Don Bosco de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor cortometraje · Don Bosco de Oro"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El evangelio de piedra",
+          "director": "André Bureau",
+          "filmYear": 1957,
+          "award": "Mención Especial · cortometraje",
+          "nominations": [],
+          "wins": [
+            "Mención Especial · cortometraje"
+          ],
+          "aliases": [
+            "L’évangile de pierre"
+          ]
+        }
+      ],
+      "coverageStatus": "Solo cortometrajes premiados, según el palmarés oficial."
     }
   ]
 }

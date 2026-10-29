@@ -4755,6 +4755,108 @@
         }
       ],
       "originalSection": "Fuori Concorso"
+    },
+    {
+      "festival": "Seminci",
+      "year": 1967,
+      "section": "Películas premiadas · sección de programación no acreditada; selección incompleta",
+      "films": [
+        {
+          "title": "Francisco de Asís",
+          "director": "Liliana Cavani",
+          "award": "Golden Labarum · Mejor película · Mejor película · Lábaro de Oro",
+          "nominations": [],
+          "wins": [
+            "Golden Labarum · Mejor película",
+            "Mejor película · Lábaro de Oro"
+          ],
+          "aliases": [
+            "Francesco di Assisi"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1967,
+      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "films": [
+        {
+          "title": "Al azar de Baltasar",
+          "director": "Robert Bresson",
+          "award": "Premio de la Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio de la Ciudad de Valladolid"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Las estaciones de nuestro amor",
+          "director": "Florestano Vancini",
+          "filmYear": 1966,
+          "award": "Premio de la Ciudad de Valladolid · Premio CEC",
+          "nominations": [],
+          "wins": [
+            "Premio de la Ciudad de Valladolid",
+            "Premio CEC"
+          ],
+          "aliases": [
+            "Le stagioni del nostro amore"
+          ]
+        },
+        {
+          "title": "Calanda",
+          "director": "Juan Luis Buñuel",
+          "filmYear": 1967,
+          "award": "Premio San Gregorio",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1967,
+      "section": "Películas premiadas · sección oficial",
+      "films": [
+        {
+          "title": "Barbarroja",
+          "director": "Akira Kurosawa",
+          "filmYear": 1965,
+          "award": "Mejor película · Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Espiga de Oro"
+          ],
+          "aliases": [
+            "Akahige"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1967,
+      "section": "Cortometrajes premiados",
+      "films": [
+        {
+          "title": "La familia humana",
+          "director": "Władysław Slesicki",
+          "filmYear": 1965,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Rodzina czlowiecza"
+          ]
+        }
+      ]
     }
   ]
 }

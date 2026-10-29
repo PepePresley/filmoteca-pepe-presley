@@ -4217,6 +4217,94 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1960,
+      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "films": [
+        {
+          "title": "Los cuatrocientos golpes",
+          "director": "François Truffaut",
+          "filmYear": 1959,
+          "award": "Mejor película · Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Mejor película · Espiga de Oro"
+          ],
+          "aliases": [
+            "Les Quatre Cents Coups"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1960,
+      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "films": [
+        {
+          "title": "El puente",
+          "director": "Bernhard Wicki",
+          "filmYear": 1959,
+          "award": "Espiga de Plata · Premio CEC",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata",
+            "Premio CEC"
+          ],
+          "aliases": [
+            "Die Brücke"
+          ]
+        },
+        {
+          "title": "Tokèndé",
+          "director": "",
+          "award": "Premio de la Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio de la Ciudad de Valladolid"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El séptimo sello",
+          "director": "Ingmar Bergman",
+          "filmYear": 1957,
+          "award": "Golden Labarum · Mejor película",
+          "nominations": [],
+          "wins": [
+            "Golden Labarum · Mejor película"
+          ],
+          "aliases": [
+            "Det sjunde inseglet"
+          ]
+        },
+        {
+          "title": "El tiempo se ha detenido",
+          "director": "Ermanno Olmi",
+          "filmYear": 1959,
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": [
+            "Il tempo si è fermato"
+          ]
+        },
+        {
+          "title": "Los chicos",
+          "director": "Marco Ferreri",
+          "filmYear": 1959,
+          "award": "Mención especial",
+          "nominations": [],
+          "wins": [
+            "Mención especial"
+          ],
+          "aliases": []
+        }
+      ]
     }
   ]
 }
