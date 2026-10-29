@@ -594,10 +594,10 @@ try{
    }
  }catch(_){}
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-1956-2015-20261029-final");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-cierre-20261029");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
-const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-1956-2015-20261029-final");
+const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-cierre-20261029");
 if(!mapResponse.ok)throw new Error('Festival match map HTTP '+mapResponse.status);
 const FESTIVAL_MATCH_MAP=(await mapResponse.json()).matches||{};
 const FESTIVAL_DB = window.__FESTIVALES__;
