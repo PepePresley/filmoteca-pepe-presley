@@ -527,7 +527,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=11"></script>
+<script src="../app/festival-config.js?v=12"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -572,7 +572,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_z_2018_2019_festivales_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2020_2021_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2018_2019_overlay.json?v=20261028",
-     "/filmoteca-pepe-presley/data/catalog/annual_z_ocho_familias_2016_2017_overlay.json?v=20261028",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_ocho_familias_2016_2017_overlay.json?v=20261029",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
@@ -593,12 +593,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=festivales-2016-2026-20261028");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=sitges-2017-bushwick-20261029");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=festivales-2016-2026-20261028");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=sitges-2017-bushwick-20261029");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
@@ -903,7 +903,7 @@ async function ensureFullCatalog(){
      "/filmoteca-pepe-presley/data/catalog/annual_z_2018_2019_festivales_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2020_2021_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2018_2019_overlay.json?v=20261028",
-     "/filmoteca-pepe-presley/data/catalog/annual_z_ocho_familias_2016_2017_overlay.json?v=20261028",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_ocho_familias_2016_2017_overlay.json?v=20261029",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
