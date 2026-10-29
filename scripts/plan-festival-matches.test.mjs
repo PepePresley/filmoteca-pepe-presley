@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { planMatches, readSnapshot, catalogRows } from './plan-festival-matches.mjs';
+import { planMatches, readSnapshot, catalogRows, isPureAddition } from './plan-festival-matches.mjs';
 
 const globalPath='data/festivals/festivals.json';
 const catalogPath='data/catalog/catalog.json';
@@ -197,4 +197,35 @@ test('moving an unchanged annual block preserves unrelated approved associations
  assert.deepEqual(planMatches(before,same).years,[]);
  const fixed=mutate(before,'data/catalog/annual_1948_overlay.json',[{...old,t:'Otra identidad',src:'Catalogo_Telegram_1948'}]);
  assert.deepEqual(planMatches(before,fixed).years,[1949]);
+});
+
+
+test('pure festival additions preserve approved records but metadata and ownership replacements do not',()=>{
+ const before=snapshot([edition('Cannes',2024)]);
+ const next=snapshot([edition('Cannes',2024),edition('Sitges',2024)], [row],
+  {'data/catalog/annual_new_overlay.json':[{t:'Nueva',y:2024,d:'Otro'}]});
+ assert.equal(isPureAddition(before,next),true);
+ assert.equal(isPureAddition(before,mutate(next,catalogPath,[{...row,dur:120}])),false);
+ const changed=JSON.parse(next.get(globalPath));changed.editions[0].films[0].director='Otra';
+ assert.equal(isPureAddition(before,mutate(next,globalPath,changed)),false);
+ assert.equal(isPureAddition(before,mutate(next,'data/catalog/festival-owned-2024.json',{'Cannes|Competición':[]})),false);
+});
+
+test('append-only generation retains an approved null and old metadata in the same year as new films',()=>{
+ const temp=fs.mkdtempSync(path.join(os.tmpdir(),'match-addition-test-'));
+ try{
+  fs.mkdirSync(path.join(temp,'data/catalog'),{recursive:true});fs.mkdirSync(path.join(temp,'data/festivals'),{recursive:true});
+  for(const file of ['build-festival-matches.mjs','festival-match-rules.mjs'])fs.copyFileSync('scripts/'+file,path.join(temp,file));
+  const db={editions:[edition('Cannes',2024),edition('Oscar',2024),edition('Sitges',2024)]};
+  const key=ed=>JSON.stringify([ed.festival,ed.year,ed.films[0].title,ed.films[0].director]);
+  const approved={version:1,total:2,present:1,matches:{[key(db.editions[0])]:{i:500,...row,p:'approved',dur:99},[key(db.editions[1])]:null}};
+  fs.writeFileSync(path.join(temp,globalPath),JSON.stringify(db));fs.writeFileSync(path.join(temp,catalogPath),JSON.stringify([row]));
+  const map=path.join(temp,'data/catalog/festival-matches.json');fs.writeFileSync(map,JSON.stringify(approved));
+  execFileSync(process.execPath,['build-festival-matches.mjs','--years=2024','--append-only'],{cwd:temp});
+  const result=JSON.parse(fs.readFileSync(map));
+  assert.deepEqual(result.matches[key(db.editions[0])],approved.matches[key(db.editions[0])]);
+  assert.equal(result.matches[key(db.editions[1])],null);
+  assert.equal(result.matches[key(db.editions[2])].dur,100);
+  assert.equal(result.total,3);assert.equal(result.present,2);
+ }finally{fs.rmSync(temp,{recursive:true,force:true});}
 });

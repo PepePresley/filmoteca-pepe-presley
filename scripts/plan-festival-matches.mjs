@@ -9,6 +9,7 @@ import { validateInputChanges, writeValidationReport } from './validate-festival
 
 const globalPath='data/festivals/festivals.json';
 const mapPath='data/catalog/festival-matches.json';
+const catalogPath='data/catalog/catalog.json';
 const generatorPath='scripts/build-festival-matches.mjs';
 const rulesPath='scripts/festival-match-rules.mjs';
 const relevant=p=>p===globalPath||p===mapPath||p===generatorPath||p===rulesPath||/^data\/festivals\/years\/.*\.json$/.test(p)||
@@ -136,6 +137,18 @@ export function readSnapshot(ref){
  return files;
 }
 
+// A new festival block can reuse approved matches when every old input remains
+// unchanged. New overlays are allowed; replacing old catalog data is not.
+export function isPureAddition(before,after){
+ if(before.get(rulesPath)!==after.get(rulesPath))return false;
+ for(const [p,text] of before)if((p===catalogPath||/^data\/catalog\/annual_.*_overlay\.json$/.test(p))&&after.get(p)!==text)return false;
+ const oldDB=parse(before,globalPath,{editions:[]}),db=parse(after,globalPath,{editions:[]});
+ const signature=(ed,f,files)=>encoded([filmInput(ed,f),ownership(files,ed,f)]);
+ const next=new Set((db.editions||[]).flatMap(ed=>ed.films.map(f=>signature(ed,f,after))));
+ const previous=(oldDB.editions||[]).flatMap(ed=>ed.films.map(f=>signature(ed,f,before)));
+ return next.size>new Set(previous).size&&previous.every(key=>next.has(key));
+}
+
 export function runPlannedMatches(base,{planOnly=false,reportDirectory='outputs/validacion_bloque'}={}){
  const before=readSnapshot(base), after=readSnapshot();
  const validation=validateInputChanges(before,after);
@@ -161,6 +174,7 @@ export function runPlannedMatches(base,{planOnly=false,reportDirectory='outputs/
   const args=[generatorPath,'--previous-map='+previous,
    '--years='+(plan.years.length?plan.years:plan.allYears).join(',')];
   if(plan.mode==='preserve')args.push('--labels-only');
+  else if(isPureAddition(before,after))args.push('--append-only');
   execFileSync(process.execPath,args,{stdio:'inherit'});
  }finally{fs.rmSync(temp,{recursive:true,force:true});}
  return plan;

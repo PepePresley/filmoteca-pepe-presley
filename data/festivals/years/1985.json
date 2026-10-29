@@ -1802,6 +1802,118 @@
           "wins": []
         }
       ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1985,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "Re-Animator",
+          "director": "Stuart Gordon",
+          "filmYear": 1985,
+          "award": "Mejor película",
+          "nominations": [],
+          "wins": [
+            "Mejor película"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El día de los muertos",
+          "director": "George A. Romero",
+          "filmYear": 1985,
+          "award": "Mejor actriz · Lori Cardille",
+          "nominations": [],
+          "wins": [
+            "Mejor actriz · Lori Cardille"
+          ],
+          "aliases": [
+            "Day of the Dead"
+          ]
+        },
+        {
+          "title": "King Kongs Faust",
+          "director": "",
+          "award": "Mejor guion · Heiner Stadler",
+          "nominations": [],
+          "wins": [
+            "Mejor guion · Heiner Stadler"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Lifeforce, fuerza vital",
+          "director": "Tobe Hooper",
+          "filmYear": 1985,
+          "award": "Mejores efectos especiales · John Dykstra",
+          "nominations": [],
+          "wins": [
+            "Mejores efectos especiales · John Dykstra"
+          ],
+          "aliases": [
+            "Lifeforce"
+          ]
+        },
+        {
+          "title": "Night Magic",
+          "director": "",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Peau d'ange",
+          "director": "",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Noche de paz, noche de muerte",
+          "director": "Charles E. Sellier Jr.",
+          "filmYear": 1984,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Silent Night, Deadly Night"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1985,
+      "section": "Otras películas premiadas; sección pendiente según FilmAffinity",
+      "films": [
+        {
+          "title": "Farewell to the Ark",
+          "director": "寺山修司",
+          "filmYear": 1984,
+          "award": "Mejor dirección · Shuji Terayama · Mejor fotografía · Tatsuo Suzuki",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Shuji Terayama",
+            "Mejor fotografía · Tatsuo Suzuki"
+          ],
+          "aliases": [
+            "Farewell to the Ark (Goodbye Ark)"
+          ]
+        },
+        {
+          "title": "Return",
+          "director": "",
+          "award": "Mejor actor · John Walcutt",
+          "nominations": [],
+          "wins": [
+            "Mejor actor · John Walcutt"
+          ],
+          "aliases": []
+        }
+      ]
     }
   ]
 }

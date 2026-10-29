@@ -1787,6 +1787,112 @@
           "wins": []
         }
       ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1986,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "Terciopelo azul",
+          "director": "David Lynch",
+          "filmYear": 1986,
+          "award": "Mejor película · Mejor fotografía · Frederick Elmes",
+          "nominations": [],
+          "wins": [
+            "Mejor película",
+            "Mejor fotografía · Frederick Elmes"
+          ],
+          "aliases": [
+            "Blue Velvet"
+          ]
+        },
+        {
+          "title": "Re-sonator",
+          "director": "Stuart Gordon",
+          "filmYear": 1986,
+          "award": "Mejores efectos especiales · John Naulin y Anthony Doublin · Mejor banda sonora original · Richard Band",
+          "nominations": [],
+          "wins": [
+            "Mejores efectos especiales · John Naulin y Anthony Doublin",
+            "Mejor banda sonora original · Richard Band"
+          ],
+          "aliases": [
+            "From Beyond"
+          ]
+        },
+        {
+          "title": "Operation Dead End",
+          "director": "",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Psicosis III",
+          "director": "Anthony Perkins",
+          "filmYear": 1986,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Psycho III"
+          ]
+        },
+        {
+          "title": "La matanza de Texas 2",
+          "director": "Tobe Hooper",
+          "filmYear": 1986,
+          "award": "Mejor actriz · Caroline Williams",
+          "nominations": [],
+          "wins": [
+            "Mejor actriz · Caroline Williams"
+          ],
+          "aliases": [
+            "The Texas Chainsaw Massacre 2"
+          ]
+        },
+        {
+          "title": "La leyenda de la fortaleza de Suram",
+          "director": "სერგო ფარაჯანოვი",
+          "filmYear": 1985,
+          "award": "Mejor dirección · Sergei Parajanov y Dodo Abashidze",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Sergei Parajanov y Dodo Abashidze"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Pasión lejana",
+          "director": "",
+          "award": "Mejor actor · Juanjo Puigcorbé",
+          "nominations": [],
+          "wins": [
+            "Mejor actor · Juanjo Puigcorbé"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1986,
+      "section": "Cortometrajes premiados; sección pendiente según FilmAffinity",
+      "films": [
+        {
+          "title": "Street of Crocodiles",
+          "director": "Timothy Quay, Stephen Quay",
+          "filmYear": 1986,
+          "award": "Mejor cortometraje",
+          "nominations": [],
+          "wins": [
+            "Mejor cortometraje"
+          ],
+          "aliases": []
+        }
+      ]
     }
   ]
 }

@@ -12,6 +12,8 @@ if(yearsArg&&[...scopeYears].some(y=>!Number.isInteger(y)||y<1895||y>2100))throw
 const previousMapArg=process.argv.find(a=>a.startsWith('--previous-map='));
 const previousMapPath=previousMapArg?previousMapArg.slice(15):'data/catalog/festival-matches.json';
 const previousMatches=scopeYears?JSON.parse(fs.readFileSync(previousMapPath,'utf8')).matches:{};
+const appendOnly=process.argv.includes('--append-only');
+if(appendOnly&&!scopeYears)throw new Error('--append-only requires an explicit year scope');
 const labelsOnly=process.argv.includes('--labels-only');
 if(labelsOnly&&!scopeYears)throw new Error('--labels-only requires an explicit year scope');
 
@@ -68,6 +70,12 @@ for(const ed of (db.editions||[])){
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director};
   const authoritative=authoritativeOwnership(ed,f);
   const key=filmKey(ed.festival,ed.year,f.title,f.director);
+  // Pure additions keep approved associations, including deliberate nulls.
+  if(appendOnly&&Object.hasOwn(previousMatches,key)){
+   matches[key]=previousMatches[key];
+   if(matches[key])present++;
+   continue;
+  }
   if(scopeYears&&!scopeYears.has(Number(ed.year))){
    if(!Object.hasOwn(previousMatches,key))throw new Error('Unbuilt edition outside scoped year: '+key);
    matches[key]=previousMatches[key];
