@@ -59,7 +59,7 @@ test('2022–2024 retain all nine editions and complete César nominations witho
   const owned=JSON.parse(fs.readFileSync(`data/catalog/festival-owned-${year}.json`));
   for(const e of editions)for(const f of e.films)if(!f.director)assert(!owned[e.festival+'|'+e.section].includes(f.title));
  }
- assert.equal(total,321);
+ assert.equal(total,319);
 });
 test('master reference lookup is cached, preserves metadata and never confuses homonymous directors',async()=>{
  let requests=0;const refs=JSON.parse(fs.readFileSync('data/catalog/festival-references-2022-2024.json'));
@@ -176,4 +176,17 @@ test('2016–2017 retain all fifteen families, separate César animation and the
   const cs=es.find(e=>e.festival==='César').films;assert.equal(new Set(cs.flatMap(f=>f.nominations.map(n=>n.split(' · ')[0]))).size,22);assert(cs.some(f=>f.nominations.some(n=>n.startsWith('Cortometraje de animación · '))));
   if(y===2017){const fs=es.find(e=>e.festival==='Ariel').films;assert.equal(fs.flatMap(f=>f.wins).filter(w=>w.startsWith('Sonido · ')).length,2);assert(fs.find(f=>f.title==='Tempestad').wins.some(w=>w.startsWith('Sonido · ')));}
  }
+});
+
+
+test('Seminci keeps EFA candidacies separate from wins and Vasil in its actual edition',()=>{
+ const films=year=>JSON.parse(fs.readFileSync('data/festivals/years/'+year+'.json')).editions.filter(e=>e.festival==='Seminci').flatMap(e=>e.films);
+ assert(films(2022).some(f=>f.title==='Vasil'));
+ assert(!films(2023).some(f=>f.title==='Vasil'||f.title==='Ardent Other'));
+ const short=films(2022).find(f=>f.title==='Arquitectura emocional 1959');
+ assert(short.nominations.some(x=>x.includes('EFA')));
+ assert(!short.wins.some(x=>x.includes('EFA')));
+ const fam=films(2021).find(f=>f.title==='The Fam');
+ assert.equal(fam.wins.filter(x=>x.toLowerCase().includes('montaje')).length,1);
+ assert(fam.wins.find(x=>x.includes('montaje')).endsWith('Fred Baillif'));
 });
