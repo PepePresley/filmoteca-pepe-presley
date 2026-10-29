@@ -4904,6 +4904,98 @@
         }
       ],
       "originalSection": "Proposte di nuovi film"
+    },
+    {
+      "festival": "Sitges",
+      "year": 1976,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "Rojo oscuro",
+          "director": "Dario Argento",
+          "filmYear": 1975,
+          "award": "Mejor dirección · Dario Argento",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Dario Argento"
+          ],
+          "aliases": [
+            "Profondo rosso"
+          ]
+        },
+        {
+          "title": "Fin de semana sangriento",
+          "director": "William Fruet",
+          "filmYear": 1976,
+          "award": "Mejor actriz · Brenda Vaccaro · Mejor guion · William Fruet",
+          "nominations": [],
+          "wins": [
+            "Mejor actriz · Brenda Vaccaro",
+            "Mejor guion · William Fruet"
+          ],
+          "aliases": [
+            "Death Weekend"
+          ]
+        },
+        {
+          "title": "Le nosferat ou les eaux glacées de calcul égoiste",
+          "director": "",
+          "award": "Mejor fotografía · Jean-Jacques Mathy",
+          "nominations": [],
+          "wins": [
+            "Mejor fotografía · Jean-Jacques Mathy"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El bicho",
+          "director": "Jeannot Szwarc",
+          "filmYear": 1975,
+          "award": "Mejores efectos especiales · Phil Cory",
+          "nominations": [],
+          "wins": [
+            "Mejores efectos especiales · Phil Cory"
+          ],
+          "aliases": [
+            "Bug"
+          ]
+        },
+        {
+          "title": "Los niños no deben jugar con cosas muertas",
+          "director": "Bob Clark",
+          "filmYear": 1972,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Children Shouldn't Play with Dead Things"
+          ]
+        },
+        {
+          "title": "Labios de sangre",
+          "director": "Jean Rollin",
+          "filmYear": 1975,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Lèvres de sang"
+          ]
+        },
+        {
+          "title": "El necrófago",
+          "director": "Freddie Francis",
+          "filmYear": 1975,
+          "award": "Mejor actor · Peter Cushing",
+          "nominations": [],
+          "wins": [
+            "Mejor actor · Peter Cushing"
+          ],
+          "aliases": [
+            "The Ghoul"
+          ]
+        }
+      ]
     }
   ]
 }

@@ -2209,6 +2209,117 @@
           "award": "Nominada · 1 candidaturas"
         }
       ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1999,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "The Ring (El círculo)",
+          "director": "Hideo Nakata",
+          "filmYear": 1998,
+          "award": "Mejor película · Mejores efectos especiales · Hajime Matsumoto",
+          "nominations": [],
+          "wins": [
+            "Mejor película",
+            "Mejores efectos especiales · Hajime Matsumoto"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Los sin nombre",
+          "director": "Jaume Balagueró",
+          "filmYear": 1999,
+          "award": "Mejor actriz · Emma Vilarasau · Mejor fotografía · Xavi Giménez",
+          "nominations": [],
+          "wins": [
+            "Mejor actriz · Emma Vilarasau",
+            "Mejor fotografía · Xavi Giménez"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Amantes criminales",
+          "director": "François Ozon",
+          "filmYear": 1999,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Amantes Criminales",
+            "Les amants criminels"
+          ]
+        },
+        {
+          "title": "Samurai Fiction",
+          "director": "",
+          "award": "Mejor fotografía · Yujiro Yajima · Mejor banda sonora original · Tomoyasu Hotei",
+          "nominations": [],
+          "wins": [
+            "Mejor fotografía · Yujiro Yajima",
+            "Mejor banda sonora original · Tomoyasu Hotei"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El proyecto de la bruja de Blair",
+          "director": "Daniel Myrick, Eduardo Sánchez",
+          "filmYear": 1999,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "The Blair Witch Project"
+          ]
+        },
+        {
+          "title": "Simon Magus",
+          "director": "Ben Hopkins",
+          "award": "Mejor dirección · Ben Hopkins · Mejor actor · Noah Taylor",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Ben Hopkins",
+            "Mejor actor · Noah Taylor"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "eXistenZ",
+          "director": "David Cronenberg",
+          "filmYear": 1999,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La mujer más fea del mundo",
+          "director": "Miguel Bardem",
+          "filmYear": 1999,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1999,
+      "section": "Cortometrajes premiados; sección pendiente según FilmAffinity",
+      "films": [
+        {
+          "title": "One Day a Man Bought a House",
+          "director": "",
+          "award": "Mejor cortometraje de animación",
+          "nominations": [],
+          "wins": [
+            "Mejor cortometraje de animación"
+          ],
+          "aliases": []
+        }
+      ]
     }
   ]
 }

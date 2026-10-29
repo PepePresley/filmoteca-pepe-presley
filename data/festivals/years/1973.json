@@ -4155,6 +4155,81 @@
           "identityStatus": "OFFICIAL_PROGRAMME_OR_CANDIDACY"
         }
       ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1973,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "Malpertuis (La mansión maldita)",
+          "director": "Harry Kümel",
+          "filmYear": 1971,
+          "award": "Mejor guion · Jean Ferry",
+          "nominations": [],
+          "wins": [
+            "Mejor guion · Jean Ferry"
+          ],
+          "aliases": [
+            "Malpertuis"
+          ]
+        },
+        {
+          "title": "Mujeres caníbales",
+          "director": "Ivan Reitman",
+          "filmYear": 1973,
+          "award": "Mejor actor · Eugene Levy · Mejor actriz · Andrea Martin",
+          "nominations": [],
+          "wins": [
+            "Mejor actor · Eugene Levy",
+            "Mejor actriz · Andrea Martin"
+          ],
+          "aliases": [
+            "Mujeres Caníbales",
+            "Cannibal Girls"
+          ]
+        },
+        {
+          "title": "The Girl on the Broomstick",
+          "director": "",
+          "award": "Mejores efectos especiales · Oldrich Bosák",
+          "nominations": [],
+          "wins": [
+            "Mejores efectos especiales · Oldrich Bosák"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La saga de los Drácula",
+          "director": "León Klimovsky, Francisco Sánchez",
+          "filmYear": 1973,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Noche silenciosa, noche sangrienta",
+          "director": "Theodore Gershuny",
+          "filmYear": 1972,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Night of the Dark Full Moon"
+          ]
+        },
+        {
+          "title": "Cita con la muerte alegre",
+          "director": "",
+          "award": "Mejor dirección · Juan Luis Buñuel",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Juan Luis Buñuel"
+          ],
+          "aliases": []
+        }
+      ]
     }
   ]
 }

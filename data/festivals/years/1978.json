@@ -4165,6 +4165,98 @@
           "aliases": []
         }
       ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1978,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "Patrick",
+          "director": "Richard Franklin",
+          "filmYear": 1978,
+          "award": "Mejor dirección · Richard Franklin",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Richard Franklin"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Largo fin de semana",
+          "director": "Colin Eggleston",
+          "filmYear": 1978,
+          "award": "Mejor actor · John Hargreaves · Premio de la Crítica",
+          "nominations": [],
+          "wins": [
+            "Mejor actor · John Hargreaves",
+            "Premio de la Crítica"
+          ],
+          "aliases": [
+            "Long Weekend"
+          ]
+        },
+        {
+          "title": "La violencia del sexo",
+          "director": "Meir Zarchi",
+          "filmYear": 1978,
+          "award": "Mejor actriz · Camille Keaton",
+          "nominations": [],
+          "wins": [
+            "Mejor actriz · Camille Keaton"
+          ],
+          "aliases": [
+            "Day of the Woman"
+          ]
+        },
+        {
+          "title": "Hormigas",
+          "director": "Robert Scheerer",
+          "filmYear": 1977,
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "It Happened at Lakewood Manor"
+          ]
+        },
+        {
+          "title": "Shock (Suspense)",
+          "director": "Mario Bava",
+          "filmYear": 1977,
+          "award": "Mejor guion · Mario Bava y Giuseppe Maccari",
+          "nominations": [],
+          "wins": [
+            "Mejor guion · Mario Bava y Giuseppe Maccari"
+          ],
+          "aliases": [
+            "Schock"
+          ]
+        },
+        {
+          "title": "Abejas asesinas",
+          "director": "",
+          "award": "Mejores efectos especiales · Dan Genis",
+          "nominations": [],
+          "wins": [
+            "Mejores efectos especiales · Dan Genis"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Nick Carter, aquel loco, loco, detective",
+          "director": "Oldřich Lipský",
+          "filmYear": 1978,
+          "award": "Mejor fotografía · Jaroslav Kučera",
+          "nominations": [],
+          "wins": [
+            "Mejor fotografía · Jaroslav Kučera"
+          ],
+          "aliases": [
+            "Adéla ještě nevečeřela"
+          ]
+        }
+      ]
     }
   ],
   "coverageStatus": "partial"

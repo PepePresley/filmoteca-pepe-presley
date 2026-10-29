@@ -6025,6 +6025,72 @@
           "competitionStatus": "SELECCION_DOCUMENTADA"
         }
       ]
+    },
+    {
+      "festival": "Sitges",
+      "year": 1972,
+      "section": "Competición · selección recogida por FilmAffinity",
+      "films": [
+        {
+          "title": "El incinerador de cadáveres",
+          "director": "Juraj Herz",
+          "filmYear": 1969,
+          "award": "Mejor película · Mejor actor · Rudolf Hrusínsky",
+          "nominations": [],
+          "wins": [
+            "Mejor película",
+            "Mejor actor · Rudolf Hrusínsky"
+          ],
+          "aliases": [
+            "Spalovač mrtvol"
+          ]
+        },
+        {
+          "title": "Edicto Siglo XXI: Prohibido tener hijos",
+          "director": "Michael Campus",
+          "filmYear": 1972,
+          "award": "Mejor actriz · Geraldine Chaplin",
+          "nominations": [],
+          "wins": [
+            "Mejor actriz · Geraldine Chaplin"
+          ],
+          "aliases": [
+            "Z.P.G."
+          ]
+        },
+        {
+          "title": "El otro",
+          "director": "Robert Mulligan",
+          "filmYear": 1972,
+          "award": "Mejor dirección · Robert Mulligan",
+          "nominations": [],
+          "wins": [
+            "Mejor dirección · Robert Mulligan"
+          ],
+          "aliases": [
+            "The Other"
+          ]
+        },
+        {
+          "title": "Pánico en el Transiberiano",
+          "director": "Eugenio Martín",
+          "filmYear": 1972,
+          "award": "Mejor guion · Eugenio Martín",
+          "nominations": [],
+          "wins": [
+            "Mejor guion · Eugenio Martín"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "The Insect Woman",
+          "director": "",
+          "award": "En competición",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        }
+      ]
     }
   ]
 }
