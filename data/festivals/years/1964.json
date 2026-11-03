@@ -4626,60 +4626,29 @@
     {
       "festival": "Seminci",
       "year": 1964,
-      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "section": "Largometrajes",
       "films": [
         {
-          "title": "El ingenuo salvaje",
-          "director": "Lindsay Anderson",
-          "filmYear": 1963,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "Verspatung in Marienborn (El fugitivo del tren de Berlín)",
+          "director": "Rolf Haedrich",
           "aliases": [
-            "This Sporting Life"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1964,
-      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
-      "films": [
-        {
-          "title": "Los lirios del valle",
-          "director": "Ralph Nelson",
-          "filmYear": 1963,
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [],
-          "wins": [
-            "Premio de la Ciudad de Valladolid"
+            "El fugitivo del tren de Berlín"
           ],
-          "aliases": [
-            "Lilies of the Field"
-          ]
-        },
-        {
-          "title": "Muerte, ¿dónde está tu victoria?",
-          "director": "Hervé Bromberger",
-          "award": "Premio FIPRESCI · Mejor película · Golden Labarum · Mejor película",
+          "wins": [],
           "nominations": [],
-          "wins": [
-            "Premio FIPRESCI · Mejor película",
-            "Golden Labarum · Mejor película"
-          ],
-          "aliases": []
+          "award": "Selección oficial"
         },
         {
           "title": "Tiempo de amor",
           "director": "Julio Diamante",
           "filmYear": 1964,
-          "award": "Premio CEC",
+          "award": "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión · Menciones Especiales · Premio del Instituto de Cultura Hispánica, Carabela de Plata · Mención Especial",
           "nominations": [],
           "wins": [
-            "Premio CEC"
+            "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión",
+            "Menciones Especiales",
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+            "Mención Especial"
           ],
           "aliases": []
         },
@@ -4687,32 +4656,194 @@
           "title": "Young Sánchez",
           "director": "Mario Camus",
           "filmYear": 1964,
-          "award": "Mención especial",
+          "award": "Menciones Especiales",
           "nominations": [],
           "wins": [
-            "Mención especial"
+            "Menciones Especiales"
           ],
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1964,
-      "section": "Sección Oficial · largometrajes y mediometrajes",
-      "films": [
+          "aliases": [
+            "Young Sanchez"
+          ]
+        },
+        {
+          "title": "Los lirios del valle",
+          "director": "Ralph Nelson",
+          "filmYear": 1963,
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Lilies of the Field",
+            "Lilies of the Field (Lirios del valle)",
+            "Lirios del valle",
+            "Lilies of the Field (Los lirios del valle)"
+          ]
+        },
+        {
+          "title": "Muerte, ¿dónde está tu victoria?",
+          "director": "Hervé Bromberger",
+          "award": "Lábaro de Oro · Premio FIPRESCI",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro",
+            "Premio FIPRESCI"
+          ],
+          "aliases": [
+            "Mort où est ta victoire? (Muerte, ¿dónde está tu victoria?)",
+            "Mort, où est ta victoire? (Muerte, ¿dónde está tu victoria?)"
+          ]
+        },
+        {
+          "title": "Jusqu’au bout du monde (Hasta el fin del mundo)",
+          "director": "François Williers",
+          "aliases": [
+            "Hasta el fin del mundo"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El ingenuo salvaje",
+          "director": "Lindsay Anderson",
+          "filmYear": 1963,
+          "award": "Espiga de Oro · Trofeo de la Federación Nacional de Cineclubs · Premio R.I.J.F. (Encuentros Internacionales de Cine para la Juventud)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro",
+            "Trofeo de la Federación Nacional de Cineclubs",
+            "Premio R.I.J.F. (Encuentros Internacionales de Cine para la Juventud)"
+          ],
+          "aliases": [
+            "This Sporting Life",
+            "This Sporting Life (El ingenuo salvaje)"
+          ]
+        },
+        {
+          "title": "I fidanzati",
+          "director": "Ermanno Olmi",
+          "aliases": [
+            "Los novios",
+            "I fidanzati (Los novios)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1963
+        },
+        {
+          "title": "I basilischi",
+          "director": "Lina Wertmüller",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1963
+        },
+        {
+          "title": "El infierno del odio",
+          "director": "Akira Kurosawa",
+          "aliases": [
+            "Entre el cielo y el infierno",
+            "Tengoku to jigoku (El infierno del odio)",
+            "Tengoku-to Jogoku (Entre el cielo y el infierno)"
+          ],
+          "wins": [
+            "Accésit"
+          ],
+          "nominations": [],
+          "award": "Accésit",
+          "filmYear": 1963
+        },
+        {
+          "title": "Pociag (Tren de noche)",
+          "director": "Jerzy Kawerlerovitz",
+          "aliases": [
+            "Tren de noche"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El hombre de papel",
+          "director": "Ismael Rodríguez",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1963
+        },
+        {
+          "title": "Kort ar Sommaren (El corto verano)",
+          "director": "Bjarne Henning Jensen",
+          "aliases": [
+            "El corto verano"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Septimo paralelo",
+          "director": "Elia Marcelli",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Fiebre en la sangre",
+          "director": "Delmer Daves",
+          "aliases": [
+            "Spencer's Mountain",
+            "Spencer’s Mountain (Fiebre en la sangre)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1963
+        },
+        {
+          "title": "Tragodia tou aegaeou (La tragedia egea)",
+          "director": "Basil N. Marcos",
+          "aliases": [
+            "La tragedia egea"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
         {
           "title": "San Antonio",
           "director": "Ermanno Olmi",
           "filmYear": 1963,
-          "award": "Lábaro de Oro · cortometrajes",
+          "award": "Lábaro de Oro",
           "nominations": [],
           "wins": [
-            "Lábaro de Oro · cortometrajes"
+            "Lábaro de Oro"
           ],
           "aliases": [
-            "700 anni"
+            "700 anni",
+            "700 anni (San Antonio)",
+            "700 anni, San Antonio (700 años, San Antonio)",
+            "700 años, San Antonio"
           ]
+        },
+        {
+          "title": "Sibirska Ledi Magbet (Lady Macbeth de Siberia)",
+          "director": "Andrzej Wajda",
+          "aliases": [
+            "Lady Macbeth de Siberia"
+          ],
+          "wins": [
+            "Accésit"
+          ],
+          "nominations": [],
+          "filmYear": 1961,
+          "award": "Accésit"
         }
       ]
     }

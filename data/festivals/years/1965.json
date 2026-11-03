@@ -5962,76 +5962,221 @@
     {
       "festival": "Seminci",
       "year": 1965,
-      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Skoplje '63",
-          "director": "Veljko Bulajić",
-          "filmYear": 1964,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1965,
-      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
-      "films": [
-        {
-          "title": "Harakiri",
-          "director": "Masaki Kobayashi",
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [],
-          "wins": [
-            "Premio de la Ciudad de Valladolid"
-          ],
-          "aliases": []
-        },
         {
           "title": "Alleman",
           "director": "Bert Haanstra",
           "filmYear": 1963,
-          "award": "Premio San Gregorio",
+          "award": "Premio San Gregorio · Mención Especial",
           "nominations": [],
           "wins": [
-            "Premio San Gregorio"
+            "Premio San Gregorio",
+            "Mención Especial"
           ],
-          "aliases": []
+          "aliases": [
+            "Alleman (Cada cual)",
+            "Cada cual"
+          ]
         },
         {
-          "title": "El soñador rebelde",
-          "director": "John Ford; Jack Cardiff",
-          "award": "Premio CEC",
-          "nominations": [],
-          "wins": [
-            "Premio CEC"
+          "title": "Citizen Kane (Ciudadano Kane)",
+          "director": "Orson Welles",
+          "aliases": [
+            "Ciudadano Kane"
           ],
-          "aliases": []
+          "wins": [
+            "Premio 10 Semana",
+            "Trofeo de la Federación Nacional de Cineclubs"
+          ],
+          "nominations": [],
+          "award": "Premio 10 Semana · Trofeo de la Federación Nacional de Cineclubs"
+        },
+        {
+          "title": "El Niño y el Muro",
+          "director": "Ismael Rodríguez",
+          "aliases": [
+            "El niño y el muro"
+          ],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
+          ],
+          "nominations": [],
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+          "filmYear": 1965
+        },
+        {
+          "title": "Ivanhoe Donaldson",
+          "director": "Harol Becker",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Le monde sans soleil (El mundo sin sol)",
+          "director": "Jacques Ives Cousteau",
+          "aliases": [
+            "El mundo sin sol"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Los olvidados",
+          "director": "Luis Buñuel",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Víctima de la ley",
           "director": "Larry Peerce",
           "filmYear": 1964,
-          "award": "Mención especial",
+          "award": "Mención Especial",
           "nominations": [],
           "wins": [
-            "Mención especial"
+            "Mención Especial"
           ],
           "aliases": [
-            "Víctima de la ley"
+            "Víctima de la ley",
+            "One Potato, Two Potato (Una patata, dos patatas)",
+            "Una patata, dos patatas",
+            "One Potato, Two Potato (Víctima de la ley)"
           ]
+        },
+        {
+          "title": "Los años verdes",
+          "director": "Paulo Rocha",
+          "aliases": [
+            "Los verde años",
+            "Os verdes anos (Los verdes años)",
+            "Los verdes años",
+            "Os Verdes Anos",
+            "Os verdes años (Los verde años)"
+          ],
+          "wins": [
+            "Mención Especial"
+          ],
+          "nominations": [],
+          "award": "Mención Especial",
+          "filmYear": 1963
+        },
+        {
+          "title": "Saúl y David",
+          "director": "Marcello Baldi",
+          "aliases": [
+            "Saul e David",
+            "Saul y David"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1964
+        },
+        {
+          "title": "Harakiri",
+          "director": "Masaki Kobayashi",
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Seppuku (Harakiri)"
+          ]
+        },
+        {
+          "title": "Skoplje '63",
+          "director": "Veljko Bulajić",
+          "filmYear": 1964,
+          "award": "Espiga de Oro · Mención Especial",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro",
+            "Mención Especial"
+          ],
+          "aliases": [
+            "Skopke, 63",
+            "Skoplje’63 (Skopje’63)",
+            "Skopje’63"
+          ]
+        },
+        {
+          "title": "The Best Man (El amargo sabor del poder)",
+          "director": "Franklin Schaffner",
+          "aliases": [
+            "El amargo sabor del poder"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Un nouveau Gilgames (Un nuevo Gilgames)",
+          "director": "Milhaly Szemes",
+          "aliases": [
+            "Un nuevo Gilgames"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El soñador rebelde",
+          "director": "John Ford; Jack Cardiff",
+          "award": "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión · Premio R.I.J.F.",
+          "nominations": [],
+          "wins": [
+            "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión",
+            "Premio R.I.J.F."
+          ],
+          "aliases": [
+            "Young Cassidy",
+            "Young Cassidy (El soñador rebelde)"
+          ],
+          "filmYear": 1965
+        },
+        {
+          "title": "Zeit der schuldlosen (Tiempo de inocentes)",
+          "director": "Thomas Fantl",
+          "aliases": [
+            "Tiempo de inocentes"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1965,
-      "section": "Cortometrajes premiados",
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "Fellini, ocho y medio",
+          "director": "Federico Fellini",
+          "aliases": [
+            "Fellini ocho y medio",
+            "8½",
+            "8 1/2 (Fellini ocho y medio)"
+          ],
+          "wins": [
+            "Premio Especial «Convivencia Humana»"
+          ],
+          "nominations": [],
+          "filmYear": 1963,
+          "award": "Premio Especial «Convivencia Humana»"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1965,
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
           "title": "Inscripción",
@@ -6043,7 +6188,8 @@
             "Espiga de Oro"
           ],
           "aliases": [
-            "Aanmelding"
+            "Aanmelding",
+            "Aanmelding (Inscripción)"
           ]
         }
       ]

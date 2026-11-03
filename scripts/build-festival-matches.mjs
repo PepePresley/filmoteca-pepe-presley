@@ -14,6 +14,11 @@ const previousMapPath=previousMapArg?previousMapArg.slice(15):'data/catalog/fest
 const previousMatches=scopeYears?JSON.parse(fs.readFileSync(previousMapPath,'utf8')).matches:{};
 const appendOnly=process.argv.includes('--append-only');
 if(appendOnly&&!scopeYears)throw new Error('--append-only requires an explicit year scope');
+// BEGIN INPUT-PRESERVATION OPTION
+const preserveKeysArg=process.argv.find(a=>a.startsWith('--preserve-keys='));
+const preservedKeys=preserveKeysArg?new Set(JSON.parse(fs.readFileSync(preserveKeysArg.slice(16),'utf8'))):null;
+if(preservedKeys&&!scopeYears)throw new Error('--preserve-keys requires an explicit year scope');
+// END INPUT-PRESERVATION OPTION
 const labelsOnly=process.argv.includes('--labels-only');
 if(labelsOnly&&!scopeYears)throw new Error('--labels-only requires an explicit year scope');
 
@@ -70,6 +75,13 @@ for(const ed of (db.editions||[])){
   const ft={festival:ed.festival,festival_year:Number(ed.year),section:ed.section,festival_title:f.title,aliases:f.aliases||[],director:f.director};
   const authoritative=authoritativeOwnership(ed,f);
   const key=filmKey(ed.festival,ed.year,f.title,f.director);
+  // BEGIN INPUT-PRESERVATION OPTION
+  if(preservedKeys?.has(key)&&Object.hasOwn(previousMatches,key)){
+   matches[key]=previousMatches[key];
+   if(matches[key])present++;
+   continue;
+  }
+  // END INPUT-PRESERVATION OPTION
   // Pure additions keep approved associations, including deliberate nulls.
   if(appendOnly&&Object.hasOwn(previousMatches,key)){
    matches[key]=previousMatches[key];

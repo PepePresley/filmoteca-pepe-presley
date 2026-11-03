@@ -4746,95 +4746,294 @@
     {
       "festival": "Seminci",
       "year": 1961,
-      "section": "Películas premiadas · sección de programación no acreditada; selección incompleta",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "El manantial de la doncella",
-          "director": "Ingmar Bergman",
-          "filmYear": 1960,
-          "award": "Golden Labarum · Mejor película · Mejor película · Lábaro de Oro",
-          "nominations": [],
-          "wins": [
-            "Golden Labarum · Mejor película",
-            "Mejor película · Lábaro de Oro"
-          ],
-          "aliases": [
-            "Jungfrukällan"
-          ]
-        },
         {
           "title": "El amor se paga con la muerte",
           "director": "Edwin Zbonek",
           "filmYear": 1959,
-          "award": "Mejor película · Espiga de Oro",
+          "award": "Espiga de Oro · Trofeo de la Federación Nacional de Cineclubs · Premio de la Confederación Nacional de Padres de Familia · Corona de oro",
           "nominations": [],
           "wins": [
-            "Mejor película · Espiga de Oro"
+            "Espiga de Oro",
+            "Trofeo de la Federación Nacional de Cineclubs",
+            "Premio de la Confederación Nacional de Padres de Familia",
+            "Corona de oro"
           ],
           "aliases": [
-            "Am Galgen hängt die Liebe"
+            "Am Galgen hängt die Liebe",
+            "Am galgen händt die liebe (El amor se paga con la muerte)",
+            "Am Galgen hängt die Liebe (El amor se paga con la muerte)"
           ]
+        },
+        {
+          "title": "Brücke des schicksals (El puente del destino)",
+          "director": "Michael Kehlmann",
+          "aliases": [
+            "El puente del destino"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "En la ardiente oscuridad",
+          "director": "Daniel Tinayre",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Los cuervos",
+          "director": "Julio Coll",
+          "aliases": [],
+          "wins": [
+            "Mención Especial"
+          ],
+          "nominations": [],
+          "award": "Mención Especial",
+          "filmYear": 1962
+        },
+        {
+          "title": "Viaje en globo",
+          "director": "Albert Lamorisse",
+          "award": "Premio San Gregorio · Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio",
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "Le voyage en ballon (El viaje en globo)",
+            "El viaje en globo"
+          ]
+        },
+        {
+          "title": "Il suffit d’aimer (Bernadette de Lourdes)",
+          "director": "Robert Darene",
+          "aliases": [
+            "Bernadette de Lourdes"
+          ],
+          "wins": [
+            "Mención Especial",
+            "Cetro de Plata"
+          ],
+          "nominations": [],
+          "award": "Mención Especial · Cetro de Plata"
+        },
+        {
+          "title": "Terrain vague (El solar)",
+          "director": "Marcel Carné",
+          "aliases": [
+            "El solar"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Les etoiles de midi (Las estrellas de mediodía)",
+          "director": "Marcel Ichac",
+          "aliases": [
+            "Las estrellas de mediodía"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Vers l’extase (Hacia el éxtasis)",
+          "director": "René Wheeler",
+          "aliases": [
+            "Hacia el éxtasis"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El apartamento",
+          "director": "Billy Wilder",
+          "aliases": [
+            "The Apartment",
+            "The Apartment (El apartamento)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1960
+        },
+        {
+          "title": "The Sprit of San Louis (El espíritu de San Luis)",
+          "director": "Billy Wilder",
+          "aliases": [
+            "El espíritu de San Luis"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Crime and Punishment, U.S.A.",
+          "director": "Denis Sanders",
+          "award": "Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "Crime and Punishment U.S.A.(Crimen y castigo)",
+            "Crimen y castigo",
+            "Crime & Punishment, USA (Crimen y castigo, USA)",
+            "Crimen y castigo, USA"
+          ]
+        },
+        {
+          "title": "El amargo silencio",
+          "director": "Guy Green",
+          "award": "Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "The Angry Silence (El silencio furioso)",
+            "El silencio furioso",
+            "The Angry Silence (Amargo silencio)",
+            "Amargo silencio",
+            "The Angry Silence"
+          ],
+          "filmYear": 1960
+        },
+        {
+          "title": "La guerra secreta de Sor Catherine",
+          "director": "Ralph Thomas",
+          "aliases": [
+            "La guerra secreta de Sor Catalina",
+            "Conspiracy of Hearts (La guerra secreta de Sor Catherine)",
+            "Conspiracy of Hearts",
+            "Conspiracy of Hearts (La guerra secreta de Sor Catalina)"
+          ],
+          "wins": [
+            "Premio Fémina, Rosa de Plata"
+          ],
+          "nominations": [],
+          "award": "Premio Fémina, Rosa de Plata",
+          "filmYear": 1960
+        },
+        {
+          "title": "Whisky y gloria",
+          "director": "Ronald Neame",
+          "aliases": [
+            "Tunes of Glory",
+            "Tunes of Glory (Whisky y gloria)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1960
+        },
+        {
+          "title": "Todos a casa",
+          "director": "Luigi Comencini",
+          "filmYear": 1960,
+          "award": "Premio Federación Internacional de la Prensa Cinematográfica (FIPRESCI)",
+          "nominations": [],
+          "wins": [
+            "Premio Federación Internacional de la Prensa Cinematográfica (FIPRESCI)"
+          ],
+          "aliases": [
+            "Tutti a casa",
+            "Tutti a casa (Todos a casa)"
+          ]
+        },
+        {
+          "title": "Kapo",
+          "director": "Gillo Pontecorvo",
+          "aliases": [
+            "Kapò",
+            "Kapó"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1960
+        },
+        {
+          "title": "Simitrio",
+          "director": "Emilio Gómez Muriel",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1960
+        },
+        {
+          "title": "Macario",
+          "director": "Roberto Gavaldón",
+          "filmYear": 1960,
+          "award": "Premio Ciudad de Valladolid · Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid",
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El manantial de la doncella",
+          "director": "Ingmar Bergman",
+          "filmYear": 1960,
+          "award": "Lábaro de Oro · Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro",
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "Jungfrukällan",
+            "Jungfrukällan (El manantial de la doncella)"
+          ]
+        },
+        {
+          "title": "Mein Kampf (Mi lucha)",
+          "director": "Erwin Leiser",
+          "aliases": [
+            "Mi lucha"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1961,
-      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
-          "title": "Macario",
-          "director": "Roberto Gavaldón",
+          "title": "Ars",
+          "director": "Jacques Demy",
+          "aliases": [],
+          "wins": [
+            "Lábaro de Oro"
+          ],
+          "nominations": [],
           "filmYear": 1960,
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [],
-          "wins": [
-            "Premio de la Ciudad de Valladolid"
-          ],
-          "aliases": []
+          "award": "Lábaro de Oro"
         },
         {
-          "title": "Viaje en globo",
-          "director": "",
-          "award": "Premio San Gregorio",
-          "nominations": [],
+          "title": "Zamora",
+          "director": "José Luis Viloria",
+          "aliases": [],
           "wins": [
-            "Premio San Gregorio"
+            "Espiga de Oro"
           ],
-          "aliases": []
-        },
-        {
-          "title": "Todos a casa",
-          "director": "Luigi Comencini",
+          "nominations": [],
           "filmYear": 1960,
-          "award": "Premio FIPRESCI · Mejor película",
-          "nominations": [],
-          "wins": [
-            "Premio FIPRESCI · Mejor película"
-          ],
-          "aliases": [
-            "Tutti a casa"
-          ]
-        },
-        {
-          "title": "El amargo silencio",
-          "director": "",
-          "award": "Mención especial",
-          "nominations": [],
-          "wins": [
-            "Mención especial"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Crime and Punishment, U.S.A.",
-          "director": "",
-          "award": "Mención especial",
-          "nominations": [],
-          "wins": [
-            "Mención especial"
-          ],
-          "aliases": []
+          "award": "Espiga de Oro"
         }
       ]
     }

@@ -2066,44 +2066,14 @@
     {
       "festival": "Seminci",
       "year": 1992,
-      "section": "Golden Spike / Espiga de Oro — selección IMDb",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Léolo",
-          "director": "Jean-Claude Lauzon",
-          "filmYear": 1992,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "El largo día acaba",
-          "director": "Terence Davies",
-          "filmYear": 1992,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": [
-            "The Long Day Closes"
-          ]
-        },
         {
           "title": "Daens",
           "director": "Stijn Coninx",
           "filmYear": 1992,
           "award": "Espiga de Plata · Premio del Público",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Espiga de Plata",
             "Premio del Público"
@@ -2111,16 +2081,26 @@
           "aliases": []
         },
         {
+          "title": "Léolo",
+          "director": "Jean-Claude Lauzon",
+          "filmYear": 1992,
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "aliases": []
+        },
+        {
           "title": "Escuela primaria",
           "director": "Jan Svěrák",
           "filmYear": 1991,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Obecná škola"
+            "Obecná škola",
+            "Obecná Skola (Escuela primaria)"
           ]
         },
         {
@@ -2128,9 +2108,7 @@
           "director": "Gracia Querejeta",
           "filmYear": 1992,
           "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio Especial del Jurado"
           ],
@@ -2140,10 +2118,8 @@
           "title": "El marido perfecto",
           "director": "Beda Docampo Feijóo",
           "filmYear": 1993,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -2151,13 +2127,10 @@
           "title": "Glengarry Glen Ross (Éxito a cualquier precio)",
           "director": "James Foley",
           "filmYear": 1992,
-          "award": "Mejor actor · Mejor actor · Jack Lemmon, Al Pacino, Ed Harris, Alan Arkin, Kevin Spacey, Alec Baldwin, Jonathan Pryce",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio al Mejor Actor",
+          "nominations": [],
           "wins": [
-            "Mejor actor",
-            "Mejor actor · Jack Lemmon, Al Pacino, Ed Harris, Alan Arkin, Kevin Spacey, Alec Baldwin, Jonathan Pryce"
+            "Premio al Mejor Actor"
           ],
           "aliases": [
             "Glengarry Glen Ross: Éxito a cualquier precio",
@@ -2168,84 +2141,101 @@
           "title": "El ojo público",
           "director": "Howard Franklin",
           "filmYear": 1992,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "The Public Eye"
+            "The Public Eye",
+            "The Public Eye (El ojo público)"
           ]
         },
         {
           "title": "Kaivo",
           "director": "Pekka Lehto",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Kaivo (El pozo)",
+            "El pozo"
+          ]
         },
         {
           "title": "Olivier, Olivier",
           "director": "Agnieszka Holland",
           "filmYear": 1992,
-          "award": "Mejor actriz · Brigitte Roüan · Premio del Jurado Joven",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio a la Mejor Actriz · Brigitte Roüan · Premio de la Juventud",
+          "nominations": [],
           "wins": [
-            "Mejor actriz · Brigitte Roüan",
-            "Premio del Jurado Joven"
+            "Premio a la Mejor Actriz · Brigitte Roüan",
+            "Premio de la Juventud"
           ],
-          "aliases": []
+          "aliases": [
+            "Olivier Olivier"
+          ]
         },
         {
-          "title": "Sipurei Tel-Aviv",
-          "director": "Ayelet Menahemi",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
+          "title": "El largo día acaba",
+          "director": "Terence Davies",
+          "filmYear": 1992,
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "aliases": [
+            "The Long Day Closes",
+            "The Long Day Closes (El largo día acaba)"
+          ]
+        },
+        {
+          "title": "Tel Aviv Stories (Historias de Tel Aviv)",
+          "director": "Ayelet Menahemi y Nirit Yaron",
+          "aliases": [
+            "Historias de Tel Aviv"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Freud's Leaving Home",
           "director": "Susanne Bier",
-          "award": "Mejor dirección novel · Susanne Bier",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio al Mejor Nuevo Director · Susanne Bier",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Susanne Bier"
+            "Premio al Mejor Nuevo Director · Susanne Bier"
           ],
           "aliases": [
-            "Freud flyttar hemifrån..."
-          ]
+            "Freud flyttar hemifrån...",
+            "Freud Flyttar Hemifran (Freud se va de casa)",
+            "Freud se va de casa",
+            "Freud flyttar hemifrån... (Freud se va de casa)"
+          ],
+          "filmYear": 1991
         },
         {
           "title": "Fuera de temporada",
           "director": "Daniel Schmid",
-          "award": "Mejor fotografía · Renato Berta",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio a la Mejor Dirección de Fotografía · Renato Berta",
+          "nominations": [],
           "wins": [
-            "Mejor fotografía · Renato Berta"
+            "Premio a la Mejor Dirección de Fotografía · Renato Berta"
           ],
-          "aliases": []
+          "aliases": [
+            "Zwischensaison (Fuera de temporada)"
+          ]
         },
         {
           "title": "Kinder der Landstrasse",
           "director": "Urs Egger",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Kinder der Landstrasse (Los niños de la carretera)",
+            "Los niños de la carretera"
+          ]
         }
       ]
     },
@@ -2255,18 +2245,45 @@
       "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
+          "title": "Daumier’s Law (La ley de Daumier)",
+          "director": "Geoff Dunbar",
+          "aliases": [
+            "La ley de Daumier"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1992,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "La sensation (La sensación)",
+          "director": "Manuel Poutte",
+          "aliases": [
+            "La sensación"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1992,
+          "award": "Espiga de Plata"
+        },
+        {
           "title": "Le batteur du Boléro",
           "director": "Patrice Leconte",
           "filmYear": 1992,
-          "award": "Premio Especial del Jurado · cortometraje",
+          "award": "Premio Especial del Jurado",
           "nominations": [],
           "wins": [
-            "Premio Especial del Jurado · cortometraje"
+            "Premio Especial del Jurado"
           ],
           "aliases": [
             "Bolero",
             "El tamborilero del Bolero",
-            "Bolero de Patrice Leconte"
+            "Bolero de Patrice Leconte",
+            "Le batteur du boléro (Bolero)"
           ]
         }
       ]
@@ -2274,17 +2291,45 @@
     {
       "festival": "Seminci",
       "year": 1992,
-      "section": "Películas premiadas; sección no indicada por las fuentes",
+      "section": "Tiempo de Historia · largometrajes",
       "films": [
         {
+          "title": "La cruz del sur",
+          "director": "Patricio Guzmán",
+          "aliases": [
+            "La cruz del Sur"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 1992,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Sueños de opio en Macondo",
+          "director": "Naquén Producciones",
+          "aliases": [],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1992,
+          "award": "Menciones especiales"
+        },
+        {
           "title": "Blockade",
-          "director": "",
-          "award": "Mención especial · Premio Tiempo de Historia",
+          "director": "Thomas Kufus",
+          "award": "Menciones especiales",
           "nominations": [],
           "wins": [
-            "Mención especial · Premio Tiempo de Historia"
+            "Menciones especiales"
           ],
-          "aliases": []
+          "aliases": [
+            "Blockade (Asedio)",
+            "Asedio"
+          ],
+          "filmYear": 1991
         }
       ]
     }

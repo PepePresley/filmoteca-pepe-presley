@@ -2150,50 +2150,299 @@
     {
       "festival": "Seminci",
       "year": 1991,
-      "section": "Golden Spike / Espiga de Oro — selección IMDb",
+      "section": "Sección Oficial · largometrajes",
       "films": [
+        {
+          "title": "Grito de piedra",
+          "director": "Werner Herzog",
+          "filmYear": 1991,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Cerro Torre: Schrei aus Stein",
+            "Schrei aus Stein (Grito de piedra)"
+          ]
+        },
+        {
+          "title": "Proof (La prueba)",
+          "director": "Jocelyn Moorhouse",
+          "filmYear": 1991,
+          "award": "Premio a la Mejor Primera Película",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Primera Película"
+          ],
+          "aliases": [
+            "La prueba",
+            "Proof"
+          ]
+        },
         {
           "title": "El liquidador",
           "director": "Atom Egoyan",
           "filmYear": 1991,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
           "wins": [
-            "Mejor Película - Espiga de Oro"
+            "Espiga de Oro (ex aequo)"
           ],
           "aliases": [
-            "The Adjuster"
+            "The Adjuster",
+            "The Adjuster (El liquidador)"
+          ]
+        },
+        {
+          "title": "Catorce estaciones",
+          "director": "Antonio Giménez Rico",
+          "filmYear": 1991,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El hombre que perdió su sombra",
+          "director": "Alain Tanner",
+          "filmYear": 1991,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "L'Homme qui a perdu son ombre"
+          ]
+        },
+        {
+          "title": "El niño que gritó puta",
+          "director": "Juan José Campanella",
+          "filmYear": 1991,
+          "award": "Premio al Mejor Actor · Harley Cross",
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor Actor · Harley Cross"
+          ],
+          "aliases": [
+            "The Boy Who Cried Bitch",
+            "The Boy Who Cried Bitch (El niño que gritó ‘puta’)",
+            "El niño que gritó ‘puta’",
+            "The Boy who Cried Bitch (El niño que gritó puta)"
           ]
         },
         {
           "title": "Thelma & Louise",
           "director": "Ridley Scott",
           "filmYear": 1991,
-          "award": "Mejor Película - Espiga de Oro · Premio del Público",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Espiga de Oro (ex aequo) · Premio del Público",
+          "nominations": [],
           "wins": [
-            "Mejor Película - Espiga de Oro",
+            "Espiga de Oro (ex aequo)",
             "Premio del Público"
           ],
           "aliases": []
         },
         {
-          "title": "Grito de piedra",
-          "director": "Werner Herzog",
+          "title": "Madame Bovary",
+          "director": "Claude Chabrol",
           "filmYear": 1991,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Bailando en la oscuridad",
+          "director": "Mike Ockrent",
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Cerro Torre: Schrei aus Stein"
+            "Dancin’ Thru the Dark (Bailando en la oscuridad)"
+          ],
+          "filmYear": 1990
+        },
+        {
+          "title": "Riff-Raff",
+          "director": "Ken Loach",
+          "filmYear": 1991,
+          "award": "Espiga de Plata · Premio de la Juventud",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata",
+            "Premio de la Juventud"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La linterna roja",
+          "director": "Yimou Zhang",
+          "filmYear": 1991,
+          "award": "Premio a la Mejor Dirección de Fotografía · Fei Zhao y Lun Yang",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Dirección de Fotografía · Fei Zhao y Lun Yang"
+          ],
+          "aliases": [
+            "Dahong Denglong gaogao gua (La linterna roja)",
+            "Da hong deng long gao gao gua (La linterna roja)"
           ]
         },
+        {
+          "title": "L'aria serena dell'Ovest",
+          "director": "Silvio Soldini",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "L’Aria serena dell’ Ovest (El sereno aire del Oeste)",
+            "El sereno aire del Oeste"
+          ],
+          "filmYear": 1990
+        },
+        {
+          "title": "Danzón",
+          "director": "María Novaro",
+          "filmYear": 1991,
+          "award": "Premio a la Mejor Actriz · María Rojo",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Actriz · María Rojo"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La tarea",
+          "director": "Jaime Humberto Hermosillo",
+          "filmYear": 1991,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Tinpis Run",
+          "director": "Pengau Nengo",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [],
+          "filmYear": 1990
+        },
+        {
+          "title": "Rebro Adama (La costilla de Adán)",
+          "director": "Viatcheslav Krichtofovitch",
+          "aliases": [
+            "La costilla de Adán",
+            "Rebro Adama (La costilla de Adán) de Vyacheslav Krishtofovich"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [],
+          "filmYear": 1990,
+          "award": "Premio Especial del Jurado"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1991,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Reci, reci, reci (Palabras, palabras, palabras)",
+          "director": "Michaela Pavlátová",
+          "aliases": [
+            "Palabras, palabras, palabras"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1991,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Seghmakodjak (El botón)",
+          "director": "Robert Sahaguianz",
+          "aliases": [
+            "El botón"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1990,
+          "award": "Espiga de Plata"
+        },
+        {
+          "title": "Body Beautiful (Hermoso cuerpo)",
+          "director": "Joanna Quinn",
+          "aliases": [
+            "Hermoso cuerpo",
+            "Body Beautiful"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [],
+          "filmYear": 1991,
+          "award": "Premio Especial del Jurado"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1991,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Undergångens arkitektur",
+          "director": "Peter Cohen",
+          "aliases": [
+            "La arquitectura de la muerte",
+            "Undergångens arkitektur (La arquitectura de la muerte)"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 1989,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Paris Is Burning",
+          "director": "Jennie Livingston",
+          "filmYear": 1990,
+          "award": "Menciones especiales",
+          "nominations": [],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "aliases": [
+            "Paris Is Burning (París en llamas)",
+            "París en llamas"
+          ]
+        },
+        {
+          "title": "Nothing Will Stop Us! (¡Seguimos adelante!)",
+          "director": "Patricia Castaño y Adelaida Trujillo",
+          "aliases": [
+            "¡Seguimos adelante!"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1990,
+          "award": "Menciones especiales"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1991,
+      "section": "Otros premios",
+      "films": [
         {
           "title": "La prueba",
           "director": "Jocelyn Moorhouse",
@@ -2210,138 +2459,6 @@
           ]
         },
         {
-          "title": "Catorce estaciones",
-          "director": "Antonio Giménez Rico",
-          "filmYear": 1991,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "El hombre que perdió su sombra",
-          "director": "Alain Tanner",
-          "filmYear": 1991,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "L'Homme qui a perdu son ombre"
-          ]
-        },
-        {
-          "title": "El niño que gritó puta",
-          "director": "Juan José Campanella",
-          "filmYear": 1991,
-          "award": "Mejor actor · Harley Cross",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor actor · Harley Cross"
-          ],
-          "aliases": [
-            "The Boy Who Cried Bitch"
-          ]
-        },
-        {
-          "title": "Madame Bovary",
-          "director": "Claude Chabrol",
-          "filmYear": 1991,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Bailando en la oscuridad",
-          "director": "Mike Ockrent",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Riff-Raff",
-          "director": "Ken Loach",
-          "filmYear": 1991,
-          "award": "Espiga de Plata · Premio del Jurado Joven",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Espiga de Plata",
-            "Premio del Jurado Joven"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "La linterna roja",
-          "director": "Yimou Zhang",
-          "filmYear": 1991,
-          "award": "Mejor fotografía · Zhao Fei · Mejor fotografía · Fei Zhao, Lun Yang",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor fotografía · Zhao Fei",
-            "Mejor fotografía · Fei Zhao, Lun Yang"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "L'aria serena dell'Ovest",
-          "director": "Silvio Soldini",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Danzón",
-          "director": "María Novaro",
-          "filmYear": 1991,
-          "award": "Mejor actriz · María Rojo",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor actriz · María Rojo"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "La tarea",
-          "director": "Jaime Humberto Hermosillo",
-          "filmYear": 1991,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Tinpis Run",
-          "director": "Pengau Nengo",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
           "title": "El nido de Adán",
           "director": "Viacheslav Kryshtofovych",
           "award": "Premio Especial del Jurado",
@@ -2350,38 +2467,6 @@
           ],
           "wins": [
             "Premio Especial del Jurado"
-          ],
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1991,
-      "section": "Películas premiadas; sección no indicada por las fuentes",
-      "films": [
-        {
-          "title": "Proof (La prueba)",
-          "director": "Jocelyn Moorhouse",
-          "filmYear": 1991,
-          "award": "Mejor dirección novel · Jocelyn Moorhouse",
-          "nominations": [],
-          "wins": [
-            "Mejor dirección novel · Jocelyn Moorhouse"
-          ],
-          "aliases": [
-            "La prueba",
-            "Proof"
-          ]
-        },
-        {
-          "title": "Paris Is Burning",
-          "director": "Jennie Livingston",
-          "filmYear": 1990,
-          "award": "Mención especial · Premio Tiempo de Historia",
-          "nominations": [],
-          "wins": [
-            "Mención especial · Premio Tiempo de Historia"
           ],
           "aliases": []
         }

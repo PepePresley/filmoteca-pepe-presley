@@ -149,6 +149,26 @@ export function isPureAddition(before,after){
  return next.size>new Set(previous).size&&previous.every(key=>next.has(key));
 }
 
+// Moving a film to its official section does not change its association key.
+// Reuse only identical resolver inputs and ownership; changed catalog sources or
+// resolver code deliberately disable this optimization.
+export function unchangedAssociationKeys(before,after){
+ const strip=text=>String(text||'').replace(/^[ \t]*\/\/ BEGIN INPUT-PRESERVATION OPTION[\s\S]*?^[ \t]*\/\/ END INPUT-PRESERVATION OPTION\n/gm,'');
+ if(before.get(rulesPath)!==after.get(rulesPath)||strip(before.get(generatorPath))!==strip(after.get(generatorPath)))return null;
+ for(const [p,text] of before)if((p===catalogPath||/^data\/catalog\/annual_.*_overlay\.json$/.test(p))&&after.get(p)!==text)return null;
+ const inputs=files=>{
+  const values=new Map();
+  for(const ed of parse(files,globalPath,{editions:[]}).editions)for(const f of ed.films){
+   const ft=filmInput(ed,f);delete ft.section;
+   const key=encoded([ed.festival,Number(ed.year),f.title,f.director||'']);
+   values.set(key,encoded([ft,ownership(files,ed,f)]));
+  }
+  return values;
+ };
+ const old=inputs(before),next=inputs(after);
+ return [...next.keys()].filter(key=>old.has(key)&&old.get(key)===next.get(key));
+}
+
 export function runPlannedMatches(base,{planOnly=false,reportDirectory='outputs/validacion_bloque'}={}){
  const before=readSnapshot(base), after=readSnapshot();
  const validation=validateInputChanges(before,after);
@@ -174,7 +194,10 @@ export function runPlannedMatches(base,{planOnly=false,reportDirectory='outputs/
   const args=[generatorPath,'--previous-map='+previous,
    '--years='+(plan.years.length?plan.years:plan.allYears).join(',')];
   if(plan.mode==='preserve')args.push('--labels-only');
-  else if(isPureAddition(before,after))args.push('--append-only');
+  else {
+   const keys=unchangedAssociationKeys(before,after);
+   if(keys!==null){const file=path.join(temp,'preserve-keys.json');fs.writeFileSync(file,JSON.stringify(keys));args.push('--preserve-keys='+file);}
+  }
   execFileSync(process.execPath,args,{stdio:'inherit'});
  }finally{fs.rmSync(temp,{recursive:true,force:true});}
  return plan;

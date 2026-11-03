@@ -6095,143 +6095,161 @@
     {
       "festival": "Seminci",
       "year": 1972,
-      "section": "Espiga de Oro / Golden Spike (selección según IMDb, con resultados FilmAffinity)",
+      "section": "Largometrajes",
       "films": [
+        {
+          "title": "La huésped",
+          "director": "Liliana Cavani",
+          "award": "Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "L’ospite (La huésped)",
+            "L'ospite"
+          ],
+          "filmYear": 1971
+        },
         {
           "title": "Las dos inglesas y el amor",
           "director": "François Truffaut",
           "filmYear": 1971,
-          "award": "Mejor película · Espiga de Oro · Premio CEC",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Espiga de Oro · Medalla del Círculo de Escritores Cinematográficos al Mejor Guión",
+          "nominations": [],
           "wins": [
-            "Mejor película · Espiga de Oro",
-            "Premio CEC"
+            "Espiga de Oro",
+            "Medalla del Círculo de Escritores Cinematográficos al Mejor Guión"
           ],
           "aliases": [
-            "Les Deux Anglaises et le Continent"
+            "Les Deux Anglaises et le Continent",
+            "Les deux anglaises et le continent (Las dos inglesas y el continente)",
+            "Las dos inglesas y el continente",
+            "Les deux anglaises et le continent (Las dos inglesas y el amor)"
           ]
-        },
-        {
-          "title": "La huésped",
-          "director": "Liliana Cavani",
-          "award": "Mención especial",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mención especial"
-          ],
-          "aliases": []
         },
         {
           "title": "Trampa-22",
           "director": "Mike Nichols",
           "filmYear": 1970,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio 17 Semana (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio 17 Semana (ex aequo)"
           ],
-          "wins": [],
           "aliases": [
             "Trampa 22",
-            "Catch-22"
+            "Catch-22",
+            "Catch 22 (Trampa 22)"
           ]
         },
         {
           "title": "Preludio a España",
           "director": "Jesús García de Dueñas",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "Nosotros los monos",
           "director": "Edmund Valladares",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+          "nominations": [],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Nosotros, los monos"
+          ]
         },
         {
           "title": "Land des Schweigens und der Dunkelheit",
           "director": "Werner Herzog",
           "filmYear": 1971,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "En el país del silencio y la oscuridad"
+            "En el país del silencio y la oscuridad",
+            "Land des schweigens und der dunkelheit (Tierra del silencio y de la oscuridad)",
+            "Tierra del silencio y de la oscuridad"
           ]
         },
         {
           "title": "Un italiano en Chicago",
           "director": "Ettore Scola",
           "filmYear": 1971,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Permette? Rocco Papaleo"
+            "Permette? Rocco Papaleo",
+            "Permette? Rocco Papaleo (¿Permite? Rocco Papaleo)",
+            "¿Permite? Rocco Papaleo"
           ]
         },
         {
           "title": "Edicto siglo XXI: Prohibido tener hijos",
           "director": "Michael Campus",
           "filmYear": 1972,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "Edicto Siglo XXI: Prohibido tener hijos",
-            "Z.P.G."
+            "Z.P.G.",
+            "Z.P.G"
           ]
         },
         {
           "title": "Zycie rodzinne",
           "director": "Krzysztof Zanussi",
           "award": "Premio San Gregorio",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio San Gregorio"
           ],
-          "aliases": []
+          "aliases": [
+            "Zycie Rodzinne (La vida de familia)",
+            "La vida de familia",
+            "Zycie rodzinne (La vida de familia)"
+          ]
         },
         {
           "title": "Pedro Só",
           "director": "Alfredo Tropa",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Mención Especial",
+          "nominations": [],
+          "wins": [
+            "Mención Especial"
+          ],
+          "aliases": [
+            "Pedro So"
+          ]
+        },
+        {
+          "title": "En karleks historia (Una historia sueca de amor)",
+          "director": "Roy Andersson",
+          "aliases": [
+            "Una historia sueca de amor"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Juventud sin esperanza",
           "director": "Miloš Forman",
           "filmYear": 1971,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio 17 Semana (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio 17 Semana (ex aequo)"
           ],
-          "wins": [],
           "aliases": [
-            "Taking Off"
+            "Taking Off",
+            "Taking Off (Juventud sin esperanza)"
           ]
         }
       ]
@@ -6239,18 +6257,46 @@
     {
       "festival": "Seminci",
       "year": 1972,
-      "section": "Sección Informativa y Cultural",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
           "title": "Walkabout",
           "director": "Nicolas Roeg",
           "filmYear": 1971,
-          "award": "Premio de la Ciudad de Valladolid",
+          "award": "Premio Ciudad de Valladolid",
           "nominations": [],
           "wins": [
-            "Premio de la Ciudad de Valladolid"
+            "Premio Ciudad de Valladolid"
           ],
           "aliases": []
+        },
+        {
+          "title": "haber sido presentada en copia de 16mm",
+          "director": "lo declara desierto",
+          "aliases": [],
+          "wins": [
+            "Premio Especial del Jurado · El jurado había decidido conceder este premio al film Land des Schweigens und der Dunkelheit (Tierra de silencio y oscuridad), de Werner Herzog. República Federal de Alemania, 1971. Pero, atendiendo la indicación de la dirección de la Semana de que esta resolución es incompatible con el reglamento, según el apartado ‘C’ del artículo 5"
+          ],
+          "nominations": [],
+          "award": "Premio Especial del Jurado · El jurado había decidido conceder este premio al film Land des Schweigens und der Dunkelheit (Tierra de silencio y oscuridad), de Werner Herzog. República Federal de Alemania, 1971. Pero, atendiendo la indicación de la dirección de la Semana de que esta resolución es incompatible con el reglamento, según el apartado ‘C’ del artículo 5"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1972,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "El camino del cielo",
+          "director": "Emilio Martínez Lázaro",
+          "aliases": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1971,
+          "award": "Espiga de Oro"
         }
       ]
     }

@@ -2289,117 +2289,87 @@
     {
       "festival": "Seminci",
       "year": 1988,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Voces distantes",
-          "director": "Terence Davies",
-          "filmYear": 1988,
-          "award": "Mejor película · Espiga de Oro · Mejor fotografía · Patrick Duval",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro",
-            "Mejor fotografía · Patrick Duval"
-          ],
-          "aliases": [
-            "Voces Distantes",
-            "Distant Voices, Still Lives"
-          ]
-        },
-        {
-          "title": "Huida a medianoche",
-          "director": "Martin Brest",
-          "filmYear": 1988,
-          "award": "Mejor actor · Charles Grodin",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor actor · Charles Grodin"
-          ],
-          "aliases": [
-            "Midnight Run"
-          ]
-        },
         {
           "title": "Las puertitas del señor López",
           "director": "Alberto Fischerman",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Las puertitas del Sr. López"
+          ]
         },
         {
           "title": "A Dama do Cine Shanghai",
           "director": "Guilherme de Almeida Prado",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "A dama do cine Shanghai (La dama del cine Shanghai)",
+            "La dama del cine Shanghai"
+          ],
+          "filmYear": 1987
         },
         {
           "title": "La vida en video",
           "director": "Atom Egoyan",
           "filmYear": 1987,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Family Viewing"
+            "Family Viewing",
+            "Family Viewing (Retrato de familia)",
+            "Retrato de familia"
           ]
         },
         {
           "title": "Dum pro dva",
           "director": "Milos Zábranský",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Düm pro dva (Casa para dos)",
+            "Casa para dos"
+          ]
         },
         {
-          "title": "Un pueblo llamado Hibisco",
-          "director": "Jin Xie",
-          "filmYear": 1987,
-          "award": "Premio del público (IMDb)",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Furong Zhen (El poblado hibisco)",
+          "director": "Xie Jin, R. P",
+          "aliases": [
+            "El poblado hibisco",
+            "Fu rong zhen (El poblado hibisco)"
           ],
           "wins": [
-            "Premio del público (IMDb)"
+            "Menció Especial del Jurado",
+            "Premio del Público"
           ],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1987,
+          "award": "Menció Especial del Jurado · Premio del Público"
         },
         {
           "title": "Pelle el Conquistador",
           "director": "Bille August",
           "filmYear": 1987,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Pelle Erobreren"
+            "Pelle Erobreren",
+            "Pelle Erobreren (Pelle el Conquistador)"
           ]
         },
         {
           "title": "El tesoro",
           "director": "Antonio Mercero",
           "filmYear": 1988,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -2407,92 +2377,244 @@
           "title": "Anna y Cristina",
           "director": "Yurek Bogayevicz",
           "filmYear": 1987,
-          "award": "Mejor dirección novel · Yurek Bogayevicz · Premio François Truffaut · primera película (IMDb)",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio «François Truffaut» a la Mejor Ópera Prima",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Yurek Bogayevicz",
-            "Premio François Truffaut · primera película (IMDb)"
+            "Premio «François Truffaut» a la Mejor Ópera Prima"
           ],
-          "aliases": []
+          "aliases": [
+            "Anna",
+            "Anna (Anna y Cristina)"
+          ]
+        },
+        {
+          "title": "Huida a medianoche",
+          "director": "Martin Brest",
+          "filmYear": 1988,
+          "award": "Premio al Mejor Actor (ex aequo) · Charles Grodin",
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor Actor (ex aequo) · Charles Grodin"
+          ],
+          "aliases": [
+            "Midnight Run",
+            "Midnight Run (Huida a medianoche)"
+          ]
         },
         {
           "title": "Asunto de mujeres",
           "director": "Claude Chabrol",
           "filmYear": 1988,
-          "award": "Espiga de Plata · Mejor actriz · Isabelle Huppert",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Espiga de Plata · Premio a la Mejor Actriz · Isabelle Huppert",
+          "nominations": [],
           "wins": [
             "Espiga de Plata",
-            "Mejor actriz · Isabelle Huppert"
+            "Premio a la Mejor Actriz · Isabelle Huppert"
           ],
           "aliases": [
-            "Une affaire de femmes"
+            "Une affaire de femmes",
+            "Un affaire de femmes (Un asunto de mujeres)",
+            "Un asunto de mujeres",
+            "Une affaire de femmes (Asunto de mujeres)"
           ]
         },
         {
           "title": "Ruido y furia",
           "director": "Jean-Claude Brisseau",
           "filmYear": 1988,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "De bruit et de fureur"
+            "De bruit et de fureur",
+            "De bruit et de fureur (El ruido y la furia)",
+            "El ruido y la furia"
           ]
+        },
+        {
+          "title": "Voces distantes",
+          "director": "Terence Davies",
+          "filmYear": 1988,
+          "award": "Espiga de Oro · Premio a la Mejor Fotografía · William Diver y Patrick Duval",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro",
+            "Premio a la Mejor Fotografía · William Diver y Patrick Duval"
+          ],
+          "aliases": [
+            "Voces Distantes",
+            "Distant Voices, Still Lives",
+            "Distant Voices, still Lives (Voces distantes)",
+            "Distant Voices, Still Lives (Voces distantes)"
+          ]
+        },
+        {
+          "title": "Kialtas es kialtas (Los gritos)",
+          "director": "Zsolt Kezdi-Kovacs",
+          "aliases": [
+            "Los gritos"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1987,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Domani Accadra (Sucederá mañana)",
+          "director": "Daniele Luchetti",
+          "aliases": [
+            "Sucederá mañana"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Mariana, Mariana",
           "director": "Alberto Isaac",
           "filmYear": 1986,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Mariana Mariana"
+            "Mariana Mariana",
+            "Marian, Mariana"
           ]
         },
         {
           "title": "Matka Królów",
           "director": "Janusz Zaorski",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Matka krolow (Madre Krol y sus hijos)",
+            "Madre Krol y sus hijos"
+          ],
+          "filmYear": 1986
         },
         {
           "title": "Filyor",
           "director": "Roman Balayan",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio al Mejor Actor (ex aequo) · Oleg Yankovsky",
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor Actor (ex aequo) · Oleg Yankovsky"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Filer (El delator)",
+            "El delator",
+            "Filyor (El delator)"
+          ],
+          "filmYear": 1987
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1988,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
+        {
+          "title": "Tocade (Capricho)",
+          "director": "Michael Murray",
+          "aliases": [
+            "Capricho"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1987,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Poslední lup",
+          "director": "Jirí Barta",
+          "aliases": [
+            "El último robo",
+            "Poslední lup (El último robo)"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1987,
+          "award": "Espiga de Plata"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1988,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Ingmar Bergman. The Magic Lantern e Ingmar Bergman. The Director (Ingmar Bergman. La linterna mágica e Ingmar Bergman. El director)",
+          "director": "Michael Winterbottom",
+          "aliases": [
+            "Ingmar Bergman. La linterna mágica e Ingmar Bergman. El director"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 1988,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Des luths et delices (Laúdes y delicias)",
+          "director": "Izza Genini",
+          "aliases": [
+            "Laúdes y delicias"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1988,
+          "award": "Menciones especiales"
+        },
+        {
+          "title": "The Houses Are Full of Smoke (En el humo de esta época)",
+          "director": "Allan Francovich",
+          "aliases": [
+            "En el humo de esta época"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1987,
+          "award": "Menciones especiales"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1988,
+      "section": "Otros premios",
+      "films": [
+        {
+          "title": "Un pueblo llamado Hibisco",
+          "director": "Jin Xie",
+          "filmYear": 1987,
+          "award": "Premio del público",
+          "nominations": [
+            "Mejor película · Espiga de Oro"
+          ],
+          "wins": [
+            "Premio del público"
+          ],
+          "aliases": []
+        },
         {
           "title": "Ingmar Bergman: The Magic Lantern",
           "director": "",
-          "award": "Mejor documental (IMDb) · Michael Winterbottom",
+          "award": "Mejor documental · Michael Winterbottom",
           "nominations": [],
           "wins": [
-            "Mejor documental (IMDb) · Michael Winterbottom"
+            "Mejor documental · Michael Winterbottom"
           ],
           "aliases": []
         }

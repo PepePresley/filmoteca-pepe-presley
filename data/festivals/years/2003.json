@@ -3360,90 +3360,87 @@
     {
       "festival": "Seminci",
       "year": 2003,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
-          "title": "Sangre y oro",
-          "director": "Jafar Panahi",
-          "filmYear": 2003,
-          "award": "Mejor Película - Espiga de Oro",
+          "title": "Dogville",
+          "director": "Lars von Trier",
+          "aliases": [],
+          "wins": [],
           "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Osama",
-          "director": "Siddiq Barmak",
-          "filmYear": 2003,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": []
+          "award": "Selección oficial",
+          "filmYear": 2003
         },
         {
           "title": "El proyecto de Alexandra",
           "director": "Rolf de Heer",
           "filmYear": 2003,
-          "award": "Mejor actriz · Helen Buday",
+          "award": "Premio a la Mejor Actriz · Helen Buday",
           "nominations": [],
           "wins": [
-            "Mejor actriz · Helen Buday"
+            "Premio a la Mejor Actriz · Helen Buday"
           ],
           "aliases": [
-            "Alexandra's Project"
+            "Alexandra's Project",
+            "Alexandra’s Project (El proyecto de Alexandra)"
           ]
         },
         {
           "title": "Alila",
           "director": "Amos Gitai",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "Después de la vida",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "director": "Lucas Belvaux",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Après la vie (Después de la vida)"
+          ]
         },
         {
           "title": "Astronautas",
           "director": "Santi Amodeo",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Mención Especial · Santi Amodeo",
           "nominations": [],
-          "wins": [],
+          "wins": [
+            "Mención Especial · Santi Amodeo"
+          ],
           "aliases": []
         },
         {
-          "title": "Escapando",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
+          "title": "Cavale (Huida)",
+          "director": "Lucas Belvaux",
+          "aliases": [
+            "Huida"
+          ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Selección oficial"
         },
         {
           "title": "Le cerf-volant (La cometa)",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "director": "Randa Chahal Sabbag",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "La cometa"
+          ]
         },
         {
           "title": "Cleopatra",
           "director": "Eduardo Mignogna",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3452,80 +3449,131 @@
           "title": "The Cooler",
           "director": "Wayne Kramer",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
-          "title": "Una pareja perfecta",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
+          "title": "Un couple épatant (Una pareja estupenda)",
+          "director": "Lucas Belvaux",
+          "aliases": [
+            "Una pareja estupenda"
+          ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Selección oficial"
         },
         {
           "title": "Good Bye, Lenin!",
           "director": "Wolfgang Becker",
           "filmYear": 2003,
-          "award": "Premio Especial del Jurado",
+          "award": "Premio Especial del Jurado · Premio de la Juventud",
           "nominations": [],
           "wins": [
-            "Premio Especial del Jurado"
+            "Premio Especial del Jurado",
+            "Premio de la Juventud"
           ],
           "aliases": [
             "Good bye, Lenin!"
           ]
         },
         {
-          "title": "Las invasiones bárbaras",
-          "director": "Denys Arcand",
+          "title": "En carne viva",
+          "director": "Jane Campion",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Les invasions barbares"
+            "In the Cut",
+            "In the Cut (En carne viva)"
+          ]
+        },
+        {
+          "title": "Las invasiones bárbaras",
+          "director": "Denys Arcand",
+          "filmYear": 2003,
+          "award": "Premio del Público",
+          "nominations": [],
+          "wins": [
+            "Premio del Público"
+          ],
+          "aliases": [
+            "Les invasions barbares",
+            "Les invasions barbares (Las invasiones bárbaras)"
           ]
         },
         {
           "title": "Lost in Translation",
           "director": "Sofia Coppola",
           "filmYear": 2003,
-          "award": "Mejor dirección novel · Sofia Coppola · FIPRESCI - Jurado de la Crítica Internacional",
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director · Sofia Coppola · Premio FIPRESCI",
           "nominations": [],
           "wins": [
-            "Mejor dirección novel · Sofia Coppola",
-            "FIPRESCI - Jurado de la Crítica Internacional"
+            "Premio «Pilar Miró» al Mejor Nuevo Director · Sofia Coppola",
+            "Premio FIPRESCI"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Osama",
+          "director": "Siddiq Barmak",
+          "filmYear": 2003,
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
           ],
           "aliases": []
         },
         {
           "title": "Kitchen Stories",
-          "director": "",
-          "award": "Espiga de Plata · Mejor fotografía · Philip Øgaard",
+          "director": "Bent Hamer",
+          "award": "Espiga de Plata · Premio a la Mejor Dirección de Fotografía · Philip Øgaard",
           "nominations": [],
           "wins": [
             "Espiga de Plata",
-            "Mejor fotografía · Philip Øgaard"
+            "Premio a la Mejor Dirección de Fotografía · Philip Øgaard"
           ],
-          "aliases": []
+          "aliases": [
+            "Salmer fra kjokkenet (Kitchen Stories)",
+            "Salmer fra kjøkkenet (Kitchen Stories)",
+            "Historias de cocina",
+            "Salmer fra kjøkkenet"
+          ],
+          "filmYear": 2003
         },
         {
           "title": "La suerte dormida",
           "director": "Ángeles González-Sinde",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
+          "title": "Sangre y oro",
+          "director": "Jafar Panahi",
+          "filmYear": 2003,
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "aliases": [
+            "Talaye sorgh (Sandre y oro)",
+            "Sandre y oro",
+            "Talaye sorgh (Sangre y oro)"
+          ]
+        },
+        {
           "title": "Las voces de la noche",
           "director": "Salvador García Ruiz",
           "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3534,25 +3582,205 @@
           "title": "Wilbur se quiere suicidar",
           "director": "Lone Scherfig",
           "filmYear": 2002,
-          "award": "Mejor actor · Jamie Sives",
+          "award": "Premio al Mejor Actor · Jaime Sives",
           "nominations": [],
           "wins": [
-            "Mejor actor · Jamie Sives"
+            "Premio al Mejor Actor · Jaime Sives"
           ],
           "aliases": [
-            "Wilbur begår selvmord"
+            "Wilbur begår selvmord",
+            "Wilbur begar selvmord (Wilbur se quiere suicidar)",
+            "Wilbur begår selvmord (Wilbur se quiere suicidar)"
           ]
         },
         {
-          "title": "En carne viva",
-          "director": "Jane Campion",
-          "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
+          "title": "Todo lo demás",
+          "director": "Woody Allen – Gala de Clausura",
           "aliases": [
-            "In the Cut"
-          ]
+            "Anything Else",
+            "Anything Else (Todo lo demás)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 2003
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2003,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Knafayim shvurot (Alas rotas)",
+          "director": "Nir Bergman",
+          "aliases": [
+            "Alas rotas"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Goldfish Memory (La memoria de los peces)",
+          "director": "Liz Gill",
+          "aliases": [
+            "La memoria de los peces"
+          ],
+          "wins": [
+            "Largometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Largometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2003,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Ward 13",
+          "director": "Peter Cornwell",
+          "aliases": [
+            "Sala 13",
+            "Ward 13 (Sala 13)"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Sueños",
+          "director": "Daniel Guzmán",
+          "aliases": [],
+          "wins": [
+            "Espiga de Oro al Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Espiga de Oro al Cortometraje"
+        },
+        {
+          "title": "The Projectionist (El proyeccionista)",
+          "director": "Michael Bates",
+          "aliases": [
+            "El proyeccionista"
+          ],
+          "wins": [
+            "Espiga de Plata al Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Espiga de Plata al Cortometraje"
+        },
+        {
+          "title": "Harvie Krumpet",
+          "director": "Adam Elliot",
+          "aliases": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Les baisers des autres (Los besos de los demás)",
+          "director": "Carine Tardieu",
+          "aliases": [
+            "Los besos de los demás"
+          ],
+          "wins": [
+            "Premio UIP Valladolid"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Premio UIP Valladolid"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2003,
+      "section": "Punto de Encuentro · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Dunas",
+          "director": "Rafael Ruiz",
+          "aliases": [],
+          "wins": [
+            "Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Cortometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2003,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "S21, la machine de mort khmère rouge (S21, la máquina de muerte de los jemeres rojos)",
+          "director": "Rithy Panh. Camboya y Francia",
+          "aliases": [
+            "S21, la máquina de muerte de los jemeres rojos"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Choropampa, el precio del oro",
+          "director": "Ernesto Cabellos y Stephanie Boyd",
+          "aliases": [],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "The Day I Will Never Forget (El día que nunca olvidaré)",
+          "director": "Kim Longinotto",
+          "aliases": [
+            "El día que nunca olvidaré"
+          ],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "Histoire d’un secret (Historia de un secreto)",
+          "director": "Mariana Otero",
+          "aliases": [
+            "Historia de un secreto"
+          ],
+          "wins": [
+            "Premio Especial XX Aniversario"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Premio Especial XX Aniversario"
         }
       ]
     }

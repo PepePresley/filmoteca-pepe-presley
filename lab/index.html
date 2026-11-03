@@ -527,7 +527,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=14"></script>
+<script src="../app/festival-config.js?v=15"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -595,12 +595,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-cierre-20261029");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-oficial-20261103-2");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-cierre-20261029");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-oficial-20261103-2");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }

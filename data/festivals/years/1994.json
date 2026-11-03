@@ -2289,97 +2289,62 @@
     {
       "festival": "Seminci",
       "year": 1994,
-      "section": "Golden Spike / Espiga de Oro — selección IMDb",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "A través de los olivos",
-          "director": "Abbas Kiarostami",
-          "filmYear": 1994,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Mi querida hermana",
-          "director": "Nancy Meckler",
-          "filmYear": 1994,
-          "award": "Mejor actriz · Joely Richardson · Mejor dirección novel · Nancy Meckler · Mejor actriz · Jodhi May, Joely Richardson · Premio del Jurado Joven · Premio del Público",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor actriz · Joely Richardson",
-            "Mejor dirección novel · Nancy Meckler",
-            "Mejor actriz · Jodhi May, Joely Richardson",
-            "Premio del Jurado Joven",
-            "Premio del Público"
-          ],
-          "aliases": [
-            "Sister My Sister"
-          ]
-        },
         {
           "title": "Bab El Oued City",
           "director": "Merzak Allouache",
           "filmYear": 1994,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Bab el-Oued City"
+          ]
         },
         {
           "title": "La reina de los bandidos",
           "director": "Shekhar Kapur",
           "filmYear": 1994,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Bandit Queen (La reina de los bandidos)"
+          ]
         },
         {
           "title": "Freda y Camilla",
           "director": "Deepa Mehta",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Camilla (Freda y Camilla)"
+          ]
         },
         {
           "title": "Exótica",
           "director": "Atom Egoyan",
           "filmYear": 1994,
           "award": "Espiga de Plata",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Espiga de Plata"
           ],
           "aliases": [
-            "Exotica"
+            "Exotica",
+            "Exotica (Exótica)"
           ]
         },
         {
           "title": "Fresh",
           "director": "Boaz Yakin",
           "filmYear": 1994,
-          "award": "Mejor dirección novel · Boaz Yakin",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio al Mejor Nuevo Director · Boaz Yakin",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Boaz Yakin"
+            "Premio al Mejor Nuevo Director · Boaz Yakin"
           ],
           "aliases": []
         },
@@ -2387,12 +2352,10 @@
           "title": "Ladybird, Ladybird",
           "director": "Ken Loach",
           "filmYear": 1994,
-          "award": "Mejor actor · Vladimir Vega",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio al Mejor Actor · Vladimir Vega",
+          "nominations": [],
           "wins": [
-            "Mejor actor · Vladimir Vega"
+            "Premio al Mejor Actor · Vladimir Vega"
           ],
           "aliases": [
             "Ladybird Ladybird"
@@ -2402,10 +2365,8 @@
           "title": "Mar de luna",
           "director": "Manolo Matji",
           "filmYear": 1995,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -2413,10 +2374,8 @@
           "title": "Sirens (Sirenas)",
           "director": "John Duigan",
           "filmYear": 1993,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "Sirenas",
@@ -2424,52 +2383,83 @@
           ]
         },
         {
+          "title": "Mi querida hermana",
+          "director": "Nancy Meckler",
+          "filmYear": 1994,
+          "award": "Premio al Mejor Nuevo Director · Nancy Meckler · Premio a la Mejor Actriz · Joely Richardson y Jodhi May · Premio del Público · Premio de la Juventud",
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor Nuevo Director · Nancy Meckler",
+            "Premio a la Mejor Actriz · Joely Richardson y Jodhi May",
+            "Premio del Público",
+            "Premio de la Juventud"
+          ],
+          "aliases": [
+            "Sister My Sister",
+            "Sister My SIster (Mi querida hermana)",
+            "Sister my Sister (Mi querida hermana)"
+          ]
+        },
+        {
           "title": "Mortalmente María",
           "director": "Tom Tykwer",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Die tödliche Maria (Mortalmente María)"
+          ],
+          "filmYear": 1993
         },
         {
           "title": "Tom & Viv",
           "director": "Brian Gilbert",
           "filmYear": 1994,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Woyzeck",
-          "director": "János Szász",
-          "filmYear": 1994,
-          "award": "Mejor fotografía · Tibor Máthé",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor fotografía · Tibor Máthé"
-          ],
-          "aliases": []
+          "aliases": [
+            "Tom&Viv"
+          ]
         },
         {
           "title": "Vania en la calle 42",
           "director": "Louis Malle",
           "filmYear": 1994,
           "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio Especial del Jurado"
           ],
           "aliases": [
-            "Vanya on 42nd Street"
+            "Vanya on 42nd Street",
+            "Vanya on 42nd Street (Vania)",
+            "Vania"
+          ]
+        },
+        {
+          "title": "Woyzeck",
+          "director": "János Szász",
+          "filmYear": 1994,
+          "award": "Premio a la Mejor Dirección de Fotografía · Tibor Máthé",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Dirección de Fotografía · Tibor Máthé"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "A través de los olivos",
+          "director": "Abbas Kiarostami",
+          "filmYear": 1994,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Zir e darâkhatân é zeyton (A través de los olivos)",
+            "Zire darakhatan zeyton (A través de los olivos)"
           ]
         }
       ]
@@ -2477,7 +2467,86 @@
     {
       "festival": "Seminci",
       "year": 1994,
-      "section": "Películas premiadas; sección no indicada por las fuentes",
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Os salteadores (Los bandidos)",
+          "director": "Abi Feijó",
+          "aliases": [
+            "Los bandidos"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1993,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Syrup (Sirope)",
+          "director": "Paul Unwin",
+          "aliases": [
+            "Sirope"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1993,
+          "award": "Espiga de Plata"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1994,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Anna: 6-18",
+          "director": "Nikita Mihalkov",
+          "aliases": [],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 1993,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Metaal en melancholie",
+          "director": "Heddy Honigmann",
+          "aliases": [
+            "Metal y melancolía",
+            "Metaal en melancholie (Metal y melancolía)"
+          ],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 1994,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "Zalazak stoljéca (Testament L.Z.) (Testamento)",
+          "director": "Lordan Zafranovic. Croacia, R. Checa",
+          "aliases": [
+            "Testament L.Z.",
+            "Testamento"
+          ],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 1994,
+          "award": "Segundos Premios"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1994,
+      "section": "Otros premios",
       "films": [
         {
           "title": "Anna ot 6 do 18",

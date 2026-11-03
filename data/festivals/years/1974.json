@@ -4639,23 +4639,238 @@
     {
       "festival": "Seminci",
       "year": 1974,
-      "section": "Espiga de Oro / Golden Spike (selección según IMDb, con resultados FilmAffinity)",
+      "section": "Largometrajes",
+      "films": [
+        {
+          "title": "Ludwig II (Luis II)",
+          "director": "Hans Jürgen Syberberg",
+          "aliases": [
+            "Luis II"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Pueblo chico",
+          "director": "Antonio Eguino",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El valle de las abejas",
+          "director": "František Vláčil",
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Udoli vcel (El valle de las abejas)",
+            "Údolí včel"
+          ],
+          "filmYear": 1968
+        },
+        {
+          "title": "La piel en el asfalto",
+          "director": "James William Guercio",
+          "filmYear": 1973,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Electra Glide in Blue",
+            "Electra Glide in Blue (La piel en el asfalto)"
+          ]
+        },
+        {
+          "title": "Risas y lágrimas",
+          "director": "Martin Ritt",
+          "filmYear": 1972,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Pete 'n' Tillie",
+            "Pete ‘N’ Tillie (Rosas y lágrimas)",
+            "Rosas y lágrimas"
+          ]
+        },
+        {
+          "title": "Serpico",
+          "director": "Sidney Lumet",
+          "filmYear": 1973,
+          "award": "Premio San Gregorio · Medalla del Círculo de Escritores Cinematográficos al Mejor Guión",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio",
+            "Medalla del Círculo de Escritores Cinematográficos al Mejor Guión"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Les zozos",
+          "director": "Pascal Thomas",
+          "filmYear": 1973,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Les Zozos"
+          ]
+        },
+        {
+          "title": "Un trueno lejano",
+          "director": "Satyajit Ray",
+          "filmYear": 1973,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Ashani sanket (Trueno lejano)",
+            "Trueno lejano"
+          ]
+        },
+        {
+          "title": "Lucky Luciano",
+          "director": "Francesco Rosi",
+          "filmYear": 1973,
+          "award": "Premio Especial de la Comisión Permanente (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio Especial de la Comisión Permanente (ex aequo)"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Esa clase de amor",
+          "director": "Alberto Bevilacqua",
+          "filmYear": 1972,
+          "award": "Premio Especial de la Comisión Permanente (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio Especial de la Comisión Permanente (ex aequo)"
+          ],
+          "aliases": [
+            "Questa specie d'amore",
+            "Queta specie d’amore (Esta clase de amor)",
+            "Esta clase de amor",
+            "Questa specie d’amore (Esa clase de amor)"
+          ]
+        },
+        {
+          "title": "El castillo de la pureza",
+          "director": "Arturo Ripstein",
+          "filmYear": 1973,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Poslizg",
+          "director": "Jan Lomnicki",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Poslizg (El patinazo)",
+            "El patinazo"
+          ]
+        },
+        {
+          "title": "Amarcord",
+          "director": "Federico Fellini",
+          "filmYear": 1973,
+          "award": "Premio 19 Semana",
+          "nominations": [],
+          "wins": [
+            "Premio 19 Semana"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Jesucristo Superstar",
+          "director": "Norman Jewison",
+          "filmYear": 1973,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Jesus Christ Superstar",
+            "Jesus Christ Superstar (Jesucristo Superstar)"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1974,
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
           "title": "Harold y Maude",
           "director": "Hal Ashby",
           "filmYear": 1971,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Espiga de Oro",
+          "nominations": [],
           "wins": [
-            "Mejor película · Espiga de Oro"
+            "Espiga de Oro"
           ],
           "aliases": [
-            "Harold and Maude"
+            "Harold and Maude",
+            "Harold and Maude (Harold y Maude)"
           ]
         },
+        {
+          "title": "un rey virgen)",
+          "director": "Hans Jürgen Syberberg",
+          "aliases": [],
+          "wins": [
+            "Premio Especial del Jurado · Ludwig II, Requiem für einen jungfräulichen König (Luis, réquiem"
+          ],
+          "nominations": [],
+          "filmYear": 1972,
+          "award": "Premio Especial del Jurado · Ludwig II, Requiem für einen jungfräulichen König (Luis, réquiem"
+        },
+        {
+          "title": "Los viajes escolares",
+          "director": "Jaime Chávarri",
+          "aliases": [],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1974,
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1974,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "La torre de Babel, S.A",
+          "director": "Antonio Pérez Olea",
+          "aliases": [],
+          "wins": [
+            "Premio «Eslabón 1974» de la Escuela Oficial de Cinematografía"
+          ],
+          "nominations": [],
+          "filmYear": 1972,
+          "award": "Premio «Eslabón 1974» de la Escuela Oficial de Cinematografía"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1974,
+      "section": "Otros premios",
+      "films": [
         {
           "title": "Ludwig, réquiem por un rey virgen",
           "director": "Hans-Jürgen Syberberg",
@@ -4670,161 +4885,6 @@
           "aliases": [
             "Ludwig: Réquiem por un rey virgen",
             "Ludwig - Requiem für einen jungfräulichen König"
-          ]
-        },
-        {
-          "title": "Pueblo chico",
-          "director": "Antonio Eguino",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "El valle de las abejas",
-          "director": "František Vláčil",
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Premio de la Ciudad de Valladolid"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "La piel en el asfalto",
-          "director": "James William Guercio",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Electra Glide in Blue"
-          ]
-        },
-        {
-          "title": "Risas y lágrimas",
-          "director": "Martin Ritt",
-          "filmYear": 1972,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Pete 'n' Tillie"
-          ]
-        },
-        {
-          "title": "Serpico",
-          "director": "Sidney Lumet",
-          "filmYear": 1973,
-          "award": "Premio San Gregorio · Premio CEC",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Premio San Gregorio",
-            "Premio CEC"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Les zozos",
-          "director": "Pascal Thomas",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Les Zozos"
-          ]
-        },
-        {
-          "title": "Un trueno lejano",
-          "director": "Satyajit Ray",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Lucky Luciano",
-          "director": "Francesco Rosi",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Esa clase de amor",
-          "director": "Alberto Bevilacqua",
-          "filmYear": 1972,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Questa specie d'amore"
-          ]
-        },
-        {
-          "title": "El castillo de la pureza",
-          "director": "Arturo Ripstein",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Poslizg",
-          "director": "Jan Lomnicki",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Amarcord",
-          "director": "Federico Fellini",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Jesucristo Superstar",
-          "director": "Norman Jewison",
-          "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Jesus Christ Superstar"
           ]
         }
       ]

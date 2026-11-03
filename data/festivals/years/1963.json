@@ -5327,52 +5327,230 @@
     {
       "festival": "Seminci",
       "year": 1963,
-      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "section": "Largometrajes",
       "films": [
+        {
+          "title": "Ressala ila allah (Carta a Dios)",
+          "director": "Kamal Attia, R. Árabe Unida",
+          "aliases": [
+            "Carta a Dios"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Trono de sangre",
+          "director": "Akira Kurosawa",
+          "aliases": [
+            "Kumonosu jô (El trono de sangre)",
+            "El trono de sangre",
+            "Kumonoso-djo (Trono de sangre)"
+          ],
+          "wins": [
+            "Placas de Honor de la Comisión Consultiva"
+          ],
+          "nominations": [],
+          "award": "Placas de Honor de la Comisión Consultiva",
+          "filmYear": 1957
+        },
+        {
+          "title": "The Power and the Glory (El poder y la gloria)",
+          "director": "Marc Daniels",
+          "aliases": [
+            "El poder y la gloria"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Ánimas Trujano (El hombre importante)",
+          "director": "Ismael Rodríguez",
+          "aliases": [
+            "Ánimas Trujano",
+            "Animas Trujano"
+          ],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
+          ],
+          "nominations": [],
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+          "filmYear": 1961
+        },
+        {
+          "title": "Ti-koyo e is suo pescecane (Ti-koyo y el tiburón)",
+          "director": "F. Quilici",
+          "aliases": [
+            "Ti-koyo y el tiburón"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Escándalo en las aulas",
+          "director": "Peter Glenville",
+          "aliases": [
+            "Escándalo en las aulas",
+            "Term of Trial (Escándalo en las aulas)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1962
+        },
         {
           "title": "Una larga ausencia",
           "director": "Henri Colpi",
           "filmYear": 1961,
-          "award": "Mejor película · Espiga de Oro",
+          "award": "Espiga de Oro (ex aequo)",
           "nominations": [],
           "wins": [
-            "Mejor película · Espiga de Oro"
+            "Espiga de Oro (ex aequo)"
           ],
           "aliases": [
-            "Une aussi longue absence"
+            "Une aussi longue absence",
+            "Une aussi longue absence (Una larga ausencia)"
           ]
+        },
+        {
+          "title": "Noche de verano",
+          "director": "Jorge Grau",
+          "filmYear": 1963,
+          "award": "Mención Especial del Jurado · Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Mención Especial del Jurado",
+            "Menciones Especiales"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Pro mundi vita (Por la vida del mundo)",
+          "director": "Rudolf Reibner",
+          "aliases": [
+            "Por la vida del mundo"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El milagro de Malaquías",
+          "director": "Bernhard Wicki",
+          "filmYear": 1961,
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Das Wunder des Malachias",
+            "Das wunder des Malachias (El milagro de Malaquías)",
+            "Das Wunder des Malachias (El milagro de Malaquías)"
+          ]
+        },
+        {
+          "title": "Moments in the Night (Momentos en la noche)",
+          "director": "Eino Ruutsalo",
+          "aliases": [
+            "Momentos en la noche"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "La steppa",
+          "director": "Alberto Lattuada",
+          "filmYear": 1962,
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "aliases": [
+            "La steppa (La estepa)",
+            "La estepa"
+          ]
+        },
+        {
+          "title": "La mano sul fucile (El fúsil en la mano)",
+          "director": "Luigi Turolla",
+          "aliases": [
+            "El fúsil en la mano",
+            "La mano sul fucile (La mano sobre el fusil)",
+            "La mano sobre el fusil"
+          ],
+          "wins": [
+            "Menciones Especiales"
+          ],
+          "nominations": [],
+          "award": "Menciones Especiales"
+        },
+        {
+          "title": "El proceso de Juana de Arco",
+          "director": "Robert Bresson",
+          "filmYear": 1962,
+          "award": "Lábaro de Oro",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro"
+          ],
+          "aliases": [
+            "Procès de Jeanne d'Arc",
+            "Procés de Jeanne d’Arc (El proceso de Juana de Arco)",
+            "Le procès de Jeanne d’Arc (El proceso de Juana de Arco)"
+          ]
+        },
+        {
+          "title": "El proceso",
+          "director": "Orson Welles",
+          "filmYear": 1962,
+          "award": "Trofeo de la Federación Nacional de Cineclubs · Premio FIPRESCI · Placas de Honor de la Comisión Consultiva",
+          "nominations": [],
+          "wins": [
+            "Trofeo de la Federación Nacional de Cineclubs",
+            "Premio FIPRESCI",
+            "Placas de Honor de la Comisión Consultiva"
+          ],
+          "aliases": [
+            "Le Procès",
+            "Le procès (El proceso)"
+          ]
+        },
+        {
+          "title": "Concurso Ecuménico Vaticano II",
+          "director": "Antonio Petrucci",
+          "aliases": [
+            "La grande ora: Concilio Ecumenico Vaticano II (Concilio Ecuménico Vaticano II)",
+            "Concilio Ecuménico Vaticano II"
+          ],
+          "wins": [
+            "Placas de Honor de la Comisión Consultiva"
+          ],
+          "nominations": [],
+          "award": "Placas de Honor de la Comisión Consultiva"
+        },
+        {
+          "title": "El valle de los caídos",
+          "director": "Andrew Marton",
+          "aliases": [],
+          "wins": [
+            "Placas de Honor de la Comisión Consultiva"
+          ],
+          "nominations": [],
+          "filmYear": 1963,
+          "award": "Placas de Honor de la Comisión Consultiva"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1963,
-      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
-        {
-          "title": "Noche de verano",
-          "director": "Jorge Grau",
-          "filmYear": 1963,
-          "award": "Premio Especial del Jurado",
-          "nominations": [],
-          "wins": [
-            "Premio Especial del Jurado"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "El milagro de Malaquías",
-          "director": "Bernhard Wicki",
-          "filmYear": 1961,
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [],
-          "wins": [
-            "Premio de la Ciudad de Valladolid"
-          ],
-          "aliases": [
-            "Das Wunder des Malachias"
-          ]
-        },
         {
           "title": "Heureux anniversaire",
           "director": "Pierre Étaix, Jean-Claude Carrière",
@@ -5382,61 +5560,11 @@
           "wins": [
             "Premio San Gregorio"
           ],
-          "aliases": []
-        },
-        {
-          "title": "El proceso",
-          "director": "Orson Welles",
-          "filmYear": 1962,
-          "award": "Premio FIPRESCI · Mejor película",
-          "nominations": [],
-          "wins": [
-            "Premio FIPRESCI · Mejor película"
-          ],
           "aliases": [
-            "Le Procès"
+            "Heureux anniversaire (Feliz aniversario)",
+            "Feliz aniversario"
           ]
         },
-        {
-          "title": "El proceso de Juana de Arco",
-          "director": "Robert Bresson",
-          "filmYear": 1962,
-          "award": "Golden Labarum · Mejor película",
-          "nominations": [],
-          "wins": [
-            "Golden Labarum · Mejor película"
-          ],
-          "aliases": [
-            "Procès de Jeanne d'Arc"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1963,
-      "section": "Películas premiadas · sección oficial",
-      "films": [
-        {
-          "title": "La steppa",
-          "director": "Alberto Lattuada",
-          "filmYear": 1962,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": [
-            "La steppa"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1963,
-      "section": "Cortometrajes premiados",
-      "films": [
         {
           "title": "La misa en el mundo",
           "director": "Dominique Delouche",
@@ -5459,9 +5587,28 @@
           "wins": [
             "Espiga de Oro"
           ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1963,
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "Elisa",
+          "director": "Frank Perry",
           "aliases": [
-            "Tiempo abierto"
-          ]
+            "David and Lisa",
+            "David and Lisa (Elisa)"
+          ],
+          "wins": [
+            "Mención Especial"
+          ],
+          "nominations": [],
+          "filmYear": 1962,
+          "award": "Mención Especial"
         }
       ]
     }

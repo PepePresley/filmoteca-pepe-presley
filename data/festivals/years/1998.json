@@ -2571,135 +2571,361 @@
     {
       "festival": "Seminci",
       "year": 1998,
-      "section": "Golden Spike / Espiga de Oro — selección IMDb",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Mi nombre es Joe",
-          "director": "Ken Loach",
-          "filmYear": 1998,
-          "award": "Mejor Película - Espiga de Oro · Mejor actor · Peter Mullan · Premio del Público",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor Película - Espiga de Oro",
-            "Mejor actor · Peter Mullan",
-            "Premio del Público"
-          ],
-          "aliases": [
-            "My Name Is Joe"
-          ]
-        },
         {
           "title": "El polvorín",
           "director": "Goran Paskaljevic",
           "filmYear": 1998,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Lágrimas negras",
-          "director": "Fernando Bauluz",
-          "award": "Mejor actriz · Ariadna Gil",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor actriz · Ariadna Gil"
-          ],
-          "aliases": []
+          "aliases": [
+            "Bure Baruta (El polvorín)"
+          ]
         },
         {
           "title": "The Climb",
           "director": "Bob Swaim",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "La última noche",
-          "director": "Don McKellar",
-          "filmYear": 1998,
-          "award": "Mención especial del Jurado Joven",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mención especial del Jurado Joven"
-          ],
           "aliases": [
-            "Last Night (La última noche)"
-          ]
+            "The Climb (La escalada)",
+            "La escalada"
+          ],
+          "filmYear": 1997
         },
         {
           "title": "Hazme bailar mi canción",
           "director": "Rolf de Heer",
           "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio Especial del Jurado"
           ],
-          "aliases": []
-        },
-        {
-          "title": "Lulu on the Bridge",
-          "director": "Paul Auster",
-          "filmYear": 1998,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Finisterre: Donde termina el mundo",
-          "director": "Xavier Villaverde",
-          "filmYear": 1998,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
           "aliases": [
-            "Finisterre, donde termina el mundo"
-          ]
+            "Dance Me To My Song (Hazme bailar mi canción)",
+            "Dance Me to my Song (Hazme bailar mi canción)",
+            "Dance Me to My Song"
+          ],
+          "filmYear": 1998
         },
         {
-          "title": "Rosie",
-          "director": "Patrice Toye",
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
+          "title": "Finisterre",
+          "director": "Xavier Villaverde",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El general",
+          "director": "John Boorman",
+          "aliases": [
+            "The General"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1998
         },
         {
           "title": "El chico de Chaaba",
           "director": "Christophe Ruggia",
           "filmYear": 1998,
-          "award": "Mejor dirección novel · Christophe Ruggia · Mejor dirección novel",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director (ex aequo) · Christophe Ruggia",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Christophe Ruggia",
-            "Mejor dirección novel"
+            "Premio «Pilar Miró» al Mejor Nuevo Director (ex aequo) · Christophe Ruggia"
           ],
           "aliases": [
-            "El chico del chaâba"
+            "El chico del chaâba",
+            "Le gone du Chaâba (El niño de ‘Chaâba’)",
+            "El niño de ‘Chaâba’",
+            "Le gone du Chaâba (El chico de Chaâba)"
           ]
         },
+        {
+          "title": "High Art",
+          "director": "Lisa Cholodenko",
+          "filmYear": 1998,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Los idiotas",
+          "director": "Lars von Trier",
+          "filmYear": 1998,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Idioterne",
+            "Idioterne (Idiotas)",
+            "Idiotas"
+          ]
+        },
+        {
+          "title": "Knoflíkári",
+          "director": "Petr Zelenka",
+          "filmYear": 1997,
+          "award": "Premio FIPRESCI",
+          "nominations": [],
+          "wins": [
+            "Premio FIPRESCI"
+          ],
+          "aliases": [
+            "Knoflíkáři",
+            "Knoflíkári (Botoneros)",
+            "Botoneros"
+          ]
+        },
+        {
+          "title": "Lágrimas negras",
+          "director": "Fernando Bauluz",
+          "award": "Premio a la Mejor Actriz · Ariadna Gil",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Actriz · Ariadna Gil"
+          ],
+          "aliases": [],
+          "filmYear": 1999
+        },
+        {
+          "title": "La última noche",
+          "director": "Don McKellar",
+          "filmYear": 1998,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Last Night (La última noche)"
+          ]
+        },
+        {
+          "title": "Lulu on the Bridge",
+          "director": "Paul Auster",
+          "filmYear": 1998,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Mi nombre es Joe",
+          "director": "Ken Loach",
+          "filmYear": 1998,
+          "award": "Espiga de Oro · Premio al Mejor Actor · Peter Mullan · Premio del Público",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro",
+            "Premio al Mejor Actor · Peter Mullan",
+            "Premio del Público"
+          ],
+          "aliases": [
+            "My Name Is Joe",
+            "My name is Joe (Mi nombre es Joe)",
+            "My Name Is Joe (Mi nombre es Joe)"
+          ]
+        },
+        {
+          "title": "Rosie",
+          "director": "Patrice Toye",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La Manzana",
+          "director": "Samira Makhmalbaf",
+          "aliases": [
+            "La manzana",
+            "Sib (La manzana)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 1998
+        },
+        {
+          "title": "Los herederos",
+          "director": "Stefan Ruzowitzky",
+          "filmYear": 1998,
+          "award": "Espiga de Plata · Premio FIPRESCI",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata",
+            "Premio FIPRESCI"
+          ],
+          "aliases": [
+            "Die Siebtelbauern",
+            "Die Siebtelbauern (Los herederos)",
+            "Die siebtelbauern (Los herederos)"
+          ]
+        },
+        {
+          "title": "El show de Truman",
+          "director": "Peter Weir",
+          "filmYear": 1998,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "The Truman Show",
+            "The Truman Show (El ‘Show’ de Truman)",
+            "El ‘Show’ de Truman"
+          ]
+        },
+        {
+          "title": "Twentyfourseven (24.7)",
+          "director": "Shane Meadows",
+          "filmYear": 1997,
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director (ex aequo) · Shane Meadows · Premio a la Mejor Dirección de Fotografía · Ashley Rowe",
+          "nominations": [],
+          "wins": [
+            "Premio «Pilar Miró» al Mejor Nuevo Director (ex aequo) · Shane Meadows",
+            "Premio a la Mejor Dirección de Fotografía · Ashley Rowe"
+          ],
+          "aliases": [
+            "TwentyFourSeven",
+            "Twenty Four Seven (Veinticuatro punto siete)",
+            "Veinticuatro punto siete"
+          ]
+        },
+        {
+          "title": "West Beirut",
+          "director": "Ziad Doueiri",
+          "filmYear": 1998,
+          "award": "Premio de la Juventud",
+          "nominations": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "aliases": [
+            "West Beyrouth",
+            "West Beyrouth (West Beirut)"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1998,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "I Want You",
+          "director": "Michael Winterbottom",
+          "aliases": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 1998,
+          "award": "Premio de la Juventud"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1998,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Tout le monde descend (Final de trayecto)",
+          "director": "Laurent Bachet",
+          "aliases": [
+            "Final de trayecto"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1998,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Deux bananes flambées et l’addition (Dos plátanos flambeados y la cuenta)",
+          "director": "Gilles Pujol",
+          "aliases": [
+            "Dos plátanos flambeados y la cuenta"
+          ],
+          "wins": [
+            "Espiga de Plata (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 1998,
+          "award": "Espiga de Plata (ex aequo)"
+        },
+        {
+          "title": "Frank The Wrabbit",
+          "director": "John Weldon",
+          "aliases": [],
+          "wins": [
+            "Espiga de Plata (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 1998,
+          "award": "Espiga de Plata (ex aequo)"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1998,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "En frusen dröm",
+          "director": "Jan Troell",
+          "award": "Premio Tiempo de Historia",
+          "nominations": [],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "aliases": [
+            "En frusen dröm (Su gélido sueño)",
+            "Su gélido sueño"
+          ],
+          "filmYear": 1997
+        },
+        {
+          "title": "The Brandon Teena Story (La historia de Brandon Teena)",
+          "director": "Susan Muska y Gréta Olafsdóttir",
+          "aliases": [
+            "La historia de Brandon Teena"
+          ],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 1998,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "Diario di una siciliana ribelle (Una chica contra la mafia)",
+          "director": "Marco Amenta",
+          "aliases": [
+            "Una chica contra la mafia"
+          ],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 1997,
+          "award": "Segundos Premios"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1998,
+      "section": "Otros premios",
+      "films": [
         {
           "title": "Sib",
           "director": "Samira Makhmalbaf",
@@ -2713,113 +2939,6 @@
           "aliases": []
         },
         {
-          "title": "High Art",
-          "director": "Lisa Cholodenko",
-          "filmYear": 1998,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Los herederos",
-          "director": "Stefan Ruzowitzky",
-          "filmYear": 1998,
-          "award": "Espiga de Plata · Mención especial FIPRESCI",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Espiga de Plata",
-            "Mención especial FIPRESCI"
-          ],
-          "aliases": [
-            "Die Siebtelbauern"
-          ]
-        },
-        {
-          "title": "Los idiotas",
-          "director": "Lars von Trier",
-          "filmYear": 1998,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Idioterne"
-          ]
-        },
-        {
-          "title": "El show de Truman",
-          "director": "Peter Weir",
-          "filmYear": 1998,
-          "award": "En competición según la lista de candidatos Golden Spike de IMDb",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "The Truman Show"
-          ]
-        },
-        {
-          "title": "Twentyfourseven (24.7)",
-          "director": "Shane Meadows",
-          "filmYear": 1997,
-          "award": "Mejor dirección novel · Shane Meadows · Mejor fotografía · Ashley Rowe · Mejor dirección novel",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor dirección novel · Shane Meadows",
-            "Mejor fotografía · Ashley Rowe",
-            "Mejor dirección novel"
-          ],
-          "aliases": [
-            "TwentyFourSeven"
-          ]
-        },
-        {
-          "title": "Knoflíkári",
-          "director": "Petr Zelenka",
-          "filmYear": 1997,
-          "award": "FIPRESCI - Jurado de la Crítica Internacional",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "FIPRESCI - Jurado de la Crítica Internacional"
-          ],
-          "aliases": [
-            "Knoflíkáři"
-          ]
-        },
-        {
-          "title": "West Beirut",
-          "director": "Ziad Doueiri",
-          "filmYear": 1998,
-          "award": "Premio del Jurado Joven",
-          "nominations": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "wins": [
-            "Premio del Jurado Joven"
-          ],
-          "aliases": [
-            "West Beyrouth"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1998,
-      "section": "Películas premiadas; sección no indicada por las fuentes",
-      "films": [
-        {
           "title": "Knoflíkári (The Button-Pushers)",
           "director": "Petr Zelenka",
           "filmYear": 1997,
@@ -2831,16 +2950,6 @@
           "aliases": [
             "Knoflíkáři"
           ]
-        },
-        {
-          "title": "En frusen dröm",
-          "director": "",
-          "award": "Premio Tiempo de Historia · Mejor documental",
-          "nominations": [],
-          "wins": [
-            "Premio Tiempo de Historia · Mejor documental"
-          ],
-          "aliases": []
         }
       ]
     }
