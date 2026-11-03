@@ -2290,107 +2290,72 @@
     {
       "festival": "Seminci",
       "year": 1989,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "El verano de Aviya",
-          "director": "Eli Cohen",
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Cinco días en junio",
-          "director": "Michel Legrand",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Gorod Zero",
-          "director": "Karen Shakhnazarov",
-          "award": "Espiga de Plata",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Espiga de Plata"
-          ],
-          "aliases": [
-            "Ciudad cero"
-          ]
-        },
         {
           "title": "Ojos azules",
           "director": "Reinhard Hauff",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Blauägig (Ojos azules)"
+          ]
         },
         {
           "title": "Leche de otoño",
           "director": "Joseph Vilsmaier",
           "filmYear": 1989,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio a la Mejor Actriz · Dana Vávrová",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Actriz · Dana Vávrová"
           ],
-          "wins": [],
           "aliases": [
-            "Herbstmilch"
+            "Herbstmilch",
+            "Herbstmilch (Leche de otoño9",
+            "Herbstmilch (Leche de otoño)"
           ]
         },
         {
           "title": "Wallers letzter Gang",
           "director": "Christian Wagner",
-          "award": "Mejor dirección novel (IMDb) · Christian Wagner",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio a la Mejor Primera Película",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel (IMDb) · Christian Wagner"
+            "Premio a la Mejor Primera Película"
           ],
-          "aliases": []
+          "aliases": [
+            "Wallers Letzter Gang (El último viaje de Waller)",
+            "El último viaje de Waller",
+            "Wallers letzter gang (El último viaje de Waller)"
+          ]
         },
         {
           "title": "The Year My Voice Broke",
           "director": "John Duigan",
           "filmYear": 1987,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "The Year My Voice Broke (El año en que me cambió la voz)",
+            "El año en que me cambió la voz"
+          ]
         },
         {
           "title": "Caracas",
           "director": "Michael Schottenberg",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "Blueberry Hill",
           "director": "Robbe De Hert",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -2398,23 +2363,22 @@
           "title": "Yaaba",
           "director": "Idrissa Ouedraogo",
           "filmYear": 1989,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Yaaba (La abuela)",
+            "La abuela"
+          ]
         },
         {
           "title": "Speaking Parts",
           "director": "Atom Egoyan",
           "filmYear": 1990,
-          "award": "Mención especial (IMDb)",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Menció Especial del Jurado",
+          "nominations": [],
           "wins": [
-            "Mención especial (IMDb)"
+            "Menció Especial del Jurado"
           ],
           "aliases": [
             "Guiones cambiados"
@@ -2424,90 +2388,127 @@
           "title": "El fin de los buenos tiempos",
           "director": "Jiří Menzel",
           "filmYear": 1990,
-          "award": "Mejor fotografía · Jaromír Sofr",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio a la Mejor Dirección de Fotografía · Jaromir Sofr",
+          "nominations": [],
           "wins": [
-            "Mejor fotografía · Jaromír Sofr"
+            "Premio a la Mejor Dirección de Fotografía · Jaromir Sofr"
           ],
-          "aliases": []
+          "aliases": [
+            "Konec Starych Casu (El fin de los viejos tiempos)",
+            "El fin de los viejos tiempos",
+            "Konec starych casu (El fin de los viejos tiempos)"
+          ]
         },
         {
           "title": "La blanca paloma",
           "director": "Juan Miñón",
           "filmYear": 1989,
-          "award": "Mejor actor · Antonio Banderas",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio al Mejor Actor · Antonio Banderas",
+          "nominations": [],
           "wins": [
-            "Mejor actor · Antonio Banderas"
+            "Premio al Mejor Actor · Antonio Banderas"
           ],
           "aliases": []
-        },
-        {
-          "title": "Prisoners of Inertia",
-          "director": "Jeffrey Noyes Scher",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Grandes ambiciones",
-          "director": "Mike Leigh",
-          "filmYear": 1989,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "High Hopes"
-          ]
-        },
-        {
-          "title": "Rejas de cristal",
-          "director": "Marco Risi",
-          "filmYear": 1989,
-          "award": "Premio del público (IMDb)",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Premio del público (IMDb)"
-          ],
-          "aliases": [
-            "Mery per sempre"
-          ]
         },
         {
           "title": "Un toque de infidelidad",
           "director": "Joel Schumacher",
           "filmYear": 1989,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Cousins"
+            "Cousins",
+            "Cousins (Un toque de infidelidad)"
           ]
         },
         {
           "title": "Una árida estación blanca",
           "director": "Euzhan Palcy",
           "filmYear": 1989,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "A Dry White Season"
+            "A Dry White Season",
+            "A Dry White Season (Una árida estación blanca)"
+          ]
+        },
+        {
+          "title": "Prisoners of Inertia",
+          "director": "Jeffrey Noyes Scher",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Prisoners of Inertia (Prisioneros de la inercia)",
+            "Prisioneros de la inercia"
+          ],
+          "filmYear": 1988
+        },
+        {
+          "title": "Cinco días en junio",
+          "director": "Michel Legrand",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Cinq Jours en Juin (Cinco días de junio)",
+            "Cinco días de junio"
+          ]
+        },
+        {
+          "title": "Grandes ambiciones",
+          "director": "Mike Leigh",
+          "filmYear": 1989,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "High Hopes",
+            "High Hopes (Grandes ambiciones)"
+          ]
+        },
+        {
+          "title": "El verano de Aviya",
+          "director": "Eli Cohen",
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Hakayitz Shel Aviya (El verano de Aviya)",
+            "Ha-kayitz shel Aviya (El verano de Aviya)"
+          ],
+          "filmYear": 1988
+        },
+        {
+          "title": "Rejas de cristal",
+          "director": "Marco Risi",
+          "filmYear": 1989,
+          "award": "Premio del Público",
+          "nominations": [],
+          "wins": [
+            "Premio del Público"
+          ],
+          "aliases": [
+            "Mery per sempre",
+            "Mery per sempre (Rejas de cristal)"
+          ]
+        },
+        {
+          "title": "Gorod Zero",
+          "director": "Karen Shakhnazarov",
+          "award": "Espiga de Plata",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "aliases": [
+            "Ciudad cero",
+            "Gorod Zero (Ciudad cero)",
+            "Gorod zero (Ciudad cero)"
           ]
         }
       ]
@@ -2515,8 +2516,108 @@
     {
       "festival": "Seminci",
       "year": 1989,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
-      "films": []
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Ropaci (Petroleros)",
+          "director": "Jan Sverák",
+          "aliases": [
+            "Petroleros"
+          ],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 1988,
+          "award": "Espiga de Oro (ex aequo)"
+        },
+        {
+          "title": "Ce qui me meut (Lo que me mueve)",
+          "director": "Cédric Klapisch",
+          "aliases": [
+            "Lo que me mueve"
+          ],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 1989,
+          "award": "Espiga de Oro (ex aequo)"
+        },
+        {
+          "title": "The Hill Farm",
+          "director": "Mark Baker",
+          "aliases": [
+            "La granja de la colina",
+            "The Hill Farm (La granja de la colina)"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1989,
+          "award": "Espiga de Plata"
+        },
+        {
+          "title": "Arcadia",
+          "director": "Paul Bamborough",
+          "aliases": [],
+          "wins": [
+            "Mención Especial del Jurado"
+          ],
+          "nominations": [],
+          "filmYear": 1989,
+          "award": "Mención Especial del Jurado"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1989,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "The Secret Life of Sergei Eisenstein (La vida secreta de Sergei Eisenstein)",
+          "director": "Gian Carlo Bertelli",
+          "aliases": [
+            "La vida secreta de Sergei Eisenstein"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 1988,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "La realización de una leyenda: 'Lo que el viento se llevó'",
+          "director": "David Hinton",
+          "aliases": [
+            "La creación de una leyenda: Lo que el viento se llevó",
+            "The Making of a Legend: Gone with the Wind",
+            "The Making of a Legend: Gone with the Wind (La creación de una leyenda: Lo que el viento se llevó)"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1988,
+          "award": "Menciones especiales"
+        },
+        {
+          "title": "Asylum (Manicomio)",
+          "director": "Sarah Mondale",
+          "aliases": [
+            "Manicomio"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1989,
+          "award": "Menciones especiales"
+        }
+      ]
     }
   ]
 }

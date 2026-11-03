@@ -2163,38 +2163,23 @@
     {
       "festival": "Seminci",
       "year": 1982,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Ana",
-          "director": "Margarida Cordeiro, António Reis",
-          "filmYear": 1982,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": []
-        },
         {
           "title": "El hombre, cuando es hombre",
           "director": "Valeria Sarmiento",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "El hombre cuando es hombre…"
+          ]
         },
         {
           "title": "El hombre del subsuelo",
           "director": "Nicolás Sarquís",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -2202,95 +2187,103 @@
           "title": "Toute une nuit",
           "director": "Chantal Akerman",
           "filmYear": 1982,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Toda una noche"
+            "Toda una noche",
+            "Toute une nuit (Toda una noche)"
           ]
         },
         {
-          "title": "Índia, a Filha do Sol",
-          "director": "Fábio Barreto",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "India",
+          "director": "Fabio Barreto",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
-          "title": "A Q zheng zhuan",
-          "director": "Fan Cen",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "La verdadera historia de Ah Q",
+          "director": "Cen Fan",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Colegas",
           "director": "Eloy de la Iglesia",
           "filmYear": 1982,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "Cuerpo a cuerpo",
           "director": "Paulino Viota",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "Interdit aux moins de 13 ans",
           "director": "Jean-Louis Bertuccelli",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Interdit aux moins de 13 ans (Prohibido a menores de 13 años)",
+            "Prohibido a menores de 13 años"
+          ]
         },
         {
           "title": "Chronopolis",
           "director": "Piotr Kamler",
           "filmYear": 1983,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
-          "title": "Ta opla mou rihnoun louloudia",
-          "director": "Yiannis Fafoutis",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Mes armes crachent…des fleurs, (Mis armas escupen…flores)",
+          "director": "Yannis Fafoulis",
+          "aliases": [
+            "Mis armas escupen…flores"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "The Taste of Water (El sabor del agua)",
+          "director": "Orlow Seunke",
+          "aliases": [
+            "El sabor del agua"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Another Way (Una cierta mirada)",
+          "director": "Karoly Makk",
+          "aliases": [
+            "Una cierta mirada"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "La noche de San Lorenzo",
           "director": "Paolo Taviani, Vittorio Taviani",
           "filmYear": 1982,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "La notte di San Lorenzo"
@@ -2300,64 +2293,79 @@
           "title": "El marqués del Grillo",
           "director": "Mario Monicelli",
           "filmYear": 1981,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Il marchese del Grillo"
+            "Il marchese del Grillo",
+            "Il marchese del Grillo (El marqués del Grillo)"
           ]
         },
         {
-          "title": "Mniejsze niebo",
+          "title": "Café Tacuba",
+          "director": "Jorge Prior Tapia",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "The Smaller Sky (Un cielo más pequeño)",
           "director": "Janusz Morgenstern",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "aliases": [
+            "Un cielo más pequeño"
           ],
           "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Ana",
+          "director": "Margarida Cordeiro, António Reis",
+          "filmYear": 1982,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
           "aliases": []
         },
         {
           "title": "Regentropfen",
           "director": "Michael Hoffmann; Harry Raymon",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Regentropfen (Gotas de lluvia)",
+            "Gotas de lluvia"
+          ]
         },
         {
           "title": "Reisender Krieger",
           "director": "Christian Schocher",
-          "award": "Mención Especial del Jurado",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Menciones Especiales",
+          "nominations": [],
           "wins": [
-            "Mención Especial del Jurado"
+            "Menciones Especiales"
           ],
-          "aliases": []
+          "aliases": [
+            "Reisend Kreiger"
+          ]
         },
         {
-          "title": "Portret zheny khudozhnika",
-          "director": "Aleksandr Pankratov",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "El retrato de la señora del pintor",
+          "director": "Alexandr Pancratov, U.R.S.S",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "La boda",
           "director": "Thaelman Urgelles",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         }
@@ -2366,19 +2374,20 @@
     {
       "festival": "Seminci",
       "year": 1982,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
           "title": "La elección de Hanna B",
           "director": "Makk Károly",
           "filmYear": 1982,
-          "award": "Mención Especial del Jurado",
+          "award": "Menciones Especiales",
           "nominations": [],
           "wins": [
-            "Mención Especial del Jurado"
+            "Menciones Especiales"
           ],
           "aliases": [
-            "Egymásra nézve"
+            "Egymásra nézve",
+            "Egymásra nézve (La elección de Hanna B)"
           ]
         }
       ]
@@ -2386,7 +2395,7 @@
     {
       "festival": "Seminci",
       "year": 1982,
-      "section": "Cortometrajes premiados",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
           "title": "Días inolvidables",
@@ -2397,21 +2406,20 @@
           "wins": [
             "Espiga de Oro"
           ],
-          "aliases": [
-            "Días inolvidables"
-          ]
+          "aliases": []
         },
         {
           "title": "Gitanos en la ciudad",
           "director": "Irmgard von zur Mühlen",
           "filmYear": 1982,
-          "award": "Mención Especial",
+          "award": "Menciones Especiales",
           "nominations": [],
           "wins": [
-            "Mención Especial"
+            "Menciones Especiales"
           ],
           "aliases": [
-            "Großstadtzigeuner"
+            "Großstadtzigeuner",
+            "Großstadtzigeuner (Gitanos en la ciudad)"
           ]
         }
       ]

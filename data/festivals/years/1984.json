@@ -1689,115 +1689,110 @@
     {
       "festival": "Seminci",
       "year": 1984,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
-          "title": "Adiós a la inocencia",
-          "director": "Richard Benjamin",
-          "filmYear": 1984,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "Die schaukel (El columpio)",
+          "director": "Percy Adlon, R.F: Alemania",
           "aliases": [
-            "Racing with the Moon"
-          ]
+            "El columpio"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Ediths Tagebuch",
+          "director": "Hans W. Geissendörfer",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Ediths tagebuch (El diario de Edith)",
+            "El diario de Edith"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "Man of Flowers",
           "director": "Paul Cox",
           "filmYear": 1983,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
           "wins": [
-            "Mejor película · Espiga de Oro"
+            "Espiga de Oro (ex aequo)"
           ],
-          "aliases": []
-        },
-        {
-          "title": "El swing",
-          "director": "Percy Adlon",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Ediths Tagebuch",
-          "director": "Hans W. Geissendörfer",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Man of Flowers (El hombre de las flores)",
+            "El hombre de las flores"
+          ]
         },
         {
           "title": "La última ronda",
           "director": "Peter Patzak",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Strawanzer (El último round)",
+            "El último round"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "A Próxima Vítima",
           "director": "João Batista de Andrade",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "A proxima vitima (La próxima víctima)",
+            "La próxima víctima"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "Les années de rêves",
           "director": "Jean-Claude Labrecque",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Les années de rêves (Los años de la ilusión)",
+            "Los años de la ilusión"
+          ],
+          "filmYear": 1984
         },
         {
           "title": "Katapult",
           "director": "Jaromil Jireš",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Katapult (Catapulta)",
+            "Catapulta"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "El pico 2",
           "director": "Eloy de la Iglesia",
           "filmYear": 1984,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "El pico II"
+          ]
         },
         {
           "title": "Crackers, qué locura de robo",
           "director": "Louis Malle",
           "filmYear": 1984,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "Crackers, que locura de robo",
@@ -1805,120 +1800,254 @@
           ]
         },
         {
+          "title": "Adiós a la inocencia",
+          "director": "Richard Benjamin",
+          "filmYear": 1984,
+          "award": "Espiga de Oro (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)"
+          ],
+          "aliases": [
+            "Racing with the Moon",
+            "Racing With the Moon (Adiós a la inocencia)",
+            "Racing with the Moon (Adiós a la inocencia)"
+          ]
+        },
+        {
           "title": "Les princes",
           "director": "Tony Gatlif",
           "filmYear": 1983,
           "award": "Espiga de Plata",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Espiga de Plata"
           ],
           "aliases": [
-            "Les Princes"
+            "Les Princes",
+            "Les princes (Los príncipes)",
+            "Los príncipes"
           ]
         },
         {
           "title": "1984",
           "director": "Michael Radford",
           "filmYear": 1984,
-          "award": "Mejor dirección novel · Michael Radford · Mejor actor · John Hurt · Richard Burton",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio «François Truffaut» al Mejor Director · Michael Radford · Premio al Mejor Actor (ex aequo) · John Hurt y Richard Burton",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Michael Radford",
-            "Mejor actor · John Hurt · Richard Burton"
+            "Premio «François Truffaut» al Mejor Director · Michael Radford",
+            "Premio al Mejor Actor (ex aequo) · John Hurt y Richard Burton"
           ],
           "aliases": [
             "Nineteen Eighty-Four"
           ]
         },
         {
-          "title": "Eszkimó asszony fázik",
-          "director": "János Xantus",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "De illusionist",
+          "director": "Jos Stelling",
+          "aliases": [
+            "El ilusionista",
+            "De illusionist (El ilusionista)"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1983,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Eszkimó asszony fázik",
+          "director": "János Xantus",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Eszkimo asszony fazik (El esquimal tiene frío)",
+            "El esquimal tiene frío"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "Ybris",
           "director": "Gavino Ledda",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [],
+          "filmYear": 1984
         },
         {
           "title": "Constance",
           "director": "Bruce Morrison",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [],
+          "filmYear": 1983
         },
         {
           "title": "Austeria",
           "director": "Jerzy Kawalerowicz",
           "filmYear": 1983,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Austeria (La hosteria)",
+            "La hosteria"
+          ]
         },
         {
           "title": "Concurs",
           "director": "Dan Pița",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Concurs (Concurso)",
+            "Concurso"
+          ],
+          "filmYear": 1981
         },
         {
           "title": "Teddy Bär",
           "director": "Rolf Lyssy",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Teddy bar (Teddy)",
+            "Teddy"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "Los balizadores del desierto",
           "director": "Nacer Khemir",
           "filmYear": 1984,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "El-haimoune (Les baliseurs du désert)"
+            "El-haimoune (Les baliseurs du désert)",
+            "Les baliseurs du désert (Los balizadores del desierto)"
           ]
         },
         {
           "title": "Sin testigos",
           "director": "Nikita Mikhalkov",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio de la Confederación de Cineclubs del Estado Español (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio de la Confederación de Cineclubs del Estado Español (ex aequo)"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Bes svideteley (Sin testigos)",
+            "Bez svidetelej (Sin testigos)"
+          ],
+          "filmYear": 1984
         },
+        {
+          "title": "Voienno-polevoi roman (Un idilio de campaña)",
+          "director": "Piotr Todorovski",
+          "aliases": [
+            "Un idilio de campaña",
+            "Voyenno-polevoj roman (Un idilio de campaña)"
+          ],
+          "wins": [
+            "Premio a la Mejor Actriz (ex aequo) · Natalya Andrejchenko e Inna Churikova",
+            "Premio al Mejor Guión · Pyotr Todorovsky"
+          ],
+          "nominations": [],
+          "filmYear": 1983,
+          "award": "Premio a la Mejor Actriz (ex aequo) · Natalya Andrejchenko e Inna Churikova · Premio al Mejor Guión · Pyotr Todorovsky"
+        },
+        {
+          "title": "A los ciclos Mario Camus y Argentina en libertad",
+          "director": "y a la sección Tiempo de Historia",
+          "aliases": [],
+          "wins": [
+            "Mención Especial del Jurado"
+          ],
+          "nominations": [],
+          "award": "Mención Especial del Jurado"
+        },
+        {
+          "title": "Carmine Coppola",
+          "director": "en reconocimiento a su trayectoria artística",
+          "aliases": [],
+          "wins": [
+            "Tributo de la Semana"
+          ],
+          "nominations": [],
+          "award": "Tributo de la Semana"
+        },
+        {
+          "title": "Extraños En El Paraíso",
+          "director": "Jim Jarmusch",
+          "aliases": [
+            "Extraños en el paraíso",
+            "Stranger Than Paradise",
+            "Stranger than Paradise (Extraños en el paraíso)"
+          ],
+          "wins": [
+            "Premio de la Confederación de Cineclubs del Estado Español (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Premio de la Confederación de Cineclubs del Estado Español (ex aequo)"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1984,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Flamenco at 5:15 (Flamenco a las cinco y cuarto)",
+          "director": "Cynthia Scott",
+          "aliases": [
+            "Flamenco a las cinco y cuarto"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1983,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Quest (La búsqueda)",
+          "director": "Saul y Elaine Bass",
+          "aliases": [
+            "La búsqueda"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1983,
+          "award": "Espiga de Plata"
+        },
+        {
+          "title": "Alamanya",
+          "director": "Wolfgang Pfeiffer",
+          "aliases": [],
+          "wins": [
+            "Mención Especial"
+          ],
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Mención Especial"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1984,
+      "section": "Otros premios",
+      "films": [
         {
           "title": "Voenno-polevoy roman",
           "director": "Pyotr Todorovskiy",
@@ -1936,12 +2065,6 @@
           ]
         }
       ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1984,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
-      "films": []
     }
   ]
 }

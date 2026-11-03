@@ -6221,145 +6221,235 @@
     {
       "festival": "Seminci",
       "year": 1959,
-      "section": "Películas proyectadas · sesiones del programa oficial",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Pío XII",
-          "director": "",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Papst Pius XII"
-          ]
-        },
         {
           "title": "Falso culpable",
           "director": "Alfred Hitchcock",
           "filmYear": 1956,
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "The Wrong Man"
+            "The Wrong Man",
+            "1ª sesión: Papst Pius XII (Pío XII), Alemania The Weong Man (Falso culpable)",
+            "Pío XII"
           ]
         },
         {
           "title": "Noche de Pascua",
           "director": "Philippe Agostini",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "La nuit des Pâques"
-          ]
-        },
-        {
-          "title": "Lourdes y sus milagros",
-          "director": "Georges Rouquier",
-          "filmYear": 1955,
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Lourdes et ses miracles"
+            "La nuit des Pâques",
+            "2ª sesión: La nuit des Paques (Noche de Pascua)"
           ]
         },
         {
           "title": "El milagro de Lourdes",
           "director": "Luis Torreblanca",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Un hombre tiene que morir",
-          "director": "Joseph Breen",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "3ª sesión: El milagro de Lourdes"
+          ]
         },
         {
           "title": "Ordenación",
           "director": "Philippe Agostini",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Ordinations"
+            "Ordinations",
+            "4ª sesión: Ordinations (Ordenación)"
           ]
-        },
-        {
-          "title": "¿A dónde van nuestros hijos?",
-          "director": "Benito Alazraki",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
         },
         {
           "title": "Don Vesubio entre los vagabundos",
           "director": "Siro Marcellini",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Don Vesuvio und das Haus der Strolche"
+            "Don Vesuvio und das Haus der Strolche",
+            "5ª sesión: Die Weltenuhr (El reloj de los mundos), Alemania Don Vesuvio und das haus der strolche (Don Vesubio entre los vagabundos)",
+            "El reloj de los mundos"
           ]
         },
         {
           "title": "Voces en el claustro",
           "director": "Gian Luigi Rondi",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Voci nei chiostri"
+            "Voci nei chiostri",
+            "6ª sesión: Voci nei chiostri (Voces en el claustro)"
+          ]
+        },
+        {
+          "title": "Catedral de León",
+          "director": "Jesús Fernández Santos",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "7ª sesión: Catedral de León"
+          ]
+        },
+        {
+          "title": "8ª sesión: Ave Maria",
+          "director": "Pierre Jacquin",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "9ª sesión: Hágase la luz",
+          "director": "Alemania Imágenes romanas",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Teresa de Ávila",
+          "director": "José López Clemente; Joaquín Hualde",
+          "filmYear": 1958,
+          "award": "Lábaro de Plata",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Plata"
+          ],
+          "aliases": [
+            "10ª sesión: Teresa de Ávila"
+          ]
+        },
+        {
+          "title": "11ª sesión: Arte sacra misionária",
+          "director": "Gentil Marques",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "12ª sesión: Pasión",
+          "director": "Wilhem Döderlein",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Libertad perdida",
+          "director": "Viktor Valet",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Verlorene Freiheit",
+            "13ª sesión: Verlorene freiheit (Libertad perdida)"
+          ]
+        },
+        {
+          "title": "Los diez mandamientos",
+          "director": "Cecil B. DeMille",
+          "filmYear": 1956,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "The Ten Commandments",
+            "Los Diez Mandamientos",
+            "14ª sesión: The Ten Commandments (Los diez mandamientos)"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1959,
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "El prisionero",
+          "director": "Peter Glenville",
+          "filmYear": 1955,
+          "award": "Lábaro de Oro · Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro",
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "The Prisoner",
+            "The Prisioner (El prisionero)"
           ]
         },
         {
           "title": "La redención",
           "director": "Vincenzo Lucci-Chiarissi",
           "filmYear": 1958,
-          "award": "Mejor película · Lábaro de Plata",
+          "award": "Lábaro de Plata · Menciones Especiales",
           "nominations": [],
           "wins": [
-            "Mejor película · Lábaro de Plata"
+            "Lábaro de Plata",
+            "Menciones Especiales"
           ],
           "aliases": [
-            "La redenzione"
+            "La redenzione",
+            "La redenzione (La redención)"
           ]
         },
         {
-          "title": "Catedral de León",
-          "director": "Jesús Fernández Santos",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
+          "title": "Fugitivos",
+          "director": "Stanley Kramer",
+          "filmYear": 1958,
+          "award": "Premio Ciudad de Valladolid · Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión · Menciones Especiales",
           "nominations": [],
-          "wins": [],
-          "aliases": []
+          "wins": [
+            "Premio Ciudad de Valladolid",
+            "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión",
+            "Menciones Especiales"
+          ],
+          "aliases": [
+            "The Defiant Ones",
+            "The Defiant Ones (Fugitivos)"
+          ]
+        },
+        {
+          "title": "El Salvador. El Redentor. El Amo",
+          "director": "Joseph Breen; Fernando Palacios",
+          "filmYear": 1959,
+          "award": "Diploma Especial",
+          "nominations": [],
+          "wins": [
+            "Diploma Especial"
+          ],
+          "aliases": [
+            "Los misterios del rosario",
+            "El Salvador. El Redentor. El Amo (Los misterios del rosario)"
+          ]
         },
         {
           "title": "El cielo difamado",
           "director": "Ernst Marischka",
           "filmYear": 1958,
-          "award": "Mención Especial",
+          "award": "Menciones Especiales",
           "nominations": [],
           "wins": [
-            "Mención Especial"
+            "Menciones Especiales"
           ],
           "aliases": [
-            "Der veruntreute Himmel"
+            "Der veruntreute Himmel",
+            "Der veruntreute Himmel (El cielo difamado)"
           ]
-        },
-        {
-          "title": "Ave Maria",
-          "director": "Pierre Jacquin",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
         },
         {
           "title": "Un condenado a muerte se ha escapado",
@@ -6372,155 +6462,32 @@
           ],
           "aliases": [
             "Un condamné à mort s’est échappé",
-            "Un condamné à mort s'est échappé"
-          ]
-        },
-        {
-          "title": "Un mundo para mí",
-          "director": "José Antonio de la Loma",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Arte sacra missionária",
-          "director": "",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Fugitivos",
-          "director": "Stanley Kramer",
-          "filmYear": 1958,
-          "award": "Premio Ciudad de Valladolid · Medalla CEC al Mejor Guion · Mención Especial",
-          "nominations": [],
-          "wins": [
-            "Premio Ciudad de Valladolid",
-            "Medalla CEC al Mejor Guion",
-            "Mención Especial"
-          ],
-          "aliases": [
-            "The Defiant Ones"
-          ]
-        },
-        {
-          "title": "Pasión",
-          "director": "Wilhelm Döderlein",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Don Roberto",
-          "director": "Romeo Panciroli",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "La verde edad",
-          "director": "Bruno Jori",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Libertad perdida",
-          "director": "Viktor Valet",
-          "award": "Programada; la fuente oficial no especifica condición competitiva",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Verlorene Freiheit"
-          ]
-        },
-        {
-          "title": "El prisionero",
-          "director": "Peter Glenville",
-          "filmYear": 1955,
-          "award": "Mejor película · Lábaro de Oro · Mención Especial",
-          "nominations": [],
-          "wins": [
-            "Mejor película · Lábaro de Oro",
-            "Mención Especial"
-          ],
-          "aliases": [
-            "The Prisoner"
-          ]
-        },
-        {
-          "title": "Los diez mandamientos",
-          "director": "Cecil B. DeMille",
-          "filmYear": 1956,
-          "award": "Programada en sesión; el jurado rindió homenaje a la película, no es premio competitivo",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "The Ten Commandments",
-            "Los Diez Mandamientos"
+            "Un condamné à mort s'est échappé",
+            "Un condamné à mort s’est échappé (Un condenado a muerte se ha escapado)"
           ]
         }
-      ],
-      "coverageStatus": "Listado de sesiones transcrito; la fuente no define cada sesión como competición. Premios conservados según palmarés."
+      ]
     },
     {
       "festival": "Seminci",
       "year": 1959,
-      "section": "Cortometrajes premiados",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
           "title": "El reloj de los mundos",
           "director": "",
           "filmYear": 1956,
-          "award": "Mejor cortometraje · Lábaro de Oro",
+          "award": "Lábaro de Oro",
           "nominations": [],
           "wins": [
-            "Mejor cortometraje · Lábaro de Oro"
+            "Lábaro de Oro"
           ],
           "aliases": [
-            "Die Weltenuhr"
-          ]
-        },
-        {
-          "title": "Teresa de Ávila",
-          "director": "José López Clemente; Joaquín Hualde",
-          "filmYear": 1958,
-          "award": "Mejor cortometraje · Lábaro de Plata",
-          "nominations": [],
-          "wins": [
-            "Mejor cortometraje · Lábaro de Plata"
-          ],
-          "aliases": []
-        }
-      ],
-      "coverageStatus": "Solo cortometrajes premiados, según el palmarés oficial."
-    },
-    {
-      "festival": "Seminci",
-      "year": 1959,
-      "section": "Película con diploma especial según palmarés (no localizada en lista de sesiones)",
-      "films": [
-        {
-          "title": "El Salvador. El Redentor. El Amo",
-          "director": "Joseph Breen; Fernando Palacios",
-          "filmYear": 1959,
-          "award": "Diploma Especial",
-          "nominations": [],
-          "wins": [
-            "Diploma Especial"
-          ],
-          "aliases": [
-            "Los misterios del rosario"
+            "Die Weltenuhr",
+            "Die Weltenuhr (El reloj del mundo)"
           ]
         }
-      ],
-      "coverageStatus": "Palmarés oficial; no aparece en la relación de sesiones transcrita."
+      ]
     }
   ]
 }

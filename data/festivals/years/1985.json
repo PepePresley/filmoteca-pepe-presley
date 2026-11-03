@@ -1918,96 +1918,87 @@
     {
       "festival": "Seminci",
       "year": 1985,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Ake y su mundo",
-          "director": "Allan Edwall",
-          "filmYear": 1984,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": [
-            "Åke och hans värld"
-          ]
-        },
         {
           "title": "Die Kümmeltürkin geht",
           "director": "Jeanine Meerapfel",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Die Kümmeltürkin geht (Melek se va)",
+            "Melek se va"
+          ],
+          "filmYear": 1984
         },
         {
           "title": "Novembermond",
           "director": "Alexandra von Grote",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [],
+          "filmYear": 1984
         },
         {
           "title": "Sugarbaby",
           "director": "Percy Adlon",
           "award": "Espiga de Plata",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Espiga de Plata"
           ],
-          "aliases": []
+          "aliases": [
+            "Zuckerbaby (Sugarbaby)",
+            "Zuckerbaby"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "Prueba de amor",
           "director": "Gil Brealey",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "A Test of Love (Una prueba de amor)",
+            "Una prueba de amor"
+          ],
+          "filmYear": 1983
         },
         {
           "title": "Avaeté - Semente da Vingança",
           "director": "Zelito Viana",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Avaeté, a semente da vingança (Avaeté, la semilla de la venganza)",
+            "Avaeté, la semilla de la venganza"
+          ]
         },
         {
           "title": "Kariéra",
           "director": "Július Matula",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Kariera (La carrera)",
+            "La carrera"
+          ],
+          "filmYear": 1984
         },
         {
           "title": "La hora bruja",
           "director": "Jaime de Armiñán",
           "filmYear": 1985,
-          "award": "Mejor actor · Francisco Rabal · Mejor actriz · Concha Velasco",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio a la Mejor Actriz · Concha Velasco · Premio al Mejor Actor · Francisco Rabal",
+          "nominations": [],
           "wins": [
-            "Mejor actor · Francisco Rabal",
-            "Mejor actriz · Concha Velasco"
+            "Premio a la Mejor Actriz · Concha Velasco",
+            "Premio al Mejor Actor · Francisco Rabal"
           ],
           "aliases": []
         },
@@ -2015,12 +2006,10 @@
           "title": "Mrs. Soffel, una historia real",
           "director": "Gillian Armstrong",
           "filmYear": 1984,
-          "award": "Mejor dirección novel · Gillian Armstrong",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio «François Truffaut» a la Mejor Ópera Prima",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Gillian Armstrong"
+            "Premio «François Truffaut» a la Mejor Ópera Prima"
           ],
           "aliases": [
             "Mrs. Soffel (Una historia real)",
@@ -2030,82 +2019,177 @@
         {
           "title": "Los niños",
           "director": "Marguerite Duras; Jean-Marc Turine; Jean Mascolo; Yann Andréa",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Les enfants (Los niños)"
+          ],
+          "filmYear": 1984
         },
         {
           "title": "No Surrender",
           "director": "Peter Smith",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Mención Especial del Jurado",
+          "nominations": [],
+          "wins": [
+            "Mención Especial del Jurado"
           ],
+          "aliases": [
+            "No surrender"
+          ]
+        },
+        {
+          "title": "Voro Nova",
+          "director": "Mildred van Leewaarden y Dick Rijneke",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Coronel Redl",
+          "director": "Szabó István",
+          "filmYear": 1985,
+          "award": "Premio 30 Aniversario · István Szabó",
+          "nominations": [],
+          "wins": [
+            "Premio 30 Aniversario · István Szabó"
+          ],
+          "aliases": [
+            "Oberst Redl",
+            "Redl Ezredes (Coronel Redl)",
+            "el conjunto de su obra, ejemplificada en el festival a través de Redl ezredes (Coronel Redl)"
+          ]
         },
         {
           "title": "Segreti segreti",
           "director": "Giuseppe Bertolucci",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Segreti, segreti (Secretos secretos)",
+            "Secretos secretos"
+          ]
         },
         {
           "title": "Fucha",
           "director": "Michal Dudziewicz",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Fucha (La chapuza)",
+            "La chapuza"
+          ],
+          "filmYear": 1984
         },
         {
           "title": "Adela",
           "director": "Mircea Veroiu",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [],
+          "filmYear": 1984
         },
         {
-          "title": "Tsisperi mtebi anu daujerebeli ambavi",
-          "director": "Eldar Shengelaia",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Ake y su mundo",
+          "director": "Allan Edwall",
+          "filmYear": 1984,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Åke och hans värld",
+            "Ake och hans warld (Oke y su mundo)",
+            "Oke y su mundo",
+            "Åke och hans värld (Åke y su mundo)",
+            "Åke y su mundo"
+          ]
+        },
+        {
+          "title": "Golubye gory (Las montañas azules)",
+          "director": "Eldar Schenguelaia",
+          "aliases": [
+            "Las montañas azules"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Carmine Coppola",
+          "director": "en reconocimiento a su trayectoria artística",
+          "aliases": [],
+          "wins": [
+            "Tributo de la Semana"
+          ],
+          "nominations": [],
+          "award": "Tributo de la Semana"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1985,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
-          "title": "Coronel Redl",
-          "director": "Szabó István",
-          "filmYear": 1985,
-          "award": "Premio 30.º aniversario (IMDb)",
-          "nominations": [],
+          "title": "El clarinete",
+          "director": "Eusebio Lázaro",
+          "aliases": [],
           "wins": [
-            "Premio 30.º aniversario (IMDb)"
+            "Espiga de Oro"
           ],
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Gare de la douleur (Estación del dolor)",
+          "director": "Henri Jouf",
           "aliases": [
-            "Oberst Redl"
-          ]
+            "Estación del dolor"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Espiga de Plata"
+        },
+        {
+          "title": "78 Tours",
+          "director": "Georges Schwizgebel",
+          "aliases": [
+            "78 revoluciones",
+            "78 tours (78 revoluciones)"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1986,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Jumping (Saltando)",
+          "director": "Osamu Tezuka",
+          "aliases": [
+            "Saltando"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1984,
+          "award": "Espiga de Plata"
         }
       ]
     }

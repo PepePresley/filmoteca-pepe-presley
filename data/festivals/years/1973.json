@@ -4234,125 +4234,129 @@
     {
       "festival": "Seminci",
       "year": 1973,
-      "section": "Espiga de Oro / Golden Spike (selección según IMDb, con resultados FilmAffinity)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Luis II de Baviera, el rey loco",
-          "director": "Luchino Visconti",
-          "filmYear": 1973,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": [
-            "Ludwig"
-          ]
-        },
         {
           "title": "Die Zelle",
           "director": "Horst Bienek",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio 18 Semana (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio 18 Semana (ex aequo)"
+          ],
+          "aliases": [
+            "Die zelle (La celda)",
+            "La celda",
+            "Die Zelle (La celda)"
+          ]
+        },
+        {
+          "title": "Ludwig II (Luis II)",
+          "director": "Hans Jürgen Syberberg",
+          "aliases": [
+            "Luis II"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "A Selva",
           "director": "Marcio Souza",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "A selva (La selva)",
+            "La selva"
+          ]
         },
         {
           "title": "Mi tío Antoine",
           "director": "Claude Jutra",
           "award": "Premio San Gregorio",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio San Gregorio"
           ],
-          "aliases": []
+          "aliases": [
+            "Mon oncle Antoine (Mi tío Antonio)",
+            "Mi tío Antonio",
+            "Mon oncle Antoine (Mi tío Antoine)",
+            "Mon oncle Antoine"
+          ],
+          "filmYear": 1971
         },
         {
           "title": "Corazón solitario",
           "director": "Francesc Betriu",
           "filmYear": 1973,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+          "nominations": [],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
           ],
-          "wins": [],
           "aliases": []
         },
         {
           "title": "Fat City, ciudad dorada",
           "director": "John Huston",
           "filmYear": 1972,
-          "award": "Premio de la Ciudad de Valladolid · Premio CEC",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio Ciudad de Valladolid · Medalla del Círculo de Escritores Cinematográficos al Mejor Guión",
+          "nominations": [],
           "wins": [
-            "Premio de la Ciudad de Valladolid",
-            "Premio CEC"
+            "Premio Ciudad de Valladolid",
+            "Medalla del Círculo de Escritores Cinematográficos al Mejor Guión"
           ],
           "aliases": [
-            "Fat City"
+            "Fat City",
+            "Fat City (Ciudad dorada)",
+            "Ciudad dorada",
+            "Fat City (Fat City, ciudad dorada)"
           ]
         },
         {
           "title": "Amores que esperan",
           "director": "Mark Robson",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio 18 Semana (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio 18 Semana (ex aequo)"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Limbo (Amores que esperan)"
+          ]
         },
         {
           "title": "Nosotros no envejeceremos juntos",
           "director": "Maurice Pialat",
           "filmYear": 1972,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Nous ne vieillirons pas ensemble"
+            "Nous ne vieillirons pas ensemble",
+            "Nous ne viellirons pas ensemble (No envejecermos juntos)",
+            "No envejecermos juntos"
           ]
         },
         {
           "title": "La máscara y la piel",
           "director": "Michael Apted",
           "filmYear": 1972,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "The Triple Echo"
+            "The Triple Echo",
+            "The Triple Echo (La máscara y la piel)"
           ]
         },
         {
           "title": "Floch",
           "director": "Dan Wolman",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -4360,49 +4364,94 @@
           "title": "Paulina 1880",
           "director": "Jean-Louis Bertuccelli",
           "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio Especial del Jurado"
           ],
           "aliases": []
         },
         {
-          "title": "El imposible juego de cuatro",
-          "director": "Michel Soutter",
-          "filmYear": 1972,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Ocalenie",
+          "director": "Edward Zebrowski",
+          "award": "Mención Especial",
+          "nominations": [],
+          "wins": [
+            "Mención Especial"
           ],
+          "aliases": [
+            "Ocalenie (La salvación)",
+            "La salvación"
+          ]
+        },
+        {
+          "title": "Les arpenteurs",
+          "director": "Michel Soutter",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Paseo por el amor y la muerte",
           "director": "John Huston",
           "filmYear": 1969,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "A Walk with Love and Death"
+            "A Walk with Love and Death",
+            "A Walk With Love and Death (Paseo por el amor y la muerte)"
           ]
         },
         {
-          "title": "Ocalenie",
-          "director": "Edward Zebrowski",
-          "award": "Mención especial",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "Luis II de Baviera, el rey loco",
+          "director": "Luchino Visconti",
+          "filmYear": 1973,
+          "award": "Espiga de Oro",
+          "nominations": [],
           "wins": [
-            "Mención especial"
+            "Espiga de Oro"
           ],
-          "aliases": []
+          "aliases": [
+            "Ludwig",
+            "Ludwig (Luis II de Baviera)",
+            "Luis II de Baviera"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1973,
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "su aportación a la 18 edición",
+          "director": "con el ciclo de Max Ophuls",
+          "aliases": [],
+          "wins": [
+            "Placa de Honor de la Comisión Consultiva · A la Cinemateca Francesa"
+          ],
+          "nominations": [],
+          "award": "Placa de Honor de la Comisión Consultiva · A la Cinemateca Francesa"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1973,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "La fábrica",
+          "director": "Ernesto Blasi",
+          "aliases": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1971,
+          "award": "Espiga de Oro"
         }
       ]
     }

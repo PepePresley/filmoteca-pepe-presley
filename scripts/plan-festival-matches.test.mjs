@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
-import { planMatches, readSnapshot, catalogRows, isPureAddition } from './plan-festival-matches.mjs';
+import { planMatches, readSnapshot, catalogRows, isPureAddition, unchangedAssociationKeys } from './plan-festival-matches.mjs';
 
 const globalPath='data/festivals/festivals.json';
 const catalogPath='data/catalog/catalog.json';
@@ -227,5 +227,29 @@ test('append-only generation retains an approved null and old metadata in the sa
   assert.equal(result.matches[key(db.editions[1])],null);
   assert.equal(result.matches[key(db.editions[2])].dur,100);
   assert.equal(result.total,3);assert.equal(result.present,2);
+  fs.writeFileSync(map,JSON.stringify(approved));
+  const keep=path.join(temp,'unchanged.json');fs.writeFileSync(keep,JSON.stringify([key(db.editions[0])]));
+  execFileSync(process.execPath,['build-festival-matches.mjs','--years=2024','--preserve-keys='+keep],{cwd:temp});
+  const selective=JSON.parse(fs.readFileSync(map));
+  assert.deepEqual(selective.matches[key(db.editions[0])],approved.matches[key(db.editions[0])]);
+  assert.equal(selective.matches[key(db.editions[1])].dur,100);
+  assert.equal(selective.matches[key(db.editions[2])].dur,100);
+
  }finally{fs.rmSync(temp,{recursive:true,force:true});}
+});
+
+
+test('official section moves preserve matching inputs while ownership, aliases, catalog and resolver changes invalidate reuse',()=>{
+ const before=snapshot([edition('Seminci',1990)]);
+ const moved=edition('Seminci',1990);moved.section='Sección Oficial';
+ const after=snapshot([moved,edition('Seminci',1991)]);
+ const key=JSON.stringify(['Seminci',1990,row.t,row.d]);
+ assert.deepEqual(unchangedAssociationKeys(before,after),[key]);
+ const alias=structuredClone(moved);alias.films[0].aliases=['Otra identidad'];
+ assert.deepEqual(unchangedAssociationKeys(before,snapshot([alias])),[]);
+ const ownership=mutate(after,'data/catalog/festival-owned-1990.json',{'Seminci|Sección Oficial':[]});
+ assert.deepEqual(unchangedAssociationKeys(before,ownership),[]);
+ assert.equal(unchangedAssociationKeys(before,mutate(after,catalogPath,[{...row,dur:120}])),null);
+ const rules=new Map(after);rules.set('scripts/festival-match-rules.mjs','changed');
+ assert.equal(unchangedAssociationKeys(before,rules),null);
 });

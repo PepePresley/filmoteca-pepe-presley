@@ -4592,162 +4592,168 @@
     {
       "festival": "Seminci",
       "year": 1968,
-      "section": "Golden Spike / Espiga de Oro (selección IMDb)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Rebelión",
-          "director": "Masaki Kobayashi",
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": []
-        },
         {
           "title": "Juegos satánicos",
           "director": "Michael Verhoeven",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Paarungen (Juegos satánicos)"
+          ]
         },
         {
           "title": "Návrat ztraceného syna",
           "director": "Evald Schorm",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Navrat Ztraceneho Syna (El regreso del hijo pródigo)",
+            "El regreso del hijo pródigo",
+            "El regreso del hijo pródigo"
+          ],
+          "filmYear": 1967
         },
         {
           "title": "La piel quemada",
           "director": "Josep Maria Forn",
           "filmYear": 1967,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata",
+          "nominations": [],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "La peil quemada"
+          ]
         },
         {
           "title": "El fuego y la palabra",
           "director": "Richard Brooks",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Elmer Gantry (El fuego y la palabra)"
+          ]
         },
         {
           "title": "Acosado",
           "director": "Arthur Penn",
           "filmYear": 1965,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Mickey One"
+            "Mickey One",
+            "Mickey One (Acosado)"
           ]
         },
         {
           "title": "El viejo y el niño",
           "director": "Claude Berri",
           "filmYear": 1967,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Le Vieil Homme et l'Enfant"
+            "Le Vieil Homme et l'Enfant",
+            "Le vieil et l’énfant (El viejo y el niño)"
           ]
         },
         {
           "title": "El salto",
           "director": "Christian de Chalonge",
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
           "wins": [
-            "Premio de la Ciudad de Valladolid"
+            "Premio Ciudad de Valladolid"
           ],
-          "aliases": []
+          "aliases": [
+            "Le saut (El salto)"
+          ]
         },
         {
           "title": "Padre",
           "director": "István Szabó",
-          "award": "Premio CEC",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión",
+          "nominations": [],
           "wins": [
-            "Premio CEC"
+            "Medalla del Círculo de Escritores Cinematográficos (CEC) al Mejor Guión"
           ],
-          "aliases": []
+          "aliases": [
+            "Apa (Padre)"
+          ]
         },
         {
-          "title": "Charulata. La esposa solitaria",
+          "title": "Charulata",
           "director": "Satyajit Ray",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Privilegio",
           "director": "Peter Watkins",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Lábaro de Oro · Trofeo de la Federación Nacional de Cineclubs",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro",
+            "Trofeo de la Federación Nacional de Cineclubs"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Privilege (En la cumbre y el abismo)",
+            "En la cumbre y el abismo",
+            "Privilege (Privilegio)",
+            "Privilege"
+          ],
+          "filmYear": 1967
         },
         {
           "title": "A cada uno lo suyo",
           "director": "Elio Petri",
           "filmYear": 1967,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "A ciascuno il suo"
+            "A ciascuno il suo",
+            "A ciascuno is suo (A cada uno lo suyo)"
+          ]
+        },
+        {
+          "title": "Rebelión",
+          "director": "Masaki Kobayashi",
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Joi-uchi (Rebelión)"
           ]
         },
         {
           "title": "Sekishun",
           "director": "Noboru Nakamura",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Sekishun (Tres caras del amor)",
+            "Tres caras del amor"
+          ]
         },
         {
           "title": "Los caifanes",
           "director": "Juan Ibáñez",
           "filmYear": 1967,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -4755,49 +4761,57 @@
           "title": "La barrera",
           "director": "Jerzy Skolimowski",
           "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio Especial del Jurado"
           ],
-          "aliases": []
+          "aliases": [
+            "Bariera (La barrera)"
+          ]
         },
         {
-          "title": "Sed de vivir",
-          "director": "Åke Falck",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Prinsessan (La princesa)",
+          "director": "Ake Falck",
+          "aliases": [
+            "La princesa"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1968,
-      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
+        {
+          "title": "Detrás de la ventana",
+          "director": "Jean Schmidt",
+          "filmYear": 1967,
+          "award": "Premio San Gregorio (ex aequo) · Premio de la Asociación Fotográfica Vallisoletana a la Mejor Fotografía en Cortometrajes",
+          "nominations": [],
+          "wins": [
+            "Premio San Gregorio (ex aequo)",
+            "Premio de la Asociación Fotográfica Vallisoletana a la Mejor Fotografía en Cortometrajes"
+          ],
+          "aliases": [
+            "Derrière la fenêtre",
+            "Derrière la fenêtre (Detrás de la ventana)"
+          ]
+        },
         {
           "title": "Por primera vez",
           "director": "Octavio Cortázar",
           "filmYear": 1969,
-          "award": "Premio San Gregorio",
+          "award": "Premio San Gregorio (ex aequo)",
           "nominations": [],
           "wins": [
-            "Premio San Gregorio"
+            "Premio San Gregorio (ex aequo)"
           ],
           "aliases": []
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1968,
-      "section": "Cortometrajes premiados",
-      "films": [
+        },
         {
           "title": "La agonía del padre provincial",
           "director": "Krzysztof Zanussi",
@@ -4808,7 +4822,8 @@
             "Lábaro de Oro"
           ],
           "aliases": [
-            "Smierc prowincjala"
+            "Smierc prowincjala",
+            "Smierc prowincjala (La agonía del padre provincial)"
           ]
         },
         {
@@ -4821,21 +4836,41 @@
             "Espiga de Oro"
           ],
           "aliases": [
-            "Kamer met uitzicht"
+            "Kamer met uitzicht",
+            "Kamer met uitzicht (Habitación con vistas al exterior)"
           ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1968,
+      "section": "Sección Informativa · largometrajes",
+      "films": [
+        {
+          "title": "Playtime",
+          "director": "Jacques Tati",
+          "aliases": [
+            "PlayTime"
+          ],
+          "wins": [
+            "Premio 13 Semana"
+          ],
+          "nominations": [],
+          "filmYear": 1967,
+          "award": "Premio 13 Semana"
         },
         {
-          "title": "Detrás de la ventana",
-          "director": "Jean Schmidt",
-          "filmYear": 1967,
-          "award": "Premio Asociación Fotográfica Vallisoletana · Mejor Fotografía",
-          "nominations": [],
+          "title": "Nazarín",
+          "director": "Luis Buñuel",
+          "aliases": [],
           "wins": [
-            "Premio Asociación Fotográfica Vallisoletana · Mejor Fotografía"
+            "Mención Especial",
+            "Premio Revista «Cinestudio»"
           ],
-          "aliases": [
-            "Derrière la fenêtre"
-          ]
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Mención Especial · Premio Revista «Cinestudio»"
         }
       ]
     }

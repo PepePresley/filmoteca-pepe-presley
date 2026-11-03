@@ -3482,68 +3482,154 @@
     {
       "festival": "Seminci",
       "year": 2004,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Hierro 3",
-          "director": "Kim Ki Duk",
-          "filmYear": 2004,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": []
-        },
         {
           "title": "Luna de Avellaneda",
           "director": "Juan José Campanella",
           "filmYear": 2004,
-          "award": "Mejor actor · Ricardo Darín",
+          "award": "Premio al Mejor Actor · Ricardo Darín",
           "nominations": [],
           "wins": [
-            "Mejor actor · Ricardo Darín"
+            "Premio al Mejor Actor · Ricardo Darín"
           ],
-          "aliases": []
+          "aliases": [
+            "Luna de avellaneda"
+          ]
         },
         {
           "title": "2046",
           "director": "Wong Kar Wai",
           "filmYear": 2004,
-          "award": "Mejor fotografía · Christopher Doyle, Lai Yiu Fai, Kwan Pun Leung · FIPRESCI - Jurado de la Crítica Internacional",
+          "award": "Premio a la Mejor Dirección de Fotografía · Christopher Doyle, Lai Yiu-fai y Kwan Pun Leung · Premio FIPRESCI",
           "nominations": [],
           "wins": [
-            "Mejor fotografía · Christopher Doyle, Lai Yiu Fai, Kwan Pun Leung",
-            "FIPRESCI - Jurado de la Crítica Internacional"
+            "Premio a la Mejor Dirección de Fotografía · Christopher Doyle, Lai Yiu-fai y Kwan Pun Leung",
+            "Premio FIPRESCI"
           ],
           "aliases": []
+        },
+        {
+          "title": "Hierro 3",
+          "director": "Kim Ki Duk",
+          "filmYear": 2004,
+          "award": "Espiga de Oro · Premio de la Juventud",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro",
+            "Premio de la Juventud"
+          ],
+          "aliases": [
+            "Bin-Jip (Hierro 3)",
+            "Bin-jip (Hierro 3)"
+          ]
         },
         {
           "title": "Buena vida (Delivery)",
           "director": "Leonardo Di Cesare",
           "filmYear": 2004,
-          "award": "Mejor dirección novel · Leonardo Di Cesare",
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director · Leonardo di Cesare",
           "nominations": [],
           "wins": [
-            "Mejor dirección novel · Leonardo Di Cesare"
+            "Premio «Pilar Miró» al Mejor Nuevo Director · Leonardo di Cesare"
           ],
-          "aliases": []
+          "aliases": [
+            "Buena Vida-Delivery",
+            "Buena vida-delivery"
+          ]
         },
         {
           "title": "Caminos cruzados",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "director": "Manuel Poirier",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Chemins de traverse (Caminos cruzados)"
+          ]
+        },
+        {
+          "title": "In My Country",
+          "director": "John Boorman",
+          "filmYear": 2004,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Un país en África",
+            "Country of My Skull (Un país en África)"
+          ]
+        },
+        {
+          "title": "Nadie sabe",
+          "director": "Hirokazu Koreeda",
+          "filmYear": 2004,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Daremo chiranai (Nadie sabe)"
+          ]
+        },
+        {
+          "title": "Días de Santiago",
+          "director": "Josué Méndez",
+          "filmYear": 2004,
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
-          "title": "Coffee and Cigarettes",
-          "director": "Jim Jarmusch",
-          "filmYear": 2003,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "title": "La cara oculta de la Luna",
+          "director": "Robert Lepage",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
+          "aliases": [
+            "La face cachée de la lune (La cara oculta de la luna)",
+            "La cara oculta de la luna"
+          ]
+        },
+        {
+          "title": "Solo un beso",
+          "director": "Ken Loach",
+          "filmYear": 2004,
+          "award": "Premio del Público",
+          "nominations": [],
+          "wins": [
+            "Premio del Público"
+          ],
+          "aliases": [
+            "Sólo un beso",
+            "Ae Fond Kiss...",
+            "Ae Fond Kiss (Sólo un beso)",
+            "Ae Fond Kiss… (Sólo un beso)"
+          ]
+        },
+        {
+          "title": "En tus manos",
+          "director": "Annette K. Olesen",
+          "filmYear": 2004,
+          "award": "Premio Especial del Jurado",
+          "nominations": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "aliases": [
+            "Forbrydelser",
+            "Forbrydelser (En tus manos)"
+          ]
+        },
+        {
+          "title": "María querida",
+          "director": "José Luis García Sánchez",
+          "filmYear": 2004,
+          "award": "Premio a la Mejor Actriz · Pilar Bardem",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Actriz · Pilar Bardem"
+          ],
           "aliases": []
         },
         {
@@ -3557,98 +3643,16 @@
           ],
           "aliases": [
             "Domicilio Privado",
-            "Private"
-          ]
-        },
-        {
-          "title": "In My Country",
-          "director": "John Boorman",
-          "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Un país en África"
-          ]
-        },
-        {
-          "title": "Días de Santiago",
-          "director": "Josué Méndez",
-          "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Nadie sabe",
-          "director": "Hirokazu Koreeda",
-          "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "La cara oculta de la Luna",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Solo un beso",
-          "director": "Ken Loach",
-          "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Sólo un beso",
-            "Ae Fond Kiss..."
-          ]
-        },
-        {
-          "title": "En tus manos",
-          "director": "Annette K. Olesen",
-          "filmYear": 2004,
-          "award": "Premio Especial del Jurado",
-          "nominations": [],
-          "wins": [
-            "Premio Especial del Jurado"
-          ],
-          "aliases": [
-            "Forbrydelser"
-          ]
-        },
-        {
-          "title": "María querida",
-          "director": "José Luis García Sánchez",
-          "filmYear": 2004,
-          "award": "Mejor actriz · Pilar Bardem",
-          "nominations": [],
-          "wins": [
-            "Mejor actriz · Pilar Bardem"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Promised Land (La tierra prometida)",
-          "director": "Amos Gitai",
-          "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Ha-Aretz Hamuvtachat"
+            "Private",
+            "Private (Domicilio Privado)",
+            "Private (Domicilio privado)"
           ]
         },
         {
           "title": "Temporada de patos",
           "director": "Fernando Eimbcke",
           "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3657,42 +3661,224 @@
           "title": "Todo un invierno sin fuego",
           "director": "Greg Zglinski",
           "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Tout un hiver sans feu"
-          ]
-        },
-        {
-          "title": "Eleni (Trilogía I: Eleni)",
-          "director": "Theo Angelopoulos",
-          "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Eleni"
+            "Tout un hiver sans feu",
+            "Tout un hiver sans fue (Todo un invierno sin fuego)"
           ]
         },
         {
           "title": "La vida es un milagro",
           "director": "Emir Kusturica",
           "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Život je čudo"
+            "Život je čudo",
+            "Zivot je cudo (La vida es un milagro)"
           ]
         },
         {
           "title": "Sur (Het zuiden)",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "director": "Martin Koolhoven",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Het zuiden (Sur)",
+            "Sur"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2004,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "La mirada de Antonioni",
+          "director": "Michelangelo Antonioni",
+          "aliases": [
+            "La mirada de Michelangelo",
+            "Lo sguardo di Michelangelo",
+            "Lo sguardo di Michelangelo (La mirada de Michelangelo)"
+          ],
+          "wins": [
+            "Premio FIPRESCI"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio FIPRESCI"
+        },
+        {
+          "title": "Ryan",
+          "director": "Chris Landreth",
+          "aliases": [],
+          "wins": [
+            "Premio de la Juventud",
+            "Espiga de Oro al Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio de la Juventud · Espiga de Oro al Cortometraje"
+        },
+        {
+          "title": "Mabel’s Saga (La saga de Mabel)",
+          "director": "Jodee Samuelson",
+          "aliases": [
+            "La saga de Mabel"
+          ],
+          "wins": [
+            "Espiga de Plata al Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Espiga de Plata al Cortometraje"
+        },
+        {
+          "title": "L’homme sans ombre (El hombre sin sombra)",
+          "director": "Georges Schwizgebel",
+          "aliases": [
+            "El hombre sin sombra"
+          ],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "Randevú",
+          "director": "Ferenc Cakó",
+          "aliases": [],
+          "wins": [
+            "Premio UIP Valladolid (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio UIP Valladolid (ex aequo)"
+        },
+        {
+          "title": "Rain Is Falling (Cae la lluvia)",
+          "director": "Holger Ernst",
+          "aliases": [
+            "Cae la lluvia"
+          ],
+          "wins": [
+            "Premio UIP Valladolid (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio UIP Valladolid (ex aequo)"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2004,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Habana, Havana",
+          "director": "Alberto Arvelo",
+          "aliases": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Kavir-e marg (Calor mortal bajo la maleza)",
+          "director": "Esmael Barari",
+          "aliases": [
+            "Calor mortal bajo la maleza"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Ha-kochavim shel Shlomi (Bonjour monsieur Shlomi)",
+          "director": "Shemi Zarhin",
+          "aliases": [
+            "Bonjour monsieur Shlomi"
+          ],
+          "wins": [
+            "Largometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Largometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2004,
+      "section": "Punto de Encuentro · cortometrajes premiados",
+      "films": [
+        {
+          "title": "El invierno pasado",
+          "director": "Rubén Alonso",
+          "aliases": [],
+          "wins": [
+            "Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Cortometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2004,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "The Boy who Plays on the Buddhas of Bamiyan (El niño que juega sobre los Budas de Bamiyán)",
+          "director": "Phil Grabsky",
+          "aliases": [
+            "El niño que juega sobre los Budas de Bamiyán"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "20 años no es nada",
+          "director": "Joaquim Jordá",
+          "aliases": [],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "Las cajas españolas",
+          "director": "Alberto Porlan",
+          "aliases": [],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2004,
+          "award": "Segundos Premios"
         }
       ]
     }

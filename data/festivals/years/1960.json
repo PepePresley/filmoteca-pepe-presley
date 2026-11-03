@@ -4221,19 +4221,256 @@
     {
       "festival": "Seminci",
       "year": 1960,
-      "section": "Ganadora de Espiga de Oro (selección completa no disponible)",
+      "section": "Largometrajes",
       "films": [
+        {
+          "title": "El puente",
+          "director": "Bernhard Wicki",
+          "filmYear": 1959,
+          "award": "Espiga de Plata · Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata",
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Die Brücke",
+            "Die brücke (El puente)",
+            "Die Brücke (El puente)"
+          ]
+        },
+        {
+          "title": "Stalingrado: Batalla en el Infierno",
+          "director": "Frank Wisbar",
+          "aliases": [
+            "Stalingrado",
+            "Hunde, wollt ihr ewig leben",
+            "Hunde, wollt ihr Ewig Leben (Stalingrado)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Noche amarga",
+          "director": "Falk Harnack",
+          "aliases": [
+            "Noche intranquila",
+            "Unruhige Nacht",
+            "Unruhige nacht (Noche intranquila)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1958,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Wir wunderkinder (Los hijos prodigios)",
+          "director": "Kurt Hoffman",
+          "aliases": [
+            "Los hijos prodigios"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1958,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Angustia de un secreto",
+          "director": "Enrique Carreras",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Zafra",
+          "director": "Lucas Demare",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Tokèndé",
+          "director": "Paul Leleu",
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Tokendé"
+          ],
+          "filmYear": 1958
+        },
+        {
+          "title": "La hora final",
+          "director": "Stanley Kramer",
+          "aliases": [
+            "On the Beach",
+            "On the Beach (La hora final)"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "The Last Angry man (Esclavo del deber)",
+          "director": "Daniel Mann",
+          "aliases": [
+            "Esclavo del deber"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "La encrucijada",
+          "director": "Alfonso Balcazar",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Los abanderados de la providencia",
+          "director": "José Luis Pérez de Rozas",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1960,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Los chicos",
+          "director": "Marco Ferreri",
+          "filmYear": 1959,
+          "award": "Mención Especial",
+          "nominations": [],
+          "wins": [
+            "Mención Especial"
+          ],
+          "aliases": []
+        },
         {
           "title": "Los cuatrocientos golpes",
           "director": "François Truffaut",
           "filmYear": 1959,
-          "award": "Mejor película · Espiga de Oro",
+          "award": "Espiga de Oro",
           "nominations": [],
           "wins": [
-            "Mejor película · Espiga de Oro"
+            "Espiga de Oro"
           ],
           "aliases": [
-            "Les Quatre Cents Coups"
+            "Les Quatre Cents Coups",
+            "Les quatre cents coups (Los cuatrocientos golpes)"
+          ]
+        },
+        {
+          "title": "Tu es Pierre (Tú eres Pedro)",
+          "director": "Philippe Agostini",
+          "aliases": [
+            "Tú eres Pedro"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1958,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "The Boy and the Bridge (El muchacho y el puente)",
+          "director": "Kevin McClory",
+          "aliases": [
+            "El muchacho y el puente"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El tiempo se ha detenido",
+          "director": "Ermanno Olmi",
+          "filmYear": 1959,
+          "award": "Espiga de Plata",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "aliases": [
+            "Il tempo si è fermato",
+            "Il tempo si è fermato (El tiempo se ha parado)",
+            "El tiempo se ha parado"
+          ]
+        },
+        {
+          "title": "Un ettaro di cielo (Una hectárea de cielo)",
+          "director": "Aglauco Casadio",
+          "aliases": [
+            "Una hectárea de cielo"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1958,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El cantar de los cantares",
+          "director": "Manuel Altolaguirre",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Las rosas del milagro",
+          "director": "Julian Soler",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Los desarraigados",
+          "director": "Valentín Gazcon",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1958,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Yo, pecador",
+          "director": "Alfonso Corona Blake",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1959,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El séptimo sello",
+          "director": "Ingmar Bergman",
+          "filmYear": 1957,
+          "award": "Lábaro de Oro · Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Lábaro de Oro",
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": [
+            "Det sjunde inseglet",
+            "Det Sjunde inseglet (El séptimo sello)",
+            "Det sjunde inseglet (El séptimo sello)"
           ]
         }
       ]
@@ -4241,68 +4478,31 @@
     {
       "festival": "Seminci",
       "year": 1960,
-      "section": "Películas premiadas · sección de programación no indicada en las fuentes consultadas",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
-          "title": "El puente",
-          "director": "Bernhard Wicki",
-          "filmYear": 1959,
-          "award": "Espiga de Plata · Premio CEC",
-          "nominations": [],
-          "wins": [
-            "Espiga de Plata",
-            "Premio CEC"
-          ],
+          "title": "La luce sul monte (La luz sobre el monte)",
+          "director": "Mario Costa y Rinaldo dal Fabbro",
           "aliases": [
-            "Die Brücke"
-          ]
-        },
-        {
-          "title": "Tokèndé",
-          "director": "",
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [],
-          "wins": [
-            "Premio de la Ciudad de Valladolid"
+            "La luz sobre el monte"
           ],
-          "aliases": []
-        },
-        {
-          "title": "El séptimo sello",
-          "director": "Ingmar Bergman",
-          "filmYear": 1957,
-          "award": "Golden Labarum · Mejor película",
-          "nominations": [],
           "wins": [
-            "Golden Labarum · Mejor película"
+            "Lábaro de Oro"
           ],
-          "aliases": [
-            "Det sjunde inseglet"
-          ]
-        },
-        {
-          "title": "El tiempo se ha detenido",
-          "director": "Ermanno Olmi",
+          "nominations": [],
           "filmYear": 1959,
-          "award": "Mención especial",
-          "nominations": [],
-          "wins": [
-            "Mención especial"
-          ],
-          "aliases": [
-            "Il tempo si è fermato"
-          ]
+          "award": "Lábaro de Oro"
         },
         {
-          "title": "Los chicos",
-          "director": "Marco Ferreri",
-          "filmYear": 1959,
-          "award": "Mención especial",
-          "nominations": [],
+          "title": "La sangre",
+          "director": "José Luis Gonzalvo",
+          "aliases": [],
           "wins": [
-            "Mención especial"
+            "Espiga de Oro"
           ],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1960,
+          "award": "Espiga de Oro"
         }
       ]
     }

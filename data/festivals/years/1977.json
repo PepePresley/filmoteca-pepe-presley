@@ -3835,42 +3835,26 @@
     {
       "festival": "Seminci",
       "year": 1977,
-      "section": "Espiga de Oro / Golden Spike (selección según IMDb, con resultados FilmAffinity)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Providence",
-          "director": "Alain Resnais",
-          "filmYear": 1977,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": []
-        },
         {
           "title": "Corazón de cristal",
           "director": "Werner Herzog",
           "filmYear": 1976,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Herz aus Glas"
+            "Herz aus Glas",
+            "Herz aus Glas (Corazón de cristal)"
           ]
         },
         {
           "title": "Lina Braake",
           "director": "Bernhard Sinkel",
           "filmYear": 1975,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -3878,33 +3862,30 @@
           "title": "La sombra de los ángeles",
           "director": "Daniel Schmid",
           "filmYear": 1976,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "La sombra de los ángeles"
+            "La sombra de los ángeles",
+            "Schatten der Engel (La sombra de los ángeles)"
           ]
         },
         {
           "title": "Los machos",
           "director": "Gilles Carle",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Les mâles (Los machos)"
+          ]
         },
         {
           "title": "Hester Street",
           "director": "Joan Micklin Silver",
           "filmYear": 1975,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -3912,10 +3893,8 @@
           "title": "Rocky",
           "director": "John G. Avildsen",
           "filmYear": 1976,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -3923,22 +3902,20 @@
           "title": "La tapadera",
           "director": "Martin Ritt",
           "filmYear": 1976,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "The Front"
+            "The Front",
+            "The Front (El testaferro)",
+            "El testaferro"
           ]
         },
         {
           "title": "Gulliver",
           "director": "Alfonso Ungría",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -3946,34 +3923,45 @@
           "title": "El juez y el asesino",
           "director": "Bertrand Tavernier",
           "filmYear": 1976,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "El Juez Y El Asesino",
-            "Le Juge et l'Assassin"
+            "Le Juge et l'Assassin",
+            "Le juge et l’assassin (El juez y el asesino)"
           ]
         },
         {
-          "title": "Otobüs",
-          "director": "Tunç Okan",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Providence",
+          "director": "Alain Resnais",
+          "filmYear": 1977,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Providence (Providencia)",
+            "Providencia"
+          ]
+        },
+        {
+          "title": "The Bus (El autobús)",
+          "director": "Bay Okan",
+          "aliases": [
+            "El autobús"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Winstanley",
           "director": "Kevin Brownlow, Andrew Mollo",
           "filmYear": 1975,
           "award": "Premio San Gregorio",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio San Gregorio"
           ],
@@ -3982,42 +3970,77 @@
         {
           "title": "L'Agnese va a morire",
           "director": "Giuliano Montaldo",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "L’agnese va a morire"
+          ]
         },
         {
-          "title": "Hazardzisci",
-          "director": "Mieczyslaw Waskowski",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "Hazardisci",
+          "director": "Mieczyslaw Waskovski",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1977,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
+      "section": "Sección Informativa · largometrajes",
       "films": [
         {
           "title": "Jonás, que cumplirá los 25 años en el año 2000",
           "director": "Alain Tanner",
           "filmYear": 1976,
-          "award": "Premio de la Ciudad de Valladolid",
+          "award": "Premio Ciudad de Valladolid",
           "nominations": [],
           "wins": [
-            "Premio de la Ciudad de Valladolid"
+            "Premio Ciudad de Valladolid"
           ],
           "aliases": [
-            "Jonas qui aura 25 ans en l'an 2000"
+            "Jonas qui aura 25 ans en l'an 2000",
+            "Jonas qui aura 25 ans en l’an 2000 (Jonás, que cumplirá los 25 en el año 2000)",
+            "Jonás, que cumplirá los 25 en el año 2000"
           ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1977,
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "haber sido presentado fuera de concurso",
+          "director": "debido a su formato de",
+          "aliases": [],
+          "wins": [
+            "Premio del Instituto de Cultura Hispánica, Carabela de Plata · El jurado lamenta no poder considerar el film Muerte de Sebastián Arache y su pobre entierro, de Nicolás Sarquis, Argentina, 1977"
+          ],
+          "nominations": [],
+          "award": "Premio del Instituto de Cultura Hispánica, Carabela de Plata · El jurado lamenta no poder considerar el film Muerte de Sebastián Arache y su pobre entierro, de Nicolás Sarquis, Argentina, 1977"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1977,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Viure sense viure",
+          "director": "Carles Mira",
+          "aliases": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1976,
+          "award": "Espiga de Oro"
         }
       ]
     }

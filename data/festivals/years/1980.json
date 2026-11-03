@@ -4796,147 +4796,172 @@
     {
       "festival": "Seminci",
       "year": 1980,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "Sluzhebno polozhenie-ordinaretz",
-          "director": "Kiran Kolarov",
-          "filmYear": 1978,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "Stanowisko: ordynans"
-          ]
-        },
         {
           "title": "Das Ende des Regenbogens",
           "director": "Uwe Frießner",
           "filmYear": 1979,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Das ende des Regenbogens (Al final del arco iris)",
+            "Al final del arco iris"
+          ]
         },
         {
           "title": "Die Ortliebschen Frauen",
           "director": "Luc Bondy",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Die Ortliebsche Frauen (La mortificación)",
+            "La mortificación"
+          ],
+          "filmYear": 1979
         },
         {
           "title": "Geburt der Hexe",
           "director": "Wilfried Minks",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Geburt der Hexe (El nacimiento de una bruja)",
+            "El nacimiento de una bruja"
+          ],
+          "filmYear": 1979
         },
         {
           "title": "Magnum Begynasium Bruxellense",
           "director": "Boris Lehman",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Magnun Begynasium Bruxellense"
+          ],
+          "filmYear": 1975
         },
         {
           "title": "Los encuentros de Ana",
           "director": "Chantal Akerman",
           "filmYear": 1978,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Les Rendez-vous d'Anna"
+            "Les Rendez-vous d'Anna",
+            "Les rendez-vous d’Anna (Los encuentros de Ana)"
           ]
         },
         {
-          "title": "Voynata na taralezhite",
-          "director": "Ivanka Grybcheva",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Profesión: ordenanza",
+          "director": "Kiran Kolarov",
+          "filmYear": 1978,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Stanowisko: ordynans",
+            "Professia: Ordinarets (Profesión: Ordenanza)",
+            "Profesión: Ordenanza",
+            "Sluzhebno polozhenie: ordinaretz (Profesión: ordenanza)",
+            "Profesión: ordenanza",
+            "Sluzhebno polozhenie-ordinaretz"
+          ]
+        },
+        {
+          "title": "The Hedgehogs War (La guerra de los erizos)",
+          "director": "Ivanka Grabtcheva",
+          "aliases": [
+            "La guerra de los erizos"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Balada pro banditu",
           "director": "Vladimír Sís",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Balada pro banditu (Balada para el bandido)",
+            "Balada para el bandido"
+          ],
+          "filmYear": 1978
         },
         {
           "title": "Krehké vztahy",
           "director": "Juraj Herz",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Krehke Vztahy (Las relaciones frágiles)",
+            "Las relaciones frágiles"
+          ],
+          "filmYear": 1979
         },
         {
           "title": "El caballo del orgullo",
           "director": "Claude Chabrol",
-          "award": "Mención Especial del Jurado",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Menciones Especiales",
+          "nominations": [],
           "wins": [
-            "Mención Especial del Jurado"
+            "Menciones Especiales"
           ],
-          "aliases": []
+          "aliases": [
+            "Le cheval d’orgueil (El caballo del orgullo)",
+            "Le Cheval d'orgueil"
+          ],
+          "filmYear": 1980
+        },
+        {
+          "title": "Guns",
+          "director": "Robert Kramer",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Cauchemar",
           "director": "Noël Simsolo",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Cauchemar (Pesadillas)",
+            "Pesadillas"
+          ]
         },
         {
           "title": "Histoire d'Adrien",
           "director": "Jean-Pierre Denis",
-          "award": "Mención honorífica (IMDb)",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Menciones Especiales",
+          "nominations": [],
           "wins": [
-            "Mención honorífica (IMDb)"
+            "Menciones Especiales"
           ],
-          "aliases": []
+          "aliases": [
+            "Histoire d’Adrien (Historia de Adrián)",
+            "Historia de Adrián"
+          ],
+          "filmYear": 1979
         },
         {
           "title": "La rockera",
           "director": "Brian Gibson",
           "filmYear": 1980,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "Breaking Glass"
@@ -4945,40 +4970,43 @@
         {
           "title": "La sangre de Hussain",
           "director": "Jamil Dehlavi",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "The Blood of Hussain (La sangre de Hussain)"
+          ]
         },
         {
           "title": "Afternoon of War",
           "director": "Karl Francis",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Afternoon of War (Tarde de guerra)",
+            "Tarde de guerra"
+          ]
         },
         {
-          "title": "O Megalexandros",
-          "director": "Theodoros Angelopoulos",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Cabeza borradora",
+          "director": "David Lynch",
+          "filmYear": 1977,
+          "award": "Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Menciones Especiales"
           ],
-          "wins": [],
-          "aliases": []
+          "aliases": [
+            "Eraserhead",
+            "Eraserhead (Cabeza borradora)"
+          ]
         },
         {
           "title": "Melodrama?",
           "director": "Nikos Panayotopoulos",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -4986,10 +5014,8 @@
           "title": "Opname",
           "director": "Marja Kok, Erik van Zuylen",
           "filmYear": 1979,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -4997,139 +5023,118 @@
           "title": "Csontváry",
           "director": "Zoltán Huszárik",
           "filmYear": 1980,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Csontvary (Pesadillas)",
+            "Pesadillas"
+          ]
         },
         {
           "title": "Ek Din Pratidin",
           "director": "Mrinal Sen",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Edkin pratidin (Un día cualquiera)",
+            "Un día cualquiera"
+          ]
         },
         {
-          "title": "Mentiras inocentes",
+          "title": "Bugie Bianche",
           "director": "Stefano Rolla",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1979,
+          "award": "Selección oficial"
         },
         {
           "title": "Uomini e no",
           "director": "Valentino Orsini",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Uomin e no"
+          ],
+          "filmYear": 1979
         },
         {
           "title": "Aziza",
           "director": "Abdellatif Ben Ammar",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "Aktorzy prowincjonalni",
           "director": "Agnieszka Holland",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Aktorrzy Prowincjonalni (Actores provinciales)",
+            "Actores provinciales"
+          ],
+          "filmYear": 1979
+        },
+        {
+          "title": "Amor de perdición",
+          "director": "Manoel de Oliveira",
+          "aliases": [
+            "Amor de Perdição",
+            "Amor de perdiçao (Amor de perdición)"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "filmYear": 1978,
+          "award": "Selección oficial"
         },
         {
           "title": "Manhã Submersa",
           "director": "Lauro António",
           "filmYear": 1980,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Mañana sumergida"
+            "Mañana sumergida",
+            "Manha submersa (Las brumas del alba)",
+            "Las brumas del alba"
           ]
         },
         {
           "title": "Los últimos días de Oblomov",
           "director": "Nikita Mikhalkov",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Neskolko dnei iz gizni Oblomova (Los últimos días de Oblomov)"
+          ],
+          "filmYear": 1978
         },
         {
-          "title": "Ramdenime interviu pirad sakitkhebze",
-          "director": "Lana Gogoberidze",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "title": "Algunas cuestiones acerca de problemas personales",
+          "director": "Laná Godoberdze",
+          "aliases": [],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Ritorno a casa",
           "director": "Nino Jacusso",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "The Airman",
-          "director": "Kiran Kolarov",
-          "filmYear": 1980,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": [
-            "Vazdushniyat chovek"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 1980,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
-      "films": [
-        {
-          "title": "Cabeza borradora",
-          "director": "David Lynch",
-          "filmYear": 1977,
-          "award": "Mención Especial del Jurado",
+          "award": "Selección oficial",
           "nominations": [],
-          "wins": [
-            "Mención Especial del Jurado"
-          ],
+          "wins": [],
           "aliases": [
-            "Eraserhead"
+            "Ritorno a casa (Regreso a casa)",
+            "Regreso a casa"
           ]
         }
       ]
@@ -5137,7 +5142,7 @@
     {
       "festival": "Seminci",
       "year": 1980,
-      "section": "Cortometrajes premiados",
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
           "title": "Lina y Tina",
@@ -5148,9 +5153,7 @@
           "wins": [
             "Espiga de Oro"
           ],
-          "aliases": [
-            "Lina y Tina"
-          ]
+          "aliases": []
         },
         {
           "title": "Espárragos",
@@ -5162,7 +5165,8 @@
             "Mención Especial"
           ],
           "aliases": [
-            "Asparagua"
+            "Asparagua",
+            "Asparagua (Espárragos)"
           ]
         }
       ]

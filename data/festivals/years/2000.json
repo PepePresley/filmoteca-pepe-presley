@@ -2919,49 +2919,31 @@
     {
       "festival": "Seminci",
       "year": 2000,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
-          "title": "Réquiem por un sueño",
-          "director": "Darren Aronofsky",
-          "filmYear": 2000,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": [
-            "Requiem for a Dream"
-          ]
-        },
-        {
-          "title": "La ciudad está tranquila",
-          "director": "Robert Guédiguian",
-          "filmYear": 2000,
-          "award": "Mejor Película - Espiga de Oro · Mejor actriz · Ariane Ascaride",
-          "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro",
-            "Mejor actriz · Ariane Ascaride"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Bailar en la oscuridad",
-          "director": "Lars von Trier",
-          "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
+          "title": "L’amour, l’argent, l’amour",
+          "director": "Philip Gröning",
+          "aliases": [],
           "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Azucena (Carne de perro)",
+          "director": "Carlos Siguion-Reyna, Filipinas",
           "aliases": [
-            "Dancer in the Dark"
-          ]
+            "Carne de perro"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Báilame el agua",
           "director": "Josetxo San Mateo",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -2970,39 +2952,36 @@
           "title": "Billy Elliot (Quiero bailar)",
           "director": "Stephen Daldry",
           "filmYear": 2000,
-          "award": "Mejor dirección novel · Stephen Daldry",
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director · Stephen Daldry · Premio del Público",
           "nominations": [],
           "wins": [
-            "Mejor dirección novel · Stephen Daldry"
+            "Premio «Pilar Miró» al Mejor Nuevo Director · Stephen Daldry",
+            "Premio del Público"
           ],
           "aliases": [
-            "Billy Elliot"
+            "Billy Elliot",
+            "Billly Elliot (Quiero bailar)",
+            "Quiero bailar"
           ]
         },
         {
           "title": "Pan y rosas",
           "director": "Ken Loach",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Bread and Roses"
+            "Bread and Roses",
+            "Bread and Roses (Pan y Rosas)",
+            "Pan y Rosas"
           ]
-        },
-        {
-          "title": "Brother",
-          "director": "Aleksei Balabanov",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
         },
         {
           "title": "Divertimento",
           "director": "José García Hernández",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3011,22 +2990,25 @@
           "title": "Esperando al mesías",
           "director": "Daniel Burman",
           "filmYear": 2000,
-          "award": "FIPRESCI - Jurado de la Crítica Internacional",
+          "award": "Premio FIPRESCI",
           "nominations": [],
           "wins": [
-            "FIPRESCI - Jurado de la Crítica Internacional"
+            "Premio FIPRESCI"
           ],
           "aliases": [
             "Esperando al Mesías"
           ]
         },
         {
-          "title": "Comida rápida, mujeres activas",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
+          "title": "Fast Food Fast Women",
+          "director": "Amos Kollek, Estaos Unidos/Francia/Alemania",
+          "aliases": [
+            "Fast Food, Fast Women"
+          ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 2000
         },
         {
           "title": "Girlfight",
@@ -3043,22 +3025,23 @@
           "title": "La casa de la alegría",
           "director": "Terence Davies",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "The House of Mirth"
+            "The House of Mirth",
+            "The House of Mirth (La casa de la alegría)"
           ]
         },
         {
           "title": "La ley de Herodes",
           "director": "Luis Estrada",
           "filmYear": 1999,
-          "award": "Mejor actor · Damián Alcázar · Mejor fotografía · Norman Christianson",
+          "award": "Premio al Mejor Actor · Damián Alcázar · Premio a la Mejor Dirección de Fotografía · Norman Christianson",
           "nominations": [],
           "wins": [
-            "Mejor actor · Damián Alcázar",
-            "Mejor fotografía · Norman Christianson"
+            "Premio al Mejor Actor · Damián Alcázar",
+            "Premio a la Mejor Dirección de Fotografía · Norman Christianson"
           ],
           "aliases": []
         },
@@ -3066,7 +3049,7 @@
           "title": "Liam",
           "director": "Stephen Frears",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3075,16 +3058,20 @@
           "title": "Luna Papa",
           "director": "Bakhtyar Khudojnazarov",
           "filmYear": 1999,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Premio de la Juventud",
           "nominations": [],
-          "wins": [],
-          "aliases": []
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "aliases": [
+            "Luna papa"
+          ]
         },
         {
           "title": "Nueces para el amor",
           "director": "Alberto Lecchi",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3101,13 +3088,210 @@
           "aliases": []
         },
         {
+          "title": "Réquiem por un sueño",
+          "director": "Darren Aronofsky",
+          "filmYear": 2000,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Requiem for a Dream",
+            "Requiem for a Dream (Requiem por un sueño)",
+            "Requiem por un sueño"
+          ]
+        },
+        {
+          "title": "La ciudad está tranquila",
+          "director": "Robert Guédiguian",
+          "filmYear": 2000,
+          "award": "Espiga de Oro (ex aequo) · Premio a la Mejor Actriz · Ariane Ascaride",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)",
+            "Premio a la Mejor Actriz · Ariane Ascaride"
+          ],
+          "aliases": [
+            "La Ville est tranquille (El pueblo está tranquilo)",
+            "El pueblo está tranquilo",
+            "La ville est tranquille (La ciudad está tranquila)"
+          ]
+        },
+        {
+          "title": "La voleuse de Saint Lubin (La ladrona de Saint Lubin)",
+          "director": "Claire Devers",
+          "aliases": [
+            "La ladrona de Saint Lubin"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1999,
+          "award": "Selección oficial"
+        },
+        {
           "title": "Yi Yi",
           "director": "楊德昌",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Yi yi (Un uno y un dos…)",
+            "Un uno y un dos…"
+          ]
+        },
+        {
+          "title": "Concierto ‘Clásicos del Cine Español’",
+          "director": "bajo la dirección de José Nieto e interpretados por la Orquesta Sinfónica de Castilla y León – Gala de clausura",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "un sueño)",
+          "director": "Darren Aronofsky",
+          "aliases": [],
+          "wins": [
+            "Espiga de Oro (ex aequo) · Requiem for a Dream (Réquiem"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Espiga de Oro (ex aequo) · Requiem for a Dream (Réquiem"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2000,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Sonnenallee (El callejón del sol)",
+          "director": "Leander Haußmann",
+          "aliases": [
+            "El callejón del sol"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 1999,
+          "award": "Premio de la Juventud"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2000,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Le taxi (El taxi)",
+          "director": "Gabriel Mamruth",
+          "aliases": [
+            "El taxi"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Nu (No)",
+          "director": "Dragos Iuga",
+          "aliases": [
+            "No"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 1999,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Bone (Hueso)",
+          "director": "Darren Walsh",
+          "aliases": [
+            "Hueso"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Le chapeau",
+          "director": "Michèle Cournoyer",
+          "aliases": [
+            "El sombrero",
+            "Le chapeau (El sombrero)"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 1999,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Lo básico",
+          "director": "José García Hernández",
+          "aliases": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2000,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Crazy",
+          "director": "Heddy Honigmann",
+          "aliases": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "A St. Petersburg Symphony (Una sinfonía de San Petersburgo)",
+          "director": "Sasha Snow",
+          "aliases": [
+            "Una sinfonía de San Petersburgo"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Min mamma hade fjorton barn (Mi madre tuvo catorce hijos)",
+          "director": "Lars-Lennart Forsberg",
+          "aliases": [
+            "Mi madre tuvo catorce hijos"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
         }
       ]
     }

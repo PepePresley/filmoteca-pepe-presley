@@ -3118,50 +3118,25 @@
     {
       "festival": "Seminci",
       "year": 2002,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Sweet Sixteen (Felices dieciséis)",
-          "director": "Ken Loach",
-          "filmYear": 2002,
-          "award": "Mejor Película - Espiga de Oro · Mejor fotografía · Barry Ackroyd",
-          "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro",
-            "Mejor fotografía · Barry Ackroyd"
-          ],
-          "aliases": [
-            "Felices dieciséis",
-            "Sweet Sixteen"
-          ]
-        },
         {
           "title": "Sólo te tengo a ti",
           "director": "Laetitia Colombani",
           "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "À la folie... pas du tout"
-          ]
-        },
-        {
-          "title": "Amén",
-          "director": "Costa Gavras",
-          "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Amen."
+            "À la folie... pas du tout",
+            "À la folie… pas de tout (Sólo te tengo a ti)"
           ]
         },
         {
           "title": "Ararat",
           "director": "Atom Egoyan",
           "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3169,16 +3144,26 @@
         {
           "title": "El hijo",
           "director": "Jean-Pierre Dardenne, Luc Dardenne",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Le fils (El hijo)"
+          ]
+        },
+        {
+          "title": "El gran Gato",
+          "director": "Ventura Pons",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "La habitación azul",
           "director": "Walter Doehner",
           "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3187,65 +3172,93 @@
           "title": "A media escalera",
           "director": "Andreas Dresen",
           "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Halbe Treppe"
+            "Halbe Treppe",
+            "Halbe Treppe (A mitad de camino)",
+            "A mitad de camino"
           ]
         },
         {
           "title": "Ken Park",
           "director": "Larry Clark, Edward Lachman",
           "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
-          "title": "Las hermanas de la Magdalena",
-          "director": "Peter Mullan",
-          "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "The Magdalene Sisters"
-          ]
-        },
-        {
           "title": "Marie-Jo y sus dos amores",
           "director": "Robert Guédiguian",
           "filmYear": 2002,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Marie-Jo et ses deux amours"
+            "Marie-Jo et ses deux amours",
+            "Marie-Jo et ses deux amours (Marie-Jo y sus dos amores)"
           ]
         },
         {
           "title": "En un lugar de África",
           "director": "Caroline Link",
           "filmYear": 2001,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Nirgendwo in Afrika"
+            "Nirgendwo in Afrika",
+            "Nirgendwo in Afrika (En un lugar perdido de África)",
+            "En un lugar perdido de África"
           ]
+        },
+        {
+          "title": "Rachida",
+          "director": "Yamina Bachir, Argelia/Francia",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Resurrección (TV)",
           "director": "Russell Mulcahy",
           "filmYear": 1999,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
             "Resurrección",
-            "Resurrection"
+            "Resurrection",
+            "Resurrezione (Resurrección)"
+          ]
+        },
+        {
+          "title": "Sma ulykker (Pequeños contratiempos)",
+          "director": "Annette K. Olesen",
+          "aliases": [
+            "Pequeños contratiempos"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Sweet Sixteen (Felices dieciséis)",
+          "director": "Ken Loach",
+          "filmYear": 2002,
+          "award": "Espiga de Oro · Premio a la Mejor Dirección de Fotografía · Barry Ackroyd",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro",
+            "Premio a la Mejor Dirección de Fotografía · Barry Ackroyd"
+          ],
+          "aliases": [
+            "Felices dieciséis",
+            "Sweet Sixteen"
           ]
         },
         {
@@ -3259,19 +3272,19 @@
           ],
           "aliases": [
             "The Tracker",
-            "El guía"
+            "El guía",
+            "The Tracker (El guía)"
           ]
         },
         {
           "title": "El último tren",
           "director": "Diego Arsuaga",
           "filmYear": 2002,
-          "award": "Mejor dirección novel · Diego Arsuaga · Mejor actor · Héctor Alterio, Federico Luppi y José Soriano · Mejor dirección novel · Diego Arsuaga",
+          "award": "Premio al Mejor Actor · Héctor Alterio, Federico Luppi y José Soriano · Premio del Público",
           "nominations": [],
           "wins": [
-            "Mejor dirección novel · Diego Arsuaga",
-            "Mejor actor · Héctor Alterio, Federico Luppi y José Soriano",
-            "Mejor dirección novel · Diego Arsuaga"
+            "Premio al Mejor Actor · Héctor Alterio, Federico Luppi y José Soriano",
+            "Premio del Público"
           ],
           "aliases": []
         },
@@ -3279,26 +3292,215 @@
           "title": "La vida de nadie",
           "director": "Eduard Cortés",
           "filmYear": 2002,
-          "award": "Mejor actriz · Adriana Ozores · ex aequo",
+          "award": "Premio a la Mejor Actriz (ex aequo) · Adriana Ozores",
           "nominations": [],
           "wins": [
-            "Mejor actriz · Adriana Ozores · ex aequo"
+            "Premio a la Mejor Actriz (ex aequo) · Adriana Ozores"
           ],
           "aliases": []
         },
         {
           "title": "Happy Times",
-          "director": "",
-          "award": "Espiga de Plata · FIPRESCI - Jurado de la Crítica Internacional · Espiga de Plata · Mejor actriz · Dong Jie · ex aequo · Premio FIPRESCI",
+          "director": "Zhang Yimou",
+          "award": "Espiga de Plata · Premio a la Mejor Actriz (ex aequo) · Dong Jie · Premio FIPRESCI · Premio de la Juventud",
           "nominations": [],
           "wins": [
             "Espiga de Plata",
-            "FIPRESCI - Jurado de la Crítica Internacional",
-            "Espiga de Plata",
-            "Mejor actriz · Dong Jie · ex aequo",
-            "Premio FIPRESCI"
+            "Premio a la Mejor Actriz (ex aequo) · Dong Jie",
+            "Premio FIPRESCI",
+            "Premio de la Juventud"
           ],
-          "aliases": []
+          "aliases": [
+            "Xingfu shiguang (Happy Times)"
+          ],
+          "filmYear": 2001
+        },
+        {
+          "title": "The Great Dictator (El gran dictador)",
+          "director": "Charles Chaplin",
+          "aliases": [
+            "El gran dictador"
+          ],
+          "wins": [],
+          "nominations": [],
+          "filmYear": 1940,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "El último tren. Uruguay",
+          "director": "Argentina y España",
+          "aliases": [],
+          "wins": [
+            "Premio «Pilar Miró» al Mejor Nuevo Director · Diego Arsuaga"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director · Diego Arsuaga"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2002,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Kukushka (El cuco)",
+          "director": "Alexander Rogozkhin",
+          "aliases": [
+            "El cuco"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Rabbit-Proof Fence (Generación robada)",
+          "director": "Philip Noyce",
+          "aliases": [
+            "Generación robada"
+          ],
+          "wins": [
+            "Largometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Largometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2002,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "J’attendrai le suivant (Espero al siguiente...)",
+          "director": "Philippe Orreindy",
+          "aliases": [
+            "Espero al siguiente..."
+          ],
+          "wins": [
+            "Premio de la Juventud",
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Premio de la Juventud · Espiga de Oro"
+        },
+        {
+          "title": "Fait d’hiver (Suceso de invierno)",
+          "director": "Dirk Beliën",
+          "aliases": [
+            "Suceso de invierno"
+          ],
+          "wins": [
+            "Espiga de Plata (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 2001,
+          "award": "Espiga de Plata (ex aequo)"
+        },
+        {
+          "title": "Tempo",
+          "director": "Per Carleson",
+          "aliases": [],
+          "wins": [
+            "Espiga de Plata (ex aequo)"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Espiga de Plata (ex aequo)"
+        },
+        {
+          "title": "De Mesmer, con amor o té para dos",
+          "director": "Salvador Aguirre y Alejandro Lubezki",
+          "aliases": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Premio Especial del Jurado"
+        },
+        {
+          "title": "At Dawning (Al alba)",
+          "director": "Martin Jones",
+          "aliases": [
+            "Al alba"
+          ],
+          "wins": [
+            "Premio UIP Valladolid"
+          ],
+          "nominations": [],
+          "filmYear": 2001,
+          "award": "Premio UIP Valladolid"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2002,
+      "section": "Punto de Encuentro · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Revolución",
+          "director": "Martín Rosete",
+          "aliases": [],
+          "wins": [
+            "Cortometraje"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Cortometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2002,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Ser y tener",
+          "director": "Nicolas Philibert",
+          "aliases": [
+            "Être et avoir",
+            "Être et avoir (Ser y tener)"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Alt om min far (Todo sobre mi padre)",
+          "director": "Even Benestad",
+          "aliases": [
+            "Todo sobre mi padre"
+          ],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2002,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "El efecto Iguazú",
+          "director": "Pere Joan Ventura",
+          "aliases": [],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2003,
+          "award": "Segundos Premios"
         }
       ]
     }

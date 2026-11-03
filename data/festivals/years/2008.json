@@ -3586,33 +3586,203 @@
     {
       "festival": "Seminci",
       "year": 2008,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
+        {
+          "title": "Captain Abu Raed",
+          "director": "Amin Matalqa, Jordania (Inauguración)",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Adoration",
+          "director": "Atom Egoyan",
+          "filmYear": 2009,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Animales de compañía",
+          "director": "Nicolás Muñoz",
+          "filmYear": 2008,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La buena nueva",
+          "director": "Helena Taberna",
+          "filmYear": 2008,
+          "award": "Premio al Mejor actor · Unax Ugalde",
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor actor · Unax Ugalde"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Desierto adentro",
+          "director": "Rodrigo Plá",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Dr. Alemán",
+          "director": "Tom Schreiber",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
         {
           "title": "Estómago",
           "director": "Marcos Jorge",
           "filmYear": 2007,
-          "award": "Mejor Película - Espiga de Oro · Mejor actor · João Miguel · Mejor dirección novel · Marcos Jorge",
+          "award": "Espiga de oro · Premio «Pilar Miró» al Mejor Nuevo Director · Premio al Mejor actor · João Miguel · Premio de la Juventud",
           "nominations": [],
           "wins": [
-            "Mejor Película - Espiga de Oro",
-            "Mejor actor · João Miguel",
-            "Mejor dirección novel · Marcos Jorge"
+            "Espiga de oro",
+            "Premio «Pilar Miró» al Mejor Nuevo Director",
+            "Premio al Mejor actor · João Miguel",
+            "Premio de la Juventud"
           ],
           "aliases": [
             "Estômago"
           ]
         },
         {
+          "title": "Flame y Citron",
+          "director": "Ole Christian Madsen",
+          "filmYear": 2008,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Flame y citrón",
+            "Flammen & Citronen",
+            "Flammen og citronen (Flame and Citron)",
+            "Flame and Citron"
+          ]
+        },
+        {
           "title": "El frasco",
           "director": "Alberto Lecchi",
           "filmYear": 2008,
-          "award": "Espiga de Plata",
+          "award": "Espiga de plata",
           "nominations": [],
           "wins": [
-            "Espiga de Plata"
+            "Espiga de plata"
           ],
           "aliases": []
+        },
+        {
+          "title": "La mujer del anarquista",
+          "director": "Peter Sehr, Marie Noëlle",
+          "filmYear": 2008,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "The Anarchist's Wife",
+            "Die frau des anarchisten (La mujer del anarquista)"
+          ]
+        },
+        {
+          "title": "Terriblemente feliz (Terribly Happy)",
+          "director": "Henrik Ruben Genz",
+          "filmYear": 2008,
+          "award": "Premio a la Mejor Música · Kare Bjerko · Premio al Mejor Guión · Henrik Ruben Genz y Gry Dunja Jensen",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Música · Kare Bjerko",
+            "Premio al Mejor Guión · Henrik Ruben Genz y Gry Dunja Jensen"
+          ],
+          "aliases": [
+            "Terriblemente feliz",
+            "Frygtelig lykkelig",
+            "Frygtelig lykkelig (Terriblemente feliz)",
+            "Terriblemente feliz (Frygtelig lykkelig)"
+          ]
+        },
+        {
+          "title": "The Guitar",
+          "director": "Amy Redford",
+          "filmYear": 2008,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "The Guitar (La guitarra)",
+            "La guitarra"
+          ]
+        },
+        {
+          "title": "Cerezos en flor",
+          "director": "Doris Dörrie",
+          "filmYear": 2008,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Kirschblüten - Hanami",
+            "Kirschblüten – Hanami (Cerezos en flor)"
+          ]
+        },
+        {
+          "title": "Kolme viisasta miestä (Los Reyer Magos)",
+          "director": "Mika Kaurismäki",
+          "aliases": [
+            "Los Reyer Magos"
+          ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "La pérdida de un diamante lágrima",
+          "director": "Jodie Markell",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "The Loss od a Teardrop Diamond (La pérdida de un diamante lágrima)"
+          ]
+        },
+        {
+          "title": "Los momentos eternos de Maria Larssons",
+          "director": "Jan Troell",
+          "filmYear": 2008,
+          "award": "Premio a la Mejor actriz · Maria Heiskanen · Premio a la Mejor Dirección de Fotografía · Mischa Gavrjusjov y Jan Troell",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor actriz · Maria Heiskanen",
+            "Premio a la Mejor Dirección de Fotografía · Mischa Gavrjusjov y Jan Troell"
+          ],
+          "aliases": [
+            "Maria Larssons eviga ögonblick",
+            "Maria Larssons evige ojeblik (Los momentos eternos de Maria Larsson)",
+            "Los momentos eternos de Maria Larsson",
+            "Los momentos eternos de María Larsson (Maria Larssons evige ojeblik)",
+            "Maria Larssons evige ojeblik"
+          ]
+        },
+        {
+          "title": "Plus tard, tu comprendras (Un día lo comprenderás)",
+          "director": "Amos Gitai",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Plus tard, tu comprendras (Más tarde comprenderás)",
+            "Más tarde comprenderás"
+          ]
         },
         {
           "title": "Retorno a Hansala",
@@ -3626,178 +3796,167 @@
           "aliases": []
         },
         {
-          "title": "La buena nueva",
-          "director": "Helena Taberna",
+          "title": "Una cierta verdad",
+          "director": "Abel García Roure",
           "filmYear": 2008,
-          "award": "Mejor actor · Unax Ugalde",
-          "nominations": [],
-          "wins": [
-            "Mejor actor · Unax Ugalde"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Terriblemente feliz (Terribly Happy)",
-          "director": "Henrik Ruben Genz",
-          "filmYear": 2008,
-          "award": "Mejor guion · Henrik Ruben Genz, Dunja Gry Jensen · Mejor música · Kåre Bjerkø",
-          "nominations": [],
-          "wins": [
-            "Mejor guion · Henrik Ruben Genz, Dunja Gry Jensen",
-            "Mejor música · Kåre Bjerkø"
-          ],
-          "aliases": [
-            "Terriblemente feliz",
-            "Frygtelig lykkelig"
-          ]
-        },
-        {
-          "title": "Los momentos eternos de Maria Larssons",
-          "director": "Jan Troell",
-          "filmYear": 2008,
-          "award": "Mejor actriz · Maria Heiskanen · Mejor fotografía · Mischa Gavrjusjov, Jan Troell",
-          "nominations": [],
-          "wins": [
-            "Mejor actriz · Maria Heiskanen",
-            "Mejor fotografía · Mischa Gavrjusjov, Jan Troell"
-          ],
-          "aliases": [
-            "Maria Larssons eviga ögonblick"
-          ]
-        },
-        {
-          "title": "La pérdida de un diamante lágrima",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "The Guitar",
-          "director": "Amy Redford",
-          "filmYear": 2008,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Adoration",
-          "director": "Atom Egoyan",
-          "filmYear": 2009,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Flame y Citron",
-          "director": "Ole Christian Madsen",
-          "filmYear": 2008,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Flame y citrón",
-            "Flammen & Citronen"
-          ]
-        },
-        {
-          "title": "Cerezos en flor",
-          "director": "Doris Dörrie",
-          "filmYear": 2008,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Kirschblüten - Hanami"
-          ]
-        },
-        {
-          "title": "Capitán Abu Raed",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "La mujer del anarquista",
-          "director": "Peter Sehr, Marie Noëlle",
-          "filmYear": 2008,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "The Anarchist's Wife"
-          ]
-        },
-        {
-          "title": "Villa",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Desierto adentro",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Los reyes magos",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Plus tard, tu comprendras (Un día lo comprenderás)",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Animales de compañía",
-          "director": "Nicolás Muñoz",
-          "filmYear": 2008,
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Dr. Alemán",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
           "title": "La ventana",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "director": "Carlos Sorín",
+          "award": "Premio de la Crítica",
           "nominations": [],
-          "wins": [],
+          "wins": [
+            "Premio de la Crítica"
+          ],
           "aliases": []
         },
         {
-          "title": "Una cierta verdad",
-          "director": "Abel García Roure",
-          "filmYear": 2008,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "title": "Villa",
+          "director": "Ezio Masssa",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2008,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "El hombre de la nota (Tek Notalik Adam)",
+          "director": "Daghan Celayir",
+          "aliases": [
+            "Tek Notalik Adam"
+          ],
+          "wins": [
+            "Mención especial"
+          ],
+          "nominations": [],
+          "award": "Mención especial"
+        },
+        {
+          "title": "¡Cuidado con el hacha! (Careful with that Axe¡)",
+          "director": "Jason Stutter",
+          "aliases": [
+            "Careful with that Axe¡"
+          ],
+          "wins": [
+            "Espiga de oro al Cortometraje"
+          ],
+          "nominations": [],
+          "award": "Espiga de oro al Cortometraje"
+        },
+        {
+          "title": "Hace tiempo pasó un forastero",
+          "director": "José Carrasco",
+          "aliases": [],
+          "wins": [
+            "Espiga de Plata al Cortometraje"
+          ],
+          "nominations": [],
+          "award": "Espiga de Plata al Cortometraje"
+        },
+        {
+          "title": "Ficha «A» de asesinato (Lägg M för Mord)",
+          "director": "Magnus Holmgren",
+          "aliases": [
+            "Lägg M för Mord"
+          ],
+          "wins": [
+            "Premio UIP Valladolid"
+          ],
+          "nominations": [],
+          "award": "Premio UIP Valladolid"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2008,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Berlin-Buenos Aires. Las lágrimas de mi madre (Die Tränen meiner Mutter)",
+          "director": "Alejandro Cárdenas Amelio",
+          "aliases": [
+            "Die Tränen meiner Mutter"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "award": "Premio de la Juventud"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2008,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "33 días (33 yaoum)",
+          "director": "Mai Masri",
+          "aliases": [
+            "33 yaoum"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "El corazón de Jenin (Das Herz von Jenin)",
+          "director": "Marcus Vetter y Leon Séller",
+          "aliases": [
+            "Das Herz von Jenin"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Viaje a Asia: La búsqueda de la armonía (Trip to Asia - Die Suche nach dem Einklang)",
+          "director": "Thomas Grube",
+          "aliases": [
+            "Trip to Asia - Die Suche nach dem Einklang"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Hollywood contra Franco",
+          "director": "Oriol Porta",
+          "aliases": [],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "award": "Premio Tiempo de Historia",
+          "filmYear": 2009
+        },
+        {
+          "title": "Haroldo Conti, Homo Viator",
+          "director": "Miguel Mato",
+          "aliases": [],
+          "wins": [
+            "Premio Especial del Jurado"
+          ],
+          "nominations": [],
+          "award": "Premio Especial del Jurado"
         }
       ]
     }

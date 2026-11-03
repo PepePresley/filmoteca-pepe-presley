@@ -3649,62 +3649,69 @@
     {
       "festival": "Seminci",
       "year": 2005,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
-          "title": "En la cama",
-          "director": "Matías Bize",
-          "filmYear": 2005,
-          "award": "Mejor Película - Espiga de Oro",
-          "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro"
-          ],
-          "aliases": []
-        },
-        {
           "title": "Banquete de boda",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "director": "Dominique Deruddere",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Die Bluthochzeit (Banquete de boda)"
+          ]
         },
         {
           "title": "Caché (Escondido)",
           "director": "Michael Haneke",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Premio 50 Aniversario",
           "nominations": [],
-          "wins": [],
+          "wins": [
+            "Premio 50 Aniversario"
+          ],
           "aliases": [
-            "Caché"
+            "Caché",
+            "Escondido",
+            "Escondido (Caché)"
           ]
         },
         {
-          "title": "Elsa & Fred",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
+          "title": "Conversaciones con otras mujeres",
+          "director": "Hans Canosa",
+          "aliases": [
+            "Conversations with Other Women",
+            "Conversations with Other Women (Conversaciones con otras mujeres)"
+          ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 2005
         },
         {
-          "title": "El niño",
-          "director": "Luc Dardenne, Jean-Pierre Dardenne",
+          "title": "Elsa y Fred",
+          "director": "Marcos Carnevalle",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "En la cama",
+          "director": "Matías Bize",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Espiga de oro",
           "nominations": [],
-          "wins": [],
-          "aliases": [
-            "L'enfant"
-          ]
+          "wins": [
+            "Espiga de oro"
+          ],
+          "aliases": []
         },
         {
           "title": "Factotum",
           "director": "Bent Hamer",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
@@ -3713,68 +3720,91 @@
           "title": "Hermanas",
           "director": "Julia Solomonoff",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
+        },
+        {
+          "title": "Iberia",
+          "director": "Carlos Saura",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial",
+          "filmYear": 2005
         },
         {
           "title": "La espada oculta",
           "director": "Yoji Yamada",
           "filmYear": 2004,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Kakushi Ken – Oni no tsume (La espada oculta)"
+          ]
         },
         {
-          "title": "Kilómetro Zero",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
+          "title": "Kilomètre zéro (Kilómetro cero)",
+          "director": "Hiner Saleem",
+          "aliases": [
+            "Kilómetro cero"
+          ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         },
         {
           "title": "Ping-Pong Mongol",
           "director": "宁浩",
           "filmYear": 2005,
-          "award": "Mejor fotografía · Du Jie",
+          "award": "Premio a la Mejor Dirección de Fotografía · Jie Du",
           "nominations": [],
           "wins": [
-            "Mejor fotografía · Du Jie"
+            "Premio a la Mejor Dirección de Fotografía · Jie Du"
           ],
           "aliases": [
-            "Ping-pong mongol"
+            "Ping-pong mongol",
+            "Lü cao di (Ping Pong mongol)",
+            "Ping Pong mongol",
+            "Ping pong mongol (Lü cao di)",
+            "Lü cao di"
           ]
         },
         {
           "title": "Manderlay",
           "director": "Lars von Trier",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Premio 50 Aniversario",
           "nominations": [],
-          "wins": [],
+          "wins": [
+            "Premio 50 Aniversario"
+          ],
           "aliases": []
         },
         {
           "title": "Mi Nikifor",
-          "director": "",
-          "award": "Mejor actriz · Krystyna Feldman",
+          "director": "Krzysztof Krauze",
+          "award": "Premio a la Mejor Actriz · Krystina Feldman",
           "nominations": [],
           "wins": [
-            "Mejor actriz · Krystyna Feldman"
+            "Premio a la Mejor Actriz · Krystina Feldman"
           ],
-          "aliases": []
+          "aliases": [
+            "Mój Nikifor (Mi Nikifor)",
+            "Mi Nikifor (Mój Nikifor)",
+            "Mój Nikifor"
+          ]
         },
         {
           "title": "Segundo asalto",
           "director": "Daniel Cebrián",
           "filmYear": 2005,
-          "award": "Mejor dirección novel · Daniel Cebrián",
+          "award": "Premio «Pilar Miró» al mejor Nuevo Director",
           "nominations": [],
           "wins": [
-            "Mejor dirección novel · Daniel Cebrián"
+            "Premio «Pilar Miró» al mejor Nuevo Director"
           ],
           "aliases": [
             "Segundo Asalto"
@@ -3784,34 +3814,43 @@
           "title": "El tiempo que queda",
           "director": "François Ozon",
           "filmYear": 2005,
-          "award": "Espiga de Plata · Mejor actor · Melvil Poupaud",
+          "award": "Espiga de plata · Premio al Mejor Actor · Melvil Poupaud",
           "nominations": [],
           "wins": [
-            "Espiga de Plata",
-            "Mejor actor · Melvil Poupaud"
+            "Espiga de plata",
+            "Premio al Mejor Actor · Melvil Poupaud"
           ],
           "aliases": [
-            "Le Temps qui reste"
+            "Le Temps qui reste",
+            "Le temps qui reste (El tiempo que queda)",
+            "El tiempo que queda (Le temps qui reste)",
+            "Le temps qui reste"
           ]
         },
         {
           "title": "Vida y color",
           "director": "Santiago Tabernero",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Premio del Público",
           "nominations": [],
-          "wins": [],
+          "wins": [
+            "Premio del Público"
+          ],
           "aliases": []
         },
         {
           "title": "Agua",
           "director": "Deepa Mehta",
           "filmYear": 2005,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Premio de la Juventud",
           "nominations": [],
-          "wins": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
           "aliases": [
-            "Water"
+            "Water",
+            "Water (Agua)",
+            "Agua (Water)"
           ]
         }
       ]
@@ -3819,20 +3858,175 @@
     {
       "festival": "Seminci",
       "year": 2005,
-      "section": "Películas premiadas; sección de programación no indicada por FilmAffinity",
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Sabah",
+          "director": "Ruba Nadda",
+          "aliases": [],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "award": "Premio de la Juventud"
+        },
+        {
+          "title": "Ruido",
+          "director": "Marcelo Bertalmío",
+          "aliases": [],
+          "wins": [
+            "Largometraje"
+          ],
+          "nominations": [],
+          "award": "Largometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2005,
+      "section": "Sección Oficial · largometrajes fuera de concurso",
       "films": [
         {
           "title": "Feliz Navidad",
           "director": "Christian Carion",
           "filmYear": 2005,
-          "award": "FIPRESCI - Jurado de la Crítica Internacional",
+          "award": "Premio de la Crítica",
           "nominations": [],
           "wins": [
-            "FIPRESCI - Jurado de la Crítica Internacional"
+            "Premio de la Crítica"
           ],
           "aliases": [
-            "Joyeux Noël"
+            "Joyeux Noël",
+            "Feliz navidad (Joyeux Noël)"
           ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2005,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "The Mysterious Geographic Explorations of Jasper Morello",
+          "director": "Anthony Lucas",
+          "aliases": [
+            "Las misteriosas exploraciones geográficas de Jasper Morello (The Mysterious Geographic Explorations of Jasper Morello)"
+          ],
+          "wins": [
+            "Premio 50 Aniversario"
+          ],
+          "nominations": [],
+          "award": "Premio 50 Aniversario",
+          "filmYear": 2005
+        },
+        {
+          "title": "No digas nada (Don't Say a Word)",
+          "director": "Marek Blaha",
+          "aliases": [
+            "Don't Say a Word"
+          ],
+          "wins": [
+            "Espiga de oro al Cortometraje"
+          ],
+          "nominations": [],
+          "award": "Espiga de oro al Cortometraje"
+        },
+        {
+          "title": "9 y 20",
+          "director": "Roberto Aguilera",
+          "aliases": [],
+          "wins": [
+            "Espiga de Plata al Cortometraje"
+          ],
+          "nominations": [],
+          "award": "Espiga de Plata al Cortometraje"
+        },
+        {
+          "title": "Vincent",
+          "director": "Giulio Ricciarelli",
+          "aliases": [],
+          "wins": [
+            "Premio UIP Valladolid"
+          ],
+          "nominations": [],
+          "award": "Premio UIP Valladolid"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2005,
+      "section": "Punto de Encuentro · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Papel",
+          "director": "Eliazar Arroyo Fraile",
+          "aliases": [],
+          "wins": [
+            "La Noche del Corto Español"
+          ],
+          "nominations": [],
+          "award": "La Noche del Corto Español"
+        },
+        {
+          "title": "Post-it",
+          "director": "Michele Rho",
+          "aliases": [],
+          "wins": [
+            "Cortometraje"
+          ],
+          "nominations": [],
+          "award": "Cortometraje"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2005,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Cuadernos de contabilidad",
+          "director": "Manolo Millares, de Juan Millares",
+          "aliases": [],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "La dignidad de los nadies",
+          "director": "Fernando «Pino» Solanas",
+          "aliases": [],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Trece entre mil",
+          "director": "Iñaki Arteta",
+          "aliases": [],
+          "wins": [
+            "Segundos premios"
+          ],
+          "nominations": [],
+          "award": "Segundos premios",
+          "filmYear": 2005
+        },
+        {
+          "title": "El mamut siberiano",
+          "director": "Vicente Ferraz Gonçalves",
+          "aliases": [],
+          "wins": [
+            "Segundos premios"
+          ],
+          "nominations": [],
+          "award": "Segundos premios"
         }
       ]
     }

@@ -2818,109 +2818,183 @@
     {
       "festival": "Seminci",
       "year": 2001,
-      "section": "Mejor Película - Espiga de Oro (lista de FilmAffinity; cobertura según FilmAffinity)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
         {
-          "title": "Italiano para principiantes",
-          "director": "Lone Scherfig",
-          "filmYear": 2000,
-          "award": "Mejor Película - Espiga de Oro · Mejor actor · Peter Gantzler",
+          "title": "Kandahar",
+          "director": "Mohsen Makhmalbaf",
+          "filmYear": 2001,
+          "award": "Selección oficial",
           "nominations": [],
-          "wins": [
-            "Mejor Película - Espiga de Oro",
-            "Mejor actor · Peter Gantzler"
-          ],
+          "wins": [],
           "aliases": [
-            "Italiensk for begyndere"
+            "Safar e Ghandehar",
+            "Safar e Ghandehar (Kandahar)"
           ]
         },
         {
           "title": "El huérfano de Anyang",
           "director": "Wang Chao",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "An Yang ying er (El huérfano de Anyang)"
+          ]
+        },
+        {
+          "title": "El perdón",
+          "director": "Michael Winterbottom",
+          "filmYear": 2000,
+          "award": "Premio a la Mejor Dirección de Fotografía · Alwin Kuchler",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Dirección de Fotografía · Alwin Kuchler"
+          ],
+          "aliases": [
+            "The Claim",
+            "The Claim (El perdón)"
+          ]
         },
         {
           "title": "Dama de Porto Pim",
           "director": "Toni Salgot",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [],
+          "filmYear": 2001
         },
         {
           "title": "Elogio del amor",
           "director": "Jean-Luc Godard",
           "filmYear": 2001,
-          "award": "Premio Especial del Jurado",
+          "award": "Premio Especial del Jurado (ex aequo)",
           "nominations": [],
           "wins": [
-            "Premio Especial del Jurado"
+            "Premio Especial del Jurado (ex aequo)"
           ],
           "aliases": [
-            "Éloge de l'amour"
+            "Éloge de l'amour",
+            "Éloge de l’amour (Elogio del amor)"
+          ]
+        },
+        {
+          "title": "Matrimonio tardío",
+          "director": "Dover Kosashvili",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Hatouna mehuheret (Matrimonio tardío)"
           ]
         },
         {
           "title": "El hijo de la novia",
           "director": "Juan José Campanella",
           "filmYear": 2001,
-          "award": "Espiga de Plata · Premio del Público · Sección Oficial",
+          "award": "Espiga de Plata · Premio del Público",
           "nominations": [],
           "wins": [
             "Espiga de Plata",
-            "Premio del Público · Sección Oficial"
+            "Premio del Público"
           ],
           "aliases": []
         },
         {
-          "title": "How Harry Became a Tree",
-          "director": "Goran Paskaljević",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "title": "Cómo Harry se convirtió en árbol",
+          "director": "Goran Paskaljevic",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "How Harry Became a Tree (Cómo Harry se convirtió en árbol)"
+          ]
         },
         {
-          "title": "Little Senegal",
-          "director": "Rachid Bouchareb",
-          "filmYear": 2001,
-          "award": "FIPRESCI - Jurado de la Crítica Internacional",
+          "title": "Italiano para principiantes",
+          "director": "Lone Scherfig",
+          "filmYear": 2000,
+          "award": "Espiga de Oro · Premio al Mejor Actor · Peter Gantzler · Premio de la Juventud",
           "nominations": [],
           "wins": [
-            "FIPRESCI - Jurado de la Crítica Internacional"
+            "Espiga de Oro",
+            "Premio al Mejor Actor · Peter Gantzler",
+            "Premio de la Juventud"
           ],
-          "aliases": []
+          "aliases": [
+            "Italiensk for begyndere",
+            "Italiensk for begyndere (Italiano para principiantes)"
+          ]
+        },
+        {
+          "title": "El pequeño Senegal",
+          "director": "Rachid Bouchareb",
+          "award": "Premio FIPRESCI",
+          "nominations": [],
+          "wins": [
+            "Premio FIPRESCI"
+          ],
+          "aliases": [
+            "Little Senegal (El pequeño Senegal)",
+            "Little Senegal"
+          ],
+          "filmYear": 2001
         },
         {
           "title": "El último suspiro",
           "director": "Léa Pool",
           "filmYear": 2001,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Lost and Delirious"
+            "Lost and Delirious",
+            "Lost and Delirious (El último suspiro)"
           ]
         },
         {
           "title": "Maelström",
           "director": "Denis Villeneuve",
           "filmYear": 2000,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": []
         },
         {
-          "title": "My Brother Tom",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
+          "title": "Mi hermano Tom",
+          "director": "Dom Rotheroe",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "My Brother Tom (Mi hermano Tom)"
+          ],
+          "filmYear": 2000
+        },
+        {
+          "title": "La cuadrilla",
+          "director": "Ken Loach",
+          "filmYear": 2001,
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "La Cuadrilla",
+            "The Navigators",
+            "The Navigators (La cuadrilla)"
+          ]
+        },
+        {
+          "title": "Nubes. Cartas a mi hijo",
+          "director": "Marion Hänsel",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Nuages. Lettres à mon fils (Nubes. Cartas a mi hijo)"
+          ]
         },
         {
           "title": "Los pasos perdidos",
@@ -2936,18 +3010,20 @@
         {
           "title": "El voto es secreto",
           "director": "Babak Payami",
-          "award": "Mejor dirección novel · Babak Payami",
+          "award": "Premio «Pilar Miró» al Mejor Nuevo Director · Babak Payami",
           "nominations": [],
           "wins": [
-            "Mejor dirección novel · Babak Payami"
+            "Premio «Pilar Miró» al Mejor Nuevo Director · Babak Payami"
           ],
-          "aliases": []
+          "aliases": [
+            "Raye makhfi (El voto es secreto)"
+          ]
         },
         {
           "title": "Sólo mía",
           "director": "Javier Balaguer",
           "filmYear": 2001,
-          "award": "En competición según la lista anual de FilmAffinity",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
@@ -2958,6 +3034,103 @@
           "title": "Vete a saber",
           "director": "Jacques Rivette",
           "filmYear": 2001,
+          "award": "Premio Especial del Jurado (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Premio Especial del Jurado (ex aequo)"
+          ],
+          "aliases": [
+            "Va savoir (¡Vete a saber!)",
+            "¡Vete a saber!",
+            "Va savoir (Vete a saber)"
+          ]
+        },
+        {
+          "title": "Wit",
+          "director": "Mike Nichols",
+          "filmYear": 2001,
+          "award": "Premio a la Mejor Actriz · Emma Thompson",
+          "nominations": [],
+          "wins": [
+            "Premio a la Mejor Actriz · Emma Thompson"
+          ],
+          "aliases": [
+            "Amar la vida"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2001,
+      "section": "Punto de Encuentro · largometrajes",
+      "films": [
+        {
+          "title": "Det nya landet (El nuevo país)",
+          "director": "Geir Hansteen Jörgensen",
+          "aliases": [
+            "El nuevo país"
+          ],
+          "wins": [
+            "Premio de la Juventud"
+          ],
+          "nominations": [],
+          "filmYear": 2000,
+          "award": "Premio de la Juventud"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2001,
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Copy Shop",
+          "director": "Virgil Widrich",
+          "filmYear": 2001,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "La copistería",
+            "Copy Shop (La copistería)"
+          ]
+        },
+        {
+          "title": "The Platform",
+          "director": "Robin Walters",
+          "filmYear": 2001,
+          "award": "Espiga de Plata (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata (ex aequo)"
+          ],
+          "aliases": [
+            "El andén",
+            "The Platform (El andén)"
+          ]
+        },
+        {
+          "title": "Venkel’s Syndrome",
+          "director": "Vito Rocco",
+          "filmYear": 2001,
+          "award": "Espiga de Plata (ex aequo)",
+          "nominations": [],
+          "wins": [
+            "Espiga de Plata (ex aequo)"
+          ],
+          "aliases": [
+            "El síndrome de Venkel",
+            "Venkel’s Syndrome (El síndrome de Venkel)"
+          ]
+        },
+        {
+          "title": "Atraksion",
+          "director": "Raoul Servais",
+          "filmYear": 2001,
           "award": "Premio Especial del Jurado",
           "nominations": [],
           "wins": [
@@ -2966,189 +3139,78 @@
           "aliases": []
         },
         {
-          "title": "Wit",
-          "director": "Mike Nichols",
-          "filmYear": 2001,
-          "award": "Mejor actriz · Emma Thompson",
-          "nominations": [],
-          "wins": [
-            "Mejor actriz · Emma Thompson"
-          ],
-          "aliases": [
-            "Amar la vida"
-          ]
-        },
-        {
-          "title": "El perdón",
-          "director": "Michael Winterbottom",
-          "filmYear": 2000,
-          "award": "Mejor fotografía · Alwin Kuchler (AKA Alwin H. Kuchler)",
-          "nominations": [],
-          "wins": [
-            "Mejor fotografía · Alwin Kuchler (AKA Alwin H. Kuchler)"
-          ],
-          "aliases": [
-            "The Claim"
-          ]
-        },
-        {
-          "title": "Late Marriage",
-          "director": "",
-          "award": "En competición según la lista anual de FilmAffinity",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "The Claim",
-          "director": "Michael Winterbottom",
-          "filmYear": 2000,
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "El perdón"
-          ]
-        },
-        {
-          "title": "Matrimonio tardío",
-          "director": "Dover Kosashvili",
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Cómo Harry se convirtió en árbol",
-          "director": "Goran Paskaljevic",
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "El pequeño Senegal",
-          "director": "Rachid Bouchareb",
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "Mi hermano Tom",
-          "director": "Dom Rotheroe",
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        },
-        {
-          "title": "La cuadrilla",
-          "director": "Ken Loach",
-          "filmYear": 2001,
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "La Cuadrilla",
-            "The Navigators"
-          ]
-        },
-        {
-          "title": "Nubes. Cartas a mi hijo",
-          "director": "Marion Hänsel",
-          "award": "En competición según programa oficial SEMINCI",
-          "nominations": [],
-          "wins": [],
-          "aliases": []
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 2001,
-      "section": "Programa oficial · condición competitiva pendiente",
-      "films": [
-        {
-          "title": "Kandahar",
-          "director": "Mohsen Makhmalbaf",
-          "filmYear": 2001,
-          "award": "Inauguración; el archivo oficial consultado no explicita si compitió",
-          "nominations": [],
-          "wins": [],
-          "aliases": [
-            "Safar e Ghandehar"
-          ]
-        }
-      ]
-    },
-    {
-      "festival": "Seminci",
-      "year": 2001,
-      "section": "Cortometrajes premiados · Sección Oficial",
-      "films": [
-        {
-          "title": "Copy Shop",
-          "director": "Virgil Widrich",
-          "filmYear": 2001,
-          "award": "Espiga de Oro · cortometraje",
-          "nominations": [],
-          "wins": [
-            "Espiga de Oro · cortometraje"
-          ],
-          "aliases": [
-            "La copistería"
-          ]
-        },
-        {
-          "title": "The Platform",
-          "director": "Robin Walters",
-          "filmYear": 2001,
-          "award": "Espiga de Plata · cortometraje · ex aequo",
-          "nominations": [],
-          "wins": [
-            "Espiga de Plata · cortometraje · ex aequo"
-          ],
-          "aliases": [
-            "El andén"
-          ]
-        },
-        {
-          "title": "Venkel’s Syndrome",
-          "director": "Vito Rocco",
-          "filmYear": 2001,
-          "award": "Espiga de Plata · cortometraje · ex aequo",
-          "nominations": [],
-          "wins": [
-            "Espiga de Plata · cortometraje · ex aequo"
-          ],
-          "aliases": [
-            "El síndrome de Venkel"
-          ]
-        },
-        {
-          "title": "Atraksion",
-          "director": "Raoul Servais",
-          "filmYear": 2001,
-          "award": "Premio Especial del Jurado · cortometraje",
-          "nominations": [],
-          "wins": [
-            "Premio Especial del Jurado · cortometraje"
-          ],
-          "aliases": []
-        },
-        {
           "title": "Noticias de la torre L",
           "director": "Samuel Benchetrit",
           "filmYear": 2000,
-          "award": "Premio UIP Valladolid · cortometraje",
+          "award": "Premio UIP Valladolid",
           "nominations": [],
           "wins": [
-            "Premio UIP Valladolid · cortometraje"
+            "Premio UIP Valladolid"
           ],
           "aliases": [
-            "Nouvelle de la tour L"
+            "Nouvelle de la tour L",
+            "Nouvelle de la tour L (Noticias de la torre L)"
           ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2001,
+      "section": "Tiempo de Historia · largometrajes",
+      "films": [
+        {
+          "title": "Promises (Promesas)",
+          "director": "B.Z. Goldberg, Justine Shapiro y Carlos Bolado",
+          "aliases": [
+            "Promesas"
+          ],
+          "wins": [
+            "Premio Tiempo de Historia"
+          ],
+          "nominations": [],
+          "filmYear": 2001,
+          "award": "Premio Tiempo de Historia"
+        },
+        {
+          "title": "Et cetera",
+          "director": "Andrei Osipov",
+          "aliases": [],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2001,
+          "award": "Segundos Premios"
+        },
+        {
+          "title": "Los niños de Rusia",
+          "director": "Jaime Camino",
+          "aliases": [],
+          "wins": [
+            "Segundos Premios"
+          ],
+          "nominations": [],
+          "filmYear": 2001,
+          "award": "Segundos Premios"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2001,
+      "section": "Otros premios",
+      "films": [
+        {
+          "title": "Little Senegal",
+          "director": "Rachid Bouchareb",
+          "filmYear": 2001,
+          "award": "FIPRESCI - Jurado de la Crítica Internacional",
+          "nominations": [],
+          "wins": [
+            "FIPRESCI - Jurado de la Crítica Internacional"
+          ],
+          "aliases": []
         }
       ]
     }

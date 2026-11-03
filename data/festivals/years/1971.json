@@ -5659,76 +5659,53 @@
     {
       "festival": "Seminci",
       "year": 1971,
-      "section": "Espiga de Oro / Golden Spike (selección según IMDb, con resultados FilmAffinity)",
+      "section": "Largometrajes",
       "films": [
-        {
-          "title": "El muchacho",
-          "director": "Nagisa Ōshima",
-          "filmYear": 1969,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": []
-        },
-        {
-          "title": "Los clowns",
-          "director": "Federico Fellini",
-          "filmYear": 1970,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [],
-          "aliases": [
-            "I Clowns"
-          ]
-        },
         {
           "title": "Élise ou la vraie vie",
           "director": "Michel Drach",
           "filmYear": 1970,
           "award": "Premio San Gregorio",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio San Gregorio"
           ],
-          "aliases": []
+          "aliases": [
+            "Elise ou la vraie vie (Elisa o la verdad de la vida)",
+            "Elisa o la verdad de la vida",
+            "Élise ou la vraie vie (Elisa o la verdadera vida)",
+            "Elisa o la verdadera vida"
+          ]
         },
         {
           "title": "Paix sur les champs",
           "director": "Jacques Boigelot",
           "filmYear": 1970,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Paix sur les champs (Paz en los campos)",
+            "Paz en los campos"
+          ]
         },
         {
           "title": "On est loin du soleil",
           "director": "Jacques Leduc",
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "On est loin du soleil (Está lejos del sol)",
+            "Está lejos del sol"
+          ]
         },
         {
           "title": "El Cristo del Océano",
           "director": "Ramón Fernández",
           "filmYear": 1971,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "El Cristo del océano"
@@ -5738,103 +5715,127 @@
           "title": "Dime que me amas, Junie Moon",
           "director": "Otto Preminger",
           "filmYear": 1970,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Menciones Especiales",
+          "nominations": [],
+          "wins": [
+            "Menciones Especiales"
           ],
-          "wins": [],
           "aliases": [
-            "Tell Me That You Love Me, Junie Moon"
+            "Tell Me That You Love Me, Junie Moon",
+            "Tell Me You Love Me, Junie Moon (Dime que me amas, Junie Moon)",
+            "Tell Me that You Love Me, Junie Moon (Dime que me amas, Junie Moon)"
           ]
         },
         {
           "title": "Locos",
           "director": "Tom Gries",
-          "award": "Mención especial",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Menciones Especiales",
+          "nominations": [],
           "wins": [
-            "Mención especial"
+            "Menciones Especiales"
           ],
-          "aliases": []
+          "aliases": [
+            "Fools (Locos)"
+          ]
         },
         {
-          "title": "Kes",
+          "title": "Kes (Beso)",
           "director": "Ken Loach",
-          "filmYear": 1969,
-          "award": "Premio de la Ciudad de Valladolid",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "aliases": [
+            "Beso"
           ],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "La estrategia de la araña",
+          "director": "Bernardo Bertolucci",
+          "filmYear": 1970,
+          "award": "Espiga de Oro",
+          "nominations": [],
           "wins": [
-            "Premio de la Ciudad de Valladolid"
+            "Espiga de Oro"
           ],
-          "aliases": []
+          "aliases": [
+            "Strategia del ragno",
+            "La strategia del ragno (La estrategia de la araña)"
+          ]
+        },
+        {
+          "title": "El muchacho",
+          "director": "Nagisa Ōshima",
+          "filmYear": 1969,
+          "award": "Espiga de Oro",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "aliases": [
+            "Shonen (El muchacho)"
+          ]
         },
         {
           "title": "Dulces cazadores",
           "director": "Ruy Guerra",
           "filmYear": 1970,
           "award": "Premio Especial del Jurado",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "nominations": [],
           "wins": [
             "Premio Especial del Jurado"
           ],
           "aliases": [
-            "Ternos Caçadores"
+            "Ternos Caçadores",
+            "Sweet Hunters (Dulces cazadores)"
           ]
         },
         {
           "title": "Czerwone i zlote",
           "director": "Stanislaw Lenartowicz",
-          "award": "Premio CEC · Stanislaw Grochowiak",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Medalla del Círculo de Escritores Cinematográficos al Mejor Guión",
+          "nominations": [],
           "wins": [
-            "Premio CEC · Stanislaw Grochowiak"
+            "Medalla del Círculo de Escritores Cinematográficos al Mejor Guión"
           ],
-          "aliases": []
+          "aliases": [
+            "Czerwone i slote (Rojo y oro)",
+            "Rojo y oro",
+            "Czerwone i zlote (Rojo y oro)"
+          ]
+        },
+        {
+          "title": "Alba del Islam",
+          "director": "Salah Abou Seif",
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": [
+            "Aube d’Islam",
+            "Aube d’Islam (Alba del Islam)"
+          ]
         },
         {
           "title": "Valparaíso, mi amor",
           "director": "Aldo Francia",
           "filmYear": 1969,
-          "award": "En competición según la lista IMDb Golden Spike / Best Film",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
             "Valparaíso mi amor"
           ]
         },
         {
-          "title": "La estrategia de la araña",
-          "director": "Bernardo Bertolucci",
+          "title": "Los clowns",
+          "director": "Federico Fellini",
           "filmYear": 1970,
-          "award": "Mejor película · Espiga de Oro",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "aliases": [
-            "Strategia del ragno"
-          ]
-        },
-        {
-          "title": "Alba del Islam",
-          "director": "Salah Abou Seif",
-          "award": "En competición según programa oficial SEMINCI",
+          "award": "Selección oficial",
           "nominations": [],
           "wins": [],
           "aliases": [
-            "Aube d’Islam"
+            "I Clowns",
+            "I clowns (Los payasos)",
+            "Los payasos"
           ]
         }
       ]
@@ -5842,7 +5843,25 @@
     {
       "festival": "Seminci",
       "year": 1971,
-      "section": "Cortometrajes premiados",
+      "section": "Sección Oficial · largometrajes",
+      "films": [
+        {
+          "title": "Kes",
+          "director": "Ken Loach",
+          "filmYear": 1969,
+          "award": "Premio Ciudad de Valladolid",
+          "nominations": [],
+          "wins": [
+            "Premio Ciudad de Valladolid"
+          ],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1971,
+      "section": "Sección Oficial · cortometrajes premiados",
       "films": [
         {
           "title": "El campesino elocuente",
@@ -5853,9 +5872,7 @@
           "wins": [
             "Lábaro de Oro"
           ],
-          "aliases": [
-            "El campesino elocuente"
-          ]
+          "aliases": []
         },
         {
           "title": "Tische",
@@ -5866,9 +5883,7 @@
           "wins": [
             "Espiga de Oro"
           ],
-          "aliases": [
-            "Tische"
-          ]
+          "aliases": []
         },
         {
           "title": "La Meca, ciudad prohibida",
@@ -5880,7 +5895,8 @@
             "Premio Especial del Jurado"
           ],
           "aliases": [
-            "Mecca, the Forbidden City"
+            "Mecca, the Forbidden City",
+            "Mecca, the Forbidden City (La Meca, ciudad prohibida)"
           ]
         }
       ]

@@ -1897,106 +1897,71 @@
     {
       "festival": "Seminci",
       "year": 1986,
-      "section": "Golden Spike / Espiga de Oro (selección según IMDb)",
+      "section": "Sección Oficial · largometrajes",
       "films": [
-        {
-          "title": "Sacrificio",
-          "director": "Andrei Tarkovsky",
-          "filmYear": 1986,
-          "award": "Mejor película · Espiga de Oro · Mejor fotografía · Sven Nykvist",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro",
-            "Mejor fotografía · Sven Nykvist"
-          ],
-          "aliases": [
-            "Offret"
-          ]
-        },
-        {
-          "title": "Mona Lisa",
-          "director": "Neil Jordan",
-          "filmYear": 1986,
-          "award": "Mejor película · Espiga de Oro · Mejor actor · Bob Hoskins",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
-          "wins": [
-            "Mejor película · Espiga de Oro",
-            "Mejor actor · Bob Hoskins"
-          ],
-          "aliases": []
-        },
         {
           "title": "La película del rey",
           "director": "Carlos Sorín",
           "filmYear": 1986,
-          "award": "Mejor dirección novel · Carlos Sorin · Premio François Truffaut · primera película (IMDb) · Carlos Sorin",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio «François Truffaut» a la Mejor Ópera Prima",
+          "nominations": [],
           "wins": [
-            "Mejor dirección novel · Carlos Sorin",
-            "Premio François Truffaut · primera película (IMDb) · Carlos Sorin"
+            "Premio «François Truffaut» a la Mejor Ópera Prima"
           ],
           "aliases": []
         },
         {
           "title": "Dancing in the Dark",
           "director": "Leon Marr",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Dancing in the Dark (Bailando en la oscuridad)",
+            "Bailando en la oscuridad"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "El declive del imperio americano",
           "director": "Denys Arcand",
           "filmYear": 1986,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Le Déclin de l'empire américain"
+            "Le Déclin de l'empire américain",
+            "Le declin de l’empire americain (El declive del imperio americano)"
           ]
         },
         {
           "title": "A la salida nos vemos",
           "director": "Carlos Palau",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [],
+          "filmYear": 1985
         },
         {
           "title": "Mi dulce pueblecito",
           "director": "Jiří Menzel",
           "filmYear": 1985,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Vesničko má středisková"
+            "Vesničko má středisková",
+            "Vesnicko ma strediskova (Mi dulce pueblo)",
+            "Mi dulce pueblo"
           ]
         },
         {
           "title": "Adiós pequeña",
           "director": "Imanol Uribe",
           "filmYear": 1986,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": []
         },
@@ -2004,141 +1969,258 @@
           "title": "El disputado voto del Sr. Cayo",
           "director": "Antonio Giménez Rico",
           "filmYear": 1986,
-          "award": "Espiga de Plata · Premio del público (IMDb)",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Espiga de Plata · Premio del Público",
+          "nominations": [],
           "wins": [
             "Espiga de Plata",
-            "Premio del público (IMDb)"
+            "Premio del Público"
           ],
-          "aliases": []
+          "aliases": [
+            "El disputado voto del señor Cayo"
+          ]
         },
         {
           "title": "Se acabó el pastel",
           "director": "Mike Nichols",
           "filmYear": 1986,
-          "award": "Mejor actriz · Meryl Streep",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Premio a la Mejor Actriz · Meryl Streep",
+          "nominations": [],
           "wins": [
-            "Mejor actriz · Meryl Streep"
+            "Premio a la Mejor Actriz · Meryl Streep"
           ],
           "aliases": [
-            "Heartburn"
+            "Heartburn",
+            "Heartburn (Se acabó el pastel)"
           ]
         },
         {
           "title": "Consejo de familia",
           "director": "Costa Gavras",
           "filmYear": 1986,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
           "aliases": [
-            "Conseil de famille"
+            "Conseil de famille",
+            "Conseil de famille (Consejo de familia)"
           ]
         },
         {
           "title": "Thérèse",
           "director": "Alain Cavalier",
           "filmYear": 1986,
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "award": "Selección oficial",
+          "nominations": [],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Hotel du paradis",
+          "director": "Jana Bokova",
+          "aliases": [],
+          "wins": [],
+          "nominations": [],
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Desde Liverpool con amor",
+          "director": "Chris Bernard",
+          "aliases": [
+            "Carta a Brezhnev",
+            "Letter to Brezhnev",
+            "Letter to Brezhnev (Carta a Brezhnev)"
           ],
           "wins": [],
+          "nominations": [],
+          "filmYear": 1985,
+          "award": "Selección oficial"
+        },
+        {
+          "title": "Mona Lisa",
+          "director": "Neil Jordan",
+          "filmYear": 1986,
+          "award": "Espiga de Oro (ex aequo) · Premio al Mejor Actor · Bob Hoskins",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)",
+            "Premio al Mejor Actor · Bob Hoskins"
+          ],
           "aliases": []
         },
         {
           "title": "De dream",
           "director": "Pieter Verhoeff",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "De Droom (El sueño)",
+            "El sueño"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "A tanítványok",
           "director": "Géza Bereményi",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "A tanitvanyok (Los discípulos)",
+            "Los discípulos"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "Festa di laurea",
           "director": "Pupi Avati",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Festa di laurea (Fiesta de licenciatura)",
+            "Fiesta de licenciatura"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "El arpa birmana",
           "director": "Kon Ichikawa",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Birma no tategoto (El arpa birmana)"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "Jestem przeciw",
           "director": "Andrzej Trzos-Rastawiecki",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "Jestem przeciw (…Me opongo)",
+            "…Me opongo"
+          ],
+          "filmYear": 1985
         },
         {
           "title": "Mi caso",
           "director": "Manoel de Oliveira",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
-          ],
+          "award": "Selección oficial",
+          "nominations": [],
           "wins": [],
-          "aliases": []
+          "aliases": [
+            "O meu caso (Mi caso)"
+          ]
         },
         {
-          "title": "Zontik dlya novobrachnykh",
-          "director": "Rodion Nakhapetov",
-          "award": "En competición según la lista Golden Spike de IMDb",
-          "nominations": [
-            "Mejor película · Espiga de Oro"
+          "title": "Sacrificio",
+          "director": "Andrei Tarkovsky",
+          "filmYear": 1986,
+          "award": "Espiga de Oro (ex aequo) · Premio a la Mejor Fotografía · Sven Nykvist",
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro (ex aequo)",
+            "Premio a la Mejor Fotografía · Sven Nykvist"
+          ],
+          "aliases": [
+            "Offret",
+            "Offret (Sacrificio)"
+          ]
+        },
+        {
+          "title": "Zontik dlia novobrachnykh (Paraguas para recién casados)",
+          "director": "Rodion Najapetov",
+          "aliases": [
+            "Paraguas para recién casados"
           ],
           "wins": [],
-          "aliases": []
+          "nominations": [],
+          "award": "Selección oficial"
         }
       ]
     },
     {
       "festival": "Seminci",
       "year": 1986,
-      "section": "Películas premiadas · sección de programación no indicada por IMDb/FilmAffinity",
+      "section": "Sección Oficial · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Una tragedia griega",
+          "director": "Nicole van Goethem",
+          "aliases": [
+            "Een griekse tragedie",
+            "Een griekse tragedie (Una tragedia griega)"
+          ],
+          "wins": [
+            "Espiga de Oro"
+          ],
+          "nominations": [],
+          "filmYear": 1985,
+          "award": "Espiga de Oro"
+        },
+        {
+          "title": "Fenyiek virradat elott (Luces antes del amanecer)",
+          "director": "Sandor Kékési",
+          "aliases": [
+            "Luces antes del amanecer"
+          ],
+          "wins": [
+            "Espiga de Plata"
+          ],
+          "nominations": [],
+          "filmYear": 1985,
+          "award": "Espiga de Plata"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 1986,
+      "section": "Tiempo de Historia · largometrajes",
       "films": [
         {
           "title": "Artie Shaw: Time Is All You've Got",
-          "director": "",
-          "award": "Mejor documental (IMDb) · Brigitte Berman",
+          "director": "Brigitte Berman",
+          "award": "Premio Tiempo de Historia",
           "nominations": [],
           "wins": [
-            "Mejor documental (IMDb) · Brigitte Berman"
+            "Premio Tiempo de Historia"
           ],
-          "aliases": []
+          "aliases": [
+            "Artie Shaw: Time Is All You’ve Got (Artie Shaw: el tiempo es todo lo que te ha quedado)",
+            "Artie Shaw: el tiempo es todo lo que te ha quedado"
+          ],
+          "filmYear": 1985
+        },
+        {
+          "title": "Ah, Amerika! (¡Oh, America!)",
+          "director": "István Órosz y Laszlo Haris",
+          "aliases": [
+            "¡Oh, America!"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1985,
+          "award": "Menciones especiales"
+        },
+        {
+          "title": "La lucarne du siècle (La ventana del siglo)",
+          "director": "Nöel Burch",
+          "aliases": [
+            "La ventana del siglo"
+          ],
+          "wins": [
+            "Menciones especiales"
+          ],
+          "nominations": [],
+          "filmYear": 1985,
+          "award": "Menciones especiales"
         }
       ]
     }
