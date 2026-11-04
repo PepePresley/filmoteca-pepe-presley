@@ -1,5 +1,20 @@
 # Construcción de festivales
 
+Para consultar el estado registrado sin volver a leer las películas ni modificar
+archivos, ejecutar desde la raíz del repositorio:
+
+```sh
+node scripts/report-festival-progress.mjs
+```
+
+Para consultar solo un año, usar `node scripts/report-festival-progress.mjs --year=1981`.
+Añadir `--all` para mostrar el detalle anual completo.
+
+El informe cruza el índice de ediciones, la presencia de fuentes anuales, los
+resúmenes de cobertura y los estados literales de `sources/construccion_AAAA.json`.
+No certifica identidades, propiedad ni premios; cuando no encuentra evidencia
+clara, lo indica en lugar de inferir que el año está cerrado.
+
 Las fuentes de construcción están en `years/AAAA.json`: un archivo por año
 de edición con todas sus familias y secciones. `years/index.json` conserva
 la versión de los datos y el orden establecido de las ediciones.
