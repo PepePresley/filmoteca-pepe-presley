@@ -11,7 +11,8 @@ Para consultar solo un año, usar `node scripts/report-festival-progress.mjs --y
 Añadir `--all` para mostrar el detalle anual completo.
 
 El informe cruza el índice de ediciones, la presencia de fuentes anuales, los
-resúmenes de cobertura y los estados literales de `sources/construccion_AAAA.json`.
+resúmenes de cobertura, los estados literales de `sources/construccion_AAAA.json`
+y suplementos o incorporaciones posteriores.
 No certifica identidades, propiedad ni premios; cuando no encuentra evidencia
 clara, lo indica en lugar de inferir que el año está cerrado.
 

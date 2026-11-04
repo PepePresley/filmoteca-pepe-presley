@@ -159,6 +159,13 @@
         "originalCapture": false
       },
       {
+        "name": "IMDb Berlin International Film Festival 1976 — Short Film",
+        "url": "https://www.imdb.com/event/ev0000091/1976/1/",
+        "coverage": "Lists Trains by Caleb Deschanel as a Short Film winner; secondary identity evidence only, not official programme-section confirmation.",
+        "kind": "secondary event listing checked 2026-11-04",
+        "originalCapture": false
+      },
+      {
         "name": "San Sebastián archive 1976, Official Section",
         "url": "https://www.sansebastianfestival.com/1976/sections_and_films/official_section/8/in",
         "coverage": "Official-section films and status labels",
@@ -272,8 +279,8 @@
     },
     {
       "block": "Berlín Trains",
-      "question": "La transcripción disponible da el título “Trains” y director Caleb Deschanel, sin título original ni ficha identificable en esta comprobación.",
-      "impact": "Registro se conserva con identidad y filmAffinityId pendientes."
+      "question": "IMDb lista Trains, de Caleb Deschanel, como ganadora en Short Film en Berlín 1976; no se localizó ficha FilmAffinity y el archivo oficial sigue inaccesible. El registro actual la sitúa en competición de largometrajes.",
+      "impact": "La identidad recibe apoyo secundario, pero la sección oficial entra en conflicto. No mover ni confirmar la clasificación hasta obtener evidencia del programa oficial."
     },
     {
       "block": "Berlín archivo oficial",

@@ -56,6 +56,28 @@ function buildReport(rootDirectory = '.', {year: selectedYear = null, allYears =
     constructionByYear.set(record.year, {record, file: relative(filename)});
   }
 
+  const followUpFiles = fs.readdirSync(constructionDirectory)
+    .filter(name => /^(?:suplemento|incorporacion)_.*\.json$/.test(name)).sort();
+  const followUpsByYear = new Map();
+  for (const name of followUpFiles) {
+    const filename = path.join(constructionDirectory, name);
+    const match = name.match(/_(\d{4})(?:_(\d{4}))?(?:_20\d{2}-\d{2}-\d{2})?\.json$/);
+    if (!match) continue;
+    const record = readJson(filename);
+    const firstYear = Number(match[1]);
+    const lastYear = Number(match[2] || match[1]);
+    const entry = {
+      file: relative(filename),
+      date: record.date || record.closedOn || record.completionDate || '',
+      status: record.status || record.coverageStatus || '',
+    };
+    for (let year = firstYear; year <= lastYear; year++) {
+      const entries = followUpsByYear.get(year) || [];
+      entries.push(entry);
+      followUpsByYear.set(year, entries);
+    }
+  }
+
   const sourceYears = new Set([...indexedYears, ...constructionByYear.keys()]);
   const yearsWithoutStatusSource = [...sourceYears].filter(year =>
     !coverageYears.has(year) && !constructionByYear.has(year)).sort((a, b) => a - b);
@@ -95,12 +117,21 @@ function buildReport(rootDirectory = '.', {year: selectedYear = null, allYears =
       .map(([year]) => year).sort((a, b) => a - b);
     lines.push(`- **${status}:** ${count} años (${safeList(years)}).`);
   }
+  const newerFollowUps = [...constructionByYear.entries()].flatMap(([year, base]) =>
+    (followUpsByYear.get(year) || [])
+      .filter(item => item.date && base.record.completionDate && item.date > base.record.completionDate)
+      .map(item => `${year}: \`${item.file}\` (${item.date}${item.status ? `; ${item.status}` : ''})`));
+  if (newerFollowUps.length) {
+    lines.push('', '### Registros posteriores al estado base', '');
+    lines.push('Consultar estos suplementos e incorporaciones antes de actuar: pueden actualizar o acotar el registro de construcción, pero no lo sustituyen automáticamente.');
+    for (const item of newerFollowUps) lines.push(`- ${item}`);
+  }
 
   const detailYears = selectedYear === null
     ? (allYears ? [...sourceYears].sort((a, b) => a - b) : [])
     : [selectedYear];
   if (detailYears.length) {
-    lines.push('', '## Años con detalle', '', '| Año | Ediciones en índice | Fuente anual | Estado de cobertura/construcción | Fuente del estado |', '| ---: | ---: | --- | --- | --- |');
+    lines.push('', '## Años con detalle', '', '| Año | Ediciones en índice | Fuente anual | Estado de cobertura/construcción | Seguimientos | Fuente del estado |', '| ---: | ---: | --- | --- | --- | --- |');
   }
   for (const year of detailYears) {
     const construction = constructionByYear.get(year);
@@ -118,7 +149,8 @@ function buildReport(rootDirectory = '.', {year: selectedYear = null, allYears =
         : `Cobertura declarada: ${summaryStates.join(', ')}`;
       sources.push(...coverageEntries.map(item => item.file));
     }
-    lines.push(`| ${year} | ${editionsByYear.get(year) ?? 0} | ${annualFiles.has(year) ? 'presente' : 'no presente'} | ${state} | ${sources.length ? sources.map(source => `\`${source}\``).join('<br>') : '—'} |`);
+    const followUps = followUpsByYear.get(year) || [];
+    lines.push(`| ${year} | ${editionsByYear.get(year) ?? 0} | ${annualFiles.has(year) ? 'presente' : 'no presente'} | ${state} | ${followUps.length ? followUps.map(item => `\`${item.file}\`${item.status ? ` (${item.status})` : ''}`).join('<br>') : '—'} | ${sources.length ? sources.map(source => `\`${source}\``).join('<br>') : '—'} |`);
   }
 
   lines.push('', '## Límites y avisos', '');
