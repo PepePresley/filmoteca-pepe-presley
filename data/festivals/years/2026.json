@@ -6299,192 +6299,6 @@
       ]
     },
     {
-      "festival": "Seminci",
-      "year": 2026,
-      "section": "Competición oficial · palmarés pendiente",
-      "films": [
-        {
-          "title": "We Are All Strangers",
-          "director": "Anthony Chen",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [
-            "Wo Men Bu Shi Mo Sheng Ren"
-          ],
-          "nominations": []
-        },
-        {
-          "title": "Prosecution",
-          "director": "Faraz Shariat",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Cartas de Estado",
-          "director": "İlker Çatak",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Everytime",
-          "director": "Sandra Wollner",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Rose",
-          "director": "Markus Schleinzer",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Un hombre de nuestro tiempo",
-          "director": "Emmanuel Marre",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Aquí",
-          "director": "Tiago Guedes",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "La Gradiva",
-          "director": "Marine Atlan",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Las islas afortunadas",
-          "director": "Helena Girón, Samuel Delgado",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Hermanas",
-          "director": "Ione Hernández",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "A Bit of Light",
-          "director": "Ali Asgari",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "La violinista",
-          "director": "Ervin Han, Raúl García",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "My Notes on Mars",
-          "director": "Lili Horvát",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Woman Unknown",
-          "director": "May el-Toukhy",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "La libertad doble",
-          "director": "Lisandro Alonso",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Dao",
-          "director": "Alain Gomis",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Un monstruo amable",
-          "director": "Marie Kreutzer",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "A Good Little Soldier",
-          "director": "Stéphane Brizé",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Queen at Sea",
-          "director": "Lance Hammer",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "The Echo Chamber",
-          "director": "Andrea Pallaoro",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "Mr. Nelson, Did You Kill People?",
-          "director": "Shinya Tsukamoto",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        },
-        {
-          "title": "I Rarely Wake Up Dreaming",
-          "director": "Isabelle Stever",
-          "award": "En competición",
-          "wins": [],
-          "aliases": [],
-          "nominations": []
-        }
-      ],
-      "status": "in_progress"
-    },
-    {
       "festival": "Oscar",
       "year": 2026,
       "section": "98.ª ceremonia · películas estrenadas en 2025",
@@ -7287,6 +7101,485 @@
           ],
           "filmYear": 2025,
           "filmaffinityTitle": "Zootrópolis 2 / Zootopia 2"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Competición oficial",
+      "films": [
+        {
+          "title": "We Are All Strangers",
+          "director": "Anthony Chen",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": [
+            "Wo Men Bu Shi Mo Sheng Ren"
+          ]
+        },
+        {
+          "title": "Prosecution",
+          "director": "Faraz Shariat",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Cartas de Estado",
+          "director": "İlker Çatak",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Everytime",
+          "director": "Sandra Wollner",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Premio Miguel Delibes al Mejor Guion · Sandra Wollner"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Rose",
+          "director": "Markus Schleinzer",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Premio del Público de la Sección Oficial Internacional"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Un hombre de nuestro tiempo",
+          "director": "Emmanuel Marre",
+          "award": "Ganadora · 2 premios",
+          "wins": [
+            "Premio al Mejor Actor · Swann Arlaud",
+            "Premio a la Mejor Dirección de Fotografía · Olivier Boonjing"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Aquí",
+          "director": "Tiago Guedes",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Mención especial del Jurado de la Sección Oficial Internacional · Tiago Guedes"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "La Gradiva",
+          "director": "Marine Atlan",
+          "award": "Ganadora · 3 premios",
+          "wins": [
+            "Espiga de Plata al mejor largometraje · Sección Oficial Internacional",
+            "Premio José Salcedo al Mejor Montaje · Guillaume Lillo",
+            "Espiga Arcoíris"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Las islas afortunadas",
+          "director": "Helena Girón, Samuel Delgado",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Hermanas",
+          "director": "Ione Hernández",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "A Bit of Light",
+          "director": "Ali Asgari",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "La violinista",
+          "director": "Ervin Han, Raúl García",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "My Notes on Mars",
+          "director": "Lili Horvát",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Woman Unknown",
+          "director": "May el-Toukhy",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "La libertad doble",
+          "director": "Lisandro Alonso",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Premio Ribera del Duero a la Mejor Dirección · Lisandro Alonso"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Dao",
+          "director": "Alain Gomis",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Espiga de Oro al mejor largometraje · Sección Oficial Internacional"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Un monstruo amable",
+          "director": "Marie Kreutzer",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "A Good Little Soldier",
+          "director": "Stéphane Brizé",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Premio a la Mejor Actriz · Alba Rohrwacher"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Queen at Sea",
+          "director": "Lance Hammer",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Premio del Jurado Joven de la Sección Oficial Internacional"
+          ],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "The Echo Chamber",
+          "director": "Andrea Pallaoro",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "Mr. Nelson, Did You Kill People?",
+          "director": "Shinya Tsukamoto",
+          "award": "En competición",
+          "wins": [],
+          "nominations": [],
+          "aliases": []
+        },
+        {
+          "title": "I Rarely Wake Up Dreaming",
+          "director": "Isabelle Stever",
+          "award": "Ganadora · 1 premio",
+          "wins": [
+            "Premio FIPRESCI"
+          ],
+          "nominations": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Class Photo",
+          "director": "Arnas Balčiūnas",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Espiga de Oro al mejor cortometraje · Sección Oficial Internacional"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Primer fuego",
+          "director": "Blanca Camell Galí",
+          "aliases": [
+            "Premier feu",
+            "First Fire"
+          ],
+          "nominations": [],
+          "wins": [
+            "Primera Espiga de Plata al mejor cortometraje · Sección Oficial Internacional"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Crónica del cansancio",
+          "director": "Natalia Marín",
+          "aliases": [
+            "Chronicle of Tiredness"
+          ],
+          "nominations": [],
+          "wins": [
+            "Segunda Espiga de Plata al mejor cortometraje · Sección Oficial Internacional"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Pithead",
+          "director": "Wannes Vanspauwen, Pol De Plecker",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor Cortometraje Europeo"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "El tamagochi escarlata",
+          "director": "Francisco Visceral Rivera",
+          "aliases": [
+            "The Scarlet Tamagochi"
+          ],
+          "nominations": [],
+          "wins": [
+            "Premio del Jurado Joven al Mejor Cortometraje"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial de Cortometrajes Españoles · cortometrajes premiados",
+      "films": [
+        {
+          "title": "L'enterrament de la sardina",
+          "director": "Mariona Martínez",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio al Mejor Cortometraje Español"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Castilla y León en Corto · cortometrajes premiados",
+      "films": [
+        {
+          "title": "Under the Lake",
+          "director": "Juan Carlos Mostaza",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio Castilla y León en Corto"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Punto de Encuentro · largometrajes premiados",
+      "films": [
+        {
+          "title": "9 Temples to Heaven",
+          "director": "Sompot Chidgasornpongse",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio Punto de Encuentro"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Cinemanía",
+          "director": "Marc Ferrer",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio Especial FUNDOS · Punto de Encuentro"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Forest High",
+          "director": "Manon Coubia",
+          "aliases": [
+            "Forêt Ivre"
+          ],
+          "nominations": [],
+          "wins": [
+            "Premio ESCAC · Punto de Encuentro"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Salen las lobas",
+          "director": "Claudia Estrada Tarascó",
+          "aliases": [
+            "The Bitch Pack"
+          ],
+          "nominations": [],
+          "wins": [
+            "Premio Seminci Joven",
+            "Premio del Público de Punto de Encuentro"
+          ],
+          "award": "Ganadora · 2 premios"
+        },
+        {
+          "title": "A Day in the Life of Jo: Chapter Phaedra",
+          "director": "Jacqueline Lentzou",
+          "aliases": [
+            "Mia mera sti zoi tis Tzo: Kefalaio Faidra"
+          ],
+          "nominations": [],
+          "wins": [
+            "Premio del Jurado Joven de Punto de Encuentro"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Alquimias · largometrajes premiados",
+      "films": [
+        {
+          "title": "Promised Spaces",
+          "director": "Ivan Marković",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Gran Premio Alquimias"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Benigno",
+          "director": "David Baute",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Mención especial Alquimias",
+            "Espiga Verde"
+          ],
+          "award": "Ganadora · 2 premios"
+        },
+        {
+          "title": "Adiós, ríos",
+          "director": "Sebastián Uría",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio Pilar Miró a la Mejor Dirección"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Tiempo de Historia · largometrajes premiados",
+      "films": [
+        {
+          "title": "Alea Jacarandas",
+          "director": "Hassen Ferhani",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Gran Premio Tiempo de Historia"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "Biografía de Jorge Luis Borges",
+          "director": "Mariano Llinás",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio Especial Tiempo de Historia"
+          ],
+          "award": "Ganadora · 1 premio"
+        },
+        {
+          "title": "At Night",
+          "director": "Beatrice Gibson",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Mención especial Tiempo de Historia"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "DOC. España · largometrajes premiados",
+      "films": [
+        {
+          "title": "Todo es cárcel",
+          "director": "Eloy Enciso Cachafeiro",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio DOC. España"
+          ],
+          "award": "Ganadora · 1 premio"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Miniminci · largometrajes premiados",
+      "films": [
+        {
+          "title": "Momonsters. Película de Navidad",
+          "director": "Javier Martínez, Christian Garnez",
+          "aliases": [],
+          "nominations": [],
+          "wins": [
+            "Premio Miniminci"
+          ],
+          "award": "Ganadora · 1 premio"
         }
       ]
     }
