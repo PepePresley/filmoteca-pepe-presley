@@ -595,12 +595,12 @@ try{
  }catch(_){}
  catalogoCargado=true;
  }
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-palmares-20261108");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=seminci-premios-visibles-20261108");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-palmares-20261108");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=seminci-premios-visibles-20261108");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
