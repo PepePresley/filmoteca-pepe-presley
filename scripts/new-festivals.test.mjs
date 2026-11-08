@@ -119,13 +119,13 @@ test('2022–2023 additions preserve complete award counts, corrected shorts and
   const venice=editions.find(e=>e.festival==='Venecia').films;const film=venice.find(f=>f.title===(year===2023?'Io Capitano':'Bones and All'));assert(film.award.includes(year===2023?'Matteo Garrone':'Luca Guadagnino'));assert(film.award.includes(year===2023?'Seydou Sarr':'Taylor Russell'));
  }
 });
-test('2026 has fifteen families, complete structured awards and Seminci still in competition',()=>{
+test('2026 has fifteen families, complete structured awards and Seminci has its final awards',()=>{
  const editions=JSON.parse(fs.readFileSync('data/festivals/years/2026.json')).editions;assert.equal(new Set(editions.map(e=>e.festival)).size,15);
  for(const [family,nominations,wins,categories] of [['Oscar',125,25,24],['Globos de Oro',92,15,15],['César',110,24,24],['David di Donatello',129,26,25],['Ariel',122,28,25]]){
   const films=editions.filter(e=>e.festival===family).flatMap(e=>e.films);assert.equal(films.reduce((n,f)=>n+f.nominations.length,0),nominations);assert.equal(films.reduce((n,f)=>n+f.wins.length,0),wins);assert.equal(new Set(films.flatMap(f=>f.nominations.map(n=>n.split(' · ')[0]))).size,categories);
   for(const f of films){assert.equal(new Set(f.nominations).size,f.nominations.length);if(f.nominations.length)for(const w of f.wins)assert(f.nominations.includes(w));}
  }
- const seminci=editions.find(e=>e.festival==='Seminci');assert.equal(seminci.films.length,22);assert.equal(seminci.status,'in_progress');assert(seminci.section.includes('pendiente'));assert(seminci.films.every(f=>!f.wins.length&&f.award==='En competición'));
+ const seminci=editions.filter(e=>e.festival==='Seminci');assert.equal(seminci.length,9);assert.equal(seminci.flatMap(e=>e.films).length,42);assert.equal(seminci.flatMap(e=>e.films).flatMap(f=>f.wins).length,35);assert(seminci.every(e=>e.status!=='in_progress'&&!e.section.includes('pendiente')));assert(seminci[0].films.find(f=>f.title==='Dao').wins.some(w=>w.startsWith('Espiga de Oro')));assert.equal(seminci.filter(e=>e.section.includes('cortometrajes premiados')).flatMap(e=>e.films).length,7);
  const oscar=editions.find(e=>e.festival==='Oscar');assert.equal(oscar.films.flatMap(f=>f.wins).filter(w=>w.startsWith('Cortometraje de ficción')).length,2);assert(oscar.films.some(f=>f.nominations.some(n=>n.startsWith('Casting'))));
  const david=editions.find(e=>e.festival==='David di Donatello');const leading=david.films.find(f=>f.aliases.includes('LE CITTÀ DI PIANURA'));assert(leading.wins.some(w=>w.includes('Sergio ROMANO')));assert(!leading.wins.some(w=>w.includes('Pierpaolo CAPOVILLA')));
  const locarno=editions.filter(e=>e.festival==='Locarno');assert.equal(locarno.find(e=>e.section==='Semaine de la Critique').films.length,2);assert(locarno.find(e=>e.section.includes('cortometrajes')).films.some(f=>f.title==='Private Property'));

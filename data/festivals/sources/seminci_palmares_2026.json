@@ -1,0 +1,1268 @@
+{
+  "date": "2026-11-08",
+  "sources": [
+    {
+      "id": "seminci_awards_2026",
+      "url": "https://www.seminci.com/premios-2026/",
+      "consultedAt": "2026-11-08",
+      "status": "read",
+      "extraction": "extracciones/palmares_oficial_2026.json",
+      "scope": "Palmarés completo de largometrajes, cortometrajes y premios especiales con ganadores de obras."
+    },
+    {
+      "id": "seminci_press_palmares_2026",
+      "url": "https://www.seminci.com/2026/noticias/dao-de-alain-gomis-gala-la-espiga-de-oro-de-la-71-seminci/",
+      "consultedAt": "2026-11-08",
+      "status": "read",
+      "extraction": "extracciones/palmares_oficial_2026.json",
+      "scope": "Comunicado oficial del palmarés; categorías, personas premiadas, menciones, premios compartidos y descripción de ganadores."
+    },
+    {
+      "id": "seminci_selection_2026",
+      "url": "https://www.seminci.com/2026/noticias/lisandro-alonso-alain-gomis-marie-kreutzer-stephane-brize-y-may-el-toukhy-ganadora-del-leon-de-oro-completan-la-seccion-oficial-a-concurso-de-la-71-seminci/",
+      "consultedAt": "2026-11-08",
+      "status": "read",
+      "extraction": "extracciones/seleccion_oficial_22_2026.json",
+      "scope": "Confirmación de 22 largometrajes a concurso en Sección Oficial Internacional; se reutiliza la selección del archivo de entrada."
+    },
+    {
+      "id": "seminci_films_sections_2026",
+      "url": "https://www.seminci.com/peliculas/",
+      "consultedAt": "2026-11-08",
+      "status": "read",
+      "extraction": "extracciones/secciones_ganadores_2026.json",
+      "scope": "Verificación de la sección original y el año cinematográfico de ganadores añadidos de otras secciones, incluida A Day in the Life of Jo: Chapter Phaedra."
+    },
+    {
+      "id": "filmaffinity_forest_high",
+      "url": "https://www.filmaffinity.com/es/film767690.html",
+      "consultedAt": "2026-11-08",
+      "status": "read",
+      "extraction": "extracciones/filmaffinity_forest_high.json",
+      "scope": "Resolver la grafía de la directora y comprobar título registrado, original y año de Forest High."
+    }
+  ],
+  "evidence": [
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "We Are All Strangers",
+      "director": "Anthony Chen",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Prosecution",
+      "director": "Faraz Shariat",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Cartas de Estado",
+      "director": "İlker Çatak",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Everytime",
+      "director": "Sandra Wollner",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio Miguel Delibes al Mejor Guion · Sandra Wollner"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Rose",
+      "director": "Markus Schleinzer",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio del Público de la Sección Oficial Internacional"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Un hombre de nuestro tiempo",
+      "director": "Emmanuel Marre",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio al Mejor Actor · Swann Arlaud",
+            "Premio a la Mejor Dirección de Fotografía · Olivier Boonjing"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Aquí",
+      "director": "Tiago Guedes",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Mención especial del Jurado de la Sección Oficial Internacional · Tiago Guedes"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "La Gradiva",
+      "director": "Marine Atlan",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Espiga de Plata al mejor largometraje · Sección Oficial Internacional",
+            "Premio José Salcedo al Mejor Montaje · Guillaume Lillo",
+            "Espiga Arcoíris"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Las islas afortunadas",
+      "director": "Helena Girón, Samuel Delgado",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Hermanas",
+      "director": "Ione Hernández",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "A Bit of Light",
+      "director": "Ali Asgari",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "La violinista",
+      "director": "Ervin Han, Raúl García",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "My Notes on Mars",
+      "director": "Lili Horvát",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Woman Unknown",
+      "director": "May el-Toukhy",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "La libertad doble",
+      "director": "Lisandro Alonso",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio Ribera del Duero a la Mejor Dirección · Lisandro Alonso"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Dao",
+      "director": "Alain Gomis",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Espiga de Oro al mejor largometraje · Sección Oficial Internacional"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Un monstruo amable",
+      "director": "Marie Kreutzer",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "A Good Little Soldier",
+      "director": "Stéphane Brizé",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio a la Mejor Actriz · Alba Rohrwacher"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Queen at Sea",
+      "director": "Lance Hammer",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio del Jurado Joven de la Sección Oficial Internacional"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "The Echo Chamber",
+      "director": "Andrea Pallaoro",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "Mr. Nelson, Did You Kill People?",
+      "director": "Shinya Tsukamoto",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional · largometrajes en competición",
+      "title": "I Rarely Wake Up Dreaming",
+      "director": "Isabelle Stever",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_selection_2026",
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026"
+      ],
+      "claims": [
+        {
+          "type": "selection",
+          "value": "Sección Oficial Internacional · largometrajes en competición"
+        },
+        {
+          "type": "wins",
+          "value": [
+            "Premio FIPRESCI"
+          ]
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados",
+      "title": "Class Photo",
+      "director": "Arnas Balčiūnas",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Espiga de Oro al mejor cortometraje · Sección Oficial Internacional"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados",
+      "title": "Primer fuego",
+      "director": "Blanca Camell Galí",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Primera Espiga de Plata al mejor cortometraje · Sección Oficial Internacional"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados",
+      "title": "Crónica del cansancio",
+      "director": "Natalia Marín",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Segunda Espiga de Plata al mejor cortometraje · Sección Oficial Internacional"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados",
+      "title": "Pithead",
+      "director": "Wannes Vanspauwen, Pol De Plecker",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio al Mejor Cortometraje Europeo"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados",
+      "title": "El tamagochi escarlata",
+      "director": "Francisco Visceral Rivera",
+      "filmYear": 2025,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio del Jurado Joven al Mejor Cortometraje"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Sección Oficial Internacional de Cortometrajes · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Sección Oficial de Cortometrajes Españoles · cortometrajes premiados",
+      "title": "L'enterrament de la sardina",
+      "director": "Mariona Martínez",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio al Mejor Cortometraje Español"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Sección Oficial de Cortometrajes Españoles · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Castilla y León en Corto · cortometrajes premiados",
+      "title": "Under the Lake",
+      "director": "Juan Carlos Mostaza",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Castilla y León en Corto"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Castilla y León en Corto · cortometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Punto de Encuentro · largometrajes premiados",
+      "title": "9 Temples to Heaven",
+      "director": "Sompot Chidgasornpongse",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Punto de Encuentro"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Punto de Encuentro · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Punto de Encuentro · largometrajes premiados",
+      "title": "Cinemanía",
+      "director": "Marc Ferrer",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Especial FUNDOS · Punto de Encuentro"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Punto de Encuentro · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Punto de Encuentro · largometrajes premiados",
+      "title": "Forest High",
+      "director": "Manon Coubia",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": "https://www.filmaffinity.com/es/film767690.html",
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026",
+        "filmaffinity_forest_high"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio ESCAC · Punto de Encuentro"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Punto de Encuentro · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Punto de Encuentro · largometrajes premiados",
+      "title": "Salen las lobas",
+      "director": "Claudia Estrada Tarascó",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Seminci Joven",
+            "Premio del Público de Punto de Encuentro"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Punto de Encuentro · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Alquimias · largometrajes premiados",
+      "title": "Promised Spaces",
+      "director": "Ivan Marković",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Gran Premio Alquimias"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Alquimias · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Alquimias · largometrajes premiados",
+      "title": "Benigno",
+      "director": "David Baute",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Mención especial Alquimias",
+            "Espiga Verde"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Alquimias · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Alquimias · largometrajes premiados",
+      "title": "Adiós, ríos",
+      "director": "Sebastián Uría",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Pilar Miró a la Mejor Dirección"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Alquimias · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Tiempo de Historia · largometrajes premiados",
+      "title": "Alea Jacarandas",
+      "director": "Hassen Ferhani",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Gran Premio Tiempo de Historia"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Tiempo de Historia · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Tiempo de Historia · largometrajes premiados",
+      "title": "Biografía de Jorge Luis Borges",
+      "director": "Mariano Llinás",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Especial Tiempo de Historia"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Tiempo de Historia · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Tiempo de Historia · largometrajes premiados",
+      "title": "At Night",
+      "director": "Beatrice Gibson",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Mención especial Tiempo de Historia"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Tiempo de Historia · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "DOC. España · largometrajes premiados",
+      "title": "Todo es cárcel",
+      "director": "Eloy Enciso Cachafeiro",
+      "filmYear": null,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio DOC. España"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "DOC. España · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Miniminci · largometrajes premiados",
+      "title": "Momonsters. Película de Navidad",
+      "director": "Javier Martínez, Christian Garnez",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio Miniminci"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Miniminci · largometrajes premiados"
+        }
+      ]
+    },
+    {
+      "festival": "Seminci",
+      "year": 2026,
+      "section": "Punto de Encuentro · largometrajes premiados",
+      "title": "A Day in the Life of Jo: Chapter Phaedra",
+      "director": "Jacqueline Lentzou",
+      "filmYear": 2026,
+      "identityStatus": "confirmed",
+      "filmAffinityUrl": null,
+      "sourceIds": [
+        "seminci_awards_2026",
+        "seminci_press_palmares_2026",
+        "seminci_films_sections_2026"
+      ],
+      "claims": [
+        {
+          "type": "wins",
+          "value": [
+            "Premio del Jurado Joven de Punto de Encuentro"
+          ]
+        },
+        {
+          "type": "section",
+          "value": "Punto de Encuentro · largometrajes premiados"
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "films": 42,
+    "awardedFilms": 30,
+    "awards": 35,
+    "shortsAwarded": 7
+  },
+  "owned": [],
+  "notLocated": [
+    {
+      "title": "We Are All Strangers",
+      "director": "Anthony Chen"
+    },
+    {
+      "title": "Prosecution",
+      "director": "Faraz Shariat"
+    },
+    {
+      "title": "Cartas de Estado",
+      "director": "İlker Çatak"
+    },
+    {
+      "title": "Everytime",
+      "director": "Sandra Wollner"
+    },
+    {
+      "title": "Rose",
+      "director": "Markus Schleinzer"
+    },
+    {
+      "title": "Un hombre de nuestro tiempo",
+      "director": "Emmanuel Marre"
+    },
+    {
+      "title": "Aquí",
+      "director": "Tiago Guedes"
+    },
+    {
+      "title": "La Gradiva",
+      "director": "Marine Atlan"
+    },
+    {
+      "title": "Las islas afortunadas",
+      "director": "Helena Girón, Samuel Delgado"
+    },
+    {
+      "title": "Hermanas",
+      "director": "Ione Hernández"
+    },
+    {
+      "title": "A Bit of Light",
+      "director": "Ali Asgari"
+    },
+    {
+      "title": "La violinista",
+      "director": "Ervin Han, Raúl García"
+    },
+    {
+      "title": "My Notes on Mars",
+      "director": "Lili Horvát"
+    },
+    {
+      "title": "Woman Unknown",
+      "director": "May el-Toukhy"
+    },
+    {
+      "title": "La libertad doble",
+      "director": "Lisandro Alonso"
+    },
+    {
+      "title": "Dao",
+      "director": "Alain Gomis"
+    },
+    {
+      "title": "Un monstruo amable",
+      "director": "Marie Kreutzer"
+    },
+    {
+      "title": "A Good Little Soldier",
+      "director": "Stéphane Brizé"
+    },
+    {
+      "title": "Queen at Sea",
+      "director": "Lance Hammer"
+    },
+    {
+      "title": "The Echo Chamber",
+      "director": "Andrea Pallaoro"
+    },
+    {
+      "title": "Mr. Nelson, Did You Kill People?",
+      "director": "Shinya Tsukamoto"
+    },
+    {
+      "title": "I Rarely Wake Up Dreaming",
+      "director": "Isabelle Stever"
+    },
+    {
+      "title": "Class Photo",
+      "director": "Arnas Balčiūnas"
+    },
+    {
+      "title": "Primer fuego",
+      "director": "Blanca Camell Galí"
+    },
+    {
+      "title": "Crónica del cansancio",
+      "director": "Natalia Marín"
+    },
+    {
+      "title": "Pithead",
+      "director": "Wannes Vanspauwen, Pol De Plecker"
+    },
+    {
+      "title": "El tamagochi escarlata",
+      "director": "Francisco Visceral Rivera"
+    },
+    {
+      "title": "L'enterrament de la sardina",
+      "director": "Mariona Martínez"
+    },
+    {
+      "title": "Under the Lake",
+      "director": "Juan Carlos Mostaza"
+    },
+    {
+      "title": "9 Temples to Heaven",
+      "director": "Sompot Chidgasornpongse"
+    },
+    {
+      "title": "Cinemanía",
+      "director": "Marc Ferrer"
+    },
+    {
+      "title": "Forest High",
+      "director": "Manon Coubia"
+    },
+    {
+      "title": "Salen las lobas",
+      "director": "Claudia Estrada Tarascó"
+    },
+    {
+      "title": "A Day in the Life of Jo: Chapter Phaedra",
+      "director": "Jacqueline Lentzou"
+    },
+    {
+      "title": "Promised Spaces",
+      "director": "Ivan Marković"
+    },
+    {
+      "title": "Benigno",
+      "director": "David Baute"
+    },
+    {
+      "title": "Adiós, ríos",
+      "director": "Sebastián Uría"
+    },
+    {
+      "title": "Alea Jacarandas",
+      "director": "Hassen Ferhani"
+    },
+    {
+      "title": "Biografía de Jorge Luis Borges",
+      "director": "Mariano Llinás"
+    },
+    {
+      "title": "At Night",
+      "director": "Beatrice Gibson"
+    },
+    {
+      "title": "Todo es cárcel",
+      "director": "Eloy Enciso Cachafeiro"
+    },
+    {
+      "title": "Momonsters. Película de Navidad",
+      "director": "Javier Martínez, Christian Garnez"
+    }
+  ]
+}
