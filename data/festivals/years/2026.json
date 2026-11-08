@@ -6301,7 +6301,7 @@
     {
       "festival": "Seminci",
       "year": 2026,
-      "section": "Competición oficial · palmarés pendiente",
+      "section": "Competición oficial",
       "films": [
         {
           "title": "We Are All Strangers",
@@ -6332,8 +6332,10 @@
         {
           "title": "Everytime",
           "director": "Sandra Wollner",
-          "award": "En competición",
-          "wins": [],
+          "award": "Premio Miguel Delibes al Mejor Guion · Sandra Wollner",
+          "wins": [
+            "Premio Miguel Delibes al Mejor Guion · Sandra Wollner"
+          ],
           "aliases": [],
           "nominations": []
         },
@@ -6348,24 +6350,32 @@
         {
           "title": "Un hombre de nuestro tiempo",
           "director": "Emmanuel Marre",
-          "award": "En competición",
-          "wins": [],
+          "award": "Premio al Mejor Actor · Swann Arlaud · Premio a la Mejor Dirección de Fotografía · Olivier Boonjing",
+          "wins": [
+            "Premio al Mejor Actor · Swann Arlaud",
+            "Premio a la Mejor Dirección de Fotografía · Olivier Boonjing"
+          ],
           "aliases": [],
           "nominations": []
         },
         {
           "title": "Aquí",
           "director": "Tiago Guedes",
-          "award": "En competición",
-          "wins": [],
+          "award": "Mención especial Sección Oficial",
+          "wins": [
+            "Mención especial Sección Oficial"
+          ],
           "aliases": [],
           "nominations": []
         },
         {
           "title": "La Gradiva",
           "director": "Marine Atlan",
-          "award": "En competición",
-          "wins": [],
+          "award": "Espiga de Plata · jurado Sección Oficial Internacional · Premio José Salcedo al Mejor Montaje · Guillaume Lillo",
+          "wins": [
+            "Espiga de Plata · jurado Sección Oficial Internacional",
+            "Premio José Salcedo al Mejor Montaje · Guillaume Lillo"
+          ],
           "aliases": [],
           "nominations": []
         },
@@ -6420,16 +6430,20 @@
         {
           "title": "La libertad doble",
           "director": "Lisandro Alonso",
-          "award": "En competición",
-          "wins": [],
+          "award": "Premio Ribera del Duero a la Mejor Dirección · Lisandro Alonso",
+          "wins": [
+            "Premio Ribera del Duero a la Mejor Dirección · Lisandro Alonso"
+          ],
           "aliases": [],
           "nominations": []
         },
         {
           "title": "Dao",
           "director": "Alain Gomis",
-          "award": "En competición",
-          "wins": [],
+          "award": "Espiga de Oro · jurado Sección Oficial Internacional",
+          "wins": [
+            "Espiga de Oro · jurado Sección Oficial Internacional"
+          ],
           "aliases": [],
           "nominations": []
         },
@@ -6444,8 +6458,10 @@
         {
           "title": "A Good Little Soldier",
           "director": "Stéphane Brizé",
-          "award": "En competición",
-          "wins": [],
+          "award": "Premio a la Mejor Actriz · Alba Rohrwacher",
+          "wins": [
+            "Premio a la Mejor Actriz · Alba Rohrwacher"
+          ],
           "aliases": [],
           "nominations": []
         },
@@ -6481,8 +6497,7 @@
           "aliases": [],
           "nominations": []
         }
-      ],
-      "status": "in_progress"
+      ]
     },
     {
       "festival": "Oscar",
