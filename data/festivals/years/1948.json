@@ -3049,6 +3049,354 @@
           "award": "Selección del programa principal"
         }
       ]
+    },
+    {
+      "festival": "Ariel",
+      "year": 1948,
+      "section": "Categorías generales y cortometrajes premiados",
+      "sourceUrl": "https://www.amacc.org.mx/historico-ariel",
+      "films": [
+        {
+          "title": "El secreto de Juan Palomo",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Actor · Julián Soler",
+            "Actriz de cuadro (Coactuación femenina) · Anita Muriel"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "La perla",
+          "director": "Emilio \"El Indio\" Fernández",
+          "award": "Actor · Pedro Armendáriz",
+          "nominations": [
+            "Actor · Pedro Armendáriz",
+            "Actor de cuadro (Coactuación masculina) · Gilberto González",
+            "Actor de cuadro (Coactuación masculina) · Juan García",
+            "Actriz · María Elena Marqués",
+            "Dirección · Emilio \"El Indio\" Fernández",
+            "Edición · Gloria Schoemann",
+            "Fotografía · Gabriel Figueroa",
+            "Guión adaptado · Emilio \"El Indio\" Fernández",
+            "Música de fondo (Música original) · Antonio Díaz Conde",
+            "Película"
+          ],
+          "wins": [
+            "Actor · Pedro Armendáriz",
+            "Actor de cuadro (Coactuación masculina) · Juan García",
+            "Dirección · Emilio \"El Indio\" Fernández",
+            "Fotografía · Gabriel Figueroa",
+            "Película"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Cuando lloran los valientes",
+          "director": "",
+          "award": "Actriz · Blanca Estela Pavón",
+          "nominations": [
+            "Actor · Pedro Infante",
+            "Actriz · Blanca Estela Pavón",
+            "Coactuación masculina · Victor Manuel Mendoza"
+          ],
+          "wins": [
+            "Actriz · Blanca Estela Pavón",
+            "Coactuación masculina · Victor Manuel Mendoza"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Vuelven los García",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Actor de cuadro (Coactuación masculina) · Rogelio A. González",
+            "Coactuación femenina · Blanca Estela Pavón"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El yugo",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz · María Teresa Esquella"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Todo un caballero",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Actriz de cuadro (Coactuación femenina) · Maruja Grifell"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Cinco rostros de mujer",
+          "director": "",
+          "award": "Actriz de cuadro (Coactuación femenina) · Tita Merello",
+          "nominations": [
+            "Actriz de cuadro (Coactuación femenina) · Tita Merello",
+            "Argumento original (guion original) · Yolanda Vargas Dulché",
+            "Edición · Jorge Bustos",
+            "Fotografía · Agustín Martínez Solares",
+            "Música de fondo (Música original) · Eduardo Herrera Moncada",
+            "Película"
+          ],
+          "wins": [
+            "Actriz de cuadro (Coactuación femenina) · Tita Merello",
+            "Argumento original (guion original) · Yolanda Vargas Dulché",
+            "Edición · Jorge Bustos"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Los tres García",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Argumento original (guion original) · Arturo Manrique",
+            "Argumento original (guion original) · Ismael Rodríguez",
+            "Argumento original (guion original) · Rogelio A. González"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "El ladrón",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Argumento original (guion original) · Julio Bracho"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "A media luz",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Coactuación femenina · Fanny Schiller",
+            "Fotografía · Raúl Martínez Solares",
+            "Guión adaptado · Rafael Solana"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "Soledad",
+          "director": "Miguel Zacarías",
+          "award": "Coactuación femenina · Marga López",
+          "nominations": [
+            "Coactuación femenina · Marga López",
+            "Coactuación masculina · Rafael Alcayde",
+            "Coactuación masculina · Rubén Rojo Aura",
+            "Dirección · Miguel Zacarías",
+            "Sonido · Fernando Barrera"
+          ],
+          "wins": [
+            "Coactuación femenina · Marga López"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "El buen mozo",
+          "director": "Antonio Momplet",
+          "award": "Escenografía (Diseño de arte) · Edward Fitzgerald",
+          "nominations": [
+            "Dirección · Antonio Momplet",
+            "Edición · Mario González",
+            "Escenografía (Diseño de arte) · Edward Fitzgerald",
+            "Guión Adaptado · Leopoldo Baeza y Aceves",
+            "Guión Adaptado · Tito Davison",
+            "Guión Adaptado · Xavier Villaurutia",
+            "Película",
+            "Sonido · Rodolfo Benítez"
+          ],
+          "wins": [
+            "Escenografía (Diseño de arte) · Edward Fitzgerald",
+            "Guión Adaptado · Leopoldo Baeza y Aceves",
+            "Guión Adaptado · Tito Davison",
+            "Guión Adaptado · Xavier Villaurutia",
+            "Sonido · Rodolfo Benítez"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "Los siete niños de Ecija",
+          "director": "",
+          "award": "Música de fondo (Música original) · Luis Hernández Bretón",
+          "nominations": [
+            "Escenografía (Diseño de arte) · Javier Torres Torija",
+            "Música de fondo (Música original) · Luis Hernández Bretón"
+          ],
+          "wins": [
+            "Música de fondo (Música original) · Luis Hernández Bretón"
+          ],
+          "aliases": []
+        },
+        {
+          "title": "La vida íntima de Marco Antonio y Cleopatra",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Escenografía (Diseño de arte) · Luis Moya"
+          ],
+          "wins": [],
+          "aliases": []
+        },
+        {
+          "title": "A volar joven",
+          "director": "",
+          "award": "Nominada",
+          "nominations": [
+            "Sonido · José B. Carles"
+          ],
+          "wins": [],
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "festival": "Globos de Oro",
+      "year": 1948,
+      "section": "Categorías cinematográficas",
+      "sourceUrl": "https://goldenglobes.com/nominations/1948",
+      "films": [
+        {
+          "title": "Mourning Becomes Electra",
+          "director": "",
+          "award": "Actress In A Leading Role · Rosalind Russell",
+          "nominations": [
+            "Actress In A Leading Role · Rosalind Russell"
+          ],
+          "wins": [
+            "Actress In A Leading Role · Rosalind Russell"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/mourning-becomes-electra/"
+        },
+        {
+          "title": "A Double Life",
+          "director": "",
+          "award": "Actor In A Leading Role · Ronald Colman",
+          "nominations": [
+            "Actor In A Leading Role · Ronald Colman"
+          ],
+          "wins": [
+            "Actor In A Leading Role · Ronald Colman"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/a-double-life/"
+        },
+        {
+          "title": "Miracle on 34th Street",
+          "director": "",
+          "award": "Best Performance by an Actor in a Supporting Role in any Motion Picture · Edmund Gwenn",
+          "nominations": [
+            "Best Performance by an Actor in a Supporting Role in any Motion Picture · Edmund Gwenn",
+            "Best Screenplay - Motion Picture · George Seaton"
+          ],
+          "wins": [
+            "Best Performance by an Actor in a Supporting Role in any Motion Picture · Edmund Gwenn",
+            "Best Screenplay - Motion Picture · George Seaton"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/miracle-on-34th-street/"
+        },
+        {
+          "title": "Gentleman's Agreement",
+          "director": "Elia Kazan",
+          "award": "Best Director - Motion Picture · Elia Kazan",
+          "nominations": [
+            "Best Director - Motion Picture · Elia Kazan",
+            "Best Performance by an Actress in a Supporting Role in any Motion Picture · Celeste Holm",
+            "Picture",
+            "Juvenile Performance · Dean Stockwell"
+          ],
+          "wins": [
+            "Best Director - Motion Picture · Elia Kazan",
+            "Best Performance by an Actress in a Supporting Role in any Motion Picture · Celeste Holm",
+            "Picture",
+            "Juvenile Performance · Dean Stockwell"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/gentlemans-agreement/"
+        },
+        {
+          "title": "Life with Father",
+          "director": "",
+          "award": "Best Original Score - Motion Picture · Max Steiner",
+          "nominations": [
+            "Best Original Score - Motion Picture · Max Steiner"
+          ],
+          "wins": [
+            "Best Original Score - Motion Picture · Max Steiner"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/life-with-father/"
+        },
+        {
+          "title": "Black Narcissus",
+          "director": "",
+          "award": "Cinematography",
+          "nominations": [
+            "Cinematography"
+          ],
+          "wins": [
+            "Cinematography"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/black-narcissus/"
+        },
+        {
+          "title": "That Hagen Girl",
+          "director": "",
+          "award": "New Star Of The Year - Actress · Lois Maxwell",
+          "nominations": [
+            "New Star Of The Year - Actress · Lois Maxwell"
+          ],
+          "wins": [
+            "New Star Of The Year - Actress · Lois Maxwell"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/that-hagen-girl/"
+        },
+        {
+          "title": "Kiss of Death",
+          "director": "",
+          "award": "New Star Of The Year - Actor · Richard Widmark",
+          "nominations": [
+            "New Star Of The Year - Actor · Richard Widmark"
+          ],
+          "wins": [
+            "New Star Of The Year - Actor · Richard Widmark"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/kiss-of-death/"
+        },
+        {
+          "title": "Bambi",
+          "director": "",
+          "award": "Special Achievement Award · Walt Disney",
+          "nominations": [
+            "Special Achievement Award · Walt Disney"
+          ],
+          "wins": [
+            "Special Achievement Award · Walt Disney"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/bambi/"
+        }
+      ]
     }
   ]
 }

@@ -3025,6 +3025,59 @@
       ],
       "ceremonyNumber": 16,
       "ceremonyDate": "1944-03-02"
+    },
+    {
+      "festival": "Globos de Oro",
+      "year": 1944,
+      "section": "Categorías cinematográficas",
+      "sourceUrl": "https://goldenglobes.com/nominations/1944",
+      "films": [
+        {
+          "title": "The Song of Bernadette",
+          "director": "Henry King",
+          "award": "Actress In A Leading Role · Jennifer Jones",
+          "nominations": [
+            "Actress In A Leading Role · Jennifer Jones",
+            "Best Director - Motion Picture · Henry King",
+            "Picture"
+          ],
+          "wins": [
+            "Actress In A Leading Role · Jennifer Jones",
+            "Best Director - Motion Picture · Henry King",
+            "Picture"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/the-song-of-bernadette/"
+        },
+        {
+          "title": "Watch on the Rhine",
+          "director": "",
+          "award": "Actor In A Leading Role · Paul Lukas",
+          "nominations": [
+            "Actor In A Leading Role · Paul Lukas"
+          ],
+          "wins": [
+            "Actor In A Leading Role · Paul Lukas"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/watch-on-the-rhine/"
+        },
+        {
+          "title": "For Whom The Bell Tolls",
+          "director": "",
+          "award": "Best Performance by an Actor in a Supporting Role in any Motion Picture · Akim Tamiroff",
+          "nominations": [
+            "Best Performance by an Actor in a Supporting Role in any Motion Picture · Akim Tamiroff",
+            "Best Performance by an Actress in a Supporting Role in any Motion Picture · Katina Paxinou"
+          ],
+          "wins": [
+            "Best Performance by an Actor in a Supporting Role in any Motion Picture · Akim Tamiroff",
+            "Best Performance by an Actress in a Supporting Role in any Motion Picture · Katina Paxinou"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/for-whom-the-bell-tolls/"
+        }
+      ]
     }
   ]
 }
