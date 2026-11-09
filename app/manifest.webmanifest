@@ -1,0 +1,16 @@
+{
+  "id": "../lab/",
+  "name": "Filmoteca Pepe Presley",
+  "short_name": "Filmoteca",
+  "description": "Tu colección de cine, festivales y premios.",
+  "lang": "es",
+  "start_url": "../lab/?source=app",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
