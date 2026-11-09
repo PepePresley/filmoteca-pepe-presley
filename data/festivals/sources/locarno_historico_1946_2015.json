@@ -1,0 +1,5644 @@
+{
+  "date": "2026-11-09",
+  "scope": "Ediciones ausentes de Locarno 1946–2015; selección principal y premios. Cortos solo premiados.",
+  "sourceProgram": "https://forms.locarnofestival.ch/film-archive/read-data.php?ver=1.0.8",
+  "sourceAwards": "https://forms.locarnofestival.ch/palmares-archive/read-data-t.php?ver=1.0.5",
+  "sourceSha256": "7ec959c52851f5f197e941810be1c07434fa7cc17560dc54f27d0a13910460b1",
+  "sources": {
+    "programRows": 13808,
+    "awardRows": 977
+  },
+  "counts": {
+    "years": 68,
+    "editions": 133,
+    "films": 1705,
+    "wins": 603,
+    "ownedAppearances": 305,
+    "ambiguousIdentities": 0
+  },
+  "years": [
+    1946,
+    1947,
+    1948,
+    1949,
+    1950,
+    1952,
+    1953,
+    1954,
+    1955,
+    1957,
+    1958,
+    1959,
+    1960,
+    1961,
+    1962,
+    1963,
+    1964,
+    1965,
+    1966,
+    1967,
+    1968,
+    1969,
+    1970,
+    1971,
+    1972,
+    1973,
+    1974,
+    1975,
+    1976,
+    1977,
+    1978,
+    1979,
+    1980,
+    1981,
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "annualAudit": [
+    {
+      "year": 1946,
+      "programRows": 38,
+      "awardRows": 7,
+      "mainSelection": 15,
+      "films": 15,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "AND THEN THERE WERE NONE ",
+          "award": "Best Film",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "DEAD OF NIGHT",
+          "award": "Best Screenplay",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "IVAN GROZNY",
+          "award": "Best Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "PIMPERNEL SMITH ",
+          "award": "Best Comedy",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "AND THEN THERE WERE NONE ",
+          "award": "Best Direction",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE SONG OF BERNARDETTE ",
+          "award": "Best Actress",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "HANGOVER SQUARE",
+          "award": "Best Actor",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1947,
+      "programRows": 64,
+      "awardRows": 10,
+      "mainSelection": 19,
+      "films": 19,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "LE SILENCE EST D’OR ",
+          "award": "Best Feature Film",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "PALAZZO DEI DOGI ",
+          "award": "Best Short Film",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "VIVERE IN PACE ",
+          "award": "Best Scenario",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "MARIA CANDELARIA",
+          "award": "Best Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "ADMIRAL NAKHIMOV",
+          "award": "Best Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LE SILENCE EST D’OR ",
+          "award": "Best Direction",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "CLUNY BROWN",
+          "award": "Best Leading Actress",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LE SILENCE EST D’OR ",
+          "award": "Best Leading Actor",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE RAZOR’S EDGE",
+          "award": "Best Supporting Actress",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "CLUNY BROWN",
+          "award": "Best Supporting Actor",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1948,
+      "programRows": 65,
+      "awardRows": 15,
+      "mainSelection": 25,
+      "films": 25,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "GERMANIA ANNO ZERO ",
+          "award": "Grand Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "GERMANIA ANNO ZERO ",
+          "award": "Best Original Scenario",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LA VIE EN ROSE ",
+          "award": "Best Original Scenario",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "RAPE OF THE EARTH",
+          "award": "Best Short Film",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE MIRACLE OF 34th STREET ",
+          "award": "Best Adaptation",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "KISS OF DEATH",
+          "award": "Best Adaptation",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LA CHARTREUSE DE PARME ",
+          "award": "Best Black and White Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "FORT APACHE",
+          "award": "Best Black and White Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "BLANCHE FURY ",
+          "award": "Best Colour Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE UNFINISHED DANCE ",
+          "award": "Best Colour Photography",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "FORT APACHE",
+          "award": "Best Director – First Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "GERMANIA ANNO ZERO ",
+          "award": "Best Director – Second Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "FILM OHNE TITEL ",
+          "award": "Prize for the Best Actress",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "KISS OF DEATH",
+          "award": "Best Actor  – First Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LA CHARTREUSE DE PARME ",
+          "award": "Best Actor – Second Prize",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1949,
+      "programRows": 28,
+      "awardRows": 8,
+      "mainSelection": 23,
+      "films": 23,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "LA FERME DES SEPT PÉCHÉS ",
+          "award": "Grand Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LADRI DI BICICLETTE ",
+          "award": "Special Jury Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "YELLOW SKY ",
+          "award": "Best Screenplay",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LIEBE ’47 ",
+          "award": "Best Actress",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "HE WALKED BY NIGHT",
+          "award": "Best Crime Film",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "ADAM AND EVELYNE ",
+          "award": "Best Comedy",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "ENCHANTMENT ",
+          "award": "Special Prize",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "PATTES BLANCHES",
+          "award": "Special Prize",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": [
+        {
+          "title": "DAS VERLORENE GESICHT",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "programRows": 58,
+      "awardRows": 5,
+      "mainSelection": 18,
+      "films": 18,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "WHEN WILLIE COMES MARCHING HOME",
+          "award": "Prize (awarded by the Journalists International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "STAGE FRIGHT",
+          "award": "Special mention",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "DOMENICA D’AGOSTO",
+          "award": "Special mention",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE GOLDEN SALAMANDER ",
+          "award": "Special mention",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "DANKALIA",
+          "award": "Special mention",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1952,
+      "programRows": 32,
+      "awardRows": 1,
+      "mainSelection": 25,
+      "films": 25,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "HUNTED ",
+          "award": "Prize (awarded by the Journalists International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1953,
+      "programRows": 108,
+      "awardRows": 7,
+      "mainSelection": 30,
+      "films": 30,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "JULIUS CAESAR ",
+          "award": "Prize (awarded by the Critics International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "KOMPOSITOR GLINKA ",
+          "award": "Prize (awarded by the Critics International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE GLASS WALL ",
+          "award": "Prize (awarded by the Critics International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LE INFEDELI ",
+          "award": "Prize (awarded by the Swiss Film Press Association Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "STARÉ POVESTI CESKE ",
+          "award": "Prize (awarded by the Swiss Film Press Association Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "JULIUS CAESAR ",
+          "award": "Prize (awarded by the Swiss Film Press Association Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "L'ANNEE VIGNERONNE, ROMEO UND JULIA AUF DEM DORFE, ",
+          "award": "Special mention",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1954,
+      "programRows": 83,
+      "awardRows": 6,
+      "mainSelection": 25,
+      "films": 25,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "JIGOKU MON ",
+          "award": "Prize (awarded by the Swiss Film Press Association Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "PRINC BAJAJA ",
+          "award": "Prize (awarded by the Radio della Svizzera Italiana Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LES FRUITS SAUVAGES ",
+          "award": "Prize (awarded by the Radio della Svizzera Italiana Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "JIGOKU MON ",
+          "award": "Prize (awarded by the Critics International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "ROTATION ",
+          "award": "Prize (awarded by the Critics International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LE MOUTON À CINQ PATTES",
+          "award": "Prize (awarded by the Critics International Jury)",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": [
+        {
+          "title": "LES ETOILES DU BALLET RUSSE",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1955,
+      "programRows": 90,
+      "awardRows": 7,
+      "mainSelection": 36,
+      "films": 36,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "LE ROSSIGNOL ET L’EMPEREUR DE CHINE ",
+          "award": "Prize (awarded by the Radio della Svizzera Italiana Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "CARMEN JONES",
+          "award": "Prize (awarded by the Radio della Svizzera Italiana Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "BORORO (LES NOMADES DU SOLEIL)",
+          "award": "Special mention",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "STÄRCHER ALS DIE NACHT ",
+          "award": "Best Film (awarded by CINEMA NUOVO Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "LE ROSSIGNOL ET L’EMPEREUR DE CHINE ",
+          "award": "Best Film (awarded by CINEMA NUOVO Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "STÄRCHER ALS DIE NACHT ",
+          "award": "Best Actor (awarded by CINEMA NUOVO Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "CARMEN JONES",
+          "award": "Best Actress (awarded by CINEMA NUOVO Jury)",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": [
+        {
+          "title": "MARIANNE DE MA JEUNESSE",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1957,
+      "programRows": 79,
+      "awardRows": 3,
+      "mainSelection": 21,
+      "films": 21,
+      "wins": 0,
+      "excluded": [
+        {
+          "title": "IL GRIDO",
+          "award": "Prize (awarded by the Swiss Film Press Association Jury)",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "TWELVE ANGRY MEN ",
+          "award": "Special hommage",
+          "reason": "Note: unofficial Palmarès"
+        },
+        {
+          "title": "THE YOUNG STRANGER ",
+          "award": "Prize (awarded by the Radio della Svizzera Italiana Jury)",
+          "reason": "Note: unofficial Palmarès"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 1958,
+      "programRows": 87,
+      "awardRows": 10,
+      "mainSelection": 16,
+      "films": 22,
+      "wins": 10,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1959,
+      "programRows": 73,
+      "awardRows": 9,
+      "mainSelection": 19,
+      "films": 26,
+      "wins": 9,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1960,
+      "programRows": 63,
+      "awardRows": 8,
+      "mainSelection": 24,
+      "films": 29,
+      "wins": 8,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "LE FARCEUR",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "programRows": 92,
+      "awardRows": 6,
+      "mainSelection": 20,
+      "films": 23,
+      "wins": 6,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "NOBI",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "programRows": 78,
+      "awardRows": 10,
+      "mainSelection": 22,
+      "films": 30,
+      "wins": 10,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "UN COEUR GROS COMME ÇA",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1963,
+      "programRows": 71,
+      "awardRows": 8,
+      "mainSelection": 13,
+      "films": 19,
+      "wins": 8,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1964,
+      "programRows": 100,
+      "awardRows": 14,
+      "mainSelection": 27,
+      "films": 35,
+      "wins": 14,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1965,
+      "programRows": 84,
+      "awardRows": 10,
+      "mainSelection": 29,
+      "films": 36,
+      "wins": 10,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "LE COUP DE GRACE",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1966,
+      "programRows": 71,
+      "awardRows": 10,
+      "mainSelection": 24,
+      "films": 33,
+      "wins": 10,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1967,
+      "programRows": 83,
+      "awardRows": 8,
+      "mainSelection": 24,
+      "films": 28,
+      "wins": 8,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1968,
+      "programRows": 83,
+      "awardRows": 8,
+      "mainSelection": 23,
+      "films": 29,
+      "wins": 8,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1969,
+      "programRows": 88,
+      "awardRows": 9,
+      "mainSelection": 24,
+      "films": 29,
+      "wins": 9,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1970,
+      "programRows": 116,
+      "awardRows": 7,
+      "mainSelection": 25,
+      "films": 29,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1971,
+      "programRows": 84,
+      "awardRows": 6,
+      "mainSelection": 18,
+      "films": 21,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1972,
+      "programRows": 85,
+      "awardRows": 6,
+      "mainSelection": 24,
+      "films": 26,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1973,
+      "programRows": 77,
+      "awardRows": 9,
+      "mainSelection": 21,
+      "films": 22,
+      "wins": 9,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1974,
+      "programRows": 61,
+      "awardRows": 7,
+      "mainSelection": 22,
+      "films": 26,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1975,
+      "programRows": 62,
+      "awardRows": 7,
+      "mainSelection": 20,
+      "films": 23,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1976,
+      "programRows": 55,
+      "awardRows": 6,
+      "mainSelection": 18,
+      "films": 22,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1977,
+      "programRows": 75,
+      "awardRows": 6,
+      "mainSelection": 18,
+      "films": 20,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1978,
+      "programRows": 108,
+      "awardRows": 6,
+      "mainSelection": 22,
+      "films": 24,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1979,
+      "programRows": 59,
+      "awardRows": 6,
+      "mainSelection": 18,
+      "films": 20,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1980,
+      "programRows": 85,
+      "awardRows": 5,
+      "mainSelection": 21,
+      "films": 22,
+      "wins": 5,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1981,
+      "programRows": 95,
+      "awardRows": 4,
+      "mainSelection": 19,
+      "films": 21,
+      "wins": 4,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1982,
+      "programRows": 92,
+      "awardRows": 5,
+      "mainSelection": 17,
+      "films": 19,
+      "wins": 5,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1983,
+      "programRows": 117,
+      "awardRows": 8,
+      "mainSelection": 15,
+      "films": 18,
+      "wins": 8,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1984,
+      "programRows": 115,
+      "awardRows": 6,
+      "mainSelection": 15,
+      "films": 17,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1985,
+      "programRows": 128,
+      "awardRows": 7,
+      "mainSelection": 17,
+      "films": 19,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1986,
+      "programRows": 132,
+      "awardRows": 7,
+      "mainSelection": 17,
+      "films": 19,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1987,
+      "programRows": 124,
+      "awardRows": 8,
+      "mainSelection": 18,
+      "films": 21,
+      "wins": 8,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1988,
+      "programRows": 155,
+      "awardRows": 8,
+      "mainSelection": 17,
+      "films": 18,
+      "wins": 8,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "STESSO SANGUE",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1989,
+      "programRows": 121,
+      "awardRows": 6,
+      "mainSelection": 18,
+      "films": 20,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1990,
+      "programRows": 121,
+      "awardRows": 6,
+      "mainSelection": 18,
+      "films": 18,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1991,
+      "programRows": 186,
+      "awardRows": 5,
+      "mainSelection": 19,
+      "films": 21,
+      "wins": 5,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1992,
+      "programRows": 218,
+      "awardRows": 6,
+      "mainSelection": 19,
+      "films": 20,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1993,
+      "programRows": 202,
+      "awardRows": 7,
+      "mainSelection": 22,
+      "films": 26,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1994,
+      "programRows": 268,
+      "awardRows": 6,
+      "mainSelection": 21,
+      "films": 23,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1995,
+      "programRows": 271,
+      "awardRows": 7,
+      "mainSelection": 20,
+      "films": 23,
+      "wins": 7,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "THE INSTITUTE BENJAMENTA OR THIS DREAM PEOPLE CALL HUMAN LIFE",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "programRows": 233,
+      "awardRows": 7,
+      "mainSelection": 17,
+      "films": 19,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1997,
+      "programRows": 311,
+      "awardRows": 7,
+      "mainSelection": 20,
+      "films": 21,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1998,
+      "programRows": 256,
+      "awardRows": 6,
+      "mainSelection": 20,
+      "films": 21,
+      "wins": 6,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 1999,
+      "programRows": 228,
+      "awardRows": 7,
+      "mainSelection": 21,
+      "films": 23,
+      "wins": 7,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2000,
+      "programRows": 237,
+      "awardRows": 17,
+      "mainSelection": 18,
+      "films": 28,
+      "wins": 17,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2001,
+      "programRows": 294,
+      "awardRows": 19,
+      "mainSelection": 19,
+      "films": 28,
+      "wins": 19,
+      "excluded": [
+        {
+          "title": "RACONTE",
+          "reason": "Corto sin premio en programa principal"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 2002,
+      "programRows": 363,
+      "awardRows": 15,
+      "mainSelection": 22,
+      "films": 31,
+      "wins": 15,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2003,
+      "programRows": 477,
+      "awardRows": 17,
+      "mainSelection": 19,
+      "films": 27,
+      "wins": 17,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2004,
+      "programRows": 415,
+      "awardRows": 14,
+      "mainSelection": 18,
+      "films": 27,
+      "wins": 14,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2005,
+      "programRows": 437,
+      "awardRows": 19,
+      "mainSelection": 17,
+      "films": 27,
+      "wins": 19,
+      "excluded": [],
+      "issues": [
+        {
+          "title": "SNOW WHITE",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "programRows": 402,
+      "awardRows": 18,
+      "mainSelection": 21,
+      "films": 35,
+      "wins": 18,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2007,
+      "programRows": 334,
+      "awardRows": 18,
+      "mainSelection": 20,
+      "films": 31,
+      "wins": 18,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2008,
+      "programRows": 372,
+      "awardRows": 19,
+      "mainSelection": 18,
+      "films": 30,
+      "wins": 19,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2009,
+      "programRows": 397,
+      "awardRows": 17,
+      "mainSelection": 19,
+      "films": 31,
+      "wins": 17,
+      "excluded": [],
+      "issues": []
+    },
+    {
+      "year": 2010,
+      "programRows": 279,
+      "awardRows": 20,
+      "mainSelection": 18,
+      "films": 31,
+      "wins": 19,
+      "excluded": [
+        {
+          "title": "DIARCHIA",
+          "award": "Locarno Nomination for the European Film Awards – Premio Pianifica",
+          "reason": "Nominación; no victoria"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 2011,
+      "programRows": 254,
+      "awardRows": 21,
+      "mainSelection": 20,
+      "films": 32,
+      "wins": 20,
+      "excluded": [
+        {
+          "title": "OPOWIESCI Z CHLODNI",
+          "award": "Locarno Nomination for the European Film Awards – Premio Pianifica",
+          "reason": "Nominación; no victoria"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 2012,
+      "programRows": 295,
+      "awardRows": 22,
+      "mainSelection": 19,
+      "films": 33,
+      "wins": 21,
+      "excluded": [
+        {
+          "title": "BACK OF BEYOND",
+          "award": "Locarno Nomination for the European Film Awards – Premio Pianifica",
+          "reason": "Nominación; no victoria"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 2013,
+      "programRows": 280,
+      "awardRows": 23,
+      "mainSelection": 20,
+      "films": 33,
+      "wins": 22,
+      "excluded": [
+        {
+          "title": "ZIMA",
+          "award": "Locarno Nomination for the European Film Awards – Premio Pianifica",
+          "reason": "Nominación; no victoria"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 2014,
+      "programRows": 276,
+      "awardRows": 22,
+      "mainSelection": 17,
+      "films": 32,
+      "wins": 21,
+      "excluded": [
+        {
+          "title": "SHIPWRECK",
+          "award": "Locarno Nomination for the European Film Awards – Premio Pianifica",
+          "reason": "Nominación; no victoria"
+        }
+      ],
+      "issues": []
+    },
+    {
+      "year": 2015,
+      "programRows": 284,
+      "awardRows": 24,
+      "mainSelection": 19,
+      "films": 31,
+      "wins": 23,
+      "excluded": [
+        {
+          "title": "FILS DU LOUP",
+          "award": "Locarno Nomination for the European Film Awards – Premio Pianifica",
+          "reason": "Nominación; no victoria"
+        }
+      ],
+      "issues": [
+        {
+          "title": "LES MONTS S'EMBRASENT",
+          "reason": "Director no especificado por el archivo"
+        }
+      ]
+    }
+  ],
+  "masterFiles": [
+    {
+      "file": "Catalogo_Telegram_1920.xlsx",
+      "sha256": "680dc2a66c6c0df429d520d968e5a4926f1c58a1fe176374cde68a84a8f137b5"
+    },
+    {
+      "file": "Catalogo_Telegram_1921.xlsx",
+      "sha256": "7b3e9ef0c51036e60a281feb8ea83ffb02ee776ae63b5b6b407cab5f900d12f4"
+    },
+    {
+      "file": "Catalogo_Telegram_1922.xlsx",
+      "sha256": "f5c751ee73b67553b193fd62b38707f58c448bb56ffd4d3ed7817f245ae1d222"
+    },
+    {
+      "file": "Catalogo_Telegram_1923.xlsx",
+      "sha256": "efcd75579360f2754aa8f53a5deed59a3dd17399ae3fb408d41bf1d9540b2f47"
+    },
+    {
+      "file": "Catalogo_Telegram_1924.xlsx",
+      "sha256": "941595d873801bc9aa1f350d6e29a160812c7829e915866728cc2f8faef44692"
+    },
+    {
+      "file": "Catalogo_Telegram_1925.xlsx",
+      "sha256": "5e78f2e12769678fc8d14ba54db2f8ba8304ba5b261885e8419634c9d83353c1"
+    },
+    {
+      "file": "Catalogo_Telegram_1926.xlsx",
+      "sha256": "37b9483e209df27ed40db1d48ec8ef2e014e926498d80a65cc1c02704f14deaf"
+    },
+    {
+      "file": "Catalogo_Telegram_1927.xlsx",
+      "sha256": "e4f532b7e48c7033df192675401e38c8f76559ab236e43830b7b5b74e7c30357"
+    },
+    {
+      "file": "Catalogo_Telegram_1928.xlsx",
+      "sha256": "45b68b6bfa58ea3af17ad30f9dad3e5de5a3bb045462f05a3a169a3eceaeaeb6"
+    },
+    {
+      "file": "Catalogo_Telegram_1929.xlsx",
+      "sha256": "733c74ff7b63c90b8ef9041a80a71ede625be1043302cb981a9abd3577fc78d5"
+    },
+    {
+      "file": "Catalogo_Telegram_1930.xlsx",
+      "sha256": "3db221b69e097f0d7116bb7a65a7a03908f83e79566d44a97d0c8cb4c1e2eae8"
+    },
+    {
+      "file": "Catalogo_Telegram_1931.xlsx",
+      "sha256": "8ddc6ca237fc18f12002949097444761213fdb44c72b397ee583613f53c501b8"
+    },
+    {
+      "file": "Catalogo_Telegram_1932.xlsx",
+      "sha256": "043cf9936323c2bc66df0b66adf0e1fc06c1ee944f71e0db07900974ae69ef03"
+    },
+    {
+      "file": "Catalogo_Telegram_1933.xlsx",
+      "sha256": "f2c19a5bc8217b3fd25c00b2ed8aaa450d149cd0c21c0182a6b22ad107382e21"
+    },
+    {
+      "file": "Catalogo_Telegram_1934.xlsx",
+      "sha256": "9037b245cf070a058aebad1e58b05e43da9f811749cd5ce4f9fec5ce911fd8c5"
+    },
+    {
+      "file": "Catalogo_Telegram_1935.xlsx",
+      "sha256": "336d2a0f4bed4b09d532812f9b863699f1d16357d550d07743f243d15ea598bf"
+    },
+    {
+      "file": "Catalogo_Telegram_1936.xlsx",
+      "sha256": "3eb5b8518a7a6dd4f42071fe685147aa3eff7a1ae78adf008405b189b6eb11d6"
+    },
+    {
+      "file": "Catalogo_Telegram_1937.xlsx",
+      "sha256": "d63ac46bbf31268d7f378b409dd205691aaedee17fa5678834620b018d8fc74c"
+    },
+    {
+      "file": "Catalogo_Telegram_1938.xlsx",
+      "sha256": "1841797830811b80a203abae86c50a0c72333dde0d9fe4e0ac2d78c60cd34b1f"
+    },
+    {
+      "file": "Catalogo_Telegram_1939.xlsx",
+      "sha256": "aa9efb535c60b2bee80e0240a657390bd7f8a2a4c229cf788c94d176bf553d4e"
+    },
+    {
+      "file": "Catalogo_Telegram_1940.xlsx",
+      "sha256": "ff92efb990dc225e580f2fef78ebe099fc33388a1c5c0f6783b9fc3ad39ad40a"
+    },
+    {
+      "file": "Catalogo_Telegram_1941.xlsx",
+      "sha256": "ee7b27603e41babaae0b98cb8efac142dac3e3af17bccae0398354eb7dd016c6"
+    },
+    {
+      "file": "Catalogo_Telegram_1942.xlsx",
+      "sha256": "56bdb39146857ed45e0b84aa1e0eda766ad6d4468e2476a18c962928ba25b3db"
+    },
+    {
+      "file": "Catalogo_Telegram_1943.xlsx",
+      "sha256": "6d687563496239b049ffabb3e811787ada12b48c55797c387af9a8e8139e274c"
+    },
+    {
+      "file": "Catalogo_Telegram_1944.xlsx",
+      "sha256": "1f11f41c77d0e3f6cfc5f81e10ebe1b5de7ca268bc5c30e72e3bbd9bab698588"
+    },
+    {
+      "file": "Catalogo_Telegram_1945.xlsx",
+      "sha256": "f75b64e616d0619b5740fa4d7ec1dc3a5caf1b2aa6401f6efad62c141b798f98"
+    },
+    {
+      "file": "Catalogo_Telegram_1946.xlsx",
+      "sha256": "40d612e963677f59dff377b525976d051a3f4b33d3a14eb877a63e3e758fc136"
+    },
+    {
+      "file": "Catalogo_Telegram_1947.xlsx",
+      "sha256": "555197f2351b2403e243ec50a315762ff778ab27fa11620aa5fe47067aa6c052"
+    },
+    {
+      "file": "Catalogo_Telegram_1948.xlsx",
+      "sha256": "6ca5c27b8a19bca95d8b67206fd8915193a4e4da2bf35a36c76d62ee1eb2d0b8"
+    },
+    {
+      "file": "Catalogo_Telegram_1949.xlsx",
+      "sha256": "e7a16410c684a10d063e3c1e1f7b762270668cb9d3490127e030086a8f5635ec"
+    },
+    {
+      "file": "Catalogo_Telegram_1950.xlsx",
+      "sha256": "bdbfe1670d663d5ced6c26d07265cdd8ceaefc92eccbda6cc004ae22458a66ca"
+    },
+    {
+      "file": "Catalogo_Telegram_1951.xlsx",
+      "sha256": "8c5ee1e271ee01465697d65d1d169d109aa155cc145639301e5dd0d0bc1ea0c3"
+    },
+    {
+      "file": "Catalogo_Telegram_1952.xlsx",
+      "sha256": "d3e06cc152fa55d2764c8d127037557aed0f229bb3de56e01251ed030dcb144a"
+    },
+    {
+      "file": "Catalogo_Telegram_1953.xlsx",
+      "sha256": "1eb377b56e9de0fee1949bfcef651452eaba7661f586d3a572c8450b2c605d12"
+    },
+    {
+      "file": "Catalogo_Telegram_1954.xlsx",
+      "sha256": "67d04ab86e91bac5ad46021949c4adf34e06b8b4f6566b726e925b8c1f59196c"
+    },
+    {
+      "file": "Catalogo_Telegram_1955.xlsx",
+      "sha256": "9c0d811afbc0add9a3b277bc21ffacaac21ff285cfa8cf512c359b56c5870989"
+    },
+    {
+      "file": "Catalogo_Telegram_1956.xlsx",
+      "sha256": "64c3c250c74fc3f4ccf6db7c1b1a2f47186eb96e53f6d5360e45dc8a003699e4"
+    },
+    {
+      "file": "Catalogo_Telegram_1957.xlsx",
+      "sha256": "204104be7b75aa7d9d7717584f05c24819fe7cc7cb2462502120a067e55ab29b"
+    },
+    {
+      "file": "Catalogo_Telegram_1958.xlsx",
+      "sha256": "a30df719fa50605711a848fd43594067d4a4b0bca99af5da33b4c8227f70dceb"
+    },
+    {
+      "file": "Catalogo_Telegram_1959.xlsx",
+      "sha256": "1485a7ae01a078383c1840564b8df25cbcf6e0d42b1bc52d564159e1ece30685"
+    },
+    {
+      "file": "Catalogo_Telegram_1960.xlsx",
+      "sha256": "2142a05853e7c8f34ddf4e5c066deba5d9d3d8bc017078df3f5721aa287426f7"
+    },
+    {
+      "file": "Catalogo_Telegram_1961.xlsx",
+      "sha256": "0a448719bd257466d36054ab8f3e57108d9f64f3a77cbd5155a5ce9fc36444ad"
+    },
+    {
+      "file": "Catalogo_Telegram_1962.xlsx",
+      "sha256": "fd80fa43481fdd1dc99def84a1c62a56eb40f9e7abd5225315db64e3ef391ca9"
+    },
+    {
+      "file": "Catalogo_Telegram_1963.xlsx",
+      "sha256": "65ba137c0206a3ffbb84178586834e8580543c93a485770540d929e7af8f634b"
+    },
+    {
+      "file": "Catalogo_Telegram_1964.xlsx",
+      "sha256": "a9fb6c4b4ac96a2835b6eec9099c1ef0c6c93d8fe46a9df87bc3884307577c35"
+    },
+    {
+      "file": "Catalogo_Telegram_1965.xlsx",
+      "sha256": "e70e20705fdeb04cbd27b749a124a2c08db23be771d62cac1312145fb2639722"
+    },
+    {
+      "file": "Catalogo_Telegram_1966.xlsx",
+      "sha256": "1b151572719553a12048dedf99dee3d8963ab7bb6552103f6b3329ad00fce722"
+    },
+    {
+      "file": "Catalogo_Telegram_1967.xlsx",
+      "sha256": "7937572f70c5a4bb0a16b38ff72b04007529f8fbcba01dff9d5c0a487d661cd6"
+    },
+    {
+      "file": "Catalogo_Telegram_1968.xlsx",
+      "sha256": "b396dc2c04afbe10e0a1790342386ab7dd3af6068784550a3a14b5fc3b011bf2"
+    },
+    {
+      "file": "Catalogo_Telegram_1969.xlsx",
+      "sha256": "160ea2ccfd658c492dce330569c75fff764b2529c994a0e01e0e533a47aecbdf"
+    },
+    {
+      "file": "Catalogo_Telegram_1970.xlsx",
+      "sha256": "ca4261acf6ed0d5e5b0c226dfe8b41f4bd2bf13d9d35061d2e91e483fcf78622"
+    },
+    {
+      "file": "Catalogo_Telegram_1971.xlsx",
+      "sha256": "92fa6ef8b9c8496060da592fe530809c5def87c8fd038273706a2919e7dfecb0"
+    },
+    {
+      "file": "Catalogo_Telegram_1972.xlsx",
+      "sha256": "ddebb36f08c29152fd8cee58c9b2ded6e4a6461369b784e7c00b0aef63b2e87e"
+    },
+    {
+      "file": "Catalogo_Telegram_1973.xlsx",
+      "sha256": "daf14ede89b0186c3db8a34b93847101aac6258717e9750c00494791d9387795"
+    },
+    {
+      "file": "Catalogo_Telegram_1974.xlsx",
+      "sha256": "7df560beb6f9b8ef8b38038a33374b8444293cb4ea6961ef8483d19565900808"
+    },
+    {
+      "file": "Catalogo_Telegram_1975.xlsx",
+      "sha256": "b4397fe04c3b897b636ac3397dbfeb8217cb539667f74e39204939c35326cf67"
+    },
+    {
+      "file": "Catalogo_Telegram_1976.xlsx",
+      "sha256": "60579fea5a4a9b8c93abe200cde25c2a1cfbbb5dad90725f8d857d8fdb25b744"
+    },
+    {
+      "file": "Catalogo_Telegram_1977.xlsx",
+      "sha256": "ae6338d31f48b4aca3ce69322831d2f93d0b6c6b72c306e5de16bf5a1783e135"
+    },
+    {
+      "file": "Catalogo_Telegram_1978.xlsx",
+      "sha256": "aba4282dc25cca3c37e10d334f0c9dc9369c1c4a745042b73388876a97969f07"
+    },
+    {
+      "file": "Catalogo_Telegram_1979.xlsx",
+      "sha256": "e6b6ea414b606b9d173dbd1943a12620741ffbc557f44591b35b3525f2fed241"
+    },
+    {
+      "file": "Catalogo_Telegram_1980.xlsx",
+      "sha256": "4fc34d0954ae44ad953c2c474a05110aec62392f5089b26a99a15c226fae34c0"
+    },
+    {
+      "file": "Catalogo_Telegram_1981.xlsx",
+      "sha256": "77c4413bb9dc8b07a536bab2815f267a4b4fd48e5708c21e602a8295a077f10d"
+    },
+    {
+      "file": "Catalogo_Telegram_1982.xlsx",
+      "sha256": "3f13363d5b7182135b8620407e7557c971d8604d30a96f23187ef2483a8b46be"
+    },
+    {
+      "file": "Catalogo_Telegram_1983.xlsx",
+      "sha256": "a4717d40a1f24069365cf671fa8f698d1995077649b68816c723f4d41199edf0"
+    },
+    {
+      "file": "Catalogo_Telegram_1984.xlsx",
+      "sha256": "8f36f059e8bf1bc944d05a1bc901233af9d653e86b2dc155ef780c1d738df4dd"
+    },
+    {
+      "file": "Catalogo_Telegram_1985.xlsx",
+      "sha256": "69c3d5335bf9b73283d51331dab7735308bafa14fda3b4071a42c1a0262720e2"
+    },
+    {
+      "file": "Catalogo_Telegram_1986.xlsx",
+      "sha256": "90391a68c0dec9951852837a78ba54278af452c9aead1eca5d56a43f5b890538"
+    },
+    {
+      "file": "Catalogo_Telegram_1987.xlsx",
+      "sha256": "c90262579b3710749b362deecae64bc42259d4229c99b04a7412d43025d2cfe4"
+    },
+    {
+      "file": "Catalogo_Telegram_1988.xlsx",
+      "sha256": "c7f3fb49340d13cfef313ef20a89268adf4ccde28ec92f8d6f4562c345c06d5d"
+    },
+    {
+      "file": "Catalogo_Telegram_1989.xlsx",
+      "sha256": "148f951731022a2d74b1ec0396ce7b50241cdf0921a746f16d8a30defcaa3a90"
+    },
+    {
+      "file": "Catalogo_Telegram_1990.xlsx",
+      "sha256": "5686fe6e88d9214b404acfa7ae51ac94ff3820c9375c95c4dbada44aa5ff684b"
+    },
+    {
+      "file": "Catalogo_Telegram_1991.xlsx",
+      "sha256": "dc90600026b05eee88d1741df8a361c913e949b105632fedcae5a73acc5d6f07"
+    },
+    {
+      "file": "Catalogo_Telegram_1992.xlsx",
+      "sha256": "346fd5519d540a5d2c50773e60b9a6e51861dfca4378ac0c6237cd2a2f53fc74"
+    },
+    {
+      "file": "Catalogo_Telegram_1993.xlsx",
+      "sha256": "98fdc9ca4f0eabe1a73127b8adf2da120cb6e7d9f80ead7773b0dc31bf791141"
+    },
+    {
+      "file": "Catalogo_Telegram_1994.xlsx",
+      "sha256": "1188b6b9f0eb8ee9ce8907775c7bda81850c5a8f62cf2924a0c39af53a8c35ff"
+    },
+    {
+      "file": "Catalogo_Telegram_1995.xlsx",
+      "sha256": "fe043f678b67cf9bc4ed3eed1acc49aa28b0068ae4189b0f9b87ea56f1332f12"
+    },
+    {
+      "file": "Catalogo_Telegram_1996.xlsx",
+      "sha256": "3d96bdbe0cfbd28156f61f11621730d24962d9172575c4a25ff68c2a68c52d21"
+    },
+    {
+      "file": "Catalogo_Telegram_1997.xlsx",
+      "sha256": "93ebc82297025f2b79974647bad6e444e81015e6142db99445acc54cd100e628"
+    },
+    {
+      "file": "Catalogo_Telegram_1998.xlsx",
+      "sha256": "b5dc8e5a9b678f3747c873b55450b754ae180694fcc47ee21112b8ee60ac547d"
+    },
+    {
+      "file": "Catalogo_Telegram_1999.xlsx",
+      "sha256": "f24fdd7dca9bd5893e508b576cf7407f38867b1762a817e09e1f37ccf15f309e"
+    },
+    {
+      "file": "Catalogo_Telegram_2000.xlsx",
+      "sha256": "70e066c199de1d4a9c963358f89223fd0e2bb6e87b8ec891af5eabbc83c95ed1"
+    },
+    {
+      "file": "Catalogo_Telegram_2001.xlsx",
+      "sha256": "7d638333ed65f3415aa5440ee6616b3c6a1bdcc5b09a8aa576c07ec27e4f3a13"
+    },
+    {
+      "file": "Catalogo_Telegram_2002.xlsx",
+      "sha256": "6a5d844a79faebc86254d644332caf019e7f983cbaf20de0b7523086d49e16b9"
+    },
+    {
+      "file": "Catalogo_Telegram_2003.xlsx",
+      "sha256": "6ca4c99b3608f31bfdb69debb33b515572b85809012d1cc1b9c4475434073fb3"
+    },
+    {
+      "file": "Catalogo_Telegram_2004.xlsx",
+      "sha256": "e480f3f2f579f332fe79952ff68440e9f5c86ff517e53ea40cd059d0e83b411f"
+    },
+    {
+      "file": "Catalogo_Telegram_2005.xlsx",
+      "sha256": "76dd1e7d084c32d1d6dd83bbf2cd41988ab27d6fd0b910f3a58a91b3c7f4e1c0"
+    },
+    {
+      "file": "Catalogo_Telegram_2006.xlsx",
+      "sha256": "79e46ef718f125f1bd5d8ee5d5a17daf69b49141085ff1cf9cf0c9c2efd42182"
+    },
+    {
+      "file": "Catalogo_Telegram_2007.xlsx",
+      "sha256": "904237ad233a0e47b373131172051e25e26cb239f9102b7b2ca9ec2dcb303f0f"
+    },
+    {
+      "file": "Catalogo_Telegram_2008.xlsx",
+      "sha256": "c9b78057c4aa33f5dc9abf69c590ba1b23c5f7551f1019312bcc5cdc32b5fb42"
+    },
+    {
+      "file": "Catalogo_Telegram_2009.xlsx",
+      "sha256": "4e5a4f61131d8a516ec2ea92b57023a37f5422064dceddfb62b86946c864016d"
+    },
+    {
+      "file": "Catalogo_Telegram_2010.xlsx",
+      "sha256": "9dc3959a749a6aff328fda56c77dc6c1e920b3a2aca2d56d324d737b3cfc6ef4"
+    },
+    {
+      "file": "Catalogo_Telegram_2011.xlsx",
+      "sha256": "3b967e0ac7bcc9222eac04745877bcc7089b754263f4f47d1e4639f118ac593e"
+    },
+    {
+      "file": "Catalogo_Telegram_2012.xlsx",
+      "sha256": "8612a66fef96672e7fd85a72493cc36b53c46221071d917fc48a2395c939a48b"
+    },
+    {
+      "file": "Catalogo_Telegram_2013.xlsx",
+      "sha256": "435e9521d872ebeaf8447aa4236d968f17b76a396656193ef70695818edb5b1d"
+    },
+    {
+      "file": "Catalogo_Telegram_2014.xlsx",
+      "sha256": "2aedcf449105df5c93c435c5c3a1f84d053bdb12e0398e0e1d85e1104499d40a"
+    },
+    {
+      "file": "Catalogo_Telegram_2015.xlsx",
+      "sha256": "b6dc80d3947b95e3fee7cf6ebba9e09acef7e1d3dcc0ad33cee9d99a64ef3268"
+    },
+    {
+      "file": "Catalogo_Telegram_2016.xlsx",
+      "sha256": "fc9d75358c53fb28bee957fd41518855c35f3b633235de90e3ff8c45ccb4bd61"
+    },
+    {
+      "file": "Catalogo_Telegram_2017.xlsx",
+      "sha256": "9a927b59ce41ebcb209d50c4e138a0d792bdfc524db8433e86a5fe79d8a0d951"
+    },
+    {
+      "file": "Catalogo_Telegram_2018.xlsx",
+      "sha256": "57a6e2f2115f7673847139277b75dbbf22ed041ef05186a67919106cfb28e6db"
+    },
+    {
+      "file": "Catalogo_Telegram_2019.xlsx",
+      "sha256": "605167780589b69871ac5ca660be01021e751d0b7bda06befcb0485e93eb6285"
+    },
+    {
+      "file": "Catalogo_Telegram_2020.xlsx",
+      "sha256": "121749b23a9ee098bcf2a67c1a39dae0d055a5dee6a6e93de6ddc5525d626705"
+    },
+    {
+      "file": "Catalogo_Telegram_2021.xlsx",
+      "sha256": "7fc07318ab771cd2165c0d734c2fc69ba47bc282255e0facc51c41151730b981"
+    },
+    {
+      "file": "Catalogo_Telegram_2022.xlsx",
+      "sha256": "5eaff554fc85e5c669c257c8a570cc5c07602b0e981cbfd088259ee5e2f706ba"
+    },
+    {
+      "file": "Catalogo_Telegram_2023.xlsx",
+      "sha256": "3710e7615c480abea6f9e9769929461d509c685493e15b2bc00b30d50bf4a981"
+    },
+    {
+      "file": "Catalogo_Telegram_2024.xlsx",
+      "sha256": "3318324e37791930a50b90d2b2a65d9bf7a9e513b0aaa266537eeace04af6833"
+    },
+    {
+      "file": "Catalogo_Telegram_2025.xlsx",
+      "sha256": "61a00293e07bcd8607ce2dfe3c85778a13dcbc89d174b1d85b36d3f6eb8e8b13"
+    }
+  ],
+  "ownedEvidence": [
+    {
+      "year": 1946,
+      "section": "Programa principal · largometrajes",
+      "title": "Roma. Ciudad abierta",
+      "director": "Roberto Rossellini",
+      "masterFile": "Catalogo_Telegram_1945.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 3,
+      "masterTitle": "Roma. Ciudad abierta",
+      "masterOriginalTitle": "Roma città aperta",
+      "masterDirector": "Roberto Rossellini",
+      "masterYear": 1945
+    },
+    {
+      "year": 1946,
+      "section": "Programa principal · largometrajes",
+      "title": "Al morir la noche",
+      "director": "Charles Crichton, Robert Hamer, Alberto Cavalcanti, Basil Dearden",
+      "masterFile": "Catalogo_Telegram_1945.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 15,
+      "masterTitle": "Al morir la noche",
+      "masterOriginalTitle": "Dead of Night",
+      "masterDirector": "Charles Crichton, Robert Hamer, Alberto Cavalcanti, Basil Dearden",
+      "masterYear": 1945
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "El clavo",
+      "director": "Rafael Gil",
+      "masterFile": "Catalogo_Telegram_1944.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 18,
+      "masterTitle": "El clavo",
+      "masterOriginalTitle": "El clavo",
+      "masterDirector": "Rafael Gil",
+      "masterYear": 1944
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "Pasión de los fuertes",
+      "director": "John Ford",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 9,
+      "masterTitle": "Pasión de los fuertes",
+      "masterOriginalTitle": "My Darling Clementine",
+      "masterDirector": "John Ford",
+      "masterYear": 1946
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "Paisà (Camarada)",
+      "director": "Roberto Rossellini",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 21,
+      "masterTitle": "Paisà (Camarada)",
+      "masterOriginalTitle": "Paisà",
+      "masterDirector": "Roberto Rossellini",
+      "masterYear": 1946
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "Gritos en la noche",
+      "director": "Lawrence Huntington",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 135,
+      "masterTitle": "Gritos en la noche",
+      "masterOriginalTitle": "Wanted for Murder",
+      "masterDirector": "Lawrence Huntington",
+      "masterYear": 1946
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "El filo de la navaja",
+      "director": "Edmund Goulding",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 23,
+      "masterTitle": "El filo de la navaja",
+      "masterOriginalTitle": "The Razor's Edge",
+      "masterDirector": "Edmund Goulding",
+      "masterYear": 1946
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "Una Vida Robada",
+      "director": "Curtis Bernhardt",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 79,
+      "masterTitle": "Una Vida Robada",
+      "masterOriginalTitle": "A Stolen Life",
+      "masterDirector": "Curtis Bernhardt",
+      "masterYear": 1946
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "El limpiabotas",
+      "director": "Vittorio De Sica",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 19,
+      "masterTitle": "El limpiabotas",
+      "masterOriginalTitle": "Sciuscià",
+      "masterDirector": "Vittorio De Sica",
+      "masterYear": 1946
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "Vivir en paz",
+      "director": "Luigi Zampa",
+      "masterFile": "Catalogo_Telegram_1947.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 104,
+      "masterTitle": "Vivir en paz",
+      "masterOriginalTitle": "Vivere in pace",
+      "masterDirector": "Luigi Zampa",
+      "masterYear": 1947
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "Non coupable",
+      "director": "Henri Decoin",
+      "masterFile": "Catalogo_Telegram_1947.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 73,
+      "masterTitle": "Non coupable",
+      "masterOriginalTitle": "Non coupable",
+      "masterDirector": "Henri Decoin",
+      "masterYear": 1947
+    },
+    {
+      "year": 1947,
+      "section": "Programa principal · largometrajes",
+      "title": "El silencio es oro",
+      "director": "René Clair",
+      "masterFile": "Catalogo_Telegram_1947.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 58,
+      "masterTitle": "El silencio es oro",
+      "masterOriginalTitle": "Le silence est d'or",
+      "masterDirector": "René Clair",
+      "masterYear": 1947
+    },
+    {
+      "year": 1948,
+      "section": "Programa principal · largometrajes",
+      "title": "Siempre llueve en domingo",
+      "director": "Robert Hamer",
+      "masterFile": "Catalogo_Telegram_1947.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 92,
+      "masterTitle": "Siempre llueve en domingo",
+      "masterOriginalTitle": "It Always Rains on Sunday",
+      "masterDirector": "Robert Hamer",
+      "masterYear": 1947
+    },
+    {
+      "year": 1948,
+      "section": "Programa principal · largometrajes",
+      "title": "El capitán de Castilla",
+      "director": "Henry King",
+      "masterFile": "Catalogo_Telegram_1947.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 54,
+      "masterTitle": "El capitán de Castilla",
+      "masterOriginalTitle": "Captain from Castile",
+      "masterDirector": "Henry King",
+      "masterYear": 1947
+    },
+    {
+      "year": 1948,
+      "section": "Programa principal · largometrajes",
+      "title": "Pacto tenebroso",
+      "director": "Douglas Sirk",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 31,
+      "masterTitle": "Pacto tenebroso",
+      "masterOriginalTitle": "Sleep, My Love",
+      "masterDirector": "Douglas Sirk",
+      "masterYear": 1948
+    },
+    {
+      "year": 1948,
+      "section": "Programa principal · largometrajes",
+      "title": "Fort Apache",
+      "director": "John Ford",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 10,
+      "masterTitle": "Fort Apache",
+      "masterOriginalTitle": "Fort Apache",
+      "masterDirector": "John Ford",
+      "masterYear": 1948
+    },
+    {
+      "year": 1948,
+      "section": "Programa principal · largometrajes",
+      "title": "Alemania, año cero",
+      "director": "Roberto Rossellini",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 9,
+      "masterTitle": "Alemania, año cero",
+      "masterOriginalTitle": "Germania anno zero",
+      "masterDirector": "Roberto Rossellini",
+      "masterYear": 1948
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "Ciudad portuaria",
+      "director": "Ingmar Bergman",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 59,
+      "masterTitle": "Ciudad portuaria",
+      "masterOriginalTitle": "Hamnstad",
+      "masterDirector": "Ingmar Bergman",
+      "masterYear": 1948
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "Hechizo",
+      "director": "Irving Reis",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 100,
+      "masterTitle": "Hechizo",
+      "masterOriginalTitle": "Enchantment",
+      "masterDirector": "Irving Reis",
+      "masterYear": 1948
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "Voces de muerte",
+      "director": "Anatole Litvak",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 22,
+      "masterTitle": "Voces de muerte",
+      "masterOriginalTitle": "Sorry, Wrong Number",
+      "masterDirector": "Anatole Litvak",
+      "masterYear": 1948
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "Ladrón de bicicletas",
+      "director": "Vittorio De Sica",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 3,
+      "masterTitle": "Ladrón de bicicletas",
+      "masterOriginalTitle": "Ladri di biciclette",
+      "masterDirector": "Vittorio De Sica",
+      "masterYear": 1948
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "Cielo amarillo",
+      "director": "William A. Wellman",
+      "masterFile": "Catalogo_Telegram_1948.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 20,
+      "masterTitle": "Cielo amarillo",
+      "masterOriginalTitle": "Yellow Sky",
+      "masterDirector": "William A. Wellman",
+      "masterYear": 1948
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "El molino del Po",
+      "director": "Alberto Lattuada",
+      "masterFile": "Catalogo_Telegram_1949.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 60,
+      "masterTitle": "El molino del Po",
+      "masterOriginalTitle": "Il mulino del Po",
+      "masterDirector": "Alberto Lattuada",
+      "masterYear": 1949
+    },
+    {
+      "year": 1949,
+      "section": "Competición oficial",
+      "title": "Pattes blanches",
+      "director": "Jean Grémillon",
+      "masterFile": "Catalogo_Telegram_1949.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 72,
+      "masterTitle": "Pattes blanches",
+      "masterOriginalTitle": "Pattes blanches",
+      "masterDirector": "Jean Grémillon",
+      "masterYear": 1949
+    },
+    {
+      "year": 1950,
+      "section": "Programa principal · largometrajes",
+      "title": "Not Wanted",
+      "director": "Elmer Clifton, Ida Lupino",
+      "masterFile": "Catalogo_Telegram_1949.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 62,
+      "masterTitle": "Not Wanted",
+      "masterOriginalTitle": "Not Wanted",
+      "masterDirector": "Elmer Clifton, Ida Lupino",
+      "masterYear": 1949
+    },
+    {
+      "year": 1950,
+      "section": "Programa principal · largometrajes",
+      "title": "Bill, qué grande eres",
+      "director": "John Ford",
+      "masterFile": "Catalogo_Telegram_1950.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 117,
+      "masterTitle": "Bill, qué grande eres",
+      "masterOriginalTitle": "When Willie Comes Marching Home",
+      "masterDirector": "John Ford",
+      "masterYear": 1950
+    },
+    {
+      "year": 1950,
+      "section": "Programa principal · largometrajes",
+      "title": "Pánico en la escena",
+      "director": "Alfred Hitchcock",
+      "masterFile": "Catalogo_Telegram_1950.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 17,
+      "masterTitle": "Pánico en la escena",
+      "masterOriginalTitle": "Stage Fright",
+      "masterDirector": "Alfred Hitchcock",
+      "masterYear": 1950
+    },
+    {
+      "year": 1950,
+      "section": "Programa principal · largometrajes",
+      "title": "Domingo de agosto",
+      "director": "Luciano Emmer",
+      "masterFile": "Catalogo_Telegram_1950.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 82,
+      "masterTitle": "Domingo de agosto",
+      "masterOriginalTitle": "Domenica d'agosto",
+      "masterDirector": "Luciano Emmer",
+      "masterYear": 1950
+    },
+    {
+      "year": 1950,
+      "section": "Programa principal · largometrajes",
+      "title": "La salamandra de oro",
+      "director": "Ronald Neame",
+      "masterFile": "Catalogo_Telegram_1950.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 213,
+      "masterTitle": "La salamandra de oro",
+      "masterOriginalTitle": "Golden Salamander",
+      "masterDirector": "Ronald Neame",
+      "masterYear": 1950
+    },
+    {
+      "year": 1950,
+      "section": "Programa principal · largometrajes",
+      "title": "Regresaron tres",
+      "director": "Jean Negulesco",
+      "masterFile": "Catalogo_Telegram_1950.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 148,
+      "masterTitle": "Regresaron tres",
+      "masterOriginalTitle": "Three Came Home",
+      "masterDirector": "Jean Negulesco",
+      "masterYear": 1950
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "La reina de África",
+      "director": "John Huston",
+      "masterFile": "Catalogo_Telegram_1951.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 3,
+      "masterTitle": "La reina de África",
+      "masterOriginalTitle": "The African Queen",
+      "masterDirector": "John Huston",
+      "masterYear": 1951
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Ana",
+      "director": "Alberto Lattuada",
+      "masterFile": "Catalogo_Telegram_1951.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 182,
+      "masterTitle": "Ana",
+      "masterOriginalTitle": "Anna",
+      "masterDirector": "Alberto Lattuada",
+      "masterYear": 1951
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Pickup",
+      "director": "Hugo Haas",
+      "masterFile": "Catalogo_Telegram_1951.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 105,
+      "masterTitle": "Pickup",
+      "masterOriginalTitle": "Pickup",
+      "masterDirector": "Hugo Haas",
+      "masterYear": 1951
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Correo diplomatico",
+      "director": "Henry Hathaway",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 113,
+      "masterTitle": "Correo diplomatico",
+      "masterOriginalTitle": "Diplomatic Courier",
+      "masterDirector": "Henry Hathaway",
+      "masterYear": 1952
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "París, bajos fondos",
+      "director": "Jacques Becker",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 16,
+      "masterTitle": "París, bajos fondos",
+      "masterOriginalTitle": "Casque d'Or",
+      "masterDirector": "Jacques Becker",
+      "masterYear": 1952
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Hunted",
+      "director": "Charles Crichton",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 65,
+      "masterTitle": "Hunted",
+      "masterOriginalTitle": "Hunted",
+      "masterDirector": "Charles Crichton",
+      "masterYear": 1952
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Proceso a la ciudad",
+      "director": "Luigi Zampa",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 72,
+      "masterTitle": "Proceso a la ciudad",
+      "masterOriginalTitle": "Processo alla città",
+      "masterDirector": "Luigi Zampa",
+      "masterYear": 1952
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Roma a las 11",
+      "director": "Giuseppe De Santis",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 73,
+      "masterTitle": "Roma a las 11",
+      "masterOriginalTitle": "Roma, ore 11",
+      "masterDirector": "Giuseppe De Santis",
+      "masterYear": 1952
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "El personaje",
+      "director": "Ronald Neame",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 165,
+      "masterTitle": "El personaje",
+      "masterOriginalTitle": "The Card",
+      "masterDirector": "Ronald Neame",
+      "masterYear": 1952
+    },
+    {
+      "year": 1952,
+      "section": "Programa principal · largometrajes",
+      "title": "Con una canción en mi corazón",
+      "director": "Walter Lang",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 262,
+      "masterTitle": "Con una canción en mi corazón",
+      "masterOriginalTitle": "With a Song in My Heart",
+      "masterDirector": "Walter Lang",
+      "masterYear": 1952
+    },
+    {
+      "year": 1953,
+      "section": "Programa principal · largometrajes",
+      "title": "Europa '51",
+      "director": "Roberto Rossellini",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 21,
+      "masterTitle": "Europa '51",
+      "masterOriginalTitle": "Europa '51",
+      "masterDirector": "Roberto Rossellini",
+      "masterYear": 1952
+    },
+    {
+      "year": 1953,
+      "section": "Programa principal · largometrajes",
+      "title": "My Six Convicts",
+      "director": "Hugo Fregonese",
+      "masterFile": "Catalogo_Telegram_1952.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 196,
+      "masterTitle": "My Six Convicts",
+      "masterOriginalTitle": "My Six Convicts",
+      "masterDirector": "Hugo Fregonese",
+      "masterYear": 1952
+    },
+    {
+      "year": 1953,
+      "section": "Programa principal · largometrajes",
+      "title": "La señora sin camelias",
+      "director": "Michelangelo Antonioni",
+      "masterFile": "Catalogo_Telegram_1953.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 118,
+      "masterTitle": "La señora sin camelias",
+      "masterOriginalTitle": "La signora senza camelie",
+      "masterDirector": "Michelangelo Antonioni",
+      "masterYear": 1953
+    },
+    {
+      "year": 1953,
+      "section": "Programa principal · largometrajes",
+      "title": "The Glass Wall",
+      "director": "Maxwell Shane",
+      "masterFile": "Catalogo_Telegram_1953.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 176,
+      "masterTitle": "The Glass Wall",
+      "masterOriginalTitle": "The Glass Wall",
+      "masterDirector": "Maxwell Shane",
+      "masterYear": 1953
+    },
+    {
+      "year": 1953,
+      "section": "Programa principal · largometrajes",
+      "title": "The Yellow Balloon",
+      "director": "J. Lee Thompson",
+      "masterFile": "Catalogo_Telegram_1953.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 220,
+      "masterTitle": "The Yellow Balloon",
+      "masterOriginalTitle": "The Yellow Balloon",
+      "masterDirector": "J. Lee Thompson",
+      "masterYear": 1953
+    },
+    {
+      "year": 1954,
+      "section": "Programa principal · largometrajes",
+      "title": "Pánico",
+      "director": "Julien Duvivier",
+      "masterFile": "Catalogo_Telegram_1946.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 62,
+      "masterTitle": "Pánico",
+      "masterOriginalTitle": "Panique",
+      "masterDirector": "Julien Duvivier",
+      "masterYear": 1947
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Condenados",
+      "director": "Manuel Mur Oti",
+      "masterFile": "Catalogo_Telegram_1953.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 65,
+      "masterTitle": "Condenados",
+      "masterOriginalTitle": "Condenados",
+      "masterDirector": "Manuel Mur Oti",
+      "masterYear": 1953
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Carmen Jones",
+      "director": "Otto Preminger",
+      "masterFile": "Catalogo_Telegram_1954.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 59,
+      "masterTitle": "Carmen Jones",
+      "masterOriginalTitle": "Carmen Jones",
+      "masterDirector": "Otto Preminger",
+      "masterYear": 1954
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Phffft",
+      "director": "Mark Robson",
+      "masterFile": "Catalogo_Telegram_1954.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 225,
+      "masterTitle": "Phffft",
+      "masterOriginalTitle": "Phffft",
+      "masterDirector": "Mark Robson",
+      "masterYear": 1954
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "La pradera sin ley",
+      "director": "King Vidor",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 34,
+      "masterTitle": "La pradera sin ley",
+      "masterOriginalTitle": "Man Without a Star",
+      "masterDirector": "King Vidor",
+      "masterYear": 1955
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Marty",
+      "director": "Delbert Mann",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 17,
+      "masterTitle": "Marty",
+      "masterOriginalTitle": "Marty",
+      "masterDirector": "Delbert Mann",
+      "masterYear": 1955
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "La fuga de Colditz",
+      "director": "Guy Hamilton",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 219,
+      "masterTitle": "La fuga de Colditz",
+      "masterOriginalTitle": "The Colditz Story",
+      "masterDirector": "Guy Hamilton",
+      "masterYear": 1955
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Una mujer en la playa",
+      "director": "Joseph Pevney",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 231,
+      "masterTitle": "Una mujer en la playa",
+      "masterOriginalTitle": "Female on the Beach",
+      "masterDirector": "Joseph Pevney",
+      "masterYear": 1955
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Razzia sur la Chnouf",
+      "director": "Henri Decoin",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 120,
+      "masterTitle": "Razzia sur la Chnouf",
+      "masterOriginalTitle": "Razzia sur la Chnouf",
+      "masterDirector": "Henri Decoin",
+      "masterYear": 1955
+    },
+    {
+      "year": 1955,
+      "section": "Programa principal · largometrajes",
+      "title": "Cuna de héroes",
+      "director": "John Ford",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 49,
+      "masterTitle": "Cuna de héroes",
+      "masterOriginalTitle": "The Long Gray Line",
+      "masterDirector": "John Ford",
+      "masterYear": 1955
+    },
+    {
+      "year": 1957,
+      "section": "Programa principal · largometrajes",
+      "title": "Lissy",
+      "director": "Konrad Wolf",
+      "masterFile": "Catalogo_Telegram_1957.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 121,
+      "masterTitle": "Lissy",
+      "masterOriginalTitle": "Lissy",
+      "masterDirector": "Konrad Wolf",
+      "masterYear": 1957
+    },
+    {
+      "year": 1957,
+      "section": "Programa principal · largometrajes",
+      "title": "Le rouge est mis",
+      "director": "Gilles Grangier",
+      "masterFile": "Catalogo_Telegram_1957.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 168,
+      "masterTitle": "Le rouge est mis",
+      "masterOriginalTitle": "Le rouge est mis",
+      "masterDirector": "Gilles Grangier",
+      "masterYear": 1957
+    },
+    {
+      "year": 1957,
+      "section": "Programa principal · largometrajes",
+      "title": "El admirable Crichton.",
+      "director": "Lewis Gilbert",
+      "masterFile": "Catalogo_Telegram_1957.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 180,
+      "masterTitle": "El admirable Crichton.",
+      "masterOriginalTitle": "The Admirable Crichton",
+      "masterDirector": "Lewis Gilbert",
+      "masterYear": 1957
+    },
+    {
+      "year": 1957,
+      "section": "Programa principal · largometrajes",
+      "title": "El grito",
+      "director": "Michelangelo Antonioni",
+      "masterFile": "Catalogo_Telegram_1957.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 46,
+      "masterTitle": "El grito",
+      "masterOriginalTitle": "Il Grido",
+      "masterDirector": "Michelangelo Antonioni",
+      "masterYear": 1957
+    },
+    {
+      "year": 1957,
+      "section": "Programa principal · largometrajes",
+      "title": "The Wayward Bus",
+      "director": "Victor Vicas",
+      "masterFile": "Catalogo_Telegram_1957.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 259,
+      "masterTitle": "The Wayward Bus",
+      "masterOriginalTitle": "The Wayward Bus",
+      "masterDirector": "Victor Vicas",
+      "masterYear": 1957
+    },
+    {
+      "year": 1958,
+      "section": "Competición oficial",
+      "title": "El pisito",
+      "director": "Marco Ferreri, Isidoro M. Ferry",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 10,
+      "masterTitle": "El pisito",
+      "masterOriginalTitle": "El pisito",
+      "masterDirector": "Marco Ferreri, Isidoro M. Ferry",
+      "masterYear": 1958
+    },
+    {
+      "year": 1958,
+      "section": "Competición oficial",
+      "title": "Ladrón él, ladrona ella",
+      "director": "Luigi Zampa",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 270,
+      "masterTitle": "Ladrón él, ladrona ella",
+      "masterOriginalTitle": "Ladro lui, ladra lei",
+      "masterDirector": "Luigi Zampa",
+      "masterYear": 1958
+    },
+    {
+      "year": 1958,
+      "section": "Competición oficial",
+      "title": "El bello Sergio",
+      "director": "Claude Chabrol",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 78,
+      "masterTitle": "El bello Sergio",
+      "masterOriginalTitle": "Le Beau Serge",
+      "masterDirector": "Claude Chabrol",
+      "masterYear": 1958
+    },
+    {
+      "year": 1958,
+      "section": "Competición oficial",
+      "title": "Cowboy",
+      "director": "Delmer Daves",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 59,
+      "masterTitle": "Cowboy",
+      "masterOriginalTitle": "Cowboy",
+      "masterDirector": "Delmer Daves",
+      "masterYear": 1958
+    },
+    {
+      "year": 1958,
+      "section": "Competición oficial",
+      "title": "Los Vikingos",
+      "director": "Richard Fleischer",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 5,
+      "masterTitle": "Los Vikingos",
+      "masterOriginalTitle": "The Vikings",
+      "masterDirector": "Richard Fleischer",
+      "masterYear": 1958
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "El beso del asesino",
+      "director": "Stanley Kubrick",
+      "masterFile": "Catalogo_Telegram_1955.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 18,
+      "masterTitle": "El beso del asesino",
+      "masterOriginalTitle": "Killer's Kiss",
+      "masterDirector": "Stanley Kubrick",
+      "masterYear": 1955
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "Rufufú",
+      "director": "Mario Monicelli",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 16,
+      "masterTitle": "Rufufú",
+      "masterOriginalTitle": "I soliti ignoti",
+      "masterDirector": "Mario Monicelli",
+      "masterYear": 1958
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "Yo, un negro",
+      "director": "Jean Rouch",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 63,
+      "masterTitle": "Yo, un negro",
+      "masterOriginalTitle": "Moi, un noir",
+      "masterDirector": "Jean Rouch",
+      "masterYear": 1958
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "Un vaso de whisky",
+      "director": "Julio Coll",
+      "masterFile": "Catalogo_Telegram_1958.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 275,
+      "masterTitle": "Un vaso de whisky",
+      "masterOriginalTitle": "Un vaso de whisky",
+      "masterDirector": "Julio Coll",
+      "masterYear": 1959
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "Les Dragueurs",
+      "director": "Jean-Pierre Mocky",
+      "masterFile": "Catalogo_Telegram_1959.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 187,
+      "masterTitle": "Les Dragueurs",
+      "masterOriginalTitle": "Les Dragueurs",
+      "masterDirector": "Jean-Pierre Mocky",
+      "masterYear": 1959
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "Araya",
+      "director": "Margot Benacerraf",
+      "masterFile": "Catalogo_Telegram_1959.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 92,
+      "masterTitle": "Araya",
+      "masterOriginalTitle": "Araya",
+      "masterDirector": "Margot Benacerraf",
+      "masterYear": 1959
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "El hombre de las pistolas de oro",
+      "director": "Edward Dmytryk",
+      "masterFile": "Catalogo_Telegram_1959.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 17,
+      "masterTitle": "El hombre de las pistolas de oro",
+      "masterOriginalTitle": "Warlock",
+      "masterDirector": "Edward Dmytryk",
+      "masterYear": 1959
+    },
+    {
+      "year": 1959,
+      "section": "Competición oficial",
+      "title": "Al Capone",
+      "director": "Richard Wilson",
+      "masterFile": "Catalogo_Telegram_1959.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 114,
+      "masterTitle": "Al Capone",
+      "masterOriginalTitle": "Al Capone",
+      "masterDirector": "Richard Wilson",
+      "masterYear": 1959
+    },
+    {
+      "year": 1960,
+      "section": "Competición oficial",
+      "title": "Estoy bien, Jack",
+      "director": "John Boulting",
+      "masterFile": "Catalogo_Telegram_1959.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 159,
+      "masterTitle": "Estoy bien, Jack",
+      "masterOriginalTitle": "I'm All Right Jack",
+      "masterDirector": "John Boulting",
+      "masterYear": 1959
+    },
+    {
+      "year": 1960,
+      "section": "Competición oficial",
+      "title": "Private Property",
+      "director": "Leslie Stevens",
+      "masterFile": "Catalogo_Telegram_1960.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 184,
+      "masterTitle": "Private Property",
+      "masterOriginalTitle": "Private Property",
+      "masterDirector": "Leslie Stevens",
+      "masterYear": 1960
+    },
+    {
+      "year": 1960,
+      "section": "Competición oficial",
+      "title": "Objetivo: Banco de Inglaterra",
+      "director": "Basil Dearden",
+      "masterFile": "Catalogo_Telegram_1960.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 82,
+      "masterTitle": "Objetivo: Banco de Inglaterra",
+      "masterOriginalTitle": "The League of Gentlemen",
+      "masterDirector": "Basil Dearden",
+      "masterYear": 1960
+    },
+    {
+      "year": 1960,
+      "section": "Competición oficial",
+      "title": "Macario",
+      "director": "Roberto Gavaldón",
+      "masterFile": "Catalogo_Telegram_1960.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 37,
+      "masterTitle": "Macario",
+      "masterOriginalTitle": "Macario",
+      "masterDirector": "Roberto Gavaldón",
+      "masterYear": 1960
+    },
+    {
+      "year": 1960,
+      "section": "Competición oficial",
+      "title": "El bello Antonio",
+      "director": "Mauro Bolognini",
+      "masterFile": "Catalogo_Telegram_1960.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 88,
+      "masterTitle": "El bello Antonio",
+      "masterOriginalTitle": "Il bell'Antonio",
+      "masterDirector": "Mauro Bolognini",
+      "masterYear": 1960
+    },
+    {
+      "year": 1961,
+      "section": "Competición oficial",
+      "title": "Fantasmas en Roma",
+      "director": "Antonio Pietrangeli",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 222,
+      "masterTitle": "Fantasmas en Roma",
+      "masterOriginalTitle": "Fantasmi a Roma",
+      "masterDirector": "Antonio Pietrangeli",
+      "masterYear": 1961
+    },
+    {
+      "year": 1961,
+      "section": "Competición oficial",
+      "title": "Dos cabalgan juntos",
+      "director": "John Ford",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 20,
+      "masterTitle": "Dos cabalgan juntos",
+      "masterOriginalTitle": "Two Rode Together",
+      "masterDirector": "John Ford",
+      "masterYear": 1961
+    },
+    {
+      "year": 1961,
+      "section": "Competición oficial",
+      "title": "El negro silencio del dolor",
+      "director": "Allen Baron",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 62,
+      "masterTitle": "El negro silencio del dolor",
+      "masterOriginalTitle": "Blast of Silence",
+      "masterDirector": "Allen Baron",
+      "masterYear": 1961
+    },
+    {
+      "year": 1961,
+      "section": "Competición oficial",
+      "title": "La pirámide humana",
+      "director": "Jean Rouch",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 83,
+      "masterTitle": "La pirámide humana",
+      "masterOriginalTitle": "La Pyramide humaine",
+      "masterDirector": "Jean Rouch",
+      "masterYear": 1961
+    },
+    {
+      "year": 1961,
+      "section": "Competición oficial",
+      "title": "Despertar a la vida",
+      "director": "Lewis Gilbert",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 409,
+      "masterTitle": "Despertar a la vida",
+      "masterOriginalTitle": "The Greengage Summer",
+      "masterDirector": "Lewis Gilbert",
+      "masterYear": 1961
+    },
+    {
+      "year": 1961,
+      "section": "Competición oficial",
+      "title": "The Connection",
+      "director": "Shirley Clarke",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 139,
+      "masterTitle": "The Connection",
+      "masterOriginalTitle": "The Connection",
+      "masterDirector": "Shirley Clarke",
+      "masterYear": 1961
+    },
+    {
+      "year": 1961,
+      "section": "Pardi di domani · concurso internacional · cortometrajes premiados",
+      "title": "Rabindranath Tagore",
+      "director": "Satyajit Ray",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 210,
+      "masterTitle": "Rabindranath Tagore",
+      "masterOriginalTitle": "Rabindranath Tagore",
+      "masterDirector": "Satyajit Ray",
+      "masterYear": 1961
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "La trampa del diablo",
+      "director": "František Vláčil",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 106,
+      "masterTitle": "La trampa del diablo",
+      "masterOriginalTitle": "Ďáblova past",
+      "masterDirector": "František Vláčil",
+      "masterYear": 1962
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "Una vida difícil",
+      "director": "Dino Risi",
+      "masterFile": "Catalogo_Telegram_1961.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 68,
+      "masterTitle": "Una vida difícil",
+      "masterOriginalTitle": "Una vita difficile",
+      "masterDirector": "Dino Risi",
+      "masterYear": 1961
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "Un mono en invierno",
+      "director": "Henri Verneuil",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 167,
+      "masterTitle": "Un mono en invierno",
+      "masterOriginalTitle": "Un singe en hiver",
+      "masterDirector": "Henri Verneuil",
+      "masterYear": 1962
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "Los años rugientes",
+      "director": "Luigi Zampa",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 93,
+      "masterTitle": "Los años rugientes",
+      "masterOriginalTitle": "Anni ruggenti",
+      "masterDirector": "Luigi Zampa",
+      "masterYear": 1962
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "El hombre que no quería ser santo",
+      "director": "Edward Dmytryk",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 114,
+      "masterTitle": "El hombre que no quería ser santo",
+      "masterOriginalTitle": "The Reluctant Saint",
+      "masterDirector": "Edward Dmytryk",
+      "masterYear": 1962
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "El que mató por placer",
+      "director": "Denis Sanders",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 297,
+      "masterTitle": "El que mató por placer",
+      "masterOriginalTitle": "War Hunt",
+      "masterDirector": "Denis Sanders",
+      "masterYear": 1962
+    },
+    {
+      "year": 1962,
+      "section": "Competición oficial",
+      "title": "El barón fantástico",
+      "director": "Karel Zeman",
+      "masterFile": "Catalogo_Telegram_1962.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 82,
+      "masterTitle": "El barón fantástico",
+      "masterOriginalTitle": "Baron Prášil",
+      "masterDirector": "Karel Zeman",
+      "masterYear": 1962
+    },
+    {
+      "year": 1963,
+      "section": "Competición oficial",
+      "title": "I basilischi",
+      "director": "Lina Wertmüller",
+      "masterFile": "Catalogo_Telegram_1963.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 106,
+      "masterTitle": "I basilischi",
+      "masterOriginalTitle": "I basilischi",
+      "masterDirector": "Lina Wertmüller",
+      "masterYear": 1963
+    },
+    {
+      "year": 1963,
+      "section": "Programme Principal Les Films de la Retrospettiva 40 ans de Festival à Locarno · premiadas",
+      "title": "Hallelujah the Hills",
+      "director": "Adolfas Mekas",
+      "masterFile": "Catalogo_Telegram_1963.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 175,
+      "masterTitle": "Hallelujah the Hills",
+      "masterOriginalTitle": "Hallelujah the Hills",
+      "masterDirector": "Adolfas Mekas",
+      "masterYear": 1963
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Los años verdes",
+      "director": "Paulo Rocha",
+      "masterFile": "Catalogo_Telegram_1963.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 71,
+      "masterTitle": "Los años verdes",
+      "masterOriginalTitle": "Os Verdes Anos",
+      "masterDirector": "Paulo Rocha",
+      "masterYear": 1963
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Vidas ardientes",
+      "director": "Florestano Vancini",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 242,
+      "masterTitle": "Vidas ardientes",
+      "masterOriginalTitle": "La calda vita",
+      "masterDirector": "Florestano Vancini",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "La herencia",
+      "director": "Ricardo Alventosa",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 224,
+      "masterTitle": "La herencia",
+      "masterOriginalTitle": "La herencia",
+      "masterDirector": "Ricardo Alventosa",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Pedro el negro",
+      "director": "Miloš Forman",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 158,
+      "masterTitle": "Pedro el negro",
+      "masterOriginalTitle": "Černý Petr",
+      "masterDirector": "Miloš Forman",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Kennwort... Reiher",
+      "director": "Rudolf Jugert",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 484,
+      "masterTitle": "Kennwort... Reiher",
+      "masterOriginalTitle": "Kennwort... Reiher",
+      "masterDirector": "Rudolf Jugert",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Banda aparte",
+      "director": "Jean-Luc Godard",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 9,
+      "masterTitle": "Banda aparte",
+      "masterOriginalTitle": "Bande à part",
+      "masterDirector": "Jean-Luc Godard",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Encuesta sobre el Amor",
+      "director": "Pier Paolo Pasolini",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 84,
+      "masterTitle": "Encuesta sobre el Amor",
+      "masterOriginalTitle": "Comizi d'amore",
+      "masterDirector": "Pier Paolo Pasolini",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Ella y sus maridos",
+      "director": "J. Lee Thompson",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 71,
+      "masterTitle": "Ella y sus maridos",
+      "masterOriginalTitle": "What a Way to Go!",
+      "masterDirector": "J. Lee Thompson",
+      "masterYear": 1964
+    },
+    {
+      "year": 1964,
+      "section": "Competición oficial",
+      "title": "Tiempo de amor",
+      "director": "Julio Diamante",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 207,
+      "masterTitle": "Tiempo de amor",
+      "masterOriginalTitle": "Tiempo de amor",
+      "masterDirector": "Julio Diamante",
+      "masterYear": 1964
+    },
+    {
+      "year": 1965,
+      "section": "Competición oficial",
+      "title": "Las manos en los bolsillos",
+      "director": "Marco Bellocchio",
+      "masterFile": "Catalogo_Telegram_1965.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 57,
+      "masterTitle": "Las manos en los bolsillos",
+      "masterOriginalTitle": "I pugni in tasca",
+      "masterDirector": "Marco Bellocchio",
+      "masterYear": 1965
+    },
+    {
+      "year": 1965,
+      "section": "Competición oficial",
+      "title": "Cuatro de la madrugada",
+      "director": "Anthony Simmons",
+      "masterFile": "Catalogo_Telegram_1965.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 520,
+      "masterTitle": "Cuatro de la madrugada",
+      "masterOriginalTitle": null,
+      "masterDirector": "Anthony Simmons",
+      "masterYear": 1965
+    },
+    {
+      "year": 1965,
+      "section": "Competición oficial",
+      "title": "La vie heureuse de Léopold Z",
+      "director": "Gilles Carle",
+      "masterFile": "Catalogo_Telegram_1965.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 523,
+      "masterTitle": "La vie heureuse de Léopold Z",
+      "masterOriginalTitle": "La vie heureuse de Léopold Z",
+      "masterDirector": "Gilles Carle",
+      "masterYear": 1965
+    },
+    {
+      "year": 1965,
+      "section": "Competición oficial",
+      "title": "En este pueblo no hay ladrones",
+      "director": "Alberto Isaac",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 171,
+      "masterTitle": "En este pueblo no hay ladrones",
+      "masterOriginalTitle": "En este pueblo no hay ladrones",
+      "masterDirector": "Alberto Isaac",
+      "masterYear": 1965
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "Made in Italy",
+      "director": "Nanni Loy",
+      "masterFile": "Catalogo_Telegram_1965.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 135,
+      "masterTitle": "Made in Italy",
+      "masterOriginalTitle": "Made in Italy",
+      "masterDirector": "Nanni Loy",
+      "masterYear": 1965
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "It Happened Here",
+      "director": "Kevin Brownlow, Andrew Mollo",
+      "masterFile": "Catalogo_Telegram_1965.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 320,
+      "masterTitle": "It Happened Here",
+      "masterOriginalTitle": "It Happened Here",
+      "masterDirector": "Kevin Brownlow, Andrew Mollo",
+      "masterYear": 1965
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "Morgan, un caso clínico",
+      "director": "Karel Reisz",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 258,
+      "masterTitle": "Morgan, un caso clínico",
+      "masterOriginalTitle": "Morgan: A Suitable Case for Treatment",
+      "masterDirector": "Karel Reisz",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "Un hombre y una mujer",
+      "director": "Claude Lelouch",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 20,
+      "masterTitle": "Un hombre y una mujer",
+      "masterOriginalTitle": "Un homme et une femme",
+      "masterDirector": "Claude Lelouch",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "Yo, yo, yo... y los demás",
+      "director": "Alessandro Blasetti",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 659,
+      "masterTitle": "Yo, yo, yo... y los demás",
+      "masterOriginalTitle": "Io, io, io... e gli altri",
+      "masterDirector": "Alessandro Blasetti",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "La línea de demarcación",
+      "director": "Claude Chabrol",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 173,
+      "masterTitle": "La línea de demarcación",
+      "masterOriginalTitle": "La Ligne de démarcation",
+      "masterDirector": "Claude Chabrol",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "Ukamau",
+      "director": "Jorge Sanjinés",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 128,
+      "masterTitle": "Ukamau",
+      "masterOriginalTitle": "Ukamau",
+      "masterDirector": "Jorge Sanjinés",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "Un italiano en Londres",
+      "director": "Alberto Sordi",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 650,
+      "masterTitle": "Un italiano en Londres",
+      "masterOriginalTitle": "Fumo di Londra",
+      "masterDirector": "Alberto Sordi",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Competición oficial",
+      "title": "El coraje cotidiano",
+      "director": "Evald Schorm",
+      "masterFile": "Catalogo_Telegram_1964.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 216,
+      "masterTitle": "El coraje cotidiano",
+      "masterOriginalTitle": null,
+      "masterDirector": "Evald Schorm",
+      "masterYear": 1965
+    },
+    {
+      "year": 1966,
+      "section": "Sections spéciales / Films hors programme · premiadas",
+      "title": "La guerra ha terminado",
+      "director": "Alain Resnais",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 64,
+      "masterTitle": "La guerra ha terminado",
+      "masterOriginalTitle": "La guerre est finie",
+      "masterDirector": "Alain Resnais",
+      "masterYear": 1966
+    },
+    {
+      "year": 1966,
+      "section": "Pardi di domani · concurso internacional · cortometrajes premiados",
+      "title": "Rosalie",
+      "director": "Walerian Borowczyk",
+      "masterFile": "Catalogo_Telegram_1966.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 239,
+      "masterTitle": "Rosalie",
+      "masterOriginalTitle": "Rosalie",
+      "masterDirector": "Walerian Borowczyk",
+      "masterYear": 1966
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Panna zázračnica",
+      "director": "Štefan Uher",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 178,
+      "masterTitle": "Panna zázračnica",
+      "masterOriginalTitle": "Panna zázračnica",
+      "masterDirector": "Štefan Uher",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Martyrs of Love",
+      "director": "Jan Němec",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 227,
+      "masterTitle": "Martyrs of Love",
+      "masterOriginalTitle": "Mučedníci lásky",
+      "masterDirector": "Jan Němec",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "L'inconnu de Shandigor",
+      "director": "Jean-Louis Roy",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 377,
+      "masterTitle": "L'inconnu de Shandigor",
+      "masterOriginalTitle": "L'inconnu de Shandigor",
+      "masterDirector": "Jean-Louis Roy",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Lo mejor de la vida",
+      "director": "Ulrich Schamoni",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 502,
+      "masterTitle": "Lo mejor de la vida",
+      "masterOriginalTitle": "Alle Jahre wieder",
+      "masterDirector": "Ulrich Schamoni",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Muchas cuerdas para un violín",
+      "director": "Pietro Germi",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 140,
+      "masterTitle": "Muchas cuerdas para un violín",
+      "masterOriginalTitle": "L'immorale",
+      "masterDirector": "Pietro Germi",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Los aventureros",
+      "director": "Robert Enrico",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 195,
+      "masterTitle": "Los aventureros",
+      "masterOriginalTitle": "Les Aventuriers",
+      "masterDirector": "Robert Enrico",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Los ángeles del diablo",
+      "director": "Daniel Haller",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 504,
+      "masterTitle": "Los ángeles del diablo",
+      "masterOriginalTitle": "Devil's Angels",
+      "masterDirector": "Daniel Haller",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Un fabuloso bribón",
+      "director": "Irvin Kershner",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 268,
+      "masterTitle": "Un fabuloso bribón",
+      "masterOriginalTitle": "The Flim-Flam Man",
+      "masterDirector": "Irvin Kershner",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "Tierra en trance",
+      "director": "Glauber Rocha",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 86,
+      "masterTitle": "Tierra en trance",
+      "masterOriginalTitle": "Terra em Transe",
+      "masterDirector": "Glauber Rocha",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Programa principal · largometrajes",
+      "title": "A cada uno lo suyo",
+      "director": "Elio Petri",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 184,
+      "masterTitle": "A cada uno lo suyo",
+      "masterOriginalTitle": "A ciascuno il suo",
+      "masterDirector": "Elio Petri",
+      "masterYear": 1967
+    },
+    {
+      "year": 1967,
+      "section": "Competición oficial",
+      "title": "Návrat ztraceného syna",
+      "director": "Evald Schorm",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 210,
+      "masterTitle": "El regreso del hijo pródigo",
+      "masterOriginalTitle": null,
+      "masterDirector": "Evald Schorm",
+      "masterYear": 1967
+    },
+    {
+      "year": 1968,
+      "section": "Competición oficial",
+      "title": "Cara a Cara",
+      "director": "Júlio Bressane",
+      "masterFile": "Catalogo_Telegram_1967.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 87,
+      "masterTitle": "Cara a Cara",
+      "masterOriginalTitle": "Cara a Cara",
+      "masterDirector": "Júlio Bressane",
+      "masterYear": 1967
+    },
+    {
+      "year": 1968,
+      "section": "Competición oficial",
+      "title": "Tute Cabrero",
+      "director": "Juan José Jusid",
+      "masterFile": "Catalogo_Telegram_1968.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 113,
+      "masterTitle": "Tute Cabrero",
+      "masterOriginalTitle": "Tute Cabrero",
+      "masterDirector": "Juan José Jusid",
+      "masterYear": 1968
+    },
+    {
+      "year": 1968,
+      "section": "Competición oficial",
+      "title": "Gracias tía",
+      "director": "Salvatore Samperi",
+      "masterFile": "Catalogo_Telegram_1968.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 406,
+      "masterTitle": "Gracias tía",
+      "masterOriginalTitle": "Grazie, zia",
+      "masterDirector": "Salvatore Samperi",
+      "masterYear": 1968
+    },
+    {
+      "year": 1969,
+      "section": "Competición oficial",
+      "title": "Paris n'existe pas",
+      "director": "Robert Benayoun",
+      "masterFile": "Catalogo_Telegram_1969.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 275,
+      "masterTitle": "Paris n'existe pas",
+      "masterOriginalTitle": "Paris n'existe pas",
+      "masterDirector": "Robert Benayoun",
+      "masterYear": 1969
+    },
+    {
+      "year": 1969,
+      "section": "Competición oficial",
+      "title": "Tres tristes tigres",
+      "director": "Raúl Ruiz",
+      "masterFile": "Catalogo_Telegram_1968.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 112,
+      "masterTitle": "Tres tristes tigres",
+      "masterOriginalTitle": "Tres tristes tigres",
+      "masterDirector": "Raúl Ruiz",
+      "masterYear": 1968
+    },
+    {
+      "year": 1969,
+      "section": "Competición oficial",
+      "title": "Escenas de caza en la Baja Baviera",
+      "director": "Peter Fleischmann",
+      "masterFile": "Catalogo_Telegram_1969.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 110,
+      "masterTitle": "Escenas de caza en la Baja Baviera",
+      "masterOriginalTitle": "Jagdszenen aus Niederbayern",
+      "masterDirector": "Peter Fleischmann",
+      "masterYear": 1969
+    },
+    {
+      "year": 1969,
+      "section": "Competición oficial",
+      "title": "Invasión",
+      "director": "Hugo Santiago",
+      "masterFile": "Catalogo_Telegram_1969.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 64,
+      "masterTitle": "Invasión",
+      "masterOriginalTitle": "Invasión",
+      "masterDirector": "Hugo Santiago",
+      "masterYear": 1969
+    },
+    {
+      "year": 1969,
+      "section": "Competición oficial",
+      "title": "Charles, vivo o muerto",
+      "director": "Alain Tanner",
+      "masterFile": "Catalogo_Telegram_1969.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 160,
+      "masterTitle": "Charles, vivo o muerto",
+      "masterOriginalTitle": "Charles mort ou vif",
+      "masterDirector": "Alain Tanner",
+      "masterYear": 1969
+    },
+    {
+      "year": 1969,
+      "section": "Competición oficial",
+      "title": "La femme au couteau",
+      "director": "Timité Bassori",
+      "masterFile": "Catalogo_Telegram_1969.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 278,
+      "masterTitle": "La femme au couteau",
+      "masterOriginalTitle": "La femme au couteau",
+      "masterDirector": "Timité Bassori",
+      "masterYear": 1969
+    },
+    {
+      "year": 1970,
+      "section": "Competición oficial",
+      "title": "Ecce homo Homolka",
+      "director": "Jaroslav Papoušek",
+      "masterFile": "Catalogo_Telegram_1970.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 613,
+      "masterTitle": "Ecce homo Homolka",
+      "masterOriginalTitle": "Ecce homo Homolka",
+      "masterDirector": "Jaroslav Papoušek",
+      "masterYear": 1970
+    },
+    {
+      "year": 1971,
+      "section": "Competición oficial",
+      "title": "Toma el dinero y corre",
+      "director": "Woody Allen",
+      "masterFile": "Catalogo_Telegram_1969.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 6,
+      "masterTitle": "Toma el dinero y corre",
+      "masterOriginalTitle": "Take the Money and Run",
+      "masterDirector": "Woody Allen",
+      "masterYear": 1969
+    },
+    {
+      "year": 1971,
+      "section": "Competición oficial",
+      "title": "Les Amis",
+      "director": "Gérard Blain",
+      "masterFile": "Catalogo_Telegram_1971.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 269,
+      "masterTitle": "Les Amis",
+      "masterOriginalTitle": "Les Amis",
+      "masterDirector": "Gérard Blain",
+      "masterYear": 1971
+    },
+    {
+      "year": 1972,
+      "section": "Competición oficial",
+      "title": "Family Life",
+      "director": "Ken Loach",
+      "masterFile": "Catalogo_Telegram_1971.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 130,
+      "masterTitle": "Family Life",
+      "masterOriginalTitle": "Family Life",
+      "masterDirector": "Ken Loach",
+      "masterYear": 1971
+    },
+    {
+      "year": 1972,
+      "section": "Competición oficial",
+      "title": "Bleak Moments",
+      "director": "Mike Leigh",
+      "masterFile": "Catalogo_Telegram_1972.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 206,
+      "masterTitle": "Bleak Moments",
+      "masterOriginalTitle": "Bleak Moments",
+      "masterDirector": "Mike Leigh",
+      "masterYear": 1971
+    },
+    {
+      "year": 1972,
+      "section": "Competición oficial",
+      "title": "Coraje sudor y polvora",
+      "director": "Dick Richards",
+      "masterFile": "Catalogo_Telegram_1972.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 219,
+      "masterTitle": "Coraje sudor y polvora",
+      "masterOriginalTitle": "The Culpepper Cattle Co.",
+      "masterDirector": "Dick Richards",
+      "masterYear": 1972
+    },
+    {
+      "year": 1972,
+      "section": "Competición oficial",
+      "title": "Absences répétées",
+      "director": "Guy Gilles",
+      "masterFile": "Catalogo_Telegram_1972.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 108,
+      "masterTitle": "Absences répétées",
+      "masterOriginalTitle": "Absences répétées",
+      "masterDirector": "Guy Gilles",
+      "masterYear": 1972
+    },
+    {
+      "year": 1972,
+      "section": "Competición oficial",
+      "title": "Coup pour coup",
+      "director": "Marin Karmitz",
+      "masterFile": "Catalogo_Telegram_1972.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 123,
+      "masterTitle": "Coup pour coup",
+      "masterOriginalTitle": "Coup pour coup",
+      "masterDirector": "Marin Karmitz",
+      "masterYear": 1972
+    },
+    {
+      "year": 1973,
+      "section": "Competición oficial",
+      "title": "Harlis",
+      "director": "Robert van Ackeren",
+      "masterFile": "Catalogo_Telegram_1972.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 602,
+      "masterTitle": "Harlis",
+      "masterOriginalTitle": "Harlis",
+      "masterDirector": "Robert van Ackeren",
+      "masterYear": 1972
+    },
+    {
+      "year": 1973,
+      "section": "Competición oficial",
+      "title": "American Graffiti",
+      "director": "George Lucas",
+      "masterFile": "Catalogo_Telegram_1973.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 13,
+      "masterTitle": "American Graffiti",
+      "masterOriginalTitle": "American Graffiti",
+      "masterDirector": "George Lucas",
+      "masterYear": 1973
+    },
+    {
+      "year": 1973,
+      "section": "Competición oficial",
+      "title": "La mansión de la locura",
+      "director": "Juan López Moctezuma",
+      "masterFile": "Catalogo_Telegram_1973.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 448,
+      "masterTitle": "La mansión de la locura",
+      "masterOriginalTitle": "La mansión de la locura",
+      "masterDirector": "Juan López Moctezuma",
+      "masterYear": 1973
+    },
+    {
+      "year": 1973,
+      "section": "Competición oficial",
+      "title": "Cuentos de Pasolini",
+      "director": "Sergio Citti",
+      "masterFile": "Catalogo_Telegram_1973.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 226,
+      "masterTitle": "Cuentos de Pasolini",
+      "masterOriginalTitle": "Storie scellerate",
+      "masterDirector": "Sergio Citti",
+      "masterYear": 1973
+    },
+    {
+      "year": 1973,
+      "section": "Competición oficial",
+      "title": "Iluminación",
+      "director": "Krzysztof Zanussi",
+      "masterFile": "Catalogo_Telegram_1973.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 121,
+      "masterTitle": "Iluminación",
+      "masterOriginalTitle": "Iluminacja",
+      "masterDirector": "Krzysztof Zanussi",
+      "masterYear": 1973
+    },
+    {
+      "year": 1973,
+      "section": "Competición oficial",
+      "title": "Inglaterra me hizo",
+      "director": "Peter Duffell",
+      "masterFile": "Catalogo_Telegram_1973.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 530,
+      "masterTitle": "Inglaterra me hizo",
+      "masterOriginalTitle": null,
+      "masterDirector": "Peter Duffell",
+      "masterYear": 1973
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "On n'engraisse pas les cochons à l'eau claire",
+      "director": "Jean Pierre Lefebvre",
+      "masterFile": "Catalogo_Telegram_1972.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 648,
+      "masterTitle": "On n'engraisse pas les cochons à l'eau claire",
+      "masterOriginalTitle": "On n'engraisse pas les cochons à l'eau claire",
+      "masterDirector": "Jean Pierre Lefebvre",
+      "masterYear": 1973
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "Canción para la tierra triste",
+      "director": "Rauni Mollberg",
+      "masterFile": "Catalogo_Telegram_1973.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 534,
+      "masterTitle": "Canción para la tierra triste",
+      "masterOriginalTitle": "Maa on syntinen laulu",
+      "masterDirector": "Rauni Mollberg",
+      "masterYear": 1973
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "Una señorita rebelde",
+      "director": "Peter Bogdanovich",
+      "masterFile": "Catalogo_Telegram_1974.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 270,
+      "masterTitle": "Una señorita rebelde",
+      "masterOriginalTitle": "Daisy Miller",
+      "masterDirector": "Peter Bogdanovich",
+      "masterYear": 1974
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "Cuentos inmorales",
+      "director": "Walerian Borowczyk",
+      "masterFile": "Catalogo_Telegram_1974.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 69,
+      "masterTitle": "Cuentos inmorales",
+      "masterOriginalTitle": "Contes immoraux",
+      "masterDirector": "Walerian Borowczyk",
+      "masterYear": 1973
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "A Bigger Splash",
+      "director": "Jack Hazan",
+      "masterFile": "Catalogo_Telegram_1974.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 519,
+      "masterTitle": "A Bigger Splash",
+      "masterOriginalTitle": "A Bigger Splash",
+      "masterDirector": "Jack Hazan",
+      "masterYear": 1973
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "La boca abierta",
+      "director": "Maurice Pialat",
+      "masterFile": "Catalogo_Telegram_1974.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 101,
+      "masterTitle": "La boca abierta",
+      "masterOriginalTitle": "La Gueule ouverte",
+      "masterDirector": "Maurice Pialat",
+      "masterYear": 1974
+    },
+    {
+      "year": 1974,
+      "section": "Competición oficial",
+      "title": "Supermarkt",
+      "director": "Roland Klick",
+      "masterFile": "Catalogo_Telegram_1974.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 184,
+      "masterTitle": "Supermarkt",
+      "masterOriginalTitle": "Supermarkt",
+      "masterDirector": "Roland Klick",
+      "masterYear": 1974
+    },
+    {
+      "year": 1975,
+      "section": "Competición oficial",
+      "title": "India Song",
+      "director": "Marguerite Duras",
+      "masterFile": "Catalogo_Telegram_1975.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 70,
+      "masterTitle": "India Song",
+      "masterOriginalTitle": "India Song",
+      "masterDirector": "Marguerite Duras",
+      "masterYear": 1975
+    },
+    {
+      "year": 1975,
+      "section": "Competición oficial",
+      "title": "Xala",
+      "director": "Ousmane Sembène",
+      "masterFile": "Catalogo_Telegram_1975.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 145,
+      "masterTitle": "Xala",
+      "masterOriginalTitle": "Xala",
+      "masterDirector": "Ousmane Sembène",
+      "masterYear": 1975
+    },
+    {
+      "year": 1975,
+      "section": "Competición oficial",
+      "title": "Por las antiguas escaleras",
+      "director": "Mauro Bolognini",
+      "masterFile": "Catalogo_Telegram_1975.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 473,
+      "masterTitle": "Por las antiguas escaleras",
+      "masterOriginalTitle": "Per le antiche scale",
+      "masterDirector": "Mauro Bolognini",
+      "masterYear": 1975
+    },
+    {
+      "year": 1976,
+      "section": "Competición oficial",
+      "title": "El gran Guardaespaldas",
+      "director": "Bob Rafelson",
+      "masterFile": "Catalogo_Telegram_1976.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 283,
+      "masterTitle": "El gran Guardaespaldas",
+      "masterOriginalTitle": "Stay Hungry",
+      "masterDirector": "Bob Rafelson",
+      "masterYear": 1976
+    },
+    {
+      "year": 1976,
+      "section": "Competición oficial",
+      "title": "Marcha Triunfal",
+      "director": "Marco Bellocchio",
+      "masterFile": "Catalogo_Telegram_1976.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 170,
+      "masterTitle": "Marcha Triunfal",
+      "masterOriginalTitle": "Marcia trionfale",
+      "masterDirector": "Marco Bellocchio",
+      "masterYear": 1976
+    },
+    {
+      "year": 1976,
+      "section": "Competición oficial",
+      "title": "La celda de la violación",
+      "director": "Michael Miller",
+      "masterFile": "Catalogo_Telegram_1976.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 385,
+      "masterTitle": "La celda de la violación",
+      "masterOriginalTitle": "Jackson County Jail",
+      "masterDirector": "Michael Miller",
+      "masterYear": 1976
+    },
+    {
+      "year": 1977,
+      "section": "Competición oficial",
+      "title": "Passing Through",
+      "director": "Larry Clark",
+      "masterFile": "Catalogo_Telegram_1977.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 281,
+      "masterTitle": "Passing Through",
+      "masterOriginalTitle": "Passing Through",
+      "masterDirector": "Larry Clark",
+      "masterYear": 1977
+    },
+    {
+      "year": 1977,
+      "section": "Competición oficial",
+      "title": "Cascabel",
+      "director": "Raúl Araiza",
+      "masterFile": "Catalogo_Telegram_1977.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 470,
+      "masterTitle": "Cascabel",
+      "masterOriginalTitle": "Cascabel",
+      "masterDirector": "Raúl Araiza",
+      "masterYear": 1977
+    },
+    {
+      "year": 1978,
+      "section": "Competición oficial",
+      "title": "Las amigas",
+      "director": "Claudia Weill",
+      "masterFile": "Catalogo_Telegram_1978.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 122,
+      "masterTitle": "Las amigas",
+      "masterOriginalTitle": "Girlfriends",
+      "masterDirector": "Claudia Weill",
+      "masterYear": 1978
+    },
+    {
+      "year": 1978,
+      "section": "Competición oficial",
+      "title": "El segundo despertar de Christa Klages",
+      "director": "Margarethe von Trotta",
+      "masterFile": "Catalogo_Telegram_1978.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 403,
+      "masterTitle": "El segundo despertar de Christa Klages",
+      "masterOriginalTitle": "Das zweite Erwachen der Christa Klages",
+      "masterDirector": "Margarethe von Trotta",
+      "masterYear": 1978
+    },
+    {
+      "year": 1978,
+      "section": "Competición oficial",
+      "title": "Baara",
+      "director": "Souleymane Cissé",
+      "masterFile": "Catalogo_Telegram_1978.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 308,
+      "masterTitle": "Baara",
+      "masterOriginalTitle": "Baara",
+      "masterDirector": "Souleymane Cissé",
+      "masterYear": 1978
+    },
+    {
+      "year": 1978,
+      "section": "Competición oficial",
+      "title": "Melodía para un asesinato",
+      "director": "James Toback",
+      "masterFile": "Catalogo_Telegram_1978.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 150,
+      "masterTitle": "Melodía para un asesinato",
+      "masterOriginalTitle": "Fingers",
+      "masterDirector": "James Toback",
+      "masterYear": 1978
+    },
+    {
+      "year": 1980,
+      "section": "Competición oficial",
+      "title": "La verdad sobre el caso Savolta",
+      "director": "Antonio Drove",
+      "masterFile": "Catalogo_Telegram_1979.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 47,
+      "masterTitle": "La verdad sobre el caso Savolta",
+      "masterOriginalTitle": "La verdad sobre el caso Savolta",
+      "masterDirector": "Antonio Drove",
+      "masterYear": 1979
+    },
+    {
+      "year": 1980,
+      "section": "Competición oficial",
+      "title": "La rockera",
+      "director": "Brian Gibson",
+      "masterFile": "Catalogo_Telegram_1980.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 339,
+      "masterTitle": "La rockera",
+      "masterOriginalTitle": "Breaking Glass",
+      "masterDirector": "Brian Gibson",
+      "masterYear": 1980
+    },
+    {
+      "year": 1980,
+      "section": "Competición oficial",
+      "title": "Die letzten Jahre der Kindheit",
+      "director": "Norbert Kückelmann",
+      "masterFile": "Catalogo_Telegram_1979.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 640,
+      "masterTitle": "Die letzten Jahre der Kindheit",
+      "masterOriginalTitle": "Die letzten Jahre der Kindheit",
+      "masterDirector": "Norbert Kückelmann",
+      "masterYear": 1979
+    },
+    {
+      "year": 1980,
+      "section": "Competición oficial",
+      "title": "MALEDETTI VI AMERO",
+      "director": "Marco Tullio Giordana",
+      "masterFile": "Catalogo_Telegram_1980.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 619,
+      "masterTitle": "To Love the Damned",
+      "masterOriginalTitle": "Maledetti vi amerò",
+      "masterDirector": "Marco Tullio Giordana",
+      "masterYear": 1980
+    },
+    {
+      "year": 1980,
+      "section": "Competición oficial",
+      "title": "Opname",
+      "director": "Marja Kok, Erik van Zuylen",
+      "masterFile": "Catalogo_Telegram_1979.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 624,
+      "masterTitle": "Opname",
+      "masterOriginalTitle": "Opname",
+      "masterDirector": "Marja Kok, Erik van Zuylen",
+      "masterYear": 1979
+    },
+    {
+      "year": 1981,
+      "section": "Competición oficial",
+      "title": "Céleste",
+      "director": "Percy Adlon",
+      "masterFile": "Catalogo_Telegram_1980.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 437,
+      "masterTitle": "Céleste",
+      "masterOriginalTitle": "Céleste",
+      "masterDirector": "Percy Adlon",
+      "masterYear": 1981
+    },
+    {
+      "year": 1982,
+      "section": "Competición oficial",
+      "title": "Forty Deuce",
+      "director": "Paul Morrissey",
+      "masterFile": "Catalogo_Telegram_1982.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 607,
+      "masterTitle": "Forty Deuce",
+      "masterOriginalTitle": "Forty Deuce",
+      "masterDirector": "Paul Morrissey",
+      "masterYear": 1982
+    },
+    {
+      "year": 1982,
+      "section": "Competición oficial",
+      "title": "Wênd Kûuni",
+      "director": "Gaston Kaboré",
+      "masterFile": "Catalogo_Telegram_1982.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 471,
+      "masterTitle": "Wênd Kûuni",
+      "masterOriginalTitle": "Wênd Kûuni",
+      "masterDirector": "Gaston Kaboré",
+      "masterYear": 1983
+    },
+    {
+      "year": 1984,
+      "section": "Competición oficial",
+      "title": "The Terence Davies Trilogy",
+      "director": "Terence Davies",
+      "masterFile": "Catalogo_Telegram_1984.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 180,
+      "masterTitle": "The Terence Davies Trilogy",
+      "masterOriginalTitle": "The Terence Davies Trilogy",
+      "masterDirector": "Terence Davies",
+      "masterYear": 1984
+    },
+    {
+      "year": 1984,
+      "section": "Competición oficial",
+      "title": "Almanaque de otoño",
+      "director": "Tarr Béla",
+      "masterFile": "Catalogo_Telegram_1984.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 198,
+      "masterTitle": "Almanaque de otoño",
+      "masterOriginalTitle": "Őszi almanach",
+      "masterDirector": "Tarr Béla",
+      "masterYear": 1984
+    },
+    {
+      "year": 1984,
+      "section": "Competición oficial",
+      "title": "Extraños En El Paraíso",
+      "director": "Jim Jarmusch",
+      "masterFile": "Catalogo_Telegram_1984.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 26,
+      "masterTitle": "Extraños En El Paraíso",
+      "masterOriginalTitle": "Stranger Than Paradise",
+      "masterDirector": "Jim Jarmusch",
+      "masterYear": 1984
+    },
+    {
+      "year": 1985,
+      "section": "Competición oficial",
+      "title": "Media hora más contigo",
+      "director": "Donna Deitch",
+      "masterFile": "Catalogo_Telegram_1985.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 228,
+      "masterTitle": "Media hora más contigo",
+      "masterOriginalTitle": "Desert Hearts",
+      "masterDirector": "Donna Deitch",
+      "masterYear": 1985
+    },
+    {
+      "year": 1985,
+      "section": "Competición oficial",
+      "title": "Fuego en las alturas",
+      "director": "Fredi M. Murer",
+      "masterFile": "Catalogo_Telegram_1985.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 248,
+      "masterTitle": "Fuego en las alturas",
+      "masterOriginalTitle": "Höhenfeuer",
+      "masterDirector": "Fredi M. Murer",
+      "masterYear": 1985
+    },
+    {
+      "year": 1986,
+      "section": "Competición oficial",
+      "title": "Lamb",
+      "director": "Colin Gregg",
+      "masterFile": "Catalogo_Telegram_1985.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 539,
+      "masterTitle": "Lamb",
+      "masterOriginalTitle": "Lamb",
+      "masterDirector": "Colin Gregg",
+      "masterYear": 1986
+    },
+    {
+      "year": 1988,
+      "section": "Competición oficial",
+      "title": "36 Fillette",
+      "director": "Catherine Breillat",
+      "masterFile": "Catalogo_Telegram_1988.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 587,
+      "masterTitle": "36 Fillette",
+      "masterOriginalTitle": "36 Fillette",
+      "masterDirector": "Catherine Breillat",
+      "masterYear": 1988
+    },
+    {
+      "year": 1988,
+      "section": "Competición oficial",
+      "title": "Voces distantes",
+      "director": "Terence Davies",
+      "masterFile": "Catalogo_Telegram_1988.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 127,
+      "masterTitle": "Voces Distantes",
+      "masterOriginalTitle": "Distant Voices, Still Lives",
+      "masterDirector": "Terence Davies",
+      "masterYear": 1988
+    },
+    {
+      "year": 1988,
+      "section": "Competición oficial",
+      "title": "La vida en video",
+      "director": "Atom Egoyan",
+      "masterFile": "Catalogo_Telegram_1987.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 229,
+      "masterTitle": "La vida en video",
+      "masterOriginalTitle": "Family Viewing",
+      "masterDirector": "Atom Egoyan",
+      "masterYear": 1987
+    },
+    {
+      "year": 1989,
+      "section": "Competición oficial",
+      "title": "El séptimo continente",
+      "director": "Michael Haneke",
+      "masterFile": "Catalogo_Telegram_1989.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 58,
+      "masterTitle": "El séptimo continente",
+      "masterOriginalTitle": "Der siebente Kontinent",
+      "masterDirector": "Michael Haneke",
+      "masterYear": 1989
+    },
+    {
+      "year": 1990,
+      "section": "Competición oficial",
+      "title": "Henry: Retrato de un asesino",
+      "director": "John McNaughton",
+      "masterFile": "Catalogo_Telegram_1986.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 37,
+      "masterTitle": "Henry: Retrato de un asesino",
+      "masterOriginalTitle": "Henry: Portrait of a Serial Killer",
+      "masterDirector": "John McNaughton",
+      "masterYear": 1986
+    },
+    {
+      "year": 1990,
+      "section": "Competición oficial",
+      "title": "Viaje a la esperanza",
+      "director": "Xavier Koller",
+      "masterFile": "Catalogo_Telegram_1990.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 236,
+      "masterTitle": "Viaje a la esperanza",
+      "masterOriginalTitle": "Reise der Hoffnung",
+      "masterDirector": "Xavier Koller",
+      "masterYear": 1990
+    },
+    {
+      "year": 1990,
+      "section": "Competición oficial",
+      "title": "Szürkület",
+      "director": "György Fehér",
+      "masterFile": "Catalogo_Telegram_1990.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 210,
+      "masterTitle": "Szürkület",
+      "masterOriginalTitle": "Szürkület",
+      "masterDirector": "György Fehér",
+      "masterYear": 1990
+    },
+    {
+      "year": 1990,
+      "section": "Competición oficial",
+      "title": "La piel que brilla",
+      "director": "Philip Ridley",
+      "masterFile": "Catalogo_Telegram_1990.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 155,
+      "masterTitle": "La piel que brilla",
+      "masterOriginalTitle": "The Reflecting Skin",
+      "masterDirector": "Philip Ridley",
+      "masterYear": 1990
+    },
+    {
+      "year": 1990,
+      "section": "Competición oficial",
+      "title": "Metropolitan",
+      "director": "Whit Stillman",
+      "masterFile": "Catalogo_Telegram_1990.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 160,
+      "masterTitle": "Metropolitan",
+      "masterOriginalTitle": "Metropolitan",
+      "masterDirector": "Whit Stillman",
+      "masterYear": 1990
+    },
+    {
+      "year": 1991,
+      "section": "Competición oficial",
+      "title": "H",
+      "director": "Darrell Wasyk",
+      "masterFile": "Catalogo_Telegram_1990.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 300,
+      "masterTitle": "H",
+      "masterOriginalTitle": "H",
+      "masterDirector": "Darrell Wasyk",
+      "masterYear": 1990
+    },
+    {
+      "year": 1991,
+      "section": "Competición oficial",
+      "title": "Johnny Suede",
+      "director": "Tom DiCillo",
+      "masterFile": "Catalogo_Telegram_1991.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 122,
+      "masterTitle": "Johnny Suede",
+      "masterOriginalTitle": "Johnny Suede",
+      "masterDirector": "Tom DiCillo",
+      "masterYear": 1991
+    },
+    {
+      "year": 1992,
+      "section": "Competición oficial",
+      "title": "Rapado",
+      "director": "Martín Rejtman",
+      "masterFile": "Catalogo_Telegram_1992.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 252,
+      "masterTitle": "Rapado",
+      "masterOriginalTitle": "Rapado",
+      "masterDirector": "Martín Rejtman",
+      "masterYear": 1992
+    },
+    {
+      "year": 1993,
+      "section": "Competición oficial",
+      "title": "La vida conyugal",
+      "director": "Carlos Carrera",
+      "masterFile": "Catalogo_Telegram_1993.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 534,
+      "masterTitle": "La vida conyugal",
+      "masterOriginalTitle": "La vida conyugal",
+      "masterDirector": "Carlos Carrera",
+      "masterYear": 1993
+    },
+    {
+      "year": 1993,
+      "section": "Competición oficial",
+      "title": "Travolta et moi",
+      "director": "Patricia Mazuy",
+      "masterFile": "Catalogo_Telegram_1994.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 221,
+      "masterTitle": "Travolta et moi",
+      "masterOriginalTitle": "Travolta et moi",
+      "masterDirector": "Patricia Mazuy",
+      "masterYear": 1994
+    },
+    {
+      "year": 1993,
+      "section": "Competición oficial",
+      "title": "Au nom du Christ",
+      "director": "Roger Gnoan M'Bala",
+      "masterFile": "Catalogo_Telegram_1993.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 414,
+      "masterTitle": "Au nom du Christ",
+      "masterOriginalTitle": "Au nom du Christ",
+      "masterDirector": "Roger Gnoan M'Bala",
+      "masterYear": 1993
+    },
+    {
+      "year": 1993,
+      "section": "Competición oficial",
+      "title": "Movida del 76",
+      "director": "Richard Linklater",
+      "masterFile": "Catalogo_Telegram_1993.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 64,
+      "masterTitle": "Movida del 76",
+      "masterOriginalTitle": "Dazed and Confused",
+      "masterDirector": "Richard Linklater",
+      "masterYear": 1993
+    },
+    {
+      "year": 1994,
+      "section": "Competición oficial",
+      "title": "Lou no dice que no",
+      "director": "Anne-Marie Miéville",
+      "masterFile": "Catalogo_Telegram_1994.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 219,
+      "masterTitle": "Lou no dice que no",
+      "masterOriginalTitle": "Lou n'a pas dit non",
+      "masterDirector": "Anne-Marie Miéville",
+      "masterYear": 1994
+    },
+    {
+      "year": 1995,
+      "section": "Competición oficial",
+      "title": "Gonin",
+      "director": "Takashi Ishii",
+      "masterFile": "Catalogo_Telegram_1995.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 549,
+      "masterTitle": null,
+      "masterOriginalTitle": "Gonin",
+      "masterDirector": "Takashi Ishii",
+      "masterYear": 1995
+    },
+    {
+      "year": 1996,
+      "section": "Competición oficial",
+      "title": "Nénette et Boni",
+      "director": "Claire Denis",
+      "masterFile": "Catalogo_Telegram_1996.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 270,
+      "masterTitle": "Nénette et Boni",
+      "masterOriginalTitle": "Nénette et Boni",
+      "masterDirector": "Claire Denis",
+      "masterYear": 1996
+    },
+    {
+      "year": 1996,
+      "section": "Competición oficial",
+      "title": "Los conspiradores del placer",
+      "director": "Jan Švankmajer",
+      "masterFile": "Catalogo_Telegram_1996.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 211,
+      "masterTitle": "Los conspiradores del placer",
+      "masterOriginalTitle": "Spiklenci slasti",
+      "masterDirector": "Jan Švankmajer",
+      "masterYear": 1996
+    },
+    {
+      "year": 1997,
+      "section": "Competición oficial",
+      "title": "Gadjo Dilo",
+      "director": "Tony Gatlif",
+      "masterFile": "Catalogo_Telegram_1997.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 164,
+      "masterTitle": "Gadjo Dilo",
+      "masterOriginalTitle": "Gadjo Dilo",
+      "masterDirector": "Tony Gatlif",
+      "masterYear": 1997
+    },
+    {
+      "year": 1997,
+      "section": "Competición oficial",
+      "title": "Soñadores",
+      "director": "Tom Tykwer",
+      "masterFile": "Catalogo_Telegram_1997.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 323,
+      "masterTitle": "Soñadores",
+      "masterOriginalTitle": "Winterschläfer",
+      "masterDirector": "Tom Tykwer",
+      "masterYear": 1997
+    },
+    {
+      "year": 1998,
+      "section": "Competición oficial",
+      "title": "Sombre",
+      "director": "Philippe Grandrieux",
+      "masterFile": "Catalogo_Telegram_1998.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 266,
+      "masterTitle": "Sombre",
+      "masterOriginalTitle": "Sombre",
+      "masterDirector": "Philippe Grandrieux",
+      "masterYear": 1998
+    },
+    {
+      "year": 1998,
+      "section": "Competición oficial",
+      "title": "Corto y con filo",
+      "director": "Fatih Akin",
+      "masterFile": "Catalogo_Telegram_1998.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 249,
+      "masterTitle": "Corto y con filo",
+      "masterOriginalTitle": "Kurz und schmerzlos",
+      "masterDirector": "Fatih Akin",
+      "masterYear": 1998
+    },
+    {
+      "year": 1998,
+      "section": "Competición oficial",
+      "title": "23",
+      "director": "Hans-Christian Schmid",
+      "masterFile": "Catalogo_Telegram_1998.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 576,
+      "masterTitle": null,
+      "masterOriginalTitle": "23",
+      "masterDirector": "Hans-Christian Schmid",
+      "masterYear": 1998
+    },
+    {
+      "year": 1998,
+      "section": "Competición oficial",
+      "title": "El árbol de las cerezas",
+      "director": "Marc Recha",
+      "masterFile": "Catalogo_Telegram_1998.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 367,
+      "masterTitle": "El árbol de las cerezas",
+      "masterOriginalTitle": "L’arbre de les cireres",
+      "masterDirector": "Marc Recha",
+      "masterYear": 1998
+    },
+    {
+      "year": 1999,
+      "section": "Competición oficial",
+      "title": "El milagro de P. Tinto",
+      "director": "Javier Fesser",
+      "masterFile": "Catalogo_Telegram_1998.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 28,
+      "masterTitle": "El milagro de P. Tinto",
+      "masterOriginalTitle": "El milagro de P. Tinto",
+      "masterDirector": "Javier Fesser",
+      "masterYear": 1998
+    },
+    {
+      "year": 1999,
+      "section": "Competición oficial",
+      "title": "Persiguiendo sueños",
+      "director": "Ed Radtke",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 589,
+      "masterTitle": "Persiguiendo sueños",
+      "masterOriginalTitle": "The Dream Catcher",
+      "masterDirector": "Ed Radtke",
+      "masterYear": 2000
+    },
+    {
+      "year": 1999,
+      "section": "Competición oficial",
+      "title": "Ainsi soit-il",
+      "director": "Gérard Blain",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 396,
+      "masterTitle": "Ainsi soit-il",
+      "masterOriginalTitle": "Ainsi soit-il",
+      "masterDirector": "Gérard Blain",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Competición oficial",
+      "title": "En el cuarto de Vanda",
+      "director": "Pedro Costa",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 303,
+      "masterTitle": "En el cuarto de Vanda",
+      "masterOriginalTitle": "No Quarto da Vanda",
+      "masterDirector": "Pedro Costa",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Competición oficial",
+      "title": "Hamlet, una historia eterna",
+      "director": "Michael Almereyda",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 277,
+      "masterTitle": "Hamlet, una historia eterna",
+      "masterOriginalTitle": "Hamlet",
+      "masterDirector": "Michael Almereyda",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Competición oficial",
+      "title": "101 Reykjavík",
+      "director": "Baltasar Kormákur",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 285,
+      "masterTitle": "101 Reykjavík",
+      "masterOriginalTitle": "101 Reykjavík",
+      "masterDirector": "Baltasar Kormákur",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Competición oficial",
+      "title": "Fóllame",
+      "director": "Coralie Trinh Thi, Virginie Despentes",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 164,
+      "masterTitle": "Fóllame",
+      "masterOriginalTitle": "Baise-moi",
+      "masterDirector": "Coralie Trinh Thi, Virginie Despentes",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Pardi di domani · concurso internacional · cortometrajes premiados",
+      "title": "Bancos",
+      "director": "Santi Amodeo, Alberto Rodríguez",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 309,
+      "masterTitle": "Bancos",
+      "masterOriginalTitle": "Bancos",
+      "masterDirector": "Santi Amodeo, Alberto Rodríguez",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Pardi di domani · concurso internacional · cortometrajes premiados",
+      "title": "El equipaje abierto",
+      "director": "Javier Rebollo",
+      "masterFile": "Catalogo_Telegram_1999.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 444,
+      "masterTitle": "El equipaje abierto",
+      "masterOriginalTitle": "El equipaje abierto",
+      "masterDirector": "Javier Rebollo",
+      "masterYear": 1999
+    },
+    {
+      "year": 2000,
+      "section": "Pardi di domani · concurso internacional · cortometrajes premiados",
+      "title": "En malas compañías",
+      "director": "Antonio Hens",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 471,
+      "masterTitle": "En malas compañías",
+      "masterOriginalTitle": "En malas compañías",
+      "masterDirector": "Antonio Hens",
+      "masterYear": 2000
+    },
+    {
+      "year": 2000,
+      "section": "Piazza Grande · premiadas",
+      "title": "El hombre sin sombra",
+      "director": "Paul Verhoeven",
+      "masterFile": "Catalogo_Telegram_2000.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 78,
+      "masterTitle": "El hombre sin sombra",
+      "masterOriginalTitle": "Hollow Man",
+      "masterDirector": "Paul Verhoeven",
+      "masterYear": 2000
+    },
+    {
+      "year": 2001,
+      "section": "Competición oficial",
+      "title": "Baby Boy",
+      "director": "John Singleton",
+      "masterFile": "Catalogo_Telegram_2001.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 277,
+      "masterTitle": "Baby Boy",
+      "masterOriginalTitle": "Baby Boy",
+      "masterDirector": "John Singleton",
+      "masterYear": 2001
+    },
+    {
+      "year": 2001,
+      "section": "Competición oficial",
+      "title": "A la revolución en un dos caballos",
+      "director": "Maurizio Sciarra",
+      "masterFile": "Catalogo_Telegram_2001.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 540,
+      "masterTitle": "A la revolución en un dos caballos",
+      "masterOriginalTitle": "Alla rivoluzione sulla due cavalli",
+      "masterDirector": "Maurizio Sciarra",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Mr. and Mrs. Iyer",
+      "director": "Aparna Sen",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 443,
+      "masterTitle": "Mr. and Mrs. Iyer",
+      "masterOriginalTitle": "Mr. and Mrs. Iyer",
+      "masterDirector": "Aparna Sen",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Secretary",
+      "director": "Steven Shainberg",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 86,
+      "masterTitle": "Secretary",
+      "masterOriginalTitle": "Secretary",
+      "masterDirector": "Steven Shainberg",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Gerry",
+      "director": "Gus Van Sant",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 91,
+      "masterTitle": "Gerry",
+      "masterOriginalTitle": "Gerry",
+      "masterDirector": "Gus Van Sant",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Retratos de una obsesión",
+      "director": "Mark Romanek",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 84,
+      "masterTitle": "Retratos de una obsesión",
+      "masterOriginalTitle": "One Hour Photo",
+      "masterDirector": "Mark Romanek",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Intimidades",
+      "director": "Rebecca Miller",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 526,
+      "masterTitle": "Intimidades",
+      "masterOriginalTitle": "Personal Velocity",
+      "masterDirector": "Rebecca Miller",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Tan de repente",
+      "director": "Diego Lerman",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 554,
+      "masterTitle": "Tan de repente",
+      "masterOriginalTitle": "Tan de repente",
+      "masterDirector": "Diego Lerman",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Competición oficial",
+      "title": "Al primo soffio di vento",
+      "director": "Franco Piavoli",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 405,
+      "masterTitle": "Al primo soffio di vento",
+      "masterOriginalTitle": "Al primo soffio di vento",
+      "masterDirector": "Franco Piavoli",
+      "masterYear": 2002
+    },
+    {
+      "year": 2002,
+      "section": "Piazza Grande · premiadas",
+      "title": "Quiero ser como Beckham",
+      "director": "Gurinder Chadha",
+      "masterFile": "Catalogo_Telegram_2002.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 63,
+      "masterTitle": "Quiero ser como Beckham",
+      "masterOriginalTitle": "Bend It Like Beckham",
+      "masterDirector": "Gurinder Chadha",
+      "masterYear": 2002
+    },
+    {
+      "year": 2003,
+      "section": "Competición oficial",
+      "title": "Dependencia sexual",
+      "director": "Rodrigo Bellott",
+      "masterFile": "Catalogo_Telegram_2003.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 587,
+      "masterTitle": "Dependencia sexual",
+      "masterOriginalTitle": "Dependencia sexual",
+      "masterDirector": "Rodrigo Bellott",
+      "masterYear": 2003
+    },
+    {
+      "year": 2003,
+      "section": "Competición oficial",
+      "title": "Gori vatra",
+      "director": "Pjer Žalica",
+      "masterFile": "Catalogo_Telegram_2003.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 630,
+      "masterTitle": "Gori vatra",
+      "masterOriginalTitle": "Gori vatra",
+      "masterDirector": "Pjer Žalica",
+      "masterYear": 2003
+    },
+    {
+      "year": 2003,
+      "section": "Competición oficial",
+      "title": "16 Years of Alcohol",
+      "director": "Richard Jobson",
+      "masterFile": "Catalogo_Telegram_2003.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 586,
+      "masterTitle": "16 Years of Alcohol",
+      "masterOriginalTitle": "16 Years of Alcohol",
+      "masterDirector": "Richard Jobson",
+      "masterYear": 2003
+    },
+    {
+      "year": 2003,
+      "section": "Competición oficial",
+      "title": "Thirteen",
+      "director": "Catherine Hardwicke",
+      "masterFile": "Catalogo_Telegram_2003.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 68,
+      "masterTitle": "Thirteen",
+      "masterOriginalTitle": "Thirteen",
+      "masterDirector": "Catherine Hardwicke",
+      "masterYear": 2003
+    },
+    {
+      "year": 2003,
+      "section": "Competición oficial",
+      "title": "Los guantes mágicos",
+      "director": "Martín Rejtman",
+      "masterFile": "Catalogo_Telegram_2003.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 399,
+      "masterTitle": "Los guantes mágicos",
+      "masterOriginalTitle": "Los guantes mágicos",
+      "masterDirector": "Martín Rejtman",
+      "masterYear": 2003
+    },
+    {
+      "year": 2003,
+      "section": "Piazza Grande · premiadas",
+      "title": "El milagro de Berna",
+      "director": "Sönke Wortmann",
+      "masterFile": "Catalogo_Telegram_2003.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 483,
+      "masterTitle": "El milagro de Berna",
+      "masterOriginalTitle": "Das Wunder von Bern",
+      "masterDirector": "Sönke Wortmann",
+      "masterYear": 2003
+    },
+    {
+      "year": 2004,
+      "section": "Competición oficial",
+      "title": "Domicilio privado",
+      "director": "Saverio Costanzo",
+      "masterFile": "Catalogo_Telegram_2004.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 477,
+      "masterTitle": "Domicilio Privado",
+      "masterOriginalTitle": "Private",
+      "masterDirector": "Saverio Costanzo",
+      "masterYear": 2004
+    },
+    {
+      "year": 2005,
+      "section": "Competición oficial",
+      "title": "20 Centímetros",
+      "director": "Ramón Salazar",
+      "masterFile": "Catalogo_Telegram_2005.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 258,
+      "masterTitle": "20 Centímetros",
+      "masterOriginalTitle": "20 Centímetros",
+      "masterDirector": "Ramón Salazar",
+      "masterYear": 2005
+    },
+    {
+      "year": 2005,
+      "section": "Competición oficial",
+      "title": "Nueve vidas",
+      "director": "Rodrigo García",
+      "masterFile": "Catalogo_Telegram_2005.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 180,
+      "masterTitle": "Nueve vidas",
+      "masterOriginalTitle": "Nine Lives",
+      "masterDirector": "Rodrigo García",
+      "masterYear": 2005
+    },
+    {
+      "year": 2005,
+      "section": "Competición oficial",
+      "title": "La máscara de cristal (MirrorMask)",
+      "director": "Dave McKean",
+      "masterFile": "Catalogo_Telegram_2005.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 276,
+      "masterTitle": "La máscara de cristal",
+      "masterOriginalTitle": "MirrorMask",
+      "masterDirector": "Dave McKean",
+      "masterYear": 2005
+    },
+    {
+      "year": 2006,
+      "section": "Competición oficial",
+      "title": "Half Nelson",
+      "director": "Ryan Fleck",
+      "masterFile": "Catalogo_Telegram_2006.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 78,
+      "masterTitle": "Half Nelson",
+      "masterOriginalTitle": "Half Nelson",
+      "masterDirector": "Ryan Fleck",
+      "masterYear": 2006
+    },
+    {
+      "year": 2006,
+      "section": "Competición oficial",
+      "title": "Fireworks wednesday",
+      "director": "Asghar Farhadi",
+      "masterFile": "Catalogo_Telegram_2006.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 594,
+      "masterTitle": "Fireworks wednesday",
+      "masterOriginalTitle": "چهارشنبه سوری",
+      "masterDirector": "Asghar Farhadi",
+      "masterYear": 2006
+    },
+    {
+      "year": 2006,
+      "section": "Competición oficial",
+      "title": "Días de agosto",
+      "director": "Marc Recha",
+      "masterFile": "Catalogo_Telegram_2006.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 712,
+      "masterTitle": "Días de agosto",
+      "masterOriginalTitle": "Dies d’agost",
+      "masterDirector": "Marc Recha",
+      "masterYear": 2006
+    },
+    {
+      "year": 2006,
+      "section": "Competición oficial",
+      "title": "El caso Daley",
+      "director": "Hilary Brougher",
+      "masterFile": "Catalogo_Telegram_2006.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 631,
+      "masterTitle": "El caso Daley",
+      "masterOriginalTitle": "Stephanie Daley",
+      "masterDirector": "Hilary Brougher",
+      "masterYear": 2007
+    },
+    {
+      "year": 2006,
+      "section": "Competición oficial",
+      "title": "La señorita",
+      "director": "Andrea Štaka",
+      "masterFile": "Catalogo_Telegram_2006.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 728,
+      "masterTitle": "Fraulein",
+      "masterOriginalTitle": "Das Fräulein",
+      "masterDirector": "Andrea Štaka",
+      "masterYear": 2006
+    },
+    {
+      "year": 2006,
+      "section": "Piazza Grande · premiadas",
+      "title": "La vida de los otros",
+      "director": "Florian Henckel von Donnersmarck",
+      "masterFile": "Catalogo_Telegram_2006.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 6,
+      "masterTitle": "La vida de los otros",
+      "masterOriginalTitle": "Das Leben der Anderen",
+      "masterDirector": "Florian Henckel von Donnersmarck",
+      "masterYear": 2006
+    },
+    {
+      "year": 2007,
+      "section": "Competición oficial",
+      "title": "Ladrones",
+      "director": "Jaime Marques",
+      "masterFile": "Catalogo_Telegram_2007.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 188,
+      "masterTitle": "Ladrones",
+      "masterOriginalTitle": "Ladrones",
+      "masterDirector": "Jaime Marques",
+      "masterYear": 2007
+    },
+    {
+      "year": 2007,
+      "section": "Competición oficial",
+      "title": "Lo mejor de mí",
+      "director": "Roser Aguilar",
+      "masterFile": "Catalogo_Telegram_2007.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 294,
+      "masterTitle": "Lo mejor de mí",
+      "masterOriginalTitle": "Lo mejor de mí",
+      "masterDirector": "Roser Aguilar",
+      "masterYear": 2007
+    },
+    {
+      "year": 2007,
+      "section": "Piazza Grande · premiadas",
+      "title": "Un funeral de muerte",
+      "director": "Frank Oz",
+      "masterFile": "Catalogo_Telegram_2007.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 34,
+      "masterTitle": "Un funeral de muerte",
+      "masterOriginalTitle": "Death at a Funeral",
+      "masterDirector": "Frank Oz",
+      "masterYear": 2007
+    },
+    {
+      "year": 2008,
+      "section": "Competición oficial",
+      "title": "Dioses",
+      "director": "Josué Méndez",
+      "masterFile": "Catalogo_Telegram_2008.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 755,
+      "masterTitle": "Dioses",
+      "masterOriginalTitle": "Dioses",
+      "masterDirector": "Josué Méndez",
+      "masterYear": 2008
+    },
+    {
+      "year": 2008,
+      "section": "Competición oficial",
+      "title": "Parque Vía",
+      "director": "Enrique Rivero",
+      "masterFile": "Catalogo_Telegram_2008.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 652,
+      "masterTitle": "Parque Vía",
+      "masterOriginalTitle": "Parque Vía",
+      "masterDirector": "Enrique Rivero",
+      "masterYear": 2008
+    },
+    {
+      "year": 2008,
+      "section": "Competición oficial",
+      "title": "Kisses",
+      "director": "Lance Daly",
+      "masterFile": "Catalogo_Telegram_2008.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 769,
+      "masterTitle": "Kisses",
+      "masterOriginalTitle": "Kisses",
+      "masterDirector": "Lance Daly",
+      "masterYear": 2008
+    },
+    {
+      "year": 2008,
+      "section": "Cineasti del presente · premiadas",
+      "title": "El principe de Broadway",
+      "director": "Sean Baker",
+      "masterFile": "Catalogo_Telegram_2008.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 545,
+      "masterTitle": "El principe de Broadway",
+      "masterOriginalTitle": "Prince of Broadway",
+      "masterDirector": "Sean Baker",
+      "masterYear": 2008
+    },
+    {
+      "year": 2008,
+      "section": "Piazza Grande · premiadas",
+      "title": "El hijo de Rambow",
+      "director": "Garth Jennings",
+      "masterFile": "Catalogo_Telegram_2007.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 227,
+      "masterTitle": "El hijo de Rambow",
+      "masterOriginalTitle": "Son of Rambow",
+      "masterDirector": "Garth Jennings",
+      "masterYear": 2007
+    },
+    {
+      "year": 2009,
+      "section": "Competición oficial",
+      "title": "La monja portuguesa",
+      "director": "Eugène Green",
+      "masterFile": "Catalogo_Telegram_2009.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 571,
+      "masterTitle": "La monja portuguesa",
+      "masterOriginalTitle": "A Religiosa Portuguesa",
+      "masterDirector": "Eugène Green",
+      "masterYear": 2009
+    },
+    {
+      "year": 2009,
+      "section": "Competición oficial",
+      "title": "Nada personal",
+      "director": "Urszula Antoniak",
+      "masterFile": "Catalogo_Telegram_2009.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 290,
+      "masterTitle": "Nada personal",
+      "masterOriginalTitle": "Nothing Personal",
+      "masterDirector": "Urszula Antoniak",
+      "masterYear": 2009
+    },
+    {
+      "year": 2010,
+      "section": "Competición oficial",
+      "title": "Womb",
+      "director": "Benedek Fliegauf",
+      "masterFile": "Catalogo_Telegram_2010.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 378,
+      "masterTitle": "Womb",
+      "masterOriginalTitle": "Womb",
+      "masterDirector": "Benedek Fliegauf",
+      "masterYear": 2010
+    },
+    {
+      "year": 2010,
+      "section": "Competición oficial",
+      "title": "Morgen",
+      "director": "Marian Crișan",
+      "masterFile": "Catalogo_Telegram_2010.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 794,
+      "masterTitle": "Morgen",
+      "masterOriginalTitle": "Morgen",
+      "masterDirector": "Marian Crișan",
+      "masterYear": 2010
+    },
+    {
+      "year": 2010,
+      "section": "Competición oficial",
+      "title": "Curling",
+      "director": "Denis Côté",
+      "masterFile": "Catalogo_Telegram_2010.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 768,
+      "masterTitle": "Curling",
+      "masterOriginalTitle": "Curling",
+      "masterDirector": "Denis Côté",
+      "masterYear": 2010
+    },
+    {
+      "year": 2010,
+      "section": "Competición oficial",
+      "title": "Cold Weather",
+      "director": "Aaron Katz",
+      "masterFile": "Catalogo_Telegram_2010.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 709,
+      "masterTitle": "Cold Weather",
+      "masterOriginalTitle": "Cold Weather",
+      "masterDirector": "Aaron Katz",
+      "masterYear": 2010
+    },
+    {
+      "year": 2011,
+      "section": "Competición oficial",
+      "title": "Un planeta solitario",
+      "director": "Julia Loktev",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 693,
+      "masterTitle": "Un planeta solitario",
+      "masterOriginalTitle": "The Loneliest Planet",
+      "masterDirector": "Julia Loktev",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Competición oficial",
+      "title": "Primer amor (Un amour de jeunesse)",
+      "director": "Mia Hansen-Løve",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 261,
+      "masterTitle": "Primer amor (Un amour de jeunesse)",
+      "masterOriginalTitle": "Un amour de jeunesse",
+      "masterDirector": "Mia Hansen-Løve",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Competición oficial",
+      "title": "Terri",
+      "director": "Azazel Jacobs",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 522,
+      "masterTitle": "Terri",
+      "masterOriginalTitle": "Terri",
+      "masterDirector": "Azazel Jacobs",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Competición oficial",
+      "title": "Abrir puertas y ventanas",
+      "director": "Milagros Mumenthaler",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 532,
+      "masterTitle": "Abrir puertas y ventanas",
+      "masterOriginalTitle": "Abrir puertas y ventanas",
+      "masterDirector": "Milagros Mumenthaler",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Competición oficial",
+      "title": "Dernière séance",
+      "director": "Laurent Achard",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 602,
+      "masterTitle": "Dernière séance",
+      "masterOriginalTitle": "Dernière séance",
+      "masterDirector": "Laurent Achard",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Competición oficial",
+      "title": "Crulic, camino al más allá",
+      "director": "Anca Damian",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 628,
+      "masterTitle": "Crulic, camino al más allá",
+      "masterOriginalTitle": "Crulic - Drumul spre dincolo",
+      "masterDirector": "Anca Damian",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Cineasti del presente · premiadas",
+      "title": "El estudiante",
+      "director": "Santiago Mitre",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 316,
+      "masterTitle": "El estudiante",
+      "masterOriginalTitle": "El estudiante",
+      "masterDirector": "Santiago Mitre",
+      "masterYear": 2011
+    },
+    {
+      "year": 2011,
+      "section": "Cineasti del presente · premiadas",
+      "title": "Nana",
+      "director": "Valérie Massadian",
+      "masterFile": "Catalogo_Telegram_2011.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 708,
+      "masterTitle": "Nana",
+      "masterOriginalTitle": "Nana",
+      "masterDirector": "Valérie Massadian",
+      "masterYear": 2011
+    },
+    {
+      "year": 2012,
+      "section": "Competición oficial",
+      "title": "Museum Hours",
+      "director": "Jem Cohen",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 523,
+      "masterTitle": "Museum Hours",
+      "masterOriginalTitle": "Museum Hours",
+      "masterDirector": "Jem Cohen",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Competición oficial",
+      "title": "Starlet",
+      "director": "Sean Baker",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 386,
+      "masterTitle": "Starlet",
+      "masterOriginalTitle": "Starlet",
+      "masterDirector": "Sean Baker",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Competición oficial",
+      "title": "La fille de nulle part",
+      "director": "Jean-Claude Brisseau",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 518,
+      "masterTitle": "La fille de nulle part",
+      "masterOriginalTitle": "La Fille de nulle part",
+      "masterDirector": "Jean-Claude Brisseau",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Competición oficial",
+      "title": "Compliance",
+      "director": "Craig Zobel",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 208,
+      "masterTitle": "Compliance",
+      "masterOriginalTitle": "Compliance",
+      "masterDirector": "Craig Zobel",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Competición oficial",
+      "title": "Berberian Sound Studio",
+      "director": "Peter Strickland",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 222,
+      "masterTitle": "Berberian Sound Studio",
+      "masterOriginalTitle": "Berberian Sound Studio",
+      "masterDirector": "Peter Strickland",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Competición oficial",
+      "title": "Leviatán",
+      "director": "Lucien Castaing-Taylor, Véréna Paravel",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 547,
+      "masterTitle": "Leviatán",
+      "masterOriginalTitle": "Leviathan",
+      "masterDirector": "Lucien Castaing-Taylor, Véréna Paravel",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Piazza Grande · premiadas",
+      "title": "Camille redouble",
+      "director": "Noémie Lvovsky",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 569,
+      "masterTitle": "Camille redouble",
+      "masterOriginalTitle": "Camille redouble",
+      "masterDirector": "Noémie Lvovsky",
+      "masterYear": 2012
+    },
+    {
+      "year": 2012,
+      "section": "Piazza Grande · premiadas",
+      "title": "Lore",
+      "director": "Cate Shortland",
+      "masterFile": "Catalogo_Telegram_2012.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 187,
+      "masterTitle": "Lore",
+      "masterOriginalTitle": "Lore",
+      "masterDirector": "Cate Shortland",
+      "masterYear": 2012
+    },
+    {
+      "year": 2013,
+      "section": "Competición oficial",
+      "title": "E Agora? Lembra-me",
+      "director": "Joaquim Pinto",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 644,
+      "masterTitle": "E Agora? Lembra-me",
+      "masterOriginalTitle": "E Agora? Lembra-me",
+      "masterDirector": "Joaquim Pinto",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Competición oficial",
+      "title": "Historia de mi muerte",
+      "director": "Albert Serra",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 485,
+      "masterTitle": "Historia de mi muerte",
+      "masterOriginalTitle": "Història de la meva mort",
+      "masterDirector": "Albert Serra",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Competición oficial",
+      "title": "Wetlands",
+      "director": "David Wnendt",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 462,
+      "masterTitle": "Wetlands",
+      "masterOriginalTitle": "Feuchtgebiete",
+      "masterDirector": "David Wnendt",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Competición oficial",
+      "title": "El extraño color de las lágrimas de tu cuerpo",
+      "director": "Bruno Forzani, Hélène Cattet",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 575,
+      "masterTitle": "El extraño color de las lagrimas de tu cuerpo",
+      "masterOriginalTitle": "L'Étrange Couleur des larmes de ton corps",
+      "masterDirector": "Bruno Forzani, Hélène Cattet",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Competición oficial",
+      "title": "Une autre vie",
+      "director": "Emmanuel Mouret",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 627,
+      "masterTitle": "Une autre vie",
+      "masterOriginalTitle": "Une autre vie",
+      "masterDirector": "Emmanuel Mouret",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Competición oficial",
+      "title": "Pays barbare",
+      "director": "Angela Ricci Lucchi, Yervant Gianikian",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 654,
+      "masterTitle": "Pays barbare",
+      "masterOriginalTitle": "Pays barbare",
+      "masterDirector": "Angela Ricci Lucchi, Yervant Gianikian",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Cineasti del presente · premiadas",
+      "title": "Costa da Morte",
+      "director": "Lois Patiño",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 570,
+      "masterTitle": "Costa da Morte",
+      "masterOriginalTitle": "Costa da Morte",
+      "masterDirector": "Lois Patiño",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Piazza Grande · premiadas",
+      "title": "2 Guns",
+      "director": "Baltasar Kormákur",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 108,
+      "masterTitle": "2 Guns",
+      "masterOriginalTitle": "2 Guns",
+      "masterDirector": "Baltasar Kormákur",
+      "masterYear": 2013
+    },
+    {
+      "year": 2013,
+      "section": "Piazza Grande · premiadas",
+      "title": "Gabrielle",
+      "director": "Louise Archambault",
+      "masterFile": "Catalogo_Telegram_2013.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 566,
+      "masterTitle": "Gabrielle",
+      "masterOriginalTitle": "Gabrielle",
+      "masterDirector": "Louise Archambault",
+      "masterYear": 2013
+    },
+    {
+      "year": 2014,
+      "section": "Competición oficial",
+      "title": "Mula sa Kung Ano ang Noon",
+      "director": "Lav Diaz",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 634,
+      "masterTitle": "Mula sa Kung Ano ang Noon",
+      "masterOriginalTitle": "Mula sa Kung Ano ang Noon",
+      "masterDirector": "Lav Diaz",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Competición oficial",
+      "title": "Listen Up Philip",
+      "director": "Alex Ross Perry",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 768,
+      "masterTitle": "Listen Up Philip",
+      "masterOriginalTitle": "Listen Up Philip",
+      "masterDirector": "Alex Ross Perry",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Competición oficial",
+      "title": "La Sapienza",
+      "director": "Eugène Green",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 628,
+      "masterTitle": "La Sapienza",
+      "masterOriginalTitle": "La Sapienza",
+      "masterDirector": "Eugène Green",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Competición oficial",
+      "title": "Caballo dinero",
+      "director": "Pedro Costa",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 502,
+      "masterTitle": "Caballo dinero",
+      "masterOriginalTitle": "Cavalo Dinheiro",
+      "masterDirector": "Pedro Costa",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Competición oficial",
+      "title": "Dos disparos",
+      "director": "Martín Rejtman",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 677,
+      "masterTitle": "Dos disparos",
+      "masterOriginalTitle": "Dos disparos",
+      "masterDirector": "Martín Rejtman",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Competición oficial",
+      "title": "La princesa de Francia",
+      "director": "Matías Piñeiro",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 639,
+      "masterTitle": "La princesa de Francia",
+      "masterOriginalTitle": "La princesa de Francia",
+      "masterDirector": "Matías Piñeiro",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Cineasti del presente · premiadas",
+      "title": "Los hongos",
+      "director": "Oscar Ruiz Navia",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 795,
+      "masterTitle": "Los hongos",
+      "masterOriginalTitle": "Los Hongos",
+      "masterDirector": "Oscar Ruiz Navia",
+      "masterYear": 2014
+    },
+    {
+      "year": 2014,
+      "section": "Piazza Grande · premiadas",
+      "title": "La historia de Marie Heurtin",
+      "director": "Jean-Pierre Améris",
+      "masterFile": "Catalogo_Telegram_2014.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 374,
+      "masterTitle": "La historia de Marie Heurtin",
+      "masterOriginalTitle": "Marie Heurtin",
+      "masterDirector": "Jean-Pierre Améris",
+      "masterYear": 2014
+    },
+    {
+      "year": 2015,
+      "section": "Competición oficial",
+      "title": "No Home Movie",
+      "director": "Chantal Akerman",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 629,
+      "masterTitle": "No Home Movie",
+      "masterOriginalTitle": "No Home Movie",
+      "masterDirector": "Chantal Akerman",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Competición oficial",
+      "title": "Chevalier",
+      "director": "Athina Rachel Tsangari",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 545,
+      "masterTitle": "Chevalier",
+      "masterOriginalTitle": "Chevalier",
+      "masterDirector": "Athina Rachel Tsangari",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Competición oficial",
+      "title": "Schneider vs. Bax",
+      "director": "Alex van Warmerdam",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 602,
+      "masterTitle": "Schneider vs. Bax",
+      "masterOriginalTitle": "Schneider vs. Bax",
+      "masterDirector": "Alex van Warmerdam",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Competición oficial",
+      "title": "James White",
+      "director": "Josh Mond",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 656,
+      "masterTitle": "James White",
+      "masterOriginalTitle": "James White",
+      "masterDirector": "Josh Mond",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Competición oficial",
+      "title": "Te prometo anarquía",
+      "director": "Julio Hernández Cordón",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 758,
+      "masterTitle": "Te prometo anarquía",
+      "masterOriginalTitle": "Te prometo anarquía",
+      "masterDirector": "Julio Hernández Cordón",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Competición oficial",
+      "title": "O Futebol",
+      "director": "Sergio Oksman",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 652,
+      "masterTitle": "O Futebol",
+      "masterOriginalTitle": "O Futebol",
+      "masterDirector": "Sergio Oksman",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Cineasti del presente · premiadas",
+      "title": "Dead Slow Ahead",
+      "director": "Mauro Herce",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 588,
+      "masterTitle": "Dead Slow Ahead",
+      "masterOriginalTitle": "Dead Slow Ahead",
+      "masterDirector": "Mauro Herce",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Piazza Grande · premiadas",
+      "title": "Un amor de verano",
+      "director": "Catherine Corsini",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 227,
+      "masterTitle": "Un amor de verano",
+      "masterOriginalTitle": "La Belle Saison",
+      "masterDirector": "Catherine Corsini",
+      "masterYear": 2015
+    },
+    {
+      "year": 2015,
+      "section": "Piazza Grande · premiadas",
+      "title": "El caso Fritz Bauer",
+      "director": "Lars Kraume",
+      "masterFile": "Catalogo_Telegram_2015.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 264,
+      "masterTitle": "El caso Fritz Bauer",
+      "masterOriginalTitle": "Der Staat gegen Fritz Bauer",
+      "masterDirector": "Lars Kraume",
+      "masterYear": 2015
+    },
+    {
+      "year": 1982,
+      "section": "Competición oficial",
+      "title": "PANELKAPCSOLAT",
+      "director": "Béla Tarr",
+      "masterFile": "Catalogo_Telegram_1982.xlsx",
+      "sheet": "Catálogo",
+      "physicalRow": 179,
+      "masterTitle": "Panelkapcsolat",
+      "masterOriginalTitle": "Panelkapcsolat",
+      "masterDirector": "Tarr Béla",
+      "masterYear": 1982
+    }
+  ],
+  "ambiguous": [],
+  "notes": [
+    "Los palmarés históricos señalados como unofficial se conservan en la evidencia, no se presentan como premios oficiales.",
+    "Nominaciones EFA separadas de victorias.",
+    "Jurado paralelo y juvenil etiquetados cuando lo indica el archivo.",
+    "Identidades claras recuperadas de LAB y maestros, sin investigaciones ni pósteres nuevos.",
+    "Años presentes 2016–2026 preservados; otras familias intactas."
+  ],
+  "duplicateMasterEvidence": [
+    {
+      "year": 1982,
+      "title": "PANELKAPCSOLAT",
+      "rows": [
+        {
+          "file": "Catalogo_Telegram_1982.xlsx",
+          "row": 179,
+          "title": "Panelkapcsolat",
+          "year": 1982
+        },
+        {
+          "file": "Catalogo_Telegram_1982.xlsx",
+          "row": 619,
+          "title": "The Prefab People",
+          "year": 1982
+        }
+      ],
+      "resolution": "Fila con título original exacto, mismo director y año; variante inglesa conservada, maestros no modificados."
+    }
+  ]
+}
