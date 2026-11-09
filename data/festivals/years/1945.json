@@ -3045,6 +3045,70 @@
       ],
       "ceremonyNumber": 17,
       "ceremonyDate": "1945-03-15"
+    },
+    {
+      "festival": "Globos de Oro",
+      "year": 1945,
+      "section": "Categorías cinematográficas",
+      "sourceUrl": "https://goldenglobes.com/nominations/1945",
+      "films": [
+        {
+          "title": "Gaslight",
+          "director": "",
+          "award": "Actress In A Leading Role · Ingrid Bergman",
+          "nominations": [
+            "Actress In A Leading Role · Ingrid Bergman"
+          ],
+          "wins": [
+            "Actress In A Leading Role · Ingrid Bergman"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/gaslight/"
+        },
+        {
+          "title": "Wilson",
+          "director": "",
+          "award": "Actor In A Leading Role · Alexander Knox",
+          "nominations": [
+            "Actor In A Leading Role · Alexander Knox"
+          ],
+          "wins": [
+            "Actor In A Leading Role · Alexander Knox"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/wilson/"
+        },
+        {
+          "title": "Going My Way",
+          "director": "Leo McCarey",
+          "award": "Best Performance by an Actor in a Supporting Role in any Motion Picture · Barry Fitzgerald",
+          "nominations": [
+            "Best Performance by an Actor in a Supporting Role in any Motion Picture · Barry Fitzgerald",
+            "Best Director - Motion Picture · Leo McCarey",
+            "Picture"
+          ],
+          "wins": [
+            "Best Performance by an Actor in a Supporting Role in any Motion Picture · Barry Fitzgerald",
+            "Best Director - Motion Picture · Leo McCarey",
+            "Picture"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/going-my-way/"
+        },
+        {
+          "title": "Mrs. Parkington",
+          "director": "",
+          "award": "Best Performance by an Actress in a Supporting Role in any Motion Picture · Agnes Moorehead",
+          "nominations": [
+            "Best Performance by an Actress in a Supporting Role in any Motion Picture · Agnes Moorehead"
+          ],
+          "wins": [
+            "Best Performance by an Actress in a Supporting Role in any Motion Picture · Agnes Moorehead"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://goldenglobes.com/film/mrs-parkington/"
+        }
+      ]
     }
   ]
 }
