@@ -67,7 +67,7 @@ test('master reference lookup is cached, preserves metadata and never confuses h
  const target=refs.find(r=>r.d==='Marco Bellocchio'&&r.t==='El rapto');assert(target);
  const full=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,p:'approved'});assert.equal(full.u,target.u);assert.equal(full.p,'approved');
  const external=await context.FilmotecaFestivals.withReference({t:target.t,d:target.d,y:target.y,u:'https://www.themoviedb.org/movie/1'});assert.equal(external.u,target.u);
- const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,13);
+ const other={t:target.t,d:'Otro director',y:target.y};assert.equal(await context.FilmotecaFestivals.withReference(other),other);assert.equal(requests,14);
 });
 test('2025 additions preserve personal nominations, sections and corrected Sundance awards',()=>{
  const context=vm.createContext({});vm.runInContext(fs.readFileSync('app/festival-config.js','utf8'),context);
@@ -200,4 +200,16 @@ test('Seminci uses readable sections and the official 1980 Golden Spike instead 
  const winner=films.find(f=>f.title==='Profesión: ordenanza');
  assert(winner.wins.some(w=>w==='Espiga de Oro'));assert.equal(winner.filmYear,1978);
  const first=editions.filter(e=>e.year===1956);assert(first.every(e=>e.section.includes('no competitiva')));
+});
+
+test('Locarno historic archive adds missing editions and keeps official 2015 winner labels',()=>{
+ const db=JSON.parse(fs.readFileSync('data/festivals/festivals.json')).editions;
+ const historic=db.filter(e=>e.festival==='Locarno'&&e.year<=2015);
+ assert.equal(new Set(historic.map(e=>e.year)).size,68);
+ const main=historic.find(e=>e.year===2015&&e.section==='Competición oficial');assert.equal(main.films.length,19);
+ const winner=main.films.find(f=>[f.title,...(f.aliases||[])].some(t=>t.toLowerCase()==='right now, wrong then'));
+ assert(winner);assert(winner.wins.some(w=>/Pardo d.oro/i.test(w)));assert(winner.award.includes(winner.wins[0]));
+ const films2015=historic.filter(e=>e.year===2015).flatMap(e=>e.films);
+ assert(!films2015.some(f=>[f.title,...(f.aliases||[])].some(t=>t.toLowerCase()==='fils du loup')));
+ const earliest=historic.filter(e=>e.year===1946).flatMap(e=>e.films);assert(earliest.length>0);assert(earliest.every(f=>f.wins.length===0));
 });
