@@ -113,6 +113,33 @@
     "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#sundance",
     "award": false
   },
+  "Independent Spirit Awards": {
+    "label": "Independent Spirit Awards",
+    "icon": "#ico-festival",
+    "award": true,
+    "categories": [
+      "Mejor película",
+      "Mejor ópera prima",
+      "Premio John Cassavetes",
+      "Mejor dirección",
+      "Mejor guion",
+      "Mejor guion novel",
+      "Mejor interpretación protagonista",
+      "Mejor actriz",
+      "Mejor actor",
+      "Mejor interpretación de reparto",
+      "Mejor actriz secundaria",
+      "Mejor actor secundario",
+      "Mejor intérprete revelación",
+      "Mejor debut",
+      "Mejor película extranjera",
+      "Mejor largometraje documental",
+      "Mejor fotografía",
+      "Mejor montaje",
+      "Premio Robert Altman",
+      "Distinción Especial"
+    ]
+  },
   "Globos de Oro": {
     "label": "Globos de Oro · cine",
     "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#globos",
