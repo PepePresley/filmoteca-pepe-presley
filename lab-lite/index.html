@@ -526,7 +526,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=17"></script>
+<script src="../app/festival-config.js?v=18"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -962,7 +962,7 @@ function oscarCategories(fy,festival='Oscar'){
  const ed=oscarEditionRaw(fy,festival), set=new Set();
  (ed?.films||[]).forEach(f=>(f.nominations||[]).forEach(n=>set.add(oscarCategoryBase(n))));
  const arr=[...set];
- return arr.sort((a,b)=>{const order=FilmotecaFestivals.categoryOrder(festival).length?FilmotecaFestivals.categoryOrder(festival):(festival==='BAFTA'?BAFTA_CATEGORY_ORDER:OSCAR_CATEGORY_ORDER),ia=order.indexOf(a),ib=order.indexOf(b);return (ia<0?999:ia)-(ib<0?999:ib)||a.localeCompare(b,'es')});
+ return arr.sort((a,b)=>{const order=FilmotecaFestivals.categoryOrder(festival).length?FilmotecaFestivals.categoryOrder(festival):(festival==='BAFTA'?BAFTA_CATEGORY_ORDER:OSCAR_CATEGORY_ORDER);return FilmotecaFestivals.categoryRank(festival,a,order)-FilmotecaFestivals.categoryRank(festival,b,order)||a.localeCompare(b,'es')});
 }
 function rebuildOscarCategories(fy,festival='Oscar'){
  const cats=oscarCategories(fy,festival);
