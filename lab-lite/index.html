@@ -526,7 +526,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=16"></script>
+<script src="../app/festival-config.js?v=17"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -1122,27 +1122,30 @@ function festivalAwardPriority(ft,festival){
  const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
  const allText=normalize([ft.award,...(ft.wins||[])].filter(Boolean).join(' · '));
  if(festival==='Sitges'||festival==='Seminci'){
-  if((ft.wins||[]).map(normalize).some(p=>/^(espiga de oro|golden spike|mejor pelicula|best feature film in the sofc)(?:$|[ ·;(])/.test(p)))return 0;
+  if(allText.split(' · ').some(p=>/^(espiga de oro|golden spike|mejor pelicula|best feature film in the sofc)(?:$|[ ·;(])/.test(p)))return 0;
   if(/espiga de plata|silver spike/.test(allText))return 10;
   if(/premio especial del jurado|special jury/.test(allText))return 20;
   if(/direccion|director/.test(allText)&&!/revelacion|new director/.test(allText))return 30;
   if(/actriz|actor|interpretacion|actress/.test(allText))return 40;
   if(/guion|screenplay/.test(allText))return 50;
-  if(ft.wins?.length)return 70;
+  if(ft.wins?.length||/premio|prize|award|ganador/.test(allText))return 70;
   return 100;
  }
  if(festival==='Locarno'||festival==='Sundance'){
-  const prizes=(ft.wins||[]).map(normalize);
-  if(prizes.some(p=>/^(pardo de oro|pardo d.oro|u.s. grand jury prize|world cinema grand jury prize|next innovator)/.test(p)))return 0;
+  const prizes=(ft.wins?.length?ft.wins:[ft.award]).map(normalize);
+  if(prizes.some(p=>/^(pardo de oro|pardo d.oro|u.s. grand jury prize|world cinema grand jury prize)/.test(p)))return 0;
+  if(prizes.some(p=>/^(premio del publico|audience award)/.test(p)))return 10;
   if(prizes.some(p=>/^(premio especial del jurado|special jury award)/.test(p)))return 20;
   if(prizes.some(p=>/^(pardo a la mejor direccion|directing award)/.test(p)))return 30;
   if(prizes.some(p=>/^(pardo a la mejor interpretacion)/.test(p)))return 40;
   if(prizes.some(p=>/^(waldo salt)/.test(p)))return 50;
-  return prizes.length?70:100;
+  if(prizes.some(p=>/^(next innovator)/.test(p)))return 60;
+  return prizes.some(p=>/premio|prize|award|ganador/.test(p))?70:100;
  }
  const auxiliary=/fipresci|signis|ecumenic|ecumenical|teddy|sebastiane|otra mirada|solidaridad|irizar|guion vasco|feroz/;
  const text=allText.split(' · ').filter(prize=>!auxiliary.test(prize)).join(' · ');
- if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(allText))return 110;
+ if(/fuera de concurso|fuera de competicion|out of competition|sin competicion/.test(allText)
+    &&!/premio|prize|award|palma|palme|oso de oro|golden bear|leon de oro|golden lion|concha de oro|golden shell/.test(text))return 110;
  if(/palma de oro|palme d.or|oso de oro|golden bear|leon de oro|leone d.oro|golden lion|concha de oro|golden shell/.test(text))return 0;
  if(festival==='Cannes'&&/premio un certain regard|un certain regard prize|prix un certain regard/.test(text))return 0;
  if(/gran premio|grand prix|grand jury prize|jury grand prize|gran premio della giuria/.test(text))return 10;
