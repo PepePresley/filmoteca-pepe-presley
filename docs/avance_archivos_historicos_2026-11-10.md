@@ -21,7 +21,7 @@ La propiedad se declara solo cuando el título y director de la fuente coinciden
 
 Pendientes de cobertura y revisión:
 
-- Sundance 1985–2015: el archivo oficial `history.sundance.org` redirige a la página de archivo de Sundance, que comunica indisponibilidad temporal. No se integran listas parciales como ediciones completas.
+- Sundance 1985–2015: el archivo oficial sí permite consultar las páginas de cada edición desde `https://www.sundance.org/digital-archive/`. Se guardó una extracción inicial de las 31 páginas oficiales en `data/festivals/sources/sundance_archivo_oficial_1985_2015_2026_11_10.json`: 5.541 filas de programa y 746 filas de palmarés. La fuente contiene una película repetida en 2012 y tres filas de premios sin rótulo legible; requieren revisión. Falta clasificar largometrajes/secciones, limitar los cortos a premiados y verificar identidades antes de integrarlo. Sundance 1985–2015 aún no está publicado.
 - David 1956–1980: el buscador oficial no devuelve listas de candidatos; estas ediciones incluyen solo ganadores y llevan indicación de cobertura limitada.
 - César 1976–1977: cuatro filas de premios combinan títulos de varias películas bajo un mismo ID; quedan fuera de la asociación automática para no atribuir el premio a la obra equivocada.
 - Ariel: la tabla oficial contiene filas con años futuros erróneos (2027–2029); no se importan. Los premios especiales sin película identificada quedan fuera.
