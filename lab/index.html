@@ -527,7 +527,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
 
 <footer>Filmoteca Pepe Presley · Catálogo personal · Generado a partir de tu archivo Telegram</footer>
 
-<script src="../app/festival-config.js?v=17"></script>
+<script src="../app/festival-config.js?v=18"></script>
 <script>
 async function arrancarFilmoteca(){
 let catalogoCargado=false;
@@ -1058,7 +1058,7 @@ function awardCategories(fy,festival){
  const ed=awardEditionRaw(fy,festival), set=new Set();
  (ed?.films||[]).forEach(f=>(f.nominations||[]).forEach(n=>set.add(awardCategoryBase(n))));
  const order=FilmotecaFestivals.categoryOrder(festival).length?FilmotecaFestivals.categoryOrder(festival):(AWARD_CATEGORY_ORDER[festival]||[]), arr=[...set];
- return arr.sort((a,b)=>{const ia=order.indexOf(a),ib=order.indexOf(b);return (ia<0?999:ia)-(ib<0?999:ib)||a.localeCompare(b,'es')});
+ return arr.sort((a,b)=>FilmotecaFestivals.categoryRank(festival,a,order)-FilmotecaFestivals.categoryRank(festival,b,order)||a.localeCompare(b,'es'));
 }
 function rebuildAwardCategories(fy,festival){
  const cats=awardCategories(fy,festival);

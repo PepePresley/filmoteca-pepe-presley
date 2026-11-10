@@ -91,6 +91,7 @@
       "Película extranjera",
       "Película de animación",
       "Documental",
+      "César del público",
       "Fotografía",
       "Montaje",
       "Música original",
@@ -100,7 +101,9 @@
       "Efectos visuales",
       "Cortometraje de ficción",
       "Cortometraje de animación",
-      "Cortometraje documental"
+      "Cortometraje documental",
+      "Film publicitario",
+      "Affiche"
     ]
   },
   "Locarno": {
@@ -228,6 +231,37 @@
   }
 });
  const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
+ const cesarCategoryKey=value=>{
+  const s=String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/œ/g,'oe').replace(/[’']/g,' ').replace(/\s+/g,' ');
+  if(/film publicitaire/.test(s))return 'Film publicitario';
+  if(/affiche/.test(s))return 'Affiche';
+  if(/court metrage|film de court metrage/.test(s)){
+   if(/animation/.test(s))return 'Cortometraje de animación';
+   if(/documentaire/.test(s))return 'Cortometraje documental';
+   return 'Cortometraje de ficción';
+  }
+  if(/premier film|premiere oeuvre/.test(s))return 'Ópera prima';
+  if(/film.*documentaire/.test(s))return 'Documental';
+  if(/film.*animation/.test(s))return 'Película de animación';
+  if(/film.*(etranger|francophone|europe communautaire|union europeenne)/.test(s))return 'Película extranjera';
+  if(/film/.test(s)&&!/publicitaire/.test(s))return 'Película';
+  if(/realisateur/.test(s))return 'Dirección';
+  if(/actrice.*second role/.test(s))return 'Actriz de reparto';
+  if(/acteur.*second role/.test(s))return 'Actor de reparto';
+  if(/espoir.*feminin/.test(s))return 'Actriz revelación';
+  if(/espoir.*masculin/.test(s))return 'Actor revelación';
+  if(/actrice/.test(s))return 'Actriz protagonista';
+  if(/acteur/.test(s))return 'Actor protagonista';
+  if(/scenario|adaptation/.test(s))return /adaptation/.test(s)&&!/original/.test(s)?'Guion adaptado':'Guion original';
+  if(/photo/.test(s))return 'Fotografía';
+  if(/montage/.test(s))return 'Montaje';
+  if(/musique/.test(s))return 'Música original';
+  if(/son/.test(s))return 'Sonido';
+  if(/decor/.test(s))return 'Diseño de producción';
+  if(/costume/.test(s))return 'Vestuario';
+  if(s==='mejor guion adaptado')return 'Guion adaptado';
+  return value;
+ };
  let referenceRows;
  async function withReference(record){
   if(/^https?:\/\/(?:t\.me|telegram\.me)\//i.test(record.u||''))return record;
@@ -246,6 +280,12 @@
   icon:f=>config[f]?.icon||'#ico-festival',
   isAward:f=>Boolean(config[f]?.award),
   categoryOrder:f=>config[f]?.categories||[],
+  categoryRank:(f,category,fallback=[])=>{
+   const order=config[f]?.categories?.length?config[f].categories:fallback;
+   const key=f==='César'?cesarCategoryKey(category):category;
+   const rank=order.indexOf(key);
+   return rank<0?999:rank;
+  },
   fromSlug:s=>Object.keys(config).find(f=>normalize(f)===normalize(s))||null
  });
  if(root.document){
