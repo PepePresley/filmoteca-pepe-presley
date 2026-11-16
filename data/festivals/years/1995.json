@@ -5430,6 +5430,113 @@
           "sourceUrl": "https://www.filmaffinity.com/es/award-edition-movie.php?edition-id=spirit_1995&movie-id=943398"
         }
       ]
+    },
+    {
+      "festival": "Premios del Cine Europeo",
+      "year": 1995,
+      "section": "1995 · cine europeo",
+      "films": [
+        {
+          "title": "Tierra y libertad",
+          "director": "Ken Loach",
+          "award": "European Film",
+          "nominations": [
+            "European Film"
+          ],
+          "wins": [
+            "European Film"
+          ],
+          "aliases": [
+            "Land And Freedom"
+          ],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/land-and-freedom/"
+        },
+        {
+          "title": "El odio",
+          "director": "Mathieu Kassovitz",
+          "award": "Young European Film",
+          "nominations": [
+            "Young European Film"
+          ],
+          "wins": [
+            "Young European Film"
+          ],
+          "aliases": [
+            "HATE",
+            "La Haine"
+          ],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/hate/"
+        },
+        {
+          "title": "Jens Meurer",
+          "director": "",
+          "award": "European Documentary",
+          "nominations": [
+            "European Documentary"
+          ],
+          "wins": [
+            "European Documentary"
+          ],
+          "aliases": [],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/2118/"
+        },
+        {
+          "title": "To vlemma tou Odyssea",
+          "director": "Theo Angelopoulos",
+          "award": "European Critic’s Award – Prix Fipresci",
+          "nominations": [
+            "European Film",
+            "European Critic’s Award – Prix Fipresci"
+          ],
+          "wins": [
+            "European Critic’s Award – Prix Fipresci"
+          ],
+          "aliases": [
+            "Ulysses' Gaze"
+          ],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/ulysses-gaze/"
+        },
+        {
+          "title": "Besos de mariposa",
+          "director": "Michael Winterbottom",
+          "award": "Nominada",
+          "nominations": [
+            "Young European Film"
+          ],
+          "wins": [],
+          "aliases": [
+            "Butterfly Kiss"
+          ],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/butterfly-kiss/"
+        },
+        {
+          "title": "Der Totmacher",
+          "director": "Romuald Karmakar",
+          "award": "Nominada",
+          "nominations": [
+            "Young European Film"
+          ],
+          "wins": [],
+          "aliases": [
+            "The Deathmaker"
+          ],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/the-deathmaker/"
+        },
+        {
+          "title": "Tres romances en París",
+          "director": "Eric Rohmer",
+          "award": "Nominada",
+          "nominations": [
+            "European Film"
+          ],
+          "wins": [],
+          "aliases": [
+            "Rendezvous In Paris",
+            "Les rendez-vous de Paris"
+          ],
+          "sourceUrl": "https://www.europeanfilmawards.eu/efa-movie/rendezvous-in-paris/"
+        }
+      ]
     }
   ]
 }

@@ -45,4 +45,9 @@
     <path fill="currentColor" d="M12 8h40v22c0 17-10 26-20 31-10-5-20-14-20-31z"/>
     <path fill="#0b0b0c" d="m17 22 12 3-3 5-9-2zm30 0-12 3 3 5 9-2zM32 28l-4 12h8zm-11 16c7 1 15 1 22 0l-6 8H27z"/>
   </symbol>
+  <symbol id="efa" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="27" fill="none" stroke="currentColor" stroke-width="4"/>
+    <path d="M41 17H23v30h18M23 32h15" fill="none" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="47" cy="13" r="4" fill="currentColor"/>
+  </symbol>
 </svg>

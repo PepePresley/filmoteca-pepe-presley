@@ -106,6 +106,22 @@
       "Affiche"
     ]
   },
+  "Premios del Cine Europeo": {
+    "label": "Premios del Cine Europeo",
+    "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=2#efa",
+    "award": true,
+    "categories": [
+      "European Film", "European Director", "European Actress", "European Actor",
+      "European Supporting Performance of the Year", "European Screenwriter",
+      "Best Script", "European Discovery - Prix FIPRESCI", "European Documentary",
+      "European Animated Feature Film", "European Cinematographer", "European Cinematography",
+      "European Editor", "European Editing", "European Composer", "European Original Score",
+      "European Production Designer", "European Production Design", "European Costume Designer",
+      "European Costume Design", "European Sound", "European Visual Effects",
+      "LUX Audience Award", "European Young Audience Award", "European University Film Award",
+      "European Short Film"
+    ]
+  },
   "Locarno": {
     "label": "Festival de Locarno",
     "icon": "/filmoteca-pepe-presley/app/festival-icons.svg?v=1#locarno",
