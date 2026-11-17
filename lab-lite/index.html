@@ -379,7 +379,7 @@ body:not(.homeMode) .metrics,body:not(.homeMode) .quick{display:none!important}
   <div class="homeSearch"><span>⌕</span><input id="homeQ" type="text" placeholder="Busca una película, director, año…"></div>
   <div class="homeDoors">
    
-   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Sitges · Seminci · Locarno · Sundance · Oscar · Goya · BAFTA · César · Globos de Oro · David di Donatello · Ariel</span></button>
+   <button class="homeDoor" id="homeFestivals"><b>🏆 Festivales y Premios</b><span>Cannes · Venecia · Berlín · San Sebastián · Sitges · Seminci · Locarno · Sundance · Oscar · Goya · BAFTA · César · Premios del Cine Europeo · Globos de Oro · David di Donatello · Ariel</span></button>
    
   </div>
   <button class="btn appInstall" id="installApp" type="button" hidden>Instalar Filmoteca</button>
@@ -595,10 +595,10 @@ try{
    }
  }catch(_){}
  catalogoCargado=true;
- const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=efa-20261117");
+ const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=efa-titulos-20261117");
  window.__FESTIVALES__=fr.ok?await fr.json():{editions:[]};
 const DATA = window.__CATALOGO__;
-const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=locarno-historico-20261109");
+const mapResponse=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=efa-titulos-20261117");
 if(!mapResponse.ok)throw new Error('Festival match map HTTP '+mapResponse.status);
 const FESTIVAL_MATCH_MAP=(await mapResponse.json()).matches||{};
 const FESTIVAL_DB = window.__FESTIVALES__;
