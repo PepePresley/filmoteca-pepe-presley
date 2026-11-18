@@ -574,9 +574,9 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
      "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_2024_overlay.json?v=catalog-2024-20261013",
-     "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=festivales-20261027",
-     "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=festivales-20261027",
-     "/filmoteca-pepe-presley/data/catalog/annual_z_2022_2023_festivales_overlay.json?v=festivales-20261027",
+     "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=repaso-20261118",
+     "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=repaso-20261118",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_2022_2023_festivales_overlay.json?v=repaso-20261118",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2020_2021_festivales_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2018_2019_festivales_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2020_2021_overlay.json?v=20261028",
@@ -587,7 +587,7 @@ try{
      "/filmoteca-pepe-presley/data/catalog/annual_z_locarno_1946_2015_overlay.json?v=20261109",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=repaso-20261118"
    ];
    const annuals=new Array(overlays.length);
    let nextOverlay=0;
@@ -610,11 +610,11 @@ try{
  window.__FESTIVALES__={editions:[]};
  window.__FESTIVAL_MATCHES__={matches:{}};
  if(FESTIVAL_DIRECT){
-   const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=efa-edicion-2025-20261117");
+   const fr=await fetch("/filmoteca-pepe-presley/data/festivals/festivals.json?v=repaso-20261118");
    if(!fr.ok)throw new Error('Festival archive HTTP '+fr.status);
    window.__FESTIVALES__=await fr.json();
    try{
-     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=efa-edicion-2025-20261117");
+     const mr=await fetch("/filmoteca-pepe-presley/data/catalog/festival-matches.json?v=repaso-20261118");
      if(mr.ok) window.__FESTIVAL_MATCHES__=await mr.json();
    }catch(_){}
  }
@@ -916,9 +916,9 @@ async function ensureFullCatalog(){
    "/filmoteca-pepe-presley/data/catalog/annual_1995_1996_overlay.json?v=annual-1996-v2",
    "/filmoteca-pepe-presley/data/catalog/annual_1997_1999_overlay.json?v=annual-1998-v1",
      "/filmoteca-pepe-presley/data/catalog/annual_2024_overlay.json?v=catalog-2024-20261013",
-     "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=festivales-20261027",
-     "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=festivales-20261027",
-     "/filmoteca-pepe-presley/data/catalog/annual_z_2022_2023_festivales_overlay.json?v=festivales-20261027",
+     "/filmoteca-pepe-presley/data/catalog/annual_2022_2024_nuevos_festivales_overlay.json?v=repaso-20261118",
+     "/filmoteca-pepe-presley/data/catalog/annual_2024_z_nuevos_festivales_overlay.json?v=repaso-20261118",
+     "/filmoteca-pepe-presley/data/catalog/annual_z_2022_2023_festivales_overlay.json?v=repaso-20261118",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2020_2021_festivales_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2018_2019_festivales_overlay.json?v=20261028",
      "/filmoteca-pepe-presley/data/catalog/annual_z_sitges_seminci_cesar_2020_2021_overlay.json?v=20261028",
@@ -929,7 +929,7 @@ async function ensureFullCatalog(){
      "/filmoteca-pepe-presley/data/catalog/annual_z_locarno_1946_2015_overlay.json?v=20261109",
      "/filmoteca-pepe-presley/data/catalog/annual_z_2026_festivales_overlay.json?v=festivales-20261027",
      "/filmoteca-pepe-presley/data/catalog/annual_2025_nuevos_festivales_overlay.json?v=festivales-20261026",
-     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=catalog-2025-20261012"
+     "/filmoteca-pepe-presley/data/catalog/annual_2025_overlay.json?v=repaso-20261118"
  ]){
    try{
      const ar=await fetch(url);
